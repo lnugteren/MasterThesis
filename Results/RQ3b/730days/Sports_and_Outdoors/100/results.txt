@@ -1,0 +1,948 @@
+------- Category: Sports_and_Outdoors -------
+Found asin_id: B005UGIMNQ
+Shape:  (100, 7)
+
+
+Chosen product: B005UGIMNQ has 100 reviews - True, it has 100 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 97.0%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [1, 3, 6]
+		The relevance model has size: 2
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 2
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   6  perfect scope rugerr 10 22 take scope perfect ...   0.193833
+
+step 1
+index added: 7
+percentage unclustered: 97.0%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 97.0%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 96.0%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [1, 3, 6, 9]
+		The relevance model has size: 3
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 3
+			old information: 22, gain: 0.9965233881163085
+
+   ind                                             review  relevance
+0   9  pretty good scope illumination feature seems b...   0.325547
+1   6  perfect scope rugerr 10 22 take scope perfect ...   0.193833
+
+step 1
+index added: 10
+percentage unclustered: 96.0%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 96.0%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 96.0%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 95.0%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [3, 6, 9, 13]
+		The relevance model has size: 4
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 4
+			old information: 73, gain: 0.9896026207093007
+
+   ind                                             review  relevance
+0   9  pretty good scope illumination feature seems b...   0.325547
+1  13  bought scope mount century c308 7 62x51mm rifl...   0.310638
+2   6  perfect scope rugerr 10 22 take scope perfect ...   0.193833
+
+step 1
+index added: 14
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 94.0%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [3, 6, 9, 13]
+		The relevance model has size: 5
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 5
+			old information: 40, gain: 0.9766218585622443
+
+   ind                                             review  relevance
+0   9  pretty good scope illumination feature seems b...   0.325547
+1  13  bought scope mount century c308 7 62x51mm rifl...   0.310638
+2  15  re wanting great little scope ar n t want drop...   0.223671
+3   6  perfect scope rugerr 10 22 take scope perfect ...   0.193833
+
+step 1
+index added: 16
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 93.0%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [3, 6, 9, 13, 18]
+		The relevance model has size: 6
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 6
+			old information: 17, gain: 0.9855442176870748
+
+   ind                                             review  relevance
+0  18  give negative star scope scope holds zero firs...   0.358628
+1   9  pretty good scope illumination feature seems b...   0.325547
+2  13  bought scope mount century c308 7 62x51mm rifl...   0.310638
+3  15  re wanting great little scope ar n t want drop...   0.223671
+4   6  perfect scope rugerr 10 22 take scope perfect ...   0.193833
+
+step 1
+index added: 19
+percentage unclustered: 93.0%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 93.0%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 93.0%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [3, 9, 13, 18, 19, 22]
+		The relevance model has size: 8
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 8
+			old information: 257, gain: 0.9735868448098663
+
+   ind                                             review  relevance
+0  22  fantastic scope money price s like re buying q...   0.425279
+1  18  give negative star scope scope holds zero firs...   0.358628
+2   9  pretty good scope illumination feature seems b...   0.325547
+3  13  bought scope mount century c308 7 62x51mm rifl...   0.310638
+4  15  re wanting great little scope ar n t want drop...   0.223671
+5   6  perfect scope rugerr 10 22 take scope perfect ...   0.193833
+
+step 1
+index added: 23
+percentage unclustered: 89.0%
+
+	step 2
+
+		step 3
+		candidate index: 23 with core nodes: [3, 13, 18, 19, 22, 23]
+		The relevance model has size: 9
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 9
+			old information: 47, gain: 0.7965367965367965
+
+   ind                                             review  relevance
+0  22  fantastic scope money price s like re buying q...   0.425279
+1  23  exceptional scope 100 great quality compact ex...   0.405196
+2  18  give negative star scope scope holds zero firs...   0.358628
+3   9  pretty good scope illumination feature seems b...   0.325547
+4  13  bought scope mount century c308 7 62x51mm rifl...   0.310638
+5  15  re wanting great little scope ar n t want drop...   0.223671
+6   6  perfect scope rugerr 10 22 take scope perfect ...   0.193833
+
+step 1
+index added: 24
+percentage unclustered: 89.0%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 89.0%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 88.0%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [3, 13, 18, 19, 22, 23]
+
+step 1
+index added: 27
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 87.0%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [3, 9, 13, 18, 19, 22, 23, 28]
+		The relevance model has size: 10
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 10
+			old information: 539, gain: 0.9645977011494253
+
+   ind                                             review  relevance
+0  28  expectations low based price ll admit m bit sn...   0.451983
+1  22  fantastic scope money price s like re buying q...   0.425279
+2  23  exceptional scope 100 great quality compact ex...   0.405196
+3  18  give negative star scope scope holds zero firs...   0.358628
+4   9  pretty good scope illumination feature seems b...   0.325547
+5  13  bought scope mount century c308 7 62x51mm rifl...   0.310638
+6  15  re wanting great little scope ar n t want drop...   0.223671
+7   6  perfect scope rugerr 10 22 take scope perfect ...   0.193833
+
+step 1
+index added: 29
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 29 with core nodes: [12, 19, 22, 29]
+		The relevance model has size: 12
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 12
+			old information: 676, gain: 0.9623503202450571
+
+   ind                                             review  relevance
+0  29  loss positive reviews scope lot eye candy firs...   0.506619
+1  28  expectations low based price ll admit m bit sn...   0.451983
+2  22  fantastic scope money price s like re buying q...   0.425279
+3  23  exceptional scope 100 great quality compact ex...   0.405196
+4  18  give negative star scope scope holds zero firs...   0.358628
+5   9  pretty good scope illumination feature seems b...   0.325547
+6  13  bought scope mount century c308 7 62x51mm rifl...   0.310638
+7  15  re wanting great little scope ar n t want drop...   0.223671
+8   6  perfect scope rugerr 10 22 take scope perfect ...   0.193833
+
+step 1
+index added: 30
+percentage unclustered: 84.0%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [12, 19, 22, 28, 29, 30]
+		The relevance model has size: 13
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 13
+			old information: 381, gain: 0.8731268731268731
+
+   ind                                             review  relevance
+0  29  loss positive reviews scope lot eye candy firs...   0.506619
+1  30  happy scope n t cost whole lot well made easy ...   0.480965
+2  28  expectations low based price ll admit m bit sn...   0.451983
+3  22  fantastic scope money price s like re buying q...   0.425279
+4  23  exceptional scope 100 great quality compact ex...   0.405196
+5  18  give negative star scope scope holds zero firs...   0.358628
+6   9  pretty good scope illumination feature seems b...   0.325547
+7  13  bought scope mount century c308 7 62x51mm rifl...   0.310638
+8  15  re wanting great little scope ar n t want drop...   0.223671
+9   6  perfect scope rugerr 10 22 take scope perfect ...   0.193833
+
+step 1
+index added: 31
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 81.0%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [12, 19, 22, 28, 29, 30]
+
+step 1
+index added: 34
+percentage unclustered: 81.0%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 81.0%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 79.0%
+
+	step 2
+
+		step 3
+		candidate index: 39 with core nodes: [12, 19, 22, 28, 29, 30]
+
+step 1
+index added: 40
+percentage unclustered: 79.0%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 91.0%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [19, 22, 31, 41]
+		The relevance model has size: 15
+		1 reviews removed from the relevance model, indices: [1]. 
+		It now has size: 14
+			old information: 1618, gain: 0.9674904560980511
+
+    ind                                             review  relevance
+0   41  received scope yesterday immediately mounted o...   0.630553
+1   29  loss positive reviews scope lot eye candy firs...   0.506619
+2   30  happy scope n t cost whole lot well made easy ...   0.480965
+3   28  expectations low based price ll admit m bit sn...   0.451983
+4   22  fantastic scope money price s like re buying q...   0.425279
+5   23  exceptional scope 100 great quality compact ex...   0.405196
+6   18  give negative star scope scope holds zero firs...   0.358628
+7    9  pretty good scope illumination feature seems b...   0.325547
+8   13  bought scope mount century c308 7 62x51mm rifl...   0.310638
+9   15  re wanting great little scope ar n t want drop...   0.223671
+10   6  perfect scope rugerr 10 22 take scope perfect ...   0.193833
+
+step 1
+index added: 42
+percentage unclustered: 91.0%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 91.0%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 91.0%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 91.0%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 91.0%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 91.0%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 88.0%
+
+	step 2
+
+		step 3
+		candidate index: 48 with core nodes: [19, 22, 29, 41]
+
+step 1
+index added: 49
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 87.0%
+
+	step 2
+
+		step 3
+		candidate index: 50 with core nodes: [19, 41, 50]
+		The relevance model has size: 15
+		6 reviews removed from the relevance model, indices: [3, 9, 12, 15, 19, 23]. 
+		It now has size: 9
+			old information: 1047, gain: 0.9378118317890235
+
+    ind                                             review  relevance
+0   41  received scope yesterday immediately mounted o...   0.630553
+1   50  pros nno scope made usa quality seems pretty g...   0.588216
+2   29  loss positive reviews scope lot eye candy firs...   0.506619
+3   30  happy scope n t cost whole lot well made easy ...   0.480965
+4   28  expectations low based price ll admit m bit sn...   0.451983
+5   22  fantastic scope money price s like re buying q...   0.425279
+6   23  exceptional scope 100 great quality compact ex...   0.405196
+7   18  give negative star scope scope holds zero firs...   0.358628
+8    9  pretty good scope illumination feature seems b...   0.325547
+9   13  bought scope mount century c308 7 62x51mm rifl...   0.310638
+10  15  re wanting great little scope ar n t want drop...   0.223671
+11   6  perfect scope rugerr 10 22 take scope perfect ...   0.193833
+
+step 1
+index added: 51
+percentage unclustered: 84.0%
+
+	step 2
+
+		step 3
+		candidate index: 51 with core nodes: [19, 41, 50]
+		The relevance model has size: 11
+		3 reviews removed from the relevance model, indices: [6, 18, 19]. 
+		It now has size: 8
+			old information: 670, gain: 0.8363858363858364
+
+    ind                                             review  relevance
+0   41  received scope yesterday immediately mounted o...   0.630553
+1   50  pros nno scope made usa quality seems pretty g...   0.588216
+2   51  searched quite compact scope ar read several r...   0.528204
+3   29  loss positive reviews scope lot eye candy firs...   0.506619
+4   30  happy scope n t cost whole lot well made easy ...   0.480965
+5   28  expectations low based price ll admit m bit sn...   0.451983
+6   22  fantastic scope money price s like re buying q...   0.425279
+7   23  exceptional scope 100 great quality compact ex...   0.405196
+8   18  give negative star scope scope holds zero firs...   0.358628
+9    9  pretty good scope illumination feature seems b...   0.325547
+10  13  bought scope mount century c308 7 62x51mm rifl...   0.310638
+11  15  re wanting great little scope ar n t want drop...   0.223671
+12   6  perfect scope rugerr 10 22 take scope perfect ...   0.193833
+
+step 1
+index added: 52
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 83.0%
+
+	step 2
+
+		step 3
+		candidate index: 53 with core nodes: [19, 41, 50, 53]
+		The relevance model has size: 10
+		3 reviews removed from the relevance model, indices: [13, 19, 28]. 
+		It now has size: 7
+			old information: 1925, gain: 0.951067615658363
+
+    ind                                             review  relevance
+0   41  received scope yesterday immediately mounted o...   0.630553
+1   50  pros nno scope made usa quality seems pretty g...   0.588216
+2   53  read quite 370 reviews scope amazon took chanc...   0.582493
+3   51  searched quite compact scope ar read several r...   0.528204
+4   29  loss positive reviews scope lot eye candy firs...   0.506619
+5   30  happy scope n t cost whole lot well made easy ...   0.480965
+6   28  expectations low based price ll admit m bit sn...   0.451983
+7   22  fantastic scope money price s like re buying q...   0.425279
+8   23  exceptional scope 100 great quality compact ex...   0.405196
+9   18  give negative star scope scope holds zero firs...   0.358628
+10   9  pretty good scope illumination feature seems b...   0.325547
+11  13  bought scope mount century c308 7 62x51mm rifl...   0.310638
+12  15  re wanting great little scope ar n t want drop...   0.223671
+13   6  perfect scope rugerr 10 22 take scope perfect ...   0.193833
+
+step 1
+index added: 54
+percentage unclustered: 82.0%
+
+	step 2
+
+		step 3
+		candidate index: 54 with core nodes: [19, 41, 50, 53]
+
+step 1
+index added: 55
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 81.0%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 81.0%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 78.0%
+
+	step 2
+
+		step 3
+		candidate index: 61 with core nodes: [0, 41, 50, 53]
+
+step 1
+index added: 62
+percentage unclustered: 79.0%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 79.0%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 79.0%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 78.0%
+
+	step 2
+
+		step 3
+		candidate index: 65 with core nodes: [0, 41, 50, 53]
+		The relevance model has size: 9
+		3 reviews removed from the relevance model, indices: [0, 22, 30]. 
+		It now has size: 6
+			old information: 3003, gain: 0.9415303738317757
+
+    ind                                             review  relevance
+0   41  received scope yesterday immediately mounted o...   0.630553
+1   50  pros nno scope made usa quality seems pretty g...   0.588216
+2   53  read quite 370 reviews scope amazon took chanc...   0.582493
+3   51  searched quite compact scope ar read several r...   0.528204
+4   65  turned great scope especially money mounted w ...   0.515775
+5   29  loss positive reviews scope lot eye candy firs...   0.506619
+6   30  happy scope n t cost whole lot well made easy ...   0.480965
+7   28  expectations low based price ll admit m bit sn...   0.451983
+8   22  fantastic scope money price s like re buying q...   0.425279
+9   23  exceptional scope 100 great quality compact ex...   0.405196
+10  18  give negative star scope scope holds zero firs...   0.358628
+11   9  pretty good scope illumination feature seems b...   0.325547
+12  13  bought scope mount century c308 7 62x51mm rifl...   0.310638
+13  15  re wanting great little scope ar n t want drop...   0.223671
+14   6  perfect scope rugerr 10 22 take scope perfect ...   0.193833
+
+step 1
+index added: 66
+percentage unclustered: 77.0%
+
+	step 2
+
+		step 3
+		candidate index: 66 with core nodes: [0, 41, 50, 53]
+
+step 1
+index added: 67
+percentage unclustered: 76.0%
+
+	step 2
+
+		step 3
+		candidate index: 67 with core nodes: [0, 41, 50, 53]
+
+step 1
+index added: 68
+percentage unclustered: 76.0%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 76.0%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 76.0%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 76.0%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 76.0%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 72.0%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 71.0%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 71.0%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 65.0%
+
+	step 2
+
+		step 3
+		candidate index: 81 with core nodes: [0, 41, 53]
+
+step 1
+index added: 82
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 64.0%
+
+	step 2
+
+		step 3
+		candidate index: 88 with core nodes: [0, 41, 53]
+
+step 1
+index added: 89
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 63.0%
+
+	step 2
+
+		step 3
+		candidate index: 92 with core nodes: [41, 50, 71, 92]
+		The relevance model has size: 8
+		2 reviews removed from the relevance model, indices: [29, 41]. 
+		It now has size: 6
+			old information: 5188, gain: 0.9044303214515981
+
+    ind                                             review  relevance
+0   41  received scope yesterday immediately mounted o...   0.630553
+1   92  first impressions really good unlocked zero un...   0.591737
+2   50  pros nno scope made usa quality seems pretty g...   0.588216
+3   53  read quite 370 reviews scope amazon took chanc...   0.582493
+4   51  searched quite compact scope ar read several r...   0.528204
+5   65  turned great scope especially money mounted w ...   0.515775
+6   29  loss positive reviews scope lot eye candy firs...   0.506619
+7   30  happy scope n t cost whole lot well made easy ...   0.480965
+8   28  expectations low based price ll admit m bit sn...   0.451983
+9   22  fantastic scope money price s like re buying q...   0.425279
+10  23  exceptional scope 100 great quality compact ex...   0.405196
+11  18  give negative star scope scope holds zero firs...   0.358628
+12   9  pretty good scope illumination feature seems b...   0.325547
+13  13  bought scope mount century c308 7 62x51mm rifl...   0.310638
+14  15  re wanting great little scope ar n t want drop...   0.223671
+15   6  perfect scope rugerr 10 22 take scope perfect ...   0.193833
+
+step 1
+index added: 93
+percentage unclustered: 63.0%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 63.0%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 63.0%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 63.0%
+
+	step 2
+
+		step 3
+		candidate index: 96 with core nodes: [0, 53, 96]
+		The relevance model has size: 8
+		3 reviews removed from the relevance model, indices: [0, 31, 51]. 
+		It now has size: 5
+			old information: 6998, gain: 0.9462952304209356
+
+    ind                                             review  relevance
+0   41  received scope yesterday immediately mounted o...   0.630553
+1   96  well never owned utg product finally bit price...   0.606751
+2   92  first impressions really good unlocked zero un...   0.591737
+3   50  pros nno scope made usa quality seems pretty g...   0.588216
+4   53  read quite 370 reviews scope amazon took chanc...   0.582493
+5   51  searched quite compact scope ar read several r...   0.528204
+6   65  turned great scope especially money mounted w ...   0.515775
+7   29  loss positive reviews scope lot eye candy firs...   0.506619
+8   30  happy scope n t cost whole lot well made easy ...   0.480965
+9   28  expectations low based price ll admit m bit sn...   0.451983
+10  22  fantastic scope money price s like re buying q...   0.425279
+11  23  exceptional scope 100 great quality compact ex...   0.405196
+12  18  give negative star scope scope holds zero firs...   0.358628
+13   9  pretty good scope illumination feature seems b...   0.325547
+14  13  bought scope mount century c308 7 62x51mm rifl...   0.310638
+15  15  re wanting great little scope ar n t want drop...   0.223671
+16   6  perfect scope rugerr 10 22 take scope perfect ...   0.193833
+
+step 1
+index added: 97
+percentage unclustered: 63.0%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 63.0%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 62.0%
+
+	step 2
+
+--- 250.77644681930542 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 97.0, 97.0, 97.0, 96.0, 96.0, 96.0, 96.0, 95.0, 95.0, 94.0, 94.0, 94.0, 93.0, 93.0, 93.0, 93.0, 90.0, 89.0, 89.0, 89.0, 88.0, 88.0, 87.0, 85.0, 84.0, 84.0, 84.0, 81.0, 81.0, 81.0, 80.0, 80.0, 80.0, 79.0, 79.0, 91.0, 91.0, 91.0, 91.0, 91.0, 91.0, 91.0, 88.0, 88.0, 87.0, 84.0, 84.0, 83.0, 82.0, 82.0, 82.0, 82.0, 82.0, 81.0, 81.0, 78.0, 79.0, 79.0, 79.0, 78.0, 77.0, 76.0, 76.0, 76.0, 75.0, 75.0, 76.0, 76.0, 76.0, 72.0, 71.0, 71.0, 68.0, 68.0, 66.0, 65.0, 65.0, 65.0, 65.0, 65.0, 65.0, 65.0, 64.0, 64.0, 64.0, 64.0, 63.0, 63.0, 63.0, 63.0, 63.0, 63.0, 63.0, 62.0], mean: 81.0816
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        79  41   0.630553  received scope yesterday immediately mounted o...
+1         2  96   0.606751  well never owned utg product finally bit price...
+2        99  92   0.591737  first impressions really good unlocked zero un...
+3        19  50   0.588216  pros nno scope made usa quality seems pretty g...
+4         7  53   0.582493  read quite 370 reviews scope amazon took chanc...
+5        89  51   0.528204  searched quite compact scope ar read several r...
+6        29  65   0.515775  turned great scope especially money mounted w ...
+7        59  29   0.506619  loss positive reviews scope lot eye candy firs...
+8        17  30   0.480965  happy scope n t cost whole lot well made easy ...
+9        25  28   0.451983  expectations low based price ll admit m bit sn...
+10       61  22   0.425279  fantastic scope money price s like re buying q...
+11       38  23   0.405196  exceptional scope 100 great quality compact ex...
+12       47  18   0.358628  give negative star scope scope holds zero firs...
+13       34   9   0.325547  pretty good scope illumination feature seems b...
+14       54  13   0.310638  bought scope mount century c308 7 62x51mm rifl...
+15       44  15   0.223671  re wanting great little scope ar n t want drop...
+16       13   6   0.193833  perfect scope rugerr 10 22 take scope perfect ...
