@@ -1,0 +1,1131 @@
+------- Category: Electronics -------
+Found asin_id: B00006IS4X
+Shape:  (140, 7)
+
+Readability scores: [6.234831460674172, -23.244146341463377, -160.4021428571428, -61.05115384615381, -111.0388732394366, -44.31167938931294, -122.75149321266964, -35.980236220472435, -93.79499999999999, 50.232857142857156, -614.4754011461317, -207.55762214983707, 25.188208955223885, -151.51746835443035, 58.03000000000002, 22.831842105263192, 54.104545454545466, -116.99661971830983, 52.05, -10.949545454545444, -48.62499999999997, -18.41363636363633, -1.7478260869565077, -531.2169354838709, -337.7753775743706, -178.72153846153844, -199.7060489510489, -331.17949760765543, 22.10597402597405, -56.80218543046355, -54.95032467532464, 2.329350649350687, -239.95009345794386, -103.94409090909086, -191.29831125827812, -7.873181818181806, -282.90992125984246, 76.55500000000002, -402.1530538922155, 67.34842105263161, -142.65041841004182, -193.18979381443293, -1026.2511764705882, -3.8349999999999795, -33.40499999999996, -573.9335294117647, -846.5249784017277, 47.95804347826089, 26.8994827586207, -5.8845454545454245, -37.31251968503936, 46.105000000000025, 61.52000000000001, -38.99961538461537, -139.7545851528384, -66.56582822085888, -33.1835714285714, -26.069999999999965, 21.372692307692333, -537.5474203821656, -55.44365671641789, 60.363333333333344, -169.40641509433956, -225.38682926829262, -488.2772614840988, -292.6944897959183, 7.631923076923108, 34.695789473684236, 45.49166666666668, -21.70913043478258, -122.60913043478259, -51.44699999999996, -45.8492857142857, -27.051258741258707, -371.515948275862, -223.25846153846146, -323.6281707317073, -192.83485915492957, -393.54974522292986, -321.571119402985, -622.9020224719101, 10.987640449438231, -234.93012195121946, -173.338897338403, -126.60506437768237, -161.1794023904382, -404.415172413793, -1874.5157476635513, -176.25310218978098, -36.29533834586462, -15.46019801980195, 45.54195121951223, -220.2763157894736, -22.440810810810774, -34.1926605504587, -42.58669064748199, 30.75643835616441, -3.051666666666634, -233.87099999999992, 20.32630136986303, -704.0642307692307, -450.5337793851717, 76.82043478260871, -107.63382352941171, -4.326707317073144, 33.07424657534247, 19.04000000000002, -187.52210526315787, -63.76999999999995, 61.52000000000001, 28.128481012658256, -103.55703517587938, 29.576764705882383, -13.35035714285712, -179.34131868131863, 66.20870967741936, -98.20715025906732, -192.65188153310098, -138.1744957983193, -83.53499999999997, -799.4796469248291, -150.61567226890753, -76.56157894736837, 7.925000000000026, 8.487582417582445, -64.6019879518072, -96.51134328358206, -6.950776699029106, 17.238023255813985, 95.02705882352943, -114.68382352941173, -439.4882797731568, 44.60000000000002, -65.90999999999995, -349.75136674259676, -125.4311312217194, -281.92191374663065, -28.812442748091556, 48.73409090909094, 10.035970149253757], on average: -140.2807
+Readability scores after: [6.234831460674172, -23.244146341463377, -160.4021428571428, -61.05115384615381, -111.0388732394366, -44.31167938931294, -122.75149321266964, -35.980236220472435, -93.79499999999999, -614.4754011461317, -207.55762214983707, 25.188208955223885, -151.51746835443035, 22.831842105263192, -116.99661971830983, -10.949545454545444, -48.62499999999997, -18.41363636363633, -1.7478260869565077, -531.2169354838709, -337.7753775743706, -178.72153846153844, -199.7060489510489, -331.17949760765543, 22.10597402597405, -56.80218543046355, -54.95032467532464, 2.329350649350687, -239.95009345794386, -103.94409090909086, -191.29831125827812, -7.873181818181806, -282.90992125984246, -402.1530538922155, -142.65041841004182, -193.18979381443293, -1026.2511764705882, -3.8349999999999795, -33.40499999999996, -573.9335294117647, -846.5249784017277, 47.95804347826089, 26.8994827586207, -5.8845454545454245, -37.31251968503936, 46.105000000000025, -38.99961538461537, -139.7545851528384, -66.56582822085888, -33.1835714285714, -26.069999999999965, 21.372692307692333, -537.5474203821656, -55.44365671641789, -169.40641509433956, -225.38682926829262, -488.2772614840988, -292.6944897959183, 7.631923076923108, 34.695789473684236, 45.49166666666668, -21.70913043478258, -122.60913043478259, -51.44699999999996, -45.8492857142857, -27.051258741258707, -371.515948275862, -223.25846153846146, -323.6281707317073, -192.83485915492957, -393.54974522292986, -321.571119402985, -622.9020224719101, 10.987640449438231, -234.93012195121946, -173.338897338403, -126.60506437768237, -161.1794023904382, -404.415172413793, -1874.5157476635513, -176.25310218978098, -36.29533834586462, -15.46019801980195, 45.54195121951223, -220.2763157894736, -22.440810810810774, -34.1926605504587, -42.58669064748199, 30.75643835616441, -3.051666666666634, -233.87099999999992, 20.32630136986303, -704.0642307692307, -450.5337793851717, -107.63382352941171, -4.326707317073144, 33.07424657534247, 19.04000000000002, -187.52210526315787, -63.76999999999995, 28.128481012658256, -103.55703517587938, 29.576764705882383, -13.35035714285712, -179.34131868131863, -98.20715025906732, -192.65188153310098, -138.1744957983193, -83.53499999999997, -799.4796469248291, -150.61567226890753, -76.56157894736837, 7.925000000000026, 8.487582417582445, -64.6019879518072, -96.51134328358206, -6.950776699029106, 17.238023255813985, -114.68382352941173, -439.4882797731568, 44.60000000000002, -65.90999999999995, -349.75136674259676, -125.4311312217194, -281.92191374663065, -28.812442748091556, 48.73409090909094, 10.035970149253757], on average after: -159.5241
+Shape after:  (128, 8)
+
+
+Chosen product: B00006IS4X has 140 reviews - False, it has 128 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 97.6562%
+
+	step 2
+
+		step 3
+		candidate index: 2 with core nodes: [0, 1, 2]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   2  recently gotten shortwave listening radio perf...   0.324821
+
+step 1
+index added: 3
+percentage unclustered: 97.6562%
+
+	step 2
+
+step 1
+index added: 4
+percentage unclustered: 97.6562%
+
+	step 2
+
+step 1
+index added: 5
+percentage unclustered: 97.6562%
+
+	step 2
+
+step 1
+index added: 6
+percentage unclustered: 96.875%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [0, 1, 2, 6]
+			old information: 93, gain: 0.9839044652128764
+
+   ind                                             review  relevance
+0   2  recently gotten shortwave listening radio perf...   0.324821
+1   6  fairly new sw radios bought grunding s350 anno...   0.209352
+
+step 1
+index added: 7
+percentage unclustered: 96.0938%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [0, 1, 2, 6, 7]
+			old information: 89, gain: 0.9597467209407508
+
+   ind                                             review  relevance
+0   2  recently gotten shortwave listening radio perf...   0.324821
+1   7  bought radio trying several grundig portables ...   0.235764
+2   6  fairly new sw radios bought grunding s350 anno...   0.209352
+
+step 1
+index added: 8
+percentage unclustered: 96.0938%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 95.3125%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [0, 1, 2, 9]
+			old information: 707, gain: 0.9919265510271665
+
+   ind                                             review  relevance
+0   9  main reason ordering 7600gr vs tecsun pl 660 p...   0.486760
+1   2  recently gotten shortwave listening radio perf...   0.324821
+2   7  bought radio trying several grundig portables ...   0.235764
+3   6  fairly new sw radios bought grunding s350 anno...   0.209352
+
+step 1
+index added: 10
+percentage unclustered: 95.3125%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 94.5312%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [0, 1, 9]
+
+step 1
+index added: 12
+percentage unclustered: 93.75%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 93.75%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 92.9688%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [0, 1, 9, 14]
+			old information: 441, gain: 0.9277641277641278
+
+   ind                                             review  relevance
+0   9  main reason ordering 7600gr vs tecsun pl 660 p...   0.486760
+1  14  see years radio production still receives high...   0.415211
+2   2  recently gotten shortwave listening radio perf...   0.324821
+3   7  bought radio trying several grundig portables ...   0.235764
+4   6  fairly new sw radios bought grunding s350 anno...   0.209352
+
+step 1
+index added: 15
+percentage unclustered: 92.9688%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 91.4062%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [0, 1, 9, 10]
+
+step 1
+index added: 17
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 90.625%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [1, 9, 10, 20]
+			old information: 1849, gain: 0.9365933952882274
+
+   ind                                             review  relevance
+0  20  edited december 5 2014 n ndead three months so...   0.594566
+1   9  main reason ordering 7600gr vs tecsun pl 660 p...   0.486760
+2  14  see years radio production still receives high...   0.415211
+3   2  recently gotten shortwave listening radio perf...   0.324821
+4   7  bought radio trying several grundig portables ...   0.235764
+5   6  fairly new sw radios bought grunding s350 anno...   0.209352
+
+step 1
+index added: 21
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 91.4062%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 91.4062%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 91.4062%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 90.625%
+
+	step 2
+
+		step 3
+		candidate index: 29 with core nodes: [0, 1, 9, 10]
+			old information: 533, gain: 0.9060130488450009
+
+   ind                                             review  relevance
+0  20  edited december 5 2014 n ndead three months so...   0.594566
+1   9  main reason ordering 7600gr vs tecsun pl 660 p...   0.486760
+2  14  see years radio production still receives high...   0.415211
+3  29  n t buy unless want world band radio spades re...   0.390338
+4   2  recently gotten shortwave listening radio perf...   0.324821
+5   7  bought radio trying several grundig portables ...   0.235764
+6   6  fairly new sw radios bought grunding s350 anno...   0.209352
+
+step 1
+index added: 30
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 87.5%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [9, 10, 20, 32]
+			old information: 1585, gain: 0.9353878765643472
+
+   ind                                             review  relevance
+0  32  quality radio ssb great listening ham transmis...   0.622380
+1  20  edited december 5 2014 n ndead three months so...   0.594566
+2   9  main reason ordering 7600gr vs tecsun pl 660 p...   0.486760
+3  14  see years radio production still receives high...   0.415211
+4  29  n t buy unless want world band radio spades re...   0.390338
+5   2  recently gotten shortwave listening radio perf...   0.324821
+6   7  bought radio trying several grundig portables ...   0.235764
+7   6  fairly new sw radios bought grunding s350 anno...   0.209352
+
+step 1
+index added: 33
+percentage unclustered: 85.1562%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [9, 20, 32, 33]
+			old information: 2257, gain: 0.9434378367541287
+
+   ind                                             review  relevance
+0  32  quality radio ssb great listening ham transmis...   0.622380
+1  20  edited december 5 2014 n ndead three months so...   0.594566
+2  33  m sad tecsun pl 660 sangean cl 100 radios comp...   0.524440
+3   9  main reason ordering 7600gr vs tecsun pl 660 p...   0.486760
+4  14  see years radio production still receives high...   0.415211
+5  29  n t buy unless want world band radio spades re...   0.390338
+6   2  recently gotten shortwave listening radio perf...   0.324821
+7   7  bought radio trying several grundig portables ...   0.235764
+8   6  fairly new sw radios bought grunding s350 anno...   0.209352
+
+step 1
+index added: 34
+percentage unclustered: 85.1562%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 88.2812%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 88.2812%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 88.2812%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 84.375%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 84.375%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 83.5938%
+
+	step 2
+
+		step 3
+		candidate index: 40 with core nodes: [9, 20, 32, 33]
+			old information: 4769, gain: 0.9597012024573056
+
+   ind                                             review  relevance
+0  32  quality radio ssb great listening ham transmis...   0.622380
+1  20  edited december 5 2014 n ndead three months so...   0.594566
+2  40  first good points focus d buy knowing know s d...   0.564030
+3  33  m sad tecsun pl 660 sangean cl 100 radios comp...   0.524440
+4   9  main reason ordering 7600gr vs tecsun pl 660 p...   0.486760
+5  14  see years radio production still receives high...   0.415211
+6  29  n t buy unless want world band radio spades re...   0.390338
+7   2  recently gotten shortwave listening radio perf...   0.324821
+8   7  bought radio trying several grundig portables ...   0.235764
+9   6  fairly new sw radios bought grunding s350 anno...   0.209352
+
+step 1
+index added: 41
+percentage unclustered: 84.375%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 83.5938%
+
+	step 2
+
+		step 3
+		candidate index: 42 with core nodes: [9, 20, 32, 33]
+
+step 1
+index added: 43
+percentage unclustered: 84.375%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 82.0312%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 84.375%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 83.5938%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [38, 45, 46]
+			old information: 315, gain: 0.8485576923076923
+
+    ind                                             review  relevance
+0   32  quality radio ssb great listening ham transmis...   0.622380
+1   20  edited december 5 2014 n ndead three months so...   0.594566
+2   40  first good points focus d buy knowing know s d...   0.564030
+3   33  m sad tecsun pl 660 sangean cl 100 radios comp...   0.524440
+4    9  main reason ordering 7600gr vs tecsun pl 660 p...   0.486760
+5   46  nice little radio ham radio operator built rad...   0.429402
+6   14  see years radio production still receives high...   0.415211
+7   29  n t buy unless want world band radio spades re...   0.390338
+8    2  recently gotten shortwave listening radio perf...   0.324821
+9    7  bought radio trying several grundig portables ...   0.235764
+10   6  fairly new sw radios bought grunding s350 anno...   0.209352
+
+step 1
+index added: 47
+percentage unclustered: 82.0312%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [9, 20, 32, 33]
+
+step 1
+index added: 48
+percentage unclustered: 82.0312%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 81.25%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 78.125%
+
+	step 2
+
+		step 3
+		candidate index: 50 with core nodes: [9, 20, 32, 33]
+
+step 1
+index added: 51
+percentage unclustered: 78.125%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 78.125%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 78.125%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 78.125%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 78.125%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 78.125%
+
+	step 2
+
+		step 3
+		candidate index: 56 with core nodes: [9, 20, 32, 33]
+
+step 1
+index added: 57
+percentage unclustered: 77.3438%
+
+	step 2
+
+		step 3
+		candidate index: 57 with core nodes: [9, 20, 32]
+			old information: 2321, gain: 0.9009643283836832
+
+    ind                                             review  relevance
+0   57  anyone considering sony icf sw7600gr world ban...   0.680047
+1   32  quality radio ssb great listening ham transmis...   0.622380
+2   20  edited december 5 2014 n ndead three months so...   0.594566
+3   40  first good points focus d buy knowing know s d...   0.564030
+4   33  m sad tecsun pl 660 sangean cl 100 radios comp...   0.524440
+5    9  main reason ordering 7600gr vs tecsun pl 660 p...   0.486760
+6   46  nice little radio ham radio operator built rad...   0.429402
+7   14  see years radio production still receives high...   0.415211
+8   29  n t buy unless want world band radio spades re...   0.390338
+9    2  recently gotten shortwave listening radio perf...   0.324821
+10   7  bought radio trying several grundig portables ...   0.235764
+11   6  fairly new sw radios bought grunding s350 anno...   0.209352
+
+step 1
+index added: 58
+percentage unclustered: 76.5625%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 76.5625%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 74.2188%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 74.2188%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 74.2188%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 74.2188%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 73.4375%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 73.4375%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 74.2188%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 74.2188%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 73.4375%
+
+	step 2
+
+		step 3
+		candidate index: 68 with core nodes: [9, 20, 32, 57, 68]
+			old information: 2833, gain: 0.8924245300930321
+
+    ind                                             review  relevance
+0   57  anyone considering sony icf sw7600gr world ban...   0.680047
+1   68  stellar product appears sony s swansong shortw...   0.645827
+2   32  quality radio ssb great listening ham transmis...   0.622380
+3   20  edited december 5 2014 n ndead three months so...   0.594566
+4   40  first good points focus d buy knowing know s d...   0.564030
+5   33  m sad tecsun pl 660 sangean cl 100 radios comp...   0.524440
+6    9  main reason ordering 7600gr vs tecsun pl 660 p...   0.486760
+7   46  nice little radio ham radio operator built rad...   0.429402
+8   14  see years radio production still receives high...   0.415211
+9   29  n t buy unless want world band radio spades re...   0.390338
+10   2  recently gotten shortwave listening radio perf...   0.324821
+11   7  bought radio trying several grundig portables ...   0.235764
+12   6  fairly new sw radios bought grunding s350 anno...   0.209352
+
+step 1
+index added: 69
+percentage unclustered: 73.4375%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 73.4375%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 74.2188%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 74.2188%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 74.2188%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 74.2188%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 73.4375%
+
+	step 2
+
+		step 3
+		candidate index: 75 with core nodes: [20, 32, 57, 68]
+
+step 1
+index added: 76
+percentage unclustered: 72.6562%
+
+	step 2
+
+		step 3
+		candidate index: 76 with core nodes: [32, 67, 76]
+			old information: 1773, gain: 0.8096822670674109
+
+    ind                                             review  relevance
+0   57  anyone considering sony icf sw7600gr world ban...   0.680047
+1   68  stellar product appears sony s swansong shortw...   0.645827
+2   32  quality radio ssb great listening ham transmis...   0.622380
+3   76  ve many short wave radios years recently bough...   0.614774
+4   20  edited december 5 2014 n ndead three months so...   0.594566
+5   40  first good points focus d buy knowing know s d...   0.564030
+6   33  m sad tecsun pl 660 sangean cl 100 radios comp...   0.524440
+7    9  main reason ordering 7600gr vs tecsun pl 660 p...   0.486760
+8   46  nice little radio ham radio operator built rad...   0.429402
+9   14  see years radio production still receives high...   0.415211
+10  29  n t buy unless want world band radio spades re...   0.390338
+11   2  recently gotten shortwave listening radio perf...   0.324821
+12   7  bought radio trying several grundig portables ...   0.235764
+13   6  fairly new sw radios bought grunding s350 anno...   0.209352
+
+step 1
+index added: 77
+percentage unclustered: 72.6562%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 72.6562%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 71.875%
+
+	step 2
+
+		step 3
+		candidate index: 79 with core nodes: [57, 68, 79]
+			old information: 17039, gain: 0.9782423262667821
+
+    ind                                             review  relevance
+0   79  want am fm shortwave plus longwave radio super...   0.690878
+1   57  anyone considering sony icf sw7600gr world ban...   0.680047
+2   68  stellar product appears sony s swansong shortw...   0.645827
+3   32  quality radio ssb great listening ham transmis...   0.622380
+4   76  ve many short wave radios years recently bough...   0.614774
+5   20  edited december 5 2014 n ndead three months so...   0.594566
+6   40  first good points focus d buy knowing know s d...   0.564030
+7   33  m sad tecsun pl 660 sangean cl 100 radios comp...   0.524440
+8    9  main reason ordering 7600gr vs tecsun pl 660 p...   0.486760
+9   46  nice little radio ham radio operator built rad...   0.429402
+10  14  see years radio production still receives high...   0.415211
+11  29  n t buy unless want world band radio spades re...   0.390338
+12   2  recently gotten shortwave listening radio perf...   0.324821
+13   7  bought radio trying several grundig portables ...   0.235764
+14   6  fairly new sw radios bought grunding s350 anno...   0.209352
+
+step 1
+index added: 80
+percentage unclustered: 71.0938%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 70.3125%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 67.9688%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 67.9688%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 67.1875%
+
+	step 2
+
+		step 3
+		candidate index: 84 with core nodes: [32, 67, 76, 84]
+			old information: 4244, gain: 0.8137861436531965
+
+    ind                                             review  relevance
+0   84  overall give 4 5 stars reading many favorable ...   0.700127
+1   79  want am fm shortwave plus longwave radio super...   0.690878
+2   57  anyone considering sony icf sw7600gr world ban...   0.680047
+3   68  stellar product appears sony s swansong shortw...   0.645827
+4   32  quality radio ssb great listening ham transmis...   0.622380
+5   76  ve many short wave radios years recently bough...   0.614774
+6   20  edited december 5 2014 n ndead three months so...   0.594566
+7   40  first good points focus d buy knowing know s d...   0.564030
+8   33  m sad tecsun pl 660 sangean cl 100 radios comp...   0.524440
+9    9  main reason ordering 7600gr vs tecsun pl 660 p...   0.486760
+10  46  nice little radio ham radio operator built rad...   0.429402
+11  14  see years radio production still receives high...   0.415211
+12  29  n t buy unless want world band radio spades re...   0.390338
+13   2  recently gotten shortwave listening radio perf...   0.324821
+14   7  bought radio trying several grundig portables ...   0.235764
+15   6  fairly new sw radios bought grunding s350 anno...   0.209352
+
+step 1
+index added: 85
+percentage unclustered: 67.9688%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 67.9688%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 67.9688%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 67.9688%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 67.9688%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 67.1875%
+
+	step 2
+
+		step 3
+		candidate index: 90 with core nodes: [32, 67, 76]
+
+step 1
+index added: 91
+percentage unclustered: 67.1875%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 66.4062%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 66.4062%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 64.0625%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 63.2812%
+
+	step 2
+
+		step 3
+		candidate index: 95 with core nodes: [45, 46, 95]
+			old information: 340, gain: 0.6985815602836879
+
+    ind                                             review  relevance
+0   84  overall give 4 5 stars reading many favorable ...   0.700127
+1   79  want am fm shortwave plus longwave radio super...   0.690878
+2   57  anyone considering sony icf sw7600gr world ban...   0.680047
+3   68  stellar product appears sony s swansong shortw...   0.645827
+4   32  quality radio ssb great listening ham transmis...   0.622380
+5   76  ve many short wave radios years recently bough...   0.614774
+6   20  edited december 5 2014 n ndead three months so...   0.594566
+7   40  first good points focus d buy knowing know s d...   0.564030
+8   33  m sad tecsun pl 660 sangean cl 100 radios comp...   0.524440
+9    9  main reason ordering 7600gr vs tecsun pl 660 p...   0.486760
+10  46  nice little radio ham radio operator built rad...   0.429402
+11  14  see years radio production still receives high...   0.415211
+12  29  n t buy unless want world band radio spades re...   0.390338
+13   2  recently gotten shortwave listening radio perf...   0.324821
+14  95  overall highly recommend radio want tune exoti...   0.309164
+15   7  bought radio trying several grundig portables ...   0.235764
+16   6  fairly new sw radios bought grunding s350 anno...   0.209352
+
+step 1
+index added: 96
+percentage unclustered: 62.5%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 62.5%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 61.7188%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 60.9375%
+
+	step 2
+
+		step 3
+		candidate index: 99 with core nodes: [45, 46, 99]
+			old information: 769, gain: 0.7371838687628162
+
+    ind                                             review  relevance
+0   84  overall give 4 5 stars reading many favorable ...   0.700127
+1   79  want am fm shortwave plus longwave radio super...   0.690878
+2   57  anyone considering sony icf sw7600gr world ban...   0.680047
+3   68  stellar product appears sony s swansong shortw...   0.645827
+4   32  quality radio ssb great listening ham transmis...   0.622380
+5   76  ve many short wave radios years recently bough...   0.614774
+6   20  edited december 5 2014 n ndead three months so...   0.594566
+7   40  first good points focus d buy knowing know s d...   0.564030
+8   33  m sad tecsun pl 660 sangean cl 100 radios comp...   0.524440
+9    9  main reason ordering 7600gr vs tecsun pl 660 p...   0.486760
+10  99  radio additional controls sides radio aid tuni...   0.443446
+11  46  nice little radio ham radio operator built rad...   0.429402
+12  14  see years radio production still receives high...   0.415211
+13  29  n t buy unless want world band radio spades re...   0.390338
+14   2  recently gotten shortwave listening radio perf...   0.324821
+15  95  overall highly recommend radio want tune exoti...   0.309164
+16   7  bought radio trying several grundig portables ...   0.235764
+17   6  fairly new sw radios bought grunding s350 anno...   0.209352
+
+step 1
+index added: 100
+percentage unclustered: 60.9375%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 60.1562%
+
+	step 2
+
+		step 3
+		candidate index: 101 with core nodes: [32, 67, 76]
+
+step 1
+index added: 102
+percentage unclustered: 60.1562%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 59.375%
+
+	step 2
+
+		step 3
+		candidate index: 103 with core nodes: [45, 46, 99, 103]
+			old information: 534, gain: 0.6268343815513627
+
+     ind                                             review  relevance
+0    84  overall give 4 5 stars reading many favorable ...   0.700127
+1    79  want am fm shortwave plus longwave radio super...   0.690878
+2    57  anyone considering sony icf sw7600gr world ban...   0.680047
+3    68  stellar product appears sony s swansong shortw...   0.645827
+4    32  quality radio ssb great listening ham transmis...   0.622380
+5    76  ve many short wave radios years recently bough...   0.614774
+6    20  edited december 5 2014 n ndead three months so...   0.594566
+7    40  first good points focus d buy knowing know s d...   0.564030
+8    33  m sad tecsun pl 660 sangean cl 100 radios comp...   0.524440
+9     9  main reason ordering 7600gr vs tecsun pl 660 p...   0.486760
+10  103  best sw radio buy 150 lack features would made...   0.484308
+11   99  radio additional controls sides radio aid tuni...   0.443446
+12   46  nice little radio ham radio operator built rad...   0.429402
+13   14  see years radio production still receives high...   0.415211
+14   29  n t buy unless want world band radio spades re...   0.390338
+15    2  recently gotten shortwave listening radio perf...   0.324821
+16   95  overall highly recommend radio want tune exoti...   0.309164
+17    7  bought radio trying several grundig portables ...   0.235764
+18    6  fairly new sw radios bought grunding s350 anno...   0.209352
+
+step 1
+index added: 104
+percentage unclustered: 58.5938%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 57.8125%
+
+	step 2
+
+		step 3
+		candidate index: 105 with core nodes: [45, 46, 99, 103]
+
+step 1
+index added: 106
+percentage unclustered: 57.8125%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 57.8125%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 57.8125%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 57.8125%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 57.8125%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 57.0312%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 56.25%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 55.4688%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 55.4688%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 55.4688%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 60.1562%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 60.1562%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 59.375%
+
+	step 2
+
+		step 3
+		candidate index: 118 with core nodes: [57, 79, 80]
+
+step 1
+index added: 119
+percentage unclustered: 59.375%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 57.0312%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 57.0312%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 57.0312%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 57.0312%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 57.0312%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 54.6875%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 54.6875%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 53.9062%
+
+	step 2
+
+--- 1754.0068500041962 seconds ---
+
+
+ Unclustered percentages: [97.6562, 97.6562, 97.6562, 97.6562, 96.875, 96.0938, 96.0938, 95.3125, 95.3125, 94.5312, 93.75, 93.75, 92.9688, 92.9688, 91.4062, 90.625, 90.625, 90.625, 90.625, 90.625, 90.625, 90.625, 90.625, 90.625, 91.4062, 91.4062, 91.4062, 90.625, 90.625, 90.625, 87.5, 85.1562, 85.1562, 88.2812, 88.2812, 88.2812, 84.375, 84.375, 83.5938, 84.375, 83.5938, 84.375, 82.0312, 84.375, 83.5938, 82.0312, 82.0312, 81.25, 78.125, 78.125, 78.125, 78.125, 78.125, 78.125, 78.125, 77.3438, 76.5625, 76.5625, 74.2188, 74.2188, 74.2188, 74.2188, 73.4375, 73.4375, 74.2188, 74.2188, 73.4375, 73.4375, 73.4375, 74.2188, 74.2188, 74.2188, 74.2188, 73.4375, 72.6562, 72.6562, 72.6562, 71.875, 71.0938, 70.3125, 67.9688, 67.9688, 67.1875, 67.9688, 67.9688, 67.9688, 67.9688, 67.9688, 67.1875, 67.1875, 66.4062, 66.4062, 64.0625, 63.2812, 62.5, 62.5, 61.7188, 60.9375, 60.9375, 60.1562, 60.1562, 59.375, 58.5938, 57.8125, 57.8125, 57.8125, 57.8125, 57.8125, 57.8125, 57.0312, 56.25, 55.4688, 55.4688, 55.4688, 60.1562, 60.1562, 59.375, 59.375, 57.0312, 57.0312, 57.0312, 57.0312, 57.0312, 54.6875, 54.6875, 53.9062], mean: 75.4278
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0       122   84   0.700127  overall give 4 5 stars reading many favorable ...
+1        14   79   0.690878  want am fm shortwave plus longwave radio super...
+2        19   57   0.680047  anyone considering sony icf sw7600gr world ban...
+3        57   68   0.645827  stellar product appears sony s swansong shortw...
+4        78   32   0.622380  quality radio ssb great listening ham transmis...
+5       119   76   0.614774  ve many short wave radios years recently bough...
+6        10   20   0.594566  edited december 5 2014 n ndead three months so...
+7         9   40   0.564030  first good points focus d buy knowing know s d...
+8        30   33   0.524440  m sad tecsun pl 660 sangean cl 100 radios comp...
+9        29    9   0.486760  main reason ordering 7600gr vs tecsun pl 660 p...
+10       41  103   0.484308  best sw radio buy 150 lack features would made...
+11      126   99   0.443446  radio additional controls sides radio aid tuni...
+12       39   46   0.429402  nice little radio ham radio operator built rad...
+13       62   14   0.415211  see years radio production still receives high...
+14       91   29   0.390338  n t buy unless want world band radio spades re...
+15       36    2   0.324821  recently gotten shortwave listening radio perf...
+16      124   95   0.309164  overall highly recommend radio want tune exoti...
+17        6    7   0.235764  bought radio trying several grundig portables ...
+18        1    6   0.209352  fairly new sw radios bought grunding s350 anno...

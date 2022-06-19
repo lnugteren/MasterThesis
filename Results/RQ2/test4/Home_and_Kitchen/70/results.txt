@@ -1,0 +1,489 @@
+------- Category: Home_and_Kitchen -------
+Found asin_id: B0002HDWNS
+Shape:  (70, 7)
+
+Readability scores: [-164.49478764478764, -302.77421182266005, -83.37459459459457, -264.6563186813186, -94.16102409638549, 2.967524752475285, -208.11938906752408, 48.09500000000002, -87.13126373626372, -37.80319999999996, -923.4129203539821, -52.91653846153842, -520.6109238249594, -78.31847826086954, -46.07999999999997, -47.52999999999997, -56.17641509433959, -16.333181818181785, -197.59514851485142, -290.4630232558139, 53.65692307692311, -135.91419999999997, -92.9778378378378, -141.08338709677417, -267.89024390243895, 5.996818181818213, 2.123000000000033, -386.50433884297513, -93.35716577540104, -46.93499999999996, 20.63227848101269, -224.90277777777771, -8.579816513761429, -80.02473684210523, -61.301575342465725, -25.260660377358448, -70.5438372093023, -136.80999999999995, -121.31911764705879, -21.831818181818136, -198.99118811881183, -205.90420195439737, 28.90434782608699, 28.90434782608699, -19.448684210526295, -84.90602040816322, -80.52828571428567, -65.37499999999997, 22.000000000000014, -218.25684049079752, -548.8836671802773, -52.846979865771786, 23.6347457627119, -70.06640718562872, 8.825000000000017, 15.740449438202262, -1.5127835051546157, -98.10799999999996, 19.561392405063316, -156.9820463320463, 39.34200000000003, -10.981538461538449, 19.205465116279086, 56.961224489795946, 1.0014285714286046, -126.06799999999996, 52.48241935483874, 31.240000000000038, -467.9906951871657, -119.68179245283017], on average: -106.1778
+Readability scores after: [-164.49478764478764, -302.77421182266005, -83.37459459459457, -264.6563186813186, -94.16102409638549, 2.967524752475285, -208.11938906752408, 48.09500000000002, -87.13126373626372, -37.80319999999996, -923.4129203539821, -52.91653846153842, -520.6109238249594, -78.31847826086954, -46.07999999999997, -47.52999999999997, -56.17641509433959, -16.333181818181785, -197.59514851485142, -290.4630232558139, -135.91419999999997, -92.9778378378378, -141.08338709677417, -267.89024390243895, 5.996818181818213, 2.123000000000033, -386.50433884297513, -93.35716577540104, -46.93499999999996, 20.63227848101269, -224.90277777777771, -8.579816513761429, -80.02473684210523, -61.301575342465725, -25.260660377358448, -70.5438372093023, -136.80999999999995, -121.31911764705879, -21.831818181818136, -198.99118811881183, -205.90420195439737, 28.90434782608699, 28.90434782608699, -19.448684210526295, -84.90602040816322, -80.52828571428567, -65.37499999999997, 22.000000000000014, -218.25684049079752, -548.8836671802773, -52.846979865771786, 23.6347457627119, -70.06640718562872, 8.825000000000017, 15.740449438202262, -1.5127835051546157, -98.10799999999996, 19.561392405063316, -156.9820463320463, 39.34200000000003, -10.981538461538449, 19.205465116279086, 1.0014285714286046, -126.06799999999996, 31.240000000000038, -467.9906951871657, -119.68179245283017], on average after: -113.3664
+Shape after:  (67, 8)
+
+
+Chosen product: B0002HDWNS has 70 reviews - False, it has 67 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 100.0%
+
+step 1
+index added: 13
+percentage unclustered: 100.0%
+
+step 1
+index added: 14
+percentage unclustered: 95.5224%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [7, 10, 14]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  14  oven spacious big enough couple 12 pizza pans ...   0.251866
+
+step 1
+index added: 15
+percentage unclustered: 95.5224%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 91.0448%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [10, 12, 13, 16]
+			old information: 106, gain: 0.9762597984322509
+
+   ind                                             review  relevance
+0  16  bought oven 18 months ago n t pretty could use...   0.481159
+1  14  oven spacious big enough couple 12 pizza pans ...   0.251866
+
+step 1
+index added: 17
+percentage unclustered: 89.5522%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [10, 12, 13, 16]
+			old information: 48, gain: 0.9638009049773756
+
+   ind                                             review  relevance
+0  16  bought oven 18 months ago n t pretty could use...   0.481159
+1  17  absolutely love oven wanted something small ec...   0.352901
+2  14  oven spacious big enough couple 12 pizza pans ...   0.251866
+
+step 1
+index added: 18
+percentage unclustered: 89.5522%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 89.5522%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 89.5522%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 88.05969999999999%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [10, 12, 16, 21]
+			old information: 155, gain: 0.9667096219931272
+
+   ind                                             review  relevance
+0  21  n t toaster oven awhile years listening compla...   0.567575
+1  16  bought oven 18 months ago n t pretty could use...   0.481159
+2  17  absolutely love oven wanted something small ec...   0.352901
+3  14  oven spacious big enough couple 12 pizza pans ...   0.251866
+
+step 1
+index added: 22
+percentage unclustered: 83.5821%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [1, 10, 16, 21]
+
+step 1
+index added: 23
+percentage unclustered: 82.0896%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 82.0896%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 89.5522%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 88.05969999999999%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [1, 16, 21, 26]
+			old information: 555, gain: 0.9835164835164835
+
+   ind                                             review  relevance
+0  26  great oven due s proportions allow larger item...   0.577578
+1  21  n t toaster oven awhile years listening compla...   0.567575
+2  16  bought oven 18 months ago n t pretty could use...   0.481159
+3  17  absolutely love oven wanted something small ec...   0.352901
+4  14  oven spacious big enough couple 12 pizza pans ...   0.251866
+
+step 1
+index added: 27
+percentage unclustered: 86.5672%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [1, 16, 21, 26]
+
+step 1
+index added: 28
+percentage unclustered: 86.5672%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 86.5672%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 82.0896%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [1, 2, 26, 30]
+			old information: 893, gain: 0.9469588976003801
+
+   ind                                             review  relevance
+0  30  oven months s higher typical toaster oven fits...   0.656839
+1  26  great oven due s proportions allow larger item...   0.577578
+2  21  n t toaster oven awhile years listening compla...   0.567575
+3  16  bought oven 18 months ago n t pretty could use...   0.481159
+4  17  absolutely love oven wanted something small ec...   0.352901
+5  14  oven spacious big enough couple 12 pizza pans ...   0.251866
+
+step 1
+index added: 31
+percentage unclustered: 82.0896%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 82.0896%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 82.0896%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 82.0896%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 82.0896%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 76.1194%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [1, 10, 30]
+
+step 1
+index added: 37
+percentage unclustered: 76.1194%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 76.1194%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 74.6269%
+
+	step 2
+
+		step 3
+		candidate index: 39 with core nodes: [1, 10, 30]
+
+step 1
+index added: 40
+percentage unclustered: 73.1343%
+
+	step 2
+
+		step 3
+		candidate index: 40 with core nodes: [1, 10, 30]
+
+step 1
+index added: 41
+percentage unclustered: 73.1343%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 73.1343%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 70.1493%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [1, 10, 30]
+
+step 1
+index added: 44
+percentage unclustered: 70.1493%
+
+	step 2
+
+		step 3
+		candidate index: 44 with core nodes: [1, 10, 30]
+
+step 1
+index added: 45
+percentage unclustered: 68.6567%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 68.6567%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 68.6567%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 67.1642%
+
+	step 2
+
+		step 3
+		candidate index: 48 with core nodes: [1, 10, 30]
+
+step 1
+index added: 49
+percentage unclustered: 67.1642%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 65.6716%
+
+	step 2
+
+		step 3
+		candidate index: 50 with core nodes: [1, 10, 30]
+
+step 1
+index added: 51
+percentage unclustered: 65.6716%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 65.6716%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 65.6716%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 65.6716%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 65.6716%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 65.6716%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 65.6716%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 65.6716%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 64.1791%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 64.1791%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 64.1791%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 64.1791%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 64.1791%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 59.7015%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 58.209%
+
+	step 2
+
+		step 3
+		candidate index: 65 with core nodes: [1, 10, 26, 63, 65]
+			old information: 2648, gain: 0.9515151515151515
+
+   ind                                             review  relevance
+0  65  actual rating 4 1 2 stars half point deduction...   0.659191
+1  30  oven months s higher typical toaster oven fits...   0.656839
+2  26  great oven due s proportions allow larger item...   0.577578
+3  21  n t toaster oven awhile years listening compla...   0.567575
+4  16  bought oven 18 months ago n t pretty could use...   0.481159
+5  17  absolutely love oven wanted something small ec...   0.352901
+6  14  oven spacious big enough couple 12 pizza pans ...   0.251866
+
+step 1
+index added: 66
+percentage unclustered: 58.209%
+
+	step 2
+
+--- 36.617098808288574 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 95.5224, 95.5224, 91.0448, 89.5522, 89.5522, 89.5522, 89.5522, 88.05969999999999, 83.5821, 82.0896, 82.0896, 89.5522, 88.05969999999999, 86.5672, 86.5672, 86.5672, 82.0896, 82.0896, 82.0896, 82.0896, 82.0896, 82.0896, 76.1194, 76.1194, 76.1194, 74.6269, 73.1343, 73.1343, 73.1343, 70.1493, 70.1493, 68.6567, 68.6567, 68.6567, 67.1642, 67.1642, 65.6716, 65.6716, 65.6716, 65.6716, 65.6716, 65.6716, 65.6716, 65.6716, 65.6716, 64.1791, 64.1791, 64.1791, 64.1791, 64.1791, 59.7015, 58.209, 58.209], mean: 79.9541
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0        3  65   0.659191  actual rating 4 1 2 stars half point deduction...
+1       55  30   0.656839  oven months s higher typical toaster oven fits...
+2       24  26   0.577578  great oven due s proportions allow larger item...
+3       51  21   0.567575  n t toaster oven awhile years listening compla...
+4       27  16   0.481159  bought oven 18 months ago n t pretty could use...
+5       58  17   0.352901  absolutely love oven wanted something small ec...
+6       38  14   0.251866  oven spacious big enough couple 12 pizza pans ...

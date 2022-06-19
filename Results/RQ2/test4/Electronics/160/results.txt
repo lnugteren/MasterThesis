@@ -1,0 +1,1147 @@
+------- Category: Electronics -------
+Found asin_id: B000062VUQ
+Shape:  (160, 7)
+
+Readability scores: [-634.4986011080332, -507.75956747404837, -622.0702808988764, -974.6553773584905, 51.045813953488405, 39.75500000000001, -24.35190082644624, 12.695769230769258, 9.816020408163297, -14.791999999999987, 66.03863636363637, 29.83578313253014, -93.91153846153843, 70.55833333333337, -14.861071428571393, -301.64579207920787, -225.89884615384608, -60.62360759493667, -124.94092511013211, 28.222142857142885, -280.3332198952879, 37.28829268292685, -256.00096209912533, -47.75755244755241, -141.74456521739125, -609.1231034482757, -179.03193430656927, -193.57795302013417, 58.86264150943398, -144.37822784810123, -10.089626168224271, -97.034603960396, -380.9764968152865, 31.031818181818203, -336.8213013698629, -92.43499999999997, -203.31956521739124, -179.6772324723247, 6.362959183673496, -585.4499999999998, 6.7607142857143, 84.8057142857143, -114.34315068493146, -250.4229226361031, -81.01171428571425, -316.4095037220843, -1941.6416202783298, -155.45031249999997, -127.5106302521008, 3.659615384615421, -10.18045454545451, -43.312499999999986, -888.0027207392196, 23.233448275862088, 6.739545454545478, -110.49557603686631, -769.0454895104893, -334.718644859813, -332.90379310344827, -657.8274193548386, -44.39499999999997, -206.60823920265778, -790.1070011402508, -348.40040816326524, -127.36657894736838, -82.13603351955302, 25.01176470588237, -212.34115384615376, -137.73805084745757, 59.925000000000026, 36.38909090909094, -210.0377524429967, -14.794999999999973, -180.1827862595419, -199.87639175257726, 11.561578947368432, -26.974399999999974, -3691.924030489435, 1.2306493506493723, 71.24875000000003, -290.8486842105263, -43.93866197183097, 31.105211267605654, -80.31722222222218, 57.70428571428574, -478.9038967971529, -1545.9170858895704, -130.70605263157893, -31.934999999999988, -336.03649651972154, -190.45176056338028, 43.51857142857145, -17.295217391304334, -152.58433734939757, -49.44026845637582, -139.93186721991697, -4.644999999999968, -62.67272727272726, 21.485205479452077, 22.4976829268293, -345.0041108545034, -501.8962121212121, -532.5814516129032, -72.59934131736524, -17.212631578947324, -93.47769230769227, -85.64794117647057, -95.99125654450258, 32.70888888888892, -115.16399999999996, -98.81681818181815, -166.66620689655167, -211.27633663366333, -102.04354066985644, 15.058823529411782, -207.2658609271523, 46.11891304347827, -46.15715231788077, -44.36870967741932, -23.11043165467622, -605.0641428571428, -37.700209790209755, -92.91374999999998, -68.92599999999995, -8.721891891891872, -1895.9527664974617, -593.04903930131, -303.56839694656486, 72.98681818181821, -66.40236024844717, 62.53857142857144, 47.05833333333336, -133.47423580786023, 52.496578947368434, -589.7241484716156, -128.9324789915966, 67.46538461538464, -16.15729508196719, -174.0580442804428, 36.50250000000001, 34.23315068493153, -754.0484098939928, -221.67078864353311, -67.08484662576684, -98.92499999999997, 34.80312500000002, -366.65999999999997, -168.99730769230766, -73.72065217391302, -127.74349557522122, -205.66327586206893, 4.293697478991632, -255.0109999999999, -155.11984374999997, -64.11152542372876, -160.80874045801522, -254.49808219178078, -93.56507462686565, -117.35727272727269, -90.23405405405401], on average: -203.7127
+Readability scores after: [-634.4986011080332, -507.75956747404837, -622.0702808988764, -974.6553773584905, 39.75500000000001, -24.35190082644624, 12.695769230769258, 9.816020408163297, -14.791999999999987, 29.83578313253014, -93.91153846153843, -14.861071428571393, -301.64579207920787, -225.89884615384608, -60.62360759493667, -124.94092511013211, 28.222142857142885, -280.3332198952879, 37.28829268292685, -256.00096209912533, -47.75755244755241, -141.74456521739125, -609.1231034482757, -179.03193430656927, -193.57795302013417, -144.37822784810123, -10.089626168224271, -97.034603960396, -380.9764968152865, 31.031818181818203, -336.8213013698629, -92.43499999999997, -203.31956521739124, -179.6772324723247, 6.362959183673496, -585.4499999999998, 6.7607142857143, -114.34315068493146, -250.4229226361031, -81.01171428571425, -316.4095037220843, -1941.6416202783298, -155.45031249999997, -127.5106302521008, 3.659615384615421, -10.18045454545451, -43.312499999999986, -888.0027207392196, 23.233448275862088, 6.739545454545478, -110.49557603686631, -769.0454895104893, -334.718644859813, -332.90379310344827, -657.8274193548386, -44.39499999999997, -206.60823920265778, -790.1070011402508, -348.40040816326524, -127.36657894736838, -82.13603351955302, 25.01176470588237, -212.34115384615376, -137.73805084745757, 36.38909090909094, -210.0377524429967, -14.794999999999973, -180.1827862595419, -199.87639175257726, 11.561578947368432, -26.974399999999974, -3691.924030489435, 1.2306493506493723, -290.8486842105263, -43.93866197183097, 31.105211267605654, -80.31722222222218, -478.9038967971529, -1545.9170858895704, -130.70605263157893, -31.934999999999988, -336.03649651972154, -190.45176056338028, 43.51857142857145, -17.295217391304334, -152.58433734939757, -49.44026845637582, -139.93186721991697, -4.644999999999968, -62.67272727272726, 21.485205479452077, 22.4976829268293, -345.0041108545034, -501.8962121212121, -532.5814516129032, -72.59934131736524, -17.212631578947324, -93.47769230769227, -85.64794117647057, -95.99125654450258, 32.70888888888892, -115.16399999999996, -98.81681818181815, -166.66620689655167, -211.27633663366333, -102.04354066985644, 15.058823529411782, -207.2658609271523, 46.11891304347827, -46.15715231788077, -44.36870967741932, -23.11043165467622, -605.0641428571428, -37.700209790209755, -92.91374999999998, -68.92599999999995, -8.721891891891872, -1895.9527664974617, -593.04903930131, -303.56839694656486, -66.40236024844717, 47.05833333333336, -133.47423580786023, -589.7241484716156, -128.9324789915966, -16.15729508196719, -174.0580442804428, 36.50250000000001, 34.23315068493153, -754.0484098939928, -221.67078864353311, -67.08484662576684, -98.92499999999997, 34.80312500000002, -366.65999999999997, -168.99730769230766, -73.72065217391302, -127.74349557522122, -205.66327586206893, 4.293697478991632, -255.0109999999999, -155.11984374999997, -64.11152542372876, -160.80874045801522, -254.49808219178078, -93.56507462686565, -117.35727272727269, -90.23405405405401], on average after: -225.471
+Shape after:  (148, 8)
+
+
+Chosen product: B000062VUQ has 160 reviews - False, it has 148 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 97.973%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [0, 4, 11]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  11  moving harmon kardon soundsticks ii damaged de...   0.313848
+
+step 1
+index added: 12
+percentage unclustered: 97.973%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 97.973%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 97.973%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 97.973%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 97.973%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 92.5676%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [2, 3, 13, 17]
+			old information: 174, gain: 0.9929705490243607
+
+   ind                                             review  relevance
+0  17  hands best pc speakers ever owned exclusively ...   0.518807
+1  11  moving harmon kardon soundsticks ii damaged de...   0.313848
+
+step 1
+index added: 18
+percentage unclustered: 91.2162%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 90.5405%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [2, 3, 13, 19]
+			old information: 436, gain: 0.9783084577114428
+
+   ind                                             review  relevance
+0  17  hands best pc speakers ever owned exclusively ...   0.518807
+1  19  bought set one workstation liked much purchase...   0.490366
+2  11  moving harmon kardon soundsticks ii damaged de...   0.313848
+
+step 1
+index added: 20
+percentage unclustered: 90.5405%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 89.8649%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [2, 3, 13, 19]
+
+step 1
+index added: 22
+percentage unclustered: 90.5405%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 90.5405%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 90.5405%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 91.89189999999999%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 93.9189%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 93.9189%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 93.9189%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 87.8378%
+
+	step 2
+
+		step 3
+		candidate index: 29 with core nodes: [7, 25, 29]
+			old information: 38, gain: 0.9233870967741935
+
+   ind                                             review  relevance
+0  17  hands best pc speakers ever owned exclusively ...   0.518807
+1  19  bought set one workstation liked much purchase...   0.490366
+2  11  moving harmon kardon soundsticks ii damaged de...   0.313848
+3  29  best sounding speaker system ever come across ...   0.245488
+
+step 1
+index added: 30
+percentage unclustered: 87.8378%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 87.1622%
+
+	step 2
+
+		step 3
+		candidate index: 31 with core nodes: [2, 3, 13]
+			old information: 541, gain: 0.9009157509157509
+
+   ind                                             review  relevance
+0  31  life long audiophile owned several multi thous...   0.533130
+1  17  hands best pc speakers ever owned exclusively ...   0.518807
+2  19  bought set one workstation liked much purchase...   0.490366
+3  11  moving harmon kardon soundsticks ii damaged de...   0.313848
+4  29  best sounding speaker system ever come across ...   0.245488
+
+step 1
+index added: 32
+percentage unclustered: 87.1622%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 87.1622%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 87.1622%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 87.1622%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 86.4865%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [2, 3, 13]
+
+step 1
+index added: 37
+percentage unclustered: 87.1622%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 86.4865%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 85.8108%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 85.8108%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 89.8649%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [2, 14, 30, 38, 41]
+			old information: 5026, gain: 0.9909601877748501
+
+   ind                                             review  relevance
+0  41  m big fuss comes sound quality requirements mu...   0.738714
+1  31  life long audiophile owned several multi thous...   0.533130
+2  17  hands best pc speakers ever owned exclusively ...   0.518807
+3  19  bought set one workstation liked much purchase...   0.490366
+4  11  moving harmon kardon soundsticks ii damaged de...   0.313848
+5  29  best sounding speaker system ever come across ...   0.245488
+
+step 1
+index added: 42
+percentage unclustered: 87.8378%
+
+	step 2
+
+		step 3
+		candidate index: 42 with core nodes: [2, 38, 41, 42]
+			old information: 1585, gain: 0.83474090292983
+
+   ind                                             review  relevance
+0  41  m big fuss comes sound quality requirements mu...   0.738714
+1  42  initially impressed good reviews bought withou...   0.558162
+2  31  life long audiophile owned several multi thous...   0.533130
+3  17  hands best pc speakers ever owned exclusively ...   0.518807
+4  19  bought set one workstation liked much purchase...   0.490366
+5  11  moving harmon kardon soundsticks ii damaged de...   0.313848
+6  29  best sounding speaker system ever come across ...   0.245488
+
+step 1
+index added: 43
+percentage unclustered: 87.1622%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [2, 30, 41, 42]
+
+step 1
+index added: 44
+percentage unclustered: 86.4865%
+
+	step 2
+
+		step 3
+		candidate index: 44 with core nodes: [2, 30, 41, 42]
+			old information: 498, gain: 0.7937888198757764
+
+   ind                                             review  relevance
+0  41  m big fuss comes sound quality requirements mu...   0.738714
+1  44  really love speakers ve bought 3 sets them n n...   0.595756
+2  42  initially impressed good reviews bought withou...   0.558162
+3  31  life long audiophile owned several multi thous...   0.533130
+4  17  hands best pc speakers ever owned exclusively ...   0.518807
+5  19  bought set one workstation liked much purchase...   0.490366
+6  11  moving harmon kardon soundsticks ii damaged de...   0.313848
+7  29  best sounding speaker system ever come across ...   0.245488
+
+step 1
+index added: 45
+percentage unclustered: 86.4865%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 83.10810000000001%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [2, 13, 41, 42]
+
+step 1
+index added: 47
+percentage unclustered: 83.10810000000001%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 88.5135%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 88.5135%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 86.4865%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 86.4865%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 86.4865%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 85.8108%
+
+	step 2
+
+		step 3
+		candidate index: 53 with core nodes: [2, 13, 41]
+			old information: 2300, gain: 0.9469618355816903
+
+   ind                                             review  relevance
+0  41  m big fuss comes sound quality requirements mu...   0.738714
+1  44  really love speakers ve bought 3 sets them n n...   0.595756
+2  42  initially impressed good reviews bought withou...   0.558162
+3  53  purchased new set promedia 2 1 speakers replac...   0.543192
+4  31  life long audiophile owned several multi thous...   0.533130
+5  17  hands best pc speakers ever owned exclusively ...   0.518807
+6  19  bought set one workstation liked much purchase...   0.490366
+7  11  moving harmon kardon soundsticks ii damaged de...   0.313848
+8  29  best sounding speaker system ever come across ...   0.245488
+
+step 1
+index added: 54
+percentage unclustered: 85.8108%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 85.1351%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 85.1351%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 84.4595%
+
+	step 2
+
+		step 3
+		candidate index: 57 with core nodes: [2, 41, 57]
+			old information: 7557, gain: 0.9323019314150571
+
+   ind                                             review  relevance
+0  41  m big fuss comes sound quality requirements mu...   0.738714
+1  57  promedia 2 1 klipsch since 2002 still selling ...   0.680463
+2  44  really love speakers ve bought 3 sets them n n...   0.595756
+3  42  initially impressed good reviews bought withou...   0.558162
+4  53  purchased new set promedia 2 1 speakers replac...   0.543192
+5  31  life long audiophile owned several multi thous...   0.533130
+6  17  hands best pc speakers ever owned exclusively ...   0.518807
+7  19  bought set one workstation liked much purchase...   0.490366
+8  11  moving harmon kardon soundsticks ii damaged de...   0.313848
+9  29  best sounding speaker system ever come across ...   0.245488
+
+step 1
+index added: 58
+percentage unclustered: 84.4595%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 84.4595%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 83.7838%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 85.1351%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 81.7568%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 81.7568%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 79.72970000000001%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 79.72970000000001%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 82.4324%
+
+	step 2
+
+		step 3
+		candidate index: 66 with core nodes: [2, 13, 41, 57]
+
+step 1
+index added: 67
+percentage unclustered: 82.4324%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 82.4324%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 79.72970000000001%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 79.0541%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 79.0541%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 79.0541%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 81.08109999999999%
+
+	step 2
+
+		step 3
+		candidate index: 73 with core nodes: [2, 13, 41, 57]
+
+step 1
+index added: 74
+percentage unclustered: 81.08109999999999%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 81.7568%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 81.7568%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 81.7568%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 81.08109999999999%
+
+	step 2
+
+		step 3
+		candidate index: 78 with core nodes: [2, 41, 57, 78]
+			old information: 15020, gain: 0.9607191892775416
+
+    ind                                             review  relevance
+0   41  m big fuss comes sound quality requirements mu...   0.738714
+1   78  blew ridiculous amount time listening store re...   0.735733
+2   57  promedia 2 1 klipsch since 2002 still selling ...   0.680463
+3   44  really love speakers ve bought 3 sets them n n...   0.595756
+4   42  initially impressed good reviews bought withou...   0.558162
+5   53  purchased new set promedia 2 1 speakers replac...   0.543192
+6   31  life long audiophile owned several multi thous...   0.533130
+7   17  hands best pc speakers ever owned exclusively ...   0.518807
+8   19  bought set one workstation liked much purchase...   0.490366
+9   11  moving harmon kardon soundsticks ii damaged de...   0.313848
+10  29  best sounding speaker system ever come across ...   0.245488
+
+step 1
+index added: 79
+percentage unclustered: 81.08109999999999%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 81.08109999999999%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 81.08109999999999%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 81.08109999999999%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 81.08109999999999%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 81.08109999999999%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 81.7568%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 81.7568%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 81.7568%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 81.7568%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 81.7568%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 81.7568%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 79.0541%
+
+	step 2
+
+		step 3
+		candidate index: 91 with core nodes: [17, 24, 62]
+
+step 1
+index added: 92
+percentage unclustered: 79.0541%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 78.3784%
+
+	step 2
+
+		step 3
+		candidate index: 93 with core nodes: [17, 24, 62]
+
+step 1
+index added: 94
+percentage unclustered: 78.3784%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 78.3784%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 78.3784%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 78.3784%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 78.3784%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 79.0541%
+
+	step 2
+
+		step 3
+		candidate index: 99 with core nodes: [2, 41, 57, 78]
+
+step 1
+index added: 100
+percentage unclustered: 78.3784%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 78.3784%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 78.3784%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 78.3784%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 78.3784%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 79.0541%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 79.0541%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 79.0541%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 79.0541%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 77.027%
+
+	step 2
+
+		step 3
+		candidate index: 109 with core nodes: [17, 24, 62, 109]
+			old information: 686, gain: 0.7527927927927928
+
+     ind                                             review  relevance
+0    41  m big fuss comes sound quality requirements mu...   0.738714
+1    78  blew ridiculous amount time listening store re...   0.735733
+2    57  promedia 2 1 klipsch since 2002 still selling ...   0.680463
+3    44  really love speakers ve bought 3 sets them n n...   0.595756
+4    42  initially impressed good reviews bought withou...   0.558162
+5    53  purchased new set promedia 2 1 speakers replac...   0.543192
+6    31  life long audiophile owned several multi thous...   0.533130
+7    17  hands best pc speakers ever owned exclusively ...   0.518807
+8    19  bought set one workstation liked much purchase...   0.490366
+9   109  bought best buy looking speakers best buy circ...   0.443073
+10   11  moving harmon kardon soundsticks ii damaged de...   0.313848
+11   29  best sounding speaker system ever come across ...   0.245488
+
+step 1
+index added: 110
+percentage unclustered: 77.027%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 76.3514%
+
+	step 2
+
+		step 3
+		candidate index: 111 with core nodes: [2, 41, 78, 111]
+			old information: 397, gain: 0.8743670886075949
+
+     ind                                             review  relevance
+0    41  m big fuss comes sound quality requirements mu...   0.738714
+1    78  blew ridiculous amount time listening store re...   0.735733
+2   111  3 pairs klipsch flooring standing speakers ksf...   0.683569
+3    57  promedia 2 1 klipsch since 2002 still selling ...   0.680463
+4    44  really love speakers ve bought 3 sets them n n...   0.595756
+5    42  initially impressed good reviews bought withou...   0.558162
+6    53  purchased new set promedia 2 1 speakers replac...   0.543192
+7    31  life long audiophile owned several multi thous...   0.533130
+8    17  hands best pc speakers ever owned exclusively ...   0.518807
+9    19  bought set one workstation liked much purchase...   0.490366
+10  109  bought best buy looking speakers best buy circ...   0.443073
+11   11  moving harmon kardon soundsticks ii damaged de...   0.313848
+12   29  best sounding speaker system ever come across ...   0.245488
+
+step 1
+index added: 112
+percentage unclustered: 75.6757%
+
+	step 2
+
+		step 3
+		candidate index: 112 with core nodes: [17, 24, 112]
+			old information: 6976, gain: 0.8978100051270783
+
+     ind                                             review  relevance
+0    41  m big fuss comes sound quality requirements mu...   0.738714
+1    78  blew ridiculous amount time listening store re...   0.735733
+2   111  3 pairs klipsch flooring standing speakers ksf...   0.683569
+3    57  promedia 2 1 klipsch since 2002 still selling ...   0.680463
+4   112  built computer middle last year designed gamin...   0.658097
+5    44  really love speakers ve bought 3 sets them n n...   0.595756
+6    42  initially impressed good reviews bought withou...   0.558162
+7    53  purchased new set promedia 2 1 speakers replac...   0.543192
+8    31  life long audiophile owned several multi thous...   0.533130
+9    17  hands best pc speakers ever owned exclusively ...   0.518807
+10   19  bought set one workstation liked much purchase...   0.490366
+11  109  bought best buy looking speakers best buy circ...   0.443073
+12   11  moving harmon kardon soundsticks ii damaged de...   0.313848
+13   29  best sounding speaker system ever come across ...   0.245488
+
+step 1
+index added: 113
+percentage unclustered: 75.6757%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 71.6216%
+
+	step 2
+
+		step 3
+		candidate index: 114 with core nodes: [2, 41, 78, 111]
+
+step 1
+index added: 115
+percentage unclustered: 71.6216%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 68.91890000000001%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 67.5676%
+
+	step 2
+
+		step 3
+		candidate index: 117 with core nodes: [41, 57, 78, 105, 111, 117]
+			old information: 21011, gain: 0.9645333684437962
+
+     ind                                             review  relevance
+0    41  m big fuss comes sound quality requirements mu...   0.738714
+1    78  blew ridiculous amount time listening store re...   0.735733
+2   117  since moved ve suffer s exaggeration listening...   0.697502
+3   111  3 pairs klipsch flooring standing speakers ksf...   0.683569
+4    57  promedia 2 1 klipsch since 2002 still selling ...   0.680463
+5   112  built computer middle last year designed gamin...   0.658097
+6    44  really love speakers ve bought 3 sets them n n...   0.595756
+7    42  initially impressed good reviews bought withou...   0.558162
+8    53  purchased new set promedia 2 1 speakers replac...   0.543192
+9    31  life long audiophile owned several multi thous...   0.533130
+10   17  hands best pc speakers ever owned exclusively ...   0.518807
+11   19  bought set one workstation liked much purchase...   0.490366
+12  109  bought best buy looking speakers best buy circ...   0.443073
+13   11  moving harmon kardon soundsticks ii damaged de...   0.313848
+14   29  best sounding speaker system ever come across ...   0.245488
+
+step 1
+index added: 118
+percentage unclustered: 67.5676%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 67.5676%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 67.5676%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 65.54050000000001%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 65.54050000000001%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 65.54050000000001%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 65.54050000000001%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 65.54050000000001%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 65.54050000000001%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 65.54050000000001%
+
+	step 2
+
+step 1
+index added: 128
+percentage unclustered: 64.8649%
+
+	step 2
+
+		step 3
+		candidate index: 128 with core nodes: [0, 24, 62, 109]
+
+step 1
+index added: 129
+percentage unclustered: 64.8649%
+
+	step 2
+
+step 1
+index added: 130
+percentage unclustered: 64.8649%
+
+	step 2
+
+step 1
+index added: 131
+percentage unclustered: 64.8649%
+
+	step 2
+
+step 1
+index added: 132
+percentage unclustered: 64.1892%
+
+	step 2
+
+		step 3
+		candidate index: 132 with core nodes: [41, 57, 78, 105, 111, 117]
+
+step 1
+index added: 133
+percentage unclustered: 62.1622%
+
+	step 2
+
+step 1
+index added: 134
+percentage unclustered: 61.4865%
+
+	step 2
+
+		step 3
+		candidate index: 134 with core nodes: [41, 57, 78, 105, 111, 117]
+
+step 1
+index added: 135
+percentage unclustered: 61.4865%
+
+	step 2
+
+step 1
+index added: 136
+percentage unclustered: 61.4865%
+
+	step 2
+
+step 1
+index added: 137
+percentage unclustered: 62.1622%
+
+	step 2
+
+step 1
+index added: 138
+percentage unclustered: 62.1622%
+
+	step 2
+
+step 1
+index added: 139
+percentage unclustered: 62.1622%
+
+	step 2
+
+step 1
+index added: 140
+percentage unclustered: 64.8649%
+
+	step 2
+
+		step 3
+		candidate index: 140 with core nodes: [57, 78, 105, 111, 117]
+
+step 1
+index added: 141
+percentage unclustered: 64.8649%
+
+	step 2
+
+step 1
+index added: 142
+percentage unclustered: 64.8649%
+
+	step 2
+
+step 1
+index added: 143
+percentage unclustered: 62.1622%
+
+	step 2
+
+		step 3
+		candidate index: 143 with core nodes: [57, 78, 105, 111, 117]
+
+step 1
+index added: 144
+percentage unclustered: 62.1622%
+
+	step 2
+
+step 1
+index added: 145
+percentage unclustered: 62.1622%
+
+	step 2
+
+step 1
+index added: 146
+percentage unclustered: 62.1622%
+
+	step 2
+
+step 1
+index added: 147
+percentage unclustered: 58.1081%
+
+	step 2
+
+--- 3071.2716720104218 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 97.973, 97.973, 97.973, 97.973, 97.973, 97.973, 92.5676, 91.2162, 90.5405, 90.5405, 89.8649, 90.5405, 90.5405, 90.5405, 91.89189999999999, 93.9189, 93.9189, 93.9189, 87.8378, 87.8378, 87.1622, 87.1622, 87.1622, 87.1622, 87.1622, 86.4865, 87.1622, 86.4865, 85.8108, 85.8108, 89.8649, 87.8378, 87.1622, 86.4865, 86.4865, 83.10810000000001, 83.10810000000001, 88.5135, 88.5135, 86.4865, 86.4865, 86.4865, 85.8108, 85.8108, 85.1351, 85.1351, 84.4595, 84.4595, 84.4595, 83.7838, 85.1351, 81.7568, 81.7568, 79.72970000000001, 79.72970000000001, 82.4324, 82.4324, 82.4324, 79.72970000000001, 79.0541, 79.0541, 79.0541, 81.08109999999999, 81.08109999999999, 81.7568, 81.7568, 81.7568, 81.08109999999999, 81.08109999999999, 81.08109999999999, 81.08109999999999, 81.08109999999999, 81.08109999999999, 81.08109999999999, 81.7568, 81.7568, 81.7568, 81.7568, 81.7568, 81.7568, 79.0541, 79.0541, 78.3784, 78.3784, 78.3784, 78.3784, 78.3784, 78.3784, 79.0541, 78.3784, 78.3784, 78.3784, 78.3784, 78.3784, 79.0541, 79.0541, 79.0541, 79.0541, 77.027, 77.027, 76.3514, 75.6757, 75.6757, 71.6216, 71.6216, 68.91890000000001, 67.5676, 67.5676, 67.5676, 67.5676, 65.54050000000001, 65.54050000000001, 65.54050000000001, 65.54050000000001, 65.54050000000001, 65.54050000000001, 65.54050000000001, 64.8649, 64.8649, 64.8649, 64.8649, 64.1892, 62.1622, 61.4865, 61.4865, 61.4865, 62.1622, 62.1622, 62.1622, 64.8649, 64.8649, 64.8649, 62.1622, 62.1622, 62.1622, 62.1622, 58.1081], mean: 80.7201
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0       102   41   0.738714  m big fuss comes sound quality requirements mu...
+1        13   78   0.735733  blew ridiculous amount time listening store re...
+2        22  117   0.697502  since moved ve suffer s exaggeration listening...
+3       140  111   0.683569  3 pairs klipsch flooring standing speakers ksf...
+4       117   57   0.680463  promedia 2 1 klipsch since 2002 still selling ...
+5        96  112   0.658097  built computer middle last year designed gamin...
+6        62   44   0.595756  really love speakers ve bought 3 sets them n n...
+7        17   42   0.558162  initially impressed good reviews bought withou...
+8        38   53   0.543192  purchased new set promedia 2 1 speakers replac...
+9        95   31   0.533130  life long audiophile owned several multi thous...
+10       25   17   0.518807  hands best pc speakers ever owned exclusively ...
+11       49   19   0.490366  bought set one workstation liked much purchase...
+12       82  109   0.443073  bought best buy looking speakers best buy circ...
+13       41   11   0.313848  moving harmon kardon soundsticks ii damaged de...
+14       70   29   0.245488  best sounding speaker system ever come across ...

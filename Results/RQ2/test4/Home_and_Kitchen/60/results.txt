@@ -1,0 +1,427 @@
+------- Category: Home_and_Kitchen -------
+Found asin_id: B00004RHQA
+Shape:  (60, 7)
+
+Readability scores: [42.72500000000001, -72.48388888888886, 29.745000000000026, -100.53956521739129, -79.33256684491974, 16.054117647058845, -13.737758620689632, -54.550335570469755, -1216.8625784238711, -55.80769230769229, -67.53347305389218, -207.96422077922074, -525.019076433121, -107.08608910891085, -64.82596273291922, -652.7765999999999, -9.29897196261679, -65.00877300613496, -36.17816326530608, -57.13770270270268, -14.343009708737839, -49.190999999999946, -82.01951612903224, -83.4125824175824, -206.91807692307685, 23.308888888888916, -61.543684210526266, -113.78178899082566, 23.20467532467535, 5.505000000000024, -76.14544910179637, -60.09677018633538, 35.87140845070424, -259.32782608695646, -47.4934615384615, -11.71863636363635, -93.9516759776536, 67.46538461538464, -41.309370078740145, -117.1375742574257, -62.91882352941174, 29.51562500000003, -22.39827868852457, -71.87844827586204, 6.628241758241785, -48.62499999999997, -6.387142857142834, -173.2162989323843, -62.85391891891889, -153.50942622950816, -58.78055214723925, -18.455882352941146, 24.6265384615385, 0.7178571428571701, -129.29642857142855, -314.74136363636353, -13.616956521739112, 5.507000000000033, 2.0326923076923293, 39.12229729729732], on average: -91.4864
+Readability scores after: [42.72500000000001, -72.48388888888886, 29.745000000000026, -100.53956521739129, -79.33256684491974, 16.054117647058845, -13.737758620689632, -54.550335570469755, -1216.8625784238711, -55.80769230769229, -67.53347305389218, -207.96422077922074, -525.019076433121, -107.08608910891085, -64.82596273291922, -652.7765999999999, -9.29897196261679, -65.00877300613496, -36.17816326530608, -57.13770270270268, -14.343009708737839, -49.190999999999946, -82.01951612903224, -83.4125824175824, -206.91807692307685, 23.308888888888916, -61.543684210526266, -113.78178899082566, 23.20467532467535, 5.505000000000024, -76.14544910179637, -60.09677018633538, 35.87140845070424, -259.32782608695646, -47.4934615384615, -11.71863636363635, -93.9516759776536, -41.309370078740145, -117.1375742574257, -62.91882352941174, 29.51562500000003, -22.39827868852457, -71.87844827586204, 6.628241758241785, -48.62499999999997, -6.387142857142834, -173.2162989323843, -62.85391891891889, -153.50942622950816, -58.78055214723925, -18.455882352941146, 24.6265384615385, 0.7178571428571701, -129.29642857142855, -314.74136363636353, -13.616956521739112, 5.507000000000033, 2.0326923076923293, 39.12229729729732], on average after: -94.1805
+Shape after:  (59, 8)
+
+
+Chosen product: B00004RHQA has 60 reviews - False, it has 59 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 94.9153%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [3, 4, 8]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   8  ve machine 3 5 years ve got ta say m still hap...   0.478453
+
+step 1
+index added: 9
+percentage unclustered: 94.9153%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 94.9153%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 94.9153%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [5, 8, 11]
+			old information: 713, gain: 0.9417769067450596
+
+   ind                                             review  relevance
+0  11  bought machine used searching high low machine...   0.573091
+1   8  ve machine 3 5 years ve got ta say m still hap...   0.478453
+
+step 1
+index added: 12
+percentage unclustered: 94.9153%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 94.9153%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 94.9153%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 94.9153%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 94.9153%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 94.9153%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 94.9153%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 89.8305%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [5, 8, 11, 19]
+			old information: 424, gain: 0.8754040552453717
+
+   ind                                             review  relevance
+0  11  bought machine used searching high low machine...   0.573091
+1  19  first espresso machine price range s 4 star pr...   0.508741
+2   8  ve machine 3 5 years ve got ta say m still hap...   0.478453
+
+step 1
+index added: 20
+percentage unclustered: 89.8305%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 84.7458%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [8, 10, 11, 19]
+
+step 1
+index added: 22
+percentage unclustered: 84.7458%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 84.7458%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 81.35589999999999%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [4, 8, 10]
+
+step 1
+index added: 25
+percentage unclustered: 81.35589999999999%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 76.2712%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [5, 16, 21]
+			old information: 325, gain: 0.8917748917748918
+
+   ind                                             review  relevance
+0  11  bought machine used searching high low machine...   0.573091
+1  19  first espresso machine price range s 4 star pr...   0.508741
+2   8  ve machine 3 5 years ve got ta say m still hap...   0.478453
+3  26  bought machine november 2001 based largely pos...   0.309534
+
+step 1
+index added: 27
+percentage unclustered: 74.5763%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [8, 10, 11, 19]
+
+step 1
+index added: 28
+percentage unclustered: 72.8814%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 71.18639999999999%
+
+	step 2
+
+		step 3
+		candidate index: 29 with core nodes: [5, 21, 29]
+			old information: 120, gain: 0.867109634551495
+
+   ind                                             review  relevance
+0  11  bought machine used searching high low machine...   0.573091
+1  19  first espresso machine price range s 4 star pr...   0.508741
+2   8  ve machine 3 5 years ve got ta say m still hap...   0.478453
+3  29  fourth espresso machine third pump last machin...   0.419038
+4  26  bought machine november 2001 based largely pos...   0.309534
+
+step 1
+index added: 30
+percentage unclustered: 71.18639999999999%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 71.18639999999999%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 72.8814%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 72.8814%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 72.8814%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 72.8814%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 71.18639999999999%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 71.18639999999999%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 71.18639999999999%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 71.18639999999999%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 67.7966%
+
+	step 2
+
+		step 3
+		candidate index: 40 with core nodes: [7, 8, 10, 11]
+
+step 1
+index added: 41
+percentage unclustered: 67.7966%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 67.7966%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 67.7966%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 67.7966%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 67.7966%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 62.7119%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [8, 10, 11, 46]
+			old information: 1227, gain: 0.8513808139534884
+
+   ind                                             review  relevance
+0  11  bought machine used searching high low machine...   0.573091
+1  46  first bought machine thought best ever owned 3...   0.528670
+2  19  first espresso machine price range s 4 star pr...   0.508741
+3   8  ve machine 3 5 years ve got ta say m still hap...   0.478453
+4  29  fourth espresso machine third pump last machin...   0.419038
+5  26  bought machine november 2001 based largely pos...   0.309534
+
+step 1
+index added: 47
+percentage unclustered: 61.0169%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [8, 10, 11, 46]
+
+step 1
+index added: 48
+percentage unclustered: 61.0169%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 61.0169%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 61.0169%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 61.0169%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 59.322%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 59.322%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 59.322%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 59.322%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 66.1017%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 66.1017%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 66.1017%
+
+	step 2
+
+--- 36.7363555431366 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 94.9153, 94.9153, 94.9153, 94.9153, 94.9153, 94.9153, 94.9153, 94.9153, 94.9153, 94.9153, 94.9153, 89.8305, 89.8305, 84.7458, 84.7458, 84.7458, 81.35589999999999, 81.35589999999999, 76.2712, 74.5763, 72.8814, 71.18639999999999, 71.18639999999999, 71.18639999999999, 72.8814, 72.8814, 72.8814, 72.8814, 71.18639999999999, 71.18639999999999, 71.18639999999999, 71.18639999999999, 67.7966, 67.7966, 67.7966, 67.7966, 67.7966, 67.7966, 62.7119, 61.0169, 61.0169, 61.0169, 61.0169, 61.0169, 59.322, 59.322, 59.322, 59.322, 66.1017, 66.1017, 66.1017], mean: 78.3229
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0       10  11   0.573091  bought machine used searching high low machine...
+1       37  46   0.528670  first bought machine thought best ever owned 3...
+2       38  19   0.508741  first espresso machine price range s 4 star pr...
+3        1   8   0.478453  ve machine 3 5 years ve got ta say m still hap...
+4       40  29   0.419038  fourth espresso machine third pump last machin...
+5       36  26   0.309534  bought machine november 2001 based largely pos...

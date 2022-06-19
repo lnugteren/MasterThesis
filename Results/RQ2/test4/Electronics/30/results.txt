@@ -1,0 +1,158 @@
+------- Category: Electronics -------
+Found asin_id: B00000J1U8
+Shape:  (30, 7)
+
+Readability scores: [45.49166666666668, -93.74542372881352, 44.24500000000001, 89.12714285714287, 49.343750000000014, 29.190000000000026, 34.265000000000015, 40.33000000000001, 84.17695652173914, 30.820882352941197, 77.04, 12.040422535211277, 36.189736842105276, 36.189736842105276, 45.49166666666668, 75.27750000000002, 27.65621951219515, -58.247325581395316, 91.53347826086959, 54.98069767441862, -101.6415346534653, -30.51466101694912, -17.279528301886756, 14.186185567010341, 103.625, 18.82750000000003, 3.7731632653061524, 51.57571428571431, 23.021176470588273, 47.832500000000024], on average: 28.8268
+Readability scores after: [45.49166666666668, -93.74542372881352, 44.24500000000001, 49.343750000000014, 29.190000000000026, 34.265000000000015, 40.33000000000001, 30.820882352941197, 12.040422535211277, 36.189736842105276, 36.189736842105276, 45.49166666666668, 27.65621951219515, -58.247325581395316, -101.6415346534653, -30.51466101694912, -17.279528301886756, 14.186185567010341, 18.82750000000003, 3.7731632653061524, 23.021176470588273, 47.832500000000024], on average after: 10.7939
+Shape after:  (22, 8)
+
+
+Chosen product: B00000J1U8 has 30 reviews - False, it has 22 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 86.3636%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [3, 5, 6]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   6  ordered three cables appearance slightly diffe...   0.076073
+
+step 1
+index added: 7
+percentage unclustered: 86.3636%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 86.3636%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 86.3636%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 72.7273%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [3, 4, 5, 8]
+			old information: 0, gain: 1.0
+
+step 1
+index added: 11
+percentage unclustered: 68.1818%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [3, 4, 5, 8]
+
+step 1
+index added: 12
+percentage unclustered: 68.1818%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 68.1818%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 63.6364%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [3, 5, 8, 14]
+			old information: 10, gain: 0.998667199786752
+
+   ind                                             review  relevance
+0  14  re looking basic 10 usb extension cable ve com...   0.612430
+1   6  ordered three cables appearance slightly diffe...   0.076073
+
+step 1
+index added: 15
+percentage unclustered: 63.6364%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 50.0%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [3, 8, 13, 14]
+
+step 1
+index added: 17
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 36.3636%
+
+	step 2
+
+--- 1.5944561958312988 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 86.3636, 86.3636, 86.3636, 86.3636, 72.7273, 68.1818, 68.1818, 68.1818, 63.6364, 63.6364, 50.0, 50.0, 50.0, 50.0, 50.0, 36.3636], mean: 71.8182
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0        7  14   0.612430  re looking basic 10 usb extension cable ve com...
+1        5   6   0.076073  ordered three cables appearance slightly diffe...

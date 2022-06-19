@@ -1,0 +1,94 @@
+------- Category: Electronics -------
+Found asin_id: B00000J0D5
+Shape:  (20, 7)
+
+Readability scores: [39.69591836734697, 66.56038461538462, 99.09884615384617, 77.12483870967742, 43.61739130434785, -278.1337265415549, 87.98000000000002, -20.99816513761465, 57.26641509433964, -49.82246987951805, -2.3849484536082173, -2.0582178217821507, -266.4157142857142, -50.018235294117616, 66.38810810810813, 23.140348837209316, 33.84646341463417, 24.481363636363668, -37.3813636363636, 22.875000000000014], on average: -3.2569
+Readability scores after: [39.69591836734697, 43.61739130434785, -278.1337265415549, -20.99816513761465, -49.82246987951805, -2.3849484536082173, -2.0582178217821507, -266.4157142857142, -50.018235294117616, 23.140348837209316, 33.84646341463417, 24.481363636363668, -37.3813636363636, 22.875000000000014], on average after: -37.1112
+Shape after:  (14, 8)
+
+
+Chosen product: B00000J0D5 has 20 reviews - False, it has 14 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 78.5714%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [1, 7, 9]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   9  thought product going work well house however ...   0.159216
+
+step 1
+index added: 10
+percentage unclustered: 78.5714%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 78.5714%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 78.5714%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 71.4286%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [1, 7, 9, 13]
+			old information: 3, gain: 0.9973404255319149
+
+   ind                                             review  relevance
+0  13  n t want run new phone jack accomodate ptv rec...   0.256929
+1   9  thought product going work well house however ...   0.159216
+
+--- 0.243666410446167 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 78.5714, 78.5714, 78.5714, 78.5714, 71.4286], mean: 90.4762
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0        5  13   0.256929  n t want run new phone jack accomodate ptv rec...
+1       12   9   0.159216  thought product going work well house however ...

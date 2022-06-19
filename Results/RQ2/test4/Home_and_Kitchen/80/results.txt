@@ -1,0 +1,605 @@
+------- Category: Home_and_Kitchen -------
+Found asin_id: B009I2AL8W
+Shape:  (80, 7)
+
+Readability scores: [55.31456521739132, -6.129417475728133, -226.62880597014924, 19.343793103448306, -186.70603960396033, -20.088432835820868, -16.48026315789471, 77.12483870967742, -31.978529411764683, 44.49660377358493, 86.70500000000001, -36.50035971223018, 48.03571428571431, -0.3381081081080737, 50.881509433962286, 53.74661016949155, -66.52029940119759, -257.4513736263736, -119.13376106194687, 89.51692307692309, 27.678260869565236, -23.783571428571392, 72.665, 67.75500000000002, 58.687755102040846, -138.77086206896547, -22.913599999999974, -95.89571428571425, 16.691011235955074, 38.92000000000003, 104.98000000000002, -52.679999999999964, 51.40500000000003, -190.37715302491097, 42.61571428571431, 62.05509433962266, 36.62000000000002, -15.863461538461507, -13.288962264150925, -32.08395522388058, 30.270253164556976, -18.7065789473684, 29.65935483870969, 57.27500000000002, -91.98763157894734, -124.82456521739128, -62.651329479768734, -20.381538461538454, 41.36500000000002, -175.31499999999994, -472.14611208406296, 85.2659090909091, -14.3835714285714, -195.5432352941176, -50.372580645161264, 11.46580645161292, 40.78428571428572, -113.45499999999997, 32.412025316455725, -124.3883544303797, 33.88000000000001, -7.702169811320729, 52.742500000000014, 55.41272727272729, 73.7058695652174, 97.70500000000001, -25.307560975609732, 66.56038461538462, 49.75230769230771, -125.31599999999995, -4.911081081081065, -241.06592920353978, 27.678260869565236, -209.33499999999998, -114.59186602870811, -323.16551068883604, 33.13500000000003, 44.52000000000001, -49.71326086956519, 39.52970588235296], on average: -26.3815
+Readability scores after: [-6.129417475728133, -226.62880597014924, 19.343793103448306, -186.70603960396033, -20.088432835820868, -16.48026315789471, -31.978529411764683, 44.49660377358493, -36.50035971223018, 48.03571428571431, -0.3381081081080737, -66.52029940119759, -257.4513736263736, -119.13376106194687, 27.678260869565236, -23.783571428571392, -138.77086206896547, -22.913599999999974, -95.89571428571425, 16.691011235955074, 38.92000000000003, -52.679999999999964, -190.37715302491097, 42.61571428571431, 36.62000000000002, -15.863461538461507, -13.288962264150925, -32.08395522388058, 30.270253164556976, -18.7065789473684, 29.65935483870969, -91.98763157894734, -124.82456521739128, -62.651329479768734, -20.381538461538454, 41.36500000000002, -175.31499999999994, -472.14611208406296, -14.3835714285714, -195.5432352941176, -50.372580645161264, 11.46580645161292, 40.78428571428572, -113.45499999999997, 32.412025316455725, -124.3883544303797, 33.88000000000001, -7.702169811320729, -25.307560975609732, 49.75230769230771, -125.31599999999995, -4.911081081081065, -241.06592920353978, 27.678260869565236, -209.33499999999998, -114.59186602870811, -323.16551068883604, 33.13500000000003, 44.52000000000001, -49.71326086956519, 39.52970588235296], on average after: -56.2299
+Shape after:  (61, 8)
+
+
+Chosen product: B009I2AL8W has 80 reviews - False, it has 61 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 95.082%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [3, 7, 8]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   8  desk really tiny adult work side compartments ...   0.164751
+
+step 1
+index added: 9
+percentage unclustered: 93.4426%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [3, 7, 8, 9]
+			old information: 0, gain: 1.0
+
+step 1
+index added: 10
+percentage unclustered: 91.80330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [3, 7, 8, 9, 10]
+			old information: 7, gain: 0.9949201741654572
+
+   ind                                             review  relevance
+0  10  seeing pics desk apple imacs decided purchase ...   0.254440
+1   8  desk really tiny adult work side compartments ...   0.164751
+
+step 1
+index added: 11
+percentage unclustered: 91.80330000000001%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 90.1639%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [3, 7, 8, 10, 12]
+			old information: 270, gain: 0.9826656394453005
+
+   ind                                             review  relevance
+0  12  m giving 5 stars quality get price range 300 d...   0.407596
+1  10  seeing pics desk apple imacs decided purchase ...   0.254440
+2   8  desk really tiny adult work side compartments ...   0.164751
+
+step 1
+index added: 13
+percentage unclustered: 88.52459999999999%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [7, 8, 10, 12, 13]
+			old information: 203, gain: 0.968483154789629
+
+   ind                                             review  relevance
+0  12  m giving 5 stars quality get price range 300 d...   0.407596
+1  13  awesome idea daughters room needed bigger floo...   0.288849
+2  10  seeing pics desk apple imacs decided purchase ...   0.254440
+3   8  desk really tiny adult work side compartments ...   0.164751
+
+step 1
+index added: 14
+percentage unclustered: 88.52459999999999%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 88.52459999999999%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 88.52459999999999%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 88.52459999999999%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 88.52459999999999%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 86.8852%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [7, 8, 10, 12, 13]
+
+step 1
+index added: 20
+percentage unclustered: 95.082%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [9, 13, 20]
+			old information: 111, gain: 0.8710801393728222
+
+   ind                                             review  relevance
+0  12  m giving 5 stars quality get price range 300 d...   0.407596
+1  20  desk easy install looks great love saves lot s...   0.333105
+2  13  awesome idea daughters room needed bigger floo...   0.288849
+3  10  seeing pics desk apple imacs decided purchase ...   0.254440
+4   8  desk really tiny adult work side compartments ...   0.164751
+
+step 1
+index added: 21
+percentage unclustered: 93.4426%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [9, 13, 20, 21]
+			old information: 114, gain: 0.9541247484909456
+
+   ind                                             review  relevance
+0  12  m giving 5 stars quality get price range 300 d...   0.407596
+1  20  desk easy install looks great love saves lot s...   0.333105
+2  13  awesome idea daughters room needed bigger floo...   0.288849
+3  10  seeing pics desk apple imacs decided purchase ...   0.254440
+4  21  unit made huge difference home office realize ...   0.209554
+5   8  desk really tiny adult work side compartments ...   0.164751
+
+step 1
+index added: 22
+percentage unclustered: 93.4426%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 93.4426%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 93.4426%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 93.4426%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 93.4426%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 93.4426%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 91.80330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [13, 20, 21, 28]
+			old information: 75, gain: 0.9128919860627178
+
+   ind                                             review  relevance
+0  12  m giving 5 stars quality get price range 300 d...   0.407596
+1  20  desk easy install looks great love saves lot s...   0.333105
+2  13  awesome idea daughters room needed bigger floo...   0.288849
+3  10  seeing pics desk apple imacs decided purchase ...   0.254440
+4  21  unit made huge difference home office realize ...   0.209554
+5   8  desk really tiny adult work side compartments ...   0.164751
+6  28  great price fairly easy install problem anchor...   0.138275
+
+step 1
+index added: 29
+percentage unclustered: 91.80330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 29 with core nodes: [9, 13, 20, 29]
+			old information: 104, gain: 0.9348370927318296
+
+   ind                                             review  relevance
+0  12  m giving 5 stars quality get price range 300 d...   0.407596
+1  20  desk easy install looks great love saves lot s...   0.333105
+2  29  really like desk opens floor underneath desk m...   0.326987
+3  13  awesome idea daughters room needed bigger floo...   0.288849
+4  10  seeing pics desk apple imacs decided purchase ...   0.254440
+5  21  unit made huge difference home office realize ...   0.209554
+6   8  desk really tiny adult work side compartments ...   0.164751
+7  28  great price fairly easy install problem anchor...   0.138275
+
+step 1
+index added: 30
+percentage unclustered: 88.52459999999999%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [13, 20, 29, 30]
+			old information: 146, gain: 0.8029689608636977
+
+   ind                                             review  relevance
+0  12  m giving 5 stars quality get price range 300 d...   0.407596
+1  20  desk easy install looks great love saves lot s...   0.333105
+2  29  really like desk opens floor underneath desk m...   0.326987
+3  13  awesome idea daughters room needed bigger floo...   0.288849
+4  30  like desk takes much less room old one get eas...   0.280961
+5  10  seeing pics desk apple imacs decided purchase ...   0.254440
+6  21  unit made huge difference home office realize ...   0.209554
+7   8  desk really tiny adult work side compartments ...   0.164751
+8  28  great price fairly easy install problem anchor...   0.138275
+
+step 1
+index added: 31
+percentage unclustered: 88.52459999999999%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 86.8852%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [20, 29, 30, 32]
+			old information: 458, gain: 0.9176999101527403
+
+   ind                                             review  relevance
+0  32  lot researching finally deciding buying desk r...   0.484197
+1  12  m giving 5 stars quality get price range 300 d...   0.407596
+2  20  desk easy install looks great love saves lot s...   0.333105
+3  29  really like desk opens floor underneath desk m...   0.326987
+4  13  awesome idea daughters room needed bigger floo...   0.288849
+5  30  like desk takes much less room old one get eas...   0.280961
+6  10  seeing pics desk apple imacs decided purchase ...   0.254440
+7  21  unit made huge difference home office realize ...   0.209554
+8   8  desk really tiny adult work side compartments ...   0.164751
+9  28  great price fairly easy install problem anchor...   0.138275
+
+step 1
+index added: 33
+percentage unclustered: 86.8852%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 81.96719999999999%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [23, 29, 32]
+
+step 1
+index added: 35
+percentage unclustered: 77.0492%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 75.4098%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [31, 34, 36]
+			old information: 557, gain: 0.9562106918238994
+
+    ind                                             review  relevance
+0   32  lot researching finally deciding buying desk r...   0.484197
+1   12  m giving 5 stars quality get price range 300 d...   0.407596
+2   20  desk easy install looks great love saves lot s...   0.333105
+3   29  really like desk opens floor underneath desk m...   0.326987
+4   36  alright everyone s deal wife live condo needed...   0.310780
+5   13  awesome idea daughters room needed bigger floo...   0.288849
+6   30  like desk takes much less room old one get eas...   0.280961
+7   10  seeing pics desk apple imacs decided purchase ...   0.254440
+8   21  unit made huge difference home office realize ...   0.209554
+9    8  desk really tiny adult work side compartments ...   0.164751
+10  28  great price fairly easy install problem anchor...   0.138275
+
+step 1
+index added: 37
+percentage unclustered: 73.7705%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [31, 34, 36]
+			old information: 1563, gain: 0.9588142292490118
+
+    ind                                             review  relevance
+0   32  lot researching finally deciding buying desk r...   0.484197
+1   37  solid wall desk sizing newer thinner 2012 27 i...   0.454093
+2   12  m giving 5 stars quality get price range 300 d...   0.407596
+3   20  desk easy install looks great love saves lot s...   0.333105
+4   29  really like desk opens floor underneath desk m...   0.326987
+5   36  alright everyone s deal wife live condo needed...   0.310780
+6   13  awesome idea daughters room needed bigger floo...   0.288849
+7   30  like desk takes much less room old one get eas...   0.280961
+8   10  seeing pics desk apple imacs decided purchase ...   0.254440
+9   21  unit made huge difference home office realize ...   0.209554
+10   8  desk really tiny adult work side compartments ...   0.164751
+11  28  great price fairly easy install problem anchor...   0.138275
+
+step 1
+index added: 38
+percentage unclustered: 73.7705%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 68.85249999999999%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 68.85249999999999%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 68.85249999999999%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 68.85249999999999%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 67.2131%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 65.5738%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 63.9344%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [32, 36, 39, 45]
+			old information: 586, gain: 0.9022518765638031
+
+    ind                                             review  relevance
+0   45  hope review help make informed choice comes co...   0.528215
+1   32  lot researching finally deciding buying desk r...   0.484197
+2   37  solid wall desk sizing newer thinner 2012 27 i...   0.454093
+3   12  m giving 5 stars quality get price range 300 d...   0.407596
+4   20  desk easy install looks great love saves lot s...   0.333105
+5   29  really like desk opens floor underneath desk m...   0.326987
+6   36  alright everyone s deal wife live condo needed...   0.310780
+7   13  awesome idea daughters room needed bigger floo...   0.288849
+8   30  like desk takes much less room old one get eas...   0.280961
+9   10  seeing pics desk apple imacs decided purchase ...   0.254440
+10  21  unit made huge difference home office realize ...   0.209554
+11   8  desk really tiny adult work side compartments ...   0.164751
+12  28  great price fairly easy install problem anchor...   0.138275
+
+step 1
+index added: 46
+percentage unclustered: 63.9344%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 63.9344%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 62.2951%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 62.2951%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 60.6557%
+
+	step 2
+
+		step 3
+		candidate index: 50 with core nodes: [32, 39, 45, 50]
+			old information: 743, gain: 0.8804697554697555
+
+    ind                                             review  relevance
+0   50  desk pretty fabulous take little get even thou...   0.533920
+1   45  hope review help make informed choice comes co...   0.528215
+2   32  lot researching finally deciding buying desk r...   0.484197
+3   37  solid wall desk sizing newer thinner 2012 27 i...   0.454093
+4   12  m giving 5 stars quality get price range 300 d...   0.407596
+5   20  desk easy install looks great love saves lot s...   0.333105
+6   29  really like desk opens floor underneath desk m...   0.326987
+7   36  alright everyone s deal wife live condo needed...   0.310780
+8   13  awesome idea daughters room needed bigger floo...   0.288849
+9   30  like desk takes much less room old one get eas...   0.280961
+10  10  seeing pics desk apple imacs decided purchase ...   0.254440
+11  21  unit made huge difference home office realize ...   0.209554
+12   8  desk really tiny adult work side compartments ...   0.164751
+13  28  great price fairly easy install problem anchor...   0.138275
+
+step 1
+index added: 51
+percentage unclustered: 59.0164%
+
+	step 2
+
+		step 3
+		candidate index: 51 with core nodes: [32, 39, 45, 50]
+
+step 1
+index added: 52
+percentage unclustered: 59.0164%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 59.0164%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 60.6557%
+
+	step 2
+
+		step 3
+		candidate index: 54 with core nodes: [39, 45, 54]
+			old information: 1366, gain: 0.8870140612076096
+
+    ind                                             review  relevance
+0   54  really love desk bought black fits well espres...   0.596037
+1   50  desk pretty fabulous take little get even thou...   0.533920
+2   45  hope review help make informed choice comes co...   0.528215
+3   32  lot researching finally deciding buying desk r...   0.484197
+4   37  solid wall desk sizing newer thinner 2012 27 i...   0.454093
+5   12  m giving 5 stars quality get price range 300 d...   0.407596
+6   20  desk easy install looks great love saves lot s...   0.333105
+7   29  really like desk opens floor underneath desk m...   0.326987
+8   36  alright everyone s deal wife live condo needed...   0.310780
+9   13  awesome idea daughters room needed bigger floo...   0.288849
+10  30  like desk takes much less room old one get eas...   0.280961
+11  10  seeing pics desk apple imacs decided purchase ...   0.254440
+12  21  unit made huge difference home office realize ...   0.209554
+13   8  desk really tiny adult work side compartments ...   0.164751
+14  28  great price fairly easy install problem anchor...   0.138275
+
+step 1
+index added: 55
+percentage unclustered: 60.6557%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 55.7377%
+
+	step 2
+
+		step 3
+		candidate index: 56 with core nodes: [39, 45, 54]
+
+step 1
+index added: 57
+percentage unclustered: 54.0984%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 54.0984%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 54.0984%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 47.541%
+
+	step 2
+
+		step 3
+		candidate index: 60 with core nodes: [39, 45, 54]
+
+--- 46.637707471847534 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 95.082, 93.4426, 91.80330000000001, 91.80330000000001, 90.1639, 88.52459999999999, 88.52459999999999, 88.52459999999999, 88.52459999999999, 88.52459999999999, 88.52459999999999, 86.8852, 95.082, 93.4426, 93.4426, 93.4426, 93.4426, 93.4426, 93.4426, 93.4426, 91.80330000000001, 91.80330000000001, 88.52459999999999, 88.52459999999999, 86.8852, 86.8852, 81.96719999999999, 77.0492, 75.4098, 73.7705, 73.7705, 68.85249999999999, 68.85249999999999, 68.85249999999999, 68.85249999999999, 67.2131, 65.5738, 63.9344, 63.9344, 63.9344, 62.2951, 62.2951, 60.6557, 59.0164, 59.0164, 59.0164, 60.6557, 60.6557, 55.7377, 54.0984, 54.0984, 54.0984, 47.541], mean: 79.5777
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        22  54   0.596037  really love desk bought black fits well espres...
+1        35  50   0.533920  desk pretty fabulous take little get even thou...
+2         6  45   0.528215  hope review help make informed choice comes co...
+3         8  32   0.484197  lot researching finally deciding buying desk r...
+4        12  37   0.454093  solid wall desk sizing newer thinner 2012 27 i...
+5        48  12   0.407596  m giving 5 stars quality get price range 300 d...
+6        28  20   0.333105  desk easy install looks great love saves lot s...
+7         7  29   0.326987  really like desk opens floor underneath desk m...
+8        47  36   0.310780  alright everyone s deal wife live condo needed...
+9        15  13   0.288849  awesome idea daughters room needed bigger floo...
+10       58  30   0.280961  like desk takes much less room old one get eas...
+11        3  10   0.254440  seeing pics desk apple imacs decided purchase ...
+12       29  21   0.209554  unit made huge difference home office realize ...
+13       37   8   0.164751  desk really tiny adult work side compartments ...
+14       32  28   0.138275  great price fairly easy install problem anchor...

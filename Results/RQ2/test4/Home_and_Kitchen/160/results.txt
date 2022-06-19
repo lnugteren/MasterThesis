@@ -1,0 +1,1019 @@
+------- Category: Home_and_Kitchen -------
+Found asin_id: B000246GSE
+Shape:  (160, 7)
+
+Readability scores: [-367.3346637744034, -22.489482758620667, 51.57571428571431, -199.1263157894736, -18.76652173913041, -220.54249999999993, -29.417692307692278, -942.2467283349562, 19.90857142857145, 53.84693548387099, 60.12142857142859, -34.419199999999975, 16.80661971830989, -233.34979289940827, -8.490103092783471, 60.485000000000014, -20.85603305785122, 69.45500000000001, -95.77816831683164, 160.47500000000002, -57.469440993788794, -127.70076271186434, -10.000708661417306, -327.1447630331753, 36.55095890410959, 27.689864864864873, -62.22993670886072, 25.39777777777779, -114.09046511627902, -111.36617647058819, -528.8855769230768, -4.618333333333311, -165.3170848708487, 3.0623853211009333, -785.7435520361989, -124.78961373390555, 15.275731707317092, 41.882597402597426, -82.04574585635355, -1677.1487818696883, 15.061521739130455, -57.63719512195118, -139.87142857142857, -90.51724489795913, 88.56333333333333, -249.11843195266272, -157.04499999999996, -126.98381355932197, -18.931065573770454, -77.55499999999998, -139.14768292682922, -350.70314479638, -24.092741935483843, -442.0527358490565, -573.5507239819003, -155.16882352941175, -161.1794023904382, -7.197567567567546, -417.58055984555983, -552.4826923076922, -16.931716417910422, -78.77826086956519, -540.7168181818181, -359.57667396061265, -512.616346153846, 5.9914285714285995, -140.1793902439024, -61.25999999999996, -58.204210526315734, -80.23737967914434, -36.75367346938772, 12.181386138613888, -315.9492857142857, -408.2651485148514, -153.1098760330578, -984.2816292134831, -167.14694029850745, 79.40612244897963, 9.39797297297298, 60.57928571428573, -58.38388888888885, 68.22750000000002, 65.16823529411766, -440.13726415094334, -26.069999999999965, 15.981086956521764, 29.042674418604676, -133.34999999999997, 14.546626506024126, -155.40832684824898, -182.78225806451604, 13.325000000000017, -5.401666666666642, -638.3103719008263, -84.98249999999997, -99.23844919786092, 7.9994736842105425, 94.04473684210527, 48.73409090909094, -264.0010958904109, -9.924789915966358, -515.4424267100976, 64.71500000000002, 69.88409090909093, 60.35441176470591, -20.426428571428545, 19.13111111111114, 33.70200000000003, -82.77937499999999, -203.60403225806448, 74.805, -86.01314432989686, -17.11743119266052, 73.24756756756759, 56.95894736842107, -227.3511572700296, 41.22357142857144, -95.75654822335022, 8.686666666666682, -146.20289575289576, 64.54500000000002, 52.47773584905662, -308.9789156626506, -705.1216981132075, -170.73363636363635, -16.41752212389379, -298.78149999999994, 17.820217391304368, -6.968333333333305, 50.2388235294118, 26.230000000000018, -391.65900207900205, 16.585180722891593, 51.18100000000002, -125.49747787610616, -353.2351006711409, -48.91920245398771, 61.90637931034485, -72.26749999999997, 100.00352941176472, -126.00999999999996, 0.9795327102803952, -32.6872519083969, 58.34772727272728, -15.584999999999965, 23.30500000000002, -98.4004784688995, 40.18500000000002, -174.42056939501776, 0.44145631067964075, 2.9095604395604653, -159.18528517110263, -46.60159999999996, 71.24875000000003, 51.69603448275863, -646.3566216216216, -51.71618705035968, 73.17000000000003, 73.7058695652174, -83.47619047619044], on average: -117.7589
+Readability scores after: [-367.3346637744034, -22.489482758620667, -199.1263157894736, -18.76652173913041, -220.54249999999993, -29.417692307692278, -942.2467283349562, 19.90857142857145, -34.419199999999975, 16.80661971830989, -233.34979289940827, -8.490103092783471, -20.85603305785122, -95.77816831683164, -57.469440993788794, -127.70076271186434, -10.000708661417306, -327.1447630331753, 36.55095890410959, 27.689864864864873, -62.22993670886072, 25.39777777777779, -114.09046511627902, -111.36617647058819, -528.8855769230768, -4.618333333333311, -165.3170848708487, 3.0623853211009333, -785.7435520361989, -124.78961373390555, 15.275731707317092, 41.882597402597426, -82.04574585635355, -1677.1487818696883, 15.061521739130455, -57.63719512195118, -139.87142857142857, -90.51724489795913, -249.11843195266272, -157.04499999999996, -126.98381355932197, -18.931065573770454, -77.55499999999998, -139.14768292682922, -350.70314479638, -24.092741935483843, -442.0527358490565, -573.5507239819003, -155.16882352941175, -161.1794023904382, -7.197567567567546, -417.58055984555983, -552.4826923076922, -16.931716417910422, -78.77826086956519, -540.7168181818181, -359.57667396061265, -512.616346153846, 5.9914285714285995, -140.1793902439024, -61.25999999999996, -58.204210526315734, -80.23737967914434, -36.75367346938772, 12.181386138613888, -315.9492857142857, -408.2651485148514, -153.1098760330578, -984.2816292134831, -167.14694029850745, 9.39797297297298, -58.38388888888885, -440.13726415094334, -26.069999999999965, 15.981086956521764, 29.042674418604676, -133.34999999999997, 14.546626506024126, -155.40832684824898, -182.78225806451604, 13.325000000000017, -5.401666666666642, -638.3103719008263, -84.98249999999997, -99.23844919786092, 7.9994736842105425, 48.73409090909094, -264.0010958904109, -9.924789915966358, -515.4424267100976, -20.426428571428545, 19.13111111111114, 33.70200000000003, -82.77937499999999, -203.60403225806448, -86.01314432989686, -17.11743119266052, -227.3511572700296, 41.22357142857144, -95.75654822335022, 8.686666666666682, -146.20289575289576, -308.9789156626506, -705.1216981132075, -170.73363636363635, -16.41752212389379, -298.78149999999994, 17.820217391304368, -6.968333333333305, 26.230000000000018, -391.65900207900205, 16.585180722891593, -125.49747787610616, -353.2351006711409, -48.91920245398771, -72.26749999999997, -126.00999999999996, 0.9795327102803952, -32.6872519083969, -15.584999999999965, 23.30500000000002, -98.4004784688995, 40.18500000000002, -174.42056939501776, 0.44145631067964075, 2.9095604395604653, -159.18528517110263, -46.60159999999996, -646.3566216216216, -51.71618705035968, -83.47619047619044], on average after: -159.2508
+Shape after:  (131, 8)
+
+
+Chosen product: B000246GSE has 160 reviews - False, it has 131 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 100.0%
+
+step 1
+index added: 13
+percentage unclustered: 97.7099%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [5, 10, 13]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  13  bought mr bento husband using since sept 2015 ...   0.530515
+
+step 1
+index added: 14
+percentage unclustered: 97.7099%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 97.7099%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 97.7099%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 97.7099%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 97.7099%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 97.7099%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 97.7099%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 97.7099%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 95.4198%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [0, 5, 10, 13]
+			old information: 124, gain: 0.981727085175361
+
+   ind                                             review  relevance
+0  13  bought mr bento husband using since sept 2015 ...   0.530515
+1  22  started new job found place heat reheat food b...   0.397174
+
+step 1
+index added: 23
+percentage unclustered: 95.4198%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 94.6565%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [0, 10, 13, 24]
+			old information: 725, gain: 0.9857061177815895
+
+   ind                                             review  relevance
+0  24  started diet decided best nutritionally well c...   0.596267
+1  13  bought mr bento husband using since sept 2015 ...   0.530515
+2  22  started new job found place heat reheat food b...   0.397174
+
+step 1
+index added: 25
+percentage unclustered: 94.6565%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 92.3664%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [0, 6, 10, 13, 24]
+			old information: 707, gain: 0.9407624633431085
+
+   ind                                             review  relevance
+0  24  started diet decided best nutritionally well c...   0.596267
+1  13  bought mr bento husband using since sept 2015 ...   0.530515
+2  26  received mr bento week ago using daily love mr...   0.500806
+3  22  started new job found place heat reheat food b...   0.397174
+
+step 1
+index added: 27
+percentage unclustered: 92.3664%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 94.6565%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 94.6565%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 94.6565%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 94.6565%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 94.6565%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 93.1298%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [0, 24, 28, 33]
+			old information: 5938, gain: 0.9871002780674314
+
+   ind                                             review  relevance
+0  33  time review ve finished first lunch feel incli...   0.763268
+1  24  started diet decided best nutritionally well c...   0.596267
+2  13  bought mr bento husband using since sept 2015 ...   0.530515
+3  26  received mr bento week ago using daily love mr...   0.500806
+4  22  started new job found place heat reheat food b...   0.397174
+
+step 1
+index added: 34
+percentage unclustered: 92.3664%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [0, 24, 28, 33]
+
+step 1
+index added: 35
+percentage unclustered: 91.6031%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [0, 24, 28, 33]
+
+step 1
+index added: 36
+percentage unclustered: 89.313%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [0, 24, 28, 33]
+
+step 1
+index added: 37
+percentage unclustered: 88.5496%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [0, 24, 28, 33]
+
+step 1
+index added: 38
+percentage unclustered: 88.5496%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 87.7863%
+
+	step 2
+
+		step 3
+		candidate index: 39 with core nodes: [0, 24, 28, 33]
+
+step 1
+index added: 40
+percentage unclustered: 87.02289999999999%
+
+	step 2
+
+		step 3
+		candidate index: 40 with core nodes: [0, 24, 28, 33]
+
+step 1
+index added: 41
+percentage unclustered: 87.02289999999999%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 87.02289999999999%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 86.2595%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [0, 24, 28, 33, 43]
+			old information: 1172, gain: 0.877802106141174
+
+   ind                                             review  relevance
+0  33  time review ve finished first lunch feel incli...   0.763268
+1  43  beware buy please realize may end hating bento...   0.665010
+2  24  started diet decided best nutritionally well c...   0.596267
+3  13  bought mr bento husband using since sept 2015 ...   0.530515
+4  26  received mr bento week ago using daily love mr...   0.500806
+5  22  started new job found place heat reheat food b...   0.397174
+
+step 1
+index added: 44
+percentage unclustered: 86.2595%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 86.2595%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 86.2595%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 83.9695%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [0, 24, 28, 33, 43]
+
+step 1
+index added: 48
+percentage unclustered: 83.9695%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 83.9695%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 83.9695%
+
+	step 2
+
+		step 3
+		candidate index: 50 with core nodes: [0, 24, 28, 33, 43]
+
+step 1
+index added: 51
+percentage unclustered: 87.02289999999999%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 86.2595%
+
+	step 2
+
+		step 3
+		candidate index: 52 with core nodes: [24, 28, 33]
+			old information: 5416, gain: 0.913805999840853
+
+   ind                                             review  relevance
+0  33  time review ve finished first lunch feel incli...   0.763268
+1  43  beware buy please realize may end hating bento...   0.665010
+2  52  ordered mr bento lunch jar tired eating lunch ...   0.664602
+3  24  started diet decided best nutritionally well c...   0.596267
+4  13  bought mr bento husband using since sept 2015 ...   0.530515
+5  26  received mr bento week ago using daily love mr...   0.500806
+6  22  started new job found place heat reheat food b...   0.397174
+
+step 1
+index added: 53
+percentage unclustered: 93.1298%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 93.1298%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 93.1298%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 90.8397%
+
+	step 2
+
+		step 3
+		candidate index: 56 with core nodes: [6, 24, 28, 33]
+
+step 1
+index added: 57
+percentage unclustered: 89.313%
+
+	step 2
+
+		step 3
+		candidate index: 57 with core nodes: [6, 28, 33, 57]
+			old information: 5314, gain: 0.8939024877211197
+
+   ind                                             review  relevance
+0  33  time review ve finished first lunch feel incli...   0.763268
+1  57  unsure would big small reviewers said way smal...   0.727755
+2  43  beware buy please realize may end hating bento...   0.665010
+3  52  ordered mr bento lunch jar tired eating lunch ...   0.664602
+4  24  started diet decided best nutritionally well c...   0.596267
+5  13  bought mr bento husband using since sept 2015 ...   0.530515
+6  26  received mr bento week ago using daily love mr...   0.500806
+7  22  started new job found place heat reheat food b...   0.397174
+
+step 1
+index added: 58
+percentage unclustered: 89.313%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 89.313%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 90.8397%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 88.5496%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 88.5496%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 88.5496%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 90.0763%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 87.7863%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 87.7863%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 87.7863%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 90.0763%
+
+	step 2
+
+		step 3
+		candidate index: 68 with core nodes: [28, 51, 65, 68]
+			old information: 8975, gain: 0.9432690909780472
+
+   ind                                             review  relevance
+0  33  time review ve finished first lunch feel incli...   0.763268
+1  57  unsure would big small reviewers said way smal...   0.727755
+2  43  beware buy please realize may end hating bento...   0.665010
+3  52  ordered mr bento lunch jar tired eating lunch ...   0.664602
+4  68  n t know lunch without mr bento take back know...   0.643518
+5  24  started diet decided best nutritionally well c...   0.596267
+6  13  bought mr bento husband using since sept 2015 ...   0.530515
+7  26  received mr bento week ago using daily love mr...   0.500806
+8  22  started new job found place heat reheat food b...   0.397174
+
+step 1
+index added: 69
+percentage unclustered: 89.313%
+
+	step 2
+
+		step 3
+		candidate index: 69 with core nodes: [51, 65, 68]
+			old information: 1614, gain: 0.8364741641337387
+
+   ind                                             review  relevance
+0  33  time review ve finished first lunch feel incli...   0.763268
+1  57  unsure would big small reviewers said way smal...   0.727755
+2  43  beware buy please realize may end hating bento...   0.665010
+3  52  ordered mr bento lunch jar tired eating lunch ...   0.664602
+4  68  n t know lunch without mr bento take back know...   0.643518
+5  24  started diet decided best nutritionally well c...   0.596267
+6  13  bought mr bento husband using since sept 2015 ...   0.530515
+7  69  sick little food containers rattling around bo...   0.523432
+8  26  received mr bento week ago using daily love mr...   0.500806
+9  22  started new job found place heat reheat food b...   0.397174
+
+step 1
+index added: 70
+percentage unclustered: 89.313%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 89.313%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 83.9695%
+
+	step 2
+
+		step 3
+		candidate index: 72 with core nodes: [5, 65, 68, 72]
+			old information: 6185, gain: 0.8810645539680403
+
+    ind                                             review  relevance
+0   33  time review ve finished first lunch feel incli...   0.763268
+1   57  unsure would big small reviewers said way smal...   0.727755
+2   43  beware buy please realize may end hating bento...   0.665010
+3   52  ordered mr bento lunch jar tired eating lunch ...   0.664602
+4   68  n t know lunch without mr bento take back know...   0.643518
+5   72  buying mr bento ve searched lunch boxes offere...   0.627274
+6   24  started diet decided best nutritionally well c...   0.596267
+7   13  bought mr bento husband using since sept 2015 ...   0.530515
+8   69  sick little food containers rattling around bo...   0.523432
+9   26  received mr bento week ago using daily love mr...   0.500806
+10  22  started new job found place heat reheat food b...   0.397174
+
+step 1
+index added: 73
+percentage unclustered: 80.916%
+
+	step 2
+
+		step 3
+		candidate index: 73 with core nodes: [6, 28, 33, 73]
+			old information: 830, gain: 0.6563146997929606
+
+    ind                                             review  relevance
+0   33  time review ve finished first lunch feel incli...   0.763268
+1   57  unsure would big small reviewers said way smal...   0.727755
+2   43  beware buy please realize may end hating bento...   0.665010
+3   52  ordered mr bento lunch jar tired eating lunch ...   0.664602
+4   68  n t know lunch without mr bento take back know...   0.643518
+5   72  buying mr bento ve searched lunch boxes offere...   0.627274
+6   73  ve less week love take hot food hot easy lunch...   0.626509
+7   24  started diet decided best nutritionally well c...   0.596267
+8   13  bought mr bento husband using since sept 2015 ...   0.530515
+9   69  sick little food containers rattling around bo...   0.523432
+10  26  received mr bento week ago using daily love mr...   0.500806
+11  22  started new job found place heat reheat food b...   0.397174
+
+step 1
+index added: 74
+percentage unclustered: 77.0992%
+
+	step 2
+
+		step 3
+		candidate index: 74 with core nodes: [6, 28, 33, 73]
+
+step 1
+index added: 75
+percentage unclustered: 77.0992%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 76.3359%
+
+	step 2
+
+		step 3
+		candidate index: 76 with core nodes: [5, 65, 68, 72]
+
+step 1
+index added: 77
+percentage unclustered: 75.5725%
+
+	step 2
+
+		step 3
+		candidate index: 77 with core nodes: [5, 65, 68, 72]
+
+step 1
+index added: 78
+percentage unclustered: 76.3359%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 76.3359%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 72.51910000000001%
+
+	step 2
+
+		step 3
+		candidate index: 80 with core nodes: [26, 51, 68, 69]
+
+step 1
+index added: 81
+percentage unclustered: 72.51910000000001%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 76.3359%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 75.5725%
+
+	step 2
+
+		step 3
+		candidate index: 83 with core nodes: [6, 24, 28, 33]
+
+step 1
+index added: 84
+percentage unclustered: 75.5725%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 75.5725%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 74.8092%
+
+	step 2
+
+		step 3
+		candidate index: 86 with core nodes: [6, 24, 28, 33]
+
+step 1
+index added: 87
+percentage unclustered: 74.8092%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 71.7557%
+
+	step 2
+
+		step 3
+		candidate index: 88 with core nodes: [6, 24, 28, 33]
+
+step 1
+index added: 89
+percentage unclustered: 71.7557%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 67.93889999999999%
+
+	step 2
+
+		step 3
+		candidate index: 90 with core nodes: [6, 28, 33, 82]
+
+step 1
+index added: 91
+percentage unclustered: 67.93889999999999%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 67.1756%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 67.1756%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 67.1756%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 67.1756%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 64.88550000000001%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 64.1221%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 64.1221%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 64.1221%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 64.1221%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 64.1221%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 65.6489%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 65.6489%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 65.6489%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 64.88550000000001%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 64.88550000000001%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 64.88550000000001%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 64.1221%
+
+	step 2
+
+		step 3
+		candidate index: 108 with core nodes: [26, 51, 68, 69]
+
+step 1
+index added: 109
+percentage unclustered: 64.1221%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 62.5954%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 62.5954%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 62.5954%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 62.5954%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 61.8321%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 61.8321%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 61.0687%
+
+	step 2
+
+		step 3
+		candidate index: 116 with core nodes: [26, 51, 68, 69]
+
+step 1
+index added: 117
+percentage unclustered: 57.2519%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 56.4885%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 56.4885%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 56.4885%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 56.4885%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 55.7252%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 55.7252%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 54.9618%
+
+	step 2
+
+		step 3
+		candidate index: 124 with core nodes: [5, 65, 68, 72]
+
+step 1
+index added: 125
+percentage unclustered: 54.1985%
+
+	step 2
+
+		step 3
+		candidate index: 125 with core nodes: [5, 65, 68, 72]
+
+step 1
+index added: 126
+percentage unclustered: 54.1985%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 54.1985%
+
+	step 2
+
+step 1
+index added: 128
+percentage unclustered: 53.4351%
+
+	step 2
+
+		step 3
+		candidate index: 128 with core nodes: [6, 28, 33]
+			old information: 8623, gain: 0.9051907070840343
+
+     ind                                             review  relevance
+0    33  time review ve finished first lunch feel incli...   0.763268
+1    57  unsure would big small reviewers said way smal...   0.727755
+2   128  4 year old son homeschooled pretty much since ...   0.711611
+3    43  beware buy please realize may end hating bento...   0.665010
+4    52  ordered mr bento lunch jar tired eating lunch ...   0.664602
+5    68  n t know lunch without mr bento take back know...   0.643518
+6    72  buying mr bento ve searched lunch boxes offere...   0.627274
+7    73  ve less week love take hot food hot easy lunch...   0.626509
+8    24  started diet decided best nutritionally well c...   0.596267
+9    13  bought mr bento husband using since sept 2015 ...   0.530515
+10   69  sick little food containers rattling around bo...   0.523432
+11   26  received mr bento week ago using daily love mr...   0.500806
+12   22  started new job found place heat reheat food b...   0.397174
+
+step 1
+index added: 129
+percentage unclustered: 54.1985%
+
+	step 2
+
+		step 3
+		candidate index: 129 with core nodes: [5, 65, 68, 72]
+
+step 1
+index added: 130
+percentage unclustered: 54.1985%
+
+	step 2
+
+--- 1017.2709262371063 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 97.7099, 97.7099, 97.7099, 97.7099, 97.7099, 97.7099, 97.7099, 97.7099, 97.7099, 95.4198, 95.4198, 94.6565, 94.6565, 92.3664, 92.3664, 94.6565, 94.6565, 94.6565, 94.6565, 94.6565, 93.1298, 92.3664, 91.6031, 89.313, 88.5496, 88.5496, 87.7863, 87.02289999999999, 87.02289999999999, 87.02289999999999, 86.2595, 86.2595, 86.2595, 86.2595, 83.9695, 83.9695, 83.9695, 83.9695, 87.02289999999999, 86.2595, 93.1298, 93.1298, 93.1298, 90.8397, 89.313, 89.313, 89.313, 90.8397, 88.5496, 88.5496, 88.5496, 90.0763, 87.7863, 87.7863, 87.7863, 90.0763, 89.313, 89.313, 89.313, 83.9695, 80.916, 77.0992, 77.0992, 76.3359, 75.5725, 76.3359, 76.3359, 72.51910000000001, 72.51910000000001, 76.3359, 75.5725, 75.5725, 75.5725, 74.8092, 74.8092, 71.7557, 71.7557, 67.93889999999999, 67.93889999999999, 67.1756, 67.1756, 67.1756, 67.1756, 64.88550000000001, 64.1221, 64.1221, 64.1221, 64.1221, 64.1221, 65.6489, 65.6489, 65.6489, 64.88550000000001, 64.88550000000001, 64.88550000000001, 64.1221, 64.1221, 62.5954, 62.5954, 62.5954, 62.5954, 61.8321, 61.8321, 61.0687, 57.2519, 56.4885, 56.4885, 56.4885, 56.4885, 55.7252, 55.7252, 54.9618, 54.1985, 54.1985, 54.1985, 53.4351, 54.1985, 54.1985], mean: 80.2651
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0        61   33   0.763268  time review ve finished first lunch feel incli...
+1       110   57   0.727755  unsure would big small reviewers said way smal...
+2        20  128   0.711611  4 year old son homeschooled pretty much since ...
+3       113   43   0.665010  beware buy please realize may end hating bento...
+4       107   52   0.664602  ordered mr bento lunch jar tired eating lunch ...
+5        45   68   0.643518  n t know lunch without mr bento take back know...
+6        37   72   0.627274  buying mr bento ve searched lunch boxes offere...
+7       114   73   0.626509  ve less week love take hot food hot easy lunch...
+8       102   24   0.596267  started diet decided best nutritionally well c...
+9         8   13   0.530515  bought mr bento husband using since sept 2015 ...
+10       59   69   0.523432  sick little food containers rattling around bo...
+11      104   26   0.500806  received mr bento week ago using daily love mr...
+12       77   22   0.397174  started new job found place heat reheat food b...

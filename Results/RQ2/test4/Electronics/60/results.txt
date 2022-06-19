@@ -1,0 +1,438 @@
+------- Category: Electronics -------
+Found asin_id: B00004THD0
+Shape:  (60, 7)
+
+Readability scores: [-21.564687499999977, 56.257000000000026, -148.33558704453438, -90.75533678756474, 70.30710526315791, -83.37459459459457, -69.98658959537568, 66.34934782608697, 52.28076923076925, -6.08847826086955, -31.63129496402874, -267.3278436657681, -140.9562948207171, 35.29038961038964, -13.774999999999977, -844.9805787781349, 52.93000000000002, -60.39525139664801, 53.30937500000002, -568.8134529147982, -15.940451127819514, -97.83307692307689, -8.930796460176978, -111.40399999999995, -220.01862385321095, -116.11022935779812, -221.99270096463016, -286.11922077922077, 51.11790322580649, -244.71988269794716, 10.625000000000028, -147.22370967741932, -129.60999999999996, -407.2189221556886, -86.63255102040812, -373.6041052631578, -392.0474127310061, 47.14923076923078, 4.659090909090935, -175.77183745583034, -14.190336134453744, -61.66810344827584, -194.93412371134013, -66.2136813186813, -90.26999999999997, -67.45728813559317, 77.12483870967742, 29.79688311688315, 36.83581081081081, 69.46391304347827, -31.478749999999977, -445.5330073800738, 37.36500000000001, -11.129838709677387, -14.253947368421038, -166.7805882352941, 34.743709677419375, 59.46214285714288, 51.13000000000001, -43.7976470588235], on average: -94.9112
+Readability scores after: [-21.564687499999977, -148.33558704453438, -90.75533678756474, -83.37459459459457, -69.98658959537568, -6.08847826086955, -31.63129496402874, -267.3278436657681, -140.9562948207171, 35.29038961038964, -13.774999999999977, -844.9805787781349, -60.39525139664801, -568.8134529147982, -15.940451127819514, -97.83307692307689, -8.930796460176978, -111.40399999999995, -220.01862385321095, -116.11022935779812, -221.99270096463016, -286.11922077922077, -244.71988269794716, 10.625000000000028, -147.22370967741932, -129.60999999999996, -407.2189221556886, -86.63255102040812, -373.6041052631578, -392.0474127310061, 47.14923076923078, 4.659090909090935, -175.77183745583034, -14.190336134453744, -61.66810344827584, -194.93412371134013, -66.2136813186813, -90.26999999999997, -67.45728813559317, 29.79688311688315, 36.83581081081081, -31.478749999999977, -445.5330073800738, 37.36500000000001, -11.129838709677387, -14.253947368421038, -166.7805882352941, 34.743709677419375, -43.7976470588235], on average after: -129.6817
+Shape after:  (49, 8)
+
+
+Chosen product: B00004THD0 has 60 reviews - False, it has 49 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 93.8776%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [1, 2, 11]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  11  bottom line front good underrated telephoto zo...   0.546957
+
+step 1
+index added: 12
+percentage unclustered: 91.83670000000001%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [1, 2, 11, 12]
+			old information: 235, gain: 0.9292381812707016
+
+   ind                                             review  relevance
+0  11  bottom line front good underrated telephoto zo...   0.546957
+1  12  professional mom 99 photos take children purch...   0.478453
+
+step 1
+index added: 13
+percentage unclustered: 85.7143%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [8, 10, 11, 13]
+			old information: 1617, gain: 0.9771855070827925
+
+   ind                                             review  relevance
+0  13  let s go back two years ago junior college ext...   0.610526
+1  11  bottom line front good underrated telephoto zo...   0.546957
+2  12  professional mom 99 photos take children purch...   0.478453
+
+step 1
+index added: 14
+percentage unclustered: 83.6735%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [8, 10, 11, 13]
+
+step 1
+index added: 15
+percentage unclustered: 81.6327%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 81.6327%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 79.5918%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [11, 12, 13, 17]
+			old information: 851, gain: 0.8701754385964913
+
+   ind                                             review  relevance
+0  13  let s go back two years ago junior college ext...   0.610526
+1  17  husband bought expand canon t1i dslr kit lens ...   0.584364
+2  11  bottom line front good underrated telephoto zo...   0.546957
+3  12  professional mom 99 photos take children purch...   0.478453
+
+step 1
+index added: 18
+percentage unclustered: 81.6327%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [11, 17, 18]
+			old information: 865, gain: 0.9507907611787462
+
+   ind                                             review  relevance
+0  18  several top quality canon l lenses used using ...   0.666815
+1  13  let s go back two years ago junior college ext...   0.610526
+2  17  husband bought expand canon t1i dslr kit lens ...   0.584364
+3  11  bottom line front good underrated telephoto zo...   0.546957
+4  12  professional mom 99 photos take children purch...   0.478453
+
+step 1
+index added: 19
+percentage unclustered: 87.7551%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 87.7551%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 87.7551%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 77.551%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [11, 13, 18, 22]
+			old information: 1455, gain: 0.8998968008255934
+
+   ind                                             review  relevance
+0  18  several top quality canon l lenses used using ...   0.666815
+1  22  initially bought lens package six months ago d...   0.649315
+2  13  let s go back two years ago junior college ext...   0.610526
+3  17  husband bought expand canon t1i dslr kit lens ...   0.584364
+4  11  bottom line front good underrated telephoto zo...   0.546957
+5  12  professional mom 99 photos take children purch...   0.478453
+
+step 1
+index added: 23
+percentage unclustered: 77.551%
+
+	step 2
+
+		step 3
+		candidate index: 23 with core nodes: [11, 13, 18, 22]
+
+step 1
+index added: 24
+percentage unclustered: 75.5102%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [11, 13, 18, 22]
+
+step 1
+index added: 25
+percentage unclustered: 73.46940000000001%
+
+	step 2
+
+		step 3
+		candidate index: 25 with core nodes: [11, 13, 18, 22]
+
+step 1
+index added: 26
+percentage unclustered: 73.46940000000001%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 73.46940000000001%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [11, 13, 18, 22]
+
+step 1
+index added: 28
+percentage unclustered: 71.4286%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [11, 13, 18, 28]
+			old information: 2073, gain: 0.9498403019744484
+
+   ind                                             review  relevance
+0  28  n t touch go near lens photographer even modic...   0.727401
+1  18  several top quality canon l lenses used using ...   0.666815
+2  22  initially bought lens package six months ago d...   0.649315
+3  13  let s go back two years ago junior college ext...   0.610526
+4  17  husband bought expand canon t1i dslr kit lens ...   0.584364
+5  11  bottom line front good underrated telephoto zo...   0.546957
+6  12  professional mom 99 photos take children purch...   0.478453
+
+step 1
+index added: 29
+percentage unclustered: 71.4286%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 71.4286%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 69.3878%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 69.3878%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 67.3469%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 67.3469%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 67.3469%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 59.1837%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [13, 18, 28, 36]
+			old information: 780, gain: 0.8789007918025151
+
+   ind                                             review  relevance
+0  28  n t touch go near lens photographer even modic...   0.727401
+1  18  several top quality canon l lenses used using ...   0.666815
+2  36  bought lens used adorama via amazon e 104 00 s...   0.653986
+3  22  initially bought lens package six months ago d...   0.649315
+4  13  let s go back two years ago junior college ext...   0.610526
+5  17  husband bought expand canon t1i dslr kit lens ...   0.584364
+6  11  bottom line front good underrated telephoto zo...   0.546957
+7  12  professional mom 99 photos take children purch...   0.478453
+
+step 1
+index added: 37
+percentage unclustered: 59.1837%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 57.1429%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [13, 18, 28, 36]
+
+step 1
+index added: 39
+percentage unclustered: 57.1429%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 63.2653%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 61.2245%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [13, 18, 28, 36]
+
+step 1
+index added: 42
+percentage unclustered: 59.1837%
+
+	step 2
+
+		step 3
+		candidate index: 42 with core nodes: [13, 28, 36, 42]
+			old information: 3740, gain: 0.914914914914915
+
+   ind                                             review  relevance
+0  42  s especially take account intended users use c...   0.744679
+1  28  n t touch go near lens photographer even modic...   0.727401
+2  18  several top quality canon l lenses used using ...   0.666815
+3  36  bought lens used adorama via amazon e 104 00 s...   0.653986
+4  22  initially bought lens package six months ago d...   0.649315
+5  13  let s go back two years ago junior college ext...   0.610526
+6  17  husband bought expand canon t1i dslr kit lens ...   0.584364
+7  11  bottom line front good underrated telephoto zo...   0.546957
+8  12  professional mom 99 photos take children purch...   0.478453
+
+step 1
+index added: 43
+percentage unclustered: 57.1429%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 57.1429%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 55.102%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [13, 28, 36, 42]
+
+step 1
+index added: 46
+percentage unclustered: 48.9796%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [13, 28, 36, 42]
+
+step 1
+index added: 47
+percentage unclustered: 46.9388%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [13, 28, 36, 42]
+
+step 1
+index added: 48
+percentage unclustered: 44.898%
+
+	step 2
+
+		step 3
+		candidate index: 48 with core nodes: [13, 28, 36, 42]
+			old information: 837, gain: 0.7479674796747967
+
+   ind                                             review  relevance
+0  42  s especially take account intended users use c...   0.744679
+1  28  n t touch go near lens photographer even modic...   0.727401
+2  18  several top quality canon l lenses used using ...   0.666815
+3  48  much better lens expected price ve problems ta...   0.662324
+4  36  bought lens used adorama via amazon e 104 00 s...   0.653986
+5  22  initially bought lens package six months ago d...   0.649315
+6  13  let s go back two years ago junior college ext...   0.610526
+7  17  husband bought expand canon t1i dslr kit lens ...   0.584364
+8  11  bottom line front good underrated telephoto zo...   0.546957
+9  12  professional mom 99 photos take children purch...   0.478453
+
+--- 120.48758292198181 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 93.8776, 91.83670000000001, 85.7143, 83.6735, 81.6327, 81.6327, 79.5918, 81.6327, 87.7551, 87.7551, 87.7551, 77.551, 77.551, 75.5102, 73.46940000000001, 73.46940000000001, 73.46940000000001, 71.4286, 71.4286, 71.4286, 69.3878, 69.3878, 67.3469, 67.3469, 67.3469, 59.1837, 59.1837, 57.1429, 57.1429, 63.2653, 61.2245, 59.1837, 57.1429, 57.1429, 55.102, 48.9796, 46.9388, 44.898], mean: 76.0747
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0        1  42   0.744679  s especially take account intended users use c...
+1       26  28   0.727401  n t touch go near lens photographer even modic...
+2       15  18   0.666815  several top quality canon l lenses used using ...
+3       45  48   0.662324  much better lens expected price ve problems ta...
+4       42  36   0.653986  bought lens used adorama via amazon e 104 00 s...
+5       39  22   0.649315  initially bought lens package six months ago d...
+6       33  13   0.610526  let s go back two years ago junior college ext...
+7       19  17   0.584364  husband bought expand canon t1i dslr kit lens ...
+8        9  11   0.546957  bottom line front good underrated telephoto zo...
+9       11  12   0.478453  professional mom 99 photos take children purch...

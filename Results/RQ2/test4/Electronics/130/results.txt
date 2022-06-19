@@ -1,0 +1,1092 @@
+------- Category: Electronics -------
+Found asin_id: B00AEMGGU2
+Shape:  (130, 7)
+
+Readability scores: [-716.4451685393257, -594.9377745664739, -174.68833333333328, 23.021176470588273, 3.383146067415751, -78.18447368421052, -48.62699999999995, -14.018333333333317, 91.69666666666669, -180.50019305019302, -96.04304123711336, 14.225000000000009, -60.4330188679245, 11.46580645161292, -8.4673913043478, -47.63590909090907, -56.772105263157854, -1270.4612611275961, 47.60536585365857, -92.03249999999998, -151.3020408163265, -157.63532818532815, 44.21225352112678, 17.339146341463433, -29.238076923076903, -26.654251968503928, -370.8349999999999, -57.46806451612899, -0.8091208791208686, -148.6617721518987, -42.79556291390726, -50.372580645161264, -151.94814229249005, 14.913636363636385, -257.4405865921787, 63.86500000000002, 21.400149253731357, -204.52635179153089, -81.92969879518068, -34.624656488549576, 1.8635365853658783, -15.164368932038812, 57.23000000000002, 23.36230769230771, 39.07776119402986, -17.279528301886756, -22.721428571428547, -115.5020547945205, -479.8331443298968, -33.46156249999997, -30.65110236220471, -75.0466480446927, 49.48500000000002, 0.805000000000021, 56.071896551724144, -3533.163084007814, 11.765000000000015, 4.768901098901111, -237.2353731343283, -287.93610966057435, -975.4113854853911, -399.4123541247484, 12.159117647058835, -135.28954545454542, 22.700843373493996, -445.91833333333324, 31.119594594594602, 26.795769230769253, -389.56951120162927, -310.68445520581105, -947.684221789883, 54.45000000000003, -488.9607342657342, -43.616293706293675, 72.72000000000003, 47.53000000000003, -34.93255813953485, -962.2129525653436, -617.0882933709448, -382.2266317991631, 26.50254237288138, 4.614678899082591, -54.62840490797545, -416.26009708737854, -12.850927835051522, -102.47915841584154, -102.75999999999998, -374.79499999999996, -112.5656650246305, -636.4462328767122, -418.9988212180746, 51.022105263157904, -32.55499999999998, -95.05452261306529, -1.2205940594059115, -581.5244858420267, -1.2315853658536327, 60.12142857142859, 73.72954545454547, -51.08795774647885, -195.56479020979015, -0.5431632653060916, -3.7643925233644637, -215.37145569620247, -63.7750310559006, 8.095420560747698, -445.781724137931, -800.7030508474575, 14.975000000000023, -73.47624999999996, -82.36181818181815, -516.1698352553541, -27.126818181818166, -1283.6626315789472, 49.28528301886795, -355.69550335570466, -83.0612068965517, -109.77560975609754, -296.0319999999999, 30.460000000000022, -1057.3434816753925, -142.17040485829955, -516.7272772277227, -171.60838345864653, -38.66318181818178, -2367.1579629629628, -1026.9797749774978, -209.55459183673463, -431.29163187855784, -315.79767942583726], on average: -221.7482
+Readability scores after: [-716.4451685393257, -594.9377745664739, -174.68833333333328, 23.021176470588273, 3.383146067415751, -78.18447368421052, -48.62699999999995, -14.018333333333317, -180.50019305019302, -96.04304123711336, 14.225000000000009, -60.4330188679245, 11.46580645161292, -8.4673913043478, -47.63590909090907, -56.772105263157854, -1270.4612611275961, 47.60536585365857, -92.03249999999998, -151.3020408163265, -157.63532818532815, 44.21225352112678, 17.339146341463433, -29.238076923076903, -26.654251968503928, -370.8349999999999, -57.46806451612899, -0.8091208791208686, -148.6617721518987, -42.79556291390726, -50.372580645161264, -151.94814229249005, 14.913636363636385, -257.4405865921787, 21.400149253731357, -204.52635179153089, -81.92969879518068, -34.624656488549576, 1.8635365853658783, -15.164368932038812, 23.36230769230771, 39.07776119402986, -17.279528301886756, -22.721428571428547, -115.5020547945205, -479.8331443298968, -33.46156249999997, -30.65110236220471, -75.0466480446927, 49.48500000000002, 0.805000000000021, -3533.163084007814, 11.765000000000015, 4.768901098901111, -237.2353731343283, -287.93610966057435, -975.4113854853911, -399.4123541247484, 12.159117647058835, -135.28954545454542, 22.700843373493996, -445.91833333333324, 31.119594594594602, 26.795769230769253, -389.56951120162927, -310.68445520581105, -947.684221789883, -488.9607342657342, -43.616293706293675, 47.53000000000003, -34.93255813953485, -962.2129525653436, -617.0882933709448, -382.2266317991631, 26.50254237288138, 4.614678899082591, -54.62840490797545, -416.26009708737854, -12.850927835051522, -102.47915841584154, -102.75999999999998, -374.79499999999996, -112.5656650246305, -636.4462328767122, -418.9988212180746, -32.55499999999998, -95.05452261306529, -1.2205940594059115, -581.5244858420267, -1.2315853658536327, -51.08795774647885, -195.56479020979015, -0.5431632653060916, -3.7643925233644637, -215.37145569620247, -63.7750310559006, 8.095420560747698, -445.781724137931, -800.7030508474575, 14.975000000000023, -73.47624999999996, -82.36181818181815, -516.1698352553541, -27.126818181818166, -1283.6626315789472, 49.28528301886795, -355.69550335570466, -83.0612068965517, -109.77560975609754, -296.0319999999999, 30.460000000000022, -1057.3434816753925, -142.17040485829955, -516.7272772277227, -171.60838345864653, -38.66318181818178, -2367.1579629629628, -1026.9797749774978, -209.55459183673463, -431.29163187855784, -315.79767942583726], on average after: -243.0428
+Shape after:  (121, 8)
+
+
+Chosen product: B00AEMGGU2 has 130 reviews - False, it has 121 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 97.5207%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [0, 3, 8]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   8  jvc high definition tv better average sound ho...   0.463865
+
+step 1
+index added: 9
+percentage unclustered: 97.5207%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 97.5207%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 95.0413%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [0, 3, 6, 8, 11]
+			old information: 47, gain: 0.9835087719298246
+
+   ind                                             review  relevance
+0   8  jvc high definition tv better average sound ho...   0.463865
+1  11  bought everyone rated high set super easy easi...   0.292765
+
+step 1
+index added: 12
+percentage unclustered: 94.2149%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [0, 3, 8]
+			old information: 83, gain: 0.9198067632850242
+
+   ind                                             review  relevance
+0   8  jvc high definition tv better average sound ho...   0.463865
+1  12  bought play 1 play 3 playbar set 3 different r...   0.306599
+2  11  bought everyone rated high set super easy easi...   0.292765
+
+step 1
+index added: 13
+percentage unclustered: 94.2149%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 94.2149%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 96.6942%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 96.6942%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 95.8678%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [6, 10, 11, 12, 17]
+			old information: 32, gain: 0.8735177865612648
+
+   ind                                             review  relevance
+0   8  jvc high definition tv better average sound ho...   0.463865
+1  12  bought play 1 play 3 playbar set 3 different r...   0.306599
+2  17  much harder sync play advertised 4 sonos zones...   0.296936
+3  11  bought everyone rated high set super easy easi...   0.292765
+
+step 1
+index added: 18
+percentage unclustered: 95.8678%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 93.3884%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [0, 6, 15, 19]
+			old information: 209, gain: 0.9785200411099692
+
+   ind                                             review  relevance
+0   8  jvc high definition tv better average sound ho...   0.463865
+1  19  s sonos sucks n nrestriction number one reason...   0.430414
+2  12  bought play 1 play 3 playbar set 3 different r...   0.306599
+3  17  much harder sync play advertised 4 sonos zones...   0.296936
+4  11  bought everyone rated high set super easy easi...   0.292765
+
+step 1
+index added: 20
+percentage unclustered: 93.3884%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 91.7355%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [0, 15, 19]
+
+step 1
+index added: 22
+percentage unclustered: 90.9091%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [0, 15, 19, 22]
+			old information: 53, gain: 0.9655844155844155
+
+   ind                                             review  relevance
+0   8  jvc high definition tv better average sound ho...   0.463865
+1  19  s sonos sucks n nrestriction number one reason...   0.430414
+2  22  samsung un55ks9500 curved 55 inch 4k ultra hd ...   0.428812
+3  12  bought play 1 play 3 playbar set 3 different r...   0.306599
+4  17  much harder sync play advertised 4 sonos zones...   0.296936
+5  11  bought everyone rated high set super easy easi...   0.292765
+
+step 1
+index added: 23
+percentage unclustered: 90.9091%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 90.9091%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 90.9091%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 90.9091%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 90.9091%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 90.0826%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [0, 15, 19, 22]
+			old information: 118, gain: 0.9865573023467761
+
+   ind                                             review  relevance
+0   8  jvc high definition tv better average sound ho...   0.463865
+1  19  s sonos sucks n nrestriction number one reason...   0.430414
+2  22  samsung un55ks9500 curved 55 inch 4k ultra hd ...   0.428812
+3  28  ve player controller two half years satisfied ...   0.374790
+4  12  bought play 1 play 3 playbar set 3 different r...   0.306599
+5  17  much harder sync play advertised 4 sonos zones...   0.296936
+6  11  bought everyone rated high set super easy easi...   0.292765
+
+step 1
+index added: 29
+percentage unclustered: 90.0826%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 87.6033%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [0, 15, 22, 25]
+
+step 1
+index added: 31
+percentage unclustered: 88.4298%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 88.4298%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 87.6033%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [0, 15, 22, 25, 33]
+			old information: 638, gain: 0.9594997778200978
+
+   ind                                             review  relevance
+0  33  ll admit sonos playbar cheap probably best val...   0.701427
+1   8  jvc high definition tv better average sound ho...   0.463865
+2  19  s sonos sucks n nrestriction number one reason...   0.430414
+3  22  samsung un55ks9500 curved 55 inch 4k ultra hd ...   0.428812
+4  28  ve player controller two half years satisfied ...   0.374790
+5  12  bought play 1 play 3 playbar set 3 different r...   0.306599
+6  17  much harder sync play advertised 4 sonos zones...   0.296936
+7  11  bought everyone rated high set super easy easi...   0.292765
+
+step 1
+index added: 34
+percentage unclustered: 87.6033%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 87.6033%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 87.6033%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 86.7769%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [0, 15, 22, 25, 33]
+			old information: 172, gain: 0.9412166780587833
+
+   ind                                             review  relevance
+0  33  ll admit sonos playbar cheap probably best val...   0.701427
+1  37  disappointing soundbar thought would great pur...   0.468750
+2   8  jvc high definition tv better average sound ho...   0.463865
+3  19  s sonos sucks n nrestriction number one reason...   0.430414
+4  22  samsung un55ks9500 curved 55 inch 4k ultra hd ...   0.428812
+5  28  ve player controller two half years satisfied ...   0.374790
+6  12  bought play 1 play 3 playbar set 3 different r...   0.306599
+7  17  much harder sync play advertised 4 sonos zones...   0.296936
+8  11  bought everyone rated high set super easy easi...   0.292765
+
+step 1
+index added: 38
+percentage unclustered: 86.7769%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 86.7769%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 87.6033%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 87.6033%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 88.4298%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 88.4298%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 88.4298%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 90.0826%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [11, 15, 19, 22, 28, 37, 45]
+			old information: 1251, gain: 0.9745426425998657
+
+   ind                                             review  relevance
+0  33  ll admit sonos playbar cheap probably best val...   0.701427
+1  45  first let s address elephant room price tag th...   0.573432
+2  37  disappointing soundbar thought would great pur...   0.468750
+3   8  jvc high definition tv better average sound ho...   0.463865
+4  19  s sonos sucks n nrestriction number one reason...   0.430414
+5  22  samsung un55ks9500 curved 55 inch 4k ultra hd ...   0.428812
+6  28  ve player controller two half years satisfied ...   0.374790
+7  12  bought play 1 play 3 playbar set 3 different r...   0.306599
+8  17  much harder sync play advertised 4 sonos zones...   0.296936
+9  11  bought everyone rated high set super easy easi...   0.292765
+
+step 1
+index added: 46
+percentage unclustered: 90.0826%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 89.2562%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [11, 15, 19, 22, 28, 37, 45, 47]
+			old information: 282, gain: 0.9010526315789473
+
+    ind                                             review  relevance
+0   33  ll admit sonos playbar cheap probably best val...   0.701427
+1   45  first let s address elephant room price tag th...   0.573432
+2   47  spending couple hours trying make sound come p...   0.485638
+3   37  disappointing soundbar thought would great pur...   0.468750
+4    8  jvc high definition tv better average sound ho...   0.463865
+5   19  s sonos sucks n nrestriction number one reason...   0.430414
+6   22  samsung un55ks9500 curved 55 inch 4k ultra hd ...   0.428812
+7   28  ve player controller two half years satisfied ...   0.374790
+8   12  bought play 1 play 3 playbar set 3 different r...   0.306599
+9   17  much harder sync play advertised 4 sonos zones...   0.296936
+10  11  bought everyone rated high set super easy easi...   0.292765
+
+step 1
+index added: 48
+percentage unclustered: 88.4298%
+
+	step 2
+
+		step 3
+		candidate index: 48 with core nodes: [11, 15, 19, 22, 28, 37, 45]
+			old information: 614, gain: 0.8917298536413331
+
+    ind                                             review  relevance
+0   33  ll admit sonos playbar cheap probably best val...   0.701427
+1   45  first let s address elephant room price tag th...   0.573432
+2   47  spending couple hours trying make sound come p...   0.485638
+3   37  disappointing soundbar thought would great pur...   0.468750
+4    8  jvc high definition tv better average sound ho...   0.463865
+5   48  great soundbar want use sonos ecosystem love c...   0.454665
+6   19  s sonos sucks n nrestriction number one reason...   0.430414
+7   22  samsung un55ks9500 curved 55 inch 4k ultra hd ...   0.428812
+8   28  ve player controller two half years satisfied ...   0.374790
+9   12  bought play 1 play 3 playbar set 3 different r...   0.306599
+10  17  much harder sync play advertised 4 sonos zones...   0.296936
+11  11  bought everyone rated high set super easy easi...   0.292765
+
+step 1
+index added: 49
+percentage unclustered: 88.4298%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 87.6033%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 86.7769%
+
+	step 2
+
+		step 3
+		candidate index: 51 with core nodes: [37, 48, 51]
+			old information: 6596, gain: 0.9964233038348083
+
+    ind                                             review  relevance
+0   33  ll admit sonos playbar cheap probably best val...   0.701427
+1   45  first let s address elephant room price tag th...   0.573432
+2   51  wrote review new heos sound bar realized yet w...   0.542580
+3   47  spending couple hours trying make sound come p...   0.485638
+4   37  disappointing soundbar thought would great pur...   0.468750
+5    8  jvc high definition tv better average sound ho...   0.463865
+6   48  great soundbar want use sonos ecosystem love c...   0.454665
+7   19  s sonos sucks n nrestriction number one reason...   0.430414
+8   22  samsung un55ks9500 curved 55 inch 4k ultra hd ...   0.428812
+9   28  ve player controller two half years satisfied ...   0.374790
+10  12  bought play 1 play 3 playbar set 3 different r...   0.306599
+11  17  much harder sync play advertised 4 sonos zones...   0.296936
+12  11  bought everyone rated high set super easy easi...   0.292765
+
+step 1
+index added: 52
+percentage unclustered: 86.7769%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 85.9504%
+
+	step 2
+
+		step 3
+		candidate index: 53 with core nodes: [11, 15, 45]
+
+step 1
+index added: 54
+percentage unclustered: 85.9504%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 83.4711%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 82.6446%
+
+	step 2
+
+		step 3
+		candidate index: 56 with core nodes: [48, 51, 55, 56]
+			old information: 7837, gain: 0.9579458560274744
+
+    ind                                             review  relevance
+0   33  ll admit sonos playbar cheap probably best val...   0.701427
+1   56  sonos legendary good reason really produce com...   0.675474
+2   45  first let s address elephant room price tag th...   0.573432
+3   51  wrote review new heos sound bar realized yet w...   0.542580
+4   47  spending couple hours trying make sound come p...   0.485638
+5   37  disappointing soundbar thought would great pur...   0.468750
+6    8  jvc high definition tv better average sound ho...   0.463865
+7   48  great soundbar want use sonos ecosystem love c...   0.454665
+8   19  s sonos sucks n nrestriction number one reason...   0.430414
+9   22  samsung un55ks9500 curved 55 inch 4k ultra hd ...   0.428812
+10  28  ve player controller two half years satisfied ...   0.374790
+11  12  bought play 1 play 3 playbar set 3 different r...   0.306599
+12  17  much harder sync play advertised 4 sonos zones...   0.296936
+13  11  bought everyone rated high set super easy easi...   0.292765
+
+step 1
+index added: 57
+percentage unclustered: 82.6446%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 90.0826%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 90.0826%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 89.2562%
+
+	step 2
+
+		step 3
+		candidate index: 60 with core nodes: [8, 45, 55, 60]
+			old information: 287, gain: 0.7657142857142857
+
+    ind                                             review  relevance
+0   33  ll admit sonos playbar cheap probably best val...   0.701427
+1   56  sonos legendary good reason really produce com...   0.675474
+2   45  first let s address elephant room price tag th...   0.573432
+3   51  wrote review new heos sound bar realized yet w...   0.542580
+4   60  sonos android app searches endlessly sonos pla...   0.516990
+5   47  spending couple hours trying make sound come p...   0.485638
+6   37  disappointing soundbar thought would great pur...   0.468750
+7    8  jvc high definition tv better average sound ho...   0.463865
+8   48  great soundbar want use sonos ecosystem love c...   0.454665
+9   19  s sonos sucks n nrestriction number one reason...   0.430414
+10  22  samsung un55ks9500 curved 55 inch 4k ultra hd ...   0.428812
+11  28  ve player controller two half years satisfied ...   0.374790
+12  12  bought play 1 play 3 playbar set 3 different r...   0.306599
+13  17  much harder sync play advertised 4 sonos zones...   0.296936
+14  11  bought everyone rated high set super easy easi...   0.292765
+
+step 1
+index added: 61
+percentage unclustered: 89.2562%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 89.2562%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 89.2562%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 89.2562%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 89.2562%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 89.2562%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 89.2562%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 91.7355%
+
+	step 2
+
+		step 3
+		candidate index: 68 with core nodes: [8, 22, 45, 55]
+
+step 1
+index added: 69
+percentage unclustered: 79.33879999999999%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 76.0331%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 76.0331%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 85.9504%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 85.9504%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 85.9504%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 86.7769%
+
+	step 2
+
+		step 3
+		candidate index: 75 with core nodes: [1, 22, 45, 55]
+
+step 1
+index added: 76
+percentage unclustered: 81.8182%
+
+	step 2
+
+		step 3
+		candidate index: 76 with core nodes: [1, 45, 55, 76]
+			old information: 685, gain: 0.7937368262571515
+
+    ind                                             review  relevance
+0   33  ll admit sonos playbar cheap probably best val...   0.701427
+1   56  sonos legendary good reason really produce com...   0.675474
+2   45  first let s address elephant room price tag th...   0.573432
+3   51  wrote review new heos sound bar realized yet w...   0.542580
+4   60  sonos android app searches endlessly sonos pla...   0.516990
+5   47  spending couple hours trying make sound come p...   0.485638
+6   37  disappointing soundbar thought would great pur...   0.468750
+7    8  jvc high definition tv better average sound ho...   0.463865
+8   48  great soundbar want use sonos ecosystem love c...   0.454665
+9   76  overall would say happy purchase sound speaker...   0.450592
+10  19  s sonos sucks n nrestriction number one reason...   0.430414
+11  22  samsung un55ks9500 curved 55 inch 4k ultra hd ...   0.428812
+12  28  ve player controller two half years satisfied ...   0.374790
+13  12  bought play 1 play 3 playbar set 3 different r...   0.306599
+14  17  much harder sync play advertised 4 sonos zones...   0.296936
+15  11  bought everyone rated high set super easy easi...   0.292765
+
+step 1
+index added: 77
+percentage unclustered: 81.8182%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 81.8182%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 81.8182%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 79.33879999999999%
+
+	step 2
+
+		step 3
+		candidate index: 80 with core nodes: [1, 45, 55, 76]
+
+step 1
+index added: 81
+percentage unclustered: 79.33879999999999%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 76.8595%
+
+	step 2
+
+		step 3
+		candidate index: 82 with core nodes: [1, 45, 55, 76]
+			old information: 974, gain: 0.8820251937984496
+
+    ind                                             review  relevance
+0   33  ll admit sonos playbar cheap probably best val...   0.701427
+1   56  sonos legendary good reason really produce com...   0.675474
+2   82  regular reviewer amazon d like take issue revi...   0.581009
+3   45  first let s address elephant room price tag th...   0.573432
+4   51  wrote review new heos sound bar realized yet w...   0.542580
+5   60  sonos android app searches endlessly sonos pla...   0.516990
+6   47  spending couple hours trying make sound come p...   0.485638
+7   37  disappointing soundbar thought would great pur...   0.468750
+8    8  jvc high definition tv better average sound ho...   0.463865
+9   48  great soundbar want use sonos ecosystem love c...   0.454665
+10  76  overall would say happy purchase sound speaker...   0.450592
+11  19  s sonos sucks n nrestriction number one reason...   0.430414
+12  22  samsung un55ks9500 curved 55 inch 4k ultra hd ...   0.428812
+13  28  ve player controller two half years satisfied ...   0.374790
+14  12  bought play 1 play 3 playbar set 3 different r...   0.306599
+15  17  much harder sync play advertised 4 sonos zones...   0.296936
+16  11  bought everyone rated high set super easy easi...   0.292765
+
+step 1
+index added: 83
+percentage unclustered: 76.8595%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 76.0331%
+
+	step 2
+
+		step 3
+		candidate index: 84 with core nodes: [1, 45, 55, 76, 84]
+			old information: 4390, gain: 0.8876088069636456
+
+    ind                                             review  relevance
+0   33  ll admit sonos playbar cheap probably best val...   0.701427
+1   84  overall excellent speaker let limited connecti...   0.688242
+2   56  sonos legendary good reason really produce com...   0.675474
+3   82  regular reviewer amazon d like take issue revi...   0.581009
+4   45  first let s address elephant room price tag th...   0.573432
+5   51  wrote review new heos sound bar realized yet w...   0.542580
+6   60  sonos android app searches endlessly sonos pla...   0.516990
+7   47  spending couple hours trying make sound come p...   0.485638
+8   37  disappointing soundbar thought would great pur...   0.468750
+9    8  jvc high definition tv better average sound ho...   0.463865
+10  48  great soundbar want use sonos ecosystem love c...   0.454665
+11  76  overall would say happy purchase sound speaker...   0.450592
+12  19  s sonos sucks n nrestriction number one reason...   0.430414
+13  22  samsung un55ks9500 curved 55 inch 4k ultra hd ...   0.428812
+14  28  ve player controller two half years satisfied ...   0.374790
+15  12  bought play 1 play 3 playbar set 3 different r...   0.306599
+16  17  much harder sync play advertised 4 sonos zones...   0.296936
+17  11  bought everyone rated high set super easy easi...   0.292765
+
+step 1
+index added: 85
+percentage unclustered: 78.5124%
+
+	step 2
+
+		step 3
+		candidate index: 85 with core nodes: [1, 45, 55, 76, 84]
+
+step 1
+index added: 86
+percentage unclustered: 76.8595%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 76.8595%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 76.8595%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 76.8595%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 74.3802%
+
+	step 2
+
+		step 3
+		candidate index: 90 with core nodes: [1, 45, 55, 84]
+			old information: 187, gain: 0.9343859649122807
+
+    ind                                             review  relevance
+0   33  ll admit sonos playbar cheap probably best val...   0.701427
+1   84  overall excellent speaker let limited connecti...   0.688242
+2   56  sonos legendary good reason really produce com...   0.675474
+3   82  regular reviewer amazon d like take issue revi...   0.581009
+4   45  first let s address elephant room price tag th...   0.573432
+5   51  wrote review new heos sound bar realized yet w...   0.542580
+6   60  sonos android app searches endlessly sonos pla...   0.516990
+7   47  spending couple hours trying make sound come p...   0.485638
+8   37  disappointing soundbar thought would great pur...   0.468750
+9    8  jvc high definition tv better average sound ho...   0.463865
+10  48  great soundbar want use sonos ecosystem love c...   0.454665
+11  76  overall would say happy purchase sound speaker...   0.450592
+12  90  purchased sonos playbar 3rd party authorized s...   0.449247
+13  19  s sonos sucks n nrestriction number one reason...   0.430414
+14  22  samsung un55ks9500 curved 55 inch 4k ultra hd ...   0.428812
+15  28  ve player controller two half years satisfied ...   0.374790
+16  12  bought play 1 play 3 playbar set 3 different r...   0.306599
+17  17  much harder sync play advertised 4 sonos zones...   0.296936
+18  11  bought everyone rated high set super easy easi...   0.292765
+
+step 1
+index added: 91
+percentage unclustered: 74.3802%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 74.3802%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 74.3802%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 74.3802%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 74.3802%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 74.3802%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 75.20660000000001%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 74.3802%
+
+	step 2
+
+		step 3
+		candidate index: 98 with core nodes: [1, 22, 47, 90, 98]
+			old information: 9046, gain: 0.9396442439851079
+
+    ind                                             review  relevance
+0   33  ll admit sonos playbar cheap probably best val...   0.701427
+1   84  overall excellent speaker let limited connecti...   0.688242
+2   56  sonos legendary good reason really produce com...   0.675474
+3   98  m long time fan sonos playbar great addition s...   0.606393
+4   82  regular reviewer amazon d like take issue revi...   0.581009
+5   45  first let s address elephant room price tag th...   0.573432
+6   51  wrote review new heos sound bar realized yet w...   0.542580
+7   60  sonos android app searches endlessly sonos pla...   0.516990
+8   47  spending couple hours trying make sound come p...   0.485638
+9   37  disappointing soundbar thought would great pur...   0.468750
+10   8  jvc high definition tv better average sound ho...   0.463865
+11  48  great soundbar want use sonos ecosystem love c...   0.454665
+12  76  overall would say happy purchase sound speaker...   0.450592
+13  90  purchased sonos playbar 3rd party authorized s...   0.449247
+14  19  s sonos sucks n nrestriction number one reason...   0.430414
+15  22  samsung un55ks9500 curved 55 inch 4k ultra hd ...   0.428812
+16  28  ve player controller two half years satisfied ...   0.374790
+17  12  bought play 1 play 3 playbar set 3 different r...   0.306599
+18  17  much harder sync play advertised 4 sonos zones...   0.296936
+19  11  bought everyone rated high set super easy easi...   0.292765
+
+step 1
+index added: 99
+percentage unclustered: 87.6033%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 87.6033%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 87.6033%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 87.6033%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 87.6033%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 87.6033%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 87.6033%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 87.6033%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 87.6033%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 87.6033%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 92.562%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 90.0826%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 92.562%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 92.562%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 92.562%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 92.562%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 92.562%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 95.0413%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 95.0413%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 95.0413%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 95.0413%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 95.0413%
+
+	step 2
+
+--- 1766.6969254016876 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 97.5207, 97.5207, 97.5207, 95.0413, 94.2149, 94.2149, 94.2149, 96.6942, 96.6942, 95.8678, 95.8678, 93.3884, 93.3884, 91.7355, 90.9091, 90.9091, 90.9091, 90.9091, 90.9091, 90.9091, 90.0826, 90.0826, 87.6033, 88.4298, 88.4298, 87.6033, 87.6033, 87.6033, 87.6033, 86.7769, 86.7769, 86.7769, 87.6033, 87.6033, 88.4298, 88.4298, 88.4298, 90.0826, 90.0826, 89.2562, 88.4298, 88.4298, 87.6033, 86.7769, 86.7769, 85.9504, 85.9504, 83.4711, 82.6446, 82.6446, 90.0826, 90.0826, 89.2562, 89.2562, 89.2562, 89.2562, 89.2562, 89.2562, 89.2562, 89.2562, 91.7355, 79.33879999999999, 76.0331, 76.0331, 85.9504, 85.9504, 85.9504, 86.7769, 81.8182, 81.8182, 81.8182, 81.8182, 79.33879999999999, 79.33879999999999, 76.8595, 76.8595, 76.0331, 78.5124, 76.8595, 76.8595, 76.8595, 76.8595, 74.3802, 74.3802, 74.3802, 74.3802, 74.3802, 74.3802, 74.3802, 75.20660000000001, 74.3802, 87.6033, 87.6033, 87.6033, 87.6033, 87.6033, 87.6033, 87.6033, 87.6033, 87.6033, 87.6033, 92.562, 90.0826, 92.562, 92.562, 92.562, 92.562, 92.562, 95.0413, 95.0413, 95.0413, 95.0413, 95.0413], mean: 87.6797
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        60  33   0.701427  ll admit sonos playbar cheap probably best val...
+1       100  84   0.688242  overall excellent speaker let limited connecti...
+2        41  56   0.675474  sonos legendary good reason really produce com...
+3        19  98   0.606393  m long time fan sonos playbar great addition s...
+4        82  82   0.581009  regular reviewer amazon d like take issue revi...
+5        99  45   0.573432  first let s address elephant room price tag th...
+6        73  51   0.542580  wrote review new heos sound bar realized yet w...
+7        77  60   0.516990  sonos android app searches endlessly sonos pla...
+8        52  47   0.485638  spending couple hours trying make sound come p...
+9        13  37   0.468750  disappointing soundbar thought would great pur...
+10        8   8   0.463865  jvc high definition tv better average sound ho...
+11       88  48   0.454665  great soundbar want use sonos ecosystem love c...
+12      112  76   0.450592  overall would say happy purchase sound speaker...
+13       69  90   0.449247  purchased sonos playbar 3rd party authorized s...
+14       50  19   0.430414  s sonos sucks n nrestriction number one reason...
+15       59  22   0.428812  samsung un55ks9500 curved 55 inch 4k ultra hd ...
+16       70  28   0.374790  ve player controller two half years satisfied ...
+17       35  12   0.306599  bought play 1 play 3 playbar set 3 different r...
+18       61  17   0.296936  much harder sync play advertised 4 sonos zones...
+19       46  11   0.292765  bought everyone rated high set super easy easi...

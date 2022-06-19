@@ -1,0 +1,1022 @@
+------- Category: Electronics -------
+Found asin_id: B0000A1G05
+Shape:  (120, 7)
+
+Readability scores: [2.0326923076923293, -249.40594972067032, -44.33279503105588, 20.288076923076957, -2.95499999999997, -265.66202702702697, -91.19367875647666, -531.7547452229298, 21.372692307692333, -515.395, -20.17863636363633, 38.86876712328768, 16.5718181818182, -119.43580786026196, 80.30636363636367, 45.143220338983085, -286.96534883720926, 82.58290322580649, -167.84132352941174, -416.4624853228962, -14.467068965517214, -133.4618518518518, -1248.8345202398798, -325.31011961722487, -1156.338504823151, -67.10081395348836, -155.97954545454542, -10.354999999999976, -41.7039189189189, -75.28189655172412, 11.564482758620713, 79.85387096774195, -95.56999999999996, -37.34999999999995, -391.74662576687115, -73.27685714285711, -173.38225806451607, -83.85098360655734, -26.459650349650303, -355.5158695652174, 4.380000000000024, -816.876648411829, -72.24656626506021, -260.766713091922, -423.65233009708726, -49.13499999999999, 50.24000000000002, -196.36499999999995, -339.1326036866359, -184.51989795918362, -112.44488479262668, -2704.3414259927795, -122.39126637554581, -195.80099999999993, 13.630000000000024, -606.1394483734086, -202.223476821192, -365.72451965065494, -769.0454895104893, -119.48148648648646, -152.75127906976738, -42.508775510204046, -557.7207142857142, -672.9317295188556, -82.1333333333333, -746.3785714285714, -166.83770676691722, -572.6696587537091, -110.11891402714929, -376.3860460251045, -208.97540983606552, -249.21963788300835, -79.835, -40.10965517241375, -598.95119887165, -54.0262195121951, -251.15499999999997, -92.43289473684207, -430.64619691119685, -258.1300840336134, 26.007058823529434, -13.712142857142837, -36.516993006992976, 1.0960869565217592, -484.8003061224489, -23.15921052631576, -51.302366863905306, -223.77450310559004, -89.0657216494845, -213.71831210191078, -567.7980821917807, -48.735161290322566, -57.3624503311258, -739.0361933174223, 9.54413043478263, -168.41189591078063, -649.9924377457404, -10.908256880733916, 9.676728971962646, -128.52999999999997, -71.7428651685393, 54.104545454545466, -149.83011450381673, -75.26090909090905, 45.63000000000001, 31.50164179104479, -522.4273599999999, -32.37573426573424, -1723.0104155124652, -96.52401069518713, 67.81911764705885, -627.3566528925619, -158.34795539033453, 45.378125000000026, 8.852531645569641, -187.28415094339618, -89.7428571428571, -6.832894736842093, -126.4550218340611, 5.369611650485467], on average: -225.5331
+Readability scores after: [2.0326923076923293, -249.40594972067032, -44.33279503105588, 20.288076923076957, -2.95499999999997, -265.66202702702697, -91.19367875647666, -531.7547452229298, 21.372692307692333, -515.395, -20.17863636363633, 38.86876712328768, 16.5718181818182, -119.43580786026196, 45.143220338983085, -286.96534883720926, -167.84132352941174, -416.4624853228962, -14.467068965517214, -133.4618518518518, -1248.8345202398798, -325.31011961722487, -1156.338504823151, -67.10081395348836, -155.97954545454542, -10.354999999999976, -41.7039189189189, -75.28189655172412, 11.564482758620713, -95.56999999999996, -37.34999999999995, -391.74662576687115, -73.27685714285711, -173.38225806451607, -83.85098360655734, -26.459650349650303, -355.5158695652174, 4.380000000000024, -816.876648411829, -72.24656626506021, -260.766713091922, -423.65233009708726, -49.13499999999999, -196.36499999999995, -339.1326036866359, -184.51989795918362, -112.44488479262668, -2704.3414259927795, -122.39126637554581, -195.80099999999993, 13.630000000000024, -606.1394483734086, -202.223476821192, -365.72451965065494, -769.0454895104893, -119.48148648648646, -152.75127906976738, -42.508775510204046, -557.7207142857142, -672.9317295188556, -82.1333333333333, -746.3785714285714, -166.83770676691722, -572.6696587537091, -110.11891402714929, -376.3860460251045, -208.97540983606552, -249.21963788300835, -79.835, -40.10965517241375, -598.95119887165, -54.0262195121951, -251.15499999999997, -92.43289473684207, -430.64619691119685, -258.1300840336134, 26.007058823529434, -13.712142857142837, -36.516993006992976, 1.0960869565217592, -484.8003061224489, -23.15921052631576, -51.302366863905306, -223.77450310559004, -89.0657216494845, -213.71831210191078, -567.7980821917807, -48.735161290322566, -57.3624503311258, -739.0361933174223, 9.54413043478263, -168.41189591078063, -649.9924377457404, -10.908256880733916, 9.676728971962646, -128.52999999999997, -71.7428651685393, -149.83011450381673, -75.26090909090905, 45.63000000000001, 31.50164179104479, -522.4273599999999, -32.37573426573424, -1723.0104155124652, -96.52401069518713, -627.3566528925619, -158.34795539033453, 45.378125000000026, 8.852531645569641, -187.28415094339618, -89.7428571428571, -6.832894736842093, -126.4550218340611, 5.369611650485467], on average after: -241.0428
+Shape after:  (114, 8)
+
+
+Chosen product: B0000A1G05 has 120 reviews - False, it has 114 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 97.3684%
+
+	step 2
+
+		step 3
+		candidate index: 3 with core nodes: [0, 1, 3]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   3  bought canon 20d recently really needed get le...    0.46377
+
+step 1
+index added: 4
+percentage unclustered: 96.4912%
+
+	step 2
+
+		step 3
+		candidate index: 4 with core nodes: [0, 1, 3, 4]
+			old information: 16, gain: 0.9874509803921568
+
+   ind                                             review  relevance
+0   3  bought canon 20d recently really needed get le...   0.463770
+1   4  wo n t go lot details particular lens previous...   0.454634
+
+step 1
+index added: 5
+percentage unclustered: 95.614%
+
+	step 2
+
+		step 3
+		candidate index: 5 with core nodes: [0, 1, 3, 5]
+			old information: 168, gain: 0.9925591283550359
+
+   ind                                             review  relevance
+0   5  got digital rebel xt 350d week half ago decidi...   0.604228
+1   3  bought canon 20d recently really needed get le...   0.463770
+2   4  wo n t go lot details particular lens previous...   0.454634
+
+step 1
+index added: 6
+percentage unclustered: 94.7368%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [0, 1, 5, 6]
+			old information: 344, gain: 0.9436527436527437
+
+   ind                                             review  relevance
+0   5  got digital rebel xt 350d week half ago decidi...   0.604228
+1   6  ve used ton different lenses one one like besi...   0.597105
+2   3  bought canon 20d recently really needed get le...   0.463770
+3   4  wo n t go lot details particular lens previous...   0.454634
+
+step 1
+index added: 7
+percentage unclustered: 94.7368%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [0, 1, 6, 7]
+			old information: 835, gain: 0.9881560283687943
+
+   ind                                             review  relevance
+0   7  never bought non canon lens love look feel opt...   0.688808
+1   5  got digital rebel xt 350d week half ago decidi...   0.604228
+2   6  ve used ton different lenses one one like besi...   0.597105
+3   3  bought canon 20d recently really needed get le...   0.463770
+4   4  wo n t go lot details particular lens previous...   0.454634
+
+step 1
+index added: 8
+percentage unclustered: 93.8596%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [0, 1, 6, 7]
+
+step 1
+index added: 9
+percentage unclustered: 93.8596%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 93.8596%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 92.1053%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [0, 5, 6, 7]
+
+step 1
+index added: 12
+percentage unclustered: 92.1053%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 91.2281%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [0, 5, 6, 7]
+
+step 1
+index added: 14
+percentage unclustered: 91.2281%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 91.2281%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 90.3509%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [5, 7, 16]
+			old information: 1078, gain: 0.9009009009009009
+
+   ind                                             review  relevance
+0  16  owned lens since 2013 love bought realizing li...   0.698960
+1   7  never bought non canon lens love look feel opt...   0.688808
+2   5  got digital rebel xt 350d week half ago decidi...   0.604228
+3   6  ve used ton different lenses one one like besi...   0.597105
+4   3  bought canon 20d recently really needed get le...   0.463770
+5   4  wo n t go lot details particular lens previous...   0.454634
+
+step 1
+index added: 17
+percentage unclustered: 91.2281%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 90.3509%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 88.5965%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [0, 1, 6, 7, 16, 17, 19]
+			old information: 442, gain: 0.9558485665767655
+
+   ind                                             review  relevance
+0  16  owned lens since 2013 love bought realizing li...   0.698960
+1   7  never bought non canon lens love look feel opt...   0.688808
+2   5  got digital rebel xt 350d week half ago decidi...   0.604228
+3   6  ve used ton different lenses one one like besi...   0.597105
+4  19  lens great ve year s really sturdy well built ...   0.567807
+5   3  bought canon 20d recently really needed get le...   0.463770
+6   4  wo n t go lot details particular lens previous...   0.454634
+
+step 1
+index added: 20
+percentage unclustered: 87.7193%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [1, 7, 16, 20]
+			old information: 5691, gain: 0.9859325176121616
+
+   ind                                             review  relevance
+0  20  current 4 lenses using non canon canon l serie...   0.764553
+1  16  owned lens since 2013 love bought realizing li...   0.698960
+2   7  never bought non canon lens love look feel opt...   0.688808
+3   5  got digital rebel xt 350d week half ago decidi...   0.604228
+4   6  ve used ton different lenses one one like besi...   0.597105
+5  19  lens great ve year s really sturdy well built ...   0.567807
+6   3  bought canon 20d recently really needed get le...   0.463770
+7   4  wo n t go lot details particular lens previous...   0.454634
+
+step 1
+index added: 21
+percentage unclustered: 86.8421%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 85.9649%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [1, 7, 16, 20, 22]
+			old information: 8202, gain: 0.9686618830379863
+
+   ind                                             review  relevance
+0  20  current 4 lenses using non canon canon l serie...   0.764553
+1  16  owned lens since 2013 love bought realizing li...   0.698960
+2   7  never bought non canon lens love look feel opt...   0.688808
+3  22  first lens fantastic reasons go looking great ...   0.641707
+4   5  got digital rebel xt 350d week half ago decidi...   0.604228
+5   6  ve used ton different lenses one one like besi...   0.597105
+6  19  lens great ve year s really sturdy well built ...   0.567807
+7   3  bought canon 20d recently really needed get le...   0.463770
+8   4  wo n t go lot details particular lens previous...   0.454634
+
+step 1
+index added: 23
+percentage unclustered: 85.9649%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [1, 7, 16, 20]
+
+step 1
+index added: 25
+percentage unclustered: 82.45609999999999%
+
+	step 2
+
+		step 3
+		candidate index: 25 with core nodes: [1, 7, 16, 20]
+
+step 1
+index added: 26
+percentage unclustered: 82.45609999999999%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 82.45609999999999%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 81.5789%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 81.5789%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 81.5789%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 80.70179999999999%
+
+	step 2
+
+		step 3
+		candidate index: 31 with core nodes: [1, 7, 16, 20]
+
+step 1
+index added: 32
+percentage unclustered: 78.0702%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 78.0702%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 78.0702%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 78.0702%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 78.0702%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 77.193%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [1, 7, 16, 20]
+
+step 1
+index added: 38
+percentage unclustered: 76.3158%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [1, 7, 16, 20, 38]
+			old information: 8953, gain: 0.9299260360818691
+
+   ind                                             review  relevance
+0  20  current 4 lenses using non canon canon l serie...   0.764553
+1  38  intro n ni heard sharp lens wanted backup beau...   0.752287
+2  16  owned lens since 2013 love bought realizing li...   0.698960
+3   7  never bought non canon lens love look feel opt...   0.688808
+4  22  first lens fantastic reasons go looking great ...   0.641707
+5   5  got digital rebel xt 350d week half ago decidi...   0.604228
+6   6  ve used ton different lenses one one like besi...   0.597105
+7  19  lens great ve year s really sturdy well built ...   0.567807
+8   3  bought canon 20d recently really needed get le...   0.463770
+9   4  wo n t go lot details particular lens previous...   0.454634
+
+step 1
+index added: 39
+percentage unclustered: 76.3158%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 76.3158%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 74.56139999999999%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [1, 38, 40, 41]
+			old information: 3956, gain: 0.9001539587592439
+
+    ind                                             review  relevance
+0   20  current 4 lenses using non canon canon l serie...   0.764553
+1   38  intro n ni heard sharp lens wanted backup beau...   0.752287
+2   16  owned lens since 2013 love bought realizing li...   0.698960
+3   41  lens 30 days used portraits macro type photogr...   0.690741
+4    7  never bought non canon lens love look feel opt...   0.688808
+5   22  first lens fantastic reasons go looking great ...   0.641707
+6    5  got digital rebel xt 350d week half ago decidi...   0.604228
+7    6  ve used ton different lenses one one like besi...   0.597105
+8   19  lens great ve year s really sturdy well built ...   0.567807
+9    3  bought canon 20d recently really needed get le...   0.463770
+10   4  wo n t go lot details particular lens previous...   0.454634
+
+step 1
+index added: 42
+percentage unclustered: 73.6842%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 72.807%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [1, 38, 40, 41, 43]
+			old information: 2227, gain: 0.8354028085735403
+
+    ind                                             review  relevance
+0   20  current 4 lenses using non canon canon l serie...   0.764553
+1   38  intro n ni heard sharp lens wanted backup beau...   0.752287
+2   43  purchased lens could n t budget three times co...   0.748803
+3   16  owned lens since 2013 love bought realizing li...   0.698960
+4   41  lens 30 days used portraits macro type photogr...   0.690741
+5    7  never bought non canon lens love look feel opt...   0.688808
+6   22  first lens fantastic reasons go looking great ...   0.641707
+7    5  got digital rebel xt 350d week half ago decidi...   0.604228
+8    6  ve used ton different lenses one one like besi...   0.597105
+9   19  lens great ve year s really sturdy well built ...   0.567807
+10   3  bought canon 20d recently really needed get le...   0.463770
+11   4  wo n t go lot details particular lens previous...   0.454634
+
+step 1
+index added: 44
+percentage unclustered: 71.0526%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 71.0526%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 69.29820000000001%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [1, 38, 41, 43]
+			old information: 1348, gain: 0.8288253968253968
+
+    ind                                             review  relevance
+0   20  current 4 lenses using non canon canon l serie...   0.764553
+1   38  intro n ni heard sharp lens wanted backup beau...   0.752287
+2   43  purchased lens could n t budget three times co...   0.748803
+3   16  owned lens since 2013 love bought realizing li...   0.698960
+4   41  lens 30 days used portraits macro type photogr...   0.690741
+5    7  never bought non canon lens love look feel opt...   0.688808
+6   46  read almost 250 reviews decided taking risk wo...   0.646572
+7   22  first lens fantastic reasons go looking great ...   0.641707
+8    5  got digital rebel xt 350d week half ago decidi...   0.604228
+9    6  ve used ton different lenses one one like besi...   0.597105
+10  19  lens great ve year s really sturdy well built ...   0.567807
+11   3  bought canon 20d recently really needed get le...   0.463770
+12   4  wo n t go lot details particular lens previous...   0.454634
+
+step 1
+index added: 47
+percentage unclustered: 69.29820000000001%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 68.4211%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 67.54390000000001%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [1, 38, 41, 43]
+
+step 1
+index added: 50
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 67.54390000000001%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 52 with core nodes: [1, 38, 41, 43]
+
+step 1
+index added: 53
+percentage unclustered: 65.7895%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 64.9123%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 64.9123%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 65.7895%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 65.7895%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 65.7895%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 65.7895%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 65.7895%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 65.7895%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 65.7895%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 69.29820000000001%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 69.29820000000001%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 69.29820000000001%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 69.29820000000001%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 69.29820000000001%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 68.4211%
+
+	step 2
+
+		step 3
+		candidate index: 72 with core nodes: [1, 38, 40, 41, 43]
+
+step 1
+index added: 73
+percentage unclustered: 68.4211%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 68.4211%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 68.4211%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 67.54390000000001%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 62.2807%
+
+	step 2
+
+		step 3
+		candidate index: 77 with core nodes: [1, 38, 77]
+			old information: 696, gain: 0.7954745812518366
+
+    ind                                             review  relevance
+0   20  current 4 lenses using non canon canon l serie...   0.764553
+1   38  intro n ni heard sharp lens wanted backup beau...   0.752287
+2   43  purchased lens could n t budget three times co...   0.748803
+3   77  great lens 2 months using nikon d40 autofocus ...   0.722815
+4   16  owned lens since 2013 love bought realizing li...   0.698960
+5   41  lens 30 days used portraits macro type photogr...   0.690741
+6    7  never bought non canon lens love look feel opt...   0.688808
+7   46  read almost 250 reviews decided taking risk wo...   0.646572
+8   22  first lens fantastic reasons go looking great ...   0.641707
+9    5  got digital rebel xt 350d week half ago decidi...   0.604228
+10   6  ve used ton different lenses one one like besi...   0.597105
+11  19  lens great ve year s really sturdy well built ...   0.567807
+12   3  bought canon 20d recently really needed get le...   0.463770
+13   4  wo n t go lot details particular lens previous...   0.454634
+
+step 1
+index added: 78
+percentage unclustered: 62.2807%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 63.1579%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 62.2807%
+
+	step 2
+
+		step 3
+		candidate index: 80 with core nodes: [1, 38, 77, 80]
+			old information: 7900, gain: 0.8879432624113475
+
+    ind                                             review  relevance
+0   80  s 2 months ve lens almost never leaves camera ...   0.806625
+1   20  current 4 lenses using non canon canon l serie...   0.764553
+2   38  intro n ni heard sharp lens wanted backup beau...   0.752287
+3   43  purchased lens could n t budget three times co...   0.748803
+4   77  great lens 2 months using nikon d40 autofocus ...   0.722815
+5   16  owned lens since 2013 love bought realizing li...   0.698960
+6   41  lens 30 days used portraits macro type photogr...   0.690741
+7    7  never bought non canon lens love look feel opt...   0.688808
+8   46  read almost 250 reviews decided taking risk wo...   0.646572
+9   22  first lens fantastic reasons go looking great ...   0.641707
+10   5  got digital rebel xt 350d week half ago decidi...   0.604228
+11   6  ve used ton different lenses one one like besi...   0.597105
+12  19  lens great ve year s really sturdy well built ...   0.567807
+13   3  bought canon 20d recently really needed get le...   0.463770
+14   4  wo n t go lot details particular lens previous...   0.454634
+
+step 1
+index added: 81
+percentage unclustered: 61.4035%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 61.4035%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 61.4035%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 60.5263%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 65.7895%
+
+	step 2
+
+		step 3
+		candidate index: 85 with core nodes: [1, 38, 80, 85]
+			old information: 3348, gain: 0.8211633993910582
+
+    ind                                             review  relevance
+0   80  s 2 months ve lens almost never leaves camera ...   0.806625
+1   20  current 4 lenses using non canon canon l serie...   0.764553
+2   38  intro n ni heard sharp lens wanted backup beau...   0.752287
+3   43  purchased lens could n t budget three times co...   0.748803
+4   85  received tamron 28 75mm yesterday fired test s...   0.737477
+5   77  great lens 2 months using nikon d40 autofocus ...   0.722815
+6   16  owned lens since 2013 love bought realizing li...   0.698960
+7   41  lens 30 days used portraits macro type photogr...   0.690741
+8    7  never bought non canon lens love look feel opt...   0.688808
+9   46  read almost 250 reviews decided taking risk wo...   0.646572
+10  22  first lens fantastic reasons go looking great ...   0.641707
+11   5  got digital rebel xt 350d week half ago decidi...   0.604228
+12   6  ve used ton different lenses one one like besi...   0.597105
+13  19  lens great ve year s really sturdy well built ...   0.567807
+14   3  bought canon 20d recently really needed get le...   0.463770
+15   4  wo n t go lot details particular lens previous...   0.454634
+
+step 1
+index added: 86
+percentage unclustered: 65.7895%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 65.7895%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 65.7895%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 64.0351%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 64.0351%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 63.1579%
+
+	step 2
+
+		step 3
+		candidate index: 92 with core nodes: [1, 38, 80, 85]
+			old information: 8638, gain: 0.9434048798385617
+
+    ind                                             review  relevance
+0   80  s 2 months ve lens almost never leaves camera ...   0.806625
+1   20  current 4 lenses using non canon canon l serie...   0.764553
+2   38  intro n ni heard sharp lens wanted backup beau...   0.752287
+3   43  purchased lens could n t budget three times co...   0.748803
+4   85  received tamron 28 75mm yesterday fired test s...   0.737477
+5   77  great lens 2 months using nikon d40 autofocus ...   0.722815
+6   92  n t know n t want lose important photo opportu...   0.711097
+7   16  owned lens since 2013 love bought realizing li...   0.698960
+8   41  lens 30 days used portraits macro type photogr...   0.690741
+9    7  never bought non canon lens love look feel opt...   0.688808
+10  46  read almost 250 reviews decided taking risk wo...   0.646572
+11  22  first lens fantastic reasons go looking great ...   0.641707
+12   5  got digital rebel xt 350d week half ago decidi...   0.604228
+13   6  ve used ton different lenses one one like besi...   0.597105
+14  19  lens great ve year s really sturdy well built ...   0.567807
+15   3  bought canon 20d recently really needed get le...   0.463770
+16   4  wo n t go lot details particular lens previous...   0.454634
+
+step 1
+index added: 93
+percentage unclustered: 63.1579%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 64.0351%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 61.4035%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 60.5263%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 60.5263%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 60.5263%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 59.6491%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 59.6491%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 59.6491%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 59.6491%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 58.7719%
+
+	step 2
+
+		step 3
+		candidate index: 103 with core nodes: [22, 47, 103]
+			old information: 22154, gain: 0.9577858231707317
+
+     ind                                             review  relevance
+0   103  fool believed kit lens 18 55mm f 3 5 5 350d en...   0.847627
+1    80  s 2 months ve lens almost never leaves camera ...   0.806625
+2    20  current 4 lenses using non canon canon l serie...   0.764553
+3    38  intro n ni heard sharp lens wanted backup beau...   0.752287
+4    43  purchased lens could n t budget three times co...   0.748803
+5    85  received tamron 28 75mm yesterday fired test s...   0.737477
+6    77  great lens 2 months using nikon d40 autofocus ...   0.722815
+7    92  n t know n t want lose important photo opportu...   0.711097
+8    16  owned lens since 2013 love bought realizing li...   0.698960
+9    41  lens 30 days used portraits macro type photogr...   0.690741
+10    7  never bought non canon lens love look feel opt...   0.688808
+11   46  read almost 250 reviews decided taking risk wo...   0.646572
+12   22  first lens fantastic reasons go looking great ...   0.641707
+13    5  got digital rebel xt 350d week half ago decidi...   0.604228
+14    6  ve used ton different lenses one one like besi...   0.597105
+15   19  lens great ve year s really sturdy well built ...   0.567807
+16    3  bought canon 20d recently really needed get le...   0.463770
+17    4  wo n t go lot details particular lens previous...   0.454634
+
+step 1
+index added: 104
+percentage unclustered: 59.6491%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 59.6491%
+
+	step 2
+
+		step 3
+		candidate index: 105 with core nodes: [1, 38, 80, 85]
+
+step 1
+index added: 106
+percentage unclustered: 59.6491%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 58.7719%
+
+	step 2
+
+		step 3
+		candidate index: 107 with core nodes: [1, 38, 80, 85]
+
+step 1
+index added: 108
+percentage unclustered: 58.7719%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 58.7719%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 59.6491%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 59.6491%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 62.2807%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 63.1579%
+
+	step 2
+
+--- 2599.1358704566956 seconds ---
+
+
+ Unclustered percentages: [100.0, 97.3684, 96.4912, 95.614, 94.7368, 94.7368, 93.8596, 93.8596, 93.8596, 92.1053, 92.1053, 91.2281, 91.2281, 91.2281, 90.3509, 91.2281, 90.3509, 88.5965, 87.7193, 86.8421, 85.9649, 85.9649, 83.33330000000001, 82.45609999999999, 82.45609999999999, 82.45609999999999, 81.5789, 81.5789, 81.5789, 80.70179999999999, 78.0702, 78.0702, 78.0702, 78.0702, 78.0702, 77.193, 76.3158, 76.3158, 76.3158, 74.56139999999999, 73.6842, 72.807, 71.0526, 71.0526, 69.29820000000001, 69.29820000000001, 68.4211, 67.54390000000001, 66.66669999999999, 67.54390000000001, 66.66669999999999, 65.7895, 64.9123, 64.9123, 65.7895, 65.7895, 65.7895, 65.7895, 66.66669999999999, 66.66669999999999, 66.66669999999999, 66.66669999999999, 65.7895, 65.7895, 65.7895, 69.29820000000001, 69.29820000000001, 69.29820000000001, 69.29820000000001, 69.29820000000001, 68.4211, 68.4211, 68.4211, 68.4211, 67.54390000000001, 62.2807, 62.2807, 63.1579, 62.2807, 61.4035, 61.4035, 61.4035, 60.5263, 65.7895, 65.7895, 65.7895, 65.7895, 66.66669999999999, 64.0351, 64.0351, 63.1579, 63.1579, 64.0351, 61.4035, 60.5263, 60.5263, 60.5263, 59.6491, 59.6491, 59.6491, 59.6491, 58.7719, 59.6491, 59.6491, 59.6491, 58.7719, 58.7719, 58.7719, 59.6491, 59.6491, 62.2807, 63.1579], mean: 72.4154
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0         2  103   0.847627  fool believed kit lens 18 55mm f 3 5 5 350d en...
+1         6   80   0.806625  s 2 months ve lens almost never leaves camera ...
+2        32   20   0.764553  current 4 lenses using non canon canon l serie...
+3        40   38   0.752287  intro n ni heard sharp lens wanted backup beau...
+4        85   43   0.748803  purchased lens could n t budget three times co...
+5       111   85   0.737477  received tamron 28 75mm yesterday fired test s...
+6        81   77   0.722815  great lens 2 months using nikon d40 autofocus ...
+7        17   92   0.711097  n t know n t want lose important photo opportu...
+8        21   16   0.698960  owned lens since 2013 love bought realizing li...
+9        34   41   0.690741  lens 30 days used portraits macro type photogr...
+10        1    7   0.688808  never bought non canon lens love look feel opt...
+11       58   46   0.646572  read almost 250 reviews decided taking risk wo...
+12        8   22   0.641707  first lens fantastic reasons go looking great ...
+13       15    5   0.604228  got digital rebel xt 350d week half ago decidi...
+14       24    6   0.597105  ve used ton different lenses one one like besi...
+15       79   19   0.567807  lens great ve year s really sturdy well built ...
+16       55    3   0.463770  bought canon 20d recently really needed get le...
+17       39    4   0.454634  wo n t go lot details particular lens previous...

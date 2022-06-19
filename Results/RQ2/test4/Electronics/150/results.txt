@@ -1,0 +1,1159 @@
+------- Category: Electronics -------
+Found asin_id: B006R2N8VS
+Shape:  (151, 7)
+
+Readability scores: [41.408783783783804, -60.722123287671224, -60.722123287671224, -42.31525974025969, 10.654433962264164, -4.482857142857114, -73.98686046511625, -43.616293706293675, 28.345000000000027, -285.3916353887399, 26.93400000000004, -39.475034965034936, 4.592371134020638, -100.58382352941173, -14.171504424778732, 27.59948051948055, 76.53625000000002, 43.337272727272754, -83.9728947368421, 46.105000000000025, -19.193023255813912, -115.29216981132072, 47.95804347826089, -38.2116279069767, -84.10016853932582, 50.055102040816344, 57.24216216216218, 61.52000000000001, 39.34000000000002, 2.950000000000017, 37.70986301369864, -109.93391959798993, -21.716818181818155, -26.75398496240598, -267.47780821917803, 50.28545454545456, 31.330000000000013, 63.62758620689657, 57.24216216216218, 46.60204081632656, 44.41500000000002, 52.66918918918922, 27.123103448275884, -206.04611295681062, 10.03707865168542, 4.074090909090941, 48.02187500000002, -5.475229357798128, 48.54857142857145, 62.625000000000014, -35.00021739130433, -11.153823529411738, 62.60000000000001, 72.3793103448276, -47.39472602739724, 65.85447368421055, 104.94857142857146, 45.49166666666668, 62.14081632653065, -101.91499999999996, -13.959007633587746, 68.22750000000002, -212.242312703583, 54.14000000000003, -2.30461538461536, -25.86804195804193, 41.799090909090914, -93.59173913043476, 48.84, 15.845000000000013, -249.79882022471907, -250.03646067415727, 62.60000000000001, -91.4621319796954, 32.06500000000001, -0.8960526315789252, 10.556129032258085, 61.4764285714286, 12.508072289156658, -89.8786528497409, 62.14081632653065, -41.357755102040784, 54.820000000000014, -66.41357142857139, 42.13000000000001, 71.595, -76.59363636363632, 8.655048543689347, 53.795609756097576, -20.154324324324293, 50.881509433962286, 62.84264705882354, 62.19500000000003, -180.62147887323943, -96.83899999999996, -81.83846153846152, 40.34044776119404, 34.743709677419375, -24.507835820895508, 28.00500000000001, 101.93500000000002, 76.72500000000001, -2.1793548387096564, 71.06000000000002, 34.19258620689657, 62.19500000000003, 81.82375000000002, 35.90987804878051, -9.801315789473662, 18.940625000000026, 89.88275862068966, -25.79785714285711, -73.7713513513513, 59.1755263157895, 35.74750000000003, -128.76749999999993, 23.22500000000001, 93.49903225806452, 26.871875000000017, -19.62450819672128, -19.62450819672128, 81.87571428571431, 36.18935483870968, 21.718684210526334, 73.2, -135.6823175965665, -44.89798657718117, -68.89117977528088, 1.2922772277228063, -393.2435714285714, 57.530517241379336, 28.976268656716442, -65.14038216560506, 44.1285074626866, -87.75747422680406, -158.48298804780873, -309.3111111111111, 36.017727272727285, -108.81144859813081, -635.110896551724, -358.0399778270509, -322.3333886255924, 27.62615384615387, 35.35606557377051, 81.87571428571431, 18.04470588235297, 28.128481012658256, 48.053684210526335, -73.15499999999997, 42.42681818181819, 54.285000000000025], on average: -16.4734
+Readability scores after: [41.408783783783804, -60.722123287671224, -60.722123287671224, -42.31525974025969, 10.654433962264164, -4.482857142857114, -73.98686046511625, -43.616293706293675, 28.345000000000027, -285.3916353887399, 26.93400000000004, -39.475034965034936, 4.592371134020638, -100.58382352941173, -14.171504424778732, 27.59948051948055, 43.337272727272754, -83.9728947368421, 46.105000000000025, -19.193023255813912, -115.29216981132072, 47.95804347826089, -38.2116279069767, -84.10016853932582, 39.34000000000002, 2.950000000000017, 37.70986301369864, -109.93391959798993, -21.716818181818155, -26.75398496240598, -267.47780821917803, 31.330000000000013, 46.60204081632656, 44.41500000000002, 27.123103448275884, -206.04611295681062, 10.03707865168542, 4.074090909090941, 48.02187500000002, -5.475229357798128, 48.54857142857145, -35.00021739130433, -11.153823529411738, -47.39472602739724, 45.49166666666668, -101.91499999999996, -13.959007633587746, -212.242312703583, -2.30461538461536, -25.86804195804193, 41.799090909090914, -93.59173913043476, 48.84, 15.845000000000013, -249.79882022471907, -250.03646067415727, -91.4621319796954, 32.06500000000001, -0.8960526315789252, 10.556129032258085, 12.508072289156658, -89.8786528497409, -41.357755102040784, -66.41357142857139, 42.13000000000001, -76.59363636363632, 8.655048543689347, -20.154324324324293, -180.62147887323943, -96.83899999999996, -81.83846153846152, 40.34044776119404, 34.743709677419375, -24.507835820895508, 28.00500000000001, -2.1793548387096564, 34.19258620689657, 35.90987804878051, -9.801315789473662, 18.940625000000026, -25.79785714285711, -73.7713513513513, 35.74750000000003, -128.76749999999993, 23.22500000000001, 26.871875000000017, -19.62450819672128, -19.62450819672128, 36.18935483870968, 21.718684210526334, -135.6823175965665, -44.89798657718117, -68.89117977528088, 1.2922772277228063, -393.2435714285714, 28.976268656716442, -65.14038216560506, 44.1285074626866, -87.75747422680406, -158.48298804780873, -309.3111111111111, 36.017727272727285, -108.81144859813081, -635.110896551724, -358.0399778270509, -322.3333886255924, 27.62615384615387, 35.35606557377051, 18.04470588235297, 28.128481012658256, 48.053684210526335, -73.15499999999997, 42.42681818181819], on average after: -44.5751
+Shape after:  (113, 8)
+
+
+Chosen product: B006R2N8VS has 151 reviews - False, it has 113 reviews
+Duplicate reviewers?:  2       AICVMO4J1FQHF
+55     A39P484GFMYRCL
+87     A3PUL8SLJ7Z49E
+104    A2IRRG7VBGT4UB
+110    A18A35BQWGNT3L
+Name: reviewerID, dtype: object
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 97.3451%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [5, 6, 7]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   7  love case lots research purchased anything new...   0.353232
+
+step 1
+index added: 8
+percentage unclustered: 96.4602%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [5, 6, 7, 8]
+			old information: 80, gain: 0.8920377867746289
+
+   ind                                             review  relevance
+0   8  case perfect far concerned nice price makes ev...   0.400255
+1   7  love case lots research purchased anything new...   0.353232
+
+step 1
+index added: 9
+percentage unclustered: 95.5752%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [5, 7, 8, 9]
+			old information: 127, gain: 0.9956085753803596
+
+   ind                                             review  relevance
+0   9  update 2 15 2013 n nmy ipad accidentally fell ...   0.448979
+1   8  case perfect far concerned nice price makes ev...   0.400255
+2   7  love case lots research purchased anything new...   0.353232
+
+step 1
+index added: 10
+percentage unclustered: 95.5752%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 95.5752%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 95.5752%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 95.5752%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 95.5752%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 95.5752%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 95.5752%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 100.0%
+
+step 1
+index added: 18
+percentage unclustered: 100.0%
+
+step 1
+index added: 19
+percentage unclustered: 97.3451%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [6, 9, 19]
+			old information: 228, gain: 0.8937062937062937
+
+   ind                                             review  relevance
+0   9  update 2 15 2013 n nmy ipad accidentally fell ...   0.448979
+1  19  purchased case 3rd generation ipad ve using ca...   0.422166
+2   8  case perfect far concerned nice price makes ev...   0.400255
+3   7  love case lots research purchased anything new...   0.353232
+
+step 1
+index added: 20
+percentage unclustered: 93.8053%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [6, 9, 19, 20]
+			old information: 311, gain: 0.9598709677419355
+
+   ind                                             review  relevance
+0   9  update 2 15 2013 n nmy ipad accidentally fell ...   0.448979
+1  19  purchased case 3rd generation ipad ve using ca...   0.422166
+2   8  case perfect far concerned nice price makes ev...   0.400255
+3  20  thin case smart cover important thebest ve fou...   0.358877
+4   7  love case lots research purchased anything new...   0.353232
+
+step 1
+index added: 21
+percentage unclustered: 93.8053%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 93.8053%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 92.0354%
+
+	step 2
+
+		step 3
+		candidate index: 23 with core nodes: [5, 9, 19, 23]
+			old information: 337, gain: 0.9604227833235467
+
+   ind                                             review  relevance
+0   9  update 2 15 2013 n nmy ipad accidentally fell ...   0.448979
+1  23  hi see review wrote invellop case nbsp data ho...   0.430852
+2  19  purchased case 3rd generation ipad ve using ca...   0.422166
+3   8  case perfect far concerned nice price makes ev...   0.400255
+4  20  thin case smart cover important thebest ve fou...   0.358877
+5   7  love case lots research purchased anything new...   0.353232
+
+step 1
+index added: 24
+percentage unclustered: 88.4956%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [3, 8, 9, 19, 20, 22, 23, 24]
+			old information: 42, gain: 0.9204545454545454
+
+   ind                                             review  relevance
+0   9  update 2 15 2013 n nmy ipad accidentally fell ...   0.448979
+1  23  hi see review wrote invellop case nbsp data ho...   0.430852
+2  19  purchased case 3rd generation ipad ve using ca...   0.422166
+3   8  case perfect far concerned nice price makes ev...   0.400255
+4  24  husband bought ipad initially wanted buy 80 ca...   0.374691
+5  20  thin case smart cover important thebest ve fou...   0.358877
+6   7  love case lots research purchased anything new...   0.353232
+
+step 1
+index added: 25
+percentage unclustered: 88.4956%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 85.8407%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [3, 19, 22]
+
+step 1
+index added: 27
+percentage unclustered: 90.2655%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [7, 8, 9, 27]
+			old information: 350, gain: 0.9416180150125104
+
+   ind                                             review  relevance
+0  27  m seriously impressed ipad cover enjoy idea sm...   0.556708
+1   9  update 2 15 2013 n nmy ipad accidentally fell ...   0.448979
+2  23  hi see review wrote invellop case nbsp data ho...   0.430852
+3  19  purchased case 3rd generation ipad ve using ca...   0.422166
+4   8  case perfect far concerned nice price makes ev...   0.400255
+5  24  husband bought ipad initially wanted buy 80 ca...   0.374691
+6  20  thin case smart cover important thebest ve fou...   0.358877
+7   7  love case lots research purchased anything new...   0.353232
+
+step 1
+index added: 28
+percentage unclustered: 89.3805%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [19, 23, 28]
+			old information: 242, gain: 0.896845694799659
+
+   ind                                             review  relevance
+0  27  m seriously impressed ipad cover enjoy idea sm...   0.556708
+1  28  ipad snaps right fuss stays secure case extrem...   0.452715
+2   9  update 2 15 2013 n nmy ipad accidentally fell ...   0.448979
+3  23  hi see review wrote invellop case nbsp data ho...   0.430852
+4  19  purchased case 3rd generation ipad ve using ca...   0.422166
+5   8  case perfect far concerned nice price makes ev...   0.400255
+6  24  husband bought ipad initially wanted buy 80 ca...   0.374691
+7  20  thin case smart cover important thebest ve fou...   0.358877
+8   7  love case lots research purchased anything new...   0.353232
+
+step 1
+index added: 29
+percentage unclustered: 89.3805%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 88.4956%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [7, 9, 27, 30]
+			old information: 618, gain: 0.9731362747228863
+
+   ind                                             review  relevance
+0  30  let s cut straight chase n npros n n came day ...   0.638091
+1  27  m seriously impressed ipad cover enjoy idea sm...   0.556708
+2  28  ipad snaps right fuss stays secure case extrem...   0.452715
+3   9  update 2 15 2013 n nmy ipad accidentally fell ...   0.448979
+4  23  hi see review wrote invellop case nbsp data ho...   0.430852
+5  19  purchased case 3rd generation ipad ve using ca...   0.422166
+6   8  case perfect far concerned nice price makes ev...   0.400255
+7  24  husband bought ipad initially wanted buy 80 ca...   0.374691
+8  20  thin case smart cover important thebest ve fou...   0.358877
+9   7  love case lots research purchased anything new...   0.353232
+
+step 1
+index added: 31
+percentage unclustered: 88.4956%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 88.4956%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 88.4956%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 88.4956%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 88.4956%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 86.7257%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [7, 9, 19, 23, 27, 30, 36]
+			old information: 237, gain: 0.7247386759581882
+
+    ind                                             review  relevance
+0   30  let s cut straight chase n npros n n came day ...   0.638091
+1   27  m seriously impressed ipad cover enjoy idea sm...   0.556708
+2   36  different covers ipad 2 new ipad one far best ...   0.527381
+3   28  ipad snaps right fuss stays secure case extrem...   0.452715
+4    9  update 2 15 2013 n nmy ipad accidentally fell ...   0.448979
+5   23  hi see review wrote invellop case nbsp data ho...   0.430852
+6   19  purchased case 3rd generation ipad ve using ca...   0.422166
+7    8  case perfect far concerned nice price makes ev...   0.400255
+8   24  husband bought ipad initially wanted buy 80 ca...   0.374691
+9   20  thin case smart cover important thebest ve fou...   0.358877
+10   7  love case lots research purchased anything new...   0.353232
+
+step 1
+index added: 37
+percentage unclustered: 91.1504%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 88.4956%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [7, 9, 19, 23, 27, 30, 36]
+
+step 1
+index added: 39
+percentage unclustered: 88.4956%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 85.8407%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 84.9558%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 82.3009%
+
+	step 2
+
+		step 3
+		candidate index: 42 with core nodes: [19, 23, 36]
+			old information: 155, gain: 0.8956228956228957
+
+    ind                                             review  relevance
+0   30  let s cut straight chase n npros n n came day ...   0.638091
+1   27  m seriously impressed ipad cover enjoy idea sm...   0.556708
+2   36  different covers ipad 2 new ipad one far best ...   0.527381
+3   28  ipad snaps right fuss stays secure case extrem...   0.452715
+4    9  update 2 15 2013 n nmy ipad accidentally fell ...   0.448979
+5   23  hi see review wrote invellop case nbsp data ho...   0.430852
+6   19  purchased case 3rd generation ipad ve using ca...   0.422166
+7   42  echo reviewers love design case sleekness etc ...   0.419619
+8    8  case perfect far concerned nice price makes ev...   0.400255
+9   24  husband bought ipad initially wanted buy 80 ca...   0.374691
+10  20  thin case smart cover important thebest ve fou...   0.358877
+11   7  love case lots research purchased anything new...   0.353232
+
+step 1
+index added: 43
+percentage unclustered: 82.3009%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 82.3009%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 81.4159%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [19, 23, 36, 45]
+			old information: 534, gain: 0.9002987303958178
+
+    ind                                             review  relevance
+0   30  let s cut straight chase n npros n n came day ...   0.638091
+1   27  m seriously impressed ipad cover enjoy idea sm...   0.556708
+2   36  different covers ipad 2 new ipad one far best ...   0.527381
+3   45  used case since release 3rd generation ipad fi...   0.499269
+4   28  ipad snaps right fuss stays secure case extrem...   0.452715
+5    9  update 2 15 2013 n nmy ipad accidentally fell ...   0.448979
+6   23  hi see review wrote invellop case nbsp data ho...   0.430852
+7   19  purchased case 3rd generation ipad ve using ca...   0.422166
+8   42  echo reviewers love design case sleekness etc ...   0.419619
+9    8  case perfect far concerned nice price makes ev...   0.400255
+10  24  husband bought ipad initially wanted buy 80 ca...   0.374691
+11  20  thin case smart cover important thebest ve fou...   0.358877
+12   7  love case lots research purchased anything new...   0.353232
+
+step 1
+index added: 46
+percentage unclustered: 80.531%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [9, 30, 46]
+			old information: 262, gain: 0.8883205456095482
+
+    ind                                             review  relevance
+0   30  let s cut straight chase n npros n n came day ...   0.638091
+1   27  m seriously impressed ipad cover enjoy idea sm...   0.556708
+2   36  different covers ipad 2 new ipad one far best ...   0.527381
+3   46  s perfect new ipad 3rd gen snaps easily n t fa...   0.511497
+4   45  used case since release 3rd generation ipad fi...   0.499269
+5   28  ipad snaps right fuss stays secure case extrem...   0.452715
+6    9  update 2 15 2013 n nmy ipad accidentally fell ...   0.448979
+7   23  hi see review wrote invellop case nbsp data ho...   0.430852
+8   19  purchased case 3rd generation ipad ve using ca...   0.422166
+9   42  echo reviewers love design case sleekness etc ...   0.419619
+10   8  case perfect far concerned nice price makes ev...   0.400255
+11  24  husband bought ipad initially wanted buy 80 ca...   0.374691
+12  20  thin case smart cover important thebest ve fou...   0.358877
+13   7  love case lots research purchased anything new...   0.353232
+
+step 1
+index added: 47
+percentage unclustered: 80.531%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 79.646%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 80.531%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 80.531%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 80.531%
+
+	step 2
+
+		step 3
+		candidate index: 51 with core nodes: [9, 30, 46, 51]
+			old information: 980, gain: 0.8580327393886716
+
+    ind                                             review  relevance
+0   30  let s cut straight chase n npros n n came day ...   0.638091
+1   51  update 1 10 13 ni ve case 10 months knocking r...   0.584979
+2   27  m seriously impressed ipad cover enjoy idea sm...   0.556708
+3   36  different covers ipad 2 new ipad one far best ...   0.527381
+4   46  s perfect new ipad 3rd gen snaps easily n t fa...   0.511497
+5   45  used case since release 3rd generation ipad fi...   0.499269
+6   28  ipad snaps right fuss stays secure case extrem...   0.452715
+7    9  update 2 15 2013 n nmy ipad accidentally fell ...   0.448979
+8   23  hi see review wrote invellop case nbsp data ho...   0.430852
+9   19  purchased case 3rd generation ipad ve using ca...   0.422166
+10  42  echo reviewers love design case sleekness etc ...   0.419619
+11   8  case perfect far concerned nice price makes ev...   0.400255
+12  24  husband bought ipad initially wanted buy 80 ca...   0.374691
+13  20  thin case smart cover important thebest ve fou...   0.358877
+14   7  love case lots research purchased anything new...   0.353232
+
+step 1
+index added: 52
+percentage unclustered: 82.3009%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 80.531%
+
+	step 2
+
+		step 3
+		candidate index: 53 with core nodes: [19, 23, 24, 36, 52, 53]
+			old information: 186, gain: 0.8121212121212121
+
+    ind                                             review  relevance
+0   30  let s cut straight chase n npros n n came day ...   0.638091
+1   51  update 1 10 13 ni ve case 10 months knocking r...   0.584979
+2   27  m seriously impressed ipad cover enjoy idea sm...   0.556708
+3   36  different covers ipad 2 new ipad one far best ...   0.527381
+4   46  s perfect new ipad 3rd gen snaps easily n t fa...   0.511497
+5   45  used case since release 3rd generation ipad fi...   0.499269
+6   28  ipad snaps right fuss stays secure case extrem...   0.452715
+7    9  update 2 15 2013 n nmy ipad accidentally fell ...   0.448979
+8   23  hi see review wrote invellop case nbsp data ho...   0.430852
+9   19  purchased case 3rd generation ipad ve using ca...   0.422166
+10  42  echo reviewers love design case sleekness etc ...   0.419619
+11  53  searching high low great case looks stylish pr...   0.407463
+12   8  case perfect far concerned nice price makes ev...   0.400255
+13  24  husband bought ipad initially wanted buy 80 ca...   0.374691
+14  20  thin case smart cover important thebest ve fou...   0.358877
+15   7  love case lots research purchased anything new...   0.353232
+
+		step 3
+		candidate index: 53 with core nodes: [19, 23, 24, 36, 37, 52]
+			old information: 709, gain: 0.28383838383838383
+
+step 1
+index added: 54
+percentage unclustered: 79.646%
+
+	step 2
+
+		step 3
+		candidate index: 54 with core nodes: [17, 19, 36, 37, 54]
+			old information: 1257, gain: 0.92109723181219
+
+    ind                                             review  relevance
+0   54  first time write review anything amazon bought...   0.745774
+1   30  let s cut straight chase n npros n n came day ...   0.638091
+2   51  update 1 10 13 ni ve case 10 months knocking r...   0.584979
+3   27  m seriously impressed ipad cover enjoy idea sm...   0.556708
+4   36  different covers ipad 2 new ipad one far best ...   0.527381
+5   46  s perfect new ipad 3rd gen snaps easily n t fa...   0.511497
+6   45  used case since release 3rd generation ipad fi...   0.499269
+7   28  ipad snaps right fuss stays secure case extrem...   0.452715
+8    9  update 2 15 2013 n nmy ipad accidentally fell ...   0.448979
+9   23  hi see review wrote invellop case nbsp data ho...   0.430852
+10  19  purchased case 3rd generation ipad ve using ca...   0.422166
+11  42  echo reviewers love design case sleekness etc ...   0.419619
+12  53  searching high low great case looks stylish pr...   0.407463
+13   8  case perfect far concerned nice price makes ev...   0.400255
+14  24  husband bought ipad initially wanted buy 80 ca...   0.374691
+15  20  thin case smart cover important thebest ve fou...   0.358877
+16   7  love case lots research purchased anything new...   0.353232
+
+step 1
+index added: 55
+percentage unclustered: 78.7611%
+
+	step 2
+
+		step 3
+		candidate index: 55 with core nodes: [17, 19, 36, 54, 55]
+			old information: 6932, gain: 0.5648735170422446
+
+    ind                                             review  relevance
+0   55  first time write review anything amazon bought...   0.795179
+1   54  first time write review anything amazon bought...   0.745774
+2   30  let s cut straight chase n npros n n came day ...   0.638091
+3   51  update 1 10 13 ni ve case 10 months knocking r...   0.584979
+4   27  m seriously impressed ipad cover enjoy idea sm...   0.556708
+5   36  different covers ipad 2 new ipad one far best ...   0.527381
+6   46  s perfect new ipad 3rd gen snaps easily n t fa...   0.511497
+7   45  used case since release 3rd generation ipad fi...   0.499269
+8   28  ipad snaps right fuss stays secure case extrem...   0.452715
+9    9  update 2 15 2013 n nmy ipad accidentally fell ...   0.448979
+10  23  hi see review wrote invellop case nbsp data ho...   0.430852
+11  19  purchased case 3rd generation ipad ve using ca...   0.422166
+12  42  echo reviewers love design case sleekness etc ...   0.419619
+13  53  searching high low great case looks stylish pr...   0.407463
+14   8  case perfect far concerned nice price makes ev...   0.400255
+15  24  husband bought ipad initially wanted buy 80 ca...   0.374691
+16  20  thin case smart cover important thebest ve fou...   0.358877
+17   7  love case lots research purchased anything new...   0.353232
+
+step 1
+index added: 56
+percentage unclustered: 78.7611%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 69.9115%
+
+	step 2
+
+		step 3
+		candidate index: 57 with core nodes: [19, 36, 54, 55]
+
+step 1
+index added: 58
+percentage unclustered: 69.0265%
+
+	step 2
+
+		step 3
+		candidate index: 58 with core nodes: [19, 49, 54, 55, 56, 58]
+			old information: 537, gain: 0.7065573770491803
+
+    ind                                             review  relevance
+0   55  first time write review anything amazon bought...   0.795179
+1   54  first time write review anything amazon bought...   0.745774
+2   58  surprisingly better expected quality cover gre...   0.666460
+3   30  let s cut straight chase n npros n n came day ...   0.638091
+4   51  update 1 10 13 ni ve case 10 months knocking r...   0.584979
+5   27  m seriously impressed ipad cover enjoy idea sm...   0.556708
+6   36  different covers ipad 2 new ipad one far best ...   0.527381
+7   46  s perfect new ipad 3rd gen snaps easily n t fa...   0.511497
+8   45  used case since release 3rd generation ipad fi...   0.499269
+9   28  ipad snaps right fuss stays secure case extrem...   0.452715
+10   9  update 2 15 2013 n nmy ipad accidentally fell ...   0.448979
+11  23  hi see review wrote invellop case nbsp data ho...   0.430852
+12  19  purchased case 3rd generation ipad ve using ca...   0.422166
+13  42  echo reviewers love design case sleekness etc ...   0.419619
+14  53  searching high low great case looks stylish pr...   0.407463
+15   8  case perfect far concerned nice price makes ev...   0.400255
+16  24  husband bought ipad initially wanted buy 80 ca...   0.374691
+17  20  thin case smart cover important thebest ve fou...   0.358877
+18   7  love case lots research purchased anything new...   0.353232
+
+step 1
+index added: 59
+percentage unclustered: 68.1416%
+
+	step 2
+
+		step 3
+		candidate index: 59 with core nodes: [19, 49, 54, 55, 56, 58]
+
+step 1
+index added: 60
+percentage unclustered: 68.1416%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 65.4867%
+
+	step 2
+
+		step 3
+		candidate index: 61 with core nodes: [19, 49, 54, 55, 56, 58]
+			old information: 602, gain: 0.8807920792079208
+
+    ind                                             review  relevance
+0   55  first time write review anything amazon bought...   0.795179
+1   54  first time write review anything amazon bought...   0.745774
+2   58  surprisingly better expected quality cover gre...   0.666460
+3   61  updated review n nso case new ipad roughly two...   0.663025
+4   30  let s cut straight chase n npros n n came day ...   0.638091
+5   51  update 1 10 13 ni ve case 10 months knocking r...   0.584979
+6   27  m seriously impressed ipad cover enjoy idea sm...   0.556708
+7   36  different covers ipad 2 new ipad one far best ...   0.527381
+8   46  s perfect new ipad 3rd gen snaps easily n t fa...   0.511497
+9   45  used case since release 3rd generation ipad fi...   0.499269
+10  28  ipad snaps right fuss stays secure case extrem...   0.452715
+11   9  update 2 15 2013 n nmy ipad accidentally fell ...   0.448979
+12  23  hi see review wrote invellop case nbsp data ho...   0.430852
+13  19  purchased case 3rd generation ipad ve using ca...   0.422166
+14  42  echo reviewers love design case sleekness etc ...   0.419619
+15  53  searching high low great case looks stylish pr...   0.407463
+16   8  case perfect far concerned nice price makes ev...   0.400255
+17  24  husband bought ipad initially wanted buy 80 ca...   0.374691
+18  20  thin case smart cover important thebest ve fou...   0.358877
+19   7  love case lots research purchased anything new...   0.353232
+
+step 1
+index added: 62
+percentage unclustered: 65.4867%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 71.6814%
+
+	step 2
+
+		step 3
+		candidate index: 63 with core nodes: [19, 36, 54, 55]
+
+step 1
+index added: 64
+percentage unclustered: 74.3363%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 74.3363%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 74.3363%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 72.5664%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 75.2212%
+
+	step 2
+
+		step 3
+		candidate index: 68 with core nodes: [36, 49, 54, 55]
+
+		step 3
+		candidate index: 68 with core nodes: [19, 36, 54, 55]
+
+step 1
+index added: 69
+percentage unclustered: 75.2212%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 75.2212%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 74.3363%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 74.3363%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 78.7611%
+
+	step 2
+
+		step 3
+		candidate index: 73 with core nodes: [17, 19, 36, 54, 55]
+
+step 1
+index added: 74
+percentage unclustered: 78.7611%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 77.87610000000001%
+
+	step 2
+
+		step 3
+		candidate index: 75 with core nodes: [17, 19, 36, 54, 55]
+
+step 1
+index added: 76
+percentage unclustered: 73.4513%
+
+	step 2
+
+		step 3
+		candidate index: 76 with core nodes: [24, 45, 52, 76]
+			old information: 167, gain: 0.6633064516129032
+
+    ind                                             review  relevance
+0   55  first time write review anything amazon bought...   0.795179
+1   54  first time write review anything amazon bought...   0.745774
+2   58  surprisingly better expected quality cover gre...   0.666460
+3   61  updated review n nso case new ipad roughly two...   0.663025
+4   30  let s cut straight chase n npros n n came day ...   0.638091
+5   51  update 1 10 13 ni ve case 10 months knocking r...   0.584979
+6   27  m seriously impressed ipad cover enjoy idea sm...   0.556708
+7   36  different covers ipad 2 new ipad one far best ...   0.527381
+8   46  s perfect new ipad 3rd gen snaps easily n t fa...   0.511497
+9   45  used case since release 3rd generation ipad fi...   0.499269
+10  76  case slim well built auto on feature works cas...   0.454564
+11  28  ipad snaps right fuss stays secure case extrem...   0.452715
+12   9  update 2 15 2013 n nmy ipad accidentally fell ...   0.448979
+13  23  hi see review wrote invellop case nbsp data ho...   0.430852
+14  19  purchased case 3rd generation ipad ve using ca...   0.422166
+15  42  echo reviewers love design case sleekness etc ...   0.419619
+16  53  searching high low great case looks stylish pr...   0.407463
+17   8  case perfect far concerned nice price makes ev...   0.400255
+18  24  husband bought ipad initially wanted buy 80 ca...   0.374691
+19  20  thin case smart cover important thebest ve fou...   0.358877
+20   7  love case lots research purchased anything new...   0.353232
+
+step 1
+index added: 77
+percentage unclustered: 73.4513%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 74.3363%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 73.4513%
+
+	step 2
+
+		step 3
+		candidate index: 79 with core nodes: [36, 49, 54, 55]
+
+		step 3
+		candidate index: 79 with core nodes: [19, 36, 54, 55]
+
+step 1
+index added: 80
+percentage unclustered: 72.5664%
+
+	step 2
+
+		step 3
+		candidate index: 80 with core nodes: [36, 49, 54, 55]
+
+		step 3
+		candidate index: 80 with core nodes: [19, 36, 54, 55]
+
+step 1
+index added: 81
+percentage unclustered: 72.5664%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 69.9115%
+
+	step 2
+
+		step 3
+		candidate index: 82 with core nodes: [36, 49, 54, 55]
+
+		step 3
+		candidate index: 82 with core nodes: [19, 36, 54, 55]
+
+step 1
+index added: 83
+percentage unclustered: 69.9115%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 69.0265%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 69.0265%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 71.6814%
+
+	step 2
+
+		step 3
+		candidate index: 86 with core nodes: [17, 19, 36, 54, 55]
+
+step 1
+index added: 87
+percentage unclustered: 67.25659999999999%
+
+	step 2
+
+		step 3
+		candidate index: 87 with core nodes: [36, 49, 54, 55]
+
+		step 3
+		candidate index: 87 with core nodes: [19, 36, 54, 55]
+
+		step 3
+		candidate index: 87 with core nodes: [19, 49, 54, 55]
+
+step 1
+index added: 88
+percentage unclustered: 67.25659999999999%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 64.6018%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 64.6018%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 64.6018%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 64.6018%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 64.6018%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 63.7168%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 66.3717%
+
+	step 2
+
+		step 3
+		candidate index: 95 with core nodes: [19, 36, 54, 55]
+			old information: 190, gain: 0.7297297297297297
+
+    ind                                             review  relevance
+0   55  first time write review anything amazon bought...   0.795179
+1   54  first time write review anything amazon bought...   0.745774
+2   58  surprisingly better expected quality cover gre...   0.666460
+3   61  updated review n nso case new ipad roughly two...   0.663025
+4   30  let s cut straight chase n npros n n came day ...   0.638091
+5   51  update 1 10 13 ni ve case 10 months knocking r...   0.584979
+6   27  m seriously impressed ipad cover enjoy idea sm...   0.556708
+7   36  different covers ipad 2 new ipad one far best ...   0.527381
+8   46  s perfect new ipad 3rd gen snaps easily n t fa...   0.511497
+9   45  used case since release 3rd generation ipad fi...   0.499269
+10  95  exactly m looking smart cover like functions b...   0.478673
+11  76  case slim well built auto on feature works cas...   0.454564
+12  28  ipad snaps right fuss stays secure case extrem...   0.452715
+13   9  update 2 15 2013 n nmy ipad accidentally fell ...   0.448979
+14  23  hi see review wrote invellop case nbsp data ho...   0.430852
+15  19  purchased case 3rd generation ipad ve using ca...   0.422166
+16  42  echo reviewers love design case sleekness etc ...   0.419619
+17  53  searching high low great case looks stylish pr...   0.407463
+18   8  case perfect far concerned nice price makes ev...   0.400255
+19  24  husband bought ipad initially wanted buy 80 ca...   0.374691
+20  20  thin case smart cover important thebest ve fou...   0.358877
+21   7  love case lots research purchased anything new...   0.353232
+
+step 1
+index added: 96
+percentage unclustered: 62.8319%
+
+	step 2
+
+		step 3
+		candidate index: 96 with core nodes: [19, 35, 54, 55]
+
+step 1
+index added: 97
+percentage unclustered: 62.8319%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 62.8319%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 62.8319%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 62.8319%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 57.5221%
+
+	step 2
+
+		step 3
+		candidate index: 101 with core nodes: [19, 54, 55, 92]
+
+step 1
+index added: 102
+percentage unclustered: 56.6372%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 57.5221%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 57.5221%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 57.5221%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 58.4071%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 57.5221%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 57.5221%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 57.5221%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 57.5221%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 56.6372%
+
+	step 2
+
+		step 3
+		candidate index: 111 with core nodes: [49, 54, 55, 92]
+
+		step 3
+		candidate index: 111 with core nodes: [19, 49, 54, 55]
+
+		step 3
+		candidate index: 111 with core nodes: [19, 54, 55, 92]
+
+step 1
+index added: 112
+percentage unclustered: 56.6372%
+
+	step 2
+
+--- 112.03181767463684 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 97.3451, 96.4602, 95.5752, 95.5752, 95.5752, 95.5752, 95.5752, 95.5752, 95.5752, 95.5752, 100.0, 100.0, 97.3451, 93.8053, 93.8053, 93.8053, 92.0354, 88.4956, 88.4956, 85.8407, 90.2655, 89.3805, 89.3805, 88.4956, 88.4956, 88.4956, 88.4956, 88.4956, 88.4956, 86.7257, 91.1504, 88.4956, 88.4956, 85.8407, 84.9558, 82.3009, 82.3009, 82.3009, 81.4159, 80.531, 80.531, 79.646, 80.531, 80.531, 80.531, 82.3009, 80.531, 79.646, 78.7611, 78.7611, 69.9115, 69.0265, 68.1416, 68.1416, 65.4867, 65.4867, 71.6814, 74.3363, 74.3363, 74.3363, 72.5664, 75.2212, 75.2212, 75.2212, 74.3363, 74.3363, 78.7611, 78.7611, 77.87610000000001, 73.4513, 73.4513, 74.3363, 73.4513, 72.5664, 72.5664, 69.9115, 69.9115, 69.0265, 69.0265, 71.6814, 67.25659999999999, 67.25659999999999, 64.6018, 64.6018, 64.6018, 64.6018, 64.6018, 63.7168, 66.3717, 62.8319, 62.8319, 62.8319, 62.8319, 62.8319, 57.5221, 56.6372, 57.5221, 57.5221, 57.5221, 58.4071, 57.5221, 57.5221, 57.5221, 57.5221, 56.6372, 56.6372], mean: 78.2987
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        71  55   0.795179  first time write review anything amazon bought...
+1       101  54   0.745774  first time write review anything amazon bought...
+2        72  58   0.666460  surprisingly better expected quality cover gre...
+3        11  61   0.663025  updated review n nso case new ipad roughly two...
+4        95  30   0.638091  let s cut straight chase n npros n n came day ...
+5        46  51   0.584979  update 1 10 13 ni ve case 10 months knocking r...
+6        39  27   0.556708  m seriously impressed ipad cover enjoy idea sm...
+7        43  36   0.527381  different covers ipad 2 new ipad one far best ...
+8        56  46   0.511497  s perfect new ipad 3rd gen snaps easily n t fa...
+9        55  45   0.499269  used case since release 3rd generation ipad fi...
+10       13  95   0.478673  exactly m looking smart cover like functions b...
+11       76  76   0.454564  case slim well built auto on feature works cas...
+12       80  28   0.452715  ipad snaps right fuss stays secure case extrem...
+13        5   9   0.448979  update 2 15 2013 n nmy ipad accidentally fell ...
+14       93  23   0.430852  hi see review wrote invellop case nbsp data ho...
+15       12  19   0.422166  purchased case 3rd generation ipad ve using ca...
+16       69  42   0.419619  echo reviewers love design case sleekness etc ...
+17       22  53   0.407463  searching high low great case looks stylish pr...
+18       16   8   0.400255  case perfect far concerned nice price makes ev...
+19       31  24   0.374691  husband bought ipad initially wanted buy 80 ca...
+20       14  20   0.358877  thin case smart cover important thebest ve fou...
+21        9   7   0.353232  love case lots research purchased anything new...

@@ -1,0 +1,418 @@
+------- Category: Home_and_Kitchen -------
+Found asin_id: B0153NEBPI
+Shape:  (150, 7)
+
+Readability scores: [-64.13837078651682, 13.509310344827611, 33.48830985915495, -23.245149253731313, 54.98069767441862, 6.007741935483892, 49.343750000000014, 96.89142857142858, -341.47099999999995, 29.608636363636393, 68.23090909090911, -40.76079136690643, 73.97307692307693, 44.84347826086959, 48.02187500000002, 21.372692307692333, 68.22750000000002, -25.86549180327866, 46.811363636363666, 34.23315068493153, 38.21400000000003, 59.46214285714288, 54.772459016393455, 67.94818181818184, 39.33500000000002, 45.77307692307694, 38.83725806451615, 73.24756756756759, -43.35582781456951, 86.708, 45.63000000000001, 2.116764705882389, 82.58290322580649, 95.73000000000002, 52.865000000000016, 71.06500000000003, 83.34500000000003, 62.19500000000003, 205.82000000000002, 80.30636363636367, 82.39000000000001, 55.287142857142875, 48.053684210526335, 66.78714285714288, 80.25000000000003, 63.73000000000002, 39.86318181818183, -17.86783783783781, 36.73692307692309, 80.09764705882354, 81.85500000000002, 120.11071428571431, 47.55409090909093, 91.69666666666669, 57.760000000000005, -48.994999999999976, 40.09000000000001, -23.54749999999997, 58.03000000000002, 73.1421739130435, 102.53230769230771, 77.90500000000002, 55.41272727272729, -11.873983050847428, 101.37000000000002, 95.95500000000001, 66.40400000000001, 67.53000000000003, 4.592371134020638, 35.435384615384635, 103.54, 106.24652173913046, 120.20500000000001, 55.287142857142875, 89.24500000000002, 85.01500000000001, 94.3, 84.8057142857143, -47.979999999999976, 85.86500000000002, 47.832500000000024, 61.333000000000006, 103.54, 96.02461538461542, 77.04142857142858, 58.40750000000001, 87.94500000000002, 79.55750000000002, 75.87500000000001, 87.94500000000002, 14.220000000000013, 95.73000000000002, 36.34500000000002, 0.12000000000000455, 72.32500000000002, 116.14500000000001, 117.16000000000001, 103.37909090909093, 77.685, -132.57999999999996, -12.27913793103447, 57.70428571428574, 49.480000000000004, 86.708, 90.95857142857143, 67.81911764705885, 49.480000000000004, 80.78500000000001, 72.79558823529413, 39.33000000000001, 17.43000000000002, 60.95769230769233, 35.435384615384635, 82.39000000000001, 66.78534883720931, 77.8107142857143, 95.42000000000002, 20.86071428571431, -31.478749999999977, 59.745000000000005, 61.333000000000006, 11.27659340659342, 201.76000000000002, 67.53000000000003, -48.994999999999976, 111.07000000000002, 33.808695652173924, 85.89131578947371, 76.50153846153849, 58.40750000000001, 6.234831460674172, 80.10702702702704, 95.16500000000002, 46.9944117647059, 45.315000000000026, 56.94813953488374, 58.34772727272728, 95.93928571428575, 68.23090909090911, 35.87140845070424, 100.24400000000001, 80.49869565217392, 60.45886792452833, 83.775, 19.643012048192787, 40.44852941176472, 66.34934782608697, 79.57576923076924, -87.9274489795918, 78.24500000000003], on average: 53.0313
+Readability scores after: [-64.13837078651682, 13.509310344827611, 33.48830985915495, -23.245149253731313, 6.007741935483892, 49.343750000000014, -341.47099999999995, 29.608636363636393, -40.76079136690643, 44.84347826086959, 48.02187500000002, 21.372692307692333, -25.86549180327866, 46.811363636363666, 34.23315068493153, 38.21400000000003, 39.33500000000002, 45.77307692307694, 38.83725806451615, -43.35582781456951, 45.63000000000001, 2.116764705882389, 48.053684210526335, 39.86318181818183, -17.86783783783781, 36.73692307692309, 47.55409090909093, -48.994999999999976, 40.09000000000001, -23.54749999999997, -11.873983050847428, 4.592371134020638, 35.435384615384635, -47.979999999999976, 47.832500000000024, 14.220000000000013, 36.34500000000002, 0.12000000000000455, -132.57999999999996, -12.27913793103447, 49.480000000000004, 49.480000000000004, 39.33000000000001, 17.43000000000002, 35.435384615384635, 20.86071428571431, -31.478749999999977, 11.27659340659342, -48.994999999999976, 33.808695652173924, 6.234831460674172, 46.9944117647059, 45.315000000000026, 35.87140845070424, 19.643012048192787, 40.44852941176472, -87.9274489795918], on average after: 5.9164
+Shape after:  (57, 8)
+
+
+Chosen product: B0153NEBPI has 150 reviews - False, it has 57 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 94.7368%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [2, 6, 7]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   7  really great mat kitchen elsewhere really comf...   0.297674
+
+step 1
+index added: 8
+percentage unclustered: 94.7368%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 94.7368%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 94.7368%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 94.7368%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 94.7368%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 94.7368%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 94.7368%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 94.7368%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 94.7368%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 92.9825%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [2, 6, 7, 17]
+			old information: 7, gain: 0.9590643274853801
+
+   ind                                             review  relevance
+0  17  sturdy mat comfortable stand liked much ended ...   0.316633
+1   7  really great mat kitchen elsewhere really comf...   0.297674
+
+step 1
+index added: 18
+percentage unclustered: 92.9825%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 92.9825%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 87.7193%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [2, 6, 7, 17]
+
+step 1
+index added: 21
+percentage unclustered: 87.7193%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 87.7193%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 87.7193%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 85.9649%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [6, 12, 24]
+			old information: 7, gain: 0.9957652752571083
+
+   ind                                             review  relevance
+0  24  looking anti fatigue mat kitchen looked many s...   0.410912
+1  17  sturdy mat comfortable stand liked much ended ...   0.316633
+2   7  really great mat kitchen elsewhere really comf...   0.297674
+
+step 1
+index added: 25
+percentage unclustered: 85.9649%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 85.9649%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 85.9649%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 85.9649%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 85.9649%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 85.9649%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 85.9649%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 85.9649%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 80.70179999999999%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 78.9474%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [6, 12, 24]
+
+step 1
+index added: 35
+percentage unclustered: 77.193%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [6, 12, 24]
+
+step 1
+index added: 36
+percentage unclustered: 77.193%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 77.193%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 75.43860000000001%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 75.43860000000001%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 73.6842%
+
+	step 2
+
+		step 3
+		candidate index: 40 with core nodes: [2, 7, 17]
+			old information: 2, gain: 0.6666666666666666
+
+   ind                                             review  relevance
+0  24  looking anti fatigue mat kitchen looked many s...   0.410912
+1  17  sturdy mat comfortable stand liked much ended ...   0.316633
+2   7  really great mat kitchen elsewhere really comf...   0.297674
+3  40                        comfortable mats great size   0.146941
+
+step 1
+index added: 41
+percentage unclustered: 73.6842%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 71.9298%
+
+	step 2
+
+		step 3
+		candidate index: 42 with core nodes: [2, 27, 40, 42]
+			old information: 1, gain: 0.9523809523809523
+
+   ind                                             review  relevance
+0  24  looking anti fatigue mat kitchen looked many s...   0.410912
+1  17  sturdy mat comfortable stand liked much ended ...   0.316633
+2  42  mat exceeded expectations comfortable price al...   0.299015
+3   7  really great mat kitchen elsewhere really comf...   0.297674
+4  40                        comfortable mats great size   0.146941
+
+step 1
+index added: 43
+percentage unclustered: 71.9298%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 71.9298%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 71.9298%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 70.1754%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [6, 12, 19]
+			old information: 13, gain: 0.9950532724505328
+
+   ind                                             review  relevance
+0  24  looking anti fatigue mat kitchen looked many s...   0.410912
+1  17  sturdy mat comfortable stand liked much ended ...   0.316633
+2  42  mat exceeded expectations comfortable price al...   0.299015
+3   7  really great mat kitchen elsewhere really comf...   0.297674
+4  46  kangaroo arrived today slight odor nothing lik...   0.214302
+5  40                        comfortable mats great size   0.146941
+
+step 1
+index added: 47
+percentage unclustered: 70.1754%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 68.4211%
+
+	step 2
+
+		step 3
+		candidate index: 48 with core nodes: [2, 27, 40, 42, 48]
+			old information: 0, gain: 1.0
+
+step 1
+index added: 49
+percentage unclustered: 68.4211%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 64.9123%
+
+	step 2
+
+		step 3
+		candidate index: 50 with core nodes: [6, 12, 19]
+
+step 1
+index added: 51
+percentage unclustered: 64.9123%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 64.9123%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 59.6491%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 59.6491%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 57.8947%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 57.8947%
+
+	step 2
+
+--- 8.703536033630371 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 94.7368, 94.7368, 94.7368, 94.7368, 94.7368, 94.7368, 94.7368, 94.7368, 94.7368, 94.7368, 92.9825, 92.9825, 92.9825, 87.7193, 87.7193, 87.7193, 87.7193, 85.9649, 85.9649, 85.9649, 85.9649, 85.9649, 85.9649, 85.9649, 85.9649, 85.9649, 80.70179999999999, 78.9474, 77.193, 77.193, 77.193, 75.43860000000001, 75.43860000000001, 73.6842, 73.6842, 71.9298, 71.9298, 71.9298, 71.9298, 70.1754, 70.1754, 68.4211, 68.4211, 64.9123, 64.9123, 64.9123, 59.6491, 59.6491, 57.8947, 57.8947], mean: 82.4561
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0       40  24   0.410912  looking anti fatigue mat kitchen looked many s...
+1       53  17   0.316633  sturdy mat comfortable stand liked much ended ...
+2       44  42   0.299015  mat exceeded expectations comfortable price al...
+3       14   7   0.297674  really great mat kitchen elsewhere really comf...
+4       21  46   0.214302  kangaroo arrived today slight odor nothing lik...
+5       43  40   0.146941                        comfortable mats great size

@@ -1,0 +1,131 @@
+------- Category: Home_and_Kitchen -------
+Found asin_id: B00004OCNR
+Shape:  (20, 7)
+
+Readability scores: [-111.66358208955221, 2.52500000000002, 59.30500000000002, 77.04142857142858, 61.333000000000006, -19.52959999999996, 43.00500000000004, 49.910000000000025, 28.193750000000023, 69.46391304347827, 34.83000000000003, 61.93000000000001, -28.02616541353379, 51.781632653061244, 22.130000000000024, -31.452611940298482, 69.53357142857145, -163.90011627906972, -127.93275109170303, 8.10307692307694], on average: 7.829
+Readability scores after: [-111.66358208955221, 2.52500000000002, -19.52959999999996, 43.00500000000004, 49.910000000000025, 28.193750000000023, 34.83000000000003, -28.02616541353379, 22.130000000000024, -31.452611940298482, -163.90011627906972, -127.93275109170303, 8.10307692307694], on average after: -22.6006
+Shape after:  (13, 8)
+
+
+Chosen product: B00004OCNR has 20 reviews - False, it has 13 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 76.9231%
+
+	step 2
+
+		step 3
+		candidate index: 4 with core nodes: [1, 3, 4]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   4  bye whisking away froth foam easily handle whi...   0.256676
+
+step 1
+index added: 5
+percentage unclustered: 76.9231%
+
+	step 2
+
+step 1
+index added: 6
+percentage unclustered: 69.2308%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [1, 3, 4, 6]
+			old information: 4, gain: 0.9970972423802612
+
+   ind                                             review  relevance
+0   4  bye whisking away froth foam easily handle whi...   0.256676
+1   6  s puny na 10 inch chef s knife 10 inch blade h...   0.211221
+
+step 1
+index added: 7
+percentage unclustered: 69.2308%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 53.8462%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [1, 3, 4, 6, 7, 8]
+			old information: 1, gain: 0.9988925802879292
+
+   ind                                             review  relevance
+0   4  bye whisking away froth foam easily handle whi...   0.256676
+1   6  s puny na 10 inch chef s knife 10 inch blade h...   0.211221
+2   8  almost hybrid flat whisks balloon type use sev...   0.170538
+
+step 1
+index added: 9
+percentage unclustered: 53.8462%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 46.1538%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [1, 3, 4, 6, 7, 10]
+			old information: 33, gain: 0.996351575456053
+
+   ind                                             review  relevance
+0  10  favorite whisk truly well made making custard ...   0.478222
+1   4  bye whisking away froth foam easily handle whi...   0.256676
+2   6  s puny na 10 inch chef s knife 10 inch blade h...   0.211221
+3   8  almost hybrid flat whisks balloon type use sev...   0.170538
+
+step 1
+index added: 11
+percentage unclustered: 38.4615%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [1, 7, 10, 11]
+			old information: 131, gain: 0.980359820089955
+
+   ind                                             review  relevance
+0  11  bought whisk old one finally broke 2 wires pop...   0.493201
+1  10  favorite whisk truly well made making custard ...   0.478222
+2   4  bye whisking away froth foam easily handle whi...   0.256676
+3   6  s puny na 10 inch chef s knife 10 inch blade h...   0.211221
+4   8  almost hybrid flat whisks balloon type use sev...   0.170538
+
+step 1
+index added: 12
+percentage unclustered: 38.4615%
+
+	step 2
+
+--- 1.8041660785675049 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 76.9231, 76.9231, 69.2308, 69.2308, 53.8462, 53.8462, 46.1538, 38.4615, 38.4615], mean: 65.7343
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0       10  11   0.493201  bought whisk old one finally broke 2 wires pop...
+1        3  10   0.478222  favorite whisk truly well made making custard ...
+2       13   4   0.256676  bye whisking away froth foam easily handle whi...
+3        6   6   0.211221  s puny na 10 inch chef s knife 10 inch blade h...
+4       11   8   0.170538  almost hybrid flat whisks balloon type use sev...

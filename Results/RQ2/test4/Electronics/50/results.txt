@@ -1,0 +1,316 @@
+------- Category: Electronics -------
+Found asin_id: B00003G1RG
+Shape:  (50, 7)
+
+Readability scores: [-17.513181818181792, 18.379210526315816, -54.26999999999995, -128.8507894736842, -147.20647058823528, 42.11684210526318, -109.44642857142854, -137.49475336322865, 27.01357142857144, 99.26500000000001, 6.263823529411795, 64.10162162162163, -64.82596273291922, -82.84249999999997, 8.830891089108945, 59.46214285714288, 67.81911764705885, -5.288571428571402, 14.244024390243922, -60.44383116883114, -32.73749999999998, 51.40500000000003, 85.165, 74.02500000000002, 60.270454545454555, 48.36000000000003, -34.11051094890507, -36.93142857142854, 8.089489795918396, 38.95027027027027, 18.494545454545474, -31.190384615384588, -12.67415929203537, -72.24656626506021, 20.86071428571431, 78.2137931034483, 95.73000000000002, 58.06653846153848, -7.832941176470555, 11.077647058823544, 56.94921052631581, -52.55580645161288, -1.406428571428549, 28.062000000000026, 54.95846153846156, 22.26103448275863, 39.49000000000001, -59.04823529411762, 1.4984883720930497, 6.445000000000007], on average: 2.339
+Readability scores after: [-17.513181818181792, 18.379210526315816, -54.26999999999995, -128.8507894736842, -147.20647058823528, 42.11684210526318, -109.44642857142854, -137.49475336322865, 27.01357142857144, 6.263823529411795, -64.82596273291922, -82.84249999999997, 8.830891089108945, -5.288571428571402, 14.244024390243922, -60.44383116883114, -32.73749999999998, 48.36000000000003, -34.11051094890507, -36.93142857142854, 8.089489795918396, 38.95027027027027, 18.494545454545474, -31.190384615384588, -12.67415929203537, -72.24656626506021, 20.86071428571431, -7.832941176470555, 11.077647058823544, -52.55580645161288, -1.406428571428549, 28.062000000000026, 22.26103448275863, 39.49000000000001, -59.04823529411762, 1.4984883720930497, 6.445000000000007], on average after: -21.3102
+Shape after:  (37, 8)
+
+
+Chosen product: B00003G1RG has 50 reviews - False, it has 37 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 91.89189999999999%
+
+	step 2
+
+		step 3
+		candidate index: 5 with core nodes: [1, 3, 5]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   5  8mb memory came 1 megapixel kodak dc240 justdi...   0.140546
+
+step 1
+index added: 6
+percentage unclustered: 91.89189999999999%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 83.7838%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [2, 3, 4, 7]
+			old information: 16, gain: 0.998307415635248
+
+   ind                                             review  relevance
+0   7  unlike lexar sandisk viking design make compon...   0.503532
+1   5  8mb memory came 1 megapixel kodak dc240 justdi...   0.140546
+
+step 1
+index added: 8
+percentage unclustered: 83.7838%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 83.7838%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 81.08109999999999%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [2, 3, 4, 10]
+			old information: 55, gain: 0.9838377901851307
+
+   ind                                             review  relevance
+0  10  digital cameras include 8mb cf card definitely...   0.584663
+1   7  unlike lexar sandisk viking design make compon...   0.503532
+2   5  8mb memory came 1 megapixel kodak dc240 justdi...   0.140546
+
+step 1
+index added: 11
+percentage unclustered: 78.3784%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [2, 3, 4, 10]
+
+step 1
+index added: 12
+percentage unclustered: 75.6757%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [2, 3, 4, 10]
+
+step 1
+index added: 13
+percentage unclustered: 72.973%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [2, 3, 4, 10]
+
+step 1
+index added: 14
+percentage unclustered: 72.973%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 70.27029999999999%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [2, 3, 4, 10]
+			old information: 177, gain: 0.958625525946704
+
+   ind                                             review  relevance
+0  10  digital cameras include 8mb cf card definitely...   0.584663
+1  15  m happy owner nikon s new addition advanced am...   0.555180
+2   7  unlike lexar sandisk viking design make compon...   0.503532
+3   5  8mb memory came 1 megapixel kodak dc240 justdi...   0.140546
+
+step 1
+index added: 16
+percentage unclustered: 67.5676%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [2, 3, 10, 16]
+			old information: 122, gain: 0.9593739593739594
+
+   ind                                             review  relevance
+0  10  digital cameras include 8mb cf card definitely...   0.584663
+1  16  great card bought s200 elph knew included 8meg...   0.567248
+2  15  m happy owner nikon s new addition advanced am...   0.555180
+3   7  unlike lexar sandisk viking design make compon...   0.503532
+4   5  8mb memory came 1 megapixel kodak dc240 justdi...   0.140546
+
+step 1
+index added: 17
+percentage unclustered: 67.5676%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 67.5676%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 64.8649%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 64.8649%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 64.8649%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 64.8649%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 64.8649%
+
+	step 2
+
+		step 3
+		candidate index: 23 with core nodes: [2, 3, 10, 16, 23]
+			old information: 158, gain: 0.9381846635367762
+
+   ind                                             review  relevance
+0  23  viking 128 mb compact flash card tremedous val...   0.621008
+1  10  digital cameras include 8mb cf card definitely...   0.584663
+2  16  great card bought s200 elph knew included 8meg...   0.567248
+3  15  m happy owner nikon s new addition advanced am...   0.555180
+4   7  unlike lexar sandisk viking design make compon...   0.503532
+5   5  8mb memory came 1 megapixel kodak dc240 justdi...   0.140546
+
+step 1
+index added: 24
+percentage unclustered: 64.8649%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 62.1622%
+
+	step 2
+
+		step 3
+		candidate index: 25 with core nodes: [2, 3, 10, 16, 23]
+
+step 1
+index added: 26
+percentage unclustered: 56.7568%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [2, 3, 10, 16, 23]
+
+step 1
+index added: 27
+percentage unclustered: 56.7568%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 54.0541%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [2, 3, 10, 16, 23]
+
+step 1
+index added: 29
+percentage unclustered: 48.6486%
+
+	step 2
+
+		step 3
+		candidate index: 29 with core nodes: [2, 3, 10, 16, 23]
+
+step 1
+index added: 30
+percentage unclustered: 48.6486%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 45.9459%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 45.9459%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 59.4595%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [2, 3, 16, 23]
+
+step 1
+index added: 34
+percentage unclustered: 56.7568%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [2, 3, 16, 23]
+
+step 1
+index added: 35
+percentage unclustered: 54.0541%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 54.0541%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [2, 3, 16, 23]
+
+--- 6.212965965270996 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 91.89189999999999, 91.89189999999999, 83.7838, 83.7838, 83.7838, 81.08109999999999, 78.3784, 75.6757, 72.973, 72.973, 70.27029999999999, 67.5676, 67.5676, 67.5676, 64.8649, 64.8649, 64.8649, 64.8649, 64.8649, 64.8649, 62.1622, 56.7568, 56.7568, 54.0541, 48.6486, 48.6486, 45.9459, 45.9459, 59.4595, 56.7568, 54.0541, 54.0541], mean: 69.1892
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0       34  23   0.621008  viking 128 mb compact flash card tremedous val...
+1       25  10   0.584663  digital cameras include 8mb cf card definitely...
+2       16  16   0.567248  great card bought s200 elph knew included 8meg...
+3        8  15   0.555180  m happy owner nikon s new addition advanced am...
+4        1   7   0.503532  unlike lexar sandisk viking design make compon...
+5       30   5   0.140546  8mb memory came 1 megapixel kodak dc240 justdi...
