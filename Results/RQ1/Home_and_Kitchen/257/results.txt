@@ -1,0 +1,2170 @@
+------- Category: Home_and_Kitchen -------
+Found asin_id: B0041Q409G
+Shape:  (257, 7)
+
+
+Chosen product: B0041Q409G has 257 reviews - True, it has 257 reviews
+Duplicate reviewers?:  28     A2QRY1KB7KW44R
+131    A1W1G846DJ5HFL
+160     AQIEH493634D7
+226     AV564QPH5E5RE
+227     AV564QPH5E5RE
+228     AV564QPH5E5RE
+229     AV564QPH5E5RE
+230     AV564QPH5E5RE
+231     AV564QPH5E5RE
+233     AV564QPH5E5RE
+Name: reviewerID, dtype: object
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 98.8327%
+
+	step 2
+
+		step 3
+		candidate index: 3 with core nodes: [0, 2, 3]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   3  actually one best roasting pans come across pr...   0.212672
+
+step 1
+index added: 4
+percentage unclustered: 98.8327%
+
+	step 2
+
+step 1
+index added: 5
+percentage unclustered: 98.8327%
+
+	step 2
+
+step 1
+index added: 6
+percentage unclustered: 98.8327%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 98.8327%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 98.8327%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 98.8327%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 98.8327%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 98.8327%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 98.8327%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 98.8327%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 98.8327%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 98.8327%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 98.8327%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 98.8327%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 98.8327%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 98.8327%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 98.8327%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 98.8327%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 98.8327%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 98.8327%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 96.8872%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [6, 17, 19, 24]
+			old information: 172, gain: 0.9936362290957526
+
+   ind                                             review  relevance
+0  24  first real cookware set one expecting last man...   0.470006
+1   3  actually one best roasting pans come across pr...   0.212672
+
+step 1
+index added: 25
+percentage unclustered: 96.4981%
+
+	step 2
+
+		step 3
+		candidate index: 25 with core nodes: [6, 17, 19, 24, 25]
+			old information: 234, gain: 0.9636702375407545
+
+   ind                                             review  relevance
+0  24  first real cookware set one expecting last man...   0.470006
+1  25  finally cooking family 50 years set beautiful ...   0.371721
+2   3  actually one best roasting pans come across pr...   0.212672
+
+step 1
+index added: 26
+percentage unclustered: 96.4981%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 96.4981%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 96.4981%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 96.4981%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 96.4981%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 96.4981%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 96.4981%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 96.4981%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 95.33070000000001%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [6, 17, 19, 24, 25]
+
+step 1
+index added: 35
+percentage unclustered: 96.1089%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [6, 19, 24, 35]
+			old information: 122, gain: 0.9310734463276836
+
+   ind                                             review  relevance
+0  24  first real cookware set one expecting last man...   0.470006
+1  35  beautiful set way way way way good cooking n n...   0.388369
+2  25  finally cooking family 50 years set beautiful ...   0.371721
+3   3  actually one best roasting pans come across pr...   0.212672
+
+step 1
+index added: 36
+percentage unclustered: 95.7198%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [6, 19, 24, 35]
+
+step 1
+index added: 37
+percentage unclustered: 94.9416%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [6, 19, 24]
+
+step 1
+index added: 38
+percentage unclustered: 94.9416%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 92.607%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 92.607%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 92.607%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 92.607%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 91.0506%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 91.0506%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 91.0506%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 91.4397%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 93.7743%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [1, 2, 3, 18, 27, 37, 40, 47]
+			old information: 789, gain: 0.9626331991475254
+
+   ind                                             review  relevance
+0  47  bought cuisinart mcp 12n multiclad pro stainle...   0.521327
+1  24  first real cookware set one expecting last man...   0.470006
+2  35  beautiful set way way way way good cooking n n...   0.388369
+3  25  finally cooking family 50 years set beautiful ...   0.371721
+4   3  actually one best roasting pans come across pr...   0.212672
+
+step 1
+index added: 48
+percentage unclustered: 93.7743%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 93.7743%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 93.7743%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 93.7743%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 93.7743%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 93.7743%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 93.7743%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 92.9961%
+
+	step 2
+
+		step 3
+		candidate index: 55 with core nodes: [6, 27, 47, 55]
+			old information: 628, gain: 0.9058470764617691
+
+   ind                                             review  relevance
+0  47  bought cuisinart mcp 12n multiclad pro stainle...   0.521327
+1  55  absolutely love pots pans beautiful appearance...   0.486109
+2  24  first real cookware set one expecting last man...   0.470006
+3  35  beautiful set way way way way good cooking n n...   0.388369
+4  25  finally cooking family 50 years set beautiful ...   0.371721
+5   3  actually one best roasting pans come across pr...   0.212672
+
+step 1
+index added: 56
+percentage unclustered: 92.9961%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 92.9961%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 92.9961%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 92.9961%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 92.9961%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 92.9961%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 91.8288%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 92.607%
+
+	step 2
+
+		step 3
+		candidate index: 63 with core nodes: [6, 9, 47, 55, 63]
+			old information: 3385, gain: 0.9824164978442679
+
+   ind                                             review  relevance
+0  63  decided purchase set replace flaking non stick...   0.608329
+1  47  bought cuisinart mcp 12n multiclad pro stainle...   0.521327
+2  55  absolutely love pots pans beautiful appearance...   0.486109
+3  24  first real cookware set one expecting last man...   0.470006
+4  35  beautiful set way way way way good cooking n n...   0.388369
+5  25  finally cooking family 50 years set beautiful ...   0.371721
+6   3  actually one best roasting pans come across pr...   0.212672
+
+step 1
+index added: 64
+percentage unclustered: 92.2179%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 92.9961%
+
+	step 2
+
+		step 3
+		candidate index: 65 with core nodes: [6, 9, 47, 55, 63]
+
+step 1
+index added: 66
+percentage unclustered: 92.9961%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 93.7743%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 93.7743%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 93.3852%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 93.3852%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 93.3852%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 93.3852%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 93.3852%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 93.3852%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 93.3852%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 92.9961%
+
+	step 2
+
+		step 3
+		candidate index: 76 with core nodes: [6, 9, 47, 55, 63]
+
+step 1
+index added: 77
+percentage unclustered: 93.3852%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 92.2179%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 91.0506%
+
+	step 2
+
+		step 3
+		candidate index: 79 with core nodes: [38, 57, 79]
+			old information: 57, gain: 0.8376068376068376
+
+   ind                                             review  relevance
+0  63  decided purchase set replace flaking non stick...   0.608329
+1  47  bought cuisinart mcp 12n multiclad pro stainle...   0.521327
+2  55  absolutely love pots pans beautiful appearance...   0.486109
+3  24  first real cookware set one expecting last man...   0.470006
+4  35  beautiful set way way way way good cooking n n...   0.388369
+5  25  finally cooking family 50 years set beautiful ...   0.371721
+6  79  base flat groove running way around edges pan ...   0.277949
+7   3  actually one best roasting pans come across pr...   0.212672
+
+step 1
+index added: 80
+percentage unclustered: 91.0506%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 90.6615%
+
+	step 2
+
+		step 3
+		candidate index: 81 with core nodes: [6, 9, 47, 55, 63]
+
+step 1
+index added: 82
+percentage unclustered: 90.6615%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 89.1051%
+
+	step 2
+
+		step 3
+		candidate index: 83 with core nodes: [6, 9, 47, 55, 63]
+
+step 1
+index added: 84
+percentage unclustered: 89.8833%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 89.8833%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 88.3268%
+
+	step 2
+
+		step 3
+		candidate index: 86 with core nodes: [6, 9, 47, 55, 63]
+
+step 1
+index added: 87
+percentage unclustered: 87.1595%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 87.1595%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 87.1595%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 87.1595%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 87.1595%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 85.9922%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 85.6031%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 85.9922%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 85.9922%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 84.4358%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 84.4358%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 82.8794%
+
+	step 2
+
+		step 3
+		candidate index: 98 with core nodes: [6, 9, 16, 27, 33, 55, 63, 97]
+
+step 1
+index added: 99
+percentage unclustered: 82.4903%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 82.1012%
+
+	step 2
+
+		step 3
+		candidate index: 100 with core nodes: [16, 33, 92, 100]
+			old information: 242, gain: 0.8997929606625259
+
+    ind                                             review  relevance
+0   63  decided purchase set replace flaking non stick...   0.608329
+1   47  bought cuisinart mcp 12n multiclad pro stainle...   0.521327
+2   55  absolutely love pots pans beautiful appearance...   0.486109
+3   24  first real cookware set one expecting last man...   0.470006
+4  100  let start saying clad guy really would never e...   0.439842
+5   35  beautiful set way way way way good cooking n n...   0.388369
+6   25  finally cooking family 50 years set beautiful ...   0.371721
+7   79  base flat groove running way around edges pan ...   0.277949
+8    3  actually one best roasting pans come across pr...   0.212672
+
+step 1
+index added: 101
+percentage unclustered: 81.71209999999999%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 81.71209999999999%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 81.71209999999999%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 81.71209999999999%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 82.1012%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 80.5447%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 80.5447%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 80.5447%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 80.15559999999999%
+
+	step 2
+
+		step 3
+		candidate index: 109 with core nodes: [6, 47, 96, 109]
+			old information: 7048, gain: 0.9517491613609913
+
+    ind                                             review  relevance
+0  109  could happier set multi clad product line gene...   0.662574
+1   63  decided purchase set replace flaking non stick...   0.608329
+2   47  bought cuisinart mcp 12n multiclad pro stainle...   0.521327
+3   55  absolutely love pots pans beautiful appearance...   0.486109
+4   24  first real cookware set one expecting last man...   0.470006
+5  100  let start saying clad guy really would never e...   0.439842
+6   35  beautiful set way way way way good cooking n n...   0.388369
+7   25  finally cooking family 50 years set beautiful ...   0.371721
+8   79  base flat groove running way around edges pan ...   0.277949
+9    3  actually one best roasting pans come across pr...   0.212672
+
+step 1
+index added: 110
+percentage unclustered: 80.15559999999999%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 80.15559999999999%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 80.15559999999999%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 80.15559999999999%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 80.15559999999999%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 80.15559999999999%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 79.76650000000001%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 79.3774%
+
+	step 2
+
+		step 3
+		candidate index: 117 with core nodes: [6, 109, 117]
+			old information: 6736, gain: 0.8957598266790467
+
+     ind                                             review  relevance
+0   117  ive scared stainless steel cookware years conv...   0.669029
+1   109  could happier set multi clad product line gene...   0.662574
+2    63  decided purchase set replace flaking non stick...   0.608329
+3    47  bought cuisinart mcp 12n multiclad pro stainle...   0.521327
+4    55  absolutely love pots pans beautiful appearance...   0.486109
+5    24  first real cookware set one expecting last man...   0.470006
+6   100  let start saying clad guy really would never e...   0.439842
+7    35  beautiful set way way way way good cooking n n...   0.388369
+8    25  finally cooking family 50 years set beautiful ...   0.371721
+9    79  base flat groove running way around edges pan ...   0.277949
+10    3  actually one best roasting pans come across pr...   0.212672
+
+step 1
+index added: 118
+percentage unclustered: 78.9883%
+
+	step 2
+
+		step 3
+		candidate index: 118 with core nodes: [6, 109, 117]
+
+step 1
+index added: 119
+percentage unclustered: 78.9883%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 78.5992%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 78.2101%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 78.2101%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 78.2101%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 77.821%
+
+	step 2
+
+		step 3
+		candidate index: 124 with core nodes: [84, 94, 124]
+			old information: 704, gain: 0.782716049382716
+
+     ind                                             review  relevance
+0   117  ive scared stainless steel cookware years conv...   0.669029
+1   109  could happier set multi clad product line gene...   0.662574
+2    63  decided purchase set replace flaking non stick...   0.608329
+3    47  bought cuisinart mcp 12n multiclad pro stainle...   0.521327
+4    55  absolutely love pots pans beautiful appearance...   0.486109
+5    24  first real cookware set one expecting last man...   0.470006
+6   100  let start saying clad guy really would never e...   0.439842
+7    35  beautiful set way way way way good cooking n n...   0.388369
+8    25  finally cooking family 50 years set beautiful ...   0.371721
+9    79  base flat groove running way around edges pan ...   0.277949
+10  124  thought pans would great based many positive r...   0.251838
+11    3  actually one best roasting pans come across pr...   0.212672
+
+step 1
+index added: 125
+percentage unclustered: 78.5992%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 78.5992%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 78.2101%
+
+	step 2
+
+		step 3
+		candidate index: 127 with core nodes: [6, 109, 117]
+
+step 1
+index added: 128
+percentage unclustered: 78.2101%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 78.2101%
+
+	step 2
+
+step 1
+index added: 130
+percentage unclustered: 79.3774%
+
+	step 2
+
+step 1
+index added: 131
+percentage unclustered: 79.76650000000001%
+
+	step 2
+
+		step 3
+		candidate index: 131 with core nodes: [6, 96, 109, 117, 131]
+			old information: 22362, gain: 0.6002859951738314
+
+     ind                                             review  relevance
+0   131  ive scared stainless steel cookware years conv...   0.715267
+1   117  ive scared stainless steel cookware years conv...   0.669029
+2   109  could happier set multi clad product line gene...   0.662574
+3    63  decided purchase set replace flaking non stick...   0.608329
+4    47  bought cuisinart mcp 12n multiclad pro stainle...   0.521327
+5    55  absolutely love pots pans beautiful appearance...   0.486109
+6    24  first real cookware set one expecting last man...   0.470006
+7   100  let start saying clad guy really would never e...   0.439842
+8    35  beautiful set way way way way good cooking n n...   0.388369
+9    25  finally cooking family 50 years set beautiful ...   0.371721
+10   79  base flat groove running way around edges pan ...   0.277949
+11  124  thought pans would great based many positive r...   0.251838
+12    3  actually one best roasting pans come across pr...   0.212672
+
+step 1
+index added: 132
+percentage unclustered: 77.4319%
+
+	step 2
+
+step 1
+index added: 133
+percentage unclustered: 77.4319%
+
+	step 2
+
+step 1
+index added: 134
+percentage unclustered: 77.821%
+
+	step 2
+
+step 1
+index added: 135
+percentage unclustered: 77.4319%
+
+	step 2
+
+		step 3
+		candidate index: 135 with core nodes: [9, 55, 63]
+			old information: 3437, gain: 0.9074283559577677
+
+     ind                                             review  relevance
+0   131  ive scared stainless steel cookware years conv...   0.715267
+1   117  ive scared stainless steel cookware years conv...   0.669029
+2   109  could happier set multi clad product line gene...   0.662574
+3    63  decided purchase set replace flaking non stick...   0.608329
+4   135  owned allclad pots pans 10 years pleased part ...   0.529937
+5    47  bought cuisinart mcp 12n multiclad pro stainle...   0.521327
+6    55  absolutely love pots pans beautiful appearance...   0.486109
+7    24  first real cookware set one expecting last man...   0.470006
+8   100  let start saying clad guy really would never e...   0.439842
+9    35  beautiful set way way way way good cooking n n...   0.388369
+10   25  finally cooking family 50 years set beautiful ...   0.371721
+11   79  base flat groove running way around edges pan ...   0.277949
+12  124  thought pans would great based many positive r...   0.251838
+13    3  actually one best roasting pans come across pr...   0.212672
+
+step 1
+index added: 136
+percentage unclustered: 77.821%
+
+	step 2
+
+step 1
+index added: 137
+percentage unclustered: 79.76650000000001%
+
+	step 2
+
+step 1
+index added: 138
+percentage unclustered: 79.76650000000001%
+
+	step 2
+
+step 1
+index added: 139
+percentage unclustered: 79.76650000000001%
+
+	step 2
+
+step 1
+index added: 140
+percentage unclustered: 79.76650000000001%
+
+	step 2
+
+step 1
+index added: 141
+percentage unclustered: 79.76650000000001%
+
+	step 2
+
+step 1
+index added: 142
+percentage unclustered: 78.5992%
+
+	step 2
+
+step 1
+index added: 143
+percentage unclustered: 78.5992%
+
+	step 2
+
+step 1
+index added: 144
+percentage unclustered: 78.5992%
+
+	step 2
+
+step 1
+index added: 145
+percentage unclustered: 78.5992%
+
+	step 2
+
+		step 3
+		candidate index: 145 with core nodes: [4, 50, 99]
+
+step 1
+index added: 146
+percentage unclustered: 78.5992%
+
+	step 2
+
+step 1
+index added: 147
+percentage unclustered: 78.5992%
+
+	step 2
+
+step 1
+index added: 148
+percentage unclustered: 78.2101%
+
+	step 2
+
+		step 3
+		candidate index: 148 with core nodes: [6, 96, 109, 117, 131]
+
+step 1
+index added: 149
+percentage unclustered: 77.0428%
+
+	step 2
+
+		step 3
+		candidate index: 149 with core nodes: [4, 50, 99]
+
+step 1
+index added: 150
+percentage unclustered: 77.0428%
+
+	step 2
+
+step 1
+index added: 151
+percentage unclustered: 77.0428%
+
+	step 2
+
+step 1
+index added: 152
+percentage unclustered: 77.0428%
+
+	step 2
+
+step 1
+index added: 153
+percentage unclustered: 77.0428%
+
+	step 2
+
+step 1
+index added: 154
+percentage unclustered: 77.0428%
+
+	step 2
+
+step 1
+index added: 155
+percentage unclustered: 76.6537%
+
+	step 2
+
+		step 3
+		candidate index: 155 with core nodes: [6, 96, 109, 117, 131]
+
+step 1
+index added: 156
+percentage unclustered: 76.2646%
+
+	step 2
+
+step 1
+index added: 157
+percentage unclustered: 76.2646%
+
+	step 2
+
+step 1
+index added: 158
+percentage unclustered: 75.8755%
+
+	step 2
+
+		step 3
+		candidate index: 158 with core nodes: [6, 96, 109, 117, 131]
+
+step 1
+index added: 159
+percentage unclustered: 74.31909999999999%
+
+	step 2
+
+		step 3
+		candidate index: 159 with core nodes: [4, 50, 78, 99, 159]
+			old information: 200, gain: 0.9067599067599068
+
+     ind                                             review  relevance
+0   131  ive scared stainless steel cookware years conv...   0.715267
+1   117  ive scared stainless steel cookware years conv...   0.669029
+2   109  could happier set multi clad product line gene...   0.662574
+3    63  decided purchase set replace flaking non stick...   0.608329
+4   135  owned allclad pots pans 10 years pleased part ...   0.529937
+5    47  bought cuisinart mcp 12n multiclad pro stainle...   0.521327
+6    55  absolutely love pots pans beautiful appearance...   0.486109
+7    24  first real cookware set one expecting last man...   0.470006
+8   100  let start saying clad guy really would never e...   0.439842
+9   159  finish inside pan flakes one use turkey 325 de...   0.414735
+10   35  beautiful set way way way way good cooking n n...   0.388369
+11   25  finally cooking family 50 years set beautiful ...   0.371721
+12   79  base flat groove running way around edges pan ...   0.277949
+13  124  thought pans would great based many positive r...   0.251838
+14    3  actually one best roasting pans come across pr...   0.212672
+
+step 1
+index added: 160
+percentage unclustered: 74.31909999999999%
+
+	step 2
+
+step 1
+index added: 161
+percentage unclustered: 73.93%
+
+	step 2
+
+step 1
+index added: 162
+percentage unclustered: 72.3735%
+
+	step 2
+
+		step 3
+		candidate index: 162 with core nodes: [78, 99, 159, 162]
+			old information: 406, gain: 0.861244019138756
+
+     ind                                             review  relevance
+0   131  ive scared stainless steel cookware years conv...   0.715267
+1   117  ive scared stainless steel cookware years conv...   0.669029
+2   109  could happier set multi clad product line gene...   0.662574
+3    63  decided purchase set replace flaking non stick...   0.608329
+4   135  owned allclad pots pans 10 years pleased part ...   0.529937
+5    47  bought cuisinart mcp 12n multiclad pro stainle...   0.521327
+6   162  purchased pan separately complete set march 20...   0.496133
+7    55  absolutely love pots pans beautiful appearance...   0.486109
+8    24  first real cookware set one expecting last man...   0.470006
+9   100  let start saying clad guy really would never e...   0.439842
+10  159  finish inside pan flakes one use turkey 325 de...   0.414735
+11   35  beautiful set way way way way good cooking n n...   0.388369
+12   25  finally cooking family 50 years set beautiful ...   0.371721
+13   79  base flat groove running way around edges pan ...   0.277949
+14  124  thought pans would great based many positive r...   0.251838
+15    3  actually one best roasting pans come across pr...   0.212672
+
+step 1
+index added: 163
+percentage unclustered: 72.3735%
+
+	step 2
+
+step 1
+index added: 164
+percentage unclustered: 71.59530000000001%
+
+	step 2
+
+step 1
+index added: 165
+percentage unclustered: 71.59530000000001%
+
+	step 2
+
+step 1
+index added: 166
+percentage unclustered: 71.2062%
+
+	step 2
+
+		step 3
+		candidate index: 166 with core nodes: [6, 96, 109, 117, 131]
+
+step 1
+index added: 167
+percentage unclustered: 71.2062%
+
+	step 2
+
+step 1
+index added: 168
+percentage unclustered: 71.2062%
+
+	step 2
+
+step 1
+index added: 169
+percentage unclustered: 71.2062%
+
+	step 2
+
+step 1
+index added: 170
+percentage unclustered: 71.2062%
+
+	step 2
+
+step 1
+index added: 171
+percentage unclustered: 70.0389%
+
+	step 2
+
+		step 3
+		candidate index: 171 with core nodes: [6, 96, 109, 117, 131]
+
+step 1
+index added: 172
+percentage unclustered: 69.6498%
+
+	step 2
+
+		step 3
+		candidate index: 172 with core nodes: [78, 99, 159, 162]
+
+step 1
+index added: 173
+percentage unclustered: 69.2607%
+
+	step 2
+
+step 1
+index added: 174
+percentage unclustered: 68.8716%
+
+	step 2
+
+		step 3
+		candidate index: 174 with core nodes: [6, 96, 109, 117, 131]
+
+step 1
+index added: 175
+percentage unclustered: 67.3152%
+
+	step 2
+
+step 1
+index added: 176
+percentage unclustered: 66.14789999999999%
+
+	step 2
+
+		step 3
+		candidate index: 176 with core nodes: [126, 169, 176]
+			old information: 977, gain: 0.9170698582463288
+
+     ind                                             review  relevance
+0   131  ive scared stainless steel cookware years conv...   0.715267
+1   117  ive scared stainless steel cookware years conv...   0.669029
+2   109  could happier set multi clad product line gene...   0.662574
+3    63  decided purchase set replace flaking non stick...   0.608329
+4   135  owned allclad pots pans 10 years pleased part ...   0.529937
+5    47  bought cuisinart mcp 12n multiclad pro stainle...   0.521327
+6   162  purchased pan separately complete set march 20...   0.496133
+7    55  absolutely love pots pans beautiful appearance...   0.486109
+8    24  first real cookware set one expecting last man...   0.470006
+9   100  let start saying clad guy really would never e...   0.439842
+10  159  finish inside pan flakes one use turkey 325 de...   0.414735
+11   35  beautiful set way way way way good cooking n n...   0.388369
+12  176  suspicious package arrived nowhere box say pan...   0.376541
+13   25  finally cooking family 50 years set beautiful ...   0.371721
+14   79  base flat groove running way around edges pan ...   0.277949
+15  124  thought pans would great based many positive r...   0.251838
+16    3  actually one best roasting pans come across pr...   0.212672
+
+step 1
+index added: 177
+percentage unclustered: 66.14789999999999%
+
+	step 2
+
+step 1
+index added: 178
+percentage unclustered: 66.14789999999999%
+
+	step 2
+
+step 1
+index added: 179
+percentage unclustered: 65.75880000000001%
+
+	step 2
+
+step 1
+index added: 180
+percentage unclustered: 64.9805%
+
+	step 2
+
+		step 3
+		candidate index: 180 with core nodes: [9, 55, 63]
+
+step 1
+index added: 181
+percentage unclustered: 64.5914%
+
+	step 2
+
+step 1
+index added: 182
+percentage unclustered: 64.5914%
+
+	step 2
+
+step 1
+index added: 183
+percentage unclustered: 64.20230000000001%
+
+	step 2
+
+step 1
+index added: 184
+percentage unclustered: 63.035%
+
+	step 2
+
+step 1
+index added: 185
+percentage unclustered: 62.6459%
+
+	step 2
+
+step 1
+index added: 186
+percentage unclustered: 62.2568%
+
+	step 2
+
+		step 3
+		candidate index: 186 with core nodes: [6, 96, 109, 117, 131]
+
+step 1
+index added: 187
+percentage unclustered: 62.2568%
+
+	step 2
+
+step 1
+index added: 188
+percentage unclustered: 61.8677%
+
+	step 2
+
+step 1
+index added: 189
+percentage unclustered: 60.7004%
+
+	step 2
+
+		step 3
+		candidate index: 189 with core nodes: [9, 55, 63]
+
+step 1
+index added: 190
+percentage unclustered: 60.7004%
+
+	step 2
+
+step 1
+index added: 191
+percentage unclustered: 60.3113%
+
+	step 2
+
+step 1
+index added: 192
+percentage unclustered: 60.7004%
+
+	step 2
+
+step 1
+index added: 193
+percentage unclustered: 60.7004%
+
+	step 2
+
+step 1
+index added: 194
+percentage unclustered: 59.9222%
+
+	step 2
+
+step 1
+index added: 195
+percentage unclustered: 58.7549%
+
+	step 2
+
+		step 3
+		candidate index: 195 with core nodes: [96, 117, 131, 195]
+			old information: 3056, gain: 0.8261463192627148
+
+     ind                                             review  relevance
+0   131  ive scared stainless steel cookware years conv...   0.715267
+1   117  ive scared stainless steel cookware years conv...   0.669029
+2   109  could happier set multi clad product line gene...   0.662574
+3    63  decided purchase set replace flaking non stick...   0.608329
+4   195  bought set mother day n nthe set arrived one w...   0.549690
+5   135  owned allclad pots pans 10 years pleased part ...   0.529937
+6    47  bought cuisinart mcp 12n multiclad pro stainle...   0.521327
+7   162  purchased pan separately complete set march 20...   0.496133
+8    55  absolutely love pots pans beautiful appearance...   0.486109
+9    24  first real cookware set one expecting last man...   0.470006
+10  100  let start saying clad guy really would never e...   0.439842
+11  159  finish inside pan flakes one use turkey 325 de...   0.414735
+12   35  beautiful set way way way way good cooking n n...   0.388369
+13  176  suspicious package arrived nowhere box say pan...   0.376541
+14   25  finally cooking family 50 years set beautiful ...   0.371721
+15   79  base flat groove running way around edges pan ...   0.277949
+16  124  thought pans would great based many positive r...   0.251838
+17    3  actually one best roasting pans come across pr...   0.212672
+
+		step 3
+		candidate index: 195 with core nodes: [6, 96, 117, 131]
+			old information: 9897, gain: 0.4369666628740471
+
+     ind                                             review  relevance
+0   131  ive scared stainless steel cookware years conv...   0.715267
+1   117  ive scared stainless steel cookware years conv...   0.669029
+2   109  could happier set multi clad product line gene...   0.662574
+3    63  decided purchase set replace flaking non stick...   0.608329
+4   195  bought set mother day n nthe set arrived one w...   0.585334
+5   195  bought set mother day n nthe set arrived one w...   0.549690
+6   135  owned allclad pots pans 10 years pleased part ...   0.529937
+7    47  bought cuisinart mcp 12n multiclad pro stainle...   0.521327
+8   162  purchased pan separately complete set march 20...   0.496133
+9    55  absolutely love pots pans beautiful appearance...   0.486109
+10   24  first real cookware set one expecting last man...   0.470006
+11  100  let start saying clad guy really would never e...   0.439842
+12  159  finish inside pan flakes one use turkey 325 de...   0.414735
+13   35  beautiful set way way way way good cooking n n...   0.388369
+14  176  suspicious package arrived nowhere box say pan...   0.376541
+15   25  finally cooking family 50 years set beautiful ...   0.371721
+16   79  base flat groove running way around edges pan ...   0.277949
+17  124  thought pans would great based many positive r...   0.251838
+18    3  actually one best roasting pans come across pr...   0.212672
+
+step 1
+index added: 196
+percentage unclustered: 57.5875%
+
+	step 2
+
+step 1
+index added: 197
+percentage unclustered: 57.5875%
+
+	step 2
+
+step 1
+index added: 198
+percentage unclustered: 57.5875%
+
+	step 2
+
+step 1
+index added: 199
+percentage unclustered: 59.5331%
+
+	step 2
+
+step 1
+index added: 200
+percentage unclustered: 59.5331%
+
+	step 2
+
+step 1
+index added: 201
+percentage unclustered: 59.144%
+
+	step 2
+
+		step 3
+		candidate index: 201 with core nodes: [6, 117, 131, 195]
+
+step 1
+index added: 202
+percentage unclustered: 59.144%
+
+	step 2
+
+step 1
+index added: 203
+percentage unclustered: 58.3658%
+
+	step 2
+
+		step 3
+		candidate index: 203 with core nodes: [33, 92, 203]
+			old information: 1917, gain: 0.8861368496079829
+
+     ind                                             review  relevance
+0   131  ive scared stainless steel cookware years conv...   0.715267
+1   117  ive scared stainless steel cookware years conv...   0.669029
+2   109  could happier set multi clad product line gene...   0.662574
+3    63  decided purchase set replace flaking non stick...   0.608329
+4   195  bought set mother day n nthe set arrived one w...   0.585334
+5   195  bought set mother day n nthe set arrived one w...   0.549690
+6   135  owned allclad pots pans 10 years pleased part ...   0.529937
+7    47  bought cuisinart mcp 12n multiclad pro stainle...   0.521327
+8   162  purchased pan separately complete set march 20...   0.496133
+9    55  absolutely love pots pans beautiful appearance...   0.486109
+10   24  first real cookware set one expecting last man...   0.470006
+11  203  except 12 fry pan cooking bacon omelettes cast...   0.445832
+12  100  let start saying clad guy really would never e...   0.439842
+13  159  finish inside pan flakes one use turkey 325 de...   0.414735
+14   35  beautiful set way way way way good cooking n n...   0.388369
+15  176  suspicious package arrived nowhere box say pan...   0.376541
+16   25  finally cooking family 50 years set beautiful ...   0.371721
+17   79  base flat groove running way around edges pan ...   0.277949
+18  124  thought pans would great based many positive r...   0.251838
+19    3  actually one best roasting pans come across pr...   0.212672
+
+step 1
+index added: 204
+percentage unclustered: 58.3658%
+
+	step 2
+
+step 1
+index added: 205
+percentage unclustered: 58.3658%
+
+	step 2
+
+step 1
+index added: 206
+percentage unclustered: 58.3658%
+
+	step 2
+
+step 1
+index added: 207
+percentage unclustered: 58.3658%
+
+	step 2
+
+step 1
+index added: 208
+percentage unclustered: 57.9767%
+
+	step 2
+
+		step 3
+		candidate index: 208 with core nodes: [6, 117, 131, 195]
+
+step 1
+index added: 209
+percentage unclustered: 57.5875%
+
+	step 2
+
+		step 3
+		candidate index: 209 with core nodes: [96, 117, 131, 195]
+			old information: 2575, gain: 0.8848698918000536
+
+     ind                                             review  relevance
+0   131  ive scared stainless steel cookware years conv...   0.715267
+1   117  ive scared stainless steel cookware years conv...   0.669029
+2   109  could happier set multi clad product line gene...   0.662574
+3    63  decided purchase set replace flaking non stick...   0.608329
+4   195  bought set mother day n nthe set arrived one w...   0.585334
+5   209  really wanted like pan three ply construction ...   0.564257
+6   195  bought set mother day n nthe set arrived one w...   0.549690
+7   135  owned allclad pots pans 10 years pleased part ...   0.529937
+8    47  bought cuisinart mcp 12n multiclad pro stainle...   0.521327
+9   162  purchased pan separately complete set march 20...   0.496133
+10   55  absolutely love pots pans beautiful appearance...   0.486109
+11   24  first real cookware set one expecting last man...   0.470006
+12  203  except 12 fry pan cooking bacon omelettes cast...   0.445832
+13  100  let start saying clad guy really would never e...   0.439842
+14  159  finish inside pan flakes one use turkey 325 de...   0.414735
+15   35  beautiful set way way way way good cooking n n...   0.388369
+16  176  suspicious package arrived nowhere box say pan...   0.376541
+17   25  finally cooking family 50 years set beautiful ...   0.371721
+18   79  base flat groove running way around edges pan ...   0.277949
+19  124  thought pans would great based many positive r...   0.251838
+20    3  actually one best roasting pans come across pr...   0.212672
+
+		step 3
+		candidate index: 209 with core nodes: [6, 96, 117, 131]
+			old information: 10331, gain: 0.5380935348296522
+
+     ind                                             review  relevance
+0   131  ive scared stainless steel cookware years conv...   0.715267
+1   117  ive scared stainless steel cookware years conv...   0.669029
+2   109  could happier set multi clad product line gene...   0.662574
+3    63  decided purchase set replace flaking non stick...   0.608329
+4   209  really wanted like pan three ply construction ...   0.600129
+5   195  bought set mother day n nthe set arrived one w...   0.585334
+6   209  really wanted like pan three ply construction ...   0.564257
+7   195  bought set mother day n nthe set arrived one w...   0.549690
+8   135  owned allclad pots pans 10 years pleased part ...   0.529937
+9    47  bought cuisinart mcp 12n multiclad pro stainle...   0.521327
+10  162  purchased pan separately complete set march 20...   0.496133
+11   55  absolutely love pots pans beautiful appearance...   0.486109
+12   24  first real cookware set one expecting last man...   0.470006
+13  203  except 12 fry pan cooking bacon omelettes cast...   0.445832
+14  100  let start saying clad guy really would never e...   0.439842
+15  159  finish inside pan flakes one use turkey 325 de...   0.414735
+16   35  beautiful set way way way way good cooking n n...   0.388369
+17  176  suspicious package arrived nowhere box say pan...   0.376541
+18   25  finally cooking family 50 years set beautiful ...   0.371721
+19   79  base flat groove running way around edges pan ...   0.277949
+20  124  thought pans would great based many positive r...   0.251838
+21    3  actually one best roasting pans come across pr...   0.212672
+
+step 1
+index added: 210
+percentage unclustered: 57.5875%
+
+	step 2
+
+step 1
+index added: 211
+percentage unclustered: 57.5875%
+
+	step 2
+
+step 1
+index added: 212
+percentage unclustered: 56.8093%
+
+	step 2
+
+		step 3
+		candidate index: 212 with core nodes: [38, 57, 79]
+			old information: 40, gain: 0.5604395604395604
+
+     ind                                             review  relevance
+0   131  ive scared stainless steel cookware years conv...   0.715267
+1   117  ive scared stainless steel cookware years conv...   0.669029
+2   109  could happier set multi clad product line gene...   0.662574
+3    63  decided purchase set replace flaking non stick...   0.608329
+4   209  really wanted like pan three ply construction ...   0.600129
+5   195  bought set mother day n nthe set arrived one w...   0.585334
+6   209  really wanted like pan three ply construction ...   0.564257
+7   195  bought set mother day n nthe set arrived one w...   0.549690
+8   135  owned allclad pots pans 10 years pleased part ...   0.529937
+9    47  bought cuisinart mcp 12n multiclad pro stainle...   0.521327
+10  162  purchased pan separately complete set march 20...   0.496133
+11   55  absolutely love pots pans beautiful appearance...   0.486109
+12   24  first real cookware set one expecting last man...   0.470006
+13  203  except 12 fry pan cooking bacon omelettes cast...   0.445832
+14  100  let start saying clad guy really would never e...   0.439842
+15  159  finish inside pan flakes one use turkey 325 de...   0.414735
+16   35  beautiful set way way way way good cooking n n...   0.388369
+17  176  suspicious package arrived nowhere box say pan...   0.376541
+18   25  finally cooking family 50 years set beautiful ...   0.371721
+19   79  base flat groove running way around edges pan ...   0.277949
+20  124  thought pans would great based many positive r...   0.251838
+21  212  great pan ceramic top range heavy perfectly fl...   0.226176
+22    3  actually one best roasting pans come across pr...   0.212672
+
+step 1
+index added: 213
+percentage unclustered: 56.8093%
+
+	step 2
+
+step 1
+index added: 214
+percentage unclustered: 55.642%
+
+	step 2
+
+step 1
+index added: 215
+percentage unclustered: 54.0856%
+
+	step 2
+
+step 1
+index added: 216
+percentage unclustered: 54.0856%
+
+	step 2
+
+step 1
+index added: 217
+percentage unclustered: 54.0856%
+
+	step 2
+
+step 1
+index added: 218
+percentage unclustered: 53.6965%
+
+	step 2
+
+		step 3
+		candidate index: 218 with core nodes: [33, 92, 203]
+
+step 1
+index added: 219
+percentage unclustered: 53.3074%
+
+	step 2
+
+		step 3
+		candidate index: 219 with core nodes: [33, 92, 203]
+			old information: 3087, gain: 0.8796538146660949
+
+     ind                                             review  relevance
+0   131  ive scared stainless steel cookware years conv...   0.715267
+1   117  ive scared stainless steel cookware years conv...   0.669029
+2   109  could happier set multi clad product line gene...   0.662574
+3    63  decided purchase set replace flaking non stick...   0.608329
+4   209  really wanted like pan three ply construction ...   0.600129
+5   195  bought set mother day n nthe set arrived one w...   0.585334
+6   209  really wanted like pan three ply construction ...   0.564257
+7   195  bought set mother day n nthe set arrived one w...   0.549690
+8   135  owned allclad pots pans 10 years pleased part ...   0.529937
+9    47  bought cuisinart mcp 12n multiclad pro stainle...   0.521327
+10  162  purchased pan separately complete set march 20...   0.496133
+11   55  absolutely love pots pans beautiful appearance...   0.486109
+12   24  first real cookware set one expecting last man...   0.470006
+13  203  except 12 fry pan cooking bacon omelettes cast...   0.445832
+14  100  let start saying clad guy really would never e...   0.439842
+15  219  looking set stainless sauce pans replace aged ...   0.424603
+16  159  finish inside pan flakes one use turkey 325 de...   0.414735
+17   35  beautiful set way way way way good cooking n n...   0.388369
+18  176  suspicious package arrived nowhere box say pan...   0.376541
+19   25  finally cooking family 50 years set beautiful ...   0.371721
+20   79  base flat groove running way around edges pan ...   0.277949
+21  124  thought pans would great based many positive r...   0.251838
+22  212  great pan ceramic top range heavy perfectly fl...   0.226176
+23    3  actually one best roasting pans come across pr...   0.212672
+
+step 1
+index added: 220
+percentage unclustered: 53.6965%
+
+	step 2
+
+step 1
+index added: 221
+percentage unclustered: 53.6965%
+
+	step 2
+
+step 1
+index added: 222
+percentage unclustered: 58.3658%
+
+	step 2
+
+step 1
+index added: 223
+percentage unclustered: 57.9767%
+
+	step 2
+
+		step 3
+		candidate index: 223 with core nodes: [6, 96, 131]
+
+step 1
+index added: 224
+percentage unclustered: 57.9767%
+
+	step 2
+
+step 1
+index added: 225
+percentage unclustered: 57.5875%
+
+	step 2
+
+step 1
+index added: 226
+percentage unclustered: 56.8093%
+
+	step 2
+
+step 1
+index added: 227
+percentage unclustered: 56.4202%
+
+	step 2
+
+step 1
+index added: 228
+percentage unclustered: 56.0311%
+
+	step 2
+
+step 1
+index added: 229
+percentage unclustered: 55.642%
+
+	step 2
+
+step 1
+index added: 230
+percentage unclustered: 55.2529%
+
+	step 2
+
+step 1
+index added: 231
+percentage unclustered: 54.8638%
+
+	step 2
+
+step 1
+index added: 232
+percentage unclustered: 54.4747%
+
+	step 2
+
+step 1
+index added: 233
+percentage unclustered: 54.0856%
+
+	step 2
+
+step 1
+index added: 234
+percentage unclustered: 54.0856%
+
+	step 2
+
+step 1
+index added: 235
+percentage unclustered: 55.2529%
+
+	step 2
+
+		step 3
+		candidate index: 235 with core nodes: [16, 33, 100, 203, 235]
+			old information: 1494, gain: 0.7872097991739069
+
+     ind                                             review  relevance
+0   131  ive scared stainless steel cookware years conv...   0.715267
+1   117  ive scared stainless steel cookware years conv...   0.669029
+2   109  could happier set multi clad product line gene...   0.662574
+3    63  decided purchase set replace flaking non stick...   0.608329
+4   209  really wanted like pan three ply construction ...   0.600129
+5   195  bought set mother day n nthe set arrived one w...   0.585334
+6   209  really wanted like pan three ply construction ...   0.564257
+7   195  bought set mother day n nthe set arrived one w...   0.549690
+8   135  owned allclad pots pans 10 years pleased part ...   0.529937
+9    47  bought cuisinart mcp 12n multiclad pro stainle...   0.521327
+10  162  purchased pan separately complete set march 20...   0.496133
+11   55  absolutely love pots pans beautiful appearance...   0.486109
+12   24  first real cookware set one expecting last man...   0.470006
+13  203  except 12 fry pan cooking bacon omelettes cast...   0.445832
+14  100  let start saying clad guy really would never e...   0.439842
+15  219  looking set stainless sauce pans replace aged ...   0.424603
+16  159  finish inside pan flakes one use turkey 325 de...   0.414735
+17  235  all clad 12 fry pan love neither love hate han...   0.413903
+18   35  beautiful set way way way way good cooking n n...   0.388369
+19  176  suspicious package arrived nowhere box say pan...   0.376541
+20   25  finally cooking family 50 years set beautiful ...   0.371721
+21   79  base flat groove running way around edges pan ...   0.277949
+22  124  thought pans would great based many positive r...   0.251838
+23  212  great pan ceramic top range heavy perfectly fl...   0.226176
+24    3  actually one best roasting pans come across pr...   0.212672
+
+step 1
+index added: 236
+percentage unclustered: 55.2529%
+
+	step 2
+
+step 1
+index added: 237
+percentage unclustered: 55.2529%
+
+	step 2
+
+step 1
+index added: 238
+percentage unclustered: 55.2529%
+
+	step 2
+
+step 1
+index added: 239
+percentage unclustered: 54.8638%
+
+	step 2
+
+step 1
+index added: 240
+percentage unclustered: 54.4747%
+
+	step 2
+
+step 1
+index added: 241
+percentage unclustered: 54.8638%
+
+	step 2
+
+step 1
+index added: 242
+percentage unclustered: 54.8638%
+
+	step 2
+
+step 1
+index added: 243
+percentage unclustered: 54.8638%
+
+	step 2
+
+step 1
+index added: 244
+percentage unclustered: 54.4747%
+
+	step 2
+
+step 1
+index added: 245
+percentage unclustered: 54.4747%
+
+	step 2
+
+step 1
+index added: 246
+percentage unclustered: 54.0856%
+
+	step 2
+
+step 1
+index added: 247
+percentage unclustered: 54.0856%
+
+	step 2
+
+step 1
+index added: 248
+percentage unclustered: 53.3074%
+
+	step 2
+
+step 1
+index added: 249
+percentage unclustered: 53.3074%
+
+	step 2
+
+step 1
+index added: 250
+percentage unclustered: 51.751%
+
+	step 2
+
+		step 3
+		candidate index: 250 with core nodes: [99, 150, 159, 162]
+
+step 1
+index added: 251
+percentage unclustered: 51.3619%
+
+	step 2
+
+step 1
+index added: 252
+percentage unclustered: 50.9728%
+
+	step 2
+
+step 1
+index added: 253
+percentage unclustered: 51.3619%
+
+	step 2
+
+step 1
+index added: 254
+percentage unclustered: 51.3619%
+
+	step 2
+
+step 1
+index added: 255
+percentage unclustered: 50.9728%
+
+	step 2
+
+		step 3
+		candidate index: 255 with core nodes: [0, 249, 255]
+			old information: 80, gain: 0.6837944664031621
+
+     ind                                             review  relevance
+0   131  ive scared stainless steel cookware years conv...   0.715267
+1   117  ive scared stainless steel cookware years conv...   0.669029
+2   109  could happier set multi clad product line gene...   0.662574
+3    63  decided purchase set replace flaking non stick...   0.608329
+4   209  really wanted like pan three ply construction ...   0.600129
+5   195  bought set mother day n nthe set arrived one w...   0.585334
+6   209  really wanted like pan three ply construction ...   0.564257
+7   195  bought set mother day n nthe set arrived one w...   0.549690
+8   135  owned allclad pots pans 10 years pleased part ...   0.529937
+9    47  bought cuisinart mcp 12n multiclad pro stainle...   0.521327
+10  162  purchased pan separately complete set march 20...   0.496133
+11   55  absolutely love pots pans beautiful appearance...   0.486109
+12   24  first real cookware set one expecting last man...   0.470006
+13  203  except 12 fry pan cooking bacon omelettes cast...   0.445832
+14  100  let start saying clad guy really would never e...   0.439842
+15  219  looking set stainless sauce pans replace aged ...   0.424603
+16  159  finish inside pan flakes one use turkey 325 de...   0.414735
+17  235  all clad 12 fry pan love neither love hate han...   0.413903
+18   35  beautiful set way way way way good cooking n n...   0.388369
+19  176  suspicious package arrived nowhere box say pan...   0.376541
+20   25  finally cooking family 50 years set beautiful ...   0.371721
+21   79  base flat groove running way around edges pan ...   0.277949
+22  124  thought pans would great based many positive r...   0.251838
+23  212  great pan ceramic top range heavy perfectly fl...   0.226176
+24    3  actually one best roasting pans come across pr...   0.212672
+25  255  looking good roaster reasonable price year one...   0.124518
+
+step 1
+index added: 256
+percentage unclustered: 50.9728%
+
+	step 2
+
+--- 1393.1883389949799 seconds ---
+
+
+ Unclustered percentages: [100.0, 98.8327, 98.8327, 98.8327, 98.8327, 98.8327, 98.8327, 98.8327, 98.8327, 98.8327, 98.8327, 98.8327, 98.8327, 98.8327, 98.8327, 98.8327, 98.8327, 98.8327, 98.8327, 98.8327, 98.8327, 98.8327, 96.8872, 96.4981, 96.4981, 96.4981, 96.4981, 96.4981, 96.4981, 96.4981, 96.4981, 96.4981, 95.33070000000001, 96.1089, 95.7198, 94.9416, 94.9416, 92.607, 92.607, 92.607, 92.607, 91.0506, 91.0506, 91.0506, 91.4397, 93.7743, 93.7743, 93.7743, 93.7743, 93.7743, 93.7743, 93.7743, 93.7743, 92.9961, 92.9961, 92.9961, 92.9961, 92.9961, 92.9961, 92.9961, 91.8288, 92.607, 92.2179, 92.9961, 92.9961, 93.7743, 93.7743, 93.3852, 93.3852, 93.3852, 93.3852, 93.3852, 93.3852, 93.3852, 92.9961, 93.3852, 92.2179, 91.0506, 91.0506, 90.6615, 90.6615, 89.1051, 89.8833, 89.8833, 88.3268, 87.1595, 87.1595, 87.1595, 87.1595, 87.1595, 85.9922, 85.6031, 85.9922, 85.9922, 84.4358, 84.4358, 82.8794, 82.4903, 82.1012, 81.71209999999999, 81.71209999999999, 81.71209999999999, 81.71209999999999, 82.1012, 80.5447, 80.5447, 80.5447, 80.15559999999999, 80.15559999999999, 80.15559999999999, 80.15559999999999, 80.15559999999999, 80.15559999999999, 80.15559999999999, 79.76650000000001, 79.3774, 78.9883, 78.9883, 78.5992, 78.2101, 78.2101, 78.2101, 77.821, 78.5992, 78.5992, 78.2101, 78.2101, 78.2101, 79.3774, 79.76650000000001, 77.4319, 77.4319, 77.821, 77.4319, 77.821, 79.76650000000001, 79.76650000000001, 79.76650000000001, 79.76650000000001, 79.76650000000001, 78.5992, 78.5992, 78.5992, 78.5992, 78.5992, 78.5992, 78.2101, 77.0428, 77.0428, 77.0428, 77.0428, 77.0428, 77.0428, 76.6537, 76.2646, 76.2646, 75.8755, 74.31909999999999, 74.31909999999999, 73.93, 72.3735, 72.3735, 71.59530000000001, 71.59530000000001, 71.2062, 71.2062, 71.2062, 71.2062, 71.2062, 70.0389, 69.6498, 69.2607, 68.8716, 67.3152, 66.14789999999999, 66.14789999999999, 66.14789999999999, 65.75880000000001, 64.9805, 64.5914, 64.5914, 64.20230000000001, 63.035, 62.6459, 62.2568, 62.2568, 61.8677, 60.7004, 60.7004, 60.3113, 60.7004, 60.7004, 59.9222, 58.7549, 57.5875, 57.5875, 57.5875, 59.5331, 59.5331, 59.144, 59.144, 58.3658, 58.3658, 58.3658, 58.3658, 58.3658, 57.9767, 57.5875, 57.5875, 57.5875, 56.8093, 56.8093, 55.642, 54.0856, 54.0856, 54.0856, 53.6965, 53.3074, 53.6965, 53.6965, 58.3658, 57.9767, 57.9767, 57.5875, 56.8093, 56.4202, 56.0311, 55.642, 55.2529, 54.8638, 54.4747, 54.0856, 54.0856, 55.2529, 55.2529, 55.2529, 55.2529, 54.8638, 54.4747, 54.8638, 54.8638, 54.8638, 54.4747, 54.4747, 54.0856, 54.0856, 53.3074, 53.3074, 51.751, 51.3619, 50.9728, 51.3619, 51.3619, 50.9728, 50.9728], mean: 77.1817
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0       137  131   0.715267  ive scared stainless steel cookware years conv...
+1       111  117   0.669029  ive scared stainless steel cookware years conv...
+2        35  109   0.662574  could happier set multi clad product line gene...
+3       128   63   0.608329  decided purchase set replace flaking non stick...
+4        19  209   0.600129  really wanted like pan three ply construction ...
+5        14  195   0.585334  bought set mother day n nthe set arrived one w...
+6        19  209   0.564257  really wanted like pan three ply construction ...
+7        14  195   0.549690  bought set mother day n nthe set arrived one w...
+8       168  135   0.529937  owned allclad pots pans 10 years pleased part ...
+9        84   47   0.521327  bought cuisinart mcp 12n multiclad pro stainle...
+10       63  162   0.496133  purchased pan separately complete set march 20...
+11       57   55   0.486109  absolutely love pots pans beautiful appearance...
+12      120   24   0.470006  first real cookware set one expecting last man...
+13       82  203   0.445832  except 12 fry pan cooking bacon omelettes cast...
+14      221  100   0.439842  let start saying clad guy really would never e...
+15        5  219   0.424603  looking set stainless sauce pans replace aged ...
+16      122  159   0.414735  finish inside pan flakes one use turkey 325 de...
+17       74  235   0.413903  all clad 12 fry pan love neither love hate han...
+18      172   35   0.388369  beautiful set way way way way good cooking n n...
+19      180  176   0.376541  suspicious package arrived nowhere box say pan...
+20      124   25   0.371721  finally cooking family 50 years set beautiful ...
+21      203   79   0.277949  base flat groove running way around edges pan ...
+22      114  124   0.251838  thought pans would great based many positive r...
+23      239  212   0.226176  great pan ceramic top range heavy perfectly fl...
+24       13    3   0.212672  actually one best roasting pans come across pr...
+25      256  255   0.124518  looking good roaster reasonable price year one...

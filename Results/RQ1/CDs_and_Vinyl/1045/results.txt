@@ -1,0 +1,7551 @@
+------- Category: CDs_and_Vinyl -------
+Found asin_id: B000F7MG4G
+Shape:  (1045, 7)
+
+
+Chosen product: B000F7MG4G has 1045 reviews - True
+Duplicate reviewers?:  240     AUG0TPPTTWAGQ
+885    A32NHXJ0KYVWF9
+987    A3KCZZ4RM5CLEF
+Name: reviewerID, dtype: object
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 100.0%
+
+step 1
+index added: 13
+percentage unclustered: 100.0%
+
+step 1
+index added: 14
+percentage unclustered: 100.0%
+
+step 1
+index added: 15
+percentage unclustered: 99.7129%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [5, 9, 15]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  15  new country never genre music could embrace wh...   0.143978
+
+step 1
+index added: 16
+percentage unclustered: 99.7129%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 99.7129%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 99.7129%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 99.4258%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [4, 5, 6, 15, 19]
+			old information: 10, gain: 0.9810606060606061
+
+   ind                                             review  relevance
+0  19  love music love politics love represent hope a...   0.154701
+1  15  new country never genre music could embrace wh...   0.143978
+
+step 1
+index added: 20
+percentage unclustered: 99.4258%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 99.4258%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 99.4258%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 99.4258%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 99.4258%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 99.3301%
+
+	step 2
+
+		step 3
+		candidate index: 25 with core nodes: [4, 5, 15, 25]
+			old information: 7, gain: 0.99055330634278
+
+   ind                                             review  relevance
+0  19  love music love politics love represent hope a...   0.154701
+1  15  new country never genre music could embrace wh...   0.143978
+2  25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 26
+percentage unclustered: 99.2344%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [4, 5, 15, 19, 26]
+			old information: 71, gain: 0.9175377468060395
+
+   ind                                             review  relevance
+0  26  awesome album well written recorded natalie so...   0.228607
+1  19  love music love politics love represent hope a...   0.154701
+2  15  new country never genre music could embrace wh...   0.143978
+3  25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 27
+percentage unclustered: 99.2344%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 99.2344%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 99.2344%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 99.2344%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 99.1388%
+
+	step 2
+
+		step 3
+		candidate index: 31 with core nodes: [5, 15, 31]
+			old information: 15, gain: 0.8897058823529411
+
+   ind                                             review  relevance
+0  31  music sound album incredible m traditional cou...   0.359602
+1  26  awesome album well written recorded natalie so...   0.228607
+2  19  love music love politics love represent hope a...   0.154701
+3  15  new country never genre music could embrace wh...   0.143978
+4  25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 32
+percentage unclustered: 99.1388%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 99.1388%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 99.1388%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 99.1388%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 98.8517%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [14, 15, 17, 31]
+
+step 1
+index added: 37
+percentage unclustered: 98.756%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [14, 15, 31, 37]
+			old information: 337, gain: 0.9550846328135413
+
+   ind                                             review  relevance
+0  37  heard dixie chicks lead singer natalie maines ...   0.570902
+1  31  music sound album incredible m traditional cou...   0.359602
+2  26  awesome album well written recorded natalie so...   0.228607
+3  19  love music love politics love represent hope a...   0.154701
+4  15  new country never genre music could embrace wh...   0.143978
+5  25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 38
+percentage unclustered: 98.756%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 98.756%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 98.6603%
+
+	step 2
+
+		step 3
+		candidate index: 40 with core nodes: [14, 15, 37, 40]
+			old information: 192, gain: 0.9560741249142073
+
+   ind                                             review  relevance
+0  37  heard dixie chicks lead singer natalie maines ...   0.570902
+1  40  find unbelievable dixie chicks still played co...   0.400279
+2  31  music sound album incredible m traditional cou...   0.359602
+3  26  awesome album well written recorded natalie so...   0.228607
+4  19  love music love politics love represent hope a...   0.154701
+5  15  new country never genre music could embrace wh...   0.143978
+6  25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 41
+percentage unclustered: 98.6603%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 98.6603%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 98.5646%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 98.4689%
+
+	step 2
+
+		step 3
+		candidate index: 44 with core nodes: [14, 15, 37, 44]
+			old information: 215, gain: 0.9027589326096789
+
+   ind                                             review  relevance
+0  37  heard dixie chicks lead singer natalie maines ...   0.570902
+1  44  truthfully never heard dixie chicks country mu...   0.443944
+2  40  find unbelievable dixie chicks still played co...   0.400279
+3  31  music sound album incredible m traditional cou...   0.359602
+4  26  awesome album well written recorded natalie so...   0.228607
+5  19  love music love politics love represent hope a...   0.154701
+6  15  new country never genre music could embrace wh...   0.143978
+7  25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 45
+percentage unclustered: 98.3732%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [14, 15, 37, 44]
+
+step 1
+index added: 46
+percentage unclustered: 98.3732%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 98.2775%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 98.1818%
+
+	step 2
+
+		step 3
+		candidate index: 48 with core nodes: [14, 15, 37, 44]
+
+step 1
+index added: 49
+percentage unclustered: 98.0861%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [14, 15, 37, 44]
+
+step 1
+index added: 50
+percentage unclustered: 97.9904%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 97.9904%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 97.9904%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 97.8947%
+
+	step 2
+
+		step 3
+		candidate index: 53 with core nodes: [13, 28, 53]
+			old information: 56, gain: 0.8518518518518519
+
+   ind                                             review  relevance
+0  37  heard dixie chicks lead singer natalie maines ...   0.570902
+1  44  truthfully never heard dixie chicks country mu...   0.443944
+2  40  find unbelievable dixie chicks still played co...   0.400279
+3  31  music sound album incredible m traditional cou...   0.359602
+4  53  admit first dixie chicks album bought seeing d...   0.297501
+5  26  awesome album well written recorded natalie so...   0.228607
+6  19  love music love politics love represent hope a...   0.154701
+7  15  new country never genre music could embrace wh...   0.143978
+8  25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 54
+percentage unclustered: 97.799%
+
+	step 2
+
+		step 3
+		candidate index: 54 with core nodes: [14, 15, 37, 44]
+
+step 1
+index added: 55
+percentage unclustered: 97.799%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 97.799%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 97.799%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 97.7033%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 97.6077%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 97.512%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 97.512%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 97.4163%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 97.3206%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 97.3206%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 97.3206%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 97.2249%
+
+	step 2
+
+		step 3
+		candidate index: 66 with core nodes: [14, 15, 37]
+			old information: 402, gain: 0.906030855539972
+
+   ind                                             review  relevance
+0  37  heard dixie chicks lead singer natalie maines ...   0.570902
+1  66  even though country music usally thing fell lo...   0.502013
+2  44  truthfully never heard dixie chicks country mu...   0.443944
+3  40  find unbelievable dixie chicks still played co...   0.400279
+4  31  music sound album incredible m traditional cou...   0.359602
+5  53  admit first dixie chicks album bought seeing d...   0.297501
+6  26  awesome album well written recorded natalie so...   0.228607
+7  19  love music love politics love represent hope a...   0.154701
+8  15  new country never genre music could embrace wh...   0.143978
+9  25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 67
+percentage unclustered: 97.1292%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 97.0335%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 96.9378%
+
+	step 2
+
+		step 3
+		candidate index: 69 with core nodes: [14, 15, 37]
+
+step 1
+index added: 70
+percentage unclustered: 96.9378%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 96.9378%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 96.9378%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 96.8421%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 96.8421%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 96.8421%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 96.4593%
+
+	step 2
+
+		step 3
+		candidate index: 76 with core nodes: [14, 15, 37, 76]
+			old information: 1051, gain: 0.9656849941230247
+
+    ind                                             review  relevance
+0   37  heard dixie chicks lead singer natalie maines ...   0.570902
+1   76  cd collection many genres different types musi...   0.562735
+2   66  even though country music usally thing fell lo...   0.502013
+3   44  truthfully never heard dixie chicks country mu...   0.443944
+4   40  find unbelievable dixie chicks still played co...   0.400279
+5   31  music sound album incredible m traditional cou...   0.359602
+6   53  admit first dixie chicks album bought seeing d...   0.297501
+7   26  awesome album well written recorded natalie so...   0.228607
+8   19  love music love politics love represent hope a...   0.154701
+9   15  new country never genre music could embrace wh...   0.143978
+10  25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 77
+percentage unclustered: 96.4593%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 96.4593%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 96.3636%
+
+	step 2
+
+		step 3
+		candidate index: 79 with core nodes: [14, 15, 37, 76]
+
+step 1
+index added: 80
+percentage unclustered: 96.2679%
+
+	step 2
+
+		step 3
+		candidate index: 80 with core nodes: [15, 37, 66, 76, 80]
+			old information: 365, gain: 0.8873456790123457
+
+    ind                                             review  relevance
+0   37  heard dixie chicks lead singer natalie maines ...   0.570902
+1   76  cd collection many genres different types musi...   0.562735
+2   66  even though country music usally thing fell lo...   0.502013
+3   80  dixie chicks never gained attention grammy alb...   0.494383
+4   44  truthfully never heard dixie chicks country mu...   0.443944
+5   40  find unbelievable dixie chicks still played co...   0.400279
+6   31  music sound album incredible m traditional cou...   0.359602
+7   53  admit first dixie chicks album bought seeing d...   0.297501
+8   26  awesome album well written recorded natalie so...   0.228607
+9   19  love music love politics love represent hope a...   0.154701
+10  15  new country never genre music could embrace wh...   0.143978
+11  25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 81
+percentage unclustered: 96.1722%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 96.0766%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 96.0766%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 95.9809%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 95.9809%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 95.8852%
+
+	step 2
+
+		step 3
+		candidate index: 86 with core nodes: [14, 37, 66, 76]
+
+step 1
+index added: 87
+percentage unclustered: 96.1722%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 96.0766%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 96.0766%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 96.0766%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 95.9809%
+
+	step 2
+
+		step 3
+		candidate index: 91 with core nodes: [13, 14, 28, 31, 37, 44, 53, 54, 66]
+
+step 1
+index added: 92
+percentage unclustered: 95.9809%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 95.8852%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 95.8852%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 95.4067%
+
+	step 2
+
+		step 3
+		candidate index: 95 with core nodes: [15, 37, 76]
+
+step 1
+index added: 96
+percentage unclustered: 95.4067%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 95.311%
+
+	step 2
+
+		step 3
+		candidate index: 97 with core nodes: [15, 66, 76, 80, 97]
+			old information: 1646, gain: 0.9304105187502643
+
+    ind                                             review  relevance
+0   37  heard dixie chicks lead singer natalie maines ...   0.570902
+1   76  cd collection many genres different types musi...   0.562735
+2   97  first must say album stretch imagination good ...   0.552885
+3   66  even though country music usally thing fell lo...   0.502013
+4   80  dixie chicks never gained attention grammy alb...   0.494383
+5   44  truthfully never heard dixie chicks country mu...   0.443944
+6   40  find unbelievable dixie chicks still played co...   0.400279
+7   31  music sound album incredible m traditional cou...   0.359602
+8   53  admit first dixie chicks album bought seeing d...   0.297501
+9   26  awesome album well written recorded natalie so...   0.228607
+10  19  love music love politics love represent hope a...   0.154701
+11  15  new country never genre music could embrace wh...   0.143978
+12  25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 98
+percentage unclustered: 95.311%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 95.311%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 95.2153%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 95.1196%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 94.9282%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 94.9282%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 94.9282%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 94.8325%
+
+	step 2
+
+		step 3
+		candidate index: 105 with core nodes: [54, 102, 105]
+			old information: 1046, gain: 0.9561811402957564
+
+     ind                                             review  relevance
+0   105  first let get politics way freedom speech need...   0.578350
+1    37  heard dixie chicks lead singer natalie maines ...   0.570902
+2    76  cd collection many genres different types musi...   0.562735
+3    97  first must say album stretch imagination good ...   0.552885
+4    66  even though country music usally thing fell lo...   0.502013
+5    80  dixie chicks never gained attention grammy alb...   0.494383
+6    44  truthfully never heard dixie chicks country mu...   0.443944
+7    40  find unbelievable dixie chicks still played co...   0.400279
+8    31  music sound album incredible m traditional cou...   0.359602
+9    53  admit first dixie chicks album bought seeing d...   0.297501
+10   26  awesome album well written recorded natalie so...   0.228607
+11   19  love music love politics love represent hope a...   0.154701
+12   15  new country never genre music could embrace wh...   0.143978
+13   25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 106
+percentage unclustered: 94.8325%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 94.8325%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 94.8325%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 94.8325%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 94.7368%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 94.7368%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 94.8325%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 94.7368%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 94.4498%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 94.3541%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 94.3541%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 94.3541%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 94.2584%
+
+	step 2
+
+		step 3
+		candidate index: 118 with core nodes: [80, 86, 118]
+			old information: 354, gain: 0.8575452716297787
+
+     ind                                             review  relevance
+0   105  first let get politics way freedom speech need...   0.578350
+1    37  heard dixie chicks lead singer natalie maines ...   0.570902
+2    76  cd collection many genres different types musi...   0.562735
+3    97  first must say album stretch imagination good ...   0.552885
+4    66  even though country music usally thing fell lo...   0.502013
+5    80  dixie chicks never gained attention grammy alb...   0.494383
+6    44  truthfully never heard dixie chicks country mu...   0.443944
+7   118  taking long way excellent one dixie chicks bes...   0.435936
+8    40  find unbelievable dixie chicks still played co...   0.400279
+9    31  music sound album incredible m traditional cou...   0.359602
+10   53  admit first dixie chicks album bought seeing d...   0.297501
+11   26  awesome album well written recorded natalie so...   0.228607
+12   19  love music love politics love represent hope a...   0.154701
+13   15  new country never genre music could embrace wh...   0.143978
+14   25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 119
+percentage unclustered: 94.2584%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 94.1627%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 94.06700000000001%
+
+	step 2
+
+		step 3
+		candidate index: 121 with core nodes: [80, 86, 118]
+			old information: 1193, gain: 0.9234078068823831
+
+     ind                                             review  relevance
+0   105  first let get politics way freedom speech need...   0.578350
+1    37  heard dixie chicks lead singer natalie maines ...   0.570902
+2    76  cd collection many genres different types musi...   0.562735
+3    97  first must say album stretch imagination good ...   0.552885
+4   121  like quite number reviewers m really country m...   0.512202
+5    66  even though country music usally thing fell lo...   0.502013
+6    80  dixie chicks never gained attention grammy alb...   0.494383
+7    44  truthfully never heard dixie chicks country mu...   0.443944
+8   118  taking long way excellent one dixie chicks bes...   0.435936
+9    40  find unbelievable dixie chicks still played co...   0.400279
+10   31  music sound album incredible m traditional cou...   0.359602
+11   53  admit first dixie chicks album bought seeing d...   0.297501
+12   26  awesome album well written recorded natalie so...   0.228607
+13   19  love music love politics love represent hope a...   0.154701
+14   15  new country never genre music could embrace wh...   0.143978
+15   25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 122
+percentage unclustered: 94.06700000000001%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 93.7799%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 93.7799%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 93.6842%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 93.5885%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 93.5885%
+
+	step 2
+
+step 1
+index added: 128
+percentage unclustered: 93.5885%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 93.5885%
+
+	step 2
+
+step 1
+index added: 130
+percentage unclustered: 93.5885%
+
+	step 2
+
+step 1
+index added: 131
+percentage unclustered: 93.5885%
+
+	step 2
+
+step 1
+index added: 132
+percentage unclustered: 93.5885%
+
+	step 2
+
+step 1
+index added: 133
+percentage unclustered: 93.4928%
+
+	step 2
+
+step 1
+index added: 134
+percentage unclustered: 93.4928%
+
+	step 2
+
+step 1
+index added: 135
+percentage unclustered: 93.4928%
+
+	step 2
+
+step 1
+index added: 136
+percentage unclustered: 93.4928%
+
+	step 2
+
+step 1
+index added: 137
+percentage unclustered: 93.3971%
+
+	step 2
+
+step 1
+index added: 138
+percentage unclustered: 93.3971%
+
+	step 2
+
+step 1
+index added: 139
+percentage unclustered: 93.3014%
+
+	step 2
+
+step 1
+index added: 140
+percentage unclustered: 93.3014%
+
+	step 2
+
+step 1
+index added: 141
+percentage unclustered: 93.20570000000001%
+
+	step 2
+
+step 1
+index added: 142
+percentage unclustered: 93.11%
+
+	step 2
+
+		step 3
+		candidate index: 142 with core nodes: [80, 86, 118, 142]
+			old information: 2162, gain: 0.9316385252640232
+
+     ind                                             review  relevance
+0   105  first let get politics way freedom speech need...   0.578350
+1    37  heard dixie chicks lead singer natalie maines ...   0.570902
+2   142  long way around n ndisc 1 audio n nwelcome bac...   0.568699
+3    76  cd collection many genres different types musi...   0.562735
+4    97  first must say album stretch imagination good ...   0.552885
+5   121  like quite number reviewers m really country m...   0.512202
+6    66  even though country music usally thing fell lo...   0.502013
+7    80  dixie chicks never gained attention grammy alb...   0.494383
+8    44  truthfully never heard dixie chicks country mu...   0.443944
+9   118  taking long way excellent one dixie chicks bes...   0.435936
+10   40  find unbelievable dixie chicks still played co...   0.400279
+11   31  music sound album incredible m traditional cou...   0.359602
+12   53  admit first dixie chicks album bought seeing d...   0.297501
+13   26  awesome album well written recorded natalie so...   0.228607
+14   19  love music love politics love represent hope a...   0.154701
+15   15  new country never genre music could embrace wh...   0.143978
+16   25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 143
+percentage unclustered: 93.11%
+
+	step 2
+
+step 1
+index added: 144
+percentage unclustered: 93.11%
+
+	step 2
+
+step 1
+index added: 145
+percentage unclustered: 93.11%
+
+	step 2
+
+step 1
+index added: 146
+percentage unclustered: 93.11%
+
+	step 2
+
+step 1
+index added: 147
+percentage unclustered: 93.11%
+
+	step 2
+
+step 1
+index added: 148
+percentage unclustered: 93.0144%
+
+	step 2
+
+step 1
+index added: 149
+percentage unclustered: 93.3014%
+
+	step 2
+
+step 1
+index added: 150
+percentage unclustered: 93.20570000000001%
+
+	step 2
+
+step 1
+index added: 151
+percentage unclustered: 92.9187%
+
+	step 2
+
+		step 3
+		candidate index: 151 with core nodes: [54, 102, 105]
+
+step 1
+index added: 152
+percentage unclustered: 92.9187%
+
+	step 2
+
+step 1
+index added: 153
+percentage unclustered: 92.9187%
+
+	step 2
+
+step 1
+index added: 154
+percentage unclustered: 92.82300000000001%
+
+	step 2
+
+step 1
+index added: 155
+percentage unclustered: 92.7273%
+
+	step 2
+
+step 1
+index added: 156
+percentage unclustered: 92.7273%
+
+	step 2
+
+step 1
+index added: 157
+percentage unclustered: 92.6316%
+
+	step 2
+
+		step 3
+		candidate index: 157 with core nodes: [80, 86, 118, 142]
+
+step 1
+index added: 158
+percentage unclustered: 92.5359%
+
+	step 2
+
+step 1
+index added: 159
+percentage unclustered: 92.4402%
+
+	step 2
+
+step 1
+index added: 160
+percentage unclustered: 92.4402%
+
+	step 2
+
+step 1
+index added: 161
+percentage unclustered: 92.1531%
+
+	step 2
+
+step 1
+index added: 162
+percentage unclustered: 92.1531%
+
+	step 2
+
+step 1
+index added: 163
+percentage unclustered: 92.1531%
+
+	step 2
+
+step 1
+index added: 164
+percentage unclustered: 91.6746%
+
+	step 2
+
+step 1
+index added: 165
+percentage unclustered: 91.5789%
+
+	step 2
+
+step 1
+index added: 166
+percentage unclustered: 91.4833%
+
+	step 2
+
+step 1
+index added: 167
+percentage unclustered: 91.3876%
+
+	step 2
+
+		step 3
+		candidate index: 167 with core nodes: [80, 86, 118, 142]
+
+step 1
+index added: 168
+percentage unclustered: 91.3876%
+
+	step 2
+
+step 1
+index added: 169
+percentage unclustered: 91.2919%
+
+	step 2
+
+		step 3
+		candidate index: 169 with core nodes: [80, 86, 118, 142]
+
+step 1
+index added: 170
+percentage unclustered: 91.2919%
+
+	step 2
+
+step 1
+index added: 171
+percentage unclustered: 91.2919%
+
+	step 2
+
+step 1
+index added: 172
+percentage unclustered: 91.2919%
+
+	step 2
+
+step 1
+index added: 173
+percentage unclustered: 91.1962%
+
+	step 2
+
+step 1
+index added: 174
+percentage unclustered: 91.1005%
+
+	step 2
+
+step 1
+index added: 175
+percentage unclustered: 91.1005%
+
+	step 2
+
+step 1
+index added: 176
+percentage unclustered: 91.1005%
+
+	step 2
+
+step 1
+index added: 177
+percentage unclustered: 91.1962%
+
+	step 2
+
+step 1
+index added: 178
+percentage unclustered: 90.9091%
+
+	step 2
+
+step 1
+index added: 179
+percentage unclustered: 90.9091%
+
+	step 2
+
+step 1
+index added: 180
+percentage unclustered: 90.9091%
+
+	step 2
+
+step 1
+index added: 181
+percentage unclustered: 90.8134%
+
+	step 2
+
+step 1
+index added: 182
+percentage unclustered: 90.5263%
+
+	step 2
+
+step 1
+index added: 183
+percentage unclustered: 90.5263%
+
+	step 2
+
+step 1
+index added: 184
+percentage unclustered: 90.5263%
+
+	step 2
+
+step 1
+index added: 185
+percentage unclustered: 90.4306%
+
+	step 2
+
+step 1
+index added: 186
+percentage unclustered: 90.622%
+
+	step 2
+
+		step 3
+		candidate index: 186 with core nodes: [7, 20, 53, 186]
+			old information: 565, gain: 0.8835291692434549
+
+     ind                                             review  relevance
+0   105  first let get politics way freedom speech need...   0.578350
+1    37  heard dixie chicks lead singer natalie maines ...   0.570902
+2   142  long way around n ndisc 1 audio n nwelcome bac...   0.568699
+3    76  cd collection many genres different types musi...   0.562735
+4    97  first must say album stretch imagination good ...   0.552885
+5   121  like quite number reviewers m really country m...   0.512202
+6    66  even though country music usally thing fell lo...   0.502013
+7    80  dixie chicks never gained attention grammy alb...   0.494383
+8   186  bought taking long way first released last may...   0.478117
+9    44  truthfully never heard dixie chicks country mu...   0.443944
+10  118  taking long way excellent one dixie chicks bes...   0.435936
+11   40  find unbelievable dixie chicks still played co...   0.400279
+12   31  music sound album incredible m traditional cou...   0.359602
+13   53  admit first dixie chicks album bought seeing d...   0.297501
+14   26  awesome album well written recorded natalie so...   0.228607
+15   19  love music love politics love represent hope a...   0.154701
+16   15  new country never genre music could embrace wh...   0.143978
+17   25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 187
+percentage unclustered: 90.71770000000001%
+
+	step 2
+
+step 1
+index added: 188
+percentage unclustered: 90.622%
+
+	step 2
+
+		step 3
+		candidate index: 188 with core nodes: [80, 86, 118, 142]
+
+step 1
+index added: 189
+percentage unclustered: 90.2392%
+
+	step 2
+
+step 1
+index added: 190
+percentage unclustered: 90.1435%
+
+	step 2
+
+		step 3
+		candidate index: 190 with core nodes: [57, 84, 159]
+			old information: 92, gain: 0.5619047619047619
+
+     ind                                             review  relevance
+0   105  first let get politics way freedom speech need...   0.578350
+1    37  heard dixie chicks lead singer natalie maines ...   0.570902
+2   142  long way around n ndisc 1 audio n nwelcome bac...   0.568699
+3    76  cd collection many genres different types musi...   0.562735
+4    97  first must say album stretch imagination good ...   0.552885
+5   121  like quite number reviewers m really country m...   0.512202
+6    66  even though country music usally thing fell lo...   0.502013
+7    80  dixie chicks never gained attention grammy alb...   0.494383
+8   186  bought taking long way first released last may...   0.478117
+9    44  truthfully never heard dixie chicks country mu...   0.443944
+10  118  taking long way excellent one dixie chicks bes...   0.435936
+11   40  find unbelievable dixie chicks still played co...   0.400279
+12   31  music sound album incredible m traditional cou...   0.359602
+13   53  admit first dixie chicks album bought seeing d...   0.297501
+14  190  awesome cd different previous cd dixie chicks ...   0.255539
+15   26  awesome album well written recorded natalie so...   0.228607
+16   19  love music love politics love represent hope a...   0.154701
+17   15  new country never genre music could embrace wh...   0.143978
+18   25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 191
+percentage unclustered: 90.1435%
+
+	step 2
+
+step 1
+index added: 192
+percentage unclustered: 90.1435%
+
+	step 2
+
+step 1
+index added: 193
+percentage unclustered: 90.1435%
+
+	step 2
+
+step 1
+index added: 194
+percentage unclustered: 89.7608%
+
+	step 2
+
+step 1
+index added: 195
+percentage unclustered: 89.7608%
+
+	step 2
+
+step 1
+index added: 196
+percentage unclustered: 89.7608%
+
+	step 2
+
+step 1
+index added: 197
+percentage unclustered: 89.6651%
+
+	step 2
+
+step 1
+index added: 198
+percentage unclustered: 89.5694%
+
+	step 2
+
+		step 3
+		candidate index: 198 with core nodes: [22, 83, 198]
+			old information: 654, gain: 0.8123924268502581
+
+     ind                                             review  relevance
+0   105  first let get politics way freedom speech need...   0.578350
+1    37  heard dixie chicks lead singer natalie maines ...   0.570902
+2   142  long way around n ndisc 1 audio n nwelcome bac...   0.568699
+3    76  cd collection many genres different types musi...   0.562735
+4    97  first must say album stretch imagination good ...   0.552885
+5   198  admit first bought album grow quickly albums p...   0.521855
+6   121  like quite number reviewers m really country m...   0.512202
+7    66  even though country music usally thing fell lo...   0.502013
+8    80  dixie chicks never gained attention grammy alb...   0.494383
+9   186  bought taking long way first released last may...   0.478117
+10   44  truthfully never heard dixie chicks country mu...   0.443944
+11  118  taking long way excellent one dixie chicks bes...   0.435936
+12   40  find unbelievable dixie chicks still played co...   0.400279
+13   31  music sound album incredible m traditional cou...   0.359602
+14   53  admit first dixie chicks album bought seeing d...   0.297501
+15  190  awesome cd different previous cd dixie chicks ...   0.255539
+16   26  awesome album well written recorded natalie so...   0.228607
+17   19  love music love politics love represent hope a...   0.154701
+18   15  new country never genre music could embrace wh...   0.143978
+19   25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 199
+percentage unclustered: 89.5694%
+
+	step 2
+
+step 1
+index added: 200
+percentage unclustered: 89.5694%
+
+	step 2
+
+step 1
+index added: 201
+percentage unclustered: 89.5694%
+
+	step 2
+
+step 1
+index added: 202
+percentage unclustered: 89.5694%
+
+	step 2
+
+step 1
+index added: 203
+percentage unclustered: 89.5694%
+
+	step 2
+
+step 1
+index added: 204
+percentage unclustered: 89.4737%
+
+	step 2
+
+step 1
+index added: 205
+percentage unclustered: 89.378%
+
+	step 2
+
+		step 3
+		candidate index: 205 with core nodes: [22, 83, 198]
+
+step 1
+index added: 206
+percentage unclustered: 89.28229999999999%
+
+	step 2
+
+		step 3
+		candidate index: 206 with core nodes: [80, 86, 118, 142]
+
+step 1
+index added: 207
+percentage unclustered: 89.1866%
+
+	step 2
+
+step 1
+index added: 208
+percentage unclustered: 89.1866%
+
+	step 2
+
+step 1
+index added: 209
+percentage unclustered: 89.1866%
+
+	step 2
+
+step 1
+index added: 210
+percentage unclustered: 89.0909%
+
+	step 2
+
+step 1
+index added: 211
+percentage unclustered: 89.0909%
+
+	step 2
+
+step 1
+index added: 212
+percentage unclustered: 88.9952%
+
+	step 2
+
+step 1
+index added: 213
+percentage unclustered: 88.9952%
+
+	step 2
+
+step 1
+index added: 214
+percentage unclustered: 88.9952%
+
+	step 2
+
+step 1
+index added: 215
+percentage unclustered: 88.9952%
+
+	step 2
+
+step 1
+index added: 216
+percentage unclustered: 88.9952%
+
+	step 2
+
+step 1
+index added: 217
+percentage unclustered: 88.9952%
+
+	step 2
+
+step 1
+index added: 218
+percentage unclustered: 88.7081%
+
+	step 2
+
+step 1
+index added: 219
+percentage unclustered: 88.8038%
+
+	step 2
+
+step 1
+index added: 220
+percentage unclustered: 88.8038%
+
+	step 2
+
+step 1
+index added: 221
+percentage unclustered: 88.8038%
+
+	step 2
+
+step 1
+index added: 222
+percentage unclustered: 88.7081%
+
+	step 2
+
+step 1
+index added: 223
+percentage unclustered: 88.6124%
+
+	step 2
+
+step 1
+index added: 224
+percentage unclustered: 88.6124%
+
+	step 2
+
+step 1
+index added: 225
+percentage unclustered: 88.5167%
+
+	step 2
+
+step 1
+index added: 226
+percentage unclustered: 88.03829999999999%
+
+	step 2
+
+step 1
+index added: 227
+percentage unclustered: 87.9426%
+
+	step 2
+
+step 1
+index added: 228
+percentage unclustered: 87.8469%
+
+	step 2
+
+step 1
+index added: 229
+percentage unclustered: 87.7512%
+
+	step 2
+
+step 1
+index added: 230
+percentage unclustered: 87.6555%
+
+	step 2
+
+step 1
+index added: 231
+percentage unclustered: 87.5598%
+
+	step 2
+
+step 1
+index added: 232
+percentage unclustered: 87.4641%
+
+	step 2
+
+step 1
+index added: 233
+percentage unclustered: 87.4641%
+
+	step 2
+
+step 1
+index added: 234
+percentage unclustered: 87.4641%
+
+	step 2
+
+step 1
+index added: 235
+percentage unclustered: 87.3684%
+
+	step 2
+
+step 1
+index added: 236
+percentage unclustered: 87.2727%
+
+	step 2
+
+step 1
+index added: 237
+percentage unclustered: 87.17699999999999%
+
+	step 2
+
+step 1
+index added: 238
+percentage unclustered: 87.17699999999999%
+
+	step 2
+
+step 1
+index added: 239
+percentage unclustered: 87.17699999999999%
+
+	step 2
+
+step 1
+index added: 240
+percentage unclustered: 87.0813%
+
+	step 2
+
+		step 3
+		candidate index: 240 with core nodes: [80, 86, 118, 142]
+
+step 1
+index added: 241
+percentage unclustered: 86.9856%
+
+	step 2
+
+step 1
+index added: 242
+percentage unclustered: 86.6986%
+
+	step 2
+
+step 1
+index added: 243
+percentage unclustered: 86.6029%
+
+	step 2
+
+step 1
+index added: 244
+percentage unclustered: 86.9856%
+
+	step 2
+
+step 1
+index added: 245
+percentage unclustered: 86.9856%
+
+	step 2
+
+step 1
+index added: 246
+percentage unclustered: 86.9856%
+
+	step 2
+
+step 1
+index added: 247
+percentage unclustered: 86.9856%
+
+	step 2
+
+step 1
+index added: 248
+percentage unclustered: 86.9856%
+
+	step 2
+
+step 1
+index added: 249
+percentage unclustered: 86.79429999999999%
+
+	step 2
+
+		step 3
+		candidate index: 249 with core nodes: [54, 102, 105]
+
+step 1
+index added: 250
+percentage unclustered: 86.79429999999999%
+
+	step 2
+
+step 1
+index added: 251
+percentage unclustered: 86.79429999999999%
+
+	step 2
+
+step 1
+index added: 252
+percentage unclustered: 86.6986%
+
+	step 2
+
+		step 3
+		candidate index: 252 with core nodes: [57, 84, 159]
+
+step 1
+index added: 253
+percentage unclustered: 86.6986%
+
+	step 2
+
+step 1
+index added: 254
+percentage unclustered: 86.6029%
+
+	step 2
+
+step 1
+index added: 255
+percentage unclustered: 86.5072%
+
+	step 2
+
+step 1
+index added: 256
+percentage unclustered: 86.4115%
+
+	step 2
+
+step 1
+index added: 257
+percentage unclustered: 86.3158%
+
+	step 2
+
+step 1
+index added: 258
+percentage unclustered: 86.2201%
+
+	step 2
+
+step 1
+index added: 259
+percentage unclustered: 86.2201%
+
+	step 2
+
+step 1
+index added: 260
+percentage unclustered: 86.1244%
+
+	step 2
+
+step 1
+index added: 261
+percentage unclustered: 86.0287%
+
+	step 2
+
+step 1
+index added: 262
+percentage unclustered: 86.0287%
+
+	step 2
+
+step 1
+index added: 263
+percentage unclustered: 85.93299999999999%
+
+	step 2
+
+		step 3
+		candidate index: 263 with core nodes: [80, 86, 118, 142]
+
+step 1
+index added: 264
+percentage unclustered: 85.8373%
+
+	step 2
+
+		step 3
+		candidate index: 264 with core nodes: [57, 84, 159]
+			old information: 102, gain: 0.896969696969697
+
+     ind                                             review  relevance
+0   105  first let get politics way freedom speech need...   0.578350
+1    37  heard dixie chicks lead singer natalie maines ...   0.570902
+2   142  long way around n ndisc 1 audio n nwelcome bac...   0.568699
+3    76  cd collection many genres different types musi...   0.562735
+4    97  first must say album stretch imagination good ...   0.552885
+5   198  admit first bought album grow quickly albums p...   0.521855
+6   121  like quite number reviewers m really country m...   0.512202
+7    66  even though country music usally thing fell lo...   0.502013
+8    80  dixie chicks never gained attention grammy alb...   0.494383
+9   186  bought taking long way first released last may...   0.478117
+10   44  truthfully never heard dixie chicks country mu...   0.443944
+11  118  taking long way excellent one dixie chicks bes...   0.435936
+12   40  find unbelievable dixie chicks still played co...   0.400279
+13   31  music sound album incredible m traditional cou...   0.359602
+14   53  admit first dixie chicks album bought seeing d...   0.297501
+15  190  awesome cd different previous cd dixie chicks ...   0.255539
+16   26  awesome album well written recorded natalie so...   0.228607
+17  264  yeah know buying cd amazon puts less money poc...   0.213603
+18   19  love music love politics love represent hope a...   0.154701
+19   15  new country never genre music could embrace wh...   0.143978
+20   25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 265
+percentage unclustered: 85.8373%
+
+	step 2
+
+step 1
+index added: 266
+percentage unclustered: 85.7416%
+
+	step 2
+
+step 1
+index added: 267
+percentage unclustered: 85.7416%
+
+	step 2
+
+step 1
+index added: 268
+percentage unclustered: 85.4545%
+
+	step 2
+
+step 1
+index added: 269
+percentage unclustered: 85.4545%
+
+	step 2
+
+step 1
+index added: 270
+percentage unclustered: 85.3589%
+
+	step 2
+
+step 1
+index added: 271
+percentage unclustered: 85.2632%
+
+	step 2
+
+step 1
+index added: 272
+percentage unclustered: 85.2632%
+
+	step 2
+
+step 1
+index added: 273
+percentage unclustered: 85.2632%
+
+	step 2
+
+		step 3
+		candidate index: 273 with core nodes: [57, 84, 159, 256, 273]
+			old information: 34, gain: 0.5641025641025641
+
+     ind                                             review  relevance
+0   105  first let get politics way freedom speech need...   0.578350
+1    37  heard dixie chicks lead singer natalie maines ...   0.570902
+2   142  long way around n ndisc 1 audio n nwelcome bac...   0.568699
+3    76  cd collection many genres different types musi...   0.562735
+4    97  first must say album stretch imagination good ...   0.552885
+5   198  admit first bought album grow quickly albums p...   0.521855
+6   121  like quite number reviewers m really country m...   0.512202
+7    66  even though country music usally thing fell lo...   0.502013
+8    80  dixie chicks never gained attention grammy alb...   0.494383
+9   186  bought taking long way first released last may...   0.478117
+10   44  truthfully never heard dixie chicks country mu...   0.443944
+11  118  taking long way excellent one dixie chicks bes...   0.435936
+12   40  find unbelievable dixie chicks still played co...   0.400279
+13   31  music sound album incredible m traditional cou...   0.359602
+14  273  first dixie chicks cd awexome every song strik...   0.357865
+15   53  admit first dixie chicks album bought seeing d...   0.297501
+16  190  awesome cd different previous cd dixie chicks ...   0.255539
+17   26  awesome album well written recorded natalie so...   0.228607
+18  264  yeah know buying cd amazon puts less money poc...   0.213603
+19   19  love music love politics love represent hope a...   0.154701
+20   15  new country never genre music could embrace wh...   0.143978
+21   25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 274
+percentage unclustered: 85.1675%
+
+	step 2
+
+		step 3
+		candidate index: 274 with core nodes: [54, 102, 105]
+
+step 1
+index added: 275
+percentage unclustered: 85.1675%
+
+	step 2
+
+step 1
+index added: 276
+percentage unclustered: 84.7847%
+
+	step 2
+
+step 1
+index added: 277
+percentage unclustered: 84.689%
+
+	step 2
+
+step 1
+index added: 278
+percentage unclustered: 84.8804%
+
+	step 2
+
+step 1
+index added: 279
+percentage unclustered: 84.8804%
+
+	step 2
+
+step 1
+index added: 280
+percentage unclustered: 84.8804%
+
+	step 2
+
+step 1
+index added: 281
+percentage unclustered: 84.5933%
+
+	step 2
+
+		step 3
+		candidate index: 281 with core nodes: [80, 86, 118, 142, 281]
+			old information: 636, gain: 0.8688930117501547
+
+     ind                                             review  relevance
+0   105  first let get politics way freedom speech need...   0.578350
+1    37  heard dixie chicks lead singer natalie maines ...   0.570902
+2   142  long way around n ndisc 1 audio n nwelcome bac...   0.568699
+3    76  cd collection many genres different types musi...   0.562735
+4    97  first must say album stretch imagination good ...   0.552885
+5   281  finally finally finally n nreal honest music d...   0.549967
+6   198  admit first bought album grow quickly albums p...   0.521855
+7   121  like quite number reviewers m really country m...   0.512202
+8    66  even though country music usally thing fell lo...   0.502013
+9    80  dixie chicks never gained attention grammy alb...   0.494383
+10  186  bought taking long way first released last may...   0.478117
+11   44  truthfully never heard dixie chicks country mu...   0.443944
+12  118  taking long way excellent one dixie chicks bes...   0.435936
+13   40  find unbelievable dixie chicks still played co...   0.400279
+14   31  music sound album incredible m traditional cou...   0.359602
+15  273  first dixie chicks cd awexome every song strik...   0.357865
+16   53  admit first dixie chicks album bought seeing d...   0.297501
+17  190  awesome cd different previous cd dixie chicks ...   0.255539
+18   26  awesome album well written recorded natalie so...   0.228607
+19  264  yeah know buying cd amazon puts less money poc...   0.213603
+20   19  love music love politics love represent hope a...   0.154701
+21   15  new country never genre music could embrace wh...   0.143978
+22   25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 282
+percentage unclustered: 85.3589%
+
+	step 2
+
+step 1
+index added: 283
+percentage unclustered: 85.2632%
+
+	step 2
+
+step 1
+index added: 284
+percentage unclustered: 85.2632%
+
+	step 2
+
+step 1
+index added: 285
+percentage unclustered: 85.2632%
+
+	step 2
+
+step 1
+index added: 286
+percentage unclustered: 85.1675%
+
+	step 2
+
+step 1
+index added: 287
+percentage unclustered: 85.1675%
+
+	step 2
+
+step 1
+index added: 288
+percentage unclustered: 85.1675%
+
+	step 2
+
+		step 3
+		candidate index: 288 with core nodes: [80, 86, 118, 142, 281]
+
+step 1
+index added: 289
+percentage unclustered: 85.0718%
+
+	step 2
+
+step 1
+index added: 290
+percentage unclustered: 84.9761%
+
+	step 2
+
+step 1
+index added: 291
+percentage unclustered: 84.9761%
+
+	step 2
+
+step 1
+index added: 292
+percentage unclustered: 84.8804%
+
+	step 2
+
+step 1
+index added: 293
+percentage unclustered: 84.8804%
+
+	step 2
+
+step 1
+index added: 294
+percentage unclustered: 84.7847%
+
+	step 2
+
+step 1
+index added: 295
+percentage unclustered: 84.689%
+
+	step 2
+
+step 1
+index added: 296
+percentage unclustered: 84.689%
+
+	step 2
+
+step 1
+index added: 297
+percentage unclustered: 84.5933%
+
+	step 2
+
+step 1
+index added: 298
+percentage unclustered: 84.4976%
+
+	step 2
+
+step 1
+index added: 299
+percentage unclustered: 84.4019%
+
+	step 2
+
+		step 3
+		candidate index: 299 with core nodes: [57, 84, 159]
+
+step 1
+index added: 300
+percentage unclustered: 84.4019%
+
+	step 2
+
+step 1
+index added: 301
+percentage unclustered: 84.0191%
+
+	step 2
+
+		step 3
+		candidate index: 301 with core nodes: [280, 291, 301]
+			old information: 937, gain: 0.9050658561296859
+
+     ind                                             review  relevance
+0   105  first let get politics way freedom speech need...   0.578350
+1    37  heard dixie chicks lead singer natalie maines ...   0.570902
+2   142  long way around n ndisc 1 audio n nwelcome bac...   0.568699
+3    76  cd collection many genres different types musi...   0.562735
+4    97  first must say album stretch imagination good ...   0.552885
+5   281  finally finally finally n nreal honest music d...   0.549967
+6   198  admit first bought album grow quickly albums p...   0.521855
+7   121  like quite number reviewers m really country m...   0.512202
+8    66  even though country music usally thing fell lo...   0.502013
+9    80  dixie chicks never gained attention grammy alb...   0.494383
+10  186  bought taking long way first released last may...   0.478117
+11  301  far perfect dixie chicks return highly anticip...   0.445611
+12   44  truthfully never heard dixie chicks country mu...   0.443944
+13  118  taking long way excellent one dixie chicks bes...   0.435936
+14   40  find unbelievable dixie chicks still played co...   0.400279
+15   31  music sound album incredible m traditional cou...   0.359602
+16  273  first dixie chicks cd awexome every song strik...   0.357865
+17   53  admit first dixie chicks album bought seeing d...   0.297501
+18  190  awesome cd different previous cd dixie chicks ...   0.255539
+19   26  awesome album well written recorded natalie so...   0.228607
+20  264  yeah know buying cd amazon puts less money poc...   0.213603
+21   19  love music love politics love represent hope a...   0.154701
+22   15  new country never genre music could embrace wh...   0.143978
+23   25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 302
+percentage unclustered: 84.0191%
+
+	step 2
+
+step 1
+index added: 303
+percentage unclustered: 84.0191%
+
+	step 2
+
+step 1
+index added: 304
+percentage unclustered: 84.1148%
+
+	step 2
+
+step 1
+index added: 305
+percentage unclustered: 84.0191%
+
+	step 2
+
+step 1
+index added: 306
+percentage unclustered: 83.6364%
+
+	step 2
+
+step 1
+index added: 307
+percentage unclustered: 83.5407%
+
+	step 2
+
+step 1
+index added: 308
+percentage unclustered: 83.445%
+
+	step 2
+
+step 1
+index added: 309
+percentage unclustered: 83.3493%
+
+	step 2
+
+step 1
+index added: 310
+percentage unclustered: 83.2536%
+
+	step 2
+
+step 1
+index added: 311
+percentage unclustered: 83.2536%
+
+	step 2
+
+step 1
+index added: 312
+percentage unclustered: 83.1579%
+
+	step 2
+
+step 1
+index added: 313
+percentage unclustered: 83.0622%
+
+	step 2
+
+step 1
+index added: 314
+percentage unclustered: 82.7751%
+
+	step 2
+
+step 1
+index added: 315
+percentage unclustered: 82.7751%
+
+	step 2
+
+step 1
+index added: 316
+percentage unclustered: 82.7751%
+
+	step 2
+
+step 1
+index added: 317
+percentage unclustered: 82.7751%
+
+	step 2
+
+step 1
+index added: 318
+percentage unclustered: 82.6794%
+
+	step 2
+
+step 1
+index added: 319
+percentage unclustered: 82.7751%
+
+	step 2
+
+step 1
+index added: 320
+percentage unclustered: 82.7751%
+
+	step 2
+
+step 1
+index added: 321
+percentage unclustered: 82.7751%
+
+	step 2
+
+step 1
+index added: 322
+percentage unclustered: 82.7751%
+
+	step 2
+
+step 1
+index added: 323
+percentage unclustered: 82.6794%
+
+	step 2
+
+step 1
+index added: 324
+percentage unclustered: 82.6794%
+
+	step 2
+
+step 1
+index added: 325
+percentage unclustered: 82.7751%
+
+	step 2
+
+step 1
+index added: 326
+percentage unclustered: 82.7751%
+
+	step 2
+
+step 1
+index added: 327
+percentage unclustered: 82.7751%
+
+	step 2
+
+step 1
+index added: 328
+percentage unclustered: 82.488%
+
+	step 2
+
+step 1
+index added: 329
+percentage unclustered: 82.3923%
+
+	step 2
+
+		step 3
+		candidate index: 329 with core nodes: [280, 291, 301, 329]
+			old information: 1037, gain: 0.7627545184168383
+
+     ind                                             review  relevance
+0   105  first let get politics way freedom speech need...   0.578350
+1    37  heard dixie chicks lead singer natalie maines ...   0.570902
+2   142  long way around n ndisc 1 audio n nwelcome bac...   0.568699
+3    76  cd collection many genres different types musi...   0.562735
+4    97  first must say album stretch imagination good ...   0.552885
+5   281  finally finally finally n nreal honest music d...   0.549967
+6   198  admit first bought album grow quickly albums p...   0.521855
+7   121  like quite number reviewers m really country m...   0.512202
+8    66  even though country music usally thing fell lo...   0.502013
+9    80  dixie chicks never gained attention grammy alb...   0.494383
+10  186  bought taking long way first released last may...   0.478117
+11  301  far perfect dixie chicks return highly anticip...   0.445611
+12   44  truthfully never heard dixie chicks country mu...   0.443944
+13  329  hype surrounding chicks taking long way came e...   0.441024
+14  118  taking long way excellent one dixie chicks bes...   0.435936
+15   40  find unbelievable dixie chicks still played co...   0.400279
+16   31  music sound album incredible m traditional cou...   0.359602
+17  273  first dixie chicks cd awexome every song strik...   0.357865
+18   53  admit first dixie chicks album bought seeing d...   0.297501
+19  190  awesome cd different previous cd dixie chicks ...   0.255539
+20   26  awesome album well written recorded natalie so...   0.228607
+21  264  yeah know buying cd amazon puts less money poc...   0.213603
+22   19  love music love politics love represent hope a...   0.154701
+23   15  new country never genre music could embrace wh...   0.143978
+24   25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 330
+percentage unclustered: 82.3923%
+
+	step 2
+
+step 1
+index added: 331
+percentage unclustered: 82.3923%
+
+	step 2
+
+step 1
+index added: 332
+percentage unclustered: 82.3923%
+
+	step 2
+
+step 1
+index added: 333
+percentage unclustered: 82.1053%
+
+	step 2
+
+step 1
+index added: 334
+percentage unclustered: 82.3923%
+
+	step 2
+
+step 1
+index added: 335
+percentage unclustered: 82.3923%
+
+	step 2
+
+step 1
+index added: 336
+percentage unclustered: 82.3923%
+
+	step 2
+
+step 1
+index added: 337
+percentage unclustered: 82.3923%
+
+	step 2
+
+step 1
+index added: 338
+percentage unclustered: 82.2967%
+
+	step 2
+
+step 1
+index added: 339
+percentage unclustered: 82.201%
+
+	step 2
+
+		step 3
+		candidate index: 339 with core nodes: [280, 291, 301, 329]
+			old information: 1519, gain: 0.8295365278868814
+
+     ind                                             review  relevance
+0   105  first let get politics way freedom speech need...   0.578350
+1    37  heard dixie chicks lead singer natalie maines ...   0.570902
+2   142  long way around n ndisc 1 audio n nwelcome bac...   0.568699
+3    76  cd collection many genres different types musi...   0.562735
+4    97  first must say album stretch imagination good ...   0.552885
+5   281  finally finally finally n nreal honest music d...   0.549967
+6   198  admit first bought album grow quickly albums p...   0.521855
+7   121  like quite number reviewers m really country m...   0.512202
+8    66  even though country music usally thing fell lo...   0.502013
+9    80  dixie chicks never gained attention grammy alb...   0.494383
+10  186  bought taking long way first released last may...   0.478117
+11  301  far perfect dixie chicks return highly anticip...   0.445611
+12   44  truthfully never heard dixie chicks country mu...   0.443944
+13  329  hype surrounding chicks taking long way came e...   0.441024
+14  118  taking long way excellent one dixie chicks bes...   0.435936
+15  339  people get chicks criticized bush got huge amo...   0.410180
+16   40  find unbelievable dixie chicks still played co...   0.400279
+17   31  music sound album incredible m traditional cou...   0.359602
+18  273  first dixie chicks cd awexome every song strik...   0.357865
+19   53  admit first dixie chicks album bought seeing d...   0.297501
+20  190  awesome cd different previous cd dixie chicks ...   0.255539
+21   26  awesome album well written recorded natalie so...   0.228607
+22  264  yeah know buying cd amazon puts less money poc...   0.213603
+23   19  love music love politics love represent hope a...   0.154701
+24   15  new country never genre music could embrace wh...   0.143978
+25   25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 340
+percentage unclustered: 82.201%
+
+	step 2
+
+step 1
+index added: 341
+percentage unclustered: 82.201%
+
+	step 2
+
+step 1
+index added: 342
+percentage unclustered: 82.201%
+
+	step 2
+
+step 1
+index added: 343
+percentage unclustered: 82.201%
+
+	step 2
+
+step 1
+index added: 344
+percentage unclustered: 82.1053%
+
+	step 2
+
+step 1
+index added: 345
+percentage unclustered: 82.1053%
+
+	step 2
+
+step 1
+index added: 346
+percentage unclustered: 82.1053%
+
+	step 2
+
+step 1
+index added: 347
+percentage unclustered: 82.0096%
+
+	step 2
+
+step 1
+index added: 348
+percentage unclustered: 82.0096%
+
+	step 2
+
+step 1
+index added: 349
+percentage unclustered: 82.0096%
+
+	step 2
+
+step 1
+index added: 350
+percentage unclustered: 82.0096%
+
+	step 2
+
+step 1
+index added: 351
+percentage unclustered: 82.0096%
+
+	step 2
+
+step 1
+index added: 352
+percentage unclustered: 82.0096%
+
+	step 2
+
+step 1
+index added: 353
+percentage unclustered: 82.0096%
+
+	step 2
+
+step 1
+index added: 354
+percentage unclustered: 81.9139%
+
+	step 2
+
+step 1
+index added: 355
+percentage unclustered: 81.8182%
+
+	step 2
+
+step 1
+index added: 356
+percentage unclustered: 81.7225%
+
+	step 2
+
+step 1
+index added: 357
+percentage unclustered: 81.4354%
+
+	step 2
+
+step 1
+index added: 358
+percentage unclustered: 81.4354%
+
+	step 2
+
+step 1
+index added: 359
+percentage unclustered: 81.4354%
+
+	step 2
+
+step 1
+index added: 360
+percentage unclustered: 81.1483%
+
+	step 2
+
+step 1
+index added: 361
+percentage unclustered: 81.1483%
+
+	step 2
+
+step 1
+index added: 362
+percentage unclustered: 81.1483%
+
+	step 2
+
+step 1
+index added: 363
+percentage unclustered: 81.244%
+
+	step 2
+
+step 1
+index added: 364
+percentage unclustered: 81.244%
+
+	step 2
+
+step 1
+index added: 365
+percentage unclustered: 81.5311%
+
+	step 2
+
+step 1
+index added: 366
+percentage unclustered: 81.4354%
+
+	step 2
+
+step 1
+index added: 367
+percentage unclustered: 81.3397%
+
+	step 2
+
+step 1
+index added: 368
+percentage unclustered: 81.3397%
+
+	step 2
+
+step 1
+index added: 369
+percentage unclustered: 81.244%
+
+	step 2
+
+step 1
+index added: 370
+percentage unclustered: 81.5311%
+
+	step 2
+
+step 1
+index added: 371
+percentage unclustered: 81.4354%
+
+	step 2
+
+step 1
+index added: 372
+percentage unclustered: 81.3397%
+
+	step 2
+
+step 1
+index added: 373
+percentage unclustered: 81.0526%
+
+	step 2
+
+step 1
+index added: 374
+percentage unclustered: 81.0526%
+
+	step 2
+
+step 1
+index added: 375
+percentage unclustered: 80.9569%
+
+	step 2
+
+		step 3
+		candidate index: 375 with core nodes: [80, 86, 118, 142, 281]
+
+step 1
+index added: 376
+percentage unclustered: 80.9569%
+
+	step 2
+
+step 1
+index added: 377
+percentage unclustered: 80.8612%
+
+	step 2
+
+step 1
+index added: 378
+percentage unclustered: 80.8612%
+
+	step 2
+
+step 1
+index added: 379
+percentage unclustered: 80.8612%
+
+	step 2
+
+step 1
+index added: 380
+percentage unclustered: 80.4785%
+
+	step 2
+
+step 1
+index added: 381
+percentage unclustered: 80.4785%
+
+	step 2
+
+step 1
+index added: 382
+percentage unclustered: 80.4785%
+
+	step 2
+
+step 1
+index added: 383
+percentage unclustered: 80.2871%
+
+	step 2
+
+step 1
+index added: 384
+percentage unclustered: 80.1914%
+
+	step 2
+
+step 1
+index added: 385
+percentage unclustered: 80.0957%
+
+	step 2
+
+step 1
+index added: 386
+percentage unclustered: 79.9043%
+
+	step 2
+
+step 1
+index added: 387
+percentage unclustered: 79.8086%
+
+	step 2
+
+step 1
+index added: 388
+percentage unclustered: 79.8086%
+
+	step 2
+
+step 1
+index added: 389
+percentage unclustered: 79.7129%
+
+	step 2
+
+		step 3
+		candidate index: 389 with core nodes: [80, 86, 118, 142, 281]
+
+step 1
+index added: 390
+percentage unclustered: 79.6172%
+
+	step 2
+
+		step 3
+		candidate index: 390 with core nodes: [37, 76, 198]
+
+step 1
+index added: 391
+percentage unclustered: 79.5215%
+
+	step 2
+
+step 1
+index added: 392
+percentage unclustered: 79.5215%
+
+	step 2
+
+step 1
+index added: 393
+percentage unclustered: 79.5215%
+
+	step 2
+
+step 1
+index added: 394
+percentage unclustered: 79.5215%
+
+	step 2
+
+step 1
+index added: 395
+percentage unclustered: 79.5215%
+
+	step 2
+
+step 1
+index added: 396
+percentage unclustered: 79.5215%
+
+	step 2
+
+step 1
+index added: 397
+percentage unclustered: 79.5215%
+
+	step 2
+
+step 1
+index added: 398
+percentage unclustered: 79.4258%
+
+	step 2
+
+step 1
+index added: 399
+percentage unclustered: 79.3301%
+
+	step 2
+
+step 1
+index added: 400
+percentage unclustered: 79.3301%
+
+	step 2
+
+step 1
+index added: 401
+percentage unclustered: 79.2344%
+
+	step 2
+
+		step 3
+		candidate index: 401 with core nodes: [80, 86, 118, 142, 281]
+			old information: 174, gain: 0.7979094076655052
+
+     ind                                             review  relevance
+0   105  first let get politics way freedom speech need...   0.578350
+1    37  heard dixie chicks lead singer natalie maines ...   0.570902
+2   142  long way around n ndisc 1 audio n nwelcome bac...   0.568699
+3    76  cd collection many genres different types musi...   0.562735
+4    97  first must say album stretch imagination good ...   0.552885
+5   281  finally finally finally n nreal honest music d...   0.549967
+6   198  admit first bought album grow quickly albums p...   0.521855
+7   121  like quite number reviewers m really country m...   0.512202
+8    66  even though country music usally thing fell lo...   0.502013
+9    80  dixie chicks never gained attention grammy alb...   0.494383
+10  186  bought taking long way first released last may...   0.478117
+11  301  far perfect dixie chicks return highly anticip...   0.445611
+12   44  truthfully never heard dixie chicks country mu...   0.443944
+13  329  hype surrounding chicks taking long way came e...   0.441024
+14  118  taking long way excellent one dixie chicks bes...   0.435936
+15  339  people get chicks criticized bush got huge amo...   0.410180
+16   40  find unbelievable dixie chicks still played co...   0.400279
+17  401  loved every song albumn n nthe words song pers...   0.360850
+18   31  music sound album incredible m traditional cou...   0.359602
+19  273  first dixie chicks cd awexome every song strik...   0.357865
+20   53  admit first dixie chicks album bought seeing d...   0.297501
+21  190  awesome cd different previous cd dixie chicks ...   0.255539
+22   26  awesome album well written recorded natalie so...   0.228607
+23  264  yeah know buying cd amazon puts less money poc...   0.213603
+24   19  love music love politics love represent hope a...   0.154701
+25   15  new country never genre music could embrace wh...   0.143978
+26   25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 402
+percentage unclustered: 79.2344%
+
+	step 2
+
+step 1
+index added: 403
+percentage unclustered: 79.3301%
+
+	step 2
+
+		step 3
+		candidate index: 403 with core nodes: [80, 86, 118, 142, 281]
+
+step 1
+index added: 404
+percentage unclustered: 79.2344%
+
+	step 2
+
+		step 3
+		candidate index: 404 with core nodes: [14, 34, 37, 54, 102, 105, 198, 404]
+			old information: 1177, gain: 0.8736582224130528
+
+     ind                                             review  relevance
+0   105  first let get politics way freedom speech need...   0.578350
+1    37  heard dixie chicks lead singer natalie maines ...   0.570902
+2   142  long way around n ndisc 1 audio n nwelcome bac...   0.568699
+3    76  cd collection many genres different types musi...   0.562735
+4   404  ok yes agree views reviews politics re music m...   0.558503
+5    97  first must say album stretch imagination good ...   0.552885
+6   281  finally finally finally n nreal honest music d...   0.549967
+7   198  admit first bought album grow quickly albums p...   0.521855
+8   121  like quite number reviewers m really country m...   0.512202
+9    66  even though country music usally thing fell lo...   0.502013
+10   80  dixie chicks never gained attention grammy alb...   0.494383
+11  186  bought taking long way first released last may...   0.478117
+12  301  far perfect dixie chicks return highly anticip...   0.445611
+13   44  truthfully never heard dixie chicks country mu...   0.443944
+14  329  hype surrounding chicks taking long way came e...   0.441024
+15  118  taking long way excellent one dixie chicks bes...   0.435936
+16  339  people get chicks criticized bush got huge amo...   0.410180
+17   40  find unbelievable dixie chicks still played co...   0.400279
+18  401  loved every song albumn n nthe words song pers...   0.360850
+19   31  music sound album incredible m traditional cou...   0.359602
+20  273  first dixie chicks cd awexome every song strik...   0.357865
+21   53  admit first dixie chicks album bought seeing d...   0.297501
+22  190  awesome cd different previous cd dixie chicks ...   0.255539
+23   26  awesome album well written recorded natalie so...   0.228607
+24  264  yeah know buying cd amazon puts less money poc...   0.213603
+25   19  love music love politics love represent hope a...   0.154701
+26   15  new country never genre music could embrace wh...   0.143978
+27   25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 405
+percentage unclustered: 79.1388%
+
+	step 2
+
+step 1
+index added: 406
+percentage unclustered: 79.0431%
+
+	step 2
+
+step 1
+index added: 407
+percentage unclustered: 78.3732%
+
+	step 2
+
+		step 3
+		candidate index: 407 with core nodes: [280, 291, 301, 329]
+
+step 1
+index added: 408
+percentage unclustered: 78.2775%
+
+	step 2
+
+step 1
+index added: 409
+percentage unclustered: 78.1818%
+
+	step 2
+
+step 1
+index added: 410
+percentage unclustered: 78.0861%
+
+	step 2
+
+step 1
+index added: 411
+percentage unclustered: 78.0861%
+
+	step 2
+
+step 1
+index added: 412
+percentage unclustered: 77.9904%
+
+	step 2
+
+step 1
+index added: 413
+percentage unclustered: 77.9904%
+
+	step 2
+
+step 1
+index added: 414
+percentage unclustered: 77.9904%
+
+	step 2
+
+step 1
+index added: 415
+percentage unclustered: 77.8947%
+
+	step 2
+
+step 1
+index added: 416
+percentage unclustered: 77.8947%
+
+	step 2
+
+step 1
+index added: 417
+percentage unclustered: 77.6077%
+
+	step 2
+
+step 1
+index added: 418
+percentage unclustered: 77.6077%
+
+	step 2
+
+step 1
+index added: 419
+percentage unclustered: 77.3206%
+
+	step 2
+
+step 1
+index added: 420
+percentage unclustered: 77.2249%
+
+	step 2
+
+step 1
+index added: 421
+percentage unclustered: 77.2249%
+
+	step 2
+
+step 1
+index added: 422
+percentage unclustered: 77.6077%
+
+	step 2
+
+step 1
+index added: 423
+percentage unclustered: 77.512%
+
+	step 2
+
+		step 3
+		candidate index: 423 with core nodes: [14, 34, 37, 54, 102, 105, 198, 404]
+
+step 1
+index added: 424
+percentage unclustered: 77.4163%
+
+	step 2
+
+step 1
+index added: 425
+percentage unclustered: 77.512%
+
+	step 2
+
+step 1
+index added: 426
+percentage unclustered: 77.4163%
+
+	step 2
+
+step 1
+index added: 427
+percentage unclustered: 77.3206%
+
+	step 2
+
+		step 3
+		candidate index: 427 with core nodes: [80, 86, 118, 142, 281]
+
+step 1
+index added: 428
+percentage unclustered: 77.2249%
+
+	step 2
+
+		step 3
+		candidate index: 428 with core nodes: [86, 118, 142, 428]
+			old information: 150, gain: 0.8775510204081632
+
+     ind                                             review  relevance
+0   105  first let get politics way freedom speech need...   0.578350
+1    37  heard dixie chicks lead singer natalie maines ...   0.570902
+2   142  long way around n ndisc 1 audio n nwelcome bac...   0.568699
+3    76  cd collection many genres different types musi...   0.562735
+4   404  ok yes agree views reviews politics re music m...   0.558503
+5    97  first must say album stretch imagination good ...   0.552885
+6   281  finally finally finally n nreal honest music d...   0.549967
+7   198  admit first bought album grow quickly albums p...   0.521855
+8   121  like quite number reviewers m really country m...   0.512202
+9    66  even though country music usally thing fell lo...   0.502013
+10   80  dixie chicks never gained attention grammy alb...   0.494383
+11  186  bought taking long way first released last may...   0.478117
+12  301  far perfect dixie chicks return highly anticip...   0.445611
+13   44  truthfully never heard dixie chicks country mu...   0.443944
+14  329  hype surrounding chicks taking long way came e...   0.441024
+15  118  taking long way excellent one dixie chicks bes...   0.435936
+16  339  people get chicks criticized bush got huge amo...   0.410180
+17   40  find unbelievable dixie chicks still played co...   0.400279
+18  428  never dc fan n ni actually know before n ni he...   0.369262
+19  401  loved every song albumn n nthe words song pers...   0.360850
+20   31  music sound album incredible m traditional cou...   0.359602
+21  273  first dixie chicks cd awexome every song strik...   0.357865
+22   53  admit first dixie chicks album bought seeing d...   0.297501
+23  190  awesome cd different previous cd dixie chicks ...   0.255539
+24   26  awesome album well written recorded natalie so...   0.228607
+25  264  yeah know buying cd amazon puts less money poc...   0.213603
+26   19  love music love politics love represent hope a...   0.154701
+27   15  new country never genre music could embrace wh...   0.143978
+28   25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 429
+percentage unclustered: 77.1292%
+
+	step 2
+
+step 1
+index added: 430
+percentage unclustered: 76.8421%
+
+	step 2
+
+step 1
+index added: 431
+percentage unclustered: 76.8421%
+
+	step 2
+
+step 1
+index added: 432
+percentage unclustered: 76.8421%
+
+	step 2
+
+step 1
+index added: 433
+percentage unclustered: 76.8421%
+
+	step 2
+
+step 1
+index added: 434
+percentage unclustered: 76.7464%
+
+	step 2
+
+step 1
+index added: 435
+percentage unclustered: 76.6507%
+
+	step 2
+
+step 1
+index added: 436
+percentage unclustered: 76.555%
+
+	step 2
+
+step 1
+index added: 437
+percentage unclustered: 76.555%
+
+	step 2
+
+step 1
+index added: 438
+percentage unclustered: 76.4593%
+
+	step 2
+
+		step 3
+		candidate index: 438 with core nodes: [7, 20, 53, 138, 357]
+
+step 1
+index added: 439
+percentage unclustered: 76.1722%
+
+	step 2
+
+step 1
+index added: 440
+percentage unclustered: 76.0766%
+
+	step 2
+
+step 1
+index added: 441
+percentage unclustered: 76.0766%
+
+	step 2
+
+step 1
+index added: 442
+percentage unclustered: 75.7895%
+
+	step 2
+
+		step 3
+		candidate index: 442 with core nodes: [7, 20, 53, 138, 357]
+
+step 1
+index added: 443
+percentage unclustered: 75.7895%
+
+	step 2
+
+step 1
+index added: 444
+percentage unclustered: 75.7895%
+
+	step 2
+
+step 1
+index added: 445
+percentage unclustered: 75.7895%
+
+	step 2
+
+		step 3
+		candidate index: 445 with core nodes: [134, 153, 390]
+
+step 1
+index added: 446
+percentage unclustered: 75.6938%
+
+	step 2
+
+step 1
+index added: 447
+percentage unclustered: 75.6938%
+
+	step 2
+
+step 1
+index added: 448
+percentage unclustered: 75.5981%
+
+	step 2
+
+step 1
+index added: 449
+percentage unclustered: 75.5024%
+
+	step 2
+
+		step 3
+		candidate index: 449 with core nodes: [7, 20, 53, 138, 357]
+
+step 1
+index added: 450
+percentage unclustered: 75.5024%
+
+	step 2
+
+step 1
+index added: 451
+percentage unclustered: 75.2153%
+
+	step 2
+
+step 1
+index added: 452
+percentage unclustered: 74.6411%
+
+	step 2
+
+step 1
+index added: 453
+percentage unclustered: 74.5455%
+
+	step 2
+
+		step 3
+		candidate index: 453 with core nodes: [37, 76, 153, 390, 453]
+			old information: 231, gain: 0.9367989056087551
+
+     ind                                             review  relevance
+0   105  first let get politics way freedom speech need...   0.578350
+1    37  heard dixie chicks lead singer natalie maines ...   0.570902
+2   142  long way around n ndisc 1 audio n nwelcome bac...   0.568699
+3    76  cd collection many genres different types musi...   0.562735
+4   453  yes great come back album music country nice c...   0.561543
+5   404  ok yes agree views reviews politics re music m...   0.558503
+6    97  first must say album stretch imagination good ...   0.552885
+7   281  finally finally finally n nreal honest music d...   0.549967
+8   198  admit first bought album grow quickly albums p...   0.521855
+9   121  like quite number reviewers m really country m...   0.512202
+10   66  even though country music usally thing fell lo...   0.502013
+11   80  dixie chicks never gained attention grammy alb...   0.494383
+12  186  bought taking long way first released last may...   0.478117
+13  301  far perfect dixie chicks return highly anticip...   0.445611
+14   44  truthfully never heard dixie chicks country mu...   0.443944
+15  329  hype surrounding chicks taking long way came e...   0.441024
+16  118  taking long way excellent one dixie chicks bes...   0.435936
+17  339  people get chicks criticized bush got huge amo...   0.410180
+18   40  find unbelievable dixie chicks still played co...   0.400279
+19  428  never dc fan n ni actually know before n ni he...   0.369262
+20  401  loved every song albumn n nthe words song pers...   0.360850
+21   31  music sound album incredible m traditional cou...   0.359602
+22  273  first dixie chicks cd awexome every song strik...   0.357865
+23   53  admit first dixie chicks album bought seeing d...   0.297501
+24  190  awesome cd different previous cd dixie chicks ...   0.255539
+25   26  awesome album well written recorded natalie so...   0.228607
+26  264  yeah know buying cd amazon puts less money poc...   0.213603
+27   19  love music love politics love represent hope a...   0.154701
+28   15  new country never genre music could embrace wh...   0.143978
+29   25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 454
+percentage unclustered: 74.4498%
+
+	step 2
+
+step 1
+index added: 455
+percentage unclustered: 74.3541%
+
+	step 2
+
+step 1
+index added: 456
+percentage unclustered: 74.3541%
+
+	step 2
+
+step 1
+index added: 457
+percentage unclustered: 74.3541%
+
+	step 2
+
+step 1
+index added: 458
+percentage unclustered: 74.4498%
+
+	step 2
+
+step 1
+index added: 459
+percentage unclustered: 74.4498%
+
+	step 2
+
+step 1
+index added: 460
+percentage unclustered: 74.3541%
+
+	step 2
+
+step 1
+index added: 461
+percentage unclustered: 74.2584%
+
+	step 2
+
+		step 3
+		candidate index: 461 with core nodes: [86, 118, 428]
+
+step 1
+index added: 462
+percentage unclustered: 74.2584%
+
+	step 2
+
+step 1
+index added: 463
+percentage unclustered: 74.1627%
+
+	step 2
+
+step 1
+index added: 464
+percentage unclustered: 74.3541%
+
+	step 2
+
+step 1
+index added: 465
+percentage unclustered: 74.3541%
+
+	step 2
+
+step 1
+index added: 466
+percentage unclustered: 74.2584%
+
+	step 2
+
+step 1
+index added: 467
+percentage unclustered: 74.1627%
+
+	step 2
+
+		step 3
+		candidate index: 467 with core nodes: [37, 76, 153, 390, 453]
+
+step 1
+index added: 468
+percentage unclustered: 74.1627%
+
+	step 2
+
+step 1
+index added: 469
+percentage unclustered: 74.06700000000001%
+
+	step 2
+
+step 1
+index added: 470
+percentage unclustered: 74.06700000000001%
+
+	step 2
+
+step 1
+index added: 471
+percentage unclustered: 73.9713%
+
+	step 2
+
+step 1
+index added: 472
+percentage unclustered: 74.1627%
+
+	step 2
+
+step 1
+index added: 473
+percentage unclustered: 74.1627%
+
+	step 2
+
+step 1
+index added: 474
+percentage unclustered: 74.06700000000001%
+
+	step 2
+
+		step 3
+		candidate index: 474 with core nodes: [273, 436, 474]
+			old information: 55, gain: 0.5955882352941176
+
+     ind                                             review  relevance
+0   105  first let get politics way freedom speech need...   0.578350
+1    37  heard dixie chicks lead singer natalie maines ...   0.570902
+2   142  long way around n ndisc 1 audio n nwelcome bac...   0.568699
+3    76  cd collection many genres different types musi...   0.562735
+4   453  yes great come back album music country nice c...   0.561543
+5   404  ok yes agree views reviews politics re music m...   0.558503
+6    97  first must say album stretch imagination good ...   0.552885
+7   281  finally finally finally n nreal honest music d...   0.549967
+8   198  admit first bought album grow quickly albums p...   0.521855
+9   121  like quite number reviewers m really country m...   0.512202
+10   66  even though country music usally thing fell lo...   0.502013
+11   80  dixie chicks never gained attention grammy alb...   0.494383
+12  186  bought taking long way first released last may...   0.478117
+13  301  far perfect dixie chicks return highly anticip...   0.445611
+14   44  truthfully never heard dixie chicks country mu...   0.443944
+15  329  hype surrounding chicks taking long way came e...   0.441024
+16  118  taking long way excellent one dixie chicks bes...   0.435936
+17  339  people get chicks criticized bush got huge amo...   0.410180
+18   40  find unbelievable dixie chicks still played co...   0.400279
+19  428  never dc fan n ni actually know before n ni he...   0.369262
+20  401  loved every song albumn n nthe words song pers...   0.360850
+21   31  music sound album incredible m traditional cou...   0.359602
+22  273  first dixie chicks cd awexome every song strik...   0.357865
+23   53  admit first dixie chicks album bought seeing d...   0.297501
+24  190  awesome cd different previous cd dixie chicks ...   0.255539
+25   26  awesome album well written recorded natalie so...   0.228607
+26  264  yeah know buying cd amazon puts less money poc...   0.213603
+27  474  loved m huge dixie fan probably years come gre...   0.204069
+28   19  love music love politics love represent hope a...   0.154701
+29   15  new country never genre music could embrace wh...   0.143978
+30   25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 475
+percentage unclustered: 74.06700000000001%
+
+	step 2
+
+step 1
+index added: 476
+percentage unclustered: 73.9713%
+
+	step 2
+
+step 1
+index added: 477
+percentage unclustered: 73.9713%
+
+	step 2
+
+step 1
+index added: 478
+percentage unclustered: 74.06700000000001%
+
+	step 2
+
+step 1
+index added: 479
+percentage unclustered: 73.9713%
+
+	step 2
+
+step 1
+index added: 480
+percentage unclustered: 73.6842%
+
+	step 2
+
+step 1
+index added: 481
+percentage unclustered: 73.6842%
+
+	step 2
+
+step 1
+index added: 482
+percentage unclustered: 73.4928%
+
+	step 2
+
+step 1
+index added: 483
+percentage unclustered: 73.3971%
+
+	step 2
+
+step 1
+index added: 484
+percentage unclustered: 73.3014%
+
+	step 2
+
+step 1
+index added: 485
+percentage unclustered: 73.3014%
+
+	step 2
+
+step 1
+index added: 486
+percentage unclustered: 73.20570000000001%
+
+	step 2
+
+step 1
+index added: 487
+percentage unclustered: 73.20570000000001%
+
+	step 2
+
+step 1
+index added: 488
+percentage unclustered: 72.82300000000001%
+
+	step 2
+
+step 1
+index added: 489
+percentage unclustered: 72.82300000000001%
+
+	step 2
+
+step 1
+index added: 490
+percentage unclustered: 72.9187%
+
+	step 2
+
+step 1
+index added: 491
+percentage unclustered: 72.9187%
+
+	step 2
+
+step 1
+index added: 492
+percentage unclustered: 72.9187%
+
+	step 2
+
+step 1
+index added: 493
+percentage unclustered: 72.82300000000001%
+
+	step 2
+
+step 1
+index added: 494
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 495
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 496
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 497
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 498
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 499
+percentage unclustered: 72.63159999999999%
+
+	step 2
+
+step 1
+index added: 500
+percentage unclustered: 72.63159999999999%
+
+	step 2
+
+step 1
+index added: 501
+percentage unclustered: 72.1531%
+
+	step 2
+
+		step 3
+		candidate index: 501 with core nodes: [86, 118, 428]
+
+step 1
+index added: 502
+percentage unclustered: 72.1531%
+
+	step 2
+
+step 1
+index added: 503
+percentage unclustered: 71.96170000000001%
+
+	step 2
+
+step 1
+index added: 504
+percentage unclustered: 71.866%
+
+	step 2
+
+step 1
+index added: 505
+percentage unclustered: 71.77029999999999%
+
+	step 2
+
+step 1
+index added: 506
+percentage unclustered: 71.6746%
+
+	step 2
+
+step 1
+index added: 507
+percentage unclustered: 71.6746%
+
+	step 2
+
+step 1
+index added: 508
+percentage unclustered: 71.6746%
+
+	step 2
+
+step 1
+index added: 509
+percentage unclustered: 71.6746%
+
+	step 2
+
+step 1
+index added: 510
+percentage unclustered: 71.5789%
+
+	step 2
+
+step 1
+index added: 511
+percentage unclustered: 71.4833%
+
+	step 2
+
+		step 3
+		candidate index: 511 with core nodes: [118, 452, 511]
+			old information: 3132, gain: 0.8851105975569495
+
+     ind                                             review  relevance
+0   511  album dixie chicks made real masterpiece far c...   0.639440
+1   105  first let get politics way freedom speech need...   0.578350
+2    37  heard dixie chicks lead singer natalie maines ...   0.570902
+3   142  long way around n ndisc 1 audio n nwelcome bac...   0.568699
+4    76  cd collection many genres different types musi...   0.562735
+5   453  yes great come back album music country nice c...   0.561543
+6   404  ok yes agree views reviews politics re music m...   0.558503
+7    97  first must say album stretch imagination good ...   0.552885
+8   281  finally finally finally n nreal honest music d...   0.549967
+9   198  admit first bought album grow quickly albums p...   0.521855
+10  121  like quite number reviewers m really country m...   0.512202
+11   66  even though country music usally thing fell lo...   0.502013
+12   80  dixie chicks never gained attention grammy alb...   0.494383
+13  186  bought taking long way first released last may...   0.478117
+14  301  far perfect dixie chicks return highly anticip...   0.445611
+15   44  truthfully never heard dixie chicks country mu...   0.443944
+16  329  hype surrounding chicks taking long way came e...   0.441024
+17  118  taking long way excellent one dixie chicks bes...   0.435936
+18  339  people get chicks criticized bush got huge amo...   0.410180
+19   40  find unbelievable dixie chicks still played co...   0.400279
+20  428  never dc fan n ni actually know before n ni he...   0.369262
+21  401  loved every song albumn n nthe words song pers...   0.360850
+22   31  music sound album incredible m traditional cou...   0.359602
+23  273  first dixie chicks cd awexome every song strik...   0.357865
+24   53  admit first dixie chicks album bought seeing d...   0.297501
+25  190  awesome cd different previous cd dixie chicks ...   0.255539
+26   26  awesome album well written recorded natalie so...   0.228607
+27  264  yeah know buying cd amazon puts less money poc...   0.213603
+28  474  loved m huge dixie fan probably years come gre...   0.204069
+29   19  love music love politics love represent hope a...   0.154701
+30   15  new country never genre music could embrace wh...   0.143978
+31   25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 512
+percentage unclustered: 71.38759999999999%
+
+	step 2
+
+		step 3
+		candidate index: 512 with core nodes: [118, 452, 511, 512]
+			old information: 833, gain: 0.8247422680412371
+
+     ind                                             review  relevance
+0   511  album dixie chicks made real masterpiece far c...   0.639440
+1   512  m huge fan country always loved dixie chicks i...   0.582392
+2   105  first let get politics way freedom speech need...   0.578350
+3    37  heard dixie chicks lead singer natalie maines ...   0.570902
+4   142  long way around n ndisc 1 audio n nwelcome bac...   0.568699
+5    76  cd collection many genres different types musi...   0.562735
+6   453  yes great come back album music country nice c...   0.561543
+7   404  ok yes agree views reviews politics re music m...   0.558503
+8    97  first must say album stretch imagination good ...   0.552885
+9   281  finally finally finally n nreal honest music d...   0.549967
+10  198  admit first bought album grow quickly albums p...   0.521855
+11  121  like quite number reviewers m really country m...   0.512202
+12   66  even though country music usally thing fell lo...   0.502013
+13   80  dixie chicks never gained attention grammy alb...   0.494383
+14  186  bought taking long way first released last may...   0.478117
+15  301  far perfect dixie chicks return highly anticip...   0.445611
+16   44  truthfully never heard dixie chicks country mu...   0.443944
+17  329  hype surrounding chicks taking long way came e...   0.441024
+18  118  taking long way excellent one dixie chicks bes...   0.435936
+19  339  people get chicks criticized bush got huge amo...   0.410180
+20   40  find unbelievable dixie chicks still played co...   0.400279
+21  428  never dc fan n ni actually know before n ni he...   0.369262
+22  401  loved every song albumn n nthe words song pers...   0.360850
+23   31  music sound album incredible m traditional cou...   0.359602
+24  273  first dixie chicks cd awexome every song strik...   0.357865
+25   53  admit first dixie chicks album bought seeing d...   0.297501
+26  190  awesome cd different previous cd dixie chicks ...   0.255539
+27   26  awesome album well written recorded natalie so...   0.228607
+28  264  yeah know buying cd amazon puts less money poc...   0.213603
+29  474  loved m huge dixie fan probably years come gre...   0.204069
+30   19  love music love politics love represent hope a...   0.154701
+31   15  new country never genre music could embrace wh...   0.143978
+32   25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 513
+percentage unclustered: 74.1627%
+
+	step 2
+
+step 1
+index added: 514
+percentage unclustered: 74.06700000000001%
+
+	step 2
+
+step 1
+index added: 515
+percentage unclustered: 73.9713%
+
+	step 2
+
+step 1
+index added: 516
+percentage unclustered: 73.9713%
+
+	step 2
+
+step 1
+index added: 517
+percentage unclustered: 73.6842%
+
+	step 2
+
+step 1
+index added: 518
+percentage unclustered: 73.5885%
+
+	step 2
+
+step 1
+index added: 519
+percentage unclustered: 73.5885%
+
+	step 2
+
+step 1
+index added: 520
+percentage unclustered: 73.5885%
+
+	step 2
+
+step 1
+index added: 521
+percentage unclustered: 73.20570000000001%
+
+	step 2
+
+step 1
+index added: 522
+percentage unclustered: 73.11%
+
+	step 2
+
+step 1
+index added: 523
+percentage unclustered: 73.0144%
+
+	step 2
+
+step 1
+index added: 524
+percentage unclustered: 72.9187%
+
+	step 2
+
+step 1
+index added: 525
+percentage unclustered: 72.9187%
+
+	step 2
+
+step 1
+index added: 526
+percentage unclustered: 72.9187%
+
+	step 2
+
+step 1
+index added: 527
+percentage unclustered: 72.82300000000001%
+
+	step 2
+
+step 1
+index added: 528
+percentage unclustered: 72.82300000000001%
+
+	step 2
+
+step 1
+index added: 529
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 530
+percentage unclustered: 72.63159999999999%
+
+	step 2
+
+		step 3
+		candidate index: 530 with core nodes: [118, 452, 511, 512]
+			old information: 656, gain: 0.8072289156626506
+
+     ind                                             review  relevance
+0   511  album dixie chicks made real masterpiece far c...   0.639440
+1   530  politics big dixie chicks fan n nbut n nthey n...   0.595824
+2   512  m huge fan country always loved dixie chicks i...   0.582392
+3   105  first let get politics way freedom speech need...   0.578350
+4    37  heard dixie chicks lead singer natalie maines ...   0.570902
+5   142  long way around n ndisc 1 audio n nwelcome bac...   0.568699
+6    76  cd collection many genres different types musi...   0.562735
+7   453  yes great come back album music country nice c...   0.561543
+8   404  ok yes agree views reviews politics re music m...   0.558503
+9    97  first must say album stretch imagination good ...   0.552885
+10  281  finally finally finally n nreal honest music d...   0.549967
+11  198  admit first bought album grow quickly albums p...   0.521855
+12  121  like quite number reviewers m really country m...   0.512202
+13   66  even though country music usally thing fell lo...   0.502013
+14   80  dixie chicks never gained attention grammy alb...   0.494383
+15  186  bought taking long way first released last may...   0.478117
+16  301  far perfect dixie chicks return highly anticip...   0.445611
+17   44  truthfully never heard dixie chicks country mu...   0.443944
+18  329  hype surrounding chicks taking long way came e...   0.441024
+19  118  taking long way excellent one dixie chicks bes...   0.435936
+20  339  people get chicks criticized bush got huge amo...   0.410180
+21   40  find unbelievable dixie chicks still played co...   0.400279
+22  428  never dc fan n ni actually know before n ni he...   0.369262
+23  401  loved every song albumn n nthe words song pers...   0.360850
+24   31  music sound album incredible m traditional cou...   0.359602
+25  273  first dixie chicks cd awexome every song strik...   0.357865
+26   53  admit first dixie chicks album bought seeing d...   0.297501
+27  190  awesome cd different previous cd dixie chicks ...   0.255539
+28   26  awesome album well written recorded natalie so...   0.228607
+29  264  yeah know buying cd amazon puts less money poc...   0.213603
+30  474  loved m huge dixie fan probably years come gre...   0.204069
+31   19  love music love politics love represent hope a...   0.154701
+32   15  new country never genre music could embrace wh...   0.143978
+33   25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 531
+percentage unclustered: 72.63159999999999%
+
+	step 2
+
+step 1
+index added: 532
+percentage unclustered: 72.5359%
+
+	step 2
+
+step 1
+index added: 533
+percentage unclustered: 72.4402%
+
+	step 2
+
+step 1
+index added: 534
+percentage unclustered: 72.4402%
+
+	step 2
+
+step 1
+index added: 535
+percentage unclustered: 72.3445%
+
+	step 2
+
+step 1
+index added: 536
+percentage unclustered: 72.3445%
+
+	step 2
+
+step 1
+index added: 537
+percentage unclustered: 72.3445%
+
+	step 2
+
+step 1
+index added: 538
+percentage unclustered: 72.2488%
+
+	step 2
+
+step 1
+index added: 539
+percentage unclustered: 72.1531%
+
+	step 2
+
+		step 3
+		candidate index: 539 with core nodes: [7, 20, 138]
+
+step 1
+index added: 540
+percentage unclustered: 72.0574%
+
+	step 2
+
+step 1
+index added: 541
+percentage unclustered: 72.0574%
+
+	step 2
+
+step 1
+index added: 542
+percentage unclustered: 71.96170000000001%
+
+	step 2
+
+step 1
+index added: 543
+percentage unclustered: 71.77029999999999%
+
+	step 2
+
+		step 3
+		candidate index: 543 with core nodes: [54, 102, 105, 404]
+
+step 1
+index added: 544
+percentage unclustered: 71.38759999999999%
+
+	step 2
+
+step 1
+index added: 545
+percentage unclustered: 71.2919%
+
+	step 2
+
+		step 3
+		candidate index: 545 with core nodes: [280, 291, 301, 329]
+
+step 1
+index added: 546
+percentage unclustered: 71.1962%
+
+	step 2
+
+step 1
+index added: 547
+percentage unclustered: 70.9091%
+
+	step 2
+
+step 1
+index added: 548
+percentage unclustered: 70.8134%
+
+	step 2
+
+		step 3
+		candidate index: 548 with core nodes: [273, 436, 474]
+
+step 1
+index added: 549
+percentage unclustered: 70.8134%
+
+	step 2
+
+step 1
+index added: 550
+percentage unclustered: 70.71770000000001%
+
+	step 2
+
+step 1
+index added: 551
+percentage unclustered: 70.71770000000001%
+
+	step 2
+
+step 1
+index added: 552
+percentage unclustered: 70.71770000000001%
+
+	step 2
+
+step 1
+index added: 553
+percentage unclustered: 70.71770000000001%
+
+	step 2
+
+step 1
+index added: 554
+percentage unclustered: 70.71770000000001%
+
+	step 2
+
+step 1
+index added: 555
+percentage unclustered: 70.71770000000001%
+
+	step 2
+
+step 1
+index added: 556
+percentage unclustered: 70.71770000000001%
+
+	step 2
+
+step 1
+index added: 557
+percentage unclustered: 70.71770000000001%
+
+	step 2
+
+		step 3
+		candidate index: 557 with core nodes: [273, 436, 474]
+
+step 1
+index added: 558
+percentage unclustered: 70.71770000000001%
+
+	step 2
+
+step 1
+index added: 559
+percentage unclustered: 70.71770000000001%
+
+	step 2
+
+step 1
+index added: 560
+percentage unclustered: 70.71770000000001%
+
+	step 2
+
+step 1
+index added: 561
+percentage unclustered: 70.71770000000001%
+
+	step 2
+
+step 1
+index added: 562
+percentage unclustered: 70.622%
+
+	step 2
+
+step 1
+index added: 563
+percentage unclustered: 70.622%
+
+	step 2
+
+step 1
+index added: 564
+percentage unclustered: 70.71770000000001%
+
+	step 2
+
+step 1
+index added: 565
+percentage unclustered: 70.71770000000001%
+
+	step 2
+
+step 1
+index added: 566
+percentage unclustered: 70.622%
+
+	step 2
+
+step 1
+index added: 567
+percentage unclustered: 71.96170000000001%
+
+	step 2
+
+step 1
+index added: 568
+percentage unclustered: 71.96170000000001%
+
+	step 2
+
+step 1
+index added: 569
+percentage unclustered: 71.866%
+
+	step 2
+
+		step 3
+		candidate index: 569 with core nodes: [118, 452, 511, 512]
+
+step 1
+index added: 570
+percentage unclustered: 71.866%
+
+	step 2
+
+step 1
+index added: 571
+percentage unclustered: 71.866%
+
+	step 2
+
+step 1
+index added: 572
+percentage unclustered: 71.5789%
+
+	step 2
+
+step 1
+index added: 573
+percentage unclustered: 71.4833%
+
+	step 2
+
+step 1
+index added: 574
+percentage unclustered: 71.38759999999999%
+
+	step 2
+
+step 1
+index added: 575
+percentage unclustered: 71.38759999999999%
+
+	step 2
+
+step 1
+index added: 576
+percentage unclustered: 71.2919%
+
+	step 2
+
+step 1
+index added: 577
+percentage unclustered: 71.1962%
+
+	step 2
+
+step 1
+index added: 578
+percentage unclustered: 71.1962%
+
+	step 2
+
+step 1
+index added: 579
+percentage unclustered: 71.1005%
+
+	step 2
+
+step 1
+index added: 580
+percentage unclustered: 70.8134%
+
+	step 2
+
+step 1
+index added: 581
+percentage unclustered: 70.8134%
+
+	step 2
+
+step 1
+index added: 582
+percentage unclustered: 70.8134%
+
+	step 2
+
+step 1
+index added: 583
+percentage unclustered: 70.8134%
+
+	step 2
+
+step 1
+index added: 584
+percentage unclustered: 70.8134%
+
+	step 2
+
+step 1
+index added: 585
+percentage unclustered: 70.8134%
+
+	step 2
+
+step 1
+index added: 586
+percentage unclustered: 70.71770000000001%
+
+	step 2
+
+step 1
+index added: 587
+percentage unclustered: 70.622%
+
+	step 2
+
+step 1
+index added: 588
+percentage unclustered: 70.71770000000001%
+
+	step 2
+
+step 1
+index added: 589
+percentage unclustered: 70.71770000000001%
+
+	step 2
+
+step 1
+index added: 590
+percentage unclustered: 70.71770000000001%
+
+	step 2
+
+step 1
+index added: 591
+percentage unclustered: 70.71770000000001%
+
+	step 2
+
+step 1
+index added: 592
+percentage unclustered: 70.71770000000001%
+
+	step 2
+
+step 1
+index added: 593
+percentage unclustered: 70.71770000000001%
+
+	step 2
+
+step 1
+index added: 594
+percentage unclustered: 70.622%
+
+	step 2
+
+step 1
+index added: 595
+percentage unclustered: 70.1435%
+
+	step 2
+
+		step 3
+		candidate index: 595 with core nodes: [83, 134, 595]
+			old information: 149, gain: 0.5754985754985755
+
+     ind                                             review  relevance
+0   511  album dixie chicks made real masterpiece far c...   0.639440
+1   530  politics big dixie chicks fan n nbut n nthey n...   0.595824
+2   512  m huge fan country always loved dixie chicks i...   0.582392
+3   105  first let get politics way freedom speech need...   0.578350
+4    37  heard dixie chicks lead singer natalie maines ...   0.570902
+5   142  long way around n ndisc 1 audio n nwelcome bac...   0.568699
+6    76  cd collection many genres different types musi...   0.562735
+7   453  yes great come back album music country nice c...   0.561543
+8   404  ok yes agree views reviews politics re music m...   0.558503
+9    97  first must say album stretch imagination good ...   0.552885
+10  281  finally finally finally n nreal honest music d...   0.549967
+11  198  admit first bought album grow quickly albums p...   0.521855
+12  595  love album chicks say re leaving country music...   0.518134
+13  121  like quite number reviewers m really country m...   0.512202
+14   66  even though country music usally thing fell lo...   0.502013
+15   80  dixie chicks never gained attention grammy alb...   0.494383
+16  186  bought taking long way first released last may...   0.478117
+17  301  far perfect dixie chicks return highly anticip...   0.445611
+18   44  truthfully never heard dixie chicks country mu...   0.443944
+19  329  hype surrounding chicks taking long way came e...   0.441024
+20  118  taking long way excellent one dixie chicks bes...   0.435936
+21  339  people get chicks criticized bush got huge amo...   0.410180
+22   40  find unbelievable dixie chicks still played co...   0.400279
+23  428  never dc fan n ni actually know before n ni he...   0.369262
+24  401  loved every song albumn n nthe words song pers...   0.360850
+25   31  music sound album incredible m traditional cou...   0.359602
+26  273  first dixie chicks cd awexome every song strik...   0.357865
+27   53  admit first dixie chicks album bought seeing d...   0.297501
+28  190  awesome cd different previous cd dixie chicks ...   0.255539
+29   26  awesome album well written recorded natalie so...   0.228607
+30  264  yeah know buying cd amazon puts less money poc...   0.213603
+31  474  loved m huge dixie fan probably years come gre...   0.204069
+32   19  love music love politics love represent hope a...   0.154701
+33   15  new country never genre music could embrace wh...   0.143978
+34   25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 596
+percentage unclustered: 70.1435%
+
+	step 2
+
+step 1
+index added: 597
+percentage unclustered: 70.1435%
+
+	step 2
+
+step 1
+index added: 598
+percentage unclustered: 70.1435%
+
+	step 2
+
+step 1
+index added: 599
+percentage unclustered: 70.0478%
+
+	step 2
+
+step 1
+index added: 600
+percentage unclustered: 69.9522%
+
+	step 2
+
+		step 3
+		candidate index: 600 with core nodes: [118, 452, 511, 512]
+
+step 1
+index added: 601
+percentage unclustered: 69.8565%
+
+	step 2
+
+		step 3
+		candidate index: 601 with core nodes: [280, 291, 301, 329]
+
+step 1
+index added: 602
+percentage unclustered: 69.8565%
+
+	step 2
+
+step 1
+index added: 603
+percentage unclustered: 69.8565%
+
+	step 2
+
+step 1
+index added: 604
+percentage unclustered: 69.8565%
+
+	step 2
+
+step 1
+index added: 605
+percentage unclustered: 69.8565%
+
+	step 2
+
+step 1
+index added: 606
+percentage unclustered: 69.8565%
+
+	step 2
+
+step 1
+index added: 607
+percentage unclustered: 69.8565%
+
+	step 2
+
+step 1
+index added: 608
+percentage unclustered: 69.7608%
+
+	step 2
+
+step 1
+index added: 609
+percentage unclustered: 69.7608%
+
+	step 2
+
+step 1
+index added: 610
+percentage unclustered: 69.7608%
+
+	step 2
+
+step 1
+index added: 611
+percentage unclustered: 69.7608%
+
+	step 2
+
+step 1
+index added: 612
+percentage unclustered: 69.7608%
+
+	step 2
+
+step 1
+index added: 613
+percentage unclustered: 69.7608%
+
+	step 2
+
+step 1
+index added: 614
+percentage unclustered: 69.7608%
+
+	step 2
+
+step 1
+index added: 615
+percentage unclustered: 69.6651%
+
+	step 2
+
+step 1
+index added: 616
+percentage unclustered: 69.5694%
+
+	step 2
+
+step 1
+index added: 617
+percentage unclustered: 69.5694%
+
+	step 2
+
+step 1
+index added: 618
+percentage unclustered: 69.47370000000001%
+
+	step 2
+
+step 1
+index added: 619
+percentage unclustered: 69.378%
+
+	step 2
+
+step 1
+index added: 620
+percentage unclustered: 69.378%
+
+	step 2
+
+step 1
+index added: 621
+percentage unclustered: 69.28229999999999%
+
+	step 2
+
+step 1
+index added: 622
+percentage unclustered: 69.1866%
+
+	step 2
+
+step 1
+index added: 623
+percentage unclustered: 69.1866%
+
+	step 2
+
+step 1
+index added: 624
+percentage unclustered: 69.1866%
+
+	step 2
+
+step 1
+index added: 625
+percentage unclustered: 69.1866%
+
+	step 2
+
+step 1
+index added: 626
+percentage unclustered: 69.0909%
+
+	step 2
+
+step 1
+index added: 627
+percentage unclustered: 69.0909%
+
+	step 2
+
+step 1
+index added: 628
+percentage unclustered: 69.0909%
+
+	step 2
+
+step 1
+index added: 629
+percentage unclustered: 69.0909%
+
+	step 2
+
+step 1
+index added: 630
+percentage unclustered: 69.0909%
+
+	step 2
+
+step 1
+index added: 631
+percentage unclustered: 68.9952%
+
+	step 2
+
+step 1
+index added: 632
+percentage unclustered: 68.8995%
+
+	step 2
+
+step 1
+index added: 633
+percentage unclustered: 68.8038%
+
+	step 2
+
+step 1
+index added: 634
+percentage unclustered: 68.8038%
+
+	step 2
+
+step 1
+index added: 635
+percentage unclustered: 68.7081%
+
+	step 2
+
+step 1
+index added: 636
+percentage unclustered: 68.61240000000001%
+
+	step 2
+
+step 1
+index added: 637
+percentage unclustered: 68.61240000000001%
+
+	step 2
+
+step 1
+index added: 638
+percentage unclustered: 68.5167%
+
+	step 2
+
+step 1
+index added: 639
+percentage unclustered: 68.4211%
+
+	step 2
+
+step 1
+index added: 640
+percentage unclustered: 68.4211%
+
+	step 2
+
+step 1
+index added: 641
+percentage unclustered: 68.3254%
+
+	step 2
+
+step 1
+index added: 642
+percentage unclustered: 68.3254%
+
+	step 2
+
+step 1
+index added: 643
+percentage unclustered: 68.22970000000001%
+
+	step 2
+
+step 1
+index added: 644
+percentage unclustered: 68.4211%
+
+	step 2
+
+step 1
+index added: 645
+percentage unclustered: 68.3254%
+
+	step 2
+
+step 1
+index added: 646
+percentage unclustered: 68.3254%
+
+	step 2
+
+step 1
+index added: 647
+percentage unclustered: 68.22970000000001%
+
+	step 2
+
+step 1
+index added: 648
+percentage unclustered: 68.3254%
+
+	step 2
+
+step 1
+index added: 649
+percentage unclustered: 68.3254%
+
+	step 2
+
+step 1
+index added: 650
+percentage unclustered: 68.22970000000001%
+
+	step 2
+
+step 1
+index added: 651
+percentage unclustered: 68.134%
+
+	step 2
+
+step 1
+index added: 652
+percentage unclustered: 68.134%
+
+	step 2
+
+step 1
+index added: 653
+percentage unclustered: 68.03829999999999%
+
+	step 2
+
+step 1
+index added: 654
+percentage unclustered: 68.03829999999999%
+
+	step 2
+
+step 1
+index added: 655
+percentage unclustered: 67.9426%
+
+	step 2
+
+step 1
+index added: 656
+percentage unclustered: 67.9426%
+
+	step 2
+
+step 1
+index added: 657
+percentage unclustered: 67.8469%
+
+	step 2
+
+step 1
+index added: 658
+percentage unclustered: 67.8469%
+
+	step 2
+
+step 1
+index added: 659
+percentage unclustered: 67.8469%
+
+	step 2
+
+step 1
+index added: 660
+percentage unclustered: 67.4641%
+
+	step 2
+
+step 1
+index added: 661
+percentage unclustered: 67.36840000000001%
+
+	step 2
+
+step 1
+index added: 662
+percentage unclustered: 67.36840000000001%
+
+	step 2
+
+step 1
+index added: 663
+percentage unclustered: 67.4641%
+
+	step 2
+
+step 1
+index added: 664
+percentage unclustered: 67.4641%
+
+	step 2
+
+step 1
+index added: 665
+percentage unclustered: 67.4641%
+
+	step 2
+
+step 1
+index added: 666
+percentage unclustered: 67.4641%
+
+	step 2
+
+step 1
+index added: 667
+percentage unclustered: 67.4641%
+
+	step 2
+
+step 1
+index added: 668
+percentage unclustered: 67.4641%
+
+	step 2
+
+step 1
+index added: 669
+percentage unclustered: 67.4641%
+
+	step 2
+
+step 1
+index added: 670
+percentage unclustered: 67.4641%
+
+	step 2
+
+step 1
+index added: 671
+percentage unclustered: 67.36840000000001%
+
+	step 2
+
+		step 3
+		candidate index: 671 with core nodes: [118, 511, 512, 671]
+			old information: 166, gain: 0.6856060606060606
+
+     ind                                             review  relevance
+0   511  album dixie chicks made real masterpiece far c...   0.639440
+1   530  politics big dixie chicks fan n nbut n nthey n...   0.595824
+2   512  m huge fan country always loved dixie chicks i...   0.582392
+3   105  first let get politics way freedom speech need...   0.578350
+4    37  heard dixie chicks lead singer natalie maines ...   0.570902
+5   142  long way around n ndisc 1 audio n nwelcome bac...   0.568699
+6    76  cd collection many genres different types musi...   0.562735
+7   453  yes great come back album music country nice c...   0.561543
+8   404  ok yes agree views reviews politics re music m...   0.558503
+9    97  first must say album stretch imagination good ...   0.552885
+10  281  finally finally finally n nreal honest music d...   0.549967
+11  198  admit first bought album grow quickly albums p...   0.521855
+12  595  love album chicks say re leaving country music...   0.518134
+13  121  like quite number reviewers m really country m...   0.512202
+14  671  great album natalie voice sounds better ever k...   0.510631
+15   66  even though country music usally thing fell lo...   0.502013
+16   80  dixie chicks never gained attention grammy alb...   0.494383
+17  186  bought taking long way first released last may...   0.478117
+18  301  far perfect dixie chicks return highly anticip...   0.445611
+19   44  truthfully never heard dixie chicks country mu...   0.443944
+20  329  hype surrounding chicks taking long way came e...   0.441024
+21  118  taking long way excellent one dixie chicks bes...   0.435936
+22  339  people get chicks criticized bush got huge amo...   0.410180
+23   40  find unbelievable dixie chicks still played co...   0.400279
+24  428  never dc fan n ni actually know before n ni he...   0.369262
+25  401  loved every song albumn n nthe words song pers...   0.360850
+26   31  music sound album incredible m traditional cou...   0.359602
+27  273  first dixie chicks cd awexome every song strik...   0.357865
+28   53  admit first dixie chicks album bought seeing d...   0.297501
+29  190  awesome cd different previous cd dixie chicks ...   0.255539
+30   26  awesome album well written recorded natalie so...   0.228607
+31  264  yeah know buying cd amazon puts less money poc...   0.213603
+32  474  loved m huge dixie fan probably years come gre...   0.204069
+33   19  love music love politics love represent hope a...   0.154701
+34   15  new country never genre music could embrace wh...   0.143978
+35   25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 672
+percentage unclustered: 67.36840000000001%
+
+	step 2
+
+step 1
+index added: 673
+percentage unclustered: 67.36840000000001%
+
+	step 2
+
+step 1
+index added: 674
+percentage unclustered: 67.2727%
+
+	step 2
+
+		step 3
+		candidate index: 674 with core nodes: [83, 134, 595]
+			old information: 582, gain: 0.8696528555431131
+
+     ind                                             review  relevance
+0   511  album dixie chicks made real masterpiece far c...   0.639440
+1   530  politics big dixie chicks fan n nbut n nthey n...   0.595824
+2   512  m huge fan country always loved dixie chicks i...   0.582392
+3   105  first let get politics way freedom speech need...   0.578350
+4    37  heard dixie chicks lead singer natalie maines ...   0.570902
+5   142  long way around n ndisc 1 audio n nwelcome bac...   0.568699
+6    76  cd collection many genres different types musi...   0.562735
+7   453  yes great come back album music country nice c...   0.561543
+8   404  ok yes agree views reviews politics re music m...   0.558503
+9    97  first must say album stretch imagination good ...   0.552885
+10  281  finally finally finally n nreal honest music d...   0.549967
+11  198  admit first bought album grow quickly albums p...   0.521855
+12  595  love album chicks say re leaving country music...   0.518134
+13  121  like quite number reviewers m really country m...   0.512202
+14  671  great album natalie voice sounds better ever k...   0.510631
+15   66  even though country music usally thing fell lo...   0.502013
+16   80  dixie chicks never gained attention grammy alb...   0.494383
+17  186  bought taking long way first released last may...   0.478117
+18  301  far perfect dixie chicks return highly anticip...   0.445611
+19   44  truthfully never heard dixie chicks country mu...   0.443944
+20  674  looking good music little bit moody country li...   0.442084
+21  329  hype surrounding chicks taking long way came e...   0.441024
+22  118  taking long way excellent one dixie chicks bes...   0.435936
+23  339  people get chicks criticized bush got huge amo...   0.410180
+24   40  find unbelievable dixie chicks still played co...   0.400279
+25  428  never dc fan n ni actually know before n ni he...   0.369262
+26  401  loved every song albumn n nthe words song pers...   0.360850
+27   31  music sound album incredible m traditional cou...   0.359602
+28  273  first dixie chicks cd awexome every song strik...   0.357865
+29   53  admit first dixie chicks album bought seeing d...   0.297501
+30  190  awesome cd different previous cd dixie chicks ...   0.255539
+31   26  awesome album well written recorded natalie so...   0.228607
+32  264  yeah know buying cd amazon puts less money poc...   0.213603
+33  474  loved m huge dixie fan probably years come gre...   0.204069
+34   19  love music love politics love represent hope a...   0.154701
+35   15  new country never genre music could embrace wh...   0.143978
+36   25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 675
+percentage unclustered: 67.2727%
+
+	step 2
+
+step 1
+index added: 676
+percentage unclustered: 67.17699999999999%
+
+	step 2
+
+step 1
+index added: 677
+percentage unclustered: 67.17699999999999%
+
+	step 2
+
+step 1
+index added: 678
+percentage unclustered: 67.17699999999999%
+
+	step 2
+
+step 1
+index added: 679
+percentage unclustered: 66.89%
+
+	step 2
+
+step 1
+index added: 680
+percentage unclustered: 66.89%
+
+	step 2
+
+step 1
+index added: 681
+percentage unclustered: 66.89%
+
+	step 2
+
+step 1
+index added: 682
+percentage unclustered: 66.79429999999999%
+
+	step 2
+
+step 1
+index added: 683
+percentage unclustered: 66.79429999999999%
+
+	step 2
+
+step 1
+index added: 684
+percentage unclustered: 66.79429999999999%
+
+	step 2
+
+step 1
+index added: 685
+percentage unclustered: 66.6986%
+
+	step 2
+
+step 1
+index added: 686
+percentage unclustered: 66.6986%
+
+	step 2
+
+step 1
+index added: 687
+percentage unclustered: 66.6986%
+
+	step 2
+
+step 1
+index added: 688
+percentage unclustered: 66.9856%
+
+	step 2
+
+step 1
+index added: 689
+percentage unclustered: 66.9856%
+
+	step 2
+
+step 1
+index added: 690
+percentage unclustered: 66.89%
+
+	step 2
+
+step 1
+index added: 691
+percentage unclustered: 66.79429999999999%
+
+	step 2
+
+step 1
+index added: 692
+percentage unclustered: 66.6986%
+
+	step 2
+
+step 1
+index added: 693
+percentage unclustered: 66.6029%
+
+	step 2
+
+step 1
+index added: 694
+percentage unclustered: 66.6029%
+
+	step 2
+
+step 1
+index added: 695
+percentage unclustered: 66.6029%
+
+	step 2
+
+step 1
+index added: 696
+percentage unclustered: 66.6029%
+
+	step 2
+
+step 1
+index added: 697
+percentage unclustered: 66.6986%
+
+	step 2
+
+step 1
+index added: 698
+percentage unclustered: 66.6986%
+
+	step 2
+
+step 1
+index added: 699
+percentage unclustered: 66.6986%
+
+	step 2
+
+step 1
+index added: 700
+percentage unclustered: 66.6986%
+
+	step 2
+
+step 1
+index added: 701
+percentage unclustered: 66.6986%
+
+	step 2
+
+step 1
+index added: 702
+percentage unclustered: 66.6029%
+
+	step 2
+
+step 1
+index added: 703
+percentage unclustered: 66.6029%
+
+	step 2
+
+step 1
+index added: 704
+percentage unclustered: 66.6029%
+
+	step 2
+
+step 1
+index added: 705
+percentage unclustered: 66.5072%
+
+	step 2
+
+step 1
+index added: 706
+percentage unclustered: 66.2201%
+
+	step 2
+
+step 1
+index added: 707
+percentage unclustered: 66.2201%
+
+	step 2
+
+step 1
+index added: 708
+percentage unclustered: 66.2201%
+
+	step 2
+
+step 1
+index added: 709
+percentage unclustered: 66.12440000000001%
+
+	step 2
+
+step 1
+index added: 710
+percentage unclustered: 66.12440000000001%
+
+	step 2
+
+step 1
+index added: 711
+percentage unclustered: 66.12440000000001%
+
+	step 2
+
+step 1
+index added: 712
+percentage unclustered: 66.12440000000001%
+
+	step 2
+
+step 1
+index added: 713
+percentage unclustered: 66.0287%
+
+	step 2
+
+step 1
+index added: 714
+percentage unclustered: 65.93299999999999%
+
+	step 2
+
+step 1
+index added: 715
+percentage unclustered: 66.0287%
+
+	step 2
+
+step 1
+index added: 716
+percentage unclustered: 65.7416%
+
+	step 2
+
+step 1
+index added: 717
+percentage unclustered: 65.7416%
+
+	step 2
+
+step 1
+index added: 718
+percentage unclustered: 65.6459%
+
+	step 2
+
+		step 3
+		candidate index: 718 with core nodes: [118, 511, 671, 718]
+			old information: 1011, gain: 0.7636746143057503
+
+     ind                                             review  relevance
+0   718  putting aside political views taking long way ...   0.640811
+1   511  album dixie chicks made real masterpiece far c...   0.639440
+2   530  politics big dixie chicks fan n nbut n nthey n...   0.595824
+3   512  m huge fan country always loved dixie chicks i...   0.582392
+4   105  first let get politics way freedom speech need...   0.578350
+5    37  heard dixie chicks lead singer natalie maines ...   0.570902
+6   142  long way around n ndisc 1 audio n nwelcome bac...   0.568699
+7    76  cd collection many genres different types musi...   0.562735
+8   453  yes great come back album music country nice c...   0.561543
+9   404  ok yes agree views reviews politics re music m...   0.558503
+10   97  first must say album stretch imagination good ...   0.552885
+11  281  finally finally finally n nreal honest music d...   0.549967
+12  198  admit first bought album grow quickly albums p...   0.521855
+13  595  love album chicks say re leaving country music...   0.518134
+14  121  like quite number reviewers m really country m...   0.512202
+15  671  great album natalie voice sounds better ever k...   0.510631
+16   66  even though country music usally thing fell lo...   0.502013
+17   80  dixie chicks never gained attention grammy alb...   0.494383
+18  186  bought taking long way first released last may...   0.478117
+19  301  far perfect dixie chicks return highly anticip...   0.445611
+20   44  truthfully never heard dixie chicks country mu...   0.443944
+21  674  looking good music little bit moody country li...   0.442084
+22  329  hype surrounding chicks taking long way came e...   0.441024
+23  118  taking long way excellent one dixie chicks bes...   0.435936
+24  339  people get chicks criticized bush got huge amo...   0.410180
+25   40  find unbelievable dixie chicks still played co...   0.400279
+26  428  never dc fan n ni actually know before n ni he...   0.369262
+27  401  loved every song albumn n nthe words song pers...   0.360850
+28   31  music sound album incredible m traditional cou...   0.359602
+29  273  first dixie chicks cd awexome every song strik...   0.357865
+30   53  admit first dixie chicks album bought seeing d...   0.297501
+31  190  awesome cd different previous cd dixie chicks ...   0.255539
+32   26  awesome album well written recorded natalie so...   0.228607
+33  264  yeah know buying cd amazon puts less money poc...   0.213603
+34  474  loved m huge dixie fan probably years come gre...   0.204069
+35   19  love music love politics love represent hope a...   0.154701
+36   15  new country never genre music could embrace wh...   0.143978
+37   25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 719
+percentage unclustered: 65.3589%
+
+	step 2
+
+step 1
+index added: 720
+percentage unclustered: 65.3589%
+
+	step 2
+
+step 1
+index added: 721
+percentage unclustered: 65.3589%
+
+	step 2
+
+step 1
+index added: 722
+percentage unclustered: 65.2632%
+
+	step 2
+
+step 1
+index added: 723
+percentage unclustered: 65.16749999999999%
+
+	step 2
+
+step 1
+index added: 724
+percentage unclustered: 65.16749999999999%
+
+	step 2
+
+step 1
+index added: 725
+percentage unclustered: 65.16749999999999%
+
+	step 2
+
+step 1
+index added: 726
+percentage unclustered: 65.3589%
+
+	step 2
+
+step 1
+index added: 727
+percentage unclustered: 65.3589%
+
+	step 2
+
+step 1
+index added: 728
+percentage unclustered: 65.3589%
+
+	step 2
+
+step 1
+index added: 729
+percentage unclustered: 65.3589%
+
+	step 2
+
+step 1
+index added: 730
+percentage unclustered: 65.3589%
+
+	step 2
+
+step 1
+index added: 731
+percentage unclustered: 65.3589%
+
+	step 2
+
+step 1
+index added: 732
+percentage unclustered: 65.3589%
+
+	step 2
+
+step 1
+index added: 733
+percentage unclustered: 65.2632%
+
+	step 2
+
+step 1
+index added: 734
+percentage unclustered: 65.16749999999999%
+
+	step 2
+
+step 1
+index added: 735
+percentage unclustered: 65.16749999999999%
+
+	step 2
+
+step 1
+index added: 736
+percentage unclustered: 65.16749999999999%
+
+	step 2
+
+step 1
+index added: 737
+percentage unclustered: 65.16749999999999%
+
+	step 2
+
+step 1
+index added: 738
+percentage unclustered: 65.16749999999999%
+
+	step 2
+
+step 1
+index added: 739
+percentage unclustered: 65.0718%
+
+	step 2
+
+step 1
+index added: 740
+percentage unclustered: 64.9761%
+
+	step 2
+
+step 1
+index added: 741
+percentage unclustered: 64.88040000000001%
+
+	step 2
+
+step 1
+index added: 742
+percentage unclustered: 64.4976%
+
+	step 2
+
+step 1
+index added: 743
+percentage unclustered: 64.4976%
+
+	step 2
+
+step 1
+index added: 744
+percentage unclustered: 64.4976%
+
+	step 2
+
+step 1
+index added: 745
+percentage unclustered: 64.4976%
+
+	step 2
+
+step 1
+index added: 746
+percentage unclustered: 65.0718%
+
+	step 2
+
+step 1
+index added: 747
+percentage unclustered: 64.9761%
+
+	step 2
+
+step 1
+index added: 748
+percentage unclustered: 64.9761%
+
+	step 2
+
+step 1
+index added: 749
+percentage unclustered: 64.9761%
+
+	step 2
+
+step 1
+index added: 750
+percentage unclustered: 64.9761%
+
+	step 2
+
+step 1
+index added: 751
+percentage unclustered: 64.88040000000001%
+
+	step 2
+
+step 1
+index added: 752
+percentage unclustered: 65.55019999999999%
+
+	step 2
+
+step 1
+index added: 753
+percentage unclustered: 65.55019999999999%
+
+	step 2
+
+step 1
+index added: 754
+percentage unclustered: 65.4545%
+
+	step 2
+
+step 1
+index added: 755
+percentage unclustered: 65.0718%
+
+	step 2
+
+		step 3
+		candidate index: 755 with core nodes: [118, 511, 671, 718]
+
+step 1
+index added: 756
+percentage unclustered: 65.0718%
+
+	step 2
+
+step 1
+index added: 757
+percentage unclustered: 64.9761%
+
+	step 2
+
+step 1
+index added: 758
+percentage unclustered: 64.88040000000001%
+
+	step 2
+
+step 1
+index added: 759
+percentage unclustered: 64.7847%
+
+	step 2
+
+step 1
+index added: 760
+percentage unclustered: 64.5933%
+
+	step 2
+
+step 1
+index added: 761
+percentage unclustered: 64.5933%
+
+	step 2
+
+step 1
+index added: 762
+percentage unclustered: 64.5933%
+
+	step 2
+
+step 1
+index added: 763
+percentage unclustered: 64.4976%
+
+	step 2
+
+step 1
+index added: 764
+percentage unclustered: 64.30619999999999%
+
+	step 2
+
+step 1
+index added: 765
+percentage unclustered: 64.30619999999999%
+
+	step 2
+
+step 1
+index added: 766
+percentage unclustered: 64.689%
+
+	step 2
+
+step 1
+index added: 767
+percentage unclustered: 64.689%
+
+	step 2
+
+step 1
+index added: 768
+percentage unclustered: 64.30619999999999%
+
+	step 2
+
+step 1
+index added: 769
+percentage unclustered: 64.30619999999999%
+
+	step 2
+
+step 1
+index added: 770
+percentage unclustered: 64.2105%
+
+	step 2
+
+step 1
+index added: 771
+percentage unclustered: 64.4976%
+
+	step 2
+
+step 1
+index added: 772
+percentage unclustered: 64.4019%
+
+	step 2
+
+step 1
+index added: 773
+percentage unclustered: 64.4019%
+
+	step 2
+
+step 1
+index added: 774
+percentage unclustered: 64.1148%
+
+	step 2
+
+step 1
+index added: 775
+percentage unclustered: 64.01910000000001%
+
+	step 2
+
+step 1
+index added: 776
+percentage unclustered: 64.01910000000001%
+
+	step 2
+
+step 1
+index added: 777
+percentage unclustered: 63.9234%
+
+	step 2
+
+step 1
+index added: 778
+percentage unclustered: 63.8278%
+
+	step 2
+
+step 1
+index added: 779
+percentage unclustered: 63.8278%
+
+	step 2
+
+step 1
+index added: 780
+percentage unclustered: 63.7321%
+
+	step 2
+
+step 1
+index added: 781
+percentage unclustered: 63.6364%
+
+	step 2
+
+step 1
+index added: 782
+percentage unclustered: 63.5407%
+
+	step 2
+
+step 1
+index added: 783
+percentage unclustered: 63.5407%
+
+	step 2
+
+step 1
+index added: 784
+percentage unclustered: 63.5407%
+
+	step 2
+
+step 1
+index added: 785
+percentage unclustered: 63.445%
+
+	step 2
+
+step 1
+index added: 786
+percentage unclustered: 63.1579%
+
+	step 2
+
+step 1
+index added: 787
+percentage unclustered: 63.1579%
+
+	step 2
+
+step 1
+index added: 788
+percentage unclustered: 63.1579%
+
+	step 2
+
+step 1
+index added: 789
+percentage unclustered: 62.6794%
+
+	step 2
+
+step 1
+index added: 790
+percentage unclustered: 62.6794%
+
+	step 2
+
+step 1
+index added: 791
+percentage unclustered: 62.5837%
+
+	step 2
+
+step 1
+index added: 792
+percentage unclustered: 62.5837%
+
+	step 2
+
+step 1
+index added: 793
+percentage unclustered: 62.488%
+
+	step 2
+
+step 1
+index added: 794
+percentage unclustered: 62.1053%
+
+	step 2
+
+step 1
+index added: 795
+percentage unclustered: 62.1053%
+
+	step 2
+
+step 1
+index added: 796
+percentage unclustered: 58.5646%
+
+	step 2
+
+step 1
+index added: 797
+percentage unclustered: 58.5646%
+
+	step 2
+
+step 1
+index added: 798
+percentage unclustered: 58.4689%
+
+	step 2
+
+		step 3
+		candidate index: 798 with core nodes: [118, 511, 671, 718]
+
+step 1
+index added: 799
+percentage unclustered: 58.3732%
+
+	step 2
+
+step 1
+index added: 800
+percentage unclustered: 58.3732%
+
+	step 2
+
+step 1
+index added: 801
+percentage unclustered: 58.6603%
+
+	step 2
+
+step 1
+index added: 802
+percentage unclustered: 58.6603%
+
+	step 2
+
+step 1
+index added: 803
+percentage unclustered: 58.6603%
+
+	step 2
+
+step 1
+index added: 804
+percentage unclustered: 58.5646%
+
+	step 2
+
+step 1
+index added: 805
+percentage unclustered: 58.4689%
+
+	step 2
+
+step 1
+index added: 806
+percentage unclustered: 58.3732%
+
+	step 2
+
+step 1
+index added: 807
+percentage unclustered: 58.2775%
+
+	step 2
+
+step 1
+index added: 808
+percentage unclustered: 58.2775%
+
+	step 2
+
+step 1
+index added: 809
+percentage unclustered: 58.2775%
+
+	step 2
+
+step 1
+index added: 810
+percentage unclustered: 58.1818%
+
+	step 2
+
+step 1
+index added: 811
+percentage unclustered: 58.1818%
+
+	step 2
+
+step 1
+index added: 812
+percentage unclustered: 57.8947%
+
+	step 2
+
+step 1
+index added: 813
+percentage unclustered: 57.8947%
+
+	step 2
+
+step 1
+index added: 814
+percentage unclustered: 57.8947%
+
+	step 2
+
+		step 3
+		candidate index: 814 with core nodes: [118, 511, 671, 718]
+
+step 1
+index added: 815
+percentage unclustered: 57.8947%
+
+	step 2
+
+step 1
+index added: 816
+percentage unclustered: 57.8947%
+
+	step 2
+
+step 1
+index added: 817
+percentage unclustered: 57.8947%
+
+	step 2
+
+step 1
+index added: 818
+percentage unclustered: 57.8947%
+
+	step 2
+
+step 1
+index added: 819
+percentage unclustered: 57.8947%
+
+	step 2
+
+step 1
+index added: 820
+percentage unclustered: 57.8947%
+
+	step 2
+
+step 1
+index added: 821
+percentage unclustered: 57.8947%
+
+	step 2
+
+step 1
+index added: 822
+percentage unclustered: 57.512%
+
+	step 2
+
+step 1
+index added: 823
+percentage unclustered: 57.2249%
+
+	step 2
+
+step 1
+index added: 824
+percentage unclustered: 57.1292%
+
+	step 2
+
+step 1
+index added: 825
+percentage unclustered: 57.0335%
+
+	step 2
+
+step 1
+index added: 826
+percentage unclustered: 56.9378%
+
+	step 2
+
+		step 3
+		candidate index: 826 with core nodes: [132, 595, 625]
+
+step 1
+index added: 827
+percentage unclustered: 56.9378%
+
+	step 2
+
+step 1
+index added: 828
+percentage unclustered: 56.9378%
+
+	step 2
+
+step 1
+index added: 829
+percentage unclustered: 56.8421%
+
+	step 2
+
+		step 3
+		candidate index: 829 with core nodes: [118, 511, 671, 718]
+
+step 1
+index added: 830
+percentage unclustered: 56.8421%
+
+	step 2
+
+		step 3
+		candidate index: 830 with core nodes: [118, 511, 671, 718]
+
+step 1
+index added: 831
+percentage unclustered: 56.8421%
+
+	step 2
+
+step 1
+index added: 832
+percentage unclustered: 56.8421%
+
+	step 2
+
+step 1
+index added: 833
+percentage unclustered: 56.7464%
+
+	step 2
+
+step 1
+index added: 834
+percentage unclustered: 56.7464%
+
+	step 2
+
+step 1
+index added: 835
+percentage unclustered: 56.7464%
+
+	step 2
+
+		step 3
+		candidate index: 835 with core nodes: [132, 595, 625]
+
+step 1
+index added: 836
+percentage unclustered: 56.7464%
+
+	step 2
+
+step 1
+index added: 837
+percentage unclustered: 56.7464%
+
+	step 2
+
+step 1
+index added: 838
+percentage unclustered: 56.7464%
+
+	step 2
+
+		step 3
+		candidate index: 838 with core nodes: [273, 436, 474, 838]
+			old information: 204, gain: 0.4188034188034188
+
+     ind                                             review  relevance
+0   718  putting aside political views taking long way ...   0.640811
+1   511  album dixie chicks made real masterpiece far c...   0.639440
+2   530  politics big dixie chicks fan n nbut n nthey n...   0.595824
+3   512  m huge fan country always loved dixie chicks i...   0.582392
+4   105  first let get politics way freedom speech need...   0.578350
+5    37  heard dixie chicks lead singer natalie maines ...   0.570902
+6   142  long way around n ndisc 1 audio n nwelcome bac...   0.568699
+7    76  cd collection many genres different types musi...   0.562735
+8   453  yes great come back album music country nice c...   0.561543
+9   404  ok yes agree views reviews politics re music m...   0.558503
+10   97  first must say album stretch imagination good ...   0.552885
+11  281  finally finally finally n nreal honest music d...   0.549967
+12  198  admit first bought album grow quickly albums p...   0.521855
+13  595  love album chicks say re leaving country music...   0.518134
+14  121  like quite number reviewers m really country m...   0.512202
+15  671  great album natalie voice sounds better ever k...   0.510631
+16   66  even though country music usally thing fell lo...   0.502013
+17   80  dixie chicks never gained attention grammy alb...   0.494383
+18  186  bought taking long way first released last may...   0.478117
+19  301  far perfect dixie chicks return highly anticip...   0.445611
+20   44  truthfully never heard dixie chicks country mu...   0.443944
+21  674  looking good music little bit moody country li...   0.442084
+22  329  hype surrounding chicks taking long way came e...   0.441024
+23  118  taking long way excellent one dixie chicks bes...   0.435936
+24  838  first song last great cd believe best never bo...   0.412064
+25  339  people get chicks criticized bush got huge amo...   0.410180
+26   40  find unbelievable dixie chicks still played co...   0.400279
+27  428  never dc fan n ni actually know before n ni he...   0.369262
+28  401  loved every song albumn n nthe words song pers...   0.360850
+29   31  music sound album incredible m traditional cou...   0.359602
+30  273  first dixie chicks cd awexome every song strik...   0.357865
+31   53  admit first dixie chicks album bought seeing d...   0.297501
+32  190  awesome cd different previous cd dixie chicks ...   0.255539
+33   26  awesome album well written recorded natalie so...   0.228607
+34  264  yeah know buying cd amazon puts less money poc...   0.213603
+35  474  loved m huge dixie fan probably years come gre...   0.204069
+36   19  love music love politics love represent hope a...   0.154701
+37   15  new country never genre music could embrace wh...   0.143978
+38   25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 839
+percentage unclustered: 56.3636%
+
+	step 2
+
+step 1
+index added: 840
+percentage unclustered: 56.3636%
+
+	step 2
+
+step 1
+index added: 841
+percentage unclustered: 56.3636%
+
+	step 2
+
+step 1
+index added: 842
+percentage unclustered: 56.2679%
+
+	step 2
+
+step 1
+index added: 843
+percentage unclustered: 56.2679%
+
+	step 2
+
+step 1
+index added: 844
+percentage unclustered: 56.1722%
+
+	step 2
+
+step 1
+index added: 845
+percentage unclustered: 56.1722%
+
+	step 2
+
+step 1
+index added: 846
+percentage unclustered: 56.0766%
+
+	step 2
+
+step 1
+index added: 847
+percentage unclustered: 55.9809%
+
+	step 2
+
+step 1
+index added: 848
+percentage unclustered: 55.8852%
+
+	step 2
+
+step 1
+index added: 849
+percentage unclustered: 55.8852%
+
+	step 2
+
+step 1
+index added: 850
+percentage unclustered: 55.5981%
+
+	step 2
+
+step 1
+index added: 851
+percentage unclustered: 55.5024%
+
+	step 2
+
+		step 3
+		candidate index: 851 with core nodes: [118, 511, 671, 718]
+
+step 1
+index added: 852
+percentage unclustered: 55.6938%
+
+	step 2
+
+step 1
+index added: 853
+percentage unclustered: 55.6938%
+
+	step 2
+
+step 1
+index added: 854
+percentage unclustered: 55.6938%
+
+	step 2
+
+step 1
+index added: 855
+percentage unclustered: 55.4067%
+
+	step 2
+
+		step 3
+		candidate index: 855 with core nodes: [132, 595, 625]
+
+step 1
+index added: 856
+percentage unclustered: 55.4067%
+
+	step 2
+
+step 1
+index added: 857
+percentage unclustered: 55.1196%
+
+	step 2
+
+step 1
+index added: 858
+percentage unclustered: 55.0239%
+
+	step 2
+
+step 1
+index added: 859
+percentage unclustered: 55.0239%
+
+	step 2
+
+step 1
+index added: 860
+percentage unclustered: 54.7368%
+
+	step 2
+
+step 1
+index added: 861
+percentage unclustered: 54.6411%
+
+	step 2
+
+step 1
+index added: 862
+percentage unclustered: 54.6411%
+
+	step 2
+
+step 1
+index added: 863
+percentage unclustered: 54.6411%
+
+	step 2
+
+step 1
+index added: 864
+percentage unclustered: 54.6411%
+
+	step 2
+
+step 1
+index added: 865
+percentage unclustered: 54.6411%
+
+	step 2
+
+step 1
+index added: 866
+percentage unclustered: 54.5455%
+
+	step 2
+
+step 1
+index added: 867
+percentage unclustered: 54.5455%
+
+	step 2
+
+step 1
+index added: 868
+percentage unclustered: 54.5455%
+
+	step 2
+
+step 1
+index added: 869
+percentage unclustered: 54.5455%
+
+	step 2
+
+step 1
+index added: 870
+percentage unclustered: 54.4498%
+
+	step 2
+
+step 1
+index added: 871
+percentage unclustered: 54.3541%
+
+	step 2
+
+step 1
+index added: 872
+percentage unclustered: 54.4498%
+
+	step 2
+
+step 1
+index added: 873
+percentage unclustered: 54.3541%
+
+	step 2
+
+step 1
+index added: 874
+percentage unclustered: 54.2584%
+
+	step 2
+
+step 1
+index added: 875
+percentage unclustered: 54.2584%
+
+	step 2
+
+step 1
+index added: 876
+percentage unclustered: 54.1627%
+
+	step 2
+
+step 1
+index added: 877
+percentage unclustered: 54.1627%
+
+	step 2
+
+step 1
+index added: 878
+percentage unclustered: 54.1627%
+
+	step 2
+
+step 1
+index added: 879
+percentage unclustered: 54.5455%
+
+	step 2
+
+step 1
+index added: 880
+percentage unclustered: 54.4498%
+
+	step 2
+
+step 1
+index added: 881
+percentage unclustered: 54.3541%
+
+	step 2
+
+step 1
+index added: 882
+percentage unclustered: 54.5455%
+
+	step 2
+
+step 1
+index added: 883
+percentage unclustered: 54.5455%
+
+	step 2
+
+step 1
+index added: 884
+percentage unclustered: 54.5455%
+
+	step 2
+
+step 1
+index added: 885
+percentage unclustered: 54.5455%
+
+	step 2
+
+step 1
+index added: 886
+percentage unclustered: 54.4498%
+
+	step 2
+
+step 1
+index added: 887
+percentage unclustered: 54.4498%
+
+	step 2
+
+step 1
+index added: 888
+percentage unclustered: 54.4498%
+
+	step 2
+
+step 1
+index added: 889
+percentage unclustered: 54.4498%
+
+	step 2
+
+step 1
+index added: 890
+percentage unclustered: 54.3541%
+
+	step 2
+
+		step 3
+		candidate index: 890 with core nodes: [132, 595, 625]
+
+step 1
+index added: 891
+percentage unclustered: 54.2584%
+
+	step 2
+
+step 1
+index added: 892
+percentage unclustered: 54.2584%
+
+	step 2
+
+step 1
+index added: 893
+percentage unclustered: 54.2584%
+
+	step 2
+
+step 1
+index added: 894
+percentage unclustered: 54.1627%
+
+	step 2
+
+step 1
+index added: 895
+percentage unclustered: 54.1627%
+
+	step 2
+
+step 1
+index added: 896
+percentage unclustered: 54.067%
+
+	step 2
+
+step 1
+index added: 897
+percentage unclustered: 54.067%
+
+	step 2
+
+step 1
+index added: 898
+percentage unclustered: 53.9713%
+
+	step 2
+
+step 1
+index added: 899
+percentage unclustered: 53.8756%
+
+	step 2
+
+		step 3
+		candidate index: 899 with core nodes: [362, 861, 899]
+			old information: 415, gain: 0.8618048618048618
+
+     ind                                             review  relevance
+0   718  putting aside political views taking long way ...   0.640811
+1   511  album dixie chicks made real masterpiece far c...   0.639440
+2   530  politics big dixie chicks fan n nbut n nthey n...   0.595824
+3   512  m huge fan country always loved dixie chicks i...   0.582392
+4   105  first let get politics way freedom speech need...   0.578350
+5    37  heard dixie chicks lead singer natalie maines ...   0.570902
+6   142  long way around n ndisc 1 audio n nwelcome bac...   0.568699
+7    76  cd collection many genres different types musi...   0.562735
+8   453  yes great come back album music country nice c...   0.561543
+9   404  ok yes agree views reviews politics re music m...   0.558503
+10   97  first must say album stretch imagination good ...   0.552885
+11  281  finally finally finally n nreal honest music d...   0.549967
+12  198  admit first bought album grow quickly albums p...   0.521855
+13  595  love album chicks say re leaving country music...   0.518134
+14  121  like quite number reviewers m really country m...   0.512202
+15  671  great album natalie voice sounds better ever k...   0.510631
+16  899  love love love n nbeginning end album proves c...   0.502590
+17   66  even though country music usally thing fell lo...   0.502013
+18   80  dixie chicks never gained attention grammy alb...   0.494383
+19  186  bought taking long way first released last may...   0.478117
+20  301  far perfect dixie chicks return highly anticip...   0.445611
+21   44  truthfully never heard dixie chicks country mu...   0.443944
+22  674  looking good music little bit moody country li...   0.442084
+23  329  hype surrounding chicks taking long way came e...   0.441024
+24  118  taking long way excellent one dixie chicks bes...   0.435936
+25  838  first song last great cd believe best never bo...   0.412064
+26  339  people get chicks criticized bush got huge amo...   0.410180
+27   40  find unbelievable dixie chicks still played co...   0.400279
+28  428  never dc fan n ni actually know before n ni he...   0.369262
+29  401  loved every song albumn n nthe words song pers...   0.360850
+30   31  music sound album incredible m traditional cou...   0.359602
+31  273  first dixie chicks cd awexome every song strik...   0.357865
+32   53  admit first dixie chicks album bought seeing d...   0.297501
+33  190  awesome cd different previous cd dixie chicks ...   0.255539
+34   26  awesome album well written recorded natalie so...   0.228607
+35  264  yeah know buying cd amazon puts less money poc...   0.213603
+36  474  loved m huge dixie fan probably years come gre...   0.204069
+37   19  love music love politics love represent hope a...   0.154701
+38   15  new country never genre music could embrace wh...   0.143978
+39   25  album absolutely amazing full heart talent bec...   0.119313
+
+step 1
+index added: 900
+percentage unclustered: 53.7799%
+
+	step 2
+
+step 1
+index added: 901
+percentage unclustered: 53.6842%
+
+	step 2
+
+step 1
+index added: 902
+percentage unclustered: 53.5885%
+
+	step 2
+
+step 1
+index added: 903
+percentage unclustered: 53.5885%
+
+	step 2
+
+step 1
+index added: 904
+percentage unclustered: 53.5885%
+
+	step 2
+
+step 1
+index added: 905
+percentage unclustered: 53.5885%
+
+	step 2
+
+step 1
+index added: 906
+percentage unclustered: 53.4928%
+
+	step 2
+
+step 1
+index added: 907
+percentage unclustered: 53.4928%
+
+	step 2
+
+step 1
+index added: 908
+percentage unclustered: 53.5885%
+
+	step 2
+
+step 1
+index added: 909
+percentage unclustered: 53.4928%
+
+	step 2
+
+step 1
+index added: 910
+percentage unclustered: 53.4928%
+
+	step 2
+
+step 1
+index added: 911
+percentage unclustered: 53.8756%
+
+	step 2
+
+step 1
+index added: 912
+percentage unclustered: 53.7799%
+
+	step 2
+
+step 1
+index added: 913
+percentage unclustered: 53.4928%
+
+	step 2
+
+		step 3
+		candidate index: 913 with core nodes: [273, 436, 474, 838]
+
+step 1
+index added: 914
+percentage unclustered: 53.3971%
+
+	step 2
+
+step 1
+index added: 915
+percentage unclustered: 53.3014%
+
+	step 2
+
+step 1
+index added: 916
+percentage unclustered: 53.3014%
+
+	step 2
+
+step 1
+index added: 917
+percentage unclustered: 53.3014%
+
+	step 2
+
+step 1
+index added: 918
+percentage unclustered: 53.3014%
+
+	step 2
+
+step 1
+index added: 919
+percentage unclustered: 53.3014%
+
+	step 2
+
+step 1
+index added: 920
+percentage unclustered: 53.3014%
+
+	step 2
+
+step 1
+index added: 921
+percentage unclustered: 52.9187%
+
+	step 2
+
+step 1
+index added: 922
+percentage unclustered: 52.823%
+
+	step 2
+
+step 1
+index added: 923
+percentage unclustered: 52.2488%
+
+	step 2
+
+step 1
+index added: 924
+percentage unclustered: 52.2488%
+
+	step 2
+
+step 1
+index added: 925
+percentage unclustered: 52.1531%
+
+	step 2
+
+step 1
+index added: 926
+percentage unclustered: 52.1531%
+
+	step 2
+
+step 1
+index added: 927
+percentage unclustered: 52.2488%
+
+	step 2
+
+step 1
+index added: 928
+percentage unclustered: 52.1531%
+
+	step 2
+
+step 1
+index added: 929
+percentage unclustered: 52.0574%
+
+	step 2
+
+		step 3
+		candidate index: 929 with core nodes: [118, 511, 671, 718]
+
+step 1
+index added: 930
+percentage unclustered: 52.1531%
+
+	step 2
+
+step 1
+index added: 931
+percentage unclustered: 51.7703%
+
+	step 2
+
+step 1
+index added: 932
+percentage unclustered: 51.7703%
+
+	step 2
+
+step 1
+index added: 933
+percentage unclustered: 51.7703%
+
+	step 2
+
+step 1
+index added: 934
+percentage unclustered: 51.0048%
+
+	step 2
+
+		step 3
+		candidate index: 934 with core nodes: [118, 511, 671, 718]
+
+step 1
+index added: 935
+percentage unclustered: 51.0048%
+
+	step 2
+
+step 1
+index added: 936
+percentage unclustered: 50.7177%
+
+	step 2
+
+step 1
+index added: 937
+percentage unclustered: 50.5263%
+
+	step 2
+
+step 1
+index added: 938
+percentage unclustered: 50.3349%
+
+	step 2
+
+step 1
+index added: 939
+percentage unclustered: 50.3349%
+
+	step 2
+
+step 1
+index added: 940
+percentage unclustered: 50.2392%
+
+	step 2
+
+step 1
+index added: 941
+percentage unclustered: 49.8565%
+
+	step 2
+
+		step 3
+		candidate index: 941 with core nodes: [118, 511, 671, 718]
+
+step 1
+index added: 942
+percentage unclustered: 49.9522%
+
+	step 2
+
+step 1
+index added: 943
+percentage unclustered: 49.9522%
+
+	step 2
+
+step 1
+index added: 944
+percentage unclustered: 49.5694%
+
+	step 2
+
+step 1
+index added: 945
+percentage unclustered: 49.5694%
+
+	step 2
+
+step 1
+index added: 946
+percentage unclustered: 49.5694%
+
+	step 2
+
+step 1
+index added: 947
+percentage unclustered: 49.4737%
+
+	step 2
+
+step 1
+index added: 948
+percentage unclustered: 49.1866%
+
+	step 2
+
+step 1
+index added: 949
+percentage unclustered: 49.0909%
+
+	step 2
+
+		step 3
+		candidate index: 949 with core nodes: [118, 511, 671, 718]
+
+step 1
+index added: 950
+percentage unclustered: 48.9952%
+
+	step 2
+
+		step 3
+		candidate index: 950 with core nodes: [118, 511, 671, 718]
+
+step 1
+index added: 951
+percentage unclustered: 48.8995%
+
+	step 2
+
+step 1
+index added: 952
+percentage unclustered: 48.8038%
+
+	step 2
+
+step 1
+index added: 953
+percentage unclustered: 48.8038%
+
+	step 2
+
+step 1
+index added: 954
+percentage unclustered: 48.6124%
+
+	step 2
+
+step 1
+index added: 955
+percentage unclustered: 48.6124%
+
+	step 2
+
+step 1
+index added: 956
+percentage unclustered: 48.5167%
+
+	step 2
+
+step 1
+index added: 957
+percentage unclustered: 48.5167%
+
+	step 2
+
+step 1
+index added: 958
+percentage unclustered: 48.4211%
+
+	step 2
+
+step 1
+index added: 959
+percentage unclustered: 48.3254%
+
+	step 2
+
+step 1
+index added: 960
+percentage unclustered: 48.2297%
+
+	step 2
+
+step 1
+index added: 961
+percentage unclustered: 48.134%
+
+	step 2
+
+step 1
+index added: 962
+percentage unclustered: 48.0383%
+
+	step 2
+
+step 1
+index added: 963
+percentage unclustered: 47.9426%
+
+	step 2
+
+step 1
+index added: 964
+percentage unclustered: 47.8469%
+
+	step 2
+
+step 1
+index added: 965
+percentage unclustered: 47.8469%
+
+	step 2
+
+step 1
+index added: 966
+percentage unclustered: 47.7512%
+
+	step 2
+
+step 1
+index added: 967
+percentage unclustered: 47.6555%
+
+	step 2
+
+		step 3
+		candidate index: 967 with core nodes: [118, 511, 671, 718]
+
+step 1
+index added: 968
+percentage unclustered: 47.6555%
+
+	step 2
+
+step 1
+index added: 969
+percentage unclustered: 47.5598%
+
+	step 2
+
+step 1
+index added: 970
+percentage unclustered: 47.4641%
+
+	step 2
+
+		step 3
+		candidate index: 970 with core nodes: [118, 511, 671, 718]
+
+step 1
+index added: 971
+percentage unclustered: 47.4641%
+
+	step 2
+
+step 1
+index added: 972
+percentage unclustered: 47.3684%
+
+	step 2
+
+step 1
+index added: 973
+percentage unclustered: 47.3684%
+
+	step 2
+
+step 1
+index added: 974
+percentage unclustered: 47.2727%
+
+	step 2
+
+step 1
+index added: 975
+percentage unclustered: 47.177%
+
+	step 2
+
+step 1
+index added: 976
+percentage unclustered: 47.0813%
+
+	step 2
+
+step 1
+index added: 977
+percentage unclustered: 46.9856%
+
+	step 2
+
+		step 3
+		candidate index: 977 with core nodes: [118, 511, 671, 718]
+
+step 1
+index added: 978
+percentage unclustered: 46.9856%
+
+	step 2
+
+step 1
+index added: 979
+percentage unclustered: 46.9856%
+
+	step 2
+
+step 1
+index added: 980
+percentage unclustered: 46.9856%
+
+	step 2
+
+step 1
+index added: 981
+percentage unclustered: 46.9856%
+
+	step 2
+
+step 1
+index added: 982
+percentage unclustered: 46.9856%
+
+	step 2
+
+step 1
+index added: 983
+percentage unclustered: 46.89%
+
+	step 2
+
+step 1
+index added: 984
+percentage unclustered: 46.7943%
+
+	step 2
+
+step 1
+index added: 985
+percentage unclustered: 47.0813%
+
+	step 2
+
+step 1
+index added: 986
+percentage unclustered: 46.9856%
+
+	step 2
+
+step 1
+index added: 987
+percentage unclustered: 46.89%
+
+	step 2
+
+step 1
+index added: 988
+percentage unclustered: 46.7943%
+
+	step 2
+
+step 1
+index added: 989
+percentage unclustered: 46.7943%
+
+	step 2
+
+step 1
+index added: 990
+percentage unclustered: 45.5502%
+
+	step 2
+
+step 1
+index added: 991
+percentage unclustered: 45.4545%
+
+	step 2
+
+step 1
+index added: 992
+percentage unclustered: 45.4545%
+
+	step 2
+
+step 1
+index added: 993
+percentage unclustered: 46.0287%
+
+	step 2
+
+step 1
+index added: 994
+percentage unclustered: 45.933%
+
+	step 2
+
+step 1
+index added: 995
+percentage unclustered: 45.7416%
+
+	step 2
+
+step 1
+index added: 996
+percentage unclustered: 45.5502%
+
+	step 2
+
+step 1
+index added: 997
+percentage unclustered: 45.5502%
+
+	step 2
+
+step 1
+index added: 998
+percentage unclustered: 45.4545%
+
+	step 2
+
+step 1
+index added: 999
+percentage unclustered: 45.4545%
+
+	step 2
+
+step 1
+index added: 1000
+percentage unclustered: 45.4545%
+
+	step 2
+
+step 1
+index added: 1001
+percentage unclustered: 46.0287%
+
+	step 2
+
+step 1
+index added: 1002
+percentage unclustered: 46.0287%
+
+	step 2
+
+step 1
+index added: 1003
+percentage unclustered: 46.0287%
+
+	step 2
+
+step 1
+index added: 1004
+percentage unclustered: 45.933%
+
+	step 2
+
+step 1
+index added: 1005
+percentage unclustered: 45.933%
+
+	step 2
+
+step 1
+index added: 1006
+percentage unclustered: 45.8373%
+
+	step 2
+
+step 1
+index added: 1007
+percentage unclustered: 45.8373%
+
+	step 2
+
+step 1
+index added: 1008
+percentage unclustered: 45.4545%
+
+	step 2
+
+step 1
+index added: 1009
+percentage unclustered: 45.4545%
+
+	step 2
+
+step 1
+index added: 1010
+percentage unclustered: 45.2632%
+
+	step 2
+
+step 1
+index added: 1011
+percentage unclustered: 45.2632%
+
+	step 2
+
+step 1
+index added: 1012
+percentage unclustered: 45.1675%
+
+	step 2
+
+step 1
+index added: 1013
+percentage unclustered: 45.1675%
+
+	step 2
+
+step 1
+index added: 1014
+percentage unclustered: 45.0718%
+
+	step 2
+
+step 1
+index added: 1015
+percentage unclustered: 45.0718%
+
+	step 2
+
+step 1
+index added: 1016
+percentage unclustered: 45.0718%
+
+	step 2
+
+step 1
+index added: 1017
+percentage unclustered: 44.9761%
+
+	step 2
+
+step 1
+index added: 1018
+percentage unclustered: 44.9761%
+
+	step 2
+
+step 1
+index added: 1019
+percentage unclustered: 44.9761%
+
+	step 2
+
+step 1
+index added: 1020
+percentage unclustered: 44.8804%
+
+	step 2
+
+step 1
+index added: 1021
+percentage unclustered: 44.7847%
+
+	step 2
+
+step 1
+index added: 1022
+percentage unclustered: 44.689%
+
+	step 2
+
+step 1
+index added: 1023
+percentage unclustered: 44.689%
+
+	step 2
+
+step 1
+index added: 1024
+percentage unclustered: 44.689%
+
+	step 2
+
+step 1
+index added: 1025
+percentage unclustered: 44.5933%
+
+	step 2
+
+step 1
+index added: 1026
+percentage unclustered: 44.5933%
+
+	step 2
+
+step 1
+index added: 1027
+percentage unclustered: 44.5933%
+
+	step 2
+
+step 1
+index added: 1028
+percentage unclustered: 44.0191%
+
+	step 2
+
+step 1
+index added: 1029
+percentage unclustered: 43.9234%
+
+	step 2
+
+step 1
+index added: 1030
+percentage unclustered: 43.8278%
+
+	step 2
+
+step 1
+index added: 1031
+percentage unclustered: 43.7321%
+
+	step 2
+
+step 1
+index added: 1032
+percentage unclustered: 43.7321%
+
+	step 2
+
+step 1
+index added: 1033
+percentage unclustered: 44.0191%
+
+	step 2
+
+step 1
+index added: 1034
+percentage unclustered: 43.9234%
+
+	step 2
+
+		step 3
+		candidate index: 1034 with core nodes: [118, 511, 671, 718]
+
+step 1
+index added: 1035
+percentage unclustered: 43.9234%
+
+	step 2
+
+step 1
+index added: 1036
+percentage unclustered: 43.9234%
+
+	step 2
+
+step 1
+index added: 1037
+percentage unclustered: 43.8278%
+
+	step 2
+
+step 1
+index added: 1038
+percentage unclustered: 43.5407%
+
+	step 2
+
+step 1
+index added: 1039
+percentage unclustered: 43.445%
+
+	step 2
+
+step 1
+index added: 1040
+percentage unclustered: 43.445%
+
+	step 2
+
+step 1
+index added: 1041
+percentage unclustered: 43.3493%
+
+	step 2
+
+step 1
+index added: 1042
+percentage unclustered: 43.3493%
+
+	step 2
+
+step 1
+index added: 1043
+percentage unclustered: 43.2536%
+
+	step 2
+
+		step 3
+		candidate index: 1043 with core nodes: [118, 511, 671, 718]
+
+step 1
+index added: 1044
+percentage unclustered: 42.9665%
+
+	step 2
+
+--- 42975.91912770271 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 99.7129, 99.7129, 99.7129, 99.7129, 99.4258, 99.4258, 99.4258, 99.4258, 99.4258, 99.4258, 99.3301, 99.2344, 99.2344, 99.2344, 99.2344, 99.2344, 99.1388, 99.1388, 99.1388, 99.1388, 99.1388, 98.8517, 98.756, 98.756, 98.756, 98.6603, 98.6603, 98.6603, 98.5646, 98.4689, 98.3732, 98.3732, 98.2775, 98.1818, 98.0861, 97.9904, 97.9904, 97.9904, 97.8947, 97.799, 97.799, 97.799, 97.799, 97.7033, 97.6077, 97.512, 97.512, 97.4163, 97.3206, 97.3206, 97.3206, 97.2249, 97.1292, 97.0335, 96.9378, 96.9378, 96.9378, 96.9378, 96.8421, 96.8421, 96.8421, 96.4593, 96.4593, 96.4593, 96.3636, 96.2679, 96.1722, 96.0766, 96.0766, 95.9809, 95.9809, 95.8852, 96.1722, 96.0766, 96.0766, 96.0766, 95.9809, 95.9809, 95.8852, 95.8852, 95.4067, 95.4067, 95.311, 95.311, 95.311, 95.2153, 95.1196, 94.9282, 94.9282, 94.9282, 94.8325, 94.8325, 94.8325, 94.8325, 94.8325, 94.7368, 94.7368, 94.8325, 94.7368, 94.4498, 94.3541, 94.3541, 94.3541, 94.2584, 94.2584, 94.1627, 94.06700000000001, 94.06700000000001, 93.7799, 93.7799, 93.6842, 93.5885, 93.5885, 93.5885, 93.5885, 93.5885, 93.5885, 93.5885, 93.4928, 93.4928, 93.4928, 93.4928, 93.3971, 93.3971, 93.3014, 93.3014, 93.20570000000001, 93.11, 93.11, 93.11, 93.11, 93.11, 93.11, 93.0144, 93.3014, 93.20570000000001, 92.9187, 92.9187, 92.9187, 92.82300000000001, 92.7273, 92.7273, 92.6316, 92.5359, 92.4402, 92.4402, 92.1531, 92.1531, 92.1531, 91.6746, 91.5789, 91.4833, 91.3876, 91.3876, 91.2919, 91.2919, 91.2919, 91.2919, 91.1962, 91.1005, 91.1005, 91.1005, 91.1962, 90.9091, 90.9091, 90.9091, 90.8134, 90.5263, 90.5263, 90.5263, 90.4306, 90.622, 90.71770000000001, 90.622, 90.2392, 90.1435, 90.1435, 90.1435, 90.1435, 89.7608, 89.7608, 89.7608, 89.6651, 89.5694, 89.5694, 89.5694, 89.5694, 89.5694, 89.5694, 89.4737, 89.378, 89.28229999999999, 89.1866, 89.1866, 89.1866, 89.0909, 89.0909, 88.9952, 88.9952, 88.9952, 88.9952, 88.9952, 88.9952, 88.7081, 88.8038, 88.8038, 88.8038, 88.7081, 88.6124, 88.6124, 88.5167, 88.03829999999999, 87.9426, 87.8469, 87.7512, 87.6555, 87.5598, 87.4641, 87.4641, 87.4641, 87.3684, 87.2727, 87.17699999999999, 87.17699999999999, 87.17699999999999, 87.0813, 86.9856, 86.6986, 86.6029, 86.9856, 86.9856, 86.9856, 86.9856, 86.9856, 86.79429999999999, 86.79429999999999, 86.79429999999999, 86.6986, 86.6986, 86.6029, 86.5072, 86.4115, 86.3158, 86.2201, 86.2201, 86.1244, 86.0287, 86.0287, 85.93299999999999, 85.8373, 85.8373, 85.7416, 85.7416, 85.4545, 85.4545, 85.3589, 85.2632, 85.2632, 85.2632, 85.1675, 85.1675, 84.7847, 84.689, 84.8804, 84.8804, 84.8804, 84.5933, 85.3589, 85.2632, 85.2632, 85.2632, 85.1675, 85.1675, 85.1675, 85.0718, 84.9761, 84.9761, 84.8804, 84.8804, 84.7847, 84.689, 84.689, 84.5933, 84.4976, 84.4019, 84.4019, 84.0191, 84.0191, 84.0191, 84.1148, 84.0191, 83.6364, 83.5407, 83.445, 83.3493, 83.2536, 83.2536, 83.1579, 83.0622, 82.7751, 82.7751, 82.7751, 82.7751, 82.6794, 82.7751, 82.7751, 82.7751, 82.7751, 82.6794, 82.6794, 82.7751, 82.7751, 82.7751, 82.488, 82.3923, 82.3923, 82.3923, 82.3923, 82.1053, 82.3923, 82.3923, 82.3923, 82.3923, 82.2967, 82.201, 82.201, 82.201, 82.201, 82.201, 82.1053, 82.1053, 82.1053, 82.0096, 82.0096, 82.0096, 82.0096, 82.0096, 82.0096, 82.0096, 81.9139, 81.8182, 81.7225, 81.4354, 81.4354, 81.4354, 81.1483, 81.1483, 81.1483, 81.244, 81.244, 81.5311, 81.4354, 81.3397, 81.3397, 81.244, 81.5311, 81.4354, 81.3397, 81.0526, 81.0526, 80.9569, 80.9569, 80.8612, 80.8612, 80.8612, 80.4785, 80.4785, 80.4785, 80.2871, 80.1914, 80.0957, 79.9043, 79.8086, 79.8086, 79.7129, 79.6172, 79.5215, 79.5215, 79.5215, 79.5215, 79.5215, 79.5215, 79.5215, 79.4258, 79.3301, 79.3301, 79.2344, 79.2344, 79.3301, 79.2344, 79.1388, 79.0431, 78.3732, 78.2775, 78.1818, 78.0861, 78.0861, 77.9904, 77.9904, 77.9904, 77.8947, 77.8947, 77.6077, 77.6077, 77.3206, 77.2249, 77.2249, 77.6077, 77.512, 77.4163, 77.512, 77.4163, 77.3206, 77.2249, 77.1292, 76.8421, 76.8421, 76.8421, 76.8421, 76.7464, 76.6507, 76.555, 76.555, 76.4593, 76.1722, 76.0766, 76.0766, 75.7895, 75.7895, 75.7895, 75.7895, 75.6938, 75.6938, 75.5981, 75.5024, 75.5024, 75.2153, 74.6411, 74.5455, 74.4498, 74.3541, 74.3541, 74.3541, 74.4498, 74.4498, 74.3541, 74.2584, 74.2584, 74.1627, 74.3541, 74.3541, 74.2584, 74.1627, 74.1627, 74.06700000000001, 74.06700000000001, 73.9713, 74.1627, 74.1627, 74.06700000000001, 74.06700000000001, 73.9713, 73.9713, 74.06700000000001, 73.9713, 73.6842, 73.6842, 73.4928, 73.3971, 73.3014, 73.3014, 73.20570000000001, 73.20570000000001, 72.82300000000001, 72.82300000000001, 72.9187, 72.9187, 72.9187, 72.82300000000001, 72.7273, 72.7273, 72.7273, 72.7273, 72.7273, 72.63159999999999, 72.63159999999999, 72.1531, 72.1531, 71.96170000000001, 71.866, 71.77029999999999, 71.6746, 71.6746, 71.6746, 71.6746, 71.5789, 71.4833, 71.38759999999999, 74.1627, 74.06700000000001, 73.9713, 73.9713, 73.6842, 73.5885, 73.5885, 73.5885, 73.20570000000001, 73.11, 73.0144, 72.9187, 72.9187, 72.9187, 72.82300000000001, 72.82300000000001, 72.7273, 72.63159999999999, 72.63159999999999, 72.5359, 72.4402, 72.4402, 72.3445, 72.3445, 72.3445, 72.2488, 72.1531, 72.0574, 72.0574, 71.96170000000001, 71.77029999999999, 71.38759999999999, 71.2919, 71.1962, 70.9091, 70.8134, 70.8134, 70.71770000000001, 70.71770000000001, 70.71770000000001, 70.71770000000001, 70.71770000000001, 70.71770000000001, 70.71770000000001, 70.71770000000001, 70.71770000000001, 70.71770000000001, 70.71770000000001, 70.71770000000001, 70.622, 70.622, 70.71770000000001, 70.71770000000001, 70.622, 71.96170000000001, 71.96170000000001, 71.866, 71.866, 71.866, 71.5789, 71.4833, 71.38759999999999, 71.38759999999999, 71.2919, 71.1962, 71.1962, 71.1005, 70.8134, 70.8134, 70.8134, 70.8134, 70.8134, 70.8134, 70.71770000000001, 70.622, 70.71770000000001, 70.71770000000001, 70.71770000000001, 70.71770000000001, 70.71770000000001, 70.71770000000001, 70.622, 70.1435, 70.1435, 70.1435, 70.1435, 70.0478, 69.9522, 69.8565, 69.8565, 69.8565, 69.8565, 69.8565, 69.8565, 69.8565, 69.7608, 69.7608, 69.7608, 69.7608, 69.7608, 69.7608, 69.7608, 69.6651, 69.5694, 69.5694, 69.47370000000001, 69.378, 69.378, 69.28229999999999, 69.1866, 69.1866, 69.1866, 69.1866, 69.0909, 69.0909, 69.0909, 69.0909, 69.0909, 68.9952, 68.8995, 68.8038, 68.8038, 68.7081, 68.61240000000001, 68.61240000000001, 68.5167, 68.4211, 68.4211, 68.3254, 68.3254, 68.22970000000001, 68.4211, 68.3254, 68.3254, 68.22970000000001, 68.3254, 68.3254, 68.22970000000001, 68.134, 68.134, 68.03829999999999, 68.03829999999999, 67.9426, 67.9426, 67.8469, 67.8469, 67.8469, 67.4641, 67.36840000000001, 67.36840000000001, 67.4641, 67.4641, 67.4641, 67.4641, 67.4641, 67.4641, 67.4641, 67.4641, 67.36840000000001, 67.36840000000001, 67.36840000000001, 67.2727, 67.2727, 67.17699999999999, 67.17699999999999, 67.17699999999999, 66.89, 66.89, 66.89, 66.79429999999999, 66.79429999999999, 66.79429999999999, 66.6986, 66.6986, 66.6986, 66.9856, 66.9856, 66.89, 66.79429999999999, 66.6986, 66.6029, 66.6029, 66.6029, 66.6029, 66.6986, 66.6986, 66.6986, 66.6986, 66.6986, 66.6029, 66.6029, 66.6029, 66.5072, 66.2201, 66.2201, 66.2201, 66.12440000000001, 66.12440000000001, 66.12440000000001, 66.12440000000001, 66.0287, 65.93299999999999, 66.0287, 65.7416, 65.7416, 65.6459, 65.3589, 65.3589, 65.3589, 65.2632, 65.16749999999999, 65.16749999999999, 65.16749999999999, 65.3589, 65.3589, 65.3589, 65.3589, 65.3589, 65.3589, 65.3589, 65.2632, 65.16749999999999, 65.16749999999999, 65.16749999999999, 65.16749999999999, 65.16749999999999, 65.0718, 64.9761, 64.88040000000001, 64.4976, 64.4976, 64.4976, 64.4976, 65.0718, 64.9761, 64.9761, 64.9761, 64.9761, 64.88040000000001, 65.55019999999999, 65.55019999999999, 65.4545, 65.0718, 65.0718, 64.9761, 64.88040000000001, 64.7847, 64.5933, 64.5933, 64.5933, 64.4976, 64.30619999999999, 64.30619999999999, 64.689, 64.689, 64.30619999999999, 64.30619999999999, 64.2105, 64.4976, 64.4019, 64.4019, 64.1148, 64.01910000000001, 64.01910000000001, 63.9234, 63.8278, 63.8278, 63.7321, 63.6364, 63.5407, 63.5407, 63.5407, 63.445, 63.1579, 63.1579, 63.1579, 62.6794, 62.6794, 62.5837, 62.5837, 62.488, 62.1053, 62.1053, 58.5646, 58.5646, 58.4689, 58.3732, 58.3732, 58.6603, 58.6603, 58.6603, 58.5646, 58.4689, 58.3732, 58.2775, 58.2775, 58.2775, 58.1818, 58.1818, 57.8947, 57.8947, 57.8947, 57.8947, 57.8947, 57.8947, 57.8947, 57.8947, 57.8947, 57.8947, 57.512, 57.2249, 57.1292, 57.0335, 56.9378, 56.9378, 56.9378, 56.8421, 56.8421, 56.8421, 56.8421, 56.7464, 56.7464, 56.7464, 56.7464, 56.7464, 56.7464, 56.3636, 56.3636, 56.3636, 56.2679, 56.2679, 56.1722, 56.1722, 56.0766, 55.9809, 55.8852, 55.8852, 55.5981, 55.5024, 55.6938, 55.6938, 55.6938, 55.4067, 55.4067, 55.1196, 55.0239, 55.0239, 54.7368, 54.6411, 54.6411, 54.6411, 54.6411, 54.6411, 54.5455, 54.5455, 54.5455, 54.5455, 54.4498, 54.3541, 54.4498, 54.3541, 54.2584, 54.2584, 54.1627, 54.1627, 54.1627, 54.5455, 54.4498, 54.3541, 54.5455, 54.5455, 54.5455, 54.5455, 54.4498, 54.4498, 54.4498, 54.4498, 54.3541, 54.2584, 54.2584, 54.2584, 54.1627, 54.1627, 54.067, 54.067, 53.9713, 53.8756, 53.7799, 53.6842, 53.5885, 53.5885, 53.5885, 53.5885, 53.4928, 53.4928, 53.5885, 53.4928, 53.4928, 53.8756, 53.7799, 53.4928, 53.3971, 53.3014, 53.3014, 53.3014, 53.3014, 53.3014, 53.3014, 52.9187, 52.823, 52.2488, 52.2488, 52.1531, 52.1531, 52.2488, 52.1531, 52.0574, 52.1531, 51.7703, 51.7703, 51.7703, 51.0048, 51.0048, 50.7177, 50.5263, 50.3349, 50.3349, 50.2392, 49.8565, 49.9522, 49.9522, 49.5694, 49.5694, 49.5694, 49.4737, 49.1866, 49.0909, 48.9952, 48.8995, 48.8038, 48.8038, 48.6124, 48.6124, 48.5167, 48.5167, 48.4211, 48.3254, 48.2297, 48.134, 48.0383, 47.9426, 47.8469, 47.8469, 47.7512, 47.6555, 47.6555, 47.5598, 47.4641, 47.4641, 47.3684, 47.3684, 47.2727, 47.177, 47.0813, 46.9856, 46.9856, 46.9856, 46.9856, 46.9856, 46.9856, 46.89, 46.7943, 47.0813, 46.9856, 46.89, 46.7943, 46.7943, 45.5502, 45.4545, 45.4545, 46.0287, 45.933, 45.7416, 45.5502, 45.5502, 45.4545, 45.4545, 45.4545, 46.0287, 46.0287, 46.0287, 45.933, 45.933, 45.8373, 45.8373, 45.4545, 45.4545, 45.2632, 45.2632, 45.1675, 45.1675, 45.0718, 45.0718, 45.0718, 44.9761, 44.9761, 44.9761, 44.8804, 44.7847, 44.689, 44.689, 44.689, 44.5933, 44.5933, 44.5933, 44.0191, 43.9234, 43.8278, 43.7321, 43.7321, 44.0191, 43.9234, 43.9234, 43.9234, 43.8278, 43.5407, 43.445, 43.445, 43.3493, 43.3493, 43.2536, 42.9665], mean: 73.1394
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0       550  718   0.640811  putting aside political views taking long way ...
+1       147  511   0.639440  album dixie chicks made real masterpiece far c...
+2       118  530   0.595824  politics big dixie chicks fan n nbut n nthey n...
+3       162  512   0.582392  m huge fan country always loved dixie chicks i...
+4       282  105   0.578350  first let get politics way freedom speech need...
+5       962   37   0.570902  heard dixie chicks lead singer natalie maines ...
+6       645  142   0.568699  long way around n ndisc 1 audio n nwelcome bac...
+7       967   76   0.562735  cd collection many genres different types musi...
+8       536  453   0.561543  yes great come back album music country nice c...
+9       853  404   0.558503  ok yes agree views reviews politics re music m...
+10      970   97   0.552885  first must say album stretch imagination good ...
+11      325  281   0.549967  finally finally finally n nreal honest music d...
+12      773  198   0.521855  admit first bought album grow quickly albums p...
+13      603  595   0.518134  love album chicks say re leaving country music...
+14      321  121   0.512202  like quite number reviewers m really country m...
+15      800  671   0.510631  great album natalie voice sounds better ever k...
+16      348  899   0.502590  love love love n nbeginning end album proves c...
+17      765   66   0.502013  even though country music usally thing fell lo...
+18      883   80   0.494383  dixie chicks never gained attention grammy alb...
+19      893  186   0.478117  bought taking long way first released last may...
+20      979  301   0.445611  far perfect dixie chicks return highly anticip...
+21      879   44   0.443944  truthfully never heard dixie chicks country mu...
+22      427  674   0.442084  looking good music little bit moody country li...
+23      939  329   0.441024  hype surrounding chicks taking long way came e...
+24      577  118   0.435936  taking long way excellent one dixie chicks bes...
+25      507  838   0.412064  first song last great cd believe best never bo...
+26      980  339   0.410180  people get chicks criticized bush got huge amo...
+27      705   40   0.400279  find unbelievable dixie chicks still played co...
+28      535  428   0.369262  never dc fan n ni actually know before n ni he...
+29      533  401   0.360850  loved every song albumn n nthe words song pers...
+30      961   31   0.359602  music sound album incredible m traditional cou...
+31      843  273   0.357865  first dixie chicks cd awexome every song strik...
+32      997   53   0.297501  admit first dixie chicks album bought seeing d...
+33      649  190   0.255539  awesome cd different previous cd dixie chicks ...
+34      960   26   0.228607  awesome album well written recorded natalie so...
+35      842  264   0.213603  yeah know buying cd amazon puts less money poc...
+36      983  474   0.204069  loved m huge dixie fan probably years come gre...
+37      958   19   0.154701  love music love politics love represent hope a...
+38      988   15   0.143978  new country never genre music could embrace wh...
+39      959   25   0.119313  album absolutely amazing full heart talent bec...

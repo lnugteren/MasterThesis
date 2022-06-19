@@ -1,0 +1,376 @@
+------- Category: CDs_and_Vinyl -------
+Found asin_id: B000002KOO
+Shape:  (50, 7)
+
+
+Chosen product: B000002KOO has 50 reviews - True
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 94.0%
+
+	step 2
+
+		step 3
+		candidate index: 5 with core nodes: [3, 4, 5]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   5  well maybe live boston tea party vol 1 rivals ...   0.190444
+
+step 1
+index added: 6
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 94.0%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [3, 4, 9]
+			old information: 356, gain: 0.9943343677886528
+
+   ind                                             review  relevance
+0   9  review date 2013 deluxe edition release n nthi...   0.314464
+1   5  well maybe live boston tea party vol 1 rivals ...   0.190444
+
+step 1
+index added: 10
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 92.0%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [3, 4, 9, 12]
+			old information: 1885, gain: 0.9838062592888499
+
+   ind                                             review  relevance
+0  12  fleetwood mac then play deluxe edition anyone ...   0.465437
+1   9  review date 2013 deluxe edition release n nthi...   0.314464
+2   5  well maybe live boston tea party vol 1 rivals ...   0.190444
+
+step 1
+index added: 13
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 84.0%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [3, 9, 12, 13]
+
+step 1
+index added: 17
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 76.0%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [8, 12, 13]
+			old information: 855, gain: 0.8085106382978723
+
+   ind                                             review  relevance
+0  21  1969 legendary classic finally gotten treatmen...   0.493027
+1  12  fleetwood mac then play deluxe edition anyone ...   0.465437
+2   9  review date 2013 deluxe edition release n nthi...   0.314464
+3   5  well maybe live boston tea party vol 1 rivals ...   0.190444
+
+step 1
+index added: 22
+percentage unclustered: 76.0%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 76.0%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 76.0%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [8, 12, 13, 24]
+			old information: 3174, gain: 0.969269497022801
+
+   ind                                             review  relevance
+0  24  read reviews play describe album five star cla...   0.600753
+1  21  1969 legendary classic finally gotten treatmen...   0.493027
+2  12  fleetwood mac then play deluxe edition anyone ...   0.465437
+3   9  review date 2013 deluxe edition release n nthi...   0.314464
+4   5  well maybe live boston tea party vol 1 rivals ...   0.190444
+
+step 1
+index added: 25
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [8, 13, 24, 33]
+			old information: 3608, gain: 0.898397679592239
+
+   ind                                             review  relevance
+0  33  first would become list memorable lineup chang...   0.622444
+1  24  read reviews play describe album five star cla...   0.600753
+2  21  1969 legendary classic finally gotten treatmen...   0.493027
+3  12  fleetwood mac then play deluxe edition anyone ...   0.465437
+4   9  review date 2013 deluxe edition release n nthi...   0.314464
+5   5  well maybe live boston tea party vol 1 rivals ...   0.190444
+
+step 1
+index added: 34
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 78.0%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [8, 13, 24, 33]
+
+step 1
+index added: 37
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 76.0%
+
+	step 2
+
+		step 3
+		candidate index: 42 with core nodes: [8, 13, 24, 33]
+
+step 1
+index added: 43
+percentage unclustered: 68.0%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [8, 13, 24, 33, 38]
+
+step 1
+index added: 44
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 66.0%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [8, 13, 24, 33, 38]
+
+step 1
+index added: 48
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 52.0%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [13, 24, 25, 33]
+
+--- 138.0893850326538 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 94.0, 94.0, 94.0, 100.0, 94.0, 94.0, 94.0, 92.0, 92.0, 92.0, 92.0, 84.0, 84.0, 84.0, 84.0, 84.0, 76.0, 76.0, 76.0, 76.0, 82.0, 82.0, 82.0, 82.0, 82.0, 82.0, 82.0, 82.0, 80.0, 80.0, 80.0, 78.0, 78.0, 78.0, 78.0, 78.0, 78.0, 76.0, 68.0, 68.0, 68.0, 68.0, 66.0, 66.0, 52.0], mean: 82.3333
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0       48  33   0.622444  first would become list memorable lineup chang...
+1       38  24   0.600753  read reviews play describe album five star cla...
+2       29  21   0.493027  1969 legendary classic finally gotten treatmen...
+3       19  12   0.465437  fleetwood mac then play deluxe edition anyone ...
+4       15   9   0.314464  review date 2013 deluxe edition release n nthi...
+5       12   5   0.190444  well maybe live boston tea party vol 1 rivals ...

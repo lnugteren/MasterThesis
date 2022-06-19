@@ -1,0 +1,1826 @@
+------- Category: CDs_and_Vinyl -------
+Found asin_id: B00BKBCGDW
+Shape:  (253, 7)
+
+
+Chosen product: B00BKBCGDW has 253 reviews - True
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 100.0%
+
+step 1
+index added: 13
+percentage unclustered: 100.0%
+
+step 1
+index added: 14
+percentage unclustered: 100.0%
+
+step 1
+index added: 15
+percentage unclustered: 100.0%
+
+step 1
+index added: 16
+percentage unclustered: 100.0%
+
+step 1
+index added: 17
+percentage unclustered: 98.419%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [0, 3, 13, 17]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  17  geoff tate solo album eh bad queensryche album...   0.322024
+
+step 1
+index added: 18
+percentage unclustered: 98.419%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 98.419%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 98.419%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 98.419%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 98.8142%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 98.8142%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 98.8142%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 98.8142%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 98.8142%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 98.8142%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 98.8142%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 98.8142%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 97.6285%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [3, 7, 17, 19, 30]
+			old information: 1, gain: 0.9987179487179487
+
+   ind                                             review  relevance
+0  17  geoff tate solo album eh bad queensryche album...   0.322024
+1  30  amazing record combined record sales individua...   0.167123
+
+step 1
+index added: 31
+percentage unclustered: 97.6285%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 98.419%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [7, 19, 30, 32]
+			old information: 27, gain: 0.9934065934065934
+
+   ind                                             review  relevance
+0  32  name queensyrche horrible fu title rate 1 wait...   0.408151
+1  17  geoff tate solo album eh bad queensryche album...   0.322024
+2  30  amazing record combined record sales individua...   0.167123
+
+step 1
+index added: 33
+percentage unclustered: 97.2332%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [7, 19, 22, 32]
+
+step 1
+index added: 34
+percentage unclustered: 96.0474%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [0, 7, 19, 32, 34]
+			old information: 54, gain: 0.9694915254237289
+
+   ind                                             review  relevance
+0  32  name queensyrche horrible fu title rate 1 wait...   0.408151
+1  17  geoff tate solo album eh bad queensryche album...   0.322024
+2  34  usually like give cd couple listens make mind ...   0.292295
+3  30  amazing record combined record sales individua...   0.167123
+
+step 1
+index added: 35
+percentage unclustered: 94.4664%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [17, 18, 32, 35]
+			old information: 52, gain: 0.9073083778966132
+
+   ind                                             review  relevance
+0  35  good solo album geoff tate gave two stars rele...   0.480022
+1  32  name queensyrche horrible fu title rate 1 wait...   0.408151
+2  17  geoff tate solo album eh bad queensryche album...   0.322024
+3  34  usually like give cd couple listens make mind ...   0.292295
+4  30  amazing record combined record sales individua...   0.167123
+
+step 1
+index added: 36
+percentage unclustered: 94.4664%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 93.6759%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [17, 18, 32, 35]
+
+step 1
+index added: 38
+percentage unclustered: 93.6759%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 93.6759%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 93.6759%
+
+	step 2
+
+		step 3
+		candidate index: 40 with core nodes: [17, 18, 32, 35]
+
+step 1
+index added: 41
+percentage unclustered: 93.28059999999999%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [17, 18, 32, 35]
+
+step 1
+index added: 42
+percentage unclustered: 92.8854%
+
+	step 2
+
+		step 3
+		candidate index: 42 with core nodes: [17, 18, 32, 35]
+
+step 1
+index added: 43
+percentage unclustered: 92.8854%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 92.8854%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 92.8854%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 92.8854%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 92.8854%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 92.8854%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 92.8854%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 92.8854%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 91.3043%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 90.9091%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 90.9091%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 90.9091%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 90.5138%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 90.1186%
+
+	step 2
+
+		step 3
+		candidate index: 56 with core nodes: [17, 18, 32, 35, 56]
+			old information: 77, gain: 0.9823838938458018
+
+   ind                                             review  relevance
+0  35  good solo album geoff tate gave two stars rele...   0.480022
+1  56  easy bash record made transition time band rea...   0.423700
+2  32  name queensyrche horrible fu title rate 1 wait...   0.408151
+3  17  geoff tate solo album eh bad queensryche album...   0.322024
+4  34  usually like give cd couple listens make mind ...   0.292295
+5  30  amazing record combined record sales individua...   0.167123
+
+step 1
+index added: 57
+percentage unclustered: 90.1186%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 89.7233%
+
+	step 2
+
+		step 3
+		candidate index: 58 with core nodes: [31, 36, 58]
+			old information: 104, gain: 0.9644565960355435
+
+   ind                                             review  relevance
+0  35  good solo album geoff tate gave two stars rele...   0.480022
+1  58  well bad 2 bands confusing infighting going th...   0.444517
+2  56  easy bash record made transition time band rea...   0.423700
+3  32  name queensyrche horrible fu title rate 1 wait...   0.408151
+4  17  geoff tate solo album eh bad queensryche album...   0.322024
+5  34  usually like give cd couple listens make mind ...   0.292295
+6  30  amazing record combined record sales individua...   0.167123
+
+step 1
+index added: 59
+percentage unclustered: 89.7233%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 89.3281%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 89.3281%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 89.3281%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 89.3281%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 89.3281%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 89.3281%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 88.9328%
+
+	step 2
+
+		step 3
+		candidate index: 66 with core nodes: [31, 36, 58]
+			old information: 687, gain: 0.9841577308889657
+
+   ind                                             review  relevance
+0  35  good solo album geoff tate gave two stars rele...   0.480022
+1  58  well bad 2 bands confusing infighting going th...   0.444517
+2  56  easy bash record made transition time band rea...   0.423700
+3  32  name queensyrche horrible fu title rate 1 wait...   0.408151
+4  66  frequency unknown musical attributes pretty ea...   0.378244
+5  17  geoff tate solo album eh bad queensryche album...   0.322024
+6  34  usually like give cd couple listens make mind ...   0.292295
+7  30  amazing record combined record sales individua...   0.167123
+
+step 1
+index added: 67
+percentage unclustered: 88.5375%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 88.5375%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 88.1423%
+
+	step 2
+
+		step 3
+		candidate index: 69 with core nodes: [17, 32, 35]
+
+step 1
+index added: 70
+percentage unclustered: 88.1423%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 88.5375%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 88.5375%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 89.7233%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 89.7233%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 91.3043%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 91.3043%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 91.3043%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 91.3043%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 91.3043%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 91.3043%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 91.3043%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 91.3043%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 91.3043%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 90.1186%
+
+	step 2
+
+		step 3
+		candidate index: 84 with core nodes: [56, 67, 84]
+			old information: 2284, gain: 0.9634448872457227
+
+   ind                                             review  relevance
+0  84  quick look album cover tells volumes geoff tat...   0.663330
+1  35  good solo album geoff tate gave two stars rele...   0.480022
+2  58  well bad 2 bands confusing infighting going th...   0.444517
+3  56  easy bash record made transition time band rea...   0.423700
+4  32  name queensyrche horrible fu title rate 1 wait...   0.408151
+5  66  frequency unknown musical attributes pretty ea...   0.378244
+6  17  geoff tate solo album eh bad queensryche album...   0.322024
+7  34  usually like give cd couple listens make mind ...   0.292295
+8  30  amazing record combined record sales individua...   0.167123
+
+step 1
+index added: 85
+percentage unclustered: 90.1186%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 90.1186%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 90.1186%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 90.1186%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 90.1186%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 88.9328%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 87.747%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 85.3755%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 85.3755%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 85.3755%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 85.3755%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 85.3755%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 84.9802%
+
+	step 2
+
+		step 3
+		candidate index: 97 with core nodes: [38, 48, 67, 84, 88]
+
+step 1
+index added: 98
+percentage unclustered: 84.9802%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 84.9802%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 83.7945%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 83.7945%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 83.7945%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 83.7945%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 83.7945%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 86.5613%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 86.5613%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 84.58500000000001%
+
+	step 2
+
+		step 3
+		candidate index: 107 with core nodes: [17, 38, 45, 84]
+
+step 1
+index added: 108
+percentage unclustered: 84.58500000000001%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 84.58500000000001%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 84.58500000000001%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 84.58500000000001%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 84.58500000000001%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 84.58500000000001%
+
+	step 2
+
+		step 3
+		candidate index: 113 with core nodes: [17, 38, 45, 48, 67, 82, 84, 113]
+			old information: 2906, gain: 0.9416114124974885
+
+    ind                                             review  relevance
+0   84  quick look album cover tells volumes geoff tat...   0.663330
+1  113  read many many reviews album m blown away opin...   0.610945
+2   35  good solo album geoff tate gave two stars rele...   0.480022
+3   58  well bad 2 bands confusing infighting going th...   0.444517
+4   56  easy bash record made transition time band rea...   0.423700
+5   32  name queensyrche horrible fu title rate 1 wait...   0.408151
+6   66  frequency unknown musical attributes pretty ea...   0.378244
+7   17  geoff tate solo album eh bad queensryche album...   0.322024
+8   34  usually like give cd couple listens make mind ...   0.292295
+9   30  amazing record combined record sales individua...   0.167123
+
+step 1
+index added: 114
+percentage unclustered: 85.3755%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 84.1897%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 84.1897%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 84.1897%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 84.1897%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 83.7945%
+
+	step 2
+
+		step 3
+		candidate index: 119 with core nodes: [48, 67, 84, 113]
+
+step 1
+index added: 120
+percentage unclustered: 83.7945%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 83.7945%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 83.7945%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 83.7945%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 82.21340000000001%
+
+	step 2
+
+		step 3
+		candidate index: 124 with core nodes: [67, 84, 113, 124]
+			old information: 7435, gain: 0.9644226030117571
+
+     ind                                             review  relevance
+0    84  quick look album cover tells volumes geoff tat...   0.663330
+1   124  commenting reviews thought fair put effort off...   0.620728
+2   113  read many many reviews album m blown away opin...   0.610945
+3    35  good solo album geoff tate gave two stars rele...   0.480022
+4    58  well bad 2 bands confusing infighting going th...   0.444517
+5    56  easy bash record made transition time band rea...   0.423700
+6    32  name queensyrche horrible fu title rate 1 wait...   0.408151
+7    66  frequency unknown musical attributes pretty ea...   0.378244
+8    17  geoff tate solo album eh bad queensryche album...   0.322024
+9    34  usually like give cd couple listens make mind ...   0.292295
+10   30  amazing record combined record sales individua...   0.167123
+
+step 1
+index added: 125
+percentage unclustered: 81.8182%
+
+	step 2
+
+		step 3
+		candidate index: 125 with core nodes: [84, 124, 125]
+			old information: 2611, gain: 0.7972826086956522
+
+     ind                                             review  relevance
+0    84  quick look album cover tells volumes geoff tat...   0.663330
+1   124  commenting reviews thought fair put effort off...   0.620728
+2   125  start let disclose team queensryche team tate ...   0.614134
+3   113  read many many reviews album m blown away opin...   0.610945
+4    35  good solo album geoff tate gave two stars rele...   0.480022
+5    58  well bad 2 bands confusing infighting going th...   0.444517
+6    56  easy bash record made transition time band rea...   0.423700
+7    32  name queensyrche horrible fu title rate 1 wait...   0.408151
+8    66  frequency unknown musical attributes pretty ea...   0.378244
+9    17  geoff tate solo album eh bad queensryche album...   0.322024
+10   34  usually like give cd couple listens make mind ...   0.292295
+11   30  amazing record combined record sales individua...   0.167123
+
+step 1
+index added: 126
+percentage unclustered: 81.4229%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 81.0277%
+
+	step 2
+
+		step 3
+		candidate index: 127 with core nodes: [17, 32, 127]
+			old information: 1871, gain: 0.8347902869757174
+
+     ind                                             review  relevance
+0    84  quick look album cover tells volumes geoff tat...   0.663330
+1   124  commenting reviews thought fair put effort off...   0.620728
+2   125  start let disclose team queensryche team tate ...   0.614134
+3   113  read many many reviews album m blown away opin...   0.610945
+4   127  let start saying think geoff recorded queensry...   0.537948
+5    35  good solo album geoff tate gave two stars rele...   0.480022
+6    58  well bad 2 bands confusing infighting going th...   0.444517
+7    56  easy bash record made transition time band rea...   0.423700
+8    32  name queensyrche horrible fu title rate 1 wait...   0.408151
+9    66  frequency unknown musical attributes pretty ea...   0.378244
+10   17  geoff tate solo album eh bad queensryche album...   0.322024
+11   34  usually like give cd couple listens make mind ...   0.292295
+12   30  amazing record combined record sales individua...   0.167123
+
+step 1
+index added: 128
+percentage unclustered: 80.2372%
+
+	step 2
+
+		step 3
+		candidate index: 128 with core nodes: [84, 124, 125]
+
+step 1
+index added: 129
+percentage unclustered: 81.8182%
+
+	step 2
+
+step 1
+index added: 130
+percentage unclustered: 81.8182%
+
+	step 2
+
+step 1
+index added: 131
+percentage unclustered: 81.8182%
+
+	step 2
+
+step 1
+index added: 132
+percentage unclustered: 81.8182%
+
+	step 2
+
+step 1
+index added: 133
+percentage unclustered: 81.8182%
+
+	step 2
+
+step 1
+index added: 134
+percentage unclustered: 82.21340000000001%
+
+	step 2
+
+step 1
+index added: 135
+percentage unclustered: 81.0277%
+
+	step 2
+
+step 1
+index added: 136
+percentage unclustered: 81.0277%
+
+	step 2
+
+step 1
+index added: 137
+percentage unclustered: 81.0277%
+
+	step 2
+
+step 1
+index added: 138
+percentage unclustered: 81.0277%
+
+	step 2
+
+step 1
+index added: 139
+percentage unclustered: 81.0277%
+
+	step 2
+
+step 1
+index added: 140
+percentage unclustered: 82.21340000000001%
+
+	step 2
+
+step 1
+index added: 141
+percentage unclustered: 81.8182%
+
+	step 2
+
+step 1
+index added: 142
+percentage unclustered: 81.8182%
+
+	step 2
+
+step 1
+index added: 143
+percentage unclustered: 81.8182%
+
+	step 2
+
+step 1
+index added: 144
+percentage unclustered: 81.8182%
+
+	step 2
+
+step 1
+index added: 145
+percentage unclustered: 81.8182%
+
+	step 2
+
+step 1
+index added: 146
+percentage unclustered: 81.8182%
+
+	step 2
+
+step 1
+index added: 147
+percentage unclustered: 81.8182%
+
+	step 2
+
+step 1
+index added: 148
+percentage unclustered: 81.8182%
+
+	step 2
+
+step 1
+index added: 149
+percentage unclustered: 81.8182%
+
+	step 2
+
+step 1
+index added: 150
+percentage unclustered: 81.8182%
+
+	step 2
+
+step 1
+index added: 151
+percentage unclustered: 81.8182%
+
+	step 2
+
+step 1
+index added: 152
+percentage unclustered: 80.6324%
+
+	step 2
+
+step 1
+index added: 153
+percentage unclustered: 80.6324%
+
+	step 2
+
+step 1
+index added: 154
+percentage unclustered: 80.2372%
+
+	step 2
+
+step 1
+index added: 155
+percentage unclustered: 80.2372%
+
+	step 2
+
+step 1
+index added: 156
+percentage unclustered: 79.8419%
+
+	step 2
+
+		step 3
+		candidate index: 156 with core nodes: [84, 141, 156]
+			old information: 18384, gain: 0.9534247408263157
+
+     ind                                             review  relevance
+0   156  people going love album people going hate trus...   0.680185
+1    84  quick look album cover tells volumes geoff tat...   0.663330
+2   124  commenting reviews thought fair put effort off...   0.620728
+3   125  start let disclose team queensryche team tate ...   0.614134
+4   113  read many many reviews album m blown away opin...   0.610945
+5   127  let start saying think geoff recorded queensry...   0.537948
+6    35  good solo album geoff tate gave two stars rele...   0.480022
+7    58  well bad 2 bands confusing infighting going th...   0.444517
+8    56  easy bash record made transition time band rea...   0.423700
+9    32  name queensyrche horrible fu title rate 1 wait...   0.408151
+10   66  frequency unknown musical attributes pretty ea...   0.378244
+11   17  geoff tate solo album eh bad queensryche album...   0.322024
+12   34  usually like give cd couple listens make mind ...   0.292295
+13   30  amazing record combined record sales individua...   0.167123
+
+step 1
+index added: 157
+percentage unclustered: 79.8419%
+
+	step 2
+
+step 1
+index added: 158
+percentage unclustered: 80.6324%
+
+	step 2
+
+step 1
+index added: 159
+percentage unclustered: 80.6324%
+
+	step 2
+
+step 1
+index added: 160
+percentage unclustered: 80.6324%
+
+	step 2
+
+step 1
+index added: 161
+percentage unclustered: 80.6324%
+
+	step 2
+
+step 1
+index added: 162
+percentage unclustered: 80.2372%
+
+	step 2
+
+		step 3
+		candidate index: 162 with core nodes: [17, 29, 32, 127]
+
+step 1
+index added: 163
+percentage unclustered: 79.8419%
+
+	step 2
+
+step 1
+index added: 164
+percentage unclustered: 78.6561%
+
+	step 2
+
+step 1
+index added: 165
+percentage unclustered: 77.4704%
+
+	step 2
+
+step 1
+index added: 166
+percentage unclustered: 77.4704%
+
+	step 2
+
+step 1
+index added: 167
+percentage unclustered: 73.5178%
+
+	step 2
+
+step 1
+index added: 168
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 169
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 170
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 171
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 172
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 173
+percentage unclustered: 72.332%
+
+	step 2
+
+		step 3
+		candidate index: 173 with core nodes: [84, 88, 141, 156]
+
+step 1
+index added: 174
+percentage unclustered: 72.332%
+
+	step 2
+
+step 1
+index added: 175
+percentage unclustered: 71.9368%
+
+	step 2
+
+		step 3
+		candidate index: 175 with core nodes: [84, 88, 141, 156]
+
+step 1
+index added: 176
+percentage unclustered: 71.9368%
+
+	step 2
+
+step 1
+index added: 177
+percentage unclustered: 71.5415%
+
+	step 2
+
+step 1
+index added: 178
+percentage unclustered: 71.1462%
+
+	step 2
+
+step 1
+index added: 179
+percentage unclustered: 71.1462%
+
+	step 2
+
+step 1
+index added: 180
+percentage unclustered: 70.751%
+
+	step 2
+
+step 1
+index added: 181
+percentage unclustered: 71.1462%
+
+	step 2
+
+step 1
+index added: 182
+percentage unclustered: 71.1462%
+
+	step 2
+
+step 1
+index added: 183
+percentage unclustered: 69.9605%
+
+	step 2
+
+step 1
+index added: 184
+percentage unclustered: 69.9605%
+
+	step 2
+
+step 1
+index added: 185
+percentage unclustered: 69.9605%
+
+	step 2
+
+step 1
+index added: 186
+percentage unclustered: 69.9605%
+
+	step 2
+
+step 1
+index added: 187
+percentage unclustered: 69.9605%
+
+	step 2
+
+step 1
+index added: 188
+percentage unclustered: 68.7747%
+
+	step 2
+
+step 1
+index added: 189
+percentage unclustered: 68.7747%
+
+	step 2
+
+step 1
+index added: 190
+percentage unclustered: 69.5652%
+
+	step 2
+
+step 1
+index added: 191
+percentage unclustered: 69.5652%
+
+	step 2
+
+step 1
+index added: 192
+percentage unclustered: 69.5652%
+
+	step 2
+
+step 1
+index added: 193
+percentage unclustered: 69.17%
+
+	step 2
+
+		step 3
+		candidate index: 193 with core nodes: [67, 84, 88, 134, 156]
+
+step 1
+index added: 194
+percentage unclustered: 69.17%
+
+	step 2
+
+step 1
+index added: 195
+percentage unclustered: 66.4032%
+
+	step 2
+
+		step 3
+		candidate index: 195 with core nodes: [67, 84, 88, 134, 156]
+
+step 1
+index added: 196
+percentage unclustered: 64.8221%
+
+	step 2
+
+step 1
+index added: 197
+percentage unclustered: 64.8221%
+
+	step 2
+
+step 1
+index added: 198
+percentage unclustered: 64.8221%
+
+	step 2
+
+step 1
+index added: 199
+percentage unclustered: 64.4269%
+
+	step 2
+
+step 1
+index added: 200
+percentage unclustered: 63.6364%
+
+	step 2
+
+		step 3
+		candidate index: 200 with core nodes: [17, 29, 32, 35]
+
+step 1
+index added: 201
+percentage unclustered: 63.6364%
+
+	step 2
+
+step 1
+index added: 202
+percentage unclustered: 63.6364%
+
+	step 2
+
+step 1
+index added: 203
+percentage unclustered: 63.6364%
+
+	step 2
+
+step 1
+index added: 204
+percentage unclustered: 63.6364%
+
+	step 2
+
+step 1
+index added: 205
+percentage unclustered: 63.6364%
+
+	step 2
+
+step 1
+index added: 206
+percentage unclustered: 63.2411%
+
+	step 2
+
+		step 3
+		candidate index: 206 with core nodes: [17, 29, 32, 35]
+
+step 1
+index added: 207
+percentage unclustered: 63.2411%
+
+	step 2
+
+step 1
+index added: 208
+percentage unclustered: 62.8458%
+
+	step 2
+
+		step 3
+		candidate index: 208 with core nodes: [17, 29, 32, 35, 208]
+			old information: 2278, gain: 0.804093567251462
+
+     ind                                             review  relevance
+0   156  people going love album people going hate trus...   0.680185
+1    84  quick look album cover tells volumes geoff tat...   0.663330
+2   208  album said geoff tate cover rather queensryche...   0.656132
+3   124  commenting reviews thought fair put effort off...   0.620728
+4   125  start let disclose team queensryche team tate ...   0.614134
+5   113  read many many reviews album m blown away opin...   0.610945
+6   127  let start saying think geoff recorded queensry...   0.537948
+7    35  good solo album geoff tate gave two stars rele...   0.480022
+8    58  well bad 2 bands confusing infighting going th...   0.444517
+9    56  easy bash record made transition time band rea...   0.423700
+10   32  name queensyrche horrible fu title rate 1 wait...   0.408151
+11   66  frequency unknown musical attributes pretty ea...   0.378244
+12   17  geoff tate solo album eh bad queensryche album...   0.322024
+13   34  usually like give cd couple listens make mind ...   0.292295
+14   30  amazing record combined record sales individua...   0.167123
+
+step 1
+index added: 209
+percentage unclustered: 62.4506%
+
+	step 2
+
+step 1
+index added: 210
+percentage unclustered: 62.4506%
+
+	step 2
+
+step 1
+index added: 211
+percentage unclustered: 62.0553%
+
+	step 2
+
+step 1
+index added: 212
+percentage unclustered: 61.6601%
+
+	step 2
+
+		step 3
+		candidate index: 212 with core nodes: [67, 84, 88, 134, 156]
+
+step 1
+index added: 213
+percentage unclustered: 61.6601%
+
+	step 2
+
+step 1
+index added: 214
+percentage unclustered: 61.2648%
+
+	step 2
+
+step 1
+index added: 215
+percentage unclustered: 60.8696%
+
+	step 2
+
+step 1
+index added: 216
+percentage unclustered: 60.8696%
+
+	step 2
+
+step 1
+index added: 217
+percentage unclustered: 60.4743%
+
+	step 2
+
+step 1
+index added: 218
+percentage unclustered: 60.0791%
+
+	step 2
+
+step 1
+index added: 219
+percentage unclustered: 58.498%
+
+	step 2
+
+step 1
+index added: 220
+percentage unclustered: 58.498%
+
+	step 2
+
+step 1
+index added: 221
+percentage unclustered: 58.498%
+
+	step 2
+
+step 1
+index added: 222
+percentage unclustered: 58.498%
+
+	step 2
+
+step 1
+index added: 223
+percentage unclustered: 58.498%
+
+	step 2
+
+step 1
+index added: 224
+percentage unclustered: 58.498%
+
+	step 2
+
+step 1
+index added: 225
+percentage unclustered: 59.2885%
+
+	step 2
+
+		step 3
+		candidate index: 225 with core nodes: [124, 156, 225]
+			old information: 22353, gain: 0.9327769758210033
+
+     ind                                             review  relevance
+0   225  heard album full leaked soundcloud record labe...   0.697657
+1   156  people going love album people going hate trus...   0.680185
+2    84  quick look album cover tells volumes geoff tat...   0.663330
+3   208  album said geoff tate cover rather queensryche...   0.656132
+4   124  commenting reviews thought fair put effort off...   0.620728
+5   125  start let disclose team queensryche team tate ...   0.614134
+6   113  read many many reviews album m blown away opin...   0.610945
+7   127  let start saying think geoff recorded queensry...   0.537948
+8    35  good solo album geoff tate gave two stars rele...   0.480022
+9    58  well bad 2 bands confusing infighting going th...   0.444517
+10   56  easy bash record made transition time band rea...   0.423700
+11   32  name queensyrche horrible fu title rate 1 wait...   0.408151
+12   66  frequency unknown musical attributes pretty ea...   0.378244
+13   17  geoff tate solo album eh bad queensryche album...   0.322024
+14   34  usually like give cd couple listens make mind ...   0.292295
+15   30  amazing record combined record sales individua...   0.167123
+
+step 1
+index added: 226
+percentage unclustered: 58.8933%
+
+	step 2
+
+		step 3
+		candidate index: 226 with core nodes: [17, 29, 32, 35, 208]
+
+step 1
+index added: 227
+percentage unclustered: 58.8933%
+
+	step 2
+
+step 1
+index added: 228
+percentage unclustered: 57.7075%
+
+	step 2
+
+step 1
+index added: 229
+percentage unclustered: 57.7075%
+
+	step 2
+
+step 1
+index added: 230
+percentage unclustered: 56.5217%
+
+	step 2
+
+step 1
+index added: 231
+percentage unclustered: 56.5217%
+
+	step 2
+
+step 1
+index added: 232
+percentage unclustered: 56.5217%
+
+	step 2
+
+step 1
+index added: 233
+percentage unclustered: 56.5217%
+
+	step 2
+
+step 1
+index added: 234
+percentage unclustered: 56.5217%
+
+	step 2
+
+step 1
+index added: 235
+percentage unclustered: 56.1265%
+
+	step 2
+
+		step 3
+		candidate index: 235 with core nodes: [88, 156, 235]
+			old information: 24624, gain: 0.9048678720445062
+
+     ind                                             review  relevance
+0   235  look get it matter bad album always people lik...   0.716493
+1   225  heard album full leaked soundcloud record labe...   0.697657
+2   156  people going love album people going hate trus...   0.680185
+3    84  quick look album cover tells volumes geoff tat...   0.663330
+4   208  album said geoff tate cover rather queensryche...   0.656132
+5   124  commenting reviews thought fair put effort off...   0.620728
+6   125  start let disclose team queensryche team tate ...   0.614134
+7   113  read many many reviews album m blown away opin...   0.610945
+8   127  let start saying think geoff recorded queensry...   0.537948
+9    35  good solo album geoff tate gave two stars rele...   0.480022
+10   58  well bad 2 bands confusing infighting going th...   0.444517
+11   56  easy bash record made transition time band rea...   0.423700
+12   32  name queensyrche horrible fu title rate 1 wait...   0.408151
+13   66  frequency unknown musical attributes pretty ea...   0.378244
+14   17  geoff tate solo album eh bad queensryche album...   0.322024
+15   34  usually like give cd couple listens make mind ...   0.292295
+16   30  amazing record combined record sales individua...   0.167123
+
+step 1
+index added: 236
+percentage unclustered: 56.1265%
+
+	step 2
+
+step 1
+index added: 237
+percentage unclustered: 55.7312%
+
+	step 2
+
+step 1
+index added: 238
+percentage unclustered: 55.7312%
+
+	step 2
+
+step 1
+index added: 239
+percentage unclustered: 55.336%
+
+	step 2
+
+step 1
+index added: 240
+percentage unclustered: 54.9407%
+
+	step 2
+
+		step 3
+		candidate index: 240 with core nodes: [88, 156, 235]
+
+step 1
+index added: 241
+percentage unclustered: 54.9407%
+
+	step 2
+
+step 1
+index added: 242
+percentage unclustered: 54.5455%
+
+	step 2
+
+step 1
+index added: 243
+percentage unclustered: 54.1502%
+
+	step 2
+
+		step 3
+		candidate index: 243 with core nodes: [88, 156, 235]
+
+step 1
+index added: 244
+percentage unclustered: 54.1502%
+
+	step 2
+
+step 1
+index added: 245
+percentage unclustered: 54.1502%
+
+	step 2
+
+step 1
+index added: 246
+percentage unclustered: 53.7549%
+
+	step 2
+
+step 1
+index added: 247
+percentage unclustered: 53.3597%
+
+	step 2
+
+step 1
+index added: 248
+percentage unclustered: 53.3597%
+
+	step 2
+
+step 1
+index added: 249
+percentage unclustered: 53.3597%
+
+	step 2
+
+step 1
+index added: 250
+percentage unclustered: 52.9644%
+
+	step 2
+
+step 1
+index added: 251
+percentage unclustered: 52.9644%
+
+	step 2
+
+step 1
+index added: 252
+percentage unclustered: 52.5692%
+
+	step 2
+
+--- 3132.7755200862885 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 98.419, 98.419, 98.419, 98.419, 98.419, 98.8142, 98.8142, 98.8142, 98.8142, 98.8142, 98.8142, 98.8142, 98.8142, 97.6285, 97.6285, 98.419, 97.2332, 96.0474, 94.4664, 94.4664, 93.6759, 93.6759, 93.6759, 93.6759, 93.28059999999999, 92.8854, 92.8854, 92.8854, 92.8854, 92.8854, 92.8854, 92.8854, 92.8854, 92.8854, 91.3043, 90.9091, 90.9091, 90.9091, 90.5138, 90.1186, 90.1186, 89.7233, 89.7233, 89.3281, 89.3281, 89.3281, 89.3281, 89.3281, 89.3281, 88.9328, 88.5375, 88.5375, 88.1423, 88.1423, 88.5375, 88.5375, 89.7233, 89.7233, 91.3043, 91.3043, 91.3043, 91.3043, 91.3043, 91.3043, 91.3043, 91.3043, 91.3043, 90.1186, 90.1186, 90.1186, 90.1186, 90.1186, 90.1186, 88.9328, 87.747, 85.3755, 85.3755, 85.3755, 85.3755, 85.3755, 84.9802, 84.9802, 84.9802, 83.7945, 83.7945, 83.7945, 83.7945, 83.7945, 86.5613, 86.5613, 84.58500000000001, 84.58500000000001, 84.58500000000001, 84.58500000000001, 84.58500000000001, 84.58500000000001, 84.58500000000001, 85.3755, 84.1897, 84.1897, 84.1897, 84.1897, 83.7945, 83.7945, 83.7945, 83.7945, 83.7945, 82.21340000000001, 81.8182, 81.4229, 81.0277, 80.2372, 81.8182, 81.8182, 81.8182, 81.8182, 81.8182, 82.21340000000001, 81.0277, 81.0277, 81.0277, 81.0277, 81.0277, 82.21340000000001, 81.8182, 81.8182, 81.8182, 81.8182, 81.8182, 81.8182, 81.8182, 81.8182, 81.8182, 81.8182, 81.8182, 80.6324, 80.6324, 80.2372, 80.2372, 79.8419, 79.8419, 80.6324, 80.6324, 80.6324, 80.6324, 80.2372, 79.8419, 78.6561, 77.4704, 77.4704, 73.5178, 72.7273, 72.7273, 72.7273, 72.7273, 72.7273, 72.332, 72.332, 71.9368, 71.9368, 71.5415, 71.1462, 71.1462, 70.751, 71.1462, 71.1462, 69.9605, 69.9605, 69.9605, 69.9605, 69.9605, 68.7747, 68.7747, 69.5652, 69.5652, 69.5652, 69.17, 69.17, 66.4032, 64.8221, 64.8221, 64.8221, 64.4269, 63.6364, 63.6364, 63.6364, 63.6364, 63.6364, 63.6364, 63.2411, 63.2411, 62.8458, 62.4506, 62.4506, 62.0553, 61.6601, 61.6601, 61.2648, 60.8696, 60.8696, 60.4743, 60.0791, 58.498, 58.498, 58.498, 58.498, 58.498, 58.498, 59.2885, 58.8933, 58.8933, 57.7075, 57.7075, 56.5217, 56.5217, 56.5217, 56.5217, 56.5217, 56.1265, 56.1265, 55.7312, 55.7312, 55.336, 54.9407, 54.9407, 54.5455, 54.1502, 54.1502, 54.1502, 53.7549, 53.3597, 53.3597, 53.3597, 52.9644, 52.9644, 52.5692], mean: 79.8498
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0         7  235   0.716493  look get it matter bad album always people lik...
+1        16  225   0.697657  heard album full leaked soundcloud record labe...
+2        67  156   0.680185  people going love album people going hate trus...
+3       217   84   0.663330  quick look album cover tells volumes geoff tat...
+4        37  208   0.656132  album said geoff tate cover rather queensryche...
+5        63  124   0.620728  commenting reviews thought fair put effort off...
+6       133  125   0.614134  start let disclose team queensryche team tate ...
+7       197  113   0.610945  read many many reviews album m blown away opin...
+8       179  127   0.537948  let start saying think geoff recorded queensry...
+9       243   35   0.480022  good solo album geoff tate gave two stars rele...
+10      250   58   0.444517  well bad 2 bands confusing infighting going th...
+11      222   56   0.423700  easy bash record made transition time band rea...
+12      234   32   0.408151  name queensyrche horrible fu title rate 1 wait...
+13      136   66   0.378244  frequency unknown musical attributes pretty ea...
+14      211   17   0.322024  geoff tate solo album eh bad queensryche album...
+15      213   34   0.292295  usually like give cd couple listens make mind ...
+16      232   30   0.167123  amazing record combined record sales individua...

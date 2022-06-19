@@ -1,0 +1,2161 @@
+------- Category: Electronics -------
+Found asin_id: B002C7481G
+Shape:  (250, 7)
+
+
+Chosen product: B002C7481G has 250 reviews - True, it has 250 reviews
+Duplicate reviewers?:  160    A1ZU55TM45Y2R8
+169     AIRHRV3D8X4J1
+173    A1KBV71PGFFPVV
+237    A1F50KG7O9A0JD
+247     A3EQRH57UHYXB
+249     ATS2855497V0I
+Name: reviewerID, dtype: object
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 98.8%
+
+	step 2
+
+		step 3
+		candidate index: 5 with core nodes: [1, 3, 5]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   5  actually surprised good shape 1st generation i...   0.065105
+
+step 1
+index added: 6
+percentage unclustered: 98.8%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 98.8%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 98.8%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 98.4%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [1, 3, 5, 9]
+			old information: 2, gain: 0.9974358974358974
+
+   ind                                             review  relevance
+0   9  longer supported apple ipad nversion 5 1 avail...   0.179896
+1   5  actually surprised good shape 1st generation i...   0.065105
+
+step 1
+index added: 10
+percentage unclustered: 98.4%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 98.4%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 98.4%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 98.4%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 98.4%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 98.0%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [3, 5, 9, 15]
+			old information: 15, gain: 0.993006993006993
+
+   ind                                             review  relevance
+0   9  longer supported apple ipad nversion 5 1 avail...   0.179896
+1  15  total shock opened used ipad ordered 10 year o...   0.119618
+2   5  actually surprised good shape 1st generation i...   0.065105
+
+step 1
+index added: 16
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 97.6%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [5, 9, 17]
+			old information: 18, gain: 0.9949579831932773
+
+   ind                                             review  relevance
+0   9  longer supported apple ipad nversion 5 1 avail...   0.179896
+1  17  wanted ipad thought getting ipad second gen ki...   0.175950
+2  15  total shock opened used ipad ordered 10 year o...   0.119618
+3   5  actually surprised good shape 1st generation i...   0.065105
+
+step 1
+index added: 18
+percentage unclustered: 97.2%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [5, 9, 17, 18]
+			old information: 77, gain: 0.9841269841269841
+
+   ind                                             review  relevance
+0  18  wanted ipad quite time price 2 prohibitive cou...   0.204311
+1   9  longer supported apple ipad nversion 5 1 avail...   0.179896
+2  17  wanted ipad thought getting ipad second gen ki...   0.175950
+3  15  total shock opened used ipad ordered 10 year o...   0.119618
+4   5  actually surprised good shape 1st generation i...   0.065105
+
+step 1
+index added: 19
+percentage unclustered: 97.2%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 97.2%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 97.2%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 97.2%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 97.2%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 95.6%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [5, 9, 10, 11, 24]
+			old information: 271, gain: 0.991431100992854
+
+   ind                                             review  relevance
+0  24  let first start stating biggest apple fan come...   0.406266
+1  18  wanted ipad quite time price 2 prohibitive cou...   0.204311
+2   9  longer supported apple ipad nversion 5 1 avail...   0.179896
+3  17  wanted ipad thought getting ipad second gen ki...   0.175950
+4  15  total shock opened used ipad ordered 10 year o...   0.119618
+5   5  actually surprised good shape 1st generation i...   0.065105
+
+step 1
+index added: 25
+percentage unclustered: 95.2%
+
+	step 2
+
+		step 3
+		candidate index: 25 with core nodes: [5, 17, 25]
+			old information: 61, gain: 0.9217948717948717
+
+   ind                                             review  relevance
+0  24  let first start stating biggest apple fan come...   0.406266
+1  25  ipad delivered time fine shape m pleased ipad ...   0.224758
+2  18  wanted ipad quite time price 2 prohibitive cou...   0.204311
+3   9  longer supported apple ipad nversion 5 1 avail...   0.179896
+4  17  wanted ipad thought getting ipad second gen ki...   0.175950
+5  15  total shock opened used ipad ordered 10 year o...   0.119618
+6   5  actually surprised good shape 1st generation i...   0.065105
+
+step 1
+index added: 26
+percentage unclustered: 95.2%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 95.2%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 95.2%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 95.2%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 94.8%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [9, 10, 11, 24]
+			old information: 35, gain: 0.8484848484848485
+
+   ind                                             review  relevance
+0  24  let first start stating biggest apple fan come...   0.406266
+1  30  jerks still trying sell first generation ipads...   0.240729
+2  25  ipad delivered time fine shape m pleased ipad ...   0.224758
+3  18  wanted ipad quite time price 2 prohibitive cou...   0.204311
+4   9  longer supported apple ipad nversion 5 1 avail...   0.179896
+5  17  wanted ipad thought getting ipad second gen ki...   0.175950
+6  15  total shock opened used ipad ordered 10 year o...   0.119618
+7   5  actually surprised good shape 1st generation i...   0.065105
+
+		step 3
+		candidate index: 30 with core nodes: [7, 9, 10, 24, 30]
+			old information: 231, gain: 0.0
+
+step 1
+index added: 31
+percentage unclustered: 94.4%
+
+	step 2
+
+		step 3
+		candidate index: 31 with core nodes: [9, 10, 11, 24, 31]
+			old information: 776, gain: 0.9773039688806996
+
+   ind                                             review  relevance
+0  31  review based upon ipad wifi 32 gb 11 months n ...   0.461196
+1  24  let first start stating biggest apple fan come...   0.406266
+2  30  jerks still trying sell first generation ipads...   0.240729
+3  25  ipad delivered time fine shape m pleased ipad ...   0.224758
+4  18  wanted ipad quite time price 2 prohibitive cou...   0.204311
+5   9  longer supported apple ipad nversion 5 1 avail...   0.179896
+6  17  wanted ipad thought getting ipad second gen ki...   0.175950
+7  15  total shock opened used ipad ordered 10 year o...   0.119618
+8   5  actually surprised good shape 1st generation i...   0.065105
+
+step 1
+index added: 32
+percentage unclustered: 94.4%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 94.4%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 94.4%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 94.0%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [9, 24, 31, 35]
+			old information: 5135, gain: 0.984327549634513
+
+   ind                                             review  relevance
+0  35  got ipad little two months ago nice device lot...   0.643156
+1  31  review based upon ipad wifi 32 gb 11 months n ...   0.461196
+2  24  let first start stating biggest apple fan come...   0.406266
+3  30  jerks still trying sell first generation ipads...   0.240729
+4  25  ipad delivered time fine shape m pleased ipad ...   0.224758
+5  18  wanted ipad quite time price 2 prohibitive cou...   0.204311
+6   9  longer supported apple ipad nversion 5 1 avail...   0.179896
+7  17  wanted ipad thought getting ipad second gen ki...   0.175950
+8  15  total shock opened used ipad ordered 10 year o...   0.119618
+9   5  actually surprised good shape 1st generation i...   0.065105
+
+step 1
+index added: 36
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 93.6%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [9, 24, 31, 35]
+
+step 1
+index added: 38
+percentage unclustered: 93.2%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [24, 31, 35, 38]
+			old information: 495, gain: 0.867682437850842
+
+    ind                                             review  relevance
+0   35  got ipad little two months ago nice device lot...   0.643156
+1   31  review based upon ipad wifi 32 gb 11 months n ...   0.461196
+2   38  minute first saw ipad knew wanted one cash sho...   0.435242
+3   24  let first start stating biggest apple fan come...   0.406266
+4   30  jerks still trying sell first generation ipads...   0.240729
+5   25  ipad delivered time fine shape m pleased ipad ...   0.224758
+6   18  wanted ipad quite time price 2 prohibitive cou...   0.204311
+7    9  longer supported apple ipad nversion 5 1 avail...   0.179896
+8   17  wanted ipad thought getting ipad second gen ki...   0.175950
+9   15  total shock opened used ipad ordered 10 year o...   0.119618
+10   5  actually surprised good shape 1st generation i...   0.065105
+
+step 1
+index added: 39
+percentage unclustered: 93.2%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 93.2%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 93.2%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 93.2%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 93.2%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 93.2%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 93.2%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 92.8%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 92.8%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 92.4%
+
+	step 2
+
+		step 3
+		candidate index: 48 with core nodes: [24, 31, 35, 48]
+			old information: 1669, gain: 0.9408218983796051
+
+    ind                                             review  relevance
+0   35  got ipad little two months ago nice device lot...   0.643156
+1   31  review based upon ipad wifi 32 gb 11 months n ...   0.461196
+2   38  minute first saw ipad knew wanted one cash sho...   0.435242
+3   24  let first start stating biggest apple fan come...   0.406266
+4   48  buy ipad unless really love touch screens touc...   0.385197
+5   30  jerks still trying sell first generation ipads...   0.240729
+6   25  ipad delivered time fine shape m pleased ipad ...   0.224758
+7   18  wanted ipad quite time price 2 prohibitive cou...   0.204311
+8    9  longer supported apple ipad nversion 5 1 avail...   0.179896
+9   17  wanted ipad thought getting ipad second gen ki...   0.175950
+10  15  total shock opened used ipad ordered 10 year o...   0.119618
+11   5  actually surprised good shape 1st generation i...   0.065105
+
+step 1
+index added: 49
+percentage unclustered: 92.0%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [24, 31, 35, 49]
+			old information: 3325, gain: 0.9243561743561743
+
+    ind                                             review  relevance
+0   35  got ipad little two months ago nice device lot...   0.643156
+1   49  pros n nthis apple 10 tablet computer packs lo...   0.595687
+2   31  review based upon ipad wifi 32 gb 11 months n ...   0.461196
+3   38  minute first saw ipad knew wanted one cash sho...   0.435242
+4   24  let first start stating biggest apple fan come...   0.406266
+5   48  buy ipad unless really love touch screens touc...   0.385197
+6   30  jerks still trying sell first generation ipads...   0.240729
+7   25  ipad delivered time fine shape m pleased ipad ...   0.224758
+8   18  wanted ipad quite time price 2 prohibitive cou...   0.204311
+9    9  longer supported apple ipad nversion 5 1 avail...   0.179896
+10  17  wanted ipad thought getting ipad second gen ki...   0.175950
+11  15  total shock opened used ipad ordered 10 year o...   0.119618
+12   5  actually surprised good shape 1st generation i...   0.065105
+
+step 1
+index added: 50
+percentage unclustered: 91.2%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 90.8%
+
+	step 2
+
+		step 3
+		candidate index: 51 with core nodes: [24, 31, 35, 49]
+			old information: 4952, gain: 0.9179833714266786
+
+    ind                                             review  relevance
+0   35  got ipad little two months ago nice device lot...   0.643156
+1   49  pros n nthis apple 10 tablet computer packs lo...   0.595687
+2   51  ipad piece junk many issues praise apple marke...   0.490629
+3   31  review based upon ipad wifi 32 gb 11 months n ...   0.461196
+4   38  minute first saw ipad knew wanted one cash sho...   0.435242
+5   24  let first start stating biggest apple fan come...   0.406266
+6   48  buy ipad unless really love touch screens touc...   0.385197
+7   30  jerks still trying sell first generation ipads...   0.240729
+8   25  ipad delivered time fine shape m pleased ipad ...   0.224758
+9   18  wanted ipad quite time price 2 prohibitive cou...   0.204311
+10   9  longer supported apple ipad nversion 5 1 avail...   0.179896
+11  17  wanted ipad thought getting ipad second gen ki...   0.175950
+12  15  total shock opened used ipad ordered 10 year o...   0.119618
+13   5  actually surprised good shape 1st generation i...   0.065105
+
+step 1
+index added: 52
+percentage unclustered: 89.6%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 89.6%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 89.2%
+
+	step 2
+
+		step 3
+		candidate index: 54 with core nodes: [24, 35, 43, 49]
+
+step 1
+index added: 55
+percentage unclustered: 88.8%
+
+	step 2
+
+		step 3
+		candidate index: 55 with core nodes: [51, 52, 55]
+			old information: 2714, gain: 0.8893644775997717
+
+    ind                                             review  relevance
+0   35  got ipad little two months ago nice device lot...   0.643156
+1   49  pros n nthis apple 10 tablet computer packs lo...   0.595687
+2   55  years ago read interesting article developer p...   0.521956
+3   51  ipad piece junk many issues praise apple marke...   0.490629
+4   31  review based upon ipad wifi 32 gb 11 months n ...   0.461196
+5   38  minute first saw ipad knew wanted one cash sho...   0.435242
+6   24  let first start stating biggest apple fan come...   0.406266
+7   48  buy ipad unless really love touch screens touc...   0.385197
+8   30  jerks still trying sell first generation ipads...   0.240729
+9   25  ipad delivered time fine shape m pleased ipad ...   0.224758
+10  18  wanted ipad quite time price 2 prohibitive cou...   0.204311
+11   9  longer supported apple ipad nversion 5 1 avail...   0.179896
+12  17  wanted ipad thought getting ipad second gen ki...   0.175950
+13  15  total shock opened used ipad ordered 10 year o...   0.119618
+14   5  actually surprised good shape 1st generation i...   0.065105
+
+step 1
+index added: 56
+percentage unclustered: 88.8%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 88.8%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 88.8%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 88.8%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 88.4%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 90.8%
+
+	step 2
+
+		step 3
+		candidate index: 61 with core nodes: [24, 35, 43, 61]
+			old information: 779, gain: 0.7868673050615596
+
+    ind                                             review  relevance
+0   35  got ipad little two months ago nice device lot...   0.643156
+1   49  pros n nthis apple 10 tablet computer packs lo...   0.595687
+2   61  bought ipad weeks ago absolutely love iphone i...   0.587284
+3   55  years ago read interesting article developer p...   0.521956
+4   51  ipad piece junk many issues praise apple marke...   0.490629
+5   31  review based upon ipad wifi 32 gb 11 months n ...   0.461196
+6   38  minute first saw ipad knew wanted one cash sho...   0.435242
+7   24  let first start stating biggest apple fan come...   0.406266
+8   48  buy ipad unless really love touch screens touc...   0.385197
+9   30  jerks still trying sell first generation ipads...   0.240729
+10  25  ipad delivered time fine shape m pleased ipad ...   0.224758
+11  18  wanted ipad quite time price 2 prohibitive cou...   0.204311
+12   9  longer supported apple ipad nversion 5 1 avail...   0.179896
+13  17  wanted ipad thought getting ipad second gen ki...   0.175950
+14  15  total shock opened used ipad ordered 10 year o...   0.119618
+15   5  actually surprised good shape 1st generation i...   0.065105
+
+step 1
+index added: 62
+percentage unclustered: 92.8%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 92.4%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 90.8%
+
+	step 2
+
+		step 3
+		candidate index: 64 with core nodes: [24, 35, 43, 61]
+
+step 1
+index added: 65
+percentage unclustered: 90.8%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 89.6%
+
+	step 2
+
+		step 3
+		candidate index: 66 with core nodes: [24, 35, 43, 61]
+
+step 1
+index added: 67
+percentage unclustered: 89.6%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 89.6%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 89.6%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 89.6%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 88.4%
+
+	step 2
+
+		step 3
+		candidate index: 71 with core nodes: [24, 35, 43, 61]
+
+step 1
+index added: 72
+percentage unclustered: 88.4%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 85.2%
+
+	step 2
+
+		step 3
+		candidate index: 75 with core nodes: [24, 35, 43, 49]
+
+step 1
+index added: 76
+percentage unclustered: 85.2%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 85.2%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 84.8%
+
+	step 2
+
+		step 3
+		candidate index: 78 with core nodes: [51, 52, 55, 78]
+			old information: 7544, gain: 0.9377958079783637
+
+    ind                                             review  relevance
+0   78  amazingly addictive device however neither bri...   0.648935
+1   35  got ipad little two months ago nice device lot...   0.643156
+2   49  pros n nthis apple 10 tablet computer packs lo...   0.595687
+3   61  bought ipad weeks ago absolutely love iphone i...   0.587284
+4   55  years ago read interesting article developer p...   0.521956
+5   51  ipad piece junk many issues praise apple marke...   0.490629
+6   31  review based upon ipad wifi 32 gb 11 months n ...   0.461196
+7   38  minute first saw ipad knew wanted one cash sho...   0.435242
+8   24  let first start stating biggest apple fan come...   0.406266
+9   48  buy ipad unless really love touch screens touc...   0.385197
+10  30  jerks still trying sell first generation ipads...   0.240729
+11  25  ipad delivered time fine shape m pleased ipad ...   0.224758
+12  18  wanted ipad quite time price 2 prohibitive cou...   0.204311
+13   9  longer supported apple ipad nversion 5 1 avail...   0.179896
+14  17  wanted ipad thought getting ipad second gen ki...   0.175950
+15  15  total shock opened used ipad ordered 10 year o...   0.119618
+16   5  actually surprised good shape 1st generation i...   0.065105
+
+step 1
+index added: 79
+percentage unclustered: 84.8%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 84.4%
+
+	step 2
+
+		step 3
+		candidate index: 80 with core nodes: [51, 52, 55, 78]
+
+step 1
+index added: 81
+percentage unclustered: 84.0%
+
+	step 2
+
+		step 3
+		candidate index: 81 with core nodes: [24, 35, 43, 81]
+			old information: 240, gain: 0.8383838383838383
+
+    ind                                             review  relevance
+0   78  amazingly addictive device however neither bri...   0.648935
+1   35  got ipad little two months ago nice device lot...   0.643156
+2   49  pros n nthis apple 10 tablet computer packs lo...   0.595687
+3   61  bought ipad weeks ago absolutely love iphone i...   0.587284
+4   55  years ago read interesting article developer p...   0.521956
+5   51  ipad piece junk many issues praise apple marke...   0.490629
+6   81  received new ipad past week exploring capabili...   0.479607
+7   31  review based upon ipad wifi 32 gb 11 months n ...   0.461196
+8   38  minute first saw ipad knew wanted one cash sho...   0.435242
+9   24  let first start stating biggest apple fan come...   0.406266
+10  48  buy ipad unless really love touch screens touc...   0.385197
+11  30  jerks still trying sell first generation ipads...   0.240729
+12  25  ipad delivered time fine shape m pleased ipad ...   0.224758
+13  18  wanted ipad quite time price 2 prohibitive cou...   0.204311
+14   9  longer supported apple ipad nversion 5 1 avail...   0.179896
+15  17  wanted ipad thought getting ipad second gen ki...   0.175950
+16  15  total shock opened used ipad ordered 10 year o...   0.119618
+17   5  actually surprised good shape 1st generation i...   0.065105
+
+step 1
+index added: 82
+percentage unclustered: 83.6%
+
+	step 2
+
+		step 3
+		candidate index: 82 with core nodes: [24, 35, 43, 81]
+
+step 1
+index added: 83
+percentage unclustered: 83.2%
+
+	step 2
+
+		step 3
+		candidate index: 83 with core nodes: [51, 55, 78, 83]
+			old information: 3197, gain: 0.8623169681309216
+
+    ind                                             review  relevance
+0   78  amazingly addictive device however neither bri...   0.648935
+1   35  got ipad little two months ago nice device lot...   0.643156
+2   83  try make review quick n nthe good stuff n dont...   0.640328
+3   49  pros n nthis apple 10 tablet computer packs lo...   0.595687
+4   61  bought ipad weeks ago absolutely love iphone i...   0.587284
+5   55  years ago read interesting article developer p...   0.521956
+6   51  ipad piece junk many issues praise apple marke...   0.490629
+7   81  received new ipad past week exploring capabili...   0.479607
+8   31  review based upon ipad wifi 32 gb 11 months n ...   0.461196
+9   38  minute first saw ipad knew wanted one cash sho...   0.435242
+10  24  let first start stating biggest apple fan come...   0.406266
+11  48  buy ipad unless really love touch screens touc...   0.385197
+12  30  jerks still trying sell first generation ipads...   0.240729
+13  25  ipad delivered time fine shape m pleased ipad ...   0.224758
+14  18  wanted ipad quite time price 2 prohibitive cou...   0.204311
+15   9  longer supported apple ipad nversion 5 1 avail...   0.179896
+16  17  wanted ipad thought getting ipad second gen ki...   0.175950
+17  15  total shock opened used ipad ordered 10 year o...   0.119618
+18   5  actually surprised good shape 1st generation i...   0.065105
+
+step 1
+index added: 84
+percentage unclustered: 82.8%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 83.2%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 83.2%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 82.8%
+
+	step 2
+
+		step 3
+		candidate index: 87 with core nodes: [24, 35, 43, 81]
+
+step 1
+index added: 88
+percentage unclustered: 82.4%
+
+	step 2
+
+		step 3
+		candidate index: 88 with core nodes: [24, 35, 43, 81]
+			old information: 11362, gain: 0.8937664207642609
+
+    ind                                             review  relevance
+0   78  amazingly addictive device however neither bri...   0.648935
+1   35  got ipad little two months ago nice device lot...   0.643156
+2   83  try make review quick n nthe good stuff n dont...   0.640328
+3   88  way background never fan apple closed ecosyste...   0.605574
+4   49  pros n nthis apple 10 tablet computer packs lo...   0.595687
+5   61  bought ipad weeks ago absolutely love iphone i...   0.587284
+6   55  years ago read interesting article developer p...   0.521956
+7   51  ipad piece junk many issues praise apple marke...   0.490629
+8   81  received new ipad past week exploring capabili...   0.479607
+9   31  review based upon ipad wifi 32 gb 11 months n ...   0.461196
+10  38  minute first saw ipad knew wanted one cash sho...   0.435242
+11  24  let first start stating biggest apple fan come...   0.406266
+12  48  buy ipad unless really love touch screens touc...   0.385197
+13  30  jerks still trying sell first generation ipads...   0.240729
+14  25  ipad delivered time fine shape m pleased ipad ...   0.224758
+15  18  wanted ipad quite time price 2 prohibitive cou...   0.204311
+16   9  longer supported apple ipad nversion 5 1 avail...   0.179896
+17  17  wanted ipad thought getting ipad second gen ki...   0.175950
+18  15  total shock opened used ipad ordered 10 year o...   0.119618
+19   5  actually surprised good shape 1st generation i...   0.065105
+
+step 1
+index added: 89
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 80.8%
+
+	step 2
+
+		step 3
+		candidate index: 94 with core nodes: [24, 35, 43, 81]
+
+step 1
+index added: 95
+percentage unclustered: 80.8%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 80.8%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 80.8%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 80.8%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 80.4%
+
+	step 2
+
+		step 3
+		candidate index: 99 with core nodes: [51, 78, 83, 99]
+			old information: 11355, gain: 0.9186930744114109
+
+    ind                                             review  relevance
+0   99  addendum dec 13th 2010 comments new ios operat...   0.729958
+1   78  amazingly addictive device however neither bri...   0.648935
+2   35  got ipad little two months ago nice device lot...   0.643156
+3   83  try make review quick n nthe good stuff n dont...   0.640328
+4   88  way background never fan apple closed ecosyste...   0.605574
+5   49  pros n nthis apple 10 tablet computer packs lo...   0.595687
+6   61  bought ipad weeks ago absolutely love iphone i...   0.587284
+7   55  years ago read interesting article developer p...   0.521956
+8   51  ipad piece junk many issues praise apple marke...   0.490629
+9   81  received new ipad past week exploring capabili...   0.479607
+10  31  review based upon ipad wifi 32 gb 11 months n ...   0.461196
+11  38  minute first saw ipad knew wanted one cash sho...   0.435242
+12  24  let first start stating biggest apple fan come...   0.406266
+13  48  buy ipad unless really love touch screens touc...   0.385197
+14  30  jerks still trying sell first generation ipads...   0.240729
+15  25  ipad delivered time fine shape m pleased ipad ...   0.224758
+16  18  wanted ipad quite time price 2 prohibitive cou...   0.204311
+17   9  longer supported apple ipad nversion 5 1 avail...   0.179896
+18  17  wanted ipad thought getting ipad second gen ki...   0.175950
+19  15  total shock opened used ipad ordered 10 year o...   0.119618
+20   5  actually surprised good shape 1st generation i...   0.065105
+
+step 1
+index added: 100
+percentage unclustered: 80.4%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 80.4%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 79.6%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 79.6%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 79.2%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 79.2%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 79.2%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 79.2%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 79.2%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 77.6%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 77.2%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 77.2%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 77.2%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 77.2%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 77.2%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 77.2%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 77.2%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 76.8%
+
+	step 2
+
+		step 3
+		candidate index: 121 with core nodes: [24, 35, 43, 81]
+
+step 1
+index added: 122
+percentage unclustered: 76.8%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 76.8%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 78.4%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 78.0%
+
+	step 2
+
+		step 3
+		candidate index: 125 with core nodes: [35, 43, 81, 125]
+			old information: 4736, gain: 0.8635787533125936
+
+     ind                                             review  relevance
+0    99  addendum dec 13th 2010 comments new ios operat...   0.729958
+1   125  ipad month bottom line ipad strong points over...   0.680565
+2    78  amazingly addictive device however neither bri...   0.648935
+3    35  got ipad little two months ago nice device lot...   0.643156
+4    83  try make review quick n nthe good stuff n dont...   0.640328
+5    88  way background never fan apple closed ecosyste...   0.605574
+6    49  pros n nthis apple 10 tablet computer packs lo...   0.595687
+7    61  bought ipad weeks ago absolutely love iphone i...   0.587284
+8    55  years ago read interesting article developer p...   0.521956
+9    51  ipad piece junk many issues praise apple marke...   0.490629
+10   81  received new ipad past week exploring capabili...   0.479607
+11   31  review based upon ipad wifi 32 gb 11 months n ...   0.461196
+12   38  minute first saw ipad knew wanted one cash sho...   0.435242
+13   24  let first start stating biggest apple fan come...   0.406266
+14   48  buy ipad unless really love touch screens touc...   0.385197
+15   30  jerks still trying sell first generation ipads...   0.240729
+16   25  ipad delivered time fine shape m pleased ipad ...   0.224758
+17   18  wanted ipad quite time price 2 prohibitive cou...   0.204311
+18    9  longer supported apple ipad nversion 5 1 avail...   0.179896
+19   17  wanted ipad thought getting ipad second gen ki...   0.175950
+20   15  total shock opened used ipad ordered 10 year o...   0.119618
+21    5  actually surprised good shape 1st generation i...   0.065105
+
+step 1
+index added: 126
+percentage unclustered: 77.6%
+
+	step 2
+
+		step 3
+		candidate index: 126 with core nodes: [35, 43, 81, 125]
+
+step 1
+index added: 127
+percentage unclustered: 77.6%
+
+	step 2
+
+step 1
+index added: 128
+percentage unclustered: 75.2%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 75.2%
+
+	step 2
+
+step 1
+index added: 130
+percentage unclustered: 74.8%
+
+	step 2
+
+		step 3
+		candidate index: 130 with core nodes: [4, 51, 78, 83]
+
+step 1
+index added: 131
+percentage unclustered: 74.8%
+
+	step 2
+
+step 1
+index added: 132
+percentage unclustered: 74.4%
+
+	step 2
+
+step 1
+index added: 133
+percentage unclustered: 74.4%
+
+	step 2
+
+step 1
+index added: 134
+percentage unclustered: 74.4%
+
+	step 2
+
+step 1
+index added: 135
+percentage unclustered: 74.4%
+
+	step 2
+
+step 1
+index added: 136
+percentage unclustered: 74.0%
+
+	step 2
+
+		step 3
+		candidate index: 136 with core nodes: [4, 51, 78, 83]
+
+step 1
+index added: 137
+percentage unclustered: 72.4%
+
+	step 2
+
+step 1
+index added: 138
+percentage unclustered: 72.0%
+
+	step 2
+
+step 1
+index added: 139
+percentage unclustered: 72.0%
+
+	step 2
+
+step 1
+index added: 140
+percentage unclustered: 72.0%
+
+	step 2
+
+step 1
+index added: 141
+percentage unclustered: 71.6%
+
+	step 2
+
+		step 3
+		candidate index: 141 with core nodes: [35, 43, 125]
+
+step 1
+index added: 142
+percentage unclustered: 71.6%
+
+	step 2
+
+step 1
+index added: 143
+percentage unclustered: 69.6%
+
+	step 2
+
+		step 3
+		candidate index: 143 with core nodes: [4, 51, 78, 83]
+
+step 1
+index added: 144
+percentage unclustered: 69.2%
+
+	step 2
+
+step 1
+index added: 145
+percentage unclustered: 68.8%
+
+	step 2
+
+step 1
+index added: 146
+percentage unclustered: 68.4%
+
+	step 2
+
+step 1
+index added: 147
+percentage unclustered: 68.4%
+
+	step 2
+
+step 1
+index added: 148
+percentage unclustered: 67.2%
+
+	step 2
+
+step 1
+index added: 149
+percentage unclustered: 66.8%
+
+	step 2
+
+step 1
+index added: 150
+percentage unclustered: 66.8%
+
+	step 2
+
+step 1
+index added: 151
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 152
+percentage unclustered: 67.6%
+
+	step 2
+
+step 1
+index added: 153
+percentage unclustered: 67.6%
+
+	step 2
+
+step 1
+index added: 154
+percentage unclustered: 67.2%
+
+	step 2
+
+step 1
+index added: 155
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 156
+percentage unclustered: 64.8%
+
+	step 2
+
+step 1
+index added: 157
+percentage unclustered: 64.8%
+
+	step 2
+
+step 1
+index added: 158
+percentage unclustered: 64.8%
+
+	step 2
+
+step 1
+index added: 159
+percentage unclustered: 64.4%
+
+	step 2
+
+		step 3
+		candidate index: 159 with core nodes: [4, 51, 78, 83]
+
+step 1
+index added: 160
+percentage unclustered: 64.4%
+
+	step 2
+
+step 1
+index added: 161
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 162
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 163
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 164
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 165
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 166
+percentage unclustered: 63.6%
+
+	step 2
+
+step 1
+index added: 167
+percentage unclustered: 63.2%
+
+	step 2
+
+		step 3
+		candidate index: 167 with core nodes: [4, 51, 78, 83]
+
+step 1
+index added: 168
+percentage unclustered: 62.8%
+
+	step 2
+
+		step 3
+		candidate index: 168 with core nodes: [35, 43, 125]
+
+step 1
+index added: 169
+percentage unclustered: 63.6%
+
+	step 2
+
+		step 3
+		candidate index: 169 with core nodes: [35, 43, 125]
+
+step 1
+index added: 170
+percentage unclustered: 64.8%
+
+	step 2
+
+step 1
+index added: 171
+percentage unclustered: 64.8%
+
+	step 2
+
+step 1
+index added: 172
+percentage unclustered: 64.4%
+
+	step 2
+
+step 1
+index added: 173
+percentage unclustered: 64.0%
+
+	step 2
+
+		step 3
+		candidate index: 173 with core nodes: [4, 51, 78, 83]
+
+step 1
+index added: 174
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 175
+percentage unclustered: 64.8%
+
+	step 2
+
+step 1
+index added: 176
+percentage unclustered: 64.8%
+
+	step 2
+
+step 1
+index added: 177
+percentage unclustered: 64.8%
+
+	step 2
+
+step 1
+index added: 178
+percentage unclustered: 64.8%
+
+	step 2
+
+step 1
+index added: 179
+percentage unclustered: 64.8%
+
+	step 2
+
+step 1
+index added: 180
+percentage unclustered: 64.4%
+
+	step 2
+
+step 1
+index added: 181
+percentage unclustered: 64.4%
+
+	step 2
+
+step 1
+index added: 182
+percentage unclustered: 64.4%
+
+	step 2
+
+step 1
+index added: 183
+percentage unclustered: 64.4%
+
+	step 2
+
+step 1
+index added: 184
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 185
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 186
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 187
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 188
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 189
+percentage unclustered: 64.8%
+
+	step 2
+
+step 1
+index added: 190
+percentage unclustered: 64.8%
+
+	step 2
+
+step 1
+index added: 191
+percentage unclustered: 64.4%
+
+	step 2
+
+step 1
+index added: 192
+percentage unclustered: 64.0%
+
+	step 2
+
+		step 3
+		candidate index: 192 with core nodes: [4, 51, 55, 83]
+
+step 1
+index added: 193
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 194
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 195
+percentage unclustered: 62.0%
+
+	step 2
+
+		step 3
+		candidate index: 195 with core nodes: [65, 123, 189, 190]
+
+step 1
+index added: 196
+percentage unclustered: 63.2%
+
+	step 2
+
+		step 3
+		candidate index: 196 with core nodes: [4, 51, 55, 83]
+
+step 1
+index added: 197
+percentage unclustered: 63.2%
+
+	step 2
+
+step 1
+index added: 198
+percentage unclustered: 61.6%
+
+	step 2
+
+		step 3
+		candidate index: 198 with core nodes: [4, 51, 83, 198]
+			old information: 3622, gain: 0.831753994797473
+
+     ind                                             review  relevance
+0    99  addendum dec 13th 2010 comments new ios operat...   0.729958
+1   198  many reviews said reviews apple fanboys worshi...   0.704425
+2   125  ipad month bottom line ipad strong points over...   0.680565
+3    78  amazingly addictive device however neither bri...   0.648935
+4    35  got ipad little two months ago nice device lot...   0.643156
+5    83  try make review quick n nthe good stuff n dont...   0.640328
+6    88  way background never fan apple closed ecosyste...   0.605574
+7    49  pros n nthis apple 10 tablet computer packs lo...   0.595687
+8    61  bought ipad weeks ago absolutely love iphone i...   0.587284
+9    55  years ago read interesting article developer p...   0.521956
+10   51  ipad piece junk many issues praise apple marke...   0.490629
+11   81  received new ipad past week exploring capabili...   0.479607
+12   31  review based upon ipad wifi 32 gb 11 months n ...   0.461196
+13   38  minute first saw ipad knew wanted one cash sho...   0.435242
+14   24  let first start stating biggest apple fan come...   0.406266
+15   48  buy ipad unless really love touch screens touc...   0.385197
+16   30  jerks still trying sell first generation ipads...   0.240729
+17   25  ipad delivered time fine shape m pleased ipad ...   0.224758
+18   18  wanted ipad quite time price 2 prohibitive cou...   0.204311
+19    9  longer supported apple ipad nversion 5 1 avail...   0.179896
+20   17  wanted ipad thought getting ipad second gen ki...   0.175950
+21   15  total shock opened used ipad ordered 10 year o...   0.119618
+22    5  actually surprised good shape 1st generation i...   0.065105
+
+step 1
+index added: 199
+percentage unclustered: 61.2%
+
+	step 2
+
+step 1
+index added: 200
+percentage unclustered: 60.8%
+
+	step 2
+
+		step 3
+		candidate index: 200 with core nodes: [4, 51, 83, 198]
+
+step 1
+index added: 201
+percentage unclustered: 60.8%
+
+	step 2
+
+step 1
+index added: 202
+percentage unclustered: 61.2%
+
+	step 2
+
+step 1
+index added: 203
+percentage unclustered: 60.8%
+
+	step 2
+
+step 1
+index added: 204
+percentage unclustered: 60.8%
+
+	step 2
+
+step 1
+index added: 205
+percentage unclustered: 58.0%
+
+	step 2
+
+step 1
+index added: 206
+percentage unclustered: 57.6%
+
+	step 2
+
+step 1
+index added: 207
+percentage unclustered: 57.6%
+
+	step 2
+
+step 1
+index added: 208
+percentage unclustered: 58.0%
+
+	step 2
+
+step 1
+index added: 209
+percentage unclustered: 58.0%
+
+	step 2
+
+step 1
+index added: 210
+percentage unclustered: 59.2%
+
+	step 2
+
+step 1
+index added: 211
+percentage unclustered: 58.8%
+
+	step 2
+
+		step 3
+		candidate index: 211 with core nodes: [78, 83, 198, 211]
+			old information: 2161, gain: 0.8212572373862697
+
+     ind                                             review  relevance
+0    99  addendum dec 13th 2010 comments new ios operat...   0.729958
+1   211  ipad potential decent device using week genera...   0.709437
+2   198  many reviews said reviews apple fanboys worshi...   0.704425
+3   125  ipad month bottom line ipad strong points over...   0.680565
+4    78  amazingly addictive device however neither bri...   0.648935
+5    35  got ipad little two months ago nice device lot...   0.643156
+6    83  try make review quick n nthe good stuff n dont...   0.640328
+7    88  way background never fan apple closed ecosyste...   0.605574
+8    49  pros n nthis apple 10 tablet computer packs lo...   0.595687
+9    61  bought ipad weeks ago absolutely love iphone i...   0.587284
+10   55  years ago read interesting article developer p...   0.521956
+11   51  ipad piece junk many issues praise apple marke...   0.490629
+12   81  received new ipad past week exploring capabili...   0.479607
+13   31  review based upon ipad wifi 32 gb 11 months n ...   0.461196
+14   38  minute first saw ipad knew wanted one cash sho...   0.435242
+15   24  let first start stating biggest apple fan come...   0.406266
+16   48  buy ipad unless really love touch screens touc...   0.385197
+17   30  jerks still trying sell first generation ipads...   0.240729
+18   25  ipad delivered time fine shape m pleased ipad ...   0.224758
+19   18  wanted ipad quite time price 2 prohibitive cou...   0.204311
+20    9  longer supported apple ipad nversion 5 1 avail...   0.179896
+21   17  wanted ipad thought getting ipad second gen ki...   0.175950
+22   15  total shock opened used ipad ordered 10 year o...   0.119618
+23    5  actually surprised good shape 1st generation i...   0.065105
+
+step 1
+index added: 212
+percentage unclustered: 58.4%
+
+	step 2
+
+step 1
+index added: 213
+percentage unclustered: 58.0%
+
+	step 2
+
+step 1
+index added: 214
+percentage unclustered: 57.6%
+
+	step 2
+
+		step 3
+		candidate index: 214 with core nodes: [78, 83, 211, 214]
+			old information: 93969, gain: 0.9837184525417383
+
+     ind                                             review  relevance
+0   214  spent serious time apple ipad since release ea...   0.905967
+1    99  addendum dec 13th 2010 comments new ios operat...   0.729958
+2   211  ipad potential decent device using week genera...   0.709437
+3   198  many reviews said reviews apple fanboys worshi...   0.704425
+4   125  ipad month bottom line ipad strong points over...   0.680565
+5    78  amazingly addictive device however neither bri...   0.648935
+6    35  got ipad little two months ago nice device lot...   0.643156
+7    83  try make review quick n nthe good stuff n dont...   0.640328
+8    88  way background never fan apple closed ecosyste...   0.605574
+9    49  pros n nthis apple 10 tablet computer packs lo...   0.595687
+10   61  bought ipad weeks ago absolutely love iphone i...   0.587284
+11   55  years ago read interesting article developer p...   0.521956
+12   51  ipad piece junk many issues praise apple marke...   0.490629
+13   81  received new ipad past week exploring capabili...   0.479607
+14   31  review based upon ipad wifi 32 gb 11 months n ...   0.461196
+15   38  minute first saw ipad knew wanted one cash sho...   0.435242
+16   24  let first start stating biggest apple fan come...   0.406266
+17   48  buy ipad unless really love touch screens touc...   0.385197
+18   30  jerks still trying sell first generation ipads...   0.240729
+19   25  ipad delivered time fine shape m pleased ipad ...   0.224758
+20   18  wanted ipad quite time price 2 prohibitive cou...   0.204311
+21    9  longer supported apple ipad nversion 5 1 avail...   0.179896
+22   17  wanted ipad thought getting ipad second gen ki...   0.175950
+23   15  total shock opened used ipad ordered 10 year o...   0.119618
+24    5  actually surprised good shape 1st generation i...   0.065105
+
+step 1
+index added: 215
+percentage unclustered: 57.6%
+
+	step 2
+
+step 1
+index added: 216
+percentage unclustered: 57.6%
+
+	step 2
+
+step 1
+index added: 217
+percentage unclustered: 57.2%
+
+	step 2
+
+step 1
+index added: 218
+percentage unclustered: 54.4%
+
+	step 2
+
+step 1
+index added: 219
+percentage unclustered: 54.4%
+
+	step 2
+
+step 1
+index added: 220
+percentage unclustered: 54.4%
+
+	step 2
+
+step 1
+index added: 221
+percentage unclustered: 54.0%
+
+	step 2
+
+step 1
+index added: 222
+percentage unclustered: 54.0%
+
+	step 2
+
+step 1
+index added: 223
+percentage unclustered: 54.0%
+
+	step 2
+
+step 1
+index added: 224
+percentage unclustered: 54.0%
+
+	step 2
+
+step 1
+index added: 225
+percentage unclustered: 54.0%
+
+	step 2
+
+step 1
+index added: 226
+percentage unclustered: 52.8%
+
+	step 2
+
+step 1
+index added: 227
+percentage unclustered: 52.8%
+
+	step 2
+
+step 1
+index added: 228
+percentage unclustered: 52.4%
+
+	step 2
+
+step 1
+index added: 229
+percentage unclustered: 52.4%
+
+	step 2
+
+step 1
+index added: 230
+percentage unclustered: 52.4%
+
+	step 2
+
+step 1
+index added: 231
+percentage unclustered: 52.0%
+
+	step 2
+
+		step 3
+		candidate index: 231 with core nodes: [136, 217, 231]
+			old information: 60079, gain: 0.8816242650651787
+
+     ind                                             review  relevance
+0   214  spent serious time apple ipad since release ea...   0.905967
+1   231  steve jobs described ipad magical revolutionar...   0.810009
+2    99  addendum dec 13th 2010 comments new ios operat...   0.729958
+3   211  ipad potential decent device using week genera...   0.709437
+4   198  many reviews said reviews apple fanboys worshi...   0.704425
+5   125  ipad month bottom line ipad strong points over...   0.680565
+6    78  amazingly addictive device however neither bri...   0.648935
+7    35  got ipad little two months ago nice device lot...   0.643156
+8    83  try make review quick n nthe good stuff n dont...   0.640328
+9    88  way background never fan apple closed ecosyste...   0.605574
+10   49  pros n nthis apple 10 tablet computer packs lo...   0.595687
+11   61  bought ipad weeks ago absolutely love iphone i...   0.587284
+12   55  years ago read interesting article developer p...   0.521956
+13   51  ipad piece junk many issues praise apple marke...   0.490629
+14   81  received new ipad past week exploring capabili...   0.479607
+15   31  review based upon ipad wifi 32 gb 11 months n ...   0.461196
+16   38  minute first saw ipad knew wanted one cash sho...   0.435242
+17   24  let first start stating biggest apple fan come...   0.406266
+18   48  buy ipad unless really love touch screens touc...   0.385197
+19   30  jerks still trying sell first generation ipads...   0.240729
+20   25  ipad delivered time fine shape m pleased ipad ...   0.224758
+21   18  wanted ipad quite time price 2 prohibitive cou...   0.204311
+22    9  longer supported apple ipad nversion 5 1 avail...   0.179896
+23   17  wanted ipad thought getting ipad second gen ki...   0.175950
+24   15  total shock opened used ipad ordered 10 year o...   0.119618
+25    5  actually surprised good shape 1st generation i...   0.065105
+
+step 1
+index added: 232
+percentage unclustered: 50.8%
+
+	step 2
+
+		step 3
+		candidate index: 232 with core nodes: [136, 217, 231]
+
+step 1
+index added: 233
+percentage unclustered: 49.6%
+
+	step 2
+
+step 1
+index added: 234
+percentage unclustered: 49.2%
+
+	step 2
+
+step 1
+index added: 235
+percentage unclustered: 49.2%
+
+	step 2
+
+step 1
+index added: 236
+percentage unclustered: 48.8%
+
+	step 2
+
+step 1
+index added: 237
+percentage unclustered: 48.4%
+
+	step 2
+
+		step 3
+		candidate index: 237 with core nodes: [214, 217, 231, 237]
+			old information: 94703, gain: 0.9167655429052564
+
+     ind                                             review  relevance
+0   214  spent serious time apple ipad since release ea...   0.905967
+1   237  summary nthe ipad beautiful gorgeous device pe...   0.852901
+2   231  steve jobs described ipad magical revolutionar...   0.810009
+3    99  addendum dec 13th 2010 comments new ios operat...   0.729958
+4   211  ipad potential decent device using week genera...   0.709437
+5   198  many reviews said reviews apple fanboys worshi...   0.704425
+6   125  ipad month bottom line ipad strong points over...   0.680565
+7    78  amazingly addictive device however neither bri...   0.648935
+8    35  got ipad little two months ago nice device lot...   0.643156
+9    83  try make review quick n nthe good stuff n dont...   0.640328
+10   88  way background never fan apple closed ecosyste...   0.605574
+11   49  pros n nthis apple 10 tablet computer packs lo...   0.595687
+12   61  bought ipad weeks ago absolutely love iphone i...   0.587284
+13   55  years ago read interesting article developer p...   0.521956
+14   51  ipad piece junk many issues praise apple marke...   0.490629
+15   81  received new ipad past week exploring capabili...   0.479607
+16   31  review based upon ipad wifi 32 gb 11 months n ...   0.461196
+17   38  minute first saw ipad knew wanted one cash sho...   0.435242
+18   24  let first start stating biggest apple fan come...   0.406266
+19   48  buy ipad unless really love touch screens touc...   0.385197
+20   30  jerks still trying sell first generation ipads...   0.240729
+21   25  ipad delivered time fine shape m pleased ipad ...   0.224758
+22   18  wanted ipad quite time price 2 prohibitive cou...   0.204311
+23    9  longer supported apple ipad nversion 5 1 avail...   0.179896
+24   17  wanted ipad thought getting ipad second gen ki...   0.175950
+25   15  total shock opened used ipad ordered 10 year o...   0.119618
+26    5  actually surprised good shape 1st generation i...   0.065105
+
+step 1
+index added: 238
+percentage unclustered: 48.0%
+
+	step 2
+
+step 1
+index added: 239
+percentage unclustered: 48.0%
+
+	step 2
+
+step 1
+index added: 240
+percentage unclustered: 48.0%
+
+	step 2
+
+step 1
+index added: 241
+percentage unclustered: 48.0%
+
+	step 2
+
+step 1
+index added: 242
+percentage unclustered: 47.6%
+
+	step 2
+
+		step 3
+		candidate index: 242 with core nodes: [214, 217, 231, 237]
+
+step 1
+index added: 243
+percentage unclustered: 47.6%
+
+	step 2
+
+step 1
+index added: 244
+percentage unclustered: 47.6%
+
+	step 2
+
+step 1
+index added: 245
+percentage unclustered: 47.2%
+
+	step 2
+
+step 1
+index added: 246
+percentage unclustered: 46.8%
+
+	step 2
+
+		step 3
+		candidate index: 246 with core nodes: [78, 83, 211]
+
+step 1
+index added: 247
+percentage unclustered: 46.4%
+
+	step 2
+
+		step 3
+		candidate index: 247 with core nodes: [78, 83, 211]
+
+step 1
+index added: 248
+percentage unclustered: 46.4%
+
+	step 2
+
+step 1
+index added: 249
+percentage unclustered: 46.8%
+
+	step 2
+
+--- 37891.73383808136 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 98.8, 98.8, 98.8, 98.8, 98.4, 98.4, 98.4, 98.4, 98.4, 98.4, 98.0, 98.0, 97.6, 97.2, 97.2, 97.2, 97.2, 97.2, 97.2, 95.6, 95.2, 95.2, 95.2, 95.2, 95.2, 94.8, 94.4, 94.4, 94.4, 94.4, 94.0, 94.0, 93.6, 93.2, 93.2, 93.2, 93.2, 93.2, 93.2, 93.2, 93.2, 92.8, 92.8, 92.4, 92.0, 91.2, 90.8, 89.6, 89.6, 89.2, 88.8, 88.8, 88.8, 88.8, 88.8, 88.4, 90.8, 92.8, 92.4, 90.8, 90.8, 89.6, 89.6, 89.6, 89.6, 89.6, 88.4, 88.4, 88.0, 88.0, 85.2, 85.2, 85.2, 84.8, 84.8, 84.4, 84.0, 83.6, 83.2, 82.8, 83.2, 83.2, 82.8, 82.4, 82.0, 82.0, 82.0, 82.0, 82.0, 80.8, 80.8, 80.8, 80.8, 80.8, 80.4, 80.4, 80.4, 80.0, 80.0, 79.6, 79.6, 79.2, 79.2, 79.2, 79.2, 79.2, 78.0, 78.0, 77.6, 77.2, 77.2, 77.2, 77.2, 77.2, 77.2, 77.2, 76.8, 76.8, 76.8, 78.4, 78.0, 77.6, 77.6, 75.2, 75.2, 74.8, 74.8, 74.4, 74.4, 74.4, 74.4, 74.0, 72.4, 72.0, 72.0, 72.0, 71.6, 71.6, 69.6, 69.2, 68.8, 68.4, 68.4, 67.2, 66.8, 66.8, 68.0, 67.6, 67.6, 67.2, 66.0, 64.8, 64.8, 64.8, 64.4, 64.4, 64.0, 64.0, 64.0, 64.0, 64.0, 63.6, 63.2, 62.8, 63.6, 64.8, 64.8, 64.4, 64.0, 64.0, 64.8, 64.8, 64.8, 64.8, 64.8, 64.4, 64.4, 64.4, 64.4, 64.0, 66.0, 66.0, 66.0, 66.0, 64.8, 64.8, 64.4, 64.0, 64.0, 64.0, 62.0, 63.2, 63.2, 61.6, 61.2, 60.8, 60.8, 61.2, 60.8, 60.8, 58.0, 57.6, 57.6, 58.0, 58.0, 59.2, 58.8, 58.4, 58.0, 57.6, 57.6, 57.6, 57.2, 54.4, 54.4, 54.4, 54.0, 54.0, 54.0, 54.0, 54.0, 52.8, 52.8, 52.4, 52.4, 52.4, 52.0, 50.8, 49.6, 49.2, 49.2, 48.8, 48.4, 48.0, 48.0, 48.0, 48.0, 47.6, 47.6, 47.6, 47.2, 46.8, 46.4, 46.4, 46.8], mean: 74.9452
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0         2  214   0.905967  spent serious time apple ipad since release ea...
+1        48  237   0.852901  summary nthe ipad beautiful gorgeous device pe...
+2        69  231   0.810009  steve jobs described ipad magical revolutionar...
+3       104   99   0.729958  addendum dec 13th 2010 comments new ios operat...
+4       189  211   0.709437  ipad potential decent device using week genera...
+5        51  198   0.704425  many reviews said reviews apple fanboys worshi...
+6       182  125   0.680565  ipad month bottom line ipad strong points over...
+7       178   78   0.648935  amazingly addictive device however neither bri...
+8        23   35   0.643156  got ipad little two months ago nice device lot...
+9       234   83   0.640328  try make review quick n nthe good stuff n dont...
+10       89   88   0.605574  way background never fan apple closed ecosyste...
+11      196   49   0.595687  pros n nthis apple 10 tablet computer packs lo...
+12      232   61   0.587284  bought ipad weeks ago absolutely love iphone i...
+13      231   55   0.521956  years ago read interesting article developer p...
+14       79   51   0.490629  ipad piece junk many issues praise apple marke...
+15      203   81   0.479607  received new ipad past week exploring capabili...
+16      171   31   0.461196  review based upon ipad wifi 32 gb 11 months n ...
+17      109   38   0.435242  minute first saw ipad knew wanted one cash sho...
+18      224   24   0.406266  let first start stating biggest apple fan come...
+19       98   48   0.385197  buy ipad unless really love touch screens touc...
+20      103   30   0.240729  jerks still trying sell first generation ipads...
+21      225   25   0.224758  ipad delivered time fine shape m pleased ipad ...
+22      222   18   0.204311  wanted ipad quite time price 2 prohibitive cou...
+23       40    9   0.179896  longer supported apple ipad nversion 5 1 avail...
+24      108   17   0.175950  wanted ipad thought getting ipad second gen ki...
+25      155   15   0.119618  total shock opened used ipad ordered 10 year o...
+26        6    5   0.065105  actually surprised good shape 1st generation i...

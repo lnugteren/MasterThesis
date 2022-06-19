@@ -1,0 +1,628 @@
+------- Category: CDs_and_Vinyl -------
+Found asin_id: B0009Q0F78
+Shape:  (100, 7)
+
+
+Chosen product: B0009Q0F78 has 100 reviews - True
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 100.0%
+
+step 1
+index added: 13
+percentage unclustered: 100.0%
+
+step 1
+index added: 14
+percentage unclustered: 100.0%
+
+step 1
+index added: 15
+percentage unclustered: 100.0%
+
+step 1
+index added: 16
+percentage unclustered: 100.0%
+
+step 1
+index added: 17
+percentage unclustered: 100.0%
+
+step 1
+index added: 18
+percentage unclustered: 100.0%
+
+step 1
+index added: 19
+percentage unclustered: 97.0%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [12, 13, 19]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  19  whatever happened paula irrelevant saw special...    0.19169
+
+step 1
+index added: 20
+percentage unclustered: 97.0%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 97.0%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 97.0%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 97.0%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 97.0%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [20, 23, 24]
+			old information: 157, gain: 0.992030861377595
+
+   ind                                             review  relevance
+0  24  bought cd like corey clark voice heard second ...   0.370616
+1  19  whatever happened paula irrelevant saw special...   0.191690
+
+step 1
+index added: 25
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 89.0%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 89.0%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 89.0%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 89.0%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 87.0%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 86.0%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [19, 23, 33]
+
+step 1
+index added: 38
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 83.0%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [19, 23, 24, 38, 41]
+			old information: 227, gain: 0.9559308872063677
+
+   ind                                             review  relevance
+0  41  first lets bs whole paula abdul thing well one...   0.418115
+1  24  bought cd like corey clark voice heard second ...   0.370616
+2  19  whatever happened paula irrelevant saw special...   0.191690
+
+step 1
+index added: 42
+percentage unclustered: 83.0%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 83.0%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 82.0%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [19, 23, 24, 38, 41, 45]
+			old information: 74, gain: 0.9419607843137255
+
+   ind                                             review  relevance
+0  41  first lets bs whole paula abdul thing well one...   0.418115
+1  45  loved every bit cd voice reminds debarge back ...   0.391110
+2  24  bought cd like corey clark voice heard second ...   0.370616
+3  19  whatever happened paula irrelevant saw special...   0.191690
+
+step 1
+index added: 46
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 83.0%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 83.0%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 83.0%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 83.0%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 83.0%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 83.0%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 83.0%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 83.0%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 83.0%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 83.0%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 78.0%
+
+	step 2
+
+		step 3
+		candidate index: 63 with core nodes: [19, 23, 31, 43, 44, 45, 52]
+
+step 1
+index added: 64
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 76.0%
+
+	step 2
+
+		step 3
+		candidate index: 74 with core nodes: [19, 21, 23, 31, 32, 43, 44, 45, 52]
+
+step 1
+index added: 75
+percentage unclustered: 76.0%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 74.0%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 74.0%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 74.0%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 74.0%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 74.0%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 74.0%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 73.0%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 73.0%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 69.0%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 71.0%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 69.0%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 69.0%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 69.0%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 69.0%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 73.0%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 69.0%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 66.0%
+
+	step 2
+
+		step 3
+		candidate index: 99 with core nodes: [19, 52, 99]
+			old information: 158, gain: 0.876078431372549
+
+   ind                                             review  relevance
+0  99  good cd great bad corey good voice used enough...   0.539537
+1  41  first lets bs whole paula abdul thing well one...   0.418115
+2  45  loved every bit cd voice reminds debarge back ...   0.391110
+3  24  bought cd like corey clark voice heard second ...   0.370616
+4  19  whatever happened paula irrelevant saw special...   0.191690
+
+--- 33.41387963294983 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 97.0, 97.0, 97.0, 97.0, 97.0, 97.0, 92.0, 92.0, 92.0, 92.0, 92.0, 92.0, 92.0, 89.0, 89.0, 89.0, 89.0, 87.0, 86.0, 86.0, 86.0, 86.0, 83.0, 83.0, 84.0, 83.0, 82.0, 82.0, 82.0, 82.0, 82.0, 83.0, 83.0, 83.0, 83.0, 83.0, 83.0, 83.0, 83.0, 83.0, 83.0, 82.0, 82.0, 82.0, 78.0, 78.0, 78.0, 78.0, 78.0, 78.0, 78.0, 78.0, 78.0, 78.0, 78.0, 76.0, 76.0, 75.0, 75.0, 74.0, 74.0, 74.0, 74.0, 74.0, 74.0, 73.0, 73.0, 70.0, 69.0, 71.0, 70.0, 70.0, 70.0, 69.0, 69.0, 69.0, 69.0, 73.0, 70.0, 69.0, 66.0], mean: 84.2449
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0       44  99   0.539537  good cd great bad corey good voice used enough...
+1       52  41   0.418115  first lets bs whole paula abdul thing well one...
+2       89  45   0.391110  loved every bit cd voice reminds debarge back ...
+3       94  24   0.370616  bought cd like corey clark voice heard second ...
+4       84  19   0.191690  whatever happened paula irrelevant saw special...

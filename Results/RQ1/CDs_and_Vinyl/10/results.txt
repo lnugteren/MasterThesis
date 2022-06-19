@@ -1,0 +1,61 @@
+------- Category: CDs_and_Vinyl -------
+Found asin_id: 1573300411
+Shape:  (10, 7)
+
+
+Chosen product: 1573300411 has 10 reviews - True
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [0, 5, 7]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   7  names larry m 19 dvd best one yet ozzy osbourn...   0.331284
+
+step 1
+index added: 8
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 70.0%
+
+	step 2
+
+--- 0.889610767364502 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 70.0, 70.0, 70.0], mean: 88.75
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0        8   7   0.331284  names larry m 19 dvd best one yet ozzy osbourn...

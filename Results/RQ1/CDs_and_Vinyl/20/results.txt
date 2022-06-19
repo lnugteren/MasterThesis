@@ -1,0 +1,126 @@
+------- Category: CDs_and_Vinyl -------
+Found asin_id: 1858705770
+Shape:  (20, 7)
+
+
+Chosen product: 1858705770 has 20 reviews - True
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 100.0%
+
+step 1
+index added: 13
+percentage unclustered: 100.0%
+
+step 1
+index added: 14
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [0, 2, 14]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  14  wow really good album think going see songs pl...   0.178174
+
+step 1
+index added: 15
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [4, 10, 17]
+			old information: 6, gain: 0.9942028985507246
+
+   ind                                             review  relevance
+0  17  either bad skynyrd really good montgomery gent...   0.352691
+1  14  wow really good album think going see songs pl...   0.178174
+
+step 1
+index added: 18
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [4, 8, 10, 13, 17, 19]
+			old information: 21, gain: 0.9917840375586855
+
+   ind                                             review  relevance
+0  19  true fan lynyrd skynyrd album disappoint looki...   0.391531
+1  17  either bad skynyrd really good montgomery gent...   0.352691
+2  14  wow really good album think going see songs pl...   0.178174
+
+--- 0.3541288375854492 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 85.0, 85.0, 85.0, 85.0, 85.0, 70.0], mean: 94.1667
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0       11  19   0.391531  true fan lynyrd skynyrd album disappoint looki...
+1       17  17   0.352691  either bad skynyrd really good montgomery gent...
+2       15  14   0.178174  wow really good album think going see songs pl...

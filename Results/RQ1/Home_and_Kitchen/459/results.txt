@@ -1,0 +1,4411 @@
+------- Category: Home_and_Kitchen -------
+Found asin_id: B0017ZV7J0
+Shape:  (459, 7)
+
+
+Chosen product: B0017ZV7J0 has 459 reviews - False, it has 459 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 99.3464%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [2, 8, 9]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   9  soooo comfortable makes way hot middle night w...   0.100419
+
+step 1
+index added: 10
+percentage unclustered: 99.3464%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 99.3464%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 99.3464%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 99.3464%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 99.3464%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 99.3464%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 99.3464%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 98.6928%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 98.6928%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 98.4749%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 98.4749%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 98.2571%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 98.0392%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [2, 8, 9, 22]
+			old information: 0, gain: 1.0
+
+step 1
+index added: 23
+percentage unclustered: 98.0392%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 97.8214%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 97.6035%
+
+	step 2
+
+		step 3
+		candidate index: 25 with core nodes: [2, 8, 9, 22, 25]
+			old information: 0, gain: 1.0
+
+step 1
+index added: 26
+percentage unclustered: 96.9499%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [4, 8, 17, 22, 23, 26]
+			old information: 3, gain: 0.9997453526865292
+
+   ind                                             review  relevance
+0  26  product great qualities accompanied couple nag...   0.263498
+1   9  soooo comfortable makes way hot middle night w...   0.100419
+
+step 1
+index added: 27
+percentage unclustered: 96.732%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 96.732%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 96.5142%
+
+	step 2
+
+		step 3
+		candidate index: 29 with core nodes: [8, 17, 22, 23, 26]
+			old information: 1, gain: 0.8333333333333334
+
+   ind                                             review  relevance
+0  26  product great qualities accompanied couple nag...   0.263498
+1  29                           made mattress much comfy   0.131538
+2   9  soooo comfortable makes way hot middle night w...   0.100419
+
+step 1
+index added: 30
+percentage unclustered: 96.5142%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 96.2963%
+
+	step 2
+
+		step 3
+		candidate index: 31 with core nodes: [4, 8, 23, 31]
+			old information: 0, gain: 1.0
+
+step 1
+index added: 32
+percentage unclustered: 96.0784%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 95.4248%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 95.4248%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 95.4248%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 95.4248%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 95.207%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [4, 5, 8, 22, 31, 37]
+			old information: 15, gain: 0.7727272727272727
+
+   ind                                             review  relevance
+0  26  product great qualities accompanied couple nag...   0.263498
+1  37  purchased uncomfortable mattress improved qual...   0.240525
+2  29                           made mattress much comfy   0.131538
+3   9  soooo comfortable makes way hot middle night w...   0.100419
+
+step 1
+index added: 38
+percentage unclustered: 94.9891%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 94.7712%
+
+	step 2
+
+		step 3
+		candidate index: 39 with core nodes: [4, 5, 8, 22, 31, 37, 39]
+			old information: 1, gain: 0.9333333333333333
+
+   ind                                             review  relevance
+0  26  product great qualities accompanied couple nag...   0.263498
+1  37  purchased uncomfortable mattress improved qual...   0.240525
+2  39        absolutely love mattress topper worth money   0.213850
+3  29                           made mattress much comfy   0.131538
+4   9  soooo comfortable makes way hot middle night w...   0.100419
+
+step 1
+index added: 40
+percentage unclustered: 94.5534%
+
+	step 2
+
+		step 3
+		candidate index: 40 with core nodes: [4, 8, 22, 39, 40]
+			old information: 1, gain: 0.6666666666666666
+
+   ind                                             review  relevance
+0  40                                  nice mattress pad   0.296001
+1  26  product great qualities accompanied couple nag...   0.263498
+2  37  purchased uncomfortable mattress improved qual...   0.240525
+3  39        absolutely love mattress topper worth money   0.213850
+4  29                           made mattress much comfy   0.131538
+5   9  soooo comfortable makes way hot middle night w...   0.100419
+
+		step 3
+		candidate index: 40 with core nodes: [5, 22, 31, 37, 39, 40]
+			old information: 3, gain: 0.0
+
+		step 3
+		candidate index: 40 with core nodes: [4, 5, 8, 22, 31, 37, 39]
+			old information: 3, gain: 0.0
+
+step 1
+index added: 41
+percentage unclustered: 94.3355%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 94.3355%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 94.1176%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 94.1176%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 93.8998%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 93.6819%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [17, 26, 46]
+			old information: 8, gain: 0.7777777777777778
+
+   ind                                             review  relevance
+0  40                                  nice mattress pad   0.296001
+1  26  product great qualities accompanied couple nag...   0.263498
+2  46  ordered year ago majorly improved sleep still ...   0.245782
+3  37  purchased uncomfortable mattress improved qual...   0.240525
+4  39        absolutely love mattress topper worth money   0.213850
+5  29                           made mattress much comfy   0.131538
+6   9  soooo comfortable makes way hot middle night w...   0.100419
+
+step 1
+index added: 47
+percentage unclustered: 93.6819%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [4, 5, 8, 22, 31, 35, 37, 39, 47]
+			old information: 1, gain: 0.9871794871794872
+
+   ind                                             review  relevance
+0  40                                  nice mattress pad   0.296001
+1  26  product great qualities accompanied couple nag...   0.263498
+2  46  ordered year ago majorly improved sleep still ...   0.245782
+3  37  purchased uncomfortable mattress improved qual...   0.240525
+4  39        absolutely love mattress topper worth money   0.213850
+5  47  memory foam topper turned guest bed new cozy t...   0.209617
+6  29                           made mattress much comfy   0.131538
+7   9  soooo comfortable makes way hot middle night w...   0.100419
+
+step 1
+index added: 48
+percentage unclustered: 93.0283%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 93.0283%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 93.2462%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 93.2462%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 93.0283%
+
+	step 2
+
+		step 3
+		candidate index: 52 with core nodes: [4, 5, 8, 22, 29, 31, 35, 37, 38, 39, 40, 47, 52]
+			old information: 3, gain: 0.7
+
+   ind                                             review  relevance
+0  40                                  nice mattress pad   0.296001
+1  26  product great qualities accompanied couple nag...   0.263498
+2  46  ordered year ago majorly improved sleep still ...   0.245782
+3  37  purchased uncomfortable mattress improved qual...   0.240525
+4  39        absolutely love mattress topper worth money   0.213850
+5  47  memory foam topper turned guest bed new cozy t...   0.209617
+6  52                            made bed like new happy   0.145255
+7  29                           made mattress much comfy   0.131538
+8   9  soooo comfortable makes way hot middle night w...   0.100419
+
+step 1
+index added: 53
+percentage unclustered: 93.0283%
+
+	step 2
+
+		step 3
+		candidate index: 53 with core nodes: [5, 8, 22, 29, 31, 35, 37, 38, 39, 40, 47, 52]
+			old information: 38, gain: 0.9724238026124818
+
+   ind                                             review  relevance
+0  40                                  nice mattress pad   0.296001
+1  26  product great qualities accompanied couple nag...   0.263498
+2  46  ordered year ago majorly improved sleep still ...   0.245782
+3  53  get thing sale good nspending 60 70 bucks wort...   0.241235
+4  37  purchased uncomfortable mattress improved qual...   0.240525
+5  39        absolutely love mattress topper worth money   0.213850
+6  47  memory foam topper turned guest bed new cozy t...   0.209617
+7  52                            made bed like new happy   0.145255
+8  29                           made mattress much comfy   0.131538
+9   9  soooo comfortable makes way hot middle night w...   0.100419
+
+step 1
+index added: 54
+percentage unclustered: 93.2462%
+
+	step 2
+
+		step 3
+		candidate index: 54 with core nodes: [17, 43, 54]
+			old information: 1, gain: 0.9333333333333333
+
+    ind                                             review  relevance
+0   40                                  nice mattress pad   0.296001
+1   26  product great qualities accompanied couple nag...   0.263498
+2   46  ordered year ago majorly improved sleep still ...   0.245782
+3   53  get thing sale good nspending 60 70 bucks wort...   0.241235
+4   37  purchased uncomfortable mattress improved qual...   0.240525
+5   54      good product comfortable expect dense picture   0.234890
+6   39        absolutely love mattress topper worth money   0.213850
+7   47  memory foam topper turned guest bed new cozy t...   0.209617
+8   52                            made bed like new happy   0.145255
+9   29                           made mattress much comfy   0.131538
+10   9  soooo comfortable makes way hot middle night w...   0.100419
+
+step 1
+index added: 55
+percentage unclustered: 93.2462%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 93.2462%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 93.0283%
+
+	step 2
+
+		step 3
+		candidate index: 57 with core nodes: [16, 22, 24, 29, 37, 38, 40, 46, 52, 57]
+			old information: 4, gain: 0.8888888888888888
+
+    ind                                             review  relevance
+0   40                                  nice mattress pad   0.296001
+1   26  product great qualities accompanied couple nag...   0.263498
+2   46  ordered year ago majorly improved sleep still ...   0.245782
+3   53  get thing sale good nspending 60 70 bucks wort...   0.241235
+4   37  purchased uncomfortable mattress improved qual...   0.240525
+5   54      good product comfortable expect dense picture   0.234890
+6   39        absolutely love mattress topper worth money   0.213850
+7   47  memory foam topper turned guest bed new cozy t...   0.209617
+8   52                            made bed like new happy   0.145255
+9   29                           made mattress much comfy   0.131538
+10   9  soooo comfortable makes way hot middle night w...   0.100419
+11  57  year still great condition wish would gotten t...   0.096986
+
+		step 3
+		candidate index: 57 with core nodes: [5, 16, 24, 29, 31, 37, 38, 39, 40, 46, 52, 53, 57]
+			old information: 36, gain: 0.0
+
+step 1
+index added: 58
+percentage unclustered: 93.0283%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 92.3747%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 92.3747%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 92.15690000000001%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 92.15690000000001%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 91.939%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 91.7211%
+
+	step 2
+
+		step 3
+		candidate index: 64 with core nodes: [5, 8, 22, 29, 31, 37, 38, 39, 40, 51, 52, 59, 61, 64]
+			old information: 5, gain: 0.9920634920634921
+
+    ind                                             review  relevance
+0   40                                  nice mattress pad   0.296001
+1   26  product great qualities accompanied couple nag...   0.263498
+2   46  ordered year ago majorly improved sleep still ...   0.245782
+3   53  get thing sale good nspending 60 70 bucks wort...   0.241235
+4   37  purchased uncomfortable mattress improved qual...   0.240525
+5   54      good product comfortable expect dense picture   0.234890
+6   39        absolutely love mattress topper worth money   0.213850
+7   47  memory foam topper turned guest bed new cozy t...   0.209617
+8   64  took package let puff overnight slight smell a...   0.186551
+9   52                            made bed like new happy   0.145255
+10  29                           made mattress much comfy   0.131538
+11   9  soooo comfortable makes way hot middle night w...   0.100419
+12  57  year still great condition wish would gotten t...   0.096986
+
+step 1
+index added: 65
+percentage unclustered: 90.8497%
+
+	step 2
+
+		step 3
+		candidate index: 65 with core nodes: [5, 8, 22, 31, 35, 37, 39]
+			old information: 4, gain: 0.9705882352941176
+
+    ind                                             review  relevance
+0   40                                  nice mattress pad   0.296001
+1   26  product great qualities accompanied couple nag...   0.263498
+2   65  topper comfortable rejuvenated too firm mattre...   0.257580
+3   46  ordered year ago majorly improved sleep still ...   0.245782
+4   53  get thing sale good nspending 60 70 bucks wort...   0.241235
+5   37  purchased uncomfortable mattress improved qual...   0.240525
+6   54      good product comfortable expect dense picture   0.234890
+7   39        absolutely love mattress topper worth money   0.213850
+8   47  memory foam topper turned guest bed new cozy t...   0.209617
+9   64  took package let puff overnight slight smell a...   0.186551
+10  52                            made bed like new happy   0.145255
+11  29                           made mattress much comfy   0.131538
+12   9  soooo comfortable makes way hot middle night w...   0.100419
+13  57  year still great condition wish would gotten t...   0.096986
+
+step 1
+index added: 66
+percentage unclustered: 90.1961%
+
+	step 2
+
+		step 3
+		candidate index: 66 with core nodes: [17, 43, 54]
+			old information: 3, gain: 0.7
+
+    ind                                             review  relevance
+0   66                     added mattress good quote like   0.309890
+1   40                                  nice mattress pad   0.296001
+2   26  product great qualities accompanied couple nag...   0.263498
+3   65  topper comfortable rejuvenated too firm mattre...   0.257580
+4   46  ordered year ago majorly improved sleep still ...   0.245782
+5   53  get thing sale good nspending 60 70 bucks wort...   0.241235
+6   37  purchased uncomfortable mattress improved qual...   0.240525
+7   54      good product comfortable expect dense picture   0.234890
+8   39        absolutely love mattress topper worth money   0.213850
+9   47  memory foam topper turned guest bed new cozy t...   0.209617
+10  64  took package let puff overnight slight smell a...   0.186551
+11  52                            made bed like new happy   0.145255
+12  29                           made mattress much comfy   0.131538
+13   9  soooo comfortable makes way hot middle night w...   0.100419
+14  57  year still great condition wish would gotten t...   0.096986
+
+step 1
+index added: 67
+percentage unclustered: 90.1961%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 89.9782%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 89.7603%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 89.5425%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 89.3246%
+
+	step 2
+
+		step 3
+		candidate index: 71 with core nodes: [8, 22, 26, 35, 37, 46, 47, 52, 71]
+			old information: 17, gain: 0.7424242424242424
+
+    ind                                             review  relevance
+0   66                     added mattress good quote like   0.309890
+1   40                                  nice mattress pad   0.296001
+2   26  product great qualities accompanied couple nag...   0.263498
+3   71  happy product would highly recommend pillow to...   0.262632
+4   65  topper comfortable rejuvenated too firm mattre...   0.257580
+5   46  ordered year ago majorly improved sleep still ...   0.245782
+6   53  get thing sale good nspending 60 70 bucks wort...   0.241235
+7   37  purchased uncomfortable mattress improved qual...   0.240525
+8   54      good product comfortable expect dense picture   0.234890
+9   39        absolutely love mattress topper worth money   0.213850
+10  47  memory foam topper turned guest bed new cozy t...   0.209617
+11  64  took package let puff overnight slight smell a...   0.186551
+12  52                            made bed like new happy   0.145255
+13  29                           made mattress much comfy   0.131538
+14   9  soooo comfortable makes way hot middle night w...   0.100419
+15  57  year still great condition wish would gotten t...   0.096986
+
+		step 3
+		candidate index: 71 with core nodes: [5, 26, 31, 35, 37, 39, 46, 47, 52, 71]
+			old information: 66, gain: 0.0
+
+step 1
+index added: 72
+percentage unclustered: 89.10679999999999%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 88.8889%
+
+	step 2
+
+		step 3
+		candidate index: 73 with core nodes: [8, 17, 22, 25, 26, 35, 40, 43, 47, 52, 54, 71, 73]
+			old information: 1, gain: 0.8333333333333334
+
+    ind                                             review  relevance
+0   66                     added mattress good quote like   0.309890
+1   40                                  nice mattress pad   0.296001
+2   73           enjoying mattress comfortable complaints   0.266661
+3   26  product great qualities accompanied couple nag...   0.263498
+4   71  happy product would highly recommend pillow to...   0.262632
+5   65  topper comfortable rejuvenated too firm mattre...   0.257580
+6   46  ordered year ago majorly improved sleep still ...   0.245782
+7   53  get thing sale good nspending 60 70 bucks wort...   0.241235
+8   37  purchased uncomfortable mattress improved qual...   0.240525
+9   54      good product comfortable expect dense picture   0.234890
+10  39        absolutely love mattress topper worth money   0.213850
+11  47  memory foam topper turned guest bed new cozy t...   0.209617
+12  64  took package let puff overnight slight smell a...   0.186551
+13  52                            made bed like new happy   0.145255
+14  29                           made mattress much comfy   0.131538
+15   9  soooo comfortable makes way hot middle night w...   0.100419
+16  57  year still great condition wish would gotten t...   0.096986
+
+		step 3
+		candidate index: 73 with core nodes: [5, 8, 17, 22, 25, 26, 31, 35, 37, 39, 40, 43, 46, 54, 73]
+			old information: 6, gain: 0.0
+
+		step 3
+		candidate index: 73 with core nodes: [5, 17, 22, 25, 26, 31, 35, 37, 39, 40, 43, 47, 52, 54, 71, 73]
+			old information: 6, gain: 0.0
+
+step 1
+index added: 74
+percentage unclustered: 88.8889%
+
+	step 2
+
+		step 3
+		candidate index: 74 with core nodes: [5, 24, 26, 31, 37, 39, 46, 47, 52, 63, 71, 74]
+			old information: 3, gain: 0.0
+
+		step 3
+		candidate index: 74 with core nodes: [8, 22, 24, 26, 35, 37, 39, 46, 47, 52, 63, 71, 74]
+			old information: 3, gain: 0.0
+
+		step 3
+		candidate index: 74 with core nodes: [8, 17, 22, 24, 25, 26, 35, 39, 40, 43, 47, 52, 54, 63, 71, 73, 74]
+			old information: 3, gain: 0.0
+
+		step 3
+		candidate index: 74 with core nodes: [5, 17, 22, 24, 25, 26, 31, 37, 39, 40, 43, 47, 52, 54, 63, 71, 73, 74]
+			old information: 3, gain: 0.0
+
+		step 3
+		candidate index: 74 with core nodes: [5, 8, 17, 22, 24, 25, 26, 31, 35, 37, 39, 40, 43, 46, 47, 54, 63, 73, 74]
+			old information: 3, gain: 0.0
+
+step 1
+index added: 75
+percentage unclustered: 88.67099999999999%
+
+	step 2
+
+		step 3
+		candidate index: 75 with core nodes: [25, 73, 75]
+			old information: 0, gain: 1.0
+
+step 1
+index added: 76
+percentage unclustered: 88.8889%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 88.8889%
+
+	step 2
+
+		step 3
+		candidate index: 77 with core nodes: [5, 24, 31, 37, 39, 46, 47, 57, 63, 74, 77]
+			old information: 10, gain: 0.8717948717948718
+
+    ind                                             review  relevance
+0   66                     added mattress good quote like   0.309890
+1   40                                  nice mattress pad   0.296001
+2   73           enjoying mattress comfortable complaints   0.266661
+3   26  product great qualities accompanied couple nag...   0.263498
+4   71  happy product would highly recommend pillow to...   0.262632
+5   65  topper comfortable rejuvenated too firm mattre...   0.257580
+6   46  ordered year ago majorly improved sleep still ...   0.245782
+7   53  get thing sale good nspending 60 70 bucks wort...   0.241235
+8   37  purchased uncomfortable mattress improved qual...   0.240525
+9   77  bought 9 year old jealous expensive foam toppe...   0.237273
+10  54      good product comfortable expect dense picture   0.234890
+11  39        absolutely love mattress topper worth money   0.213850
+12  47  memory foam topper turned guest bed new cozy t...   0.209617
+13  64  took package let puff overnight slight smell a...   0.186551
+14  52                            made bed like new happy   0.145255
+15  29                           made mattress much comfy   0.131538
+16   9  soooo comfortable makes way hot middle night w...   0.100419
+17  57  year still great condition wish would gotten t...   0.096986
+
+		step 3
+		candidate index: 77 with core nodes: [8, 22, 24, 35, 37, 39, 46, 47, 57, 63, 74, 77]
+			old information: 67, gain: 0.14102564102564102
+
+step 1
+index added: 78
+percentage unclustered: 88.67099999999999%
+
+	step 2
+
+		step 3
+		candidate index: 78 with core nodes: [25, 73, 75, 78]
+			old information: 1, gain: 0.8333333333333334
+
+    ind                                             review  relevance
+0   66                     added mattress good quote like   0.309890
+1   40                                  nice mattress pad   0.296001
+2   73           enjoying mattress comfortable complaints   0.266661
+3   26  product great qualities accompanied couple nag...   0.263498
+4   71  happy product would highly recommend pillow to...   0.262632
+5   78                       awesome made bed comfortable   0.259393
+6   65  topper comfortable rejuvenated too firm mattre...   0.257580
+7   46  ordered year ago majorly improved sleep still ...   0.245782
+8   53  get thing sale good nspending 60 70 bucks wort...   0.241235
+9   37  purchased uncomfortable mattress improved qual...   0.240525
+10  77  bought 9 year old jealous expensive foam toppe...   0.237273
+11  54      good product comfortable expect dense picture   0.234890
+12  39        absolutely love mattress topper worth money   0.213850
+13  47  memory foam topper turned guest bed new cozy t...   0.209617
+14  64  took package let puff overnight slight smell a...   0.186551
+15  52                            made bed like new happy   0.145255
+16  29                           made mattress much comfy   0.131538
+17   9  soooo comfortable makes way hot middle night w...   0.100419
+18  57  year still great condition wish would gotten t...   0.096986
+
+step 1
+index added: 79
+percentage unclustered: 88.4532%
+
+	step 2
+
+		step 3
+		candidate index: 79 with core nodes: [51, 52, 79]
+			old information: 11, gain: 0.9476190476190476
+
+    ind                                             review  relevance
+0   66                     added mattress good quote like   0.309890
+1   79  perfect fits bed like charm incredibly soft si...   0.307136
+2   40                                  nice mattress pad   0.296001
+3   73           enjoying mattress comfortable complaints   0.266661
+4   26  product great qualities accompanied couple nag...   0.263498
+5   71  happy product would highly recommend pillow to...   0.262632
+6   78                       awesome made bed comfortable   0.259393
+7   65  topper comfortable rejuvenated too firm mattre...   0.257580
+8   46  ordered year ago majorly improved sleep still ...   0.245782
+9   53  get thing sale good nspending 60 70 bucks wort...   0.241235
+10  37  purchased uncomfortable mattress improved qual...   0.240525
+11  77  bought 9 year old jealous expensive foam toppe...   0.237273
+12  54      good product comfortable expect dense picture   0.234890
+13  39        absolutely love mattress topper worth money   0.213850
+14  47  memory foam topper turned guest bed new cozy t...   0.209617
+15  64  took package let puff overnight slight smell a...   0.186551
+16  52                            made bed like new happy   0.145255
+17  29                           made mattress much comfy   0.131538
+18   9  soooo comfortable makes way hot middle night w...   0.100419
+19  57  year still great condition wish would gotten t...   0.096986
+
+step 1
+index added: 80
+percentage unclustered: 88.2353%
+
+	step 2
+
+		step 3
+		candidate index: 80 with core nodes: [16, 47, 74, 80]
+			old information: 17, gain: 0.958128078817734
+
+    ind                                             review  relevance
+0   80  rented apt staying town work 3 nites per week ...   0.417170
+1   66                     added mattress good quote like   0.309890
+2   79  perfect fits bed like charm incredibly soft si...   0.307136
+3   40                                  nice mattress pad   0.296001
+4   73           enjoying mattress comfortable complaints   0.266661
+5   26  product great qualities accompanied couple nag...   0.263498
+6   71  happy product would highly recommend pillow to...   0.262632
+7   78                       awesome made bed comfortable   0.259393
+8   65  topper comfortable rejuvenated too firm mattre...   0.257580
+9   46  ordered year ago majorly improved sleep still ...   0.245782
+10  53  get thing sale good nspending 60 70 bucks wort...   0.241235
+11  37  purchased uncomfortable mattress improved qual...   0.240525
+12  77  bought 9 year old jealous expensive foam toppe...   0.237273
+13  54      good product comfortable expect dense picture   0.234890
+14  39        absolutely love mattress topper worth money   0.213850
+15  47  memory foam topper turned guest bed new cozy t...   0.209617
+16  64  took package let puff overnight slight smell a...   0.186551
+17  52                            made bed like new happy   0.145255
+18  29                           made mattress much comfy   0.131538
+19   9  soooo comfortable makes way hot middle night w...   0.100419
+20  57  year still great condition wish would gotten t...   0.096986
+
+step 1
+index added: 81
+percentage unclustered: 88.0174%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 88.0174%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 87.7996%
+
+	step 2
+
+		step 3
+		candidate index: 83 with core nodes: [17, 43, 54]
+			old information: 0, gain: 1.0
+
+step 1
+index added: 84
+percentage unclustered: 87.7996%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 87.5817%
+
+	step 2
+
+		step 3
+		candidate index: 85 with core nodes: [22, 37, 85]
+			old information: 3, gain: 0.7
+
+    ind                                             review  relevance
+0   80  rented apt staying town work 3 nites per week ...   0.417170
+1   66                     added mattress good quote like   0.309890
+2   79  perfect fits bed like charm incredibly soft si...   0.307136
+3   40                                  nice mattress pad   0.296001
+4   73           enjoying mattress comfortable complaints   0.266661
+5   26  product great qualities accompanied couple nag...   0.263498
+6   71  happy product would highly recommend pillow to...   0.262632
+7   78                       awesome made bed comfortable   0.259393
+8   65  topper comfortable rejuvenated too firm mattre...   0.257580
+9   46  ordered year ago majorly improved sleep still ...   0.245782
+10  53  get thing sale good nspending 60 70 bucks wort...   0.241235
+11  37  purchased uncomfortable mattress improved qual...   0.240525
+12  77  bought 9 year old jealous expensive foam toppe...   0.237273
+13  54      good product comfortable expect dense picture   0.234890
+14  39        absolutely love mattress topper worth money   0.213850
+15  47  memory foam topper turned guest bed new cozy t...   0.209617
+16  64  took package let puff overnight slight smell a...   0.186551
+17  52                            made bed like new happy   0.145255
+18  29                           made mattress much comfy   0.131538
+19  85                      could ask better nights sleep   0.126164
+20   9  soooo comfortable makes way hot middle night w...   0.100419
+21  57  year still great condition wish would gotten t...   0.096986
+
+step 1
+index added: 86
+percentage unclustered: 87.3638%
+
+	step 2
+
+		step 3
+		candidate index: 86 with core nodes: [5, 22, 24, 29, 30, 31, 37, 38, 39, 40, 61, 63, 85, 86]
+			old information: 1, gain: 0.0
+
+step 1
+index added: 87
+percentage unclustered: 87.146%
+
+	step 2
+
+		step 3
+		candidate index: 87 with core nodes: [51, 52, 79]
+
+step 1
+index added: 88
+percentage unclustered: 87.146%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 86.9281%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 86.9281%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 86.9281%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 86.2745%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 86.4924%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 86.2745%
+
+	step 2
+
+		step 3
+		candidate index: 94 with core nodes: [16, 74, 86, 94]
+			old information: 11, gain: 0.7555555555555555
+
+    ind                                             review  relevance
+0   80  rented apt staying town work 3 nites per week ...   0.417170
+1   94  bought dorm bed daughter loves great comfort g...   0.342090
+2   66                     added mattress good quote like   0.309890
+3   79  perfect fits bed like charm incredibly soft si...   0.307136
+4   40                                  nice mattress pad   0.296001
+5   73           enjoying mattress comfortable complaints   0.266661
+6   26  product great qualities accompanied couple nag...   0.263498
+7   71  happy product would highly recommend pillow to...   0.262632
+8   78                       awesome made bed comfortable   0.259393
+9   65  topper comfortable rejuvenated too firm mattre...   0.257580
+10  46  ordered year ago majorly improved sleep still ...   0.245782
+11  53  get thing sale good nspending 60 70 bucks wort...   0.241235
+12  37  purchased uncomfortable mattress improved qual...   0.240525
+13  77  bought 9 year old jealous expensive foam toppe...   0.237273
+14  54      good product comfortable expect dense picture   0.234890
+15  39        absolutely love mattress topper worth money   0.213850
+16  47  memory foam topper turned guest bed new cozy t...   0.209617
+17  64  took package let puff overnight slight smell a...   0.186551
+18  52                            made bed like new happy   0.145255
+19  29                           made mattress much comfy   0.131538
+20  85                      could ask better nights sleep   0.126164
+21   9  soooo comfortable makes way hot middle night w...   0.100419
+22  57  year still great condition wish would gotten t...   0.096986
+
+step 1
+index added: 95
+percentage unclustered: 86.0566%
+
+	step 2
+
+		step 3
+		candidate index: 95 with core nodes: [52, 78, 95]
+			old information: 3, gain: 0.5
+
+    ind                                             review  relevance
+0   80  rented apt staying town work 3 nites per week ...   0.417170
+1   94  bought dorm bed daughter loves great comfort g...   0.342090
+2   95                    definitely made bed comfortable   0.324568
+3   66                     added mattress good quote like   0.309890
+4   79  perfect fits bed like charm incredibly soft si...   0.307136
+5   40                                  nice mattress pad   0.296001
+6   73           enjoying mattress comfortable complaints   0.266661
+7   26  product great qualities accompanied couple nag...   0.263498
+8   71  happy product would highly recommend pillow to...   0.262632
+9   78                       awesome made bed comfortable   0.259393
+10  65  topper comfortable rejuvenated too firm mattre...   0.257580
+11  46  ordered year ago majorly improved sleep still ...   0.245782
+12  53  get thing sale good nspending 60 70 bucks wort...   0.241235
+13  37  purchased uncomfortable mattress improved qual...   0.240525
+14  77  bought 9 year old jealous expensive foam toppe...   0.237273
+15  54      good product comfortable expect dense picture   0.234890
+16  39        absolutely love mattress topper worth money   0.213850
+17  47  memory foam topper turned guest bed new cozy t...   0.209617
+18  64  took package let puff overnight slight smell a...   0.186551
+19  52                            made bed like new happy   0.145255
+20  29                           made mattress much comfy   0.131538
+21  85                      could ask better nights sleep   0.126164
+22   9  soooo comfortable makes way hot middle night w...   0.100419
+23  57  year still great condition wish would gotten t...   0.096986
+
+step 1
+index added: 96
+percentage unclustered: 85.8388%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 85.8388%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 85.8388%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 85.6209%
+
+	step 2
+
+		step 3
+		candidate index: 99 with core nodes: [74, 86, 94, 99]
+			old information: 0, gain: 1.0
+
+step 1
+index added: 100
+percentage unclustered: 85.4031%
+
+	step 2
+
+		step 3
+		candidate index: 100 with core nodes: [25, 73, 75]
+
+step 1
+index added: 101
+percentage unclustered: 85.4031%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 85.1852%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 84.9673%
+
+	step 2
+
+		step 3
+		candidate index: 103 with core nodes: [16, 74, 103]
+			old information: 3, gain: 0.0
+
+step 1
+index added: 104
+percentage unclustered: 85.1852%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 85.1852%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 84.9673%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 85.8388%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 85.6209%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 85.4031%
+
+	step 2
+
+		step 3
+		candidate index: 109 with core nodes: [25, 73, 75]
+
+step 1
+index added: 110
+percentage unclustered: 85.1852%
+
+	step 2
+
+		step 3
+		candidate index: 110 with core nodes: [25, 73, 75]
+
+step 1
+index added: 111
+percentage unclustered: 84.9673%
+
+	step 2
+
+		step 3
+		candidate index: 111 with core nodes: [52, 78, 95, 111]
+			old information: 2, gain: 0.6666666666666666
+
+     ind                                             review  relevance
+0    80  rented apt staying town work 3 nites per week ...   0.417170
+1    94  bought dorm bed daughter loves great comfort g...   0.342090
+2    95                    definitely made bed comfortable   0.324568
+3    66                     added mattress good quote like   0.309890
+4    79  perfect fits bed like charm incredibly soft si...   0.307136
+5    40                                  nice mattress pad   0.296001
+6    73           enjoying mattress comfortable complaints   0.266661
+7    26  product great qualities accompanied couple nag...   0.263498
+8    71  happy product would highly recommend pillow to...   0.262632
+9    78                       awesome made bed comfortable   0.259393
+10   65  topper comfortable rejuvenated too firm mattre...   0.257580
+11   46  ordered year ago majorly improved sleep still ...   0.245782
+12   53  get thing sale good nspending 60 70 bucks wort...   0.241235
+13   37  purchased uncomfortable mattress improved qual...   0.240525
+14   77  bought 9 year old jealous expensive foam toppe...   0.237273
+15  111                                 made bed place zen   0.236447
+16   54      good product comfortable expect dense picture   0.234890
+17   39        absolutely love mattress topper worth money   0.213850
+18   47  memory foam topper turned guest bed new cozy t...   0.209617
+19   64  took package let puff overnight slight smell a...   0.186551
+20   52                            made bed like new happy   0.145255
+21   29                           made mattress much comfy   0.131538
+22   85                      could ask better nights sleep   0.126164
+23    9  soooo comfortable makes way hot middle night w...   0.100419
+24   57  year still great condition wish would gotten t...   0.096986
+
+step 1
+index added: 112
+percentage unclustered: 84.7495%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 84.5316%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 84.3137%
+
+	step 2
+
+		step 3
+		candidate index: 114 with core nodes: [25, 73, 75]
+			old information: 2, gain: 0.8666666666666667
+
+     ind                                             review  relevance
+0    80  rented apt staying town work 3 nites per week ...   0.417170
+1    94  bought dorm bed daughter loves great comfort g...   0.342090
+2    95                    definitely made bed comfortable   0.324568
+3    66                     added mattress good quote like   0.309890
+4    79  perfect fits bed like charm incredibly soft si...   0.307136
+5    40                                  nice mattress pad   0.296001
+6    73           enjoying mattress comfortable complaints   0.266661
+7    26  product great qualities accompanied couple nag...   0.263498
+8    71  happy product would highly recommend pillow to...   0.262632
+9    78                       awesome made bed comfortable   0.259393
+10   65  topper comfortable rejuvenated too firm mattre...   0.257580
+11  114  arrived described using futon mattress comfort...   0.251529
+12   46  ordered year ago majorly improved sleep still ...   0.245782
+13   53  get thing sale good nspending 60 70 bucks wort...   0.241235
+14   37  purchased uncomfortable mattress improved qual...   0.240525
+15   77  bought 9 year old jealous expensive foam toppe...   0.237273
+16  111                                 made bed place zen   0.236447
+17   54      good product comfortable expect dense picture   0.234890
+18   39        absolutely love mattress topper worth money   0.213850
+19   47  memory foam topper turned guest bed new cozy t...   0.209617
+20   64  took package let puff overnight slight smell a...   0.186551
+21   52                            made bed like new happy   0.145255
+22   29                           made mattress much comfy   0.131538
+23   85                      could ask better nights sleep   0.126164
+24    9  soooo comfortable makes way hot middle night w...   0.100419
+25   57  year still great condition wish would gotten t...   0.096986
+
+step 1
+index added: 115
+percentage unclustered: 84.0959%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 83.878%
+
+	step 2
+
+		step 3
+		candidate index: 116 with core nodes: [5, 16, 22, 24, 31, 37, 39, 40, 63, 80, 85, 86, 99, 103, 116]
+			old information: 26, gain: 0.9536541889483066
+
+     ind                                             review  relevance
+0    80  rented apt staying town work 3 nites per week ...   0.417170
+1   116  best memory foam mattress cover market live co...   0.382343
+2    94  bought dorm bed daughter loves great comfort g...   0.342090
+3    95                    definitely made bed comfortable   0.324568
+4    66                     added mattress good quote like   0.309890
+5    79  perfect fits bed like charm incredibly soft si...   0.307136
+6    40                                  nice mattress pad   0.296001
+7    73           enjoying mattress comfortable complaints   0.266661
+8    26  product great qualities accompanied couple nag...   0.263498
+9    71  happy product would highly recommend pillow to...   0.262632
+10   78                       awesome made bed comfortable   0.259393
+11   65  topper comfortable rejuvenated too firm mattre...   0.257580
+12  114  arrived described using futon mattress comfort...   0.251529
+13   46  ordered year ago majorly improved sleep still ...   0.245782
+14   53  get thing sale good nspending 60 70 bucks wort...   0.241235
+15   37  purchased uncomfortable mattress improved qual...   0.240525
+16   77  bought 9 year old jealous expensive foam toppe...   0.237273
+17  111                                 made bed place zen   0.236447
+18   54      good product comfortable expect dense picture   0.234890
+19   39        absolutely love mattress topper worth money   0.213850
+20   47  memory foam topper turned guest bed new cozy t...   0.209617
+21   64  took package let puff overnight slight smell a...   0.186551
+22   52                            made bed like new happy   0.145255
+23   29                           made mattress much comfy   0.131538
+24   85                      could ask better nights sleep   0.126164
+25    9  soooo comfortable makes way hot middle night w...   0.100419
+26   57  year still great condition wish would gotten t...   0.096986
+
+step 1
+index added: 117
+percentage unclustered: 83.6601%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 83.6601%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 83.4423%
+
+	step 2
+
+		step 3
+		candidate index: 119 with core nodes: [16, 18, 24, 63, 80, 86, 99, 103, 116, 119]
+			old information: 0, gain: 1.0
+
+		step 3
+		candidate index: 119 with core nodes: [5, 18, 22, 31, 37, 39, 40, 63, 85, 116, 119]
+			old information: 0, gain: 1.0
+
+		step 3
+		candidate index: 119 with core nodes: [5, 16, 22, 24, 31, 37, 39, 40, 63, 80, 85, 86, 99, 103, 116]
+			old information: 0, gain: 1.0
+
+step 1
+index added: 120
+percentage unclustered: 83.2244%
+
+	step 2
+
+		step 3
+		candidate index: 120 with core nodes: [26, 83, 120]
+			old information: 137, gain: 0.9543789543789544
+
+     ind                                             review  relevance
+0   120  well worth price 87 79 free shipping love 3 in...   0.486342
+1    80  rented apt staying town work 3 nites per week ...   0.417170
+2   116  best memory foam mattress cover market live co...   0.382343
+3    94  bought dorm bed daughter loves great comfort g...   0.342090
+4    95                    definitely made bed comfortable   0.324568
+5    66                     added mattress good quote like   0.309890
+6    79  perfect fits bed like charm incredibly soft si...   0.307136
+7    40                                  nice mattress pad   0.296001
+8    73           enjoying mattress comfortable complaints   0.266661
+9    26  product great qualities accompanied couple nag...   0.263498
+10   71  happy product would highly recommend pillow to...   0.262632
+11   78                       awesome made bed comfortable   0.259393
+12   65  topper comfortable rejuvenated too firm mattre...   0.257580
+13  114  arrived described using futon mattress comfort...   0.251529
+14   46  ordered year ago majorly improved sleep still ...   0.245782
+15   53  get thing sale good nspending 60 70 bucks wort...   0.241235
+16   37  purchased uncomfortable mattress improved qual...   0.240525
+17   77  bought 9 year old jealous expensive foam toppe...   0.237273
+18  111                                 made bed place zen   0.236447
+19   54      good product comfortable expect dense picture   0.234890
+20   39        absolutely love mattress topper worth money   0.213850
+21   47  memory foam topper turned guest bed new cozy t...   0.209617
+22   64  took package let puff overnight slight smell a...   0.186551
+23   52                            made bed like new happy   0.145255
+24   29                           made mattress much comfy   0.131538
+25   85                      could ask better nights sleep   0.126164
+26    9  soooo comfortable makes way hot middle night w...   0.100419
+27   57  year still great condition wish would gotten t...   0.096986
+
+step 1
+index added: 121
+percentage unclustered: 83.2244%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 83.2244%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 83.2244%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 83.0065%
+
+	step 2
+
+		step 3
+		candidate index: 124 with core nodes: [25, 73, 75]
+
+step 1
+index added: 125
+percentage unclustered: 82.7887%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 82.7887%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 82.57079999999999%
+
+	step 2
+
+		step 3
+		candidate index: 127 with core nodes: [16, 18, 24, 63, 80, 86, 99, 103, 116, 119, 127]
+			old information: 3, gain: 0.8
+
+     ind                                             review  relevance
+0   120  well worth price 87 79 free shipping love 3 in...   0.486342
+1    80  rented apt staying town work 3 nites per week ...   0.417170
+2   116  best memory foam mattress cover market live co...   0.382343
+3    94  bought dorm bed daughter loves great comfort g...   0.342090
+4    95                    definitely made bed comfortable   0.324568
+5    66                     added mattress good quote like   0.309890
+6    79  perfect fits bed like charm incredibly soft si...   0.307136
+7    40                                  nice mattress pad   0.296001
+8    73           enjoying mattress comfortable complaints   0.266661
+9    26  product great qualities accompanied couple nag...   0.263498
+10   71  happy product would highly recommend pillow to...   0.262632
+11   78                       awesome made bed comfortable   0.259393
+12   65  topper comfortable rejuvenated too firm mattre...   0.257580
+13  114  arrived described using futon mattress comfort...   0.251529
+14   46  ordered year ago majorly improved sleep still ...   0.245782
+15   53  get thing sale good nspending 60 70 bucks wort...   0.241235
+16   37  purchased uncomfortable mattress improved qual...   0.240525
+17   77  bought 9 year old jealous expensive foam toppe...   0.237273
+18  111                                 made bed place zen   0.236447
+19   54      good product comfortable expect dense picture   0.234890
+20   39        absolutely love mattress topper worth money   0.213850
+21   47  memory foam topper turned guest bed new cozy t...   0.209617
+22   64  took package let puff overnight slight smell a...   0.186551
+23  127                  love love love cant sleep without   0.166640
+24   52                            made bed like new happy   0.145255
+25   29                           made mattress much comfy   0.131538
+26   85                      could ask better nights sleep   0.126164
+27    9  soooo comfortable makes way hot middle night w...   0.100419
+28   57  year still great condition wish would gotten t...   0.096986
+
+step 1
+index added: 128
+percentage unclustered: 82.3529%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 81.6993%
+
+	step 2
+
+		step 3
+		candidate index: 129 with core nodes: [5, 22, 37, 40, 41, 67, 79, 80, 85, 108, 116]
+
+		step 3
+		candidate index: 129 with core nodes: [5, 16, 18, 22, 24, 37, 40, 41, 63, 67, 79, 85, 86, 99, 103, 108, 116, 119, 127]
+
+step 1
+index added: 130
+percentage unclustered: 81.4815%
+
+	step 2
+
+step 1
+index added: 131
+percentage unclustered: 81.2636%
+
+	step 2
+
+		step 3
+		candidate index: 131 with core nodes: [5, 22, 37, 40, 41, 67, 79, 80, 85, 108, 116]
+			old information: 6, gain: 0.8666666666666667
+
+     ind                                             review  relevance
+0   120  well worth price 87 79 free shipping love 3 in...   0.486342
+1    80  rented apt staying town work 3 nites per week ...   0.417170
+2   116  best memory foam mattress cover market live co...   0.382343
+3    94  bought dorm bed daughter loves great comfort g...   0.342090
+4    95                    definitely made bed comfortable   0.324568
+5    66                     added mattress good quote like   0.309890
+6    79  perfect fits bed like charm incredibly soft si...   0.307136
+7    40                                  nice mattress pad   0.296001
+8    73           enjoying mattress comfortable complaints   0.266661
+9    26  product great qualities accompanied couple nag...   0.263498
+10   71  happy product would highly recommend pillow to...   0.262632
+11   78                       awesome made bed comfortable   0.259393
+12   65  topper comfortable rejuvenated too firm mattre...   0.257580
+13  114  arrived described using futon mattress comfort...   0.251529
+14   46  ordered year ago majorly improved sleep still ...   0.245782
+15   53  get thing sale good nspending 60 70 bucks wort...   0.241235
+16   37  purchased uncomfortable mattress improved qual...   0.240525
+17   77  bought 9 year old jealous expensive foam toppe...   0.237273
+18  111                                 made bed place zen   0.236447
+19   54      good product comfortable expect dense picture   0.234890
+20  131  needed bright white memory foam covered quilte...   0.232304
+21   39        absolutely love mattress topper worth money   0.213850
+22   47  memory foam topper turned guest bed new cozy t...   0.209617
+23   64  took package let puff overnight slight smell a...   0.186551
+24  127                  love love love cant sleep without   0.166640
+25   52                            made bed like new happy   0.145255
+26   29                           made mattress much comfy   0.131538
+27   85                      could ask better nights sleep   0.126164
+28    9  soooo comfortable makes way hot middle night w...   0.100419
+29   57  year still great condition wish would gotten t...   0.096986
+
+		step 3
+		candidate index: 131 with core nodes: [16, 18, 24, 63, 67, 80, 86, 99, 103, 116, 119, 127]
+
+step 1
+index added: 132
+percentage unclustered: 81.0458%
+
+	step 2
+
+		step 3
+		candidate index: 132 with core nodes: [52, 78, 95, 111]
+
+step 1
+index added: 133
+percentage unclustered: 81.0458%
+
+	step 2
+
+step 1
+index added: 134
+percentage unclustered: 81.0458%
+
+	step 2
+
+step 1
+index added: 135
+percentage unclustered: 81.0458%
+
+	step 2
+
+step 1
+index added: 136
+percentage unclustered: 81.6993%
+
+	step 2
+
+step 1
+index added: 137
+percentage unclustered: 81.4815%
+
+	step 2
+
+step 1
+index added: 138
+percentage unclustered: 81.4815%
+
+	step 2
+
+step 1
+index added: 139
+percentage unclustered: 81.4815%
+
+	step 2
+
+step 1
+index added: 140
+percentage unclustered: 81.4815%
+
+	step 2
+
+step 1
+index added: 141
+percentage unclustered: 81.4815%
+
+	step 2
+
+step 1
+index added: 142
+percentage unclustered: 81.4815%
+
+	step 2
+
+step 1
+index added: 143
+percentage unclustered: 81.4815%
+
+	step 2
+
+step 1
+index added: 144
+percentage unclustered: 81.4815%
+
+	step 2
+
+step 1
+index added: 145
+percentage unclustered: 81.2636%
+
+	step 2
+
+step 1
+index added: 146
+percentage unclustered: 81.0458%
+
+	step 2
+
+step 1
+index added: 147
+percentage unclustered: 81.0458%
+
+	step 2
+
+step 1
+index added: 148
+percentage unclustered: 80.8279%
+
+	step 2
+
+		step 3
+		candidate index: 148 with core nodes: [24, 63, 127, 148]
+			old information: 1, gain: 0.0
+
+step 1
+index added: 149
+percentage unclustered: 80.8279%
+
+	step 2
+
+step 1
+index added: 150
+percentage unclustered: 80.8279%
+
+	step 2
+
+step 1
+index added: 151
+percentage unclustered: 80.8279%
+
+	step 2
+
+step 1
+index added: 152
+percentage unclustered: 80.8279%
+
+	step 2
+
+step 1
+index added: 153
+percentage unclustered: 80.8279%
+
+	step 2
+
+step 1
+index added: 154
+percentage unclustered: 80.61%
+
+	step 2
+
+step 1
+index added: 155
+percentage unclustered: 80.61%
+
+	step 2
+
+step 1
+index added: 156
+percentage unclustered: 80.3922%
+
+	step 2
+
+		step 3
+		candidate index: 156 with core nodes: [25, 75, 156]
+			old information: 0, gain: 1.0
+
+step 1
+index added: 157
+percentage unclustered: 80.1743%
+
+	step 2
+
+step 1
+index added: 158
+percentage unclustered: 79.9564%
+
+	step 2
+
+step 1
+index added: 159
+percentage unclustered: 79.9564%
+
+	step 2
+
+step 1
+index added: 160
+percentage unclustered: 79.7386%
+
+	step 2
+
+		step 3
+		candidate index: 160 with core nodes: [25, 75, 156, 160]
+			old information: 1, gain: 0.0
+
+step 1
+index added: 161
+percentage unclustered: 79.7386%
+
+	step 2
+
+step 1
+index added: 162
+percentage unclustered: 79.5207%
+
+	step 2
+
+step 1
+index added: 163
+percentage unclustered: 79.3028%
+
+	step 2
+
+		step 3
+		candidate index: 163 with core nodes: [17, 43, 54, 163]
+			old information: 1, gain: 0.0
+
+step 1
+index added: 164
+percentage unclustered: 79.08500000000001%
+
+	step 2
+
+		step 3
+		candidate index: 164 with core nodes: [25, 75, 156, 160]
+			old information: 6, gain: 0.7142857142857143
+
+     ind                                             review  relevance
+0   120  well worth price 87 79 free shipping love 3 in...   0.486342
+1    80  rented apt staying town work 3 nites per week ...   0.417170
+2   116  best memory foam mattress cover market live co...   0.382343
+3    94  bought dorm bed daughter loves great comfort g...   0.342090
+4    95                    definitely made bed comfortable   0.324568
+5    66                     added mattress good quote like   0.309890
+6    79  perfect fits bed like charm incredibly soft si...   0.307136
+7    40                                  nice mattress pad   0.296001
+8    73           enjoying mattress comfortable complaints   0.266661
+9    26  product great qualities accompanied couple nag...   0.263498
+10   71  happy product would highly recommend pillow to...   0.262632
+11   78                       awesome made bed comfortable   0.259393
+12   65  topper comfortable rejuvenated too firm mattre...   0.257580
+13  114  arrived described using futon mattress comfort...   0.251529
+14   46  ordered year ago majorly improved sleep still ...   0.245782
+15   53  get thing sale good nspending 60 70 bucks wort...   0.241235
+16   37  purchased uncomfortable mattress improved qual...   0.240525
+17   77  bought 9 year old jealous expensive foam toppe...   0.237273
+18  111                                 made bed place zen   0.236447
+19   54      good product comfortable expect dense picture   0.234890
+20  131  needed bright white memory foam covered quilte...   0.232304
+21   39        absolutely love mattress topper worth money   0.213850
+22   47  memory foam topper turned guest bed new cozy t...   0.209617
+23  164  guests reported topper extremely comfortable s...   0.207733
+24   64  took package let puff overnight slight smell a...   0.186551
+25  127                  love love love cant sleep without   0.166640
+26   52                            made bed like new happy   0.145255
+27   29                           made mattress much comfy   0.131538
+28   85                      could ask better nights sleep   0.126164
+29    9  soooo comfortable makes way hot middle night w...   0.100419
+30   57  year still great condition wish would gotten t...   0.096986
+
+step 1
+index added: 165
+percentage unclustered: 78.8671%
+
+	step 2
+
+		step 3
+		candidate index: 165 with core nodes: [63, 127, 148, 165]
+			old information: 1, gain: 0.0
+
+step 1
+index added: 166
+percentage unclustered: 78.8671%
+
+	step 2
+
+step 1
+index added: 167
+percentage unclustered: 78.8671%
+
+	step 2
+
+step 1
+index added: 168
+percentage unclustered: 78.8671%
+
+	step 2
+
+step 1
+index added: 169
+percentage unclustered: 78.8671%
+
+	step 2
+
+step 1
+index added: 170
+percentage unclustered: 78.8671%
+
+	step 2
+
+step 1
+index added: 171
+percentage unclustered: 78.8671%
+
+	step 2
+
+step 1
+index added: 172
+percentage unclustered: 78.2135%
+
+	step 2
+
+step 1
+index added: 173
+percentage unclustered: 77.342%
+
+	step 2
+
+step 1
+index added: 174
+percentage unclustered: 77.342%
+
+	step 2
+
+step 1
+index added: 175
+percentage unclustered: 77.342%
+
+	step 2
+
+step 1
+index added: 176
+percentage unclustered: 77.5599%
+
+	step 2
+
+step 1
+index added: 177
+percentage unclustered: 77.342%
+
+	step 2
+
+step 1
+index added: 178
+percentage unclustered: 77.342%
+
+	step 2
+
+step 1
+index added: 179
+percentage unclustered: 77.342%
+
+	step 2
+
+step 1
+index added: 180
+percentage unclustered: 77.342%
+
+	step 2
+
+step 1
+index added: 181
+percentage unclustered: 76.4706%
+
+	step 2
+
+step 1
+index added: 182
+percentage unclustered: 76.2527%
+
+	step 2
+
+		step 3
+		candidate index: 182 with core nodes: [43, 50, 182]
+			old information: 10, gain: 0.7777777777777778
+
+     ind                                             review  relevance
+0   120  well worth price 87 79 free shipping love 3 in...   0.486342
+1    80  rented apt staying town work 3 nites per week ...   0.417170
+2   116  best memory foam mattress cover market live co...   0.382343
+3    94  bought dorm bed daughter loves great comfort g...   0.342090
+4    95                    definitely made bed comfortable   0.324568
+5    66                     added mattress good quote like   0.309890
+6    79  perfect fits bed like charm incredibly soft si...   0.307136
+7    40                                  nice mattress pad   0.296001
+8    73           enjoying mattress comfortable complaints   0.266661
+9    26  product great qualities accompanied couple nag...   0.263498
+10   71  happy product would highly recommend pillow to...   0.262632
+11   78                       awesome made bed comfortable   0.259393
+12   65  topper comfortable rejuvenated too firm mattre...   0.257580
+13  114  arrived described using futon mattress comfort...   0.251529
+14   46  ordered year ago majorly improved sleep still ...   0.245782
+15   53  get thing sale good nspending 60 70 bucks wort...   0.241235
+16   37  purchased uncomfortable mattress improved qual...   0.240525
+17   77  bought 9 year old jealous expensive foam toppe...   0.237273
+18  111                                 made bed place zen   0.236447
+19   54      good product comfortable expect dense picture   0.234890
+20  131  needed bright white memory foam covered quilte...   0.232304
+21  182  good price good quality like using 2 weeks wor...   0.214778
+22   39        absolutely love mattress topper worth money   0.213850
+23   47  memory foam topper turned guest bed new cozy t...   0.209617
+24  164  guests reported topper extremely comfortable s...   0.207733
+25   64  took package let puff overnight slight smell a...   0.186551
+26  127                  love love love cant sleep without   0.166640
+27   52                            made bed like new happy   0.145255
+28   29                           made mattress much comfy   0.131538
+29   85                      could ask better nights sleep   0.126164
+30    9  soooo comfortable makes way hot middle night w...   0.100419
+31   57  year still great condition wish would gotten t...   0.096986
+
+step 1
+index added: 183
+percentage unclustered: 76.2527%
+
+	step 2
+
+step 1
+index added: 184
+percentage unclustered: 76.0349%
+
+	step 2
+
+step 1
+index added: 185
+percentage unclustered: 76.0349%
+
+	step 2
+
+step 1
+index added: 186
+percentage unclustered: 76.0349%
+
+	step 2
+
+step 1
+index added: 187
+percentage unclustered: 76.4706%
+
+	step 2
+
+step 1
+index added: 188
+percentage unclustered: 76.4706%
+
+	step 2
+
+step 1
+index added: 189
+percentage unclustered: 76.4706%
+
+	step 2
+
+step 1
+index added: 190
+percentage unclustered: 76.4706%
+
+	step 2
+
+step 1
+index added: 191
+percentage unclustered: 77.5599%
+
+	step 2
+
+step 1
+index added: 192
+percentage unclustered: 77.5599%
+
+	step 2
+
+step 1
+index added: 193
+percentage unclustered: 77.1242%
+
+	step 2
+
+		step 3
+		candidate index: 193 with core nodes: [52, 78, 95, 111]
+
+step 1
+index added: 194
+percentage unclustered: 76.4706%
+
+	step 2
+
+step 1
+index added: 195
+percentage unclustered: 76.4706%
+
+	step 2
+
+step 1
+index added: 196
+percentage unclustered: 76.2527%
+
+	step 2
+
+step 1
+index added: 197
+percentage unclustered: 76.2527%
+
+	step 2
+
+step 1
+index added: 198
+percentage unclustered: 76.2527%
+
+	step 2
+
+step 1
+index added: 199
+percentage unclustered: 76.2527%
+
+	step 2
+
+step 1
+index added: 200
+percentage unclustered: 76.0349%
+
+	step 2
+
+step 1
+index added: 201
+percentage unclustered: 75.3813%
+
+	step 2
+
+step 1
+index added: 202
+percentage unclustered: 75.3813%
+
+	step 2
+
+step 1
+index added: 203
+percentage unclustered: 75.1634%
+
+	step 2
+
+		step 3
+		candidate index: 203 with core nodes: [52, 78, 95, 111]
+
+step 1
+index added: 204
+percentage unclustered: 74.9455%
+
+	step 2
+
+step 1
+index added: 205
+percentage unclustered: 74.7277%
+
+	step 2
+
+step 1
+index added: 206
+percentage unclustered: 74.7277%
+
+	step 2
+
+step 1
+index added: 207
+percentage unclustered: 74.0741%
+
+	step 2
+
+		step 3
+		candidate index: 207 with core nodes: [52, 78, 95, 111]
+
+step 1
+index added: 208
+percentage unclustered: 73.2026%
+
+	step 2
+
+		step 3
+		candidate index: 208 with core nodes: [86, 99, 103, 208]
+			old information: 6, gain: 0.8333333333333334
+
+     ind                                             review  relevance
+0   120  well worth price 87 79 free shipping love 3 in...   0.486342
+1    80  rented apt staying town work 3 nites per week ...   0.417170
+2   116  best memory foam mattress cover market live co...   0.382343
+3    94  bought dorm bed daughter loves great comfort g...   0.342090
+4   208  great addition mattress wonderful sleep easy s...   0.328010
+5    95                    definitely made bed comfortable   0.324568
+6    66                     added mattress good quote like   0.309890
+7    79  perfect fits bed like charm incredibly soft si...   0.307136
+8    40                                  nice mattress pad   0.296001
+9    73           enjoying mattress comfortable complaints   0.266661
+10   26  product great qualities accompanied couple nag...   0.263498
+11   71  happy product would highly recommend pillow to...   0.262632
+12   78                       awesome made bed comfortable   0.259393
+13   65  topper comfortable rejuvenated too firm mattre...   0.257580
+14  114  arrived described using futon mattress comfort...   0.251529
+15   46  ordered year ago majorly improved sleep still ...   0.245782
+16   53  get thing sale good nspending 60 70 bucks wort...   0.241235
+17   37  purchased uncomfortable mattress improved qual...   0.240525
+18   77  bought 9 year old jealous expensive foam toppe...   0.237273
+19  111                                 made bed place zen   0.236447
+20   54      good product comfortable expect dense picture   0.234890
+21  131  needed bright white memory foam covered quilte...   0.232304
+22  182  good price good quality like using 2 weeks wor...   0.214778
+23   39        absolutely love mattress topper worth money   0.213850
+24   47  memory foam topper turned guest bed new cozy t...   0.209617
+25  164  guests reported topper extremely comfortable s...   0.207733
+26   64  took package let puff overnight slight smell a...   0.186551
+27  127                  love love love cant sleep without   0.166640
+28   52                            made bed like new happy   0.145255
+29   29                           made mattress much comfy   0.131538
+30   85                      could ask better nights sleep   0.126164
+31    9  soooo comfortable makes way hot middle night w...   0.100419
+32   57  year still great condition wish would gotten t...   0.096986
+
+step 1
+index added: 209
+percentage unclustered: 73.2026%
+
+	step 2
+
+step 1
+index added: 210
+percentage unclustered: 74.7277%
+
+	step 2
+
+step 1
+index added: 211
+percentage unclustered: 73.8562%
+
+	step 2
+
+		step 3
+		candidate index: 211 with core nodes: [52, 78, 95, 111]
+
+step 1
+index added: 212
+percentage unclustered: 73.2026%
+
+	step 2
+
+		step 3
+		candidate index: 212 with core nodes: [40, 116, 212]
+			old information: 17, gain: 0.6909090909090909
+
+     ind                                             review  relevance
+0   120  well worth price 87 79 free shipping love 3 in...   0.486342
+1    80  rented apt staying town work 3 nites per week ...   0.417170
+2   212  bought mattress pad cover together fouton matt...   0.387381
+3   116  best memory foam mattress cover market live co...   0.382343
+4    94  bought dorm bed daughter loves great comfort g...   0.342090
+5   208  great addition mattress wonderful sleep easy s...   0.328010
+6    95                    definitely made bed comfortable   0.324568
+7    66                     added mattress good quote like   0.309890
+8    79  perfect fits bed like charm incredibly soft si...   0.307136
+9    40                                  nice mattress pad   0.296001
+10   73           enjoying mattress comfortable complaints   0.266661
+11   26  product great qualities accompanied couple nag...   0.263498
+12   71  happy product would highly recommend pillow to...   0.262632
+13   78                       awesome made bed comfortable   0.259393
+14   65  topper comfortable rejuvenated too firm mattre...   0.257580
+15  114  arrived described using futon mattress comfort...   0.251529
+16   46  ordered year ago majorly improved sleep still ...   0.245782
+17   53  get thing sale good nspending 60 70 bucks wort...   0.241235
+18   37  purchased uncomfortable mattress improved qual...   0.240525
+19   77  bought 9 year old jealous expensive foam toppe...   0.237273
+20  111                                 made bed place zen   0.236447
+21   54      good product comfortable expect dense picture   0.234890
+22  131  needed bright white memory foam covered quilte...   0.232304
+23  182  good price good quality like using 2 weeks wor...   0.214778
+24   39        absolutely love mattress topper worth money   0.213850
+25   47  memory foam topper turned guest bed new cozy t...   0.209617
+26  164  guests reported topper extremely comfortable s...   0.207733
+27   64  took package let puff overnight slight smell a...   0.186551
+28  127                  love love love cant sleep without   0.166640
+29   52                            made bed like new happy   0.145255
+30   29                           made mattress much comfy   0.131538
+31   85                      could ask better nights sleep   0.126164
+32    9  soooo comfortable makes way hot middle night w...   0.100419
+33   57  year still great condition wish would gotten t...   0.096986
+
+step 1
+index added: 213
+percentage unclustered: 72.9847%
+
+	step 2
+
+step 1
+index added: 214
+percentage unclustered: 72.9847%
+
+	step 2
+
+step 1
+index added: 215
+percentage unclustered: 72.76689999999999%
+
+	step 2
+
+step 1
+index added: 216
+percentage unclustered: 72.9847%
+
+	step 2
+
+step 1
+index added: 217
+percentage unclustered: 72.9847%
+
+	step 2
+
+step 1
+index added: 218
+percentage unclustered: 72.1133%
+
+	step 2
+
+step 1
+index added: 219
+percentage unclustered: 72.1133%
+
+	step 2
+
+step 1
+index added: 220
+percentage unclustered: 72.1133%
+
+	step 2
+
+step 1
+index added: 221
+percentage unclustered: 72.1133%
+
+	step 2
+
+step 1
+index added: 222
+percentage unclustered: 71.2418%
+
+	step 2
+
+step 1
+index added: 223
+percentage unclustered: 71.2418%
+
+	step 2
+
+step 1
+index added: 224
+percentage unclustered: 70.3704%
+
+	step 2
+
+step 1
+index added: 225
+percentage unclustered: 70.1525%
+
+	step 2
+
+step 1
+index added: 226
+percentage unclustered: 70.1525%
+
+	step 2
+
+step 1
+index added: 227
+percentage unclustered: 69.49889999999999%
+
+	step 2
+
+		step 3
+		candidate index: 227 with core nodes: [40, 116, 212]
+
+step 1
+index added: 228
+percentage unclustered: 69.281%
+
+	step 2
+
+step 1
+index added: 229
+percentage unclustered: 68.6275%
+
+	step 2
+
+step 1
+index added: 230
+percentage unclustered: 68.1917%
+
+	step 2
+
+		step 3
+		candidate index: 230 with core nodes: [40, 116, 212]
+
+step 1
+index added: 231
+percentage unclustered: 67.9739%
+
+	step 2
+
+step 1
+index added: 232
+percentage unclustered: 67.9739%
+
+	step 2
+
+step 1
+index added: 233
+percentage unclustered: 67.756%
+
+	step 2
+
+step 1
+index added: 234
+percentage unclustered: 67.3203%
+
+	step 2
+
+step 1
+index added: 235
+percentage unclustered: 67.3203%
+
+	step 2
+
+step 1
+index added: 236
+percentage unclustered: 67.3203%
+
+	step 2
+
+step 1
+index added: 237
+percentage unclustered: 66.8845%
+
+	step 2
+
+step 1
+index added: 238
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 239
+percentage unclustered: 66.8845%
+
+	step 2
+
+step 1
+index added: 240
+percentage unclustered: 66.23089999999999%
+
+	step 2
+
+		step 3
+		candidate index: 240 with core nodes: [52, 78, 95, 111]
+
+step 1
+index added: 241
+percentage unclustered: 66.23089999999999%
+
+	step 2
+
+step 1
+index added: 242
+percentage unclustered: 66.23089999999999%
+
+	step 2
+
+step 1
+index added: 243
+percentage unclustered: 66.23089999999999%
+
+	step 2
+
+step 1
+index added: 244
+percentage unclustered: 66.23089999999999%
+
+	step 2
+
+step 1
+index added: 245
+percentage unclustered: 65.7952%
+
+	step 2
+
+step 1
+index added: 246
+percentage unclustered: 63.3987%
+
+	step 2
+
+		step 3
+		candidate index: 246 with core nodes: [13, 142, 246]
+			old information: 28, gain: 0.9202279202279202
+
+     ind                                             review  relevance
+0   120  well worth price 87 79 free shipping love 3 in...   0.486342
+1    80  rented apt staying town work 3 nites per week ...   0.417170
+2   212  bought mattress pad cover together fouton matt...   0.387381
+3   116  best memory foam mattress cover market live co...   0.382343
+4    94  bought dorm bed daughter loves great comfort g...   0.342090
+5   208  great addition mattress wonderful sleep easy s...   0.328010
+6    95                    definitely made bed comfortable   0.324568
+7    66                     added mattress good quote like   0.309890
+8    79  perfect fits bed like charm incredibly soft si...   0.307136
+9    40                                  nice mattress pad   0.296001
+10   73           enjoying mattress comfortable complaints   0.266661
+11   26  product great qualities accompanied couple nag...   0.263498
+12  246  comfortable love even woke morning back back p...   0.263153
+13   71  happy product would highly recommend pillow to...   0.262632
+14   78                       awesome made bed comfortable   0.259393
+15   65  topper comfortable rejuvenated too firm mattre...   0.257580
+16  114  arrived described using futon mattress comfort...   0.251529
+17   46  ordered year ago majorly improved sleep still ...   0.245782
+18   53  get thing sale good nspending 60 70 bucks wort...   0.241235
+19   37  purchased uncomfortable mattress improved qual...   0.240525
+20   77  bought 9 year old jealous expensive foam toppe...   0.237273
+21  111                                 made bed place zen   0.236447
+22   54      good product comfortable expect dense picture   0.234890
+23  131  needed bright white memory foam covered quilte...   0.232304
+24  182  good price good quality like using 2 weeks wor...   0.214778
+25   39        absolutely love mattress topper worth money   0.213850
+26   47  memory foam topper turned guest bed new cozy t...   0.209617
+27  164  guests reported topper extremely comfortable s...   0.207733
+28   64  took package let puff overnight slight smell a...   0.186551
+29  127                  love love love cant sleep without   0.166640
+30   52                            made bed like new happy   0.145255
+31   29                           made mattress much comfy   0.131538
+32   85                      could ask better nights sleep   0.126164
+33    9  soooo comfortable makes way hot middle night w...   0.100419
+34   57  year still great condition wish would gotten t...   0.096986
+
+step 1
+index added: 247
+percentage unclustered: 63.3987%
+
+	step 2
+
+step 1
+index added: 248
+percentage unclustered: 62.7451%
+
+	step 2
+
+step 1
+index added: 249
+percentage unclustered: 62.5272%
+
+	step 2
+
+step 1
+index added: 250
+percentage unclustered: 62.3094%
+
+	step 2
+
+step 1
+index added: 251
+percentage unclustered: 62.0915%
+
+	step 2
+
+		step 3
+		candidate index: 251 with core nodes: [78, 95, 111]
+
+step 1
+index added: 252
+percentage unclustered: 60.5664%
+
+	step 2
+
+step 1
+index added: 253
+percentage unclustered: 60.3486%
+
+	step 2
+
+		step 3
+		candidate index: 253 with core nodes: [63, 127, 148, 165]
+
+step 1
+index added: 254
+percentage unclustered: 60.5664%
+
+	step 2
+
+step 1
+index added: 255
+percentage unclustered: 60.3486%
+
+	step 2
+
+step 1
+index added: 256
+percentage unclustered: 60.1307%
+
+	step 2
+
+step 1
+index added: 257
+percentage unclustered: 60.1307%
+
+	step 2
+
+step 1
+index added: 258
+percentage unclustered: 59.4771%
+
+	step 2
+
+step 1
+index added: 259
+percentage unclustered: 59.4771%
+
+	step 2
+
+step 1
+index added: 260
+percentage unclustered: 59.4771%
+
+	step 2
+
+step 1
+index added: 261
+percentage unclustered: 59.2593%
+
+	step 2
+
+step 1
+index added: 262
+percentage unclustered: 59.0414%
+
+	step 2
+
+step 1
+index added: 263
+percentage unclustered: 58.8235%
+
+	step 2
+
+step 1
+index added: 264
+percentage unclustered: 58.6057%
+
+	step 2
+
+		step 3
+		candidate index: 264 with core nodes: [63, 127, 148, 165]
+
+step 1
+index added: 265
+percentage unclustered: 58.3878%
+
+	step 2
+
+		step 3
+		candidate index: 265 with core nodes: [8, 77, 194, 218, 255, 261, 265]
+			old information: 104, gain: 0.6533333333333333
+
+     ind                                             review  relevance
+0   120  well worth price 87 79 free shipping love 3 in...   0.486342
+1    80  rented apt staying town work 3 nites per week ...   0.417170
+2   265  topper excellent value get price turned overly...   0.406274
+3   212  bought mattress pad cover together fouton matt...   0.387381
+4   116  best memory foam mattress cover market live co...   0.382343
+5    94  bought dorm bed daughter loves great comfort g...   0.342090
+6   208  great addition mattress wonderful sleep easy s...   0.328010
+7    95                    definitely made bed comfortable   0.324568
+8    66                     added mattress good quote like   0.309890
+9    79  perfect fits bed like charm incredibly soft si...   0.307136
+10   40                                  nice mattress pad   0.296001
+11   73           enjoying mattress comfortable complaints   0.266661
+12   26  product great qualities accompanied couple nag...   0.263498
+13  246  comfortable love even woke morning back back p...   0.263153
+14   71  happy product would highly recommend pillow to...   0.262632
+15   78                       awesome made bed comfortable   0.259393
+16   65  topper comfortable rejuvenated too firm mattre...   0.257580
+17  114  arrived described using futon mattress comfort...   0.251529
+18   46  ordered year ago majorly improved sleep still ...   0.245782
+19   53  get thing sale good nspending 60 70 bucks wort...   0.241235
+20   37  purchased uncomfortable mattress improved qual...   0.240525
+21   77  bought 9 year old jealous expensive foam toppe...   0.237273
+22  111                                 made bed place zen   0.236447
+23   54      good product comfortable expect dense picture   0.234890
+24  131  needed bright white memory foam covered quilte...   0.232304
+25  182  good price good quality like using 2 weeks wor...   0.214778
+26   39        absolutely love mattress topper worth money   0.213850
+27   47  memory foam topper turned guest bed new cozy t...   0.209617
+28  164  guests reported topper extremely comfortable s...   0.207733
+29   64  took package let puff overnight slight smell a...   0.186551
+30  127                  love love love cant sleep without   0.166640
+31   52                            made bed like new happy   0.145255
+32   29                           made mattress much comfy   0.131538
+33   85                      could ask better nights sleep   0.126164
+34    9  soooo comfortable makes way hot middle night w...   0.100419
+35   57  year still great condition wish would gotten t...   0.096986
+
+step 1
+index added: 266
+percentage unclustered: 58.6057%
+
+	step 2
+
+step 1
+index added: 267
+percentage unclustered: 58.6057%
+
+	step 2
+
+step 1
+index added: 268
+percentage unclustered: 58.3878%
+
+	step 2
+
+step 1
+index added: 269
+percentage unclustered: 58.1699%
+
+	step 2
+
+step 1
+index added: 270
+percentage unclustered: 58.1699%
+
+	step 2
+
+step 1
+index added: 271
+percentage unclustered: 58.6057%
+
+	step 2
+
+		step 3
+		candidate index: 271 with core nodes: [8, 77, 194, 218, 255, 261, 265]
+
+step 1
+index added: 272
+percentage unclustered: 58.8235%
+
+	step 2
+
+step 1
+index added: 273
+percentage unclustered: 58.6057%
+
+	step 2
+
+step 1
+index added: 274
+percentage unclustered: 58.3878%
+
+	step 2
+
+step 1
+index added: 275
+percentage unclustered: 58.3878%
+
+	step 2
+
+step 1
+index added: 276
+percentage unclustered: 58.3878%
+
+	step 2
+
+step 1
+index added: 277
+percentage unclustered: 58.6057%
+
+	step 2
+
+step 1
+index added: 278
+percentage unclustered: 58.8235%
+
+	step 2
+
+step 1
+index added: 279
+percentage unclustered: 59.0414%
+
+	step 2
+
+step 1
+index added: 280
+percentage unclustered: 58.8235%
+
+	step 2
+
+		step 3
+		candidate index: 280 with core nodes: [40, 116, 212]
+
+step 1
+index added: 281
+percentage unclustered: 58.3878%
+
+	step 2
+
+step 1
+index added: 282
+percentage unclustered: 58.3878%
+
+	step 2
+
+step 1
+index added: 283
+percentage unclustered: 58.3878%
+
+	step 2
+
+step 1
+index added: 284
+percentage unclustered: 58.3878%
+
+	step 2
+
+step 1
+index added: 285
+percentage unclustered: 57.7342%
+
+	step 2
+
+step 1
+index added: 286
+percentage unclustered: 57.7342%
+
+	step 2
+
+step 1
+index added: 287
+percentage unclustered: 57.7342%
+
+	step 2
+
+step 1
+index added: 288
+percentage unclustered: 57.7342%
+
+	step 2
+
+step 1
+index added: 289
+percentage unclustered: 57.5163%
+
+	step 2
+
+		step 3
+		candidate index: 289 with core nodes: [25, 75, 160]
+
+step 1
+index added: 290
+percentage unclustered: 57.5163%
+
+	step 2
+
+step 1
+index added: 291
+percentage unclustered: 57.5163%
+
+	step 2
+
+step 1
+index added: 292
+percentage unclustered: 57.7342%
+
+	step 2
+
+step 1
+index added: 293
+percentage unclustered: 57.7342%
+
+	step 2
+
+step 1
+index added: 294
+percentage unclustered: 57.7342%
+
+	step 2
+
+step 1
+index added: 295
+percentage unclustered: 56.8627%
+
+	step 2
+
+		step 3
+		candidate index: 295 with core nodes: [78, 95, 111, 121]
+
+step 1
+index added: 296
+percentage unclustered: 56.6449%
+
+	step 2
+
+step 1
+index added: 297
+percentage unclustered: 56.6449%
+
+	step 2
+
+step 1
+index added: 298
+percentage unclustered: 55.9913%
+
+	step 2
+
+step 1
+index added: 299
+percentage unclustered: 57.0806%
+
+	step 2
+
+step 1
+index added: 300
+percentage unclustered: 56.8627%
+
+	step 2
+
+step 1
+index added: 301
+percentage unclustered: 56.8627%
+
+	step 2
+
+step 1
+index added: 302
+percentage unclustered: 56.8627%
+
+	step 2
+
+step 1
+index added: 303
+percentage unclustered: 56.6449%
+
+	step 2
+
+step 1
+index added: 304
+percentage unclustered: 56.427%
+
+	step 2
+
+step 1
+index added: 305
+percentage unclustered: 56.427%
+
+	step 2
+
+step 1
+index added: 306
+percentage unclustered: 57.2985%
+
+	step 2
+
+step 1
+index added: 307
+percentage unclustered: 57.2985%
+
+	step 2
+
+step 1
+index added: 308
+percentage unclustered: 57.0806%
+
+	step 2
+
+step 1
+index added: 309
+percentage unclustered: 56.8627%
+
+	step 2
+
+		step 3
+		candidate index: 309 with core nodes: [3, 141, 276]
+			old information: 49, gain: 0.8946236559139785
+
+     ind                                             review  relevance
+0   309  comfortable worth money slight smell disappear...   0.497853
+1   120  well worth price 87 79 free shipping love 3 in...   0.486342
+2    80  rented apt staying town work 3 nites per week ...   0.417170
+3   265  topper excellent value get price turned overly...   0.406274
+4   212  bought mattress pad cover together fouton matt...   0.387381
+5   116  best memory foam mattress cover market live co...   0.382343
+6    94  bought dorm bed daughter loves great comfort g...   0.342090
+7   208  great addition mattress wonderful sleep easy s...   0.328010
+8    95                    definitely made bed comfortable   0.324568
+9    66                     added mattress good quote like   0.309890
+10   79  perfect fits bed like charm incredibly soft si...   0.307136
+11   40                                  nice mattress pad   0.296001
+12   73           enjoying mattress comfortable complaints   0.266661
+13   26  product great qualities accompanied couple nag...   0.263498
+14  246  comfortable love even woke morning back back p...   0.263153
+15   71  happy product would highly recommend pillow to...   0.262632
+16   78                       awesome made bed comfortable   0.259393
+17   65  topper comfortable rejuvenated too firm mattre...   0.257580
+18  114  arrived described using futon mattress comfort...   0.251529
+19   46  ordered year ago majorly improved sleep still ...   0.245782
+20   53  get thing sale good nspending 60 70 bucks wort...   0.241235
+21   37  purchased uncomfortable mattress improved qual...   0.240525
+22   77  bought 9 year old jealous expensive foam toppe...   0.237273
+23  111                                 made bed place zen   0.236447
+24   54      good product comfortable expect dense picture   0.234890
+25  131  needed bright white memory foam covered quilte...   0.232304
+26  182  good price good quality like using 2 weeks wor...   0.214778
+27   39        absolutely love mattress topper worth money   0.213850
+28   47  memory foam topper turned guest bed new cozy t...   0.209617
+29  164  guests reported topper extremely comfortable s...   0.207733
+30   64  took package let puff overnight slight smell a...   0.186551
+31  127                  love love love cant sleep without   0.166640
+32   52                            made bed like new happy   0.145255
+33   29                           made mattress much comfy   0.131538
+34   85                      could ask better nights sleep   0.126164
+35    9  soooo comfortable makes way hot middle night w...   0.100419
+36   57  year still great condition wish would gotten t...   0.096986
+
+step 1
+index added: 310
+percentage unclustered: 56.6449%
+
+	step 2
+
+step 1
+index added: 311
+percentage unclustered: 56.427%
+
+	step 2
+
+step 1
+index added: 312
+percentage unclustered: 56.2092%
+
+	step 2
+
+		step 3
+		candidate index: 312 with core nodes: [63, 127, 148, 165]
+
+step 1
+index added: 313
+percentage unclustered: 56.2092%
+
+	step 2
+
+step 1
+index added: 314
+percentage unclustered: 56.2092%
+
+	step 2
+
+step 1
+index added: 315
+percentage unclustered: 55.9913%
+
+	step 2
+
+step 1
+index added: 316
+percentage unclustered: 55.7734%
+
+	step 2
+
+step 1
+index added: 317
+percentage unclustered: 55.7734%
+
+	step 2
+
+step 1
+index added: 318
+percentage unclustered: 55.5556%
+
+	step 2
+
+step 1
+index added: 319
+percentage unclustered: 55.5556%
+
+	step 2
+
+step 1
+index added: 320
+percentage unclustered: 55.5556%
+
+	step 2
+
+		step 3
+		candidate index: 320 with core nodes: [16, 19, 74, 103, 157, 174, 183, 320]
+			old information: 51, gain: 0.9090909090909091
+
+     ind                                             review  relevance
+0   309  comfortable worth money slight smell disappear...   0.497853
+1   120  well worth price 87 79 free shipping love 3 in...   0.486342
+2    80  rented apt staying town work 3 nites per week ...   0.417170
+3   265  topper excellent value get price turned overly...   0.406274
+4   212  bought mattress pad cover together fouton matt...   0.387381
+5   116  best memory foam mattress cover market live co...   0.382343
+6    94  bought dorm bed daughter loves great comfort g...   0.342090
+7   208  great addition mattress wonderful sleep easy s...   0.328010
+8    95                    definitely made bed comfortable   0.324568
+9    66                     added mattress good quote like   0.309890
+10   79  perfect fits bed like charm incredibly soft si...   0.307136
+11   40                                  nice mattress pad   0.296001
+12   73           enjoying mattress comfortable complaints   0.266661
+13   26  product great qualities accompanied couple nag...   0.263498
+14  246  comfortable love even woke morning back back p...   0.263153
+15   71  happy product would highly recommend pillow to...   0.262632
+16   78                       awesome made bed comfortable   0.259393
+17   65  topper comfortable rejuvenated too firm mattre...   0.257580
+18  114  arrived described using futon mattress comfort...   0.251529
+19   46  ordered year ago majorly improved sleep still ...   0.245782
+20  320  student budget topper great arrived exactly su...   0.243762
+21   53  get thing sale good nspending 60 70 bucks wort...   0.241235
+22   37  purchased uncomfortable mattress improved qual...   0.240525
+23   77  bought 9 year old jealous expensive foam toppe...   0.237273
+24  111                                 made bed place zen   0.236447
+25   54      good product comfortable expect dense picture   0.234890
+26  131  needed bright white memory foam covered quilte...   0.232304
+27  182  good price good quality like using 2 weeks wor...   0.214778
+28   39        absolutely love mattress topper worth money   0.213850
+29   47  memory foam topper turned guest bed new cozy t...   0.209617
+30  164  guests reported topper extremely comfortable s...   0.207733
+31   64  took package let puff overnight slight smell a...   0.186551
+32  127                  love love love cant sleep without   0.166640
+33   52                            made bed like new happy   0.145255
+34   29                           made mattress much comfy   0.131538
+35   85                      could ask better nights sleep   0.126164
+36    9  soooo comfortable makes way hot middle night w...   0.100419
+37   57  year still great condition wish would gotten t...   0.096986
+
+step 1
+index added: 321
+percentage unclustered: 55.5556%
+
+	step 2
+
+step 1
+index added: 322
+percentage unclustered: 55.3377%
+
+	step 2
+
+step 1
+index added: 323
+percentage unclustered: 55.5556%
+
+	step 2
+
+step 1
+index added: 324
+percentage unclustered: 55.3377%
+
+	step 2
+
+step 1
+index added: 325
+percentage unclustered: 55.3377%
+
+	step 2
+
+step 1
+index added: 326
+percentage unclustered: 55.3377%
+
+	step 2
+
+step 1
+index added: 327
+percentage unclustered: 55.1198%
+
+	step 2
+
+step 1
+index added: 328
+percentage unclustered: 55.1198%
+
+	step 2
+
+step 1
+index added: 329
+percentage unclustered: 54.0305%
+
+	step 2
+
+step 1
+index added: 330
+percentage unclustered: 54.2484%
+
+	step 2
+
+step 1
+index added: 331
+percentage unclustered: 54.0305%
+
+	step 2
+
+step 1
+index added: 332
+percentage unclustered: 53.8126%
+
+	step 2
+
+		step 3
+		candidate index: 332 with core nodes: [63, 127, 148, 165]
+
+step 1
+index added: 333
+percentage unclustered: 53.5948%
+
+	step 2
+
+step 1
+index added: 334
+percentage unclustered: 53.8126%
+
+	step 2
+
+step 1
+index added: 335
+percentage unclustered: 53.5948%
+
+	step 2
+
+step 1
+index added: 336
+percentage unclustered: 53.5948%
+
+	step 2
+
+step 1
+index added: 337
+percentage unclustered: 53.5948%
+
+	step 2
+
+step 1
+index added: 338
+percentage unclustered: 53.8126%
+
+	step 2
+
+step 1
+index added: 339
+percentage unclustered: 52.9412%
+
+	step 2
+
+step 1
+index added: 340
+percentage unclustered: 52.7233%
+
+	step 2
+
+		step 3
+		candidate index: 340 with core nodes: [10, 279, 340]
+			old information: 93, gain: 0.7862068965517242
+
+     ind                                             review  relevance
+0   340  bought topper grand children bed spare room ha...   0.502480
+1   309  comfortable worth money slight smell disappear...   0.497853
+2   120  well worth price 87 79 free shipping love 3 in...   0.486342
+3    80  rented apt staying town work 3 nites per week ...   0.417170
+4   265  topper excellent value get price turned overly...   0.406274
+5   212  bought mattress pad cover together fouton matt...   0.387381
+6   116  best memory foam mattress cover market live co...   0.382343
+7    94  bought dorm bed daughter loves great comfort g...   0.342090
+8   208  great addition mattress wonderful sleep easy s...   0.328010
+9    95                    definitely made bed comfortable   0.324568
+10   66                     added mattress good quote like   0.309890
+11   79  perfect fits bed like charm incredibly soft si...   0.307136
+12   40                                  nice mattress pad   0.296001
+13   73           enjoying mattress comfortable complaints   0.266661
+14   26  product great qualities accompanied couple nag...   0.263498
+15  246  comfortable love even woke morning back back p...   0.263153
+16   71  happy product would highly recommend pillow to...   0.262632
+17   78                       awesome made bed comfortable   0.259393
+18   65  topper comfortable rejuvenated too firm mattre...   0.257580
+19  114  arrived described using futon mattress comfort...   0.251529
+20   46  ordered year ago majorly improved sleep still ...   0.245782
+21  320  student budget topper great arrived exactly su...   0.243762
+22   53  get thing sale good nspending 60 70 bucks wort...   0.241235
+23   37  purchased uncomfortable mattress improved qual...   0.240525
+24   77  bought 9 year old jealous expensive foam toppe...   0.237273
+25  111                                 made bed place zen   0.236447
+26   54      good product comfortable expect dense picture   0.234890
+27  131  needed bright white memory foam covered quilte...   0.232304
+28  182  good price good quality like using 2 weeks wor...   0.214778
+29   39        absolutely love mattress topper worth money   0.213850
+30   47  memory foam topper turned guest bed new cozy t...   0.209617
+31  164  guests reported topper extremely comfortable s...   0.207733
+32   64  took package let puff overnight slight smell a...   0.186551
+33  127                  love love love cant sleep without   0.166640
+34   52                            made bed like new happy   0.145255
+35   29                           made mattress much comfy   0.131538
+36   85                      could ask better nights sleep   0.126164
+37    9  soooo comfortable makes way hot middle night w...   0.100419
+38   57  year still great condition wish would gotten t...   0.096986
+
+step 1
+index added: 341
+percentage unclustered: 52.5054%
+
+	step 2
+
+step 1
+index added: 342
+percentage unclustered: 52.5054%
+
+	step 2
+
+step 1
+index added: 343
+percentage unclustered: 52.5054%
+
+	step 2
+
+step 1
+index added: 344
+percentage unclustered: 52.5054%
+
+	step 2
+
+step 1
+index added: 345
+percentage unclustered: 51.8519%
+
+	step 2
+
+step 1
+index added: 346
+percentage unclustered: 51.8519%
+
+	step 2
+
+step 1
+index added: 347
+percentage unclustered: 51.8519%
+
+	step 2
+
+step 1
+index added: 348
+percentage unclustered: 51.8519%
+
+	step 2
+
+step 1
+index added: 349
+percentage unclustered: 51.8519%
+
+	step 2
+
+step 1
+index added: 350
+percentage unclustered: 51.634%
+
+	step 2
+
+step 1
+index added: 351
+percentage unclustered: 52.0697%
+
+	step 2
+
+step 1
+index added: 352
+percentage unclustered: 51.4161%
+
+	step 2
+
+		step 3
+		candidate index: 352 with core nodes: [74, 103, 352]
+			old information: 22, gain: 0.6666666666666666
+
+     ind                                             review  relevance
+0   340  bought topper grand children bed spare room ha...   0.502480
+1   309  comfortable worth money slight smell disappear...   0.497853
+2   120  well worth price 87 79 free shipping love 3 in...   0.486342
+3    80  rented apt staying town work 3 nites per week ...   0.417170
+4   265  topper excellent value get price turned overly...   0.406274
+5   212  bought mattress pad cover together fouton matt...   0.387381
+6   116  best memory foam mattress cover market live co...   0.382343
+7    94  bought dorm bed daughter loves great comfort g...   0.342090
+8   208  great addition mattress wonderful sleep easy s...   0.328010
+9    95                    definitely made bed comfortable   0.324568
+10   66                     added mattress good quote like   0.309890
+11   79  perfect fits bed like charm incredibly soft si...   0.307136
+12   40                                  nice mattress pad   0.296001
+13   73           enjoying mattress comfortable complaints   0.266661
+14   26  product great qualities accompanied couple nag...   0.263498
+15  246  comfortable love even woke morning back back p...   0.263153
+16   71  happy product would highly recommend pillow to...   0.262632
+17  352  soft comfortable said would great price great ...   0.260892
+18   78                       awesome made bed comfortable   0.259393
+19   65  topper comfortable rejuvenated too firm mattre...   0.257580
+20  114  arrived described using futon mattress comfort...   0.251529
+21   46  ordered year ago majorly improved sleep still ...   0.245782
+22  320  student budget topper great arrived exactly su...   0.243762
+23   53  get thing sale good nspending 60 70 bucks wort...   0.241235
+24   37  purchased uncomfortable mattress improved qual...   0.240525
+25   77  bought 9 year old jealous expensive foam toppe...   0.237273
+26  111                                 made bed place zen   0.236447
+27   54      good product comfortable expect dense picture   0.234890
+28  131  needed bright white memory foam covered quilte...   0.232304
+29  182  good price good quality like using 2 weeks wor...   0.214778
+30   39        absolutely love mattress topper worth money   0.213850
+31   47  memory foam topper turned guest bed new cozy t...   0.209617
+32  164  guests reported topper extremely comfortable s...   0.207733
+33   64  took package let puff overnight slight smell a...   0.186551
+34  127                  love love love cant sleep without   0.166640
+35   52                            made bed like new happy   0.145255
+36   29                           made mattress much comfy   0.131538
+37   85                      could ask better nights sleep   0.126164
+38    9  soooo comfortable makes way hot middle night w...   0.100419
+39   57  year still great condition wish would gotten t...   0.096986
+
+step 1
+index added: 353
+percentage unclustered: 51.4161%
+
+	step 2
+
+step 1
+index added: 354
+percentage unclustered: 51.1983%
+
+	step 2
+
+step 1
+index added: 355
+percentage unclustered: 51.1983%
+
+	step 2
+
+step 1
+index added: 356
+percentage unclustered: 50.9804%
+
+	step 2
+
+step 1
+index added: 357
+percentage unclustered: 50.3268%
+
+	step 2
+
+step 1
+index added: 358
+percentage unclustered: 50.1089%
+
+	step 2
+
+step 1
+index added: 359
+percentage unclustered: 49.8911%
+
+	step 2
+
+		step 3
+		candidate index: 359 with core nodes: [10, 47, 279, 359]
+			old information: 11, gain: 0.7555555555555555
+
+     ind                                             review  relevance
+0   340  bought topper grand children bed spare room ha...   0.502480
+1   309  comfortable worth money slight smell disappear...   0.497853
+2   120  well worth price 87 79 free shipping love 3 in...   0.486342
+3   359  foam topper awesome turned sofa bed comfy bed ...   0.427039
+4    80  rented apt staying town work 3 nites per week ...   0.417170
+5   265  topper excellent value get price turned overly...   0.406274
+6   212  bought mattress pad cover together fouton matt...   0.387381
+7   116  best memory foam mattress cover market live co...   0.382343
+8    94  bought dorm bed daughter loves great comfort g...   0.342090
+9   208  great addition mattress wonderful sleep easy s...   0.328010
+10   95                    definitely made bed comfortable   0.324568
+11   66                     added mattress good quote like   0.309890
+12   79  perfect fits bed like charm incredibly soft si...   0.307136
+13   40                                  nice mattress pad   0.296001
+14   73           enjoying mattress comfortable complaints   0.266661
+15   26  product great qualities accompanied couple nag...   0.263498
+16  246  comfortable love even woke morning back back p...   0.263153
+17   71  happy product would highly recommend pillow to...   0.262632
+18  352  soft comfortable said would great price great ...   0.260892
+19   78                       awesome made bed comfortable   0.259393
+20   65  topper comfortable rejuvenated too firm mattre...   0.257580
+21  114  arrived described using futon mattress comfort...   0.251529
+22   46  ordered year ago majorly improved sleep still ...   0.245782
+23  320  student budget topper great arrived exactly su...   0.243762
+24   53  get thing sale good nspending 60 70 bucks wort...   0.241235
+25   37  purchased uncomfortable mattress improved qual...   0.240525
+26   77  bought 9 year old jealous expensive foam toppe...   0.237273
+27  111                                 made bed place zen   0.236447
+28   54      good product comfortable expect dense picture   0.234890
+29  131  needed bright white memory foam covered quilte...   0.232304
+30  182  good price good quality like using 2 weeks wor...   0.214778
+31   39        absolutely love mattress topper worth money   0.213850
+32   47  memory foam topper turned guest bed new cozy t...   0.209617
+33  164  guests reported topper extremely comfortable s...   0.207733
+34   64  took package let puff overnight slight smell a...   0.186551
+35  127                  love love love cant sleep without   0.166640
+36   52                            made bed like new happy   0.145255
+37   29                           made mattress much comfy   0.131538
+38   85                      could ask better nights sleep   0.126164
+39    9  soooo comfortable makes way hot middle night w...   0.100419
+40   57  year still great condition wish would gotten t...   0.096986
+
+step 1
+index added: 360
+percentage unclustered: 49.6732%
+
+	step 2
+
+		step 3
+		candidate index: 360 with core nodes: [74, 103, 352]
+
+step 1
+index added: 361
+percentage unclustered: 49.4553%
+
+	step 2
+
+step 1
+index added: 362
+percentage unclustered: 49.2375%
+
+	step 2
+
+		step 3
+		candidate index: 362 with core nodes: [10, 279, 362]
+			old information: 80, gain: 0.7538461538461538
+
+     ind                                             review  relevance
+0   362  husband love mattress topper much difficult ge...   0.580218
+1   340  bought topper grand children bed spare room ha...   0.502480
+2   309  comfortable worth money slight smell disappear...   0.497853
+3   120  well worth price 87 79 free shipping love 3 in...   0.486342
+4   359  foam topper awesome turned sofa bed comfy bed ...   0.427039
+5    80  rented apt staying town work 3 nites per week ...   0.417170
+6   265  topper excellent value get price turned overly...   0.406274
+7   212  bought mattress pad cover together fouton matt...   0.387381
+8   116  best memory foam mattress cover market live co...   0.382343
+9    94  bought dorm bed daughter loves great comfort g...   0.342090
+10  208  great addition mattress wonderful sleep easy s...   0.328010
+11   95                    definitely made bed comfortable   0.324568
+12   66                     added mattress good quote like   0.309890
+13   79  perfect fits bed like charm incredibly soft si...   0.307136
+14   40                                  nice mattress pad   0.296001
+15   73           enjoying mattress comfortable complaints   0.266661
+16   26  product great qualities accompanied couple nag...   0.263498
+17  246  comfortable love even woke morning back back p...   0.263153
+18   71  happy product would highly recommend pillow to...   0.262632
+19  352  soft comfortable said would great price great ...   0.260892
+20   78                       awesome made bed comfortable   0.259393
+21   65  topper comfortable rejuvenated too firm mattre...   0.257580
+22  114  arrived described using futon mattress comfort...   0.251529
+23   46  ordered year ago majorly improved sleep still ...   0.245782
+24  320  student budget topper great arrived exactly su...   0.243762
+25   53  get thing sale good nspending 60 70 bucks wort...   0.241235
+26   37  purchased uncomfortable mattress improved qual...   0.240525
+27   77  bought 9 year old jealous expensive foam toppe...   0.237273
+28  111                                 made bed place zen   0.236447
+29   54      good product comfortable expect dense picture   0.234890
+30  131  needed bright white memory foam covered quilte...   0.232304
+31  182  good price good quality like using 2 weeks wor...   0.214778
+32   39        absolutely love mattress topper worth money   0.213850
+33   47  memory foam topper turned guest bed new cozy t...   0.209617
+34  164  guests reported topper extremely comfortable s...   0.207733
+35   64  took package let puff overnight slight smell a...   0.186551
+36  127                  love love love cant sleep without   0.166640
+37   52                            made bed like new happy   0.145255
+38   29                           made mattress much comfy   0.131538
+39   85                      could ask better nights sleep   0.126164
+40    9  soooo comfortable makes way hot middle night w...   0.100419
+41   57  year still great condition wish would gotten t...   0.096986
+
+step 1
+index added: 363
+percentage unclustered: 49.0196%
+
+	step 2
+
+step 1
+index added: 364
+percentage unclustered: 49.0196%
+
+	step 2
+
+step 1
+index added: 365
+percentage unclustered: 48.8017%
+
+	step 2
+
+step 1
+index added: 366
+percentage unclustered: 48.8017%
+
+	step 2
+
+step 1
+index added: 367
+percentage unclustered: 48.5839%
+
+	step 2
+
+step 1
+index added: 368
+percentage unclustered: 48.5839%
+
+	step 2
+
+step 1
+index added: 369
+percentage unclustered: 48.5839%
+
+	step 2
+
+step 1
+index added: 370
+percentage unclustered: 48.366%
+
+	step 2
+
+		step 3
+		candidate index: 370 with core nodes: [74, 103, 352, 370]
+			old information: 17, gain: 0.6222222222222222
+
+     ind                                             review  relevance
+0   362  husband love mattress topper much difficult ge...   0.580218
+1   340  bought topper grand children bed spare room ha...   0.502480
+2   309  comfortable worth money slight smell disappear...   0.497853
+3   120  well worth price 87 79 free shipping love 3 in...   0.486342
+4   359  foam topper awesome turned sofa bed comfy bed ...   0.427039
+5    80  rented apt staying town work 3 nites per week ...   0.417170
+6   265  topper excellent value get price turned overly...   0.406274
+7   212  bought mattress pad cover together fouton matt...   0.387381
+8   116  best memory foam mattress cover market live co...   0.382343
+9    94  bought dorm bed daughter loves great comfort g...   0.342090
+10  208  great addition mattress wonderful sleep easy s...   0.328010
+11   95                    definitely made bed comfortable   0.324568
+12   66                     added mattress good quote like   0.309890
+13   79  perfect fits bed like charm incredibly soft si...   0.307136
+14   40                                  nice mattress pad   0.296001
+15   73           enjoying mattress comfortable complaints   0.266661
+16   26  product great qualities accompanied couple nag...   0.263498
+17  246  comfortable love even woke morning back back p...   0.263153
+18   71  happy product would highly recommend pillow to...   0.262632
+19  352  soft comfortable said would great price great ...   0.260892
+20   78                       awesome made bed comfortable   0.259393
+21   65  topper comfortable rejuvenated too firm mattre...   0.257580
+22  114  arrived described using futon mattress comfort...   0.251529
+23   46  ordered year ago majorly improved sleep still ...   0.245782
+24  320  student budget topper great arrived exactly su...   0.243762
+25  370  bought 2 great reviews great price super comfo...   0.243463
+26   53  get thing sale good nspending 60 70 bucks wort...   0.241235
+27   37  purchased uncomfortable mattress improved qual...   0.240525
+28   77  bought 9 year old jealous expensive foam toppe...   0.237273
+29  111                                 made bed place zen   0.236447
+30   54      good product comfortable expect dense picture   0.234890
+31  131  needed bright white memory foam covered quilte...   0.232304
+32  182  good price good quality like using 2 weeks wor...   0.214778
+33   39        absolutely love mattress topper worth money   0.213850
+34   47  memory foam topper turned guest bed new cozy t...   0.209617
+35  164  guests reported topper extremely comfortable s...   0.207733
+36   64  took package let puff overnight slight smell a...   0.186551
+37  127                  love love love cant sleep without   0.166640
+38   52                            made bed like new happy   0.145255
+39   29                           made mattress much comfy   0.131538
+40   85                      could ask better nights sleep   0.126164
+41    9  soooo comfortable makes way hot middle night w...   0.100419
+42   57  year still great condition wish would gotten t...   0.096986
+
+step 1
+index added: 371
+percentage unclustered: 48.1481%
+
+	step 2
+
+step 1
+index added: 372
+percentage unclustered: 48.1481%
+
+	step 2
+
+step 1
+index added: 373
+percentage unclustered: 48.1481%
+
+	step 2
+
+step 1
+index added: 374
+percentage unclustered: 47.9303%
+
+	step 2
+
+step 1
+index added: 375
+percentage unclustered: 47.7124%
+
+	step 2
+
+step 1
+index added: 376
+percentage unclustered: 47.9303%
+
+	step 2
+
+step 1
+index added: 377
+percentage unclustered: 47.7124%
+
+	step 2
+
+step 1
+index added: 378
+percentage unclustered: 47.4946%
+
+	step 2
+
+step 1
+index added: 379
+percentage unclustered: 47.2767%
+
+	step 2
+
+		step 3
+		candidate index: 379 with core nodes: [29, 155, 379]
+			old information: 38, gain: 0.638095238095238
+
+     ind                                             review  relevance
+0   362  husband love mattress topper much difficult ge...   0.580218
+1   340  bought topper grand children bed spare room ha...   0.502480
+2   309  comfortable worth money slight smell disappear...   0.497853
+3   120  well worth price 87 79 free shipping love 3 in...   0.486342
+4   379  bought cover uncomfortable dorm mattress made ...   0.443405
+5   359  foam topper awesome turned sofa bed comfy bed ...   0.427039
+6    80  rented apt staying town work 3 nites per week ...   0.417170
+7   265  topper excellent value get price turned overly...   0.406274
+8   212  bought mattress pad cover together fouton matt...   0.387381
+9   116  best memory foam mattress cover market live co...   0.382343
+10   94  bought dorm bed daughter loves great comfort g...   0.342090
+11  208  great addition mattress wonderful sleep easy s...   0.328010
+12   95                    definitely made bed comfortable   0.324568
+13   66                     added mattress good quote like   0.309890
+14   79  perfect fits bed like charm incredibly soft si...   0.307136
+15   40                                  nice mattress pad   0.296001
+16   73           enjoying mattress comfortable complaints   0.266661
+17   26  product great qualities accompanied couple nag...   0.263498
+18  246  comfortable love even woke morning back back p...   0.263153
+19   71  happy product would highly recommend pillow to...   0.262632
+20  352  soft comfortable said would great price great ...   0.260892
+21   78                       awesome made bed comfortable   0.259393
+22   65  topper comfortable rejuvenated too firm mattre...   0.257580
+23  114  arrived described using futon mattress comfort...   0.251529
+24   46  ordered year ago majorly improved sleep still ...   0.245782
+25  320  student budget topper great arrived exactly su...   0.243762
+26  370  bought 2 great reviews great price super comfo...   0.243463
+27   53  get thing sale good nspending 60 70 bucks wort...   0.241235
+28   37  purchased uncomfortable mattress improved qual...   0.240525
+29   77  bought 9 year old jealous expensive foam toppe...   0.237273
+30  111                                 made bed place zen   0.236447
+31   54      good product comfortable expect dense picture   0.234890
+32  131  needed bright white memory foam covered quilte...   0.232304
+33  182  good price good quality like using 2 weeks wor...   0.214778
+34   39        absolutely love mattress topper worth money   0.213850
+35   47  memory foam topper turned guest bed new cozy t...   0.209617
+36  164  guests reported topper extremely comfortable s...   0.207733
+37   64  took package let puff overnight slight smell a...   0.186551
+38  127                  love love love cant sleep without   0.166640
+39   52                            made bed like new happy   0.145255
+40   29                           made mattress much comfy   0.131538
+41   85                      could ask better nights sleep   0.126164
+42    9  soooo comfortable makes way hot middle night w...   0.100419
+43   57  year still great condition wish would gotten t...   0.096986
+
+step 1
+index added: 380
+percentage unclustered: 47.0588%
+
+	step 2
+
+step 1
+index added: 381
+percentage unclustered: 46.4052%
+
+	step 2
+
+step 1
+index added: 382
+percentage unclustered: 46.1874%
+
+	step 2
+
+step 1
+index added: 383
+percentage unclustered: 45.9695%
+
+	step 2
+
+		step 3
+		candidate index: 383 with core nodes: [10, 279, 362]
+
+step 1
+index added: 384
+percentage unclustered: 45.9695%
+
+	step 2
+
+step 1
+index added: 385
+percentage unclustered: 45.9695%
+
+	step 2
+
+step 1
+index added: 386
+percentage unclustered: 45.9695%
+
+	step 2
+
+step 1
+index added: 387
+percentage unclustered: 44.8802%
+
+	step 2
+
+step 1
+index added: 388
+percentage unclustered: 44.8802%
+
+	step 2
+
+step 1
+index added: 389
+percentage unclustered: 43.1373%
+
+	step 2
+
+step 1
+index added: 390
+percentage unclustered: 42.9194%
+
+	step 2
+
+step 1
+index added: 391
+percentage unclustered: 42.7015%
+
+	step 2
+
+step 1
+index added: 392
+percentage unclustered: 42.7015%
+
+	step 2
+
+step 1
+index added: 393
+percentage unclustered: 42.4837%
+
+	step 2
+
+step 1
+index added: 394
+percentage unclustered: 42.2658%
+
+	step 2
+
+		step 3
+		candidate index: 394 with core nodes: [25, 75, 160]
+
+step 1
+index added: 395
+percentage unclustered: 42.0479%
+
+	step 2
+
+step 1
+index added: 396
+percentage unclustered: 41.1765%
+
+	step 2
+
+step 1
+index added: 397
+percentage unclustered: 40.9586%
+
+	step 2
+
+step 1
+index added: 398
+percentage unclustered: 40.7407%
+
+	step 2
+
+step 1
+index added: 399
+percentage unclustered: 40.5229%
+
+	step 2
+
+step 1
+index added: 400
+percentage unclustered: 40.5229%
+
+	step 2
+
+step 1
+index added: 401
+percentage unclustered: 40.305%
+
+	step 2
+
+step 1
+index added: 402
+percentage unclustered: 40.305%
+
+	step 2
+
+step 1
+index added: 403
+percentage unclustered: 40.305%
+
+	step 2
+
+step 1
+index added: 404
+percentage unclustered: 40.305%
+
+	step 2
+
+step 1
+index added: 405
+percentage unclustered: 40.305%
+
+	step 2
+
+step 1
+index added: 406
+percentage unclustered: 40.305%
+
+	step 2
+
+step 1
+index added: 407
+percentage unclustered: 39.6514%
+
+	step 2
+
+step 1
+index added: 408
+percentage unclustered: 39.4336%
+
+	step 2
+
+		step 3
+		candidate index: 408 with core nodes: [29, 155, 379]
+
+step 1
+index added: 409
+percentage unclustered: 39.2157%
+
+	step 2
+
+step 1
+index added: 410
+percentage unclustered: 38.9978%
+
+	step 2
+
+step 1
+index added: 411
+percentage unclustered: 38.78%
+
+	step 2
+
+step 1
+index added: 412
+percentage unclustered: 38.1264%
+
+	step 2
+
+step 1
+index added: 413
+percentage unclustered: 38.78%
+
+	step 2
+
+step 1
+index added: 414
+percentage unclustered: 38.78%
+
+	step 2
+
+step 1
+index added: 415
+percentage unclustered: 38.78%
+
+	step 2
+
+step 1
+index added: 416
+percentage unclustered: 38.5621%
+
+	step 2
+
+		step 3
+		candidate index: 416 with core nodes: [10, 279, 362]
+
+step 1
+index added: 417
+percentage unclustered: 38.5621%
+
+	step 2
+
+step 1
+index added: 418
+percentage unclustered: 38.3442%
+
+	step 2
+
+		step 3
+		candidate index: 418 with core nodes: [74, 103, 352, 370]
+
+step 1
+index added: 419
+percentage unclustered: 38.1264%
+
+	step 2
+
+		step 3
+		candidate index: 419 with core nodes: [78, 95, 111, 121]
+
+step 1
+index added: 420
+percentage unclustered: 37.4728%
+
+	step 2
+
+		step 3
+		candidate index: 420 with core nodes: [78, 95, 111, 121]
+			old information: 10, gain: 0.8484848484848485
+
+     ind                                             review  relevance
+0   362  husband love mattress topper much difficult ge...   0.580218
+1   340  bought topper grand children bed spare room ha...   0.502480
+2   309  comfortable worth money slight smell disappear...   0.497853
+3   120  well worth price 87 79 free shipping love 3 in...   0.486342
+4   379  bought cover uncomfortable dorm mattress made ...   0.443405
+5   359  foam topper awesome turned sofa bed comfy bed ...   0.427039
+6    80  rented apt staying town work 3 nites per week ...   0.417170
+7   265  topper excellent value get price turned overly...   0.406274
+8   212  bought mattress pad cover together fouton matt...   0.387381
+9   116  best memory foam mattress cover market live co...   0.382343
+10   94  bought dorm bed daughter loves great comfort g...   0.342090
+11  208  great addition mattress wonderful sleep easy s...   0.328010
+12   95                    definitely made bed comfortable   0.324568
+13   66                     added mattress good quote like   0.309890
+14   79  perfect fits bed like charm incredibly soft si...   0.307136
+15   40                                  nice mattress pad   0.296001
+16  420  advertised quite comfortable cut fit single be...   0.293254
+17   73           enjoying mattress comfortable complaints   0.266661
+18   26  product great qualities accompanied couple nag...   0.263498
+19  246  comfortable love even woke morning back back p...   0.263153
+20   71  happy product would highly recommend pillow to...   0.262632
+21  352  soft comfortable said would great price great ...   0.260892
+22   78                       awesome made bed comfortable   0.259393
+23   65  topper comfortable rejuvenated too firm mattre...   0.257580
+24  114  arrived described using futon mattress comfort...   0.251529
+25   46  ordered year ago majorly improved sleep still ...   0.245782
+26  320  student budget topper great arrived exactly su...   0.243762
+27  370  bought 2 great reviews great price super comfo...   0.243463
+28   53  get thing sale good nspending 60 70 bucks wort...   0.241235
+29   37  purchased uncomfortable mattress improved qual...   0.240525
+30   77  bought 9 year old jealous expensive foam toppe...   0.237273
+31  111                                 made bed place zen   0.236447
+32   54      good product comfortable expect dense picture   0.234890
+33  131  needed bright white memory foam covered quilte...   0.232304
+34  182  good price good quality like using 2 weeks wor...   0.214778
+35   39        absolutely love mattress topper worth money   0.213850
+36   47  memory foam topper turned guest bed new cozy t...   0.209617
+37  164  guests reported topper extremely comfortable s...   0.207733
+38   64  took package let puff overnight slight smell a...   0.186551
+39  127                  love love love cant sleep without   0.166640
+40   52                            made bed like new happy   0.145255
+41   29                           made mattress much comfy   0.131538
+42   85                      could ask better nights sleep   0.126164
+43    9  soooo comfortable makes way hot middle night w...   0.100419
+44   57  year still great condition wish would gotten t...   0.096986
+
+step 1
+index added: 421
+percentage unclustered: 37.4728%
+
+	step 2
+
+step 1
+index added: 422
+percentage unclustered: 37.4728%
+
+	step 2
+
+step 1
+index added: 423
+percentage unclustered: 37.2549%
+
+	step 2
+
+step 1
+index added: 424
+percentage unclustered: 37.2549%
+
+	step 2
+
+step 1
+index added: 425
+percentage unclustered: 37.2549%
+
+	step 2
+
+step 1
+index added: 426
+percentage unclustered: 37.6906%
+
+	step 2
+
+step 1
+index added: 427
+percentage unclustered: 37.037%
+
+	step 2
+
+		step 3
+		candidate index: 427 with core nodes: [74, 103, 352, 370]
+
+step 1
+index added: 428
+percentage unclustered: 37.4728%
+
+	step 2
+
+step 1
+index added: 429
+percentage unclustered: 37.4728%
+
+	step 2
+
+step 1
+index added: 430
+percentage unclustered: 38.1264%
+
+	step 2
+
+step 1
+index added: 431
+percentage unclustered: 37.9085%
+
+	step 2
+
+step 1
+index added: 432
+percentage unclustered: 37.9085%
+
+	step 2
+
+step 1
+index added: 433
+percentage unclustered: 37.9085%
+
+	step 2
+
+step 1
+index added: 434
+percentage unclustered: 37.6906%
+
+	step 2
+
+step 1
+index added: 435
+percentage unclustered: 37.6906%
+
+	step 2
+
+step 1
+index added: 436
+percentage unclustered: 37.4728%
+
+	step 2
+
+step 1
+index added: 437
+percentage unclustered: 37.4728%
+
+	step 2
+
+step 1
+index added: 438
+percentage unclustered: 37.2549%
+
+	step 2
+
+step 1
+index added: 439
+percentage unclustered: 37.2549%
+
+	step 2
+
+step 1
+index added: 440
+percentage unclustered: 36.3834%
+
+	step 2
+
+step 1
+index added: 441
+percentage unclustered: 36.1656%
+
+	step 2
+
+step 1
+index added: 442
+percentage unclustered: 36.1656%
+
+	step 2
+
+step 1
+index added: 443
+percentage unclustered: 36.1656%
+
+	step 2
+
+step 1
+index added: 444
+percentage unclustered: 36.1656%
+
+	step 2
+
+step 1
+index added: 445
+percentage unclustered: 35.9477%
+
+	step 2
+
+step 1
+index added: 446
+percentage unclustered: 34.422700000000006%
+
+	step 2
+
+step 1
+index added: 447
+percentage unclustered: 34.204800000000006%
+
+	step 2
+
+step 1
+index added: 448
+percentage unclustered: 33.986900000000006%
+
+	step 2
+
+		step 3
+		candidate index: 448 with core nodes: [276, 309, 376, 448]
+			old information: 29, gain: 0.861904761904762
+
+     ind                                             review  relevance
+0   362  husband love mattress topper much difficult ge...   0.580218
+1   340  bought topper grand children bed spare room ha...   0.502480
+2   309  comfortable worth money slight smell disappear...   0.497853
+3   120  well worth price 87 79 free shipping love 3 in...   0.486342
+4   379  bought cover uncomfortable dorm mattress made ...   0.443405
+5   448  bought top older pillow top mattress comfortab...   0.440520
+6   359  foam topper awesome turned sofa bed comfy bed ...   0.427039
+7    80  rented apt staying town work 3 nites per week ...   0.417170
+8   265  topper excellent value get price turned overly...   0.406274
+9   212  bought mattress pad cover together fouton matt...   0.387381
+10  116  best memory foam mattress cover market live co...   0.382343
+11   94  bought dorm bed daughter loves great comfort g...   0.342090
+12  208  great addition mattress wonderful sleep easy s...   0.328010
+13   95                    definitely made bed comfortable   0.324568
+14   66                     added mattress good quote like   0.309890
+15   79  perfect fits bed like charm incredibly soft si...   0.307136
+16   40                                  nice mattress pad   0.296001
+17  420  advertised quite comfortable cut fit single be...   0.293254
+18   73           enjoying mattress comfortable complaints   0.266661
+19   26  product great qualities accompanied couple nag...   0.263498
+20  246  comfortable love even woke morning back back p...   0.263153
+21   71  happy product would highly recommend pillow to...   0.262632
+22  352  soft comfortable said would great price great ...   0.260892
+23   78                       awesome made bed comfortable   0.259393
+24   65  topper comfortable rejuvenated too firm mattre...   0.257580
+25  114  arrived described using futon mattress comfort...   0.251529
+26   46  ordered year ago majorly improved sleep still ...   0.245782
+27  320  student budget topper great arrived exactly su...   0.243762
+28  370  bought 2 great reviews great price super comfo...   0.243463
+29   53  get thing sale good nspending 60 70 bucks wort...   0.241235
+30   37  purchased uncomfortable mattress improved qual...   0.240525
+31   77  bought 9 year old jealous expensive foam toppe...   0.237273
+32  111                                 made bed place zen   0.236447
+33   54      good product comfortable expect dense picture   0.234890
+34  131  needed bright white memory foam covered quilte...   0.232304
+35  182  good price good quality like using 2 weeks wor...   0.214778
+36   39        absolutely love mattress topper worth money   0.213850
+37   47  memory foam topper turned guest bed new cozy t...   0.209617
+38  164  guests reported topper extremely comfortable s...   0.207733
+39   64  took package let puff overnight slight smell a...   0.186551
+40  127                  love love love cant sleep without   0.166640
+41   52                            made bed like new happy   0.145255
+42   29                           made mattress much comfy   0.131538
+43   85                      could ask better nights sleep   0.126164
+44    9  soooo comfortable makes way hot middle night w...   0.100419
+45   57  year still great condition wish would gotten t...   0.096986
+
+step 1
+index added: 449
+percentage unclustered: 33.769099999999995%
+
+	step 2
+
+step 1
+index added: 450
+percentage unclustered: 33.769099999999995%
+
+	step 2
+
+step 1
+index added: 451
+percentage unclustered: 33.551199999999994%
+
+	step 2
+
+step 1
+index added: 452
+percentage unclustered: 33.551199999999994%
+
+	step 2
+
+step 1
+index added: 453
+percentage unclustered: 33.551199999999994%
+
+	step 2
+
+step 1
+index added: 454
+percentage unclustered: 33.333299999999994%
+
+	step 2
+
+step 1
+index added: 455
+percentage unclustered: 33.1155%
+
+	step 2
+
+step 1
+index added: 456
+percentage unclustered: 32.8976%
+
+	step 2
+
+step 1
+index added: 457
+percentage unclustered: 32.8976%
+
+	step 2
+
+step 1
+index added: 458
+percentage unclustered: 32.6797%
+
+	step 2
+
+		step 3
+		candidate index: 458 with core nodes: [116, 374, 458]
+			old information: 72, gain: 0.969309462915601
+
+     ind                                             review  relevance
+0   362  husband love mattress topper much difficult ge...   0.580218
+1   340  bought topper grand children bed spare room ha...   0.502480
+2   309  comfortable worth money slight smell disappear...   0.497853
+3   120  well worth price 87 79 free shipping love 3 in...   0.486342
+4   379  bought cover uncomfortable dorm mattress made ...   0.443405
+5   448  bought top older pillow top mattress comfortab...   0.440520
+6   359  foam topper awesome turned sofa bed comfy bed ...   0.427039
+7   458  purchased mattress topper daughter christmas g...   0.422940
+8    80  rented apt staying town work 3 nites per week ...   0.417170
+9   265  topper excellent value get price turned overly...   0.406274
+10  212  bought mattress pad cover together fouton matt...   0.387381
+11  116  best memory foam mattress cover market live co...   0.382343
+12   94  bought dorm bed daughter loves great comfort g...   0.342090
+13  208  great addition mattress wonderful sleep easy s...   0.328010
+14   95                    definitely made bed comfortable   0.324568
+15   66                     added mattress good quote like   0.309890
+16   79  perfect fits bed like charm incredibly soft si...   0.307136
+17   40                                  nice mattress pad   0.296001
+18  420  advertised quite comfortable cut fit single be...   0.293254
+19   73           enjoying mattress comfortable complaints   0.266661
+20   26  product great qualities accompanied couple nag...   0.263498
+21  246  comfortable love even woke morning back back p...   0.263153
+22   71  happy product would highly recommend pillow to...   0.262632
+23  352  soft comfortable said would great price great ...   0.260892
+24   78                       awesome made bed comfortable   0.259393
+25   65  topper comfortable rejuvenated too firm mattre...   0.257580
+26  114  arrived described using futon mattress comfort...   0.251529
+27   46  ordered year ago majorly improved sleep still ...   0.245782
+28  320  student budget topper great arrived exactly su...   0.243762
+29  370  bought 2 great reviews great price super comfo...   0.243463
+30   53  get thing sale good nspending 60 70 bucks wort...   0.241235
+31   37  purchased uncomfortable mattress improved qual...   0.240525
+32   77  bought 9 year old jealous expensive foam toppe...   0.237273
+33  111                                 made bed place zen   0.236447
+34   54      good product comfortable expect dense picture   0.234890
+35  131  needed bright white memory foam covered quilte...   0.232304
+36  182  good price good quality like using 2 weeks wor...   0.214778
+37   39        absolutely love mattress topper worth money   0.213850
+38   47  memory foam topper turned guest bed new cozy t...   0.209617
+39  164  guests reported topper extremely comfortable s...   0.207733
+40   64  took package let puff overnight slight smell a...   0.186551
+41  127                  love love love cant sleep without   0.166640
+42   52                            made bed like new happy   0.145255
+43   29                           made mattress much comfy   0.131538
+44   85                      could ask better nights sleep   0.126164
+45    9  soooo comfortable makes way hot middle night w...   0.100419
+46   57  year still great condition wish would gotten t...   0.096986
+
+--- 4186.347444295883 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 99.3464, 99.3464, 99.3464, 99.3464, 99.3464, 99.3464, 99.3464, 99.3464, 98.6928, 98.6928, 98.4749, 98.4749, 98.2571, 98.0392, 98.0392, 97.8214, 97.6035, 96.9499, 96.732, 96.732, 96.5142, 96.5142, 96.2963, 96.0784, 95.4248, 95.4248, 95.4248, 95.4248, 95.207, 94.9891, 94.7712, 94.5534, 94.3355, 94.3355, 94.1176, 94.1176, 93.8998, 93.6819, 93.6819, 93.0283, 93.0283, 93.2462, 93.2462, 93.0283, 93.0283, 93.2462, 93.2462, 93.2462, 93.0283, 93.0283, 92.3747, 92.3747, 92.15690000000001, 92.15690000000001, 91.939, 91.7211, 90.8497, 90.1961, 90.1961, 89.9782, 89.7603, 89.5425, 89.3246, 89.10679999999999, 88.8889, 88.8889, 88.67099999999999, 88.8889, 88.8889, 88.67099999999999, 88.4532, 88.2353, 88.0174, 88.0174, 87.7996, 87.7996, 87.5817, 87.3638, 87.146, 87.146, 86.9281, 86.9281, 86.9281, 86.2745, 86.4924, 86.2745, 86.0566, 85.8388, 85.8388, 85.8388, 85.6209, 85.4031, 85.4031, 85.1852, 84.9673, 85.1852, 85.1852, 84.9673, 85.8388, 85.6209, 85.4031, 85.1852, 84.9673, 84.7495, 84.5316, 84.3137, 84.0959, 83.878, 83.6601, 83.6601, 83.4423, 83.2244, 83.2244, 83.2244, 83.2244, 83.0065, 82.7887, 82.7887, 82.57079999999999, 82.3529, 81.6993, 81.4815, 81.2636, 81.0458, 81.0458, 81.0458, 81.0458, 81.6993, 81.4815, 81.4815, 81.4815, 81.4815, 81.4815, 81.4815, 81.4815, 81.4815, 81.2636, 81.0458, 81.0458, 80.8279, 80.8279, 80.8279, 80.8279, 80.8279, 80.8279, 80.61, 80.61, 80.3922, 80.1743, 79.9564, 79.9564, 79.7386, 79.7386, 79.5207, 79.3028, 79.08500000000001, 78.8671, 78.8671, 78.8671, 78.8671, 78.8671, 78.8671, 78.8671, 78.2135, 77.342, 77.342, 77.342, 77.5599, 77.342, 77.342, 77.342, 77.342, 76.4706, 76.2527, 76.2527, 76.0349, 76.0349, 76.0349, 76.4706, 76.4706, 76.4706, 76.4706, 77.5599, 77.5599, 77.1242, 76.4706, 76.4706, 76.2527, 76.2527, 76.2527, 76.2527, 76.0349, 75.3813, 75.3813, 75.1634, 74.9455, 74.7277, 74.7277, 74.0741, 73.2026, 73.2026, 74.7277, 73.8562, 73.2026, 72.9847, 72.9847, 72.76689999999999, 72.9847, 72.9847, 72.1133, 72.1133, 72.1133, 72.1133, 71.2418, 71.2418, 70.3704, 70.1525, 70.1525, 69.49889999999999, 69.281, 68.6275, 68.1917, 67.9739, 67.9739, 67.756, 67.3203, 67.3203, 67.3203, 66.8845, 66.66669999999999, 66.8845, 66.23089999999999, 66.23089999999999, 66.23089999999999, 66.23089999999999, 66.23089999999999, 65.7952, 63.3987, 63.3987, 62.7451, 62.5272, 62.3094, 62.0915, 60.5664, 60.3486, 60.5664, 60.3486, 60.1307, 60.1307, 59.4771, 59.4771, 59.4771, 59.2593, 59.0414, 58.8235, 58.6057, 58.3878, 58.6057, 58.6057, 58.3878, 58.1699, 58.1699, 58.6057, 58.8235, 58.6057, 58.3878, 58.3878, 58.3878, 58.6057, 58.8235, 59.0414, 58.8235, 58.3878, 58.3878, 58.3878, 58.3878, 57.7342, 57.7342, 57.7342, 57.7342, 57.5163, 57.5163, 57.5163, 57.7342, 57.7342, 57.7342, 56.8627, 56.6449, 56.6449, 55.9913, 57.0806, 56.8627, 56.8627, 56.8627, 56.6449, 56.427, 56.427, 57.2985, 57.2985, 57.0806, 56.8627, 56.6449, 56.427, 56.2092, 56.2092, 56.2092, 55.9913, 55.7734, 55.7734, 55.5556, 55.5556, 55.5556, 55.5556, 55.3377, 55.5556, 55.3377, 55.3377, 55.3377, 55.1198, 55.1198, 54.0305, 54.2484, 54.0305, 53.8126, 53.5948, 53.8126, 53.5948, 53.5948, 53.5948, 53.8126, 52.9412, 52.7233, 52.5054, 52.5054, 52.5054, 52.5054, 51.8519, 51.8519, 51.8519, 51.8519, 51.8519, 51.634, 52.0697, 51.4161, 51.4161, 51.1983, 51.1983, 50.9804, 50.3268, 50.1089, 49.8911, 49.6732, 49.4553, 49.2375, 49.0196, 49.0196, 48.8017, 48.8017, 48.5839, 48.5839, 48.5839, 48.366, 48.1481, 48.1481, 48.1481, 47.9303, 47.7124, 47.9303, 47.7124, 47.4946, 47.2767, 47.0588, 46.4052, 46.1874, 45.9695, 45.9695, 45.9695, 45.9695, 44.8802, 44.8802, 43.1373, 42.9194, 42.7015, 42.7015, 42.4837, 42.2658, 42.0479, 41.1765, 40.9586, 40.7407, 40.5229, 40.5229, 40.305, 40.305, 40.305, 40.305, 40.305, 40.305, 39.6514, 39.4336, 39.2157, 38.9978, 38.78, 38.1264, 38.78, 38.78, 38.78, 38.5621, 38.5621, 38.3442, 38.1264, 37.4728, 37.4728, 37.4728, 37.2549, 37.2549, 37.2549, 37.6906, 37.037, 37.4728, 37.4728, 38.1264, 37.9085, 37.9085, 37.9085, 37.6906, 37.6906, 37.4728, 37.4728, 37.2549, 37.2549, 36.3834, 36.1656, 36.1656, 36.1656, 36.1656, 35.9477, 34.422700000000006, 34.204800000000006, 33.986900000000006, 33.769099999999995, 33.769099999999995, 33.551199999999994, 33.551199999999994, 33.551199999999994, 33.333299999999994, 33.1155, 32.8976, 32.8976, 32.6797], mean: 67.6239
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0       382  362   0.580218  husband love mattress topper much difficult ge...
+1       367  340   0.502480  bought topper grand children bed spare room ha...
+2       344  309   0.497853  comfortable worth money slight smell disappear...
+3        51  120   0.486342  well worth price 87 79 free shipping love 3 in...
+4       453  379   0.443405  bought cover uncomfortable dorm mattress made ...
+5       290  448   0.440520  bought top older pillow top mattress comfortab...
+6       379  359   0.427039  foam topper awesome turned sofa bed comfy bed ...
+7        21  458   0.422940  purchased mattress topper daughter christmas g...
+8       176   80   0.417170  rented apt staying town work 3 nites per week ...
+9        92  265   0.406274  topper excellent value get price turned overly...
+10      118  212   0.387381  bought mattress pad cover together fouton matt...
+11      214  116   0.382343  best memory foam mattress cover market live co...
+12      191   94   0.342090  bought dorm bed daughter loves great comfort g...
+13      114  208   0.328010  great addition mattress wonderful sleep easy s...
+14      192   95   0.324568                    definitely made bed comfortable
+15      166   66   0.309890                     added mattress good quote like
+16      175   79   0.307136  perfect fits bed like charm incredibly soft si...
+17       68   40   0.296001                                  nice mattress pad
+18      429  420   0.293254  advertised quite comfortable cut fit single be...
+19      171   73   0.266661           enjoying mattress comfortable complaints
+20       57   26   0.263498  product great qualities accompanied couple nag...
+21      140  246   0.263153  comfortable love even woke morning back back p...
+22      170   71   0.262632  happy product would highly recommend pillow to...
+23      373  352   0.260892  soft comfortable said would great price great ...
+24      174   78   0.259393                       awesome made bed comfortable
+25      165   65   0.257580  topper comfortable rejuvenated too firm mattre...
+26      212  114   0.251529  arrived described using futon mattress comfort...
+27       78   46   0.245782  ordered year ago majorly improved sleep still ...
+28      352  320   0.243762  student budget topper great arrived exactly su...
+29      390  370   0.243463  bought 2 great reviews great price super comfo...
+30       82   53   0.241235  get thing sale good nspending 60 70 bucks wort...
+31       64   37   0.240525  purchased uncomfortable mattress improved qual...
+32      172   77   0.237273  bought 9 year old jealous expensive foam toppe...
+33      209  111   0.236447                                 made bed place zen
+34      149   54   0.234890      good product comfortable expect dense picture
+35      229  131   0.232304  needed bright white memory foam covered quilte...
+36      282  182   0.214778  good price good quality like using 2 weeks wor...
+37       66   39   0.213850        absolutely love mattress topper worth money
+38       79   47   0.209617  memory foam topper turned guest bed new cozy t...
+39      266  164   0.207733  guests reported topper extremely comfortable s...
+40      164   64   0.186551  took package let puff overnight slight smell a...
+41      225  127   0.166640                  love love love cant sleep without
+42      148   52   0.145255                            made bed like new happy
+43      133   29   0.131538                           made mattress much comfy
+44      184   85   0.126164                      could ask better nights sleep
+45       27    9   0.100419  soooo comfortable makes way hot middle night w...
+46      154   57   0.096986  year still great condition wish would gotten t...

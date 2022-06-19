@@ -1,0 +1,3429 @@
+------- Category: Electronics -------
+Found asin_id: B00L403O8U
+Shape:  (481, 7)
+
+
+Chosen product: B00L403O8U has 481 reviews - False, it has 481 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 99.3763%
+
+	step 2
+
+		step 3
+		candidate index: 5 with core nodes: [1, 4, 5]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   5  sitting 12 year old son hospital reading revie...   0.249222
+
+step 1
+index added: 6
+percentage unclustered: 99.3763%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 99.3763%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 99.3763%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 99.3763%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 99.3763%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 99.3763%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 99.3763%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 99.3763%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 99.3763%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 99.3763%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 99.3763%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 99.3763%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 99.1684%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [1, 4, 5, 18]
+			old information: 2, gain: 0.9991474850809889
+
+   ind                                             review  relevance
+0   5  sitting 12 year old son hospital reading revie...   0.249222
+1  18  nice tv doubt disappointed found made america ...   0.209960
+
+step 1
+index added: 19
+percentage unclustered: 99.1684%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 99.1684%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 98.9605%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [1, 4, 5, 18]
+
+step 1
+index added: 22
+percentage unclustered: 98.9605%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 98.9605%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 98.3368%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [1, 4, 5, 18, 24]
+			old information: 22, gain: 0.989423076923077
+
+   ind                                             review  relevance
+0   5  sitting 12 year old son hospital reading revie...   0.249222
+1  24  without doubt amazing tv ever seen able watch ...   0.242035
+2  18  nice tv doubt disappointed found made america ...   0.209960
+
+step 1
+index added: 25
+percentage unclustered: 98.3368%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 98.3368%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 98.3368%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 98.1289%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [1, 5, 18, 28]
+			old information: 4, gain: 0.9932773109243698
+
+   ind                                             review  relevance
+0  28  unlike reviews actually purchased tv wife pret...   0.357682
+1   5  sitting 12 year old son hospital reading revie...   0.249222
+2  24  without doubt amazing tv ever seen able watch ...   0.242035
+3  18  nice tv doubt disappointed found made america ...   0.209960
+
+step 1
+index added: 29
+percentage unclustered: 98.1289%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 97.5052%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [1, 5, 18, 28]
+
+step 1
+index added: 31
+percentage unclustered: 97.5052%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 98.1289%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 98.1289%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 98.1289%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 98.7526%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 98.7526%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 97.5052%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [1, 5, 18, 28]
+			old information: 7, gain: 0.9102564102564102
+
+   ind                                             review  relevance
+0  28  unlike reviews actually purchased tv wife pret...   0.357682
+1  37  great tv amazing picture hd best part though b...   0.269669
+2   5  sitting 12 year old son hospital reading revie...   0.249222
+3  24  without doubt amazing tv ever seen able watch ...   0.242035
+4  18  nice tv doubt disappointed found made america ...   0.209960
+
+step 1
+index added: 38
+percentage unclustered: 97.2973%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [1, 5, 18, 28]
+
+step 1
+index added: 39
+percentage unclustered: 97.2973%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 97.2973%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 97.2973%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 97.2973%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 97.2973%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 97.0894%
+
+	step 2
+
+		step 3
+		candidate index: 44 with core nodes: [1, 5, 18, 28]
+
+step 1
+index added: 45
+percentage unclustered: 96.4657%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [1, 4, 5, 18, 24, 28, 37]
+
+step 1
+index added: 46
+percentage unclustered: 96.4657%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 95.842%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 95.842%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 95.6341%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [1, 5, 14, 28]
+
+step 1
+index added: 50
+percentage unclustered: 95.4262%
+
+	step 2
+
+		step 3
+		candidate index: 50 with core nodes: [1, 5, 14, 28]
+
+step 1
+index added: 51
+percentage unclustered: 95.4262%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 95.4262%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 95.4262%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 95.4262%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 95.4262%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 95.4262%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 95.4262%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 95.4262%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 95.2183%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 95.2183%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 95.0104%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 94.3867%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 94.1788%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 94.1788%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 93.5551%
+
+	step 2
+
+		step 3
+		candidate index: 65 with core nodes: [1, 5, 14, 28]
+
+step 1
+index added: 66
+percentage unclustered: 93.5551%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 93.5551%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 93.5551%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 93.3472%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 93.3472%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 93.3472%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 93.3472%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 93.3472%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 93.3472%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 93.3472%
+
+	step 2
+
+		step 3
+		candidate index: 75 with core nodes: [1, 5, 14, 28]
+			old information: 12, gain: 0.9786096256684492
+
+   ind                                             review  relevance
+0  28  unlike reviews actually purchased tv wife pret...   0.357682
+1  75  tv great nice crisp picture terrific sound tho...   0.349454
+2  37  great tv amazing picture hd best part though b...   0.269669
+3   5  sitting 12 year old son hospital reading revie...   0.249222
+4  24  without doubt amazing tv ever seen able watch ...   0.242035
+5  18  nice tv doubt disappointed found made america ...   0.209960
+
+step 1
+index added: 76
+percentage unclustered: 93.3472%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 93.1393%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 93.1393%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 92.9314%
+
+	step 2
+
+		step 3
+		candidate index: 79 with core nodes: [4, 37, 79]
+			old information: 11, gain: 0.9565217391304348
+
+   ind                                             review  relevance
+0  28  unlike reviews actually purchased tv wife pret...   0.357682
+1  75  tv great nice crisp picture terrific sound tho...   0.349454
+2  79  got tv mere 120k sale mounted wall whole house...   0.289122
+3  37  great tv amazing picture hd best part though b...   0.269669
+4   5  sitting 12 year old son hospital reading revie...   0.249222
+5  24  without doubt amazing tv ever seen able watch ...   0.242035
+6  18  nice tv doubt disappointed found made america ...   0.209960
+
+step 1
+index added: 80
+percentage unclustered: 92.9314%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 92.7235%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 92.5156%
+
+	step 2
+
+		step 3
+		candidate index: 82 with core nodes: [4, 37, 79]
+
+step 1
+index added: 83
+percentage unclustered: 92.5156%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 91.89189999999999%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 91.684%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 91.684%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 91.684%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 91.4761%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 91.4761%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 91.4761%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 91.26820000000001%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 91.26820000000001%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 91.26820000000001%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 91.26820000000001%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 91.26820000000001%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 91.26820000000001%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 91.89189999999999%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 91.684%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 91.684%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 91.684%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 92.3077%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 92.0998%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 92.0998%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 92.0998%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 92.0998%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 91.4761%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 91.4761%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 91.26820000000001%
+
+	step 2
+
+		step 3
+		candidate index: 108 with core nodes: [1, 14, 108]
+			old information: 24, gain: 0.9868852459016394
+
+    ind                                             review  relevance
+0  108  hate tv tv delivered ups 1 min countdown deliv...   0.444570
+1   28  unlike reviews actually purchased tv wife pret...   0.357682
+2   75  tv great nice crisp picture terrific sound tho...   0.349454
+3   79  got tv mere 120k sale mounted wall whole house...   0.289122
+4   37  great tv amazing picture hd best part though b...   0.269669
+5    5  sitting 12 year old son hospital reading revie...   0.249222
+6   24  without doubt amazing tv ever seen able watch ...   0.242035
+7   18  nice tv doubt disappointed found made america ...   0.209960
+
+step 1
+index added: 109
+percentage unclustered: 91.26820000000001%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 91.0603%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 90.8524%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 90.8524%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 90.8524%
+
+	step 2
+
+		step 3
+		candidate index: 113 with core nodes: [1, 14, 108]
+
+step 1
+index added: 114
+percentage unclustered: 90.8524%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 90.8524%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 90.8524%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 90.8524%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 90.8524%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 90.2287%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 90.0208%
+
+	step 2
+
+		step 3
+		candidate index: 120 with core nodes: [1, 14, 108]
+
+step 1
+index added: 121
+percentage unclustered: 89.8129%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 89.8129%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 89.605%
+
+	step 2
+
+		step 3
+		candidate index: 123 with core nodes: [74, 84, 123]
+			old information: 0, gain: 1.0
+
+step 1
+index added: 124
+percentage unclustered: 89.3971%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 89.3971%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 88.5655%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 88.3576%
+
+	step 2
+
+		step 3
+		candidate index: 127 with core nodes: [1, 14, 108]
+
+step 1
+index added: 128
+percentage unclustered: 88.3576%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 88.3576%
+
+	step 2
+
+step 1
+index added: 130
+percentage unclustered: 88.3576%
+
+	step 2
+
+step 1
+index added: 131
+percentage unclustered: 88.3576%
+
+	step 2
+
+step 1
+index added: 132
+percentage unclustered: 88.3576%
+
+	step 2
+
+step 1
+index added: 133
+percentage unclustered: 88.3576%
+
+	step 2
+
+step 1
+index added: 134
+percentage unclustered: 87.7339%
+
+	step 2
+
+step 1
+index added: 135
+percentage unclustered: 88.1497%
+
+	step 2
+
+step 1
+index added: 136
+percentage unclustered: 87.9418%
+
+	step 2
+
+step 1
+index added: 137
+percentage unclustered: 87.9418%
+
+	step 2
+
+step 1
+index added: 138
+percentage unclustered: 87.9418%
+
+	step 2
+
+step 1
+index added: 139
+percentage unclustered: 87.9418%
+
+	step 2
+
+step 1
+index added: 140
+percentage unclustered: 87.9418%
+
+	step 2
+
+step 1
+index added: 141
+percentage unclustered: 87.9418%
+
+	step 2
+
+step 1
+index added: 142
+percentage unclustered: 88.1497%
+
+	step 2
+
+step 1
+index added: 143
+percentage unclustered: 88.1497%
+
+	step 2
+
+step 1
+index added: 144
+percentage unclustered: 87.9418%
+
+	step 2
+
+step 1
+index added: 145
+percentage unclustered: 87.7339%
+
+	step 2
+
+step 1
+index added: 146
+percentage unclustered: 87.526%
+
+	step 2
+
+step 1
+index added: 147
+percentage unclustered: 87.526%
+
+	step 2
+
+step 1
+index added: 148
+percentage unclustered: 87.526%
+
+	step 2
+
+step 1
+index added: 149
+percentage unclustered: 87.3181%
+
+	step 2
+
+		step 3
+		candidate index: 149 with core nodes: [1, 14, 108]
+
+step 1
+index added: 150
+percentage unclustered: 87.3181%
+
+	step 2
+
+step 1
+index added: 151
+percentage unclustered: 87.3181%
+
+	step 2
+
+step 1
+index added: 152
+percentage unclustered: 87.3181%
+
+	step 2
+
+step 1
+index added: 153
+percentage unclustered: 87.1102%
+
+	step 2
+
+		step 3
+		candidate index: 153 with core nodes: [1, 14, 108]
+
+step 1
+index added: 154
+percentage unclustered: 87.3181%
+
+	step 2
+
+step 1
+index added: 155
+percentage unclustered: 86.4865%
+
+	step 2
+
+step 1
+index added: 156
+percentage unclustered: 86.2786%
+
+	step 2
+
+step 1
+index added: 157
+percentage unclustered: 86.2786%
+
+	step 2
+
+step 1
+index added: 158
+percentage unclustered: 86.0707%
+
+	step 2
+
+step 1
+index added: 159
+percentage unclustered: 85.8628%
+
+	step 2
+
+		step 3
+		candidate index: 159 with core nodes: [30, 63, 159]
+			old information: 3, gain: 0.9779411764705882
+
+    ind                                             review  relevance
+0  108  hate tv tv delivered ups 1 min countdown deliv...   0.444570
+1   28  unlike reviews actually purchased tv wife pret...   0.357682
+2   75  tv great nice crisp picture terrific sound tho...   0.349454
+3   79  got tv mere 120k sale mounted wall whole house...   0.289122
+4   37  great tv amazing picture hd best part though b...   0.269669
+5    5  sitting 12 year old son hospital reading revie...   0.249222
+6   24  without doubt amazing tv ever seen able watch ...   0.242035
+7   18  nice tv doubt disappointed found made america ...   0.209960
+8  159  decided used 399 000 one since new ones stock ...   0.090090
+
+step 1
+index added: 160
+percentage unclustered: 85.8628%
+
+	step 2
+
+step 1
+index added: 161
+percentage unclustered: 86.2786%
+
+	step 2
+
+step 1
+index added: 162
+percentage unclustered: 86.2786%
+
+	step 2
+
+step 1
+index added: 163
+percentage unclustered: 86.2786%
+
+	step 2
+
+step 1
+index added: 164
+percentage unclustered: 86.0707%
+
+	step 2
+
+step 1
+index added: 165
+percentage unclustered: 85.8628%
+
+	step 2
+
+step 1
+index added: 166
+percentage unclustered: 85.6549%
+
+	step 2
+
+step 1
+index added: 167
+percentage unclustered: 85.447%
+
+	step 2
+
+step 1
+index added: 168
+percentage unclustered: 85.447%
+
+	step 2
+
+step 1
+index added: 169
+percentage unclustered: 85.447%
+
+	step 2
+
+step 1
+index added: 170
+percentage unclustered: 85.447%
+
+	step 2
+
+step 1
+index added: 171
+percentage unclustered: 85.6549%
+
+	step 2
+
+step 1
+index added: 172
+percentage unclustered: 85.23910000000001%
+
+	step 2
+
+step 1
+index added: 173
+percentage unclustered: 85.23910000000001%
+
+	step 2
+
+step 1
+index added: 174
+percentage unclustered: 85.447%
+
+	step 2
+
+step 1
+index added: 175
+percentage unclustered: 85.447%
+
+	step 2
+
+step 1
+index added: 176
+percentage unclustered: 85.447%
+
+	step 2
+
+step 1
+index added: 177
+percentage unclustered: 85.447%
+
+	step 2
+
+step 1
+index added: 178
+percentage unclustered: 85.6549%
+
+	step 2
+
+step 1
+index added: 179
+percentage unclustered: 85.6549%
+
+	step 2
+
+step 1
+index added: 180
+percentage unclustered: 85.0312%
+
+	step 2
+
+step 1
+index added: 181
+percentage unclustered: 85.0312%
+
+	step 2
+
+step 1
+index added: 182
+percentage unclustered: 85.0312%
+
+	step 2
+
+step 1
+index added: 183
+percentage unclustered: 84.8233%
+
+	step 2
+
+step 1
+index added: 184
+percentage unclustered: 84.6154%
+
+	step 2
+
+step 1
+index added: 185
+percentage unclustered: 83.7838%
+
+	step 2
+
+		step 3
+		candidate index: 185 with core nodes: [0, 101, 185]
+			old information: 3, gain: 0.967032967032967
+
+    ind                                             review  relevance
+0  108  hate tv tv delivered ups 1 min countdown deliv...   0.444570
+1   28  unlike reviews actually purchased tv wife pret...   0.357682
+2   75  tv great nice crisp picture terrific sound tho...   0.349454
+3   79  got tv mere 120k sale mounted wall whole house...   0.289122
+4  185  selling vital organs afford spend rest life ch...   0.271899
+5   37  great tv amazing picture hd best part though b...   0.269669
+6    5  sitting 12 year old son hospital reading revie...   0.249222
+7   24  without doubt amazing tv ever seen able watch ...   0.242035
+8   18  nice tv doubt disappointed found made america ...   0.209960
+9  159  decided used 399 000 one since new ones stock ...   0.090090
+
+step 1
+index added: 186
+percentage unclustered: 83.7838%
+
+	step 2
+
+step 1
+index added: 187
+percentage unclustered: 83.7838%
+
+	step 2
+
+step 1
+index added: 188
+percentage unclustered: 83.7838%
+
+	step 2
+
+step 1
+index added: 189
+percentage unclustered: 83.7838%
+
+	step 2
+
+step 1
+index added: 190
+percentage unclustered: 83.7838%
+
+	step 2
+
+step 1
+index added: 191
+percentage unclustered: 83.5759%
+
+	step 2
+
+step 1
+index added: 192
+percentage unclustered: 83.5759%
+
+	step 2
+
+step 1
+index added: 193
+percentage unclustered: 83.5759%
+
+	step 2
+
+step 1
+index added: 194
+percentage unclustered: 83.368%
+
+	step 2
+
+step 1
+index added: 195
+percentage unclustered: 83.368%
+
+	step 2
+
+step 1
+index added: 196
+percentage unclustered: 83.5759%
+
+	step 2
+
+step 1
+index added: 197
+percentage unclustered: 83.5759%
+
+	step 2
+
+step 1
+index added: 198
+percentage unclustered: 83.368%
+
+	step 2
+
+step 1
+index added: 199
+percentage unclustered: 83.368%
+
+	step 2
+
+step 1
+index added: 200
+percentage unclustered: 83.368%
+
+	step 2
+
+step 1
+index added: 201
+percentage unclustered: 83.368%
+
+	step 2
+
+step 1
+index added: 202
+percentage unclustered: 84.1996%
+
+	step 2
+
+step 1
+index added: 203
+percentage unclustered: 84.1996%
+
+	step 2
+
+step 1
+index added: 204
+percentage unclustered: 84.1996%
+
+	step 2
+
+step 1
+index added: 205
+percentage unclustered: 83.99170000000001%
+
+	step 2
+
+step 1
+index added: 206
+percentage unclustered: 84.1996%
+
+	step 2
+
+step 1
+index added: 207
+percentage unclustered: 83.99170000000001%
+
+	step 2
+
+step 1
+index added: 208
+percentage unclustered: 83.99170000000001%
+
+	step 2
+
+step 1
+index added: 209
+percentage unclustered: 83.99170000000001%
+
+	step 2
+
+step 1
+index added: 210
+percentage unclustered: 83.99170000000001%
+
+	step 2
+
+step 1
+index added: 211
+percentage unclustered: 83.7838%
+
+	step 2
+
+step 1
+index added: 212
+percentage unclustered: 83.7838%
+
+	step 2
+
+step 1
+index added: 213
+percentage unclustered: 82.7443%
+
+	step 2
+
+step 1
+index added: 214
+percentage unclustered: 82.7443%
+
+	step 2
+
+step 1
+index added: 215
+percentage unclustered: 82.7443%
+
+	step 2
+
+step 1
+index added: 216
+percentage unclustered: 82.7443%
+
+	step 2
+
+step 1
+index added: 217
+percentage unclustered: 82.7443%
+
+	step 2
+
+step 1
+index added: 218
+percentage unclustered: 82.7443%
+
+	step 2
+
+step 1
+index added: 219
+percentage unclustered: 82.7443%
+
+	step 2
+
+step 1
+index added: 220
+percentage unclustered: 82.7443%
+
+	step 2
+
+step 1
+index added: 221
+percentage unclustered: 82.7443%
+
+	step 2
+
+step 1
+index added: 222
+percentage unclustered: 82.7443%
+
+	step 2
+
+step 1
+index added: 223
+percentage unclustered: 82.5364%
+
+	step 2
+
+step 1
+index added: 224
+percentage unclustered: 82.5364%
+
+	step 2
+
+step 1
+index added: 225
+percentage unclustered: 82.5364%
+
+	step 2
+
+step 1
+index added: 226
+percentage unclustered: 82.7443%
+
+	step 2
+
+step 1
+index added: 227
+percentage unclustered: 82.7443%
+
+	step 2
+
+step 1
+index added: 228
+percentage unclustered: 82.7443%
+
+	step 2
+
+step 1
+index added: 229
+percentage unclustered: 82.32849999999999%
+
+	step 2
+
+step 1
+index added: 230
+percentage unclustered: 82.1206%
+
+	step 2
+
+step 1
+index added: 231
+percentage unclustered: 81.9127%
+
+	step 2
+
+step 1
+index added: 232
+percentage unclustered: 81.9127%
+
+	step 2
+
+step 1
+index added: 233
+percentage unclustered: 81.9127%
+
+	step 2
+
+step 1
+index added: 234
+percentage unclustered: 81.7048%
+
+	step 2
+
+step 1
+index added: 235
+percentage unclustered: 81.7048%
+
+	step 2
+
+step 1
+index added: 236
+percentage unclustered: 80.8732%
+
+	step 2
+
+step 1
+index added: 237
+percentage unclustered: 80.6653%
+
+	step 2
+
+step 1
+index added: 238
+percentage unclustered: 80.4574%
+
+	step 2
+
+		step 3
+		candidate index: 238 with core nodes: [4, 19, 79, 161, 172, 196, 229, 238]
+			old information: 8, gain: 0.7142857142857143
+
+     ind                                             review  relevance
+0   108  hate tv tv delivered ups 1 min countdown deliv...   0.444570
+1   238          great tv cost one kidney first male child   0.402663
+2    28  unlike reviews actually purchased tv wife pret...   0.357682
+3    75  tv great nice crisp picture terrific sound tho...   0.349454
+4    79  got tv mere 120k sale mounted wall whole house...   0.289122
+5   185  selling vital organs afford spend rest life ch...   0.271899
+6    37  great tv amazing picture hd best part though b...   0.269669
+7     5  sitting 12 year old son hospital reading revie...   0.249222
+8    24  without doubt amazing tv ever seen able watch ...   0.242035
+9    18  nice tv doubt disappointed found made america ...   0.209960
+10  159  decided used 399 000 one since new ones stock ...   0.090090
+
+step 1
+index added: 239
+percentage unclustered: 80.4574%
+
+	step 2
+
+step 1
+index added: 240
+percentage unclustered: 80.4574%
+
+	step 2
+
+step 1
+index added: 241
+percentage unclustered: 80.4574%
+
+	step 2
+
+step 1
+index added: 242
+percentage unclustered: 80.4574%
+
+	step 2
+
+step 1
+index added: 243
+percentage unclustered: 80.4574%
+
+	step 2
+
+step 1
+index added: 244
+percentage unclustered: 80.4574%
+
+	step 2
+
+step 1
+index added: 245
+percentage unclustered: 80.4574%
+
+	step 2
+
+step 1
+index added: 246
+percentage unclustered: 80.4574%
+
+	step 2
+
+step 1
+index added: 247
+percentage unclustered: 80.4574%
+
+	step 2
+
+step 1
+index added: 248
+percentage unclustered: 80.4574%
+
+	step 2
+
+step 1
+index added: 249
+percentage unclustered: 80.2495%
+
+	step 2
+
+step 1
+index added: 250
+percentage unclustered: 80.0416%
+
+	step 2
+
+step 1
+index added: 251
+percentage unclustered: 79.8337%
+
+	step 2
+
+		step 3
+		candidate index: 251 with core nodes: [4, 19, 79, 161, 172, 196, 229, 238]
+
+step 1
+index added: 252
+percentage unclustered: 79.6258%
+
+	step 2
+
+step 1
+index added: 253
+percentage unclustered: 79.4179%
+
+	step 2
+
+step 1
+index added: 254
+percentage unclustered: 79.4179%
+
+	step 2
+
+step 1
+index added: 255
+percentage unclustered: 79.4179%
+
+	step 2
+
+step 1
+index added: 256
+percentage unclustered: 79.21000000000001%
+
+	step 2
+
+step 1
+index added: 257
+percentage unclustered: 78.1705%
+
+	step 2
+
+		step 3
+		candidate index: 257 with core nodes: [1, 14, 108]
+
+step 1
+index added: 258
+percentage unclustered: 77.9626%
+
+	step 2
+
+step 1
+index added: 259
+percentage unclustered: 77.9626%
+
+	step 2
+
+step 1
+index added: 260
+percentage unclustered: 77.9626%
+
+	step 2
+
+step 1
+index added: 261
+percentage unclustered: 78.1705%
+
+	step 2
+
+step 1
+index added: 262
+percentage unclustered: 78.1705%
+
+	step 2
+
+step 1
+index added: 263
+percentage unclustered: 77.9626%
+
+	step 2
+
+step 1
+index added: 264
+percentage unclustered: 77.7547%
+
+	step 2
+
+		step 3
+		candidate index: 264 with core nodes: [1, 14, 108]
+			old information: 99, gain: 0.9908990623276338
+
+     ind                                             review  relevance
+0   108  hate tv tv delivered ups 1 min countdown deliv...   0.444570
+1   238          great tv cost one kidney first male child   0.402663
+2   264  already theater main home naples florida famil...   0.389061
+3    28  unlike reviews actually purchased tv wife pret...   0.357682
+4    75  tv great nice crisp picture terrific sound tho...   0.349454
+5    79  got tv mere 120k sale mounted wall whole house...   0.289122
+6   185  selling vital organs afford spend rest life ch...   0.271899
+7    37  great tv amazing picture hd best part though b...   0.269669
+8     5  sitting 12 year old son hospital reading revie...   0.249222
+9    24  without doubt amazing tv ever seen able watch ...   0.242035
+10   18  nice tv doubt disappointed found made america ...   0.209960
+11  159  decided used 399 000 one since new ones stock ...   0.090090
+
+step 1
+index added: 265
+percentage unclustered: 77.7547%
+
+	step 2
+
+step 1
+index added: 266
+percentage unclustered: 77.131%
+
+	step 2
+
+step 1
+index added: 267
+percentage unclustered: 77.131%
+
+	step 2
+
+step 1
+index added: 268
+percentage unclustered: 77.131%
+
+	step 2
+
+step 1
+index added: 269
+percentage unclustered: 77.7547%
+
+	step 2
+
+step 1
+index added: 270
+percentage unclustered: 77.7547%
+
+	step 2
+
+step 1
+index added: 271
+percentage unclustered: 77.7547%
+
+	step 2
+
+step 1
+index added: 272
+percentage unclustered: 77.5468%
+
+	step 2
+
+step 1
+index added: 273
+percentage unclustered: 77.5468%
+
+	step 2
+
+step 1
+index added: 274
+percentage unclustered: 77.131%
+
+	step 2
+
+step 1
+index added: 275
+percentage unclustered: 77.131%
+
+	step 2
+
+step 1
+index added: 276
+percentage unclustered: 77.131%
+
+	step 2
+
+step 1
+index added: 277
+percentage unclustered: 77.131%
+
+	step 2
+
+step 1
+index added: 278
+percentage unclustered: 77.3389%
+
+	step 2
+
+step 1
+index added: 279
+percentage unclustered: 77.131%
+
+	step 2
+
+step 1
+index added: 280
+percentage unclustered: 77.7547%
+
+	step 2
+
+step 1
+index added: 281
+percentage unclustered: 77.7547%
+
+	step 2
+
+step 1
+index added: 282
+percentage unclustered: 77.7547%
+
+	step 2
+
+step 1
+index added: 283
+percentage unclustered: 77.5468%
+
+	step 2
+
+step 1
+index added: 284
+percentage unclustered: 77.3389%
+
+	step 2
+
+step 1
+index added: 285
+percentage unclustered: 77.3389%
+
+	step 2
+
+step 1
+index added: 286
+percentage unclustered: 76.7152%
+
+	step 2
+
+step 1
+index added: 287
+percentage unclustered: 76.7152%
+
+	step 2
+
+step 1
+index added: 288
+percentage unclustered: 76.7152%
+
+	step 2
+
+step 1
+index added: 289
+percentage unclustered: 76.7152%
+
+	step 2
+
+step 1
+index added: 290
+percentage unclustered: 77.3389%
+
+	step 2
+
+step 1
+index added: 291
+percentage unclustered: 77.3389%
+
+	step 2
+
+step 1
+index added: 292
+percentage unclustered: 78.1705%
+
+	step 2
+
+step 1
+index added: 293
+percentage unclustered: 78.1705%
+
+	step 2
+
+step 1
+index added: 294
+percentage unclustered: 78.1705%
+
+	step 2
+
+step 1
+index added: 295
+percentage unclustered: 78.3784%
+
+	step 2
+
+step 1
+index added: 296
+percentage unclustered: 78.1705%
+
+	step 2
+
+step 1
+index added: 297
+percentage unclustered: 77.9626%
+
+	step 2
+
+step 1
+index added: 298
+percentage unclustered: 77.7547%
+
+	step 2
+
+step 1
+index added: 299
+percentage unclustered: 77.5468%
+
+	step 2
+
+step 1
+index added: 300
+percentage unclustered: 77.5468%
+
+	step 2
+
+step 1
+index added: 301
+percentage unclustered: 77.5468%
+
+	step 2
+
+step 1
+index added: 302
+percentage unclustered: 78.3784%
+
+	step 2
+
+step 1
+index added: 303
+percentage unclustered: 78.1705%
+
+	step 2
+
+step 1
+index added: 304
+percentage unclustered: 77.9626%
+
+	step 2
+
+step 1
+index added: 305
+percentage unclustered: 77.7547%
+
+	step 2
+
+step 1
+index added: 306
+percentage unclustered: 77.5468%
+
+	step 2
+
+		step 3
+		candidate index: 306 with core nodes: [44, 184, 306]
+			old information: 1, gain: 0.8333333333333334
+
+     ind                                             review  relevance
+0   108  hate tv tv delivered ups 1 min countdown deliv...   0.444570
+1   238          great tv cost one kidney first male child   0.402663
+2   264  already theater main home naples florida famil...   0.389061
+3    28  unlike reviews actually purchased tv wife pret...   0.357682
+4    75  tv great nice crisp picture terrific sound tho...   0.349454
+5    79  got tv mere 120k sale mounted wall whole house...   0.289122
+6   185  selling vital organs afford spend rest life ch...   0.271899
+7    37  great tv amazing picture hd best part though b...   0.269669
+8     5  sitting 12 year old son hospital reading revie...   0.249222
+9    24  without doubt amazing tv ever seen able watch ...   0.242035
+10   18  nice tv doubt disappointed found made america ...   0.209960
+11  306                             really good watch porn   0.110269
+12  159  decided used 399 000 one since new ones stock ...   0.090090
+
+step 1
+index added: 307
+percentage unclustered: 77.7547%
+
+	step 2
+
+step 1
+index added: 308
+percentage unclustered: 77.7547%
+
+	step 2
+
+step 1
+index added: 309
+percentage unclustered: 77.7547%
+
+	step 2
+
+step 1
+index added: 310
+percentage unclustered: 77.7547%
+
+	step 2
+
+step 1
+index added: 311
+percentage unclustered: 77.7547%
+
+	step 2
+
+		step 3
+		candidate index: 311 with core nodes: [1, 14, 108, 311]
+			old information: 58, gain: 0.9796491228070175
+
+     ind                                             review  relevance
+0   311  amazon made huge mistake forgot convert 105cm ...   0.446282
+1   108  hate tv tv delivered ups 1 min countdown deliv...   0.444570
+2   238          great tv cost one kidney first male child   0.402663
+3   264  already theater main home naples florida famil...   0.389061
+4    28  unlike reviews actually purchased tv wife pret...   0.357682
+5    75  tv great nice crisp picture terrific sound tho...   0.349454
+6    79  got tv mere 120k sale mounted wall whole house...   0.289122
+7   185  selling vital organs afford spend rest life ch...   0.271899
+8    37  great tv amazing picture hd best part though b...   0.269669
+9     5  sitting 12 year old son hospital reading revie...   0.249222
+10   24  without doubt amazing tv ever seen able watch ...   0.242035
+11   18  nice tv doubt disappointed found made america ...   0.209960
+12  306                             really good watch porn   0.110269
+13  159  decided used 399 000 one since new ones stock ...   0.090090
+
+step 1
+index added: 312
+percentage unclustered: 77.5468%
+
+	step 2
+
+step 1
+index added: 313
+percentage unclustered: 77.3389%
+
+	step 2
+
+step 1
+index added: 314
+percentage unclustered: 77.131%
+
+	step 2
+
+step 1
+index added: 315
+percentage unclustered: 76.9231%
+
+	step 2
+
+		step 3
+		candidate index: 315 with core nodes: [1, 14, 23, 29, 86, 108, 123, 155, 173, 207, 295, 297, 311, 315]
+			old information: 27, gain: 0.9788235294117648
+
+     ind                                             review  relevance
+0   311  amazon made huge mistake forgot convert 105cm ...   0.446282
+1   108  hate tv tv delivered ups 1 min countdown deliv...   0.444570
+2   238          great tv cost one kidney first male child   0.402663
+3   264  already theater main home naples florida famil...   0.389061
+4    28  unlike reviews actually purchased tv wife pret...   0.357682
+5    75  tv great nice crisp picture terrific sound tho...   0.349454
+6    79  got tv mere 120k sale mounted wall whole house...   0.289122
+7   185  selling vital organs afford spend rest life ch...   0.271899
+8    37  great tv amazing picture hd best part though b...   0.269669
+9     5  sitting 12 year old son hospital reading revie...   0.249222
+10   24  without doubt amazing tv ever seen able watch ...   0.242035
+11  315  picking paper clips clicking check noticed ite...   0.216080
+12   18  nice tv doubt disappointed found made america ...   0.209960
+13  306                             really good watch porn   0.110269
+14  159  decided used 399 000 one since new ones stock ...   0.090090
+
+step 1
+index added: 316
+percentage unclustered: 76.29939999999999%
+
+	step 2
+
+step 1
+index added: 317
+percentage unclustered: 76.0915%
+
+	step 2
+
+		step 3
+		candidate index: 317 with core nodes: [5, 37, 75, 98, 123, 145, 258, 295, 317]
+			old information: 1, gain: 0.9333333333333333
+
+     ind                                             review  relevance
+0   311  amazon made huge mistake forgot convert 105cm ...   0.446282
+1   108  hate tv tv delivered ups 1 min countdown deliv...   0.444570
+2   238          great tv cost one kidney first male child   0.402663
+3   264  already theater main home naples florida famil...   0.389061
+4    28  unlike reviews actually purchased tv wife pret...   0.357682
+5    75  tv great nice crisp picture terrific sound tho...   0.349454
+6    79  got tv mere 120k sale mounted wall whole house...   0.289122
+7   185  selling vital organs afford spend rest life ch...   0.271899
+8    37  great tv amazing picture hd best part though b...   0.269669
+9     5  sitting 12 year old son hospital reading revie...   0.249222
+10   24  without doubt amazing tv ever seen able watch ...   0.242035
+11  315  picking paper clips clicking check noticed ite...   0.216080
+12   18  nice tv doubt disappointed found made america ...   0.209960
+13  306                             really good watch porn   0.110269
+14  159  decided used 399 000 one since new ones stock ...   0.090090
+15  317           love compliments bent mean curved iphone   0.082881
+
+step 1
+index added: 318
+percentage unclustered: 76.0915%
+
+	step 2
+
+step 1
+index added: 319
+percentage unclustered: 76.0915%
+
+	step 2
+
+step 1
+index added: 320
+percentage unclustered: 76.0915%
+
+	step 2
+
+step 1
+index added: 321
+percentage unclustered: 76.0915%
+
+	step 2
+
+step 1
+index added: 322
+percentage unclustered: 75.4678%
+
+	step 2
+
+step 1
+index added: 323
+percentage unclustered: 75.2599%
+
+	step 2
+
+step 1
+index added: 324
+percentage unclustered: 75.2599%
+
+	step 2
+
+step 1
+index added: 325
+percentage unclustered: 75.05199999999999%
+
+	step 2
+
+step 1
+index added: 326
+percentage unclustered: 74.8441%
+
+	step 2
+
+step 1
+index added: 327
+percentage unclustered: 74.8441%
+
+	step 2
+
+step 1
+index added: 328
+percentage unclustered: 74.6362%
+
+	step 2
+
+step 1
+index added: 329
+percentage unclustered: 74.6362%
+
+	step 2
+
+step 1
+index added: 330
+percentage unclustered: 75.4678%
+
+	step 2
+
+step 1
+index added: 331
+percentage unclustered: 75.4678%
+
+	step 2
+
+step 1
+index added: 332
+percentage unclustered: 75.4678%
+
+	step 2
+
+step 1
+index added: 333
+percentage unclustered: 74.6362%
+
+	step 2
+
+step 1
+index added: 334
+percentage unclustered: 74.6362%
+
+	step 2
+
+step 1
+index added: 335
+percentage unclustered: 74.42830000000001%
+
+	step 2
+
+step 1
+index added: 336
+percentage unclustered: 74.42830000000001%
+
+	step 2
+
+step 1
+index added: 337
+percentage unclustered: 73.8046%
+
+	step 2
+
+step 1
+index added: 338
+percentage unclustered: 72.973%
+
+	step 2
+
+step 1
+index added: 339
+percentage unclustered: 72.973%
+
+	step 2
+
+step 1
+index added: 340
+percentage unclustered: 72.7651%
+
+	step 2
+
+step 1
+index added: 341
+percentage unclustered: 72.5572%
+
+	step 2
+
+step 1
+index added: 342
+percentage unclustered: 72.5572%
+
+	step 2
+
+step 1
+index added: 343
+percentage unclustered: 72.5572%
+
+	step 2
+
+step 1
+index added: 344
+percentage unclustered: 72.5572%
+
+	step 2
+
+step 1
+index added: 345
+percentage unclustered: 72.5572%
+
+	step 2
+
+step 1
+index added: 346
+percentage unclustered: 72.5572%
+
+	step 2
+
+step 1
+index added: 347
+percentage unclustered: 72.5572%
+
+	step 2
+
+step 1
+index added: 348
+percentage unclustered: 72.5572%
+
+	step 2
+
+step 1
+index added: 349
+percentage unclustered: 72.3493%
+
+	step 2
+
+step 1
+index added: 350
+percentage unclustered: 72.3493%
+
+	step 2
+
+step 1
+index added: 351
+percentage unclustered: 72.3493%
+
+	step 2
+
+step 1
+index added: 352
+percentage unclustered: 72.1414%
+
+	step 2
+
+step 1
+index added: 353
+percentage unclustered: 72.1414%
+
+	step 2
+
+step 1
+index added: 354
+percentage unclustered: 71.3098%
+
+	step 2
+
+step 1
+index added: 355
+percentage unclustered: 71.3098%
+
+	step 2
+
+step 1
+index added: 356
+percentage unclustered: 71.1019%
+
+	step 2
+
+step 1
+index added: 357
+percentage unclustered: 70.27029999999999%
+
+	step 2
+
+		step 3
+		candidate index: 357 with core nodes: [101, 172, 185, 357]
+			old information: 50, gain: 0.8768472906403941
+
+     ind                                             review  relevance
+0   311  amazon made huge mistake forgot convert 105cm ...   0.446282
+1   108  hate tv tv delivered ups 1 min countdown deliv...   0.444570
+2   238          great tv cost one kidney first male child   0.402663
+3   357  sell home car drop school buy tv best descion ...   0.394094
+4   264  already theater main home naples florida famil...   0.389061
+5    28  unlike reviews actually purchased tv wife pret...   0.357682
+6    75  tv great nice crisp picture terrific sound tho...   0.349454
+7    79  got tv mere 120k sale mounted wall whole house...   0.289122
+8   185  selling vital organs afford spend rest life ch...   0.271899
+9    37  great tv amazing picture hd best part though b...   0.269669
+10    5  sitting 12 year old son hospital reading revie...   0.249222
+11   24  without doubt amazing tv ever seen able watch ...   0.242035
+12  315  picking paper clips clicking check noticed ite...   0.216080
+13   18  nice tv doubt disappointed found made america ...   0.209960
+14  306                             really good watch porn   0.110269
+15  159  decided used 399 000 one since new ones stock ...   0.090090
+16  317           love compliments bent mean curved iphone   0.082881
+
+step 1
+index added: 358
+percentage unclustered: 70.0624%
+
+	step 2
+
+		step 3
+		candidate index: 358 with core nodes: [49, 194, 358]
+			old information: 1, gain: 0.9333333333333333
+
+     ind                                             review  relevance
+0   311  amazon made huge mistake forgot convert 105cm ...   0.446282
+1   108  hate tv tv delivered ups 1 min countdown deliv...   0.444570
+2   238          great tv cost one kidney first male child   0.402663
+3   357  sell home car drop school buy tv best descion ...   0.394094
+4   264  already theater main home naples florida famil...   0.389061
+5    28  unlike reviews actually purchased tv wife pret...   0.357682
+6    75  tv great nice crisp picture terrific sound tho...   0.349454
+7    79  got tv mere 120k sale mounted wall whole house...   0.289122
+8   185  selling vital organs afford spend rest life ch...   0.271899
+9    37  great tv amazing picture hd best part though b...   0.269669
+10    5  sitting 12 year old son hospital reading revie...   0.249222
+11   24  without doubt amazing tv ever seen able watch ...   0.242035
+12  315  picking paper clips clicking check noticed ite...   0.216080
+13   18  nice tv doubt disappointed found made america ...   0.209960
+14  306                             really good watch porn   0.110269
+15  159  decided used 399 000 one since new ones stock ...   0.090090
+16  358             looks great hanging 105 inch fireplace   0.083576
+17  317           love compliments bent mean curved iphone   0.082881
+
+step 1
+index added: 359
+percentage unclustered: 69.8545%
+
+	step 2
+
+step 1
+index added: 360
+percentage unclustered: 69.8545%
+
+	step 2
+
+step 1
+index added: 361
+percentage unclustered: 69.8545%
+
+	step 2
+
+step 1
+index added: 362
+percentage unclustered: 69.6466%
+
+	step 2
+
+		step 3
+		candidate index: 362 with core nodes: [126, 238, 314, 328, 362]
+			old information: 31, gain: 0.7720588235294118
+
+     ind                                             review  relevance
+0   311  amazon made huge mistake forgot convert 105cm ...   0.446282
+1   108  hate tv tv delivered ups 1 min countdown deliv...   0.444570
+2   238          great tv cost one kidney first male child   0.402663
+3   357  sell home car drop school buy tv best descion ...   0.394094
+4   264  already theater main home naples florida famil...   0.389061
+5    28  unlike reviews actually purchased tv wife pret...   0.357682
+6    75  tv great nice crisp picture terrific sound tho...   0.349454
+7   362  first torn buying tv saw free delivery deal br...   0.335456
+8    79  got tv mere 120k sale mounted wall whole house...   0.289122
+9   185  selling vital organs afford spend rest life ch...   0.271899
+10   37  great tv amazing picture hd best part though b...   0.269669
+11    5  sitting 12 year old son hospital reading revie...   0.249222
+12   24  without doubt amazing tv ever seen able watch ...   0.242035
+13  315  picking paper clips clicking check noticed ite...   0.216080
+14   18  nice tv doubt disappointed found made america ...   0.209960
+15  306                             really good watch porn   0.110269
+16  159  decided used 399 000 one since new ones stock ...   0.090090
+17  358             looks great hanging 105 inch fireplace   0.083576
+18  317           love compliments bent mean curved iphone   0.082881
+
+step 1
+index added: 363
+percentage unclustered: 69.6466%
+
+	step 2
+
+step 1
+index added: 364
+percentage unclustered: 69.8545%
+
+	step 2
+
+step 1
+index added: 365
+percentage unclustered: 69.6466%
+
+	step 2
+
+step 1
+index added: 366
+percentage unclustered: 69.02289999999999%
+
+	step 2
+
+step 1
+index added: 367
+percentage unclustered: 69.02289999999999%
+
+	step 2
+
+step 1
+index added: 368
+percentage unclustered: 69.02289999999999%
+
+	step 2
+
+step 1
+index added: 369
+percentage unclustered: 69.02289999999999%
+
+	step 2
+
+step 1
+index added: 370
+percentage unclustered: 69.02289999999999%
+
+	step 2
+
+step 1
+index added: 371
+percentage unclustered: 70.0624%
+
+	step 2
+
+step 1
+index added: 372
+percentage unclustered: 70.0624%
+
+	step 2
+
+step 1
+index added: 373
+percentage unclustered: 70.0624%
+
+	step 2
+
+step 1
+index added: 374
+percentage unclustered: 70.27029999999999%
+
+	step 2
+
+step 1
+index added: 375
+percentage unclustered: 70.27029999999999%
+
+	step 2
+
+step 1
+index added: 376
+percentage unclustered: 70.27029999999999%
+
+	step 2
+
+step 1
+index added: 377
+percentage unclustered: 70.27029999999999%
+
+	step 2
+
+step 1
+index added: 378
+percentage unclustered: 70.27029999999999%
+
+	step 2
+
+step 1
+index added: 379
+percentage unclustered: 70.0624%
+
+	step 2
+
+step 1
+index added: 380
+percentage unclustered: 69.8545%
+
+	step 2
+
+step 1
+index added: 381
+percentage unclustered: 69.8545%
+
+	step 2
+
+step 1
+index added: 382
+percentage unclustered: 69.8545%
+
+	step 2
+
+step 1
+index added: 383
+percentage unclustered: 69.2308%
+
+	step 2
+
+step 1
+index added: 384
+percentage unclustered: 68.6071%
+
+	step 2
+
+step 1
+index added: 385
+percentage unclustered: 68.6071%
+
+	step 2
+
+step 1
+index added: 386
+percentage unclustered: 68.6071%
+
+	step 2
+
+step 1
+index added: 387
+percentage unclustered: 68.39920000000001%
+
+	step 2
+
+step 1
+index added: 388
+percentage unclustered: 68.6071%
+
+	step 2
+
+step 1
+index added: 389
+percentage unclustered: 68.6071%
+
+	step 2
+
+step 1
+index added: 390
+percentage unclustered: 67.9834%
+
+	step 2
+
+step 1
+index added: 391
+percentage unclustered: 67.3597%
+
+	step 2
+
+		step 3
+		candidate index: 391 with core nodes: [44, 184, 306]
+
+step 1
+index added: 392
+percentage unclustered: 67.15180000000001%
+
+	step 2
+
+step 1
+index added: 393
+percentage unclustered: 66.9439%
+
+	step 2
+
+step 1
+index added: 394
+percentage unclustered: 66.73599999999999%
+
+	step 2
+
+step 1
+index added: 395
+percentage unclustered: 66.73599999999999%
+
+	step 2
+
+step 1
+index added: 396
+percentage unclustered: 66.73599999999999%
+
+	step 2
+
+step 1
+index added: 397
+percentage unclustered: 66.1123%
+
+	step 2
+
+step 1
+index added: 398
+percentage unclustered: 66.1123%
+
+	step 2
+
+step 1
+index added: 399
+percentage unclustered: 65.90440000000001%
+
+	step 2
+
+step 1
+index added: 400
+percentage unclustered: 65.90440000000001%
+
+	step 2
+
+step 1
+index added: 401
+percentage unclustered: 65.90440000000001%
+
+	step 2
+
+step 1
+index added: 402
+percentage unclustered: 65.90440000000001%
+
+	step 2
+
+step 1
+index added: 403
+percentage unclustered: 65.90440000000001%
+
+	step 2
+
+step 1
+index added: 404
+percentage unclustered: 65.90440000000001%
+
+	step 2
+
+step 1
+index added: 405
+percentage unclustered: 65.90440000000001%
+
+	step 2
+
+step 1
+index added: 406
+percentage unclustered: 65.90440000000001%
+
+	step 2
+
+step 1
+index added: 407
+percentage unclustered: 65.6965%
+
+	step 2
+
+step 1
+index added: 408
+percentage unclustered: 65.6965%
+
+	step 2
+
+step 1
+index added: 409
+percentage unclustered: 65.6965%
+
+	step 2
+
+step 1
+index added: 410
+percentage unclustered: 65.6965%
+
+	step 2
+
+step 1
+index added: 411
+percentage unclustered: 65.48859999999999%
+
+	step 2
+
+		step 3
+		candidate index: 411 with core nodes: [14, 108, 311]
+
+step 1
+index added: 412
+percentage unclustered: 65.48859999999999%
+
+	step 2
+
+step 1
+index added: 413
+percentage unclustered: 65.2807%
+
+	step 2
+
+step 1
+index added: 414
+percentage unclustered: 65.0728%
+
+	step 2
+
+step 1
+index added: 415
+percentage unclustered: 65.0728%
+
+	step 2
+
+step 1
+index added: 416
+percentage unclustered: 65.0728%
+
+	step 2
+
+step 1
+index added: 417
+percentage unclustered: 65.0728%
+
+	step 2
+
+step 1
+index added: 418
+percentage unclustered: 65.48859999999999%
+
+	step 2
+
+		step 3
+		candidate index: 418 with core nodes: [14, 108, 311]
+
+step 1
+index added: 419
+percentage unclustered: 65.48859999999999%
+
+	step 2
+
+step 1
+index added: 420
+percentage unclustered: 65.48859999999999%
+
+	step 2
+
+step 1
+index added: 421
+percentage unclustered: 65.48859999999999%
+
+	step 2
+
+step 1
+index added: 422
+percentage unclustered: 67.5676%
+
+	step 2
+
+		step 3
+		candidate index: 422 with core nodes: [23, 29, 123, 155, 173, 207, 295, 315, 422]
+			old information: 8, gain: 0.8545454545454545
+
+     ind                                             review  relevance
+0   311  amazon made huge mistake forgot convert 105cm ...   0.446282
+1   108  hate tv tv delivered ups 1 min countdown deliv...   0.444570
+2   238          great tv cost one kidney first male child   0.402663
+3   357  sell home car drop school buy tv best descion ...   0.394094
+4   264  already theater main home naples florida famil...   0.389061
+5    28  unlike reviews actually purchased tv wife pret...   0.357682
+6    75  tv great nice crisp picture terrific sound tho...   0.349454
+7   422  tv great great credit take loan sell house liv...   0.347930
+8   362  first torn buying tv saw free delivery deal br...   0.335456
+9    79  got tv mere 120k sale mounted wall whole house...   0.289122
+10  185  selling vital organs afford spend rest life ch...   0.271899
+11   37  great tv amazing picture hd best part though b...   0.269669
+12    5  sitting 12 year old son hospital reading revie...   0.249222
+13   24  without doubt amazing tv ever seen able watch ...   0.242035
+14  315  picking paper clips clicking check noticed ite...   0.216080
+15   18  nice tv doubt disappointed found made america ...   0.209960
+16  306                             really good watch porn   0.110269
+17  159  decided used 399 000 one since new ones stock ...   0.090090
+18  358             looks great hanging 105 inch fireplace   0.083576
+19  317           love compliments bent mean curved iphone   0.082881
+
+		step 3
+		candidate index: 422 with core nodes: [23, 123, 155, 173, 207, 295, 315, 318, 323, 356, 392, 422]
+			old information: 46, gain: 0.16363636363636364
+
+step 1
+index added: 423
+percentage unclustered: 67.3597%
+
+	step 2
+
+step 1
+index added: 424
+percentage unclustered: 66.73599999999999%
+
+	step 2
+
+		step 3
+		candidate index: 424 with core nodes: [23, 29, 123, 155, 173, 207, 295, 315, 422]
+			old information: 63, gain: 0.9441489361702128
+
+     ind                                             review  relevance
+0   311  amazon made huge mistake forgot convert 105cm ...   0.446282
+1   108  hate tv tv delivered ups 1 min countdown deliv...   0.444570
+2   238          great tv cost one kidney first male child   0.402663
+3   357  sell home car drop school buy tv best descion ...   0.394094
+4   264  already theater main home naples florida famil...   0.389061
+5    28  unlike reviews actually purchased tv wife pret...   0.357682
+6    75  tv great nice crisp picture terrific sound tho...   0.349454
+7   422  tv great great credit take loan sell house liv...   0.347930
+8   362  first torn buying tv saw free delivery deal br...   0.335456
+9   424  first hate 105 inches samsung thinking n nanyw...   0.321483
+10   79  got tv mere 120k sale mounted wall whole house...   0.289122
+11  185  selling vital organs afford spend rest life ch...   0.271899
+12   37  great tv amazing picture hd best part though b...   0.269669
+13    5  sitting 12 year old son hospital reading revie...   0.249222
+14   24  without doubt amazing tv ever seen able watch ...   0.242035
+15  315  picking paper clips clicking check noticed ite...   0.216080
+16   18  nice tv doubt disappointed found made america ...   0.209960
+17  306                             really good watch porn   0.110269
+18  159  decided used 399 000 one since new ones stock ...   0.090090
+19  358             looks great hanging 105 inch fireplace   0.083576
+20  317           love compliments bent mean curved iphone   0.082881
+
+		step 3
+		candidate index: 424 with core nodes: [23, 123, 155, 173, 207, 295, 315, 318, 323, 356, 392, 422]
+			old information: 1082, gain: 0.040780141843971635
+
+step 1
+index added: 425
+percentage unclustered: 66.73599999999999%
+
+	step 2
+
+step 1
+index added: 426
+percentage unclustered: 66.73599999999999%
+
+	step 2
+
+step 1
+index added: 427
+percentage unclustered: 66.5281%
+
+	step 2
+
+step 1
+index added: 428
+percentage unclustered: 66.5281%
+
+	step 2
+
+step 1
+index added: 429
+percentage unclustered: 66.5281%
+
+	step 2
+
+step 1
+index added: 430
+percentage unclustered: 66.5281%
+
+	step 2
+
+step 1
+index added: 431
+percentage unclustered: 66.5281%
+
+	step 2
+
+step 1
+index added: 432
+percentage unclustered: 67.5676%
+
+	step 2
+
+step 1
+index added: 433
+percentage unclustered: 67.5676%
+
+	step 2
+
+step 1
+index added: 434
+percentage unclustered: 68.6071%
+
+	step 2
+
+step 1
+index added: 435
+percentage unclustered: 68.39920000000001%
+
+	step 2
+
+step 1
+index added: 436
+percentage unclustered: 68.39920000000001%
+
+	step 2
+
+step 1
+index added: 437
+percentage unclustered: 68.39920000000001%
+
+	step 2
+
+step 1
+index added: 438
+percentage unclustered: 68.39920000000001%
+
+	step 2
+
+step 1
+index added: 439
+percentage unclustered: 68.1913%
+
+	step 2
+
+		step 3
+		candidate index: 439 with core nodes: [246, 286, 439]
+			old information: 24, gain: 0.9572192513368984
+
+     ind                                             review  relevance
+0   311  amazon made huge mistake forgot convert 105cm ...   0.446282
+1   108  hate tv tv delivered ups 1 min countdown deliv...   0.444570
+2   238          great tv cost one kidney first male child   0.402663
+3   357  sell home car drop school buy tv best descion ...   0.394094
+4   264  already theater main home naples florida famil...   0.389061
+5    28  unlike reviews actually purchased tv wife pret...   0.357682
+6    75  tv great nice crisp picture terrific sound tho...   0.349454
+7   422  tv great great credit take loan sell house liv...   0.347930
+8   362  first torn buying tv saw free delivery deal br...   0.335456
+9   424  first hate 105 inches samsung thinking n nanyw...   0.321483
+10   79  got tv mere 120k sale mounted wall whole house...   0.289122
+11  185  selling vital organs afford spend rest life ch...   0.271899
+12   37  great tv amazing picture hd best part though b...   0.269669
+13    5  sitting 12 year old son hospital reading revie...   0.249222
+14   24  without doubt amazing tv ever seen able watch ...   0.242035
+15  315  picking paper clips clicking check noticed ite...   0.216080
+16   18  nice tv doubt disappointed found made america ...   0.209960
+17  439  size similar iphone 6 plus curve similar iphon...   0.179889
+18  306                             really good watch porn   0.110269
+19  159  decided used 399 000 one since new ones stock ...   0.090090
+20  358             looks great hanging 105 inch fireplace   0.083576
+21  317           love compliments bent mean curved iphone   0.082881
+
+step 1
+index added: 440
+percentage unclustered: 68.1913%
+
+	step 2
+
+step 1
+index added: 441
+percentage unclustered: 68.1913%
+
+	step 2
+
+step 1
+index added: 442
+percentage unclustered: 68.1913%
+
+	step 2
+
+step 1
+index added: 443
+percentage unclustered: 67.15180000000001%
+
+	step 2
+
+		step 3
+		candidate index: 443 with core nodes: [14, 108, 311, 443]
+			old information: 18, gain: 0.9487179487179487
+
+     ind                                             review  relevance
+0   311  amazon made huge mistake forgot convert 105cm ...   0.446282
+1   108  hate tv tv delivered ups 1 min countdown deliv...   0.444570
+2   443  amazon free shipping looking tv could let gues...   0.416039
+3   238          great tv cost one kidney first male child   0.402663
+4   357  sell home car drop school buy tv best descion ...   0.394094
+5   264  already theater main home naples florida famil...   0.389061
+6    28  unlike reviews actually purchased tv wife pret...   0.357682
+7    75  tv great nice crisp picture terrific sound tho...   0.349454
+8   422  tv great great credit take loan sell house liv...   0.347930
+9   362  first torn buying tv saw free delivery deal br...   0.335456
+10  424  first hate 105 inches samsung thinking n nanyw...   0.321483
+11   79  got tv mere 120k sale mounted wall whole house...   0.289122
+12  185  selling vital organs afford spend rest life ch...   0.271899
+13   37  great tv amazing picture hd best part though b...   0.269669
+14    5  sitting 12 year old son hospital reading revie...   0.249222
+15   24  without doubt amazing tv ever seen able watch ...   0.242035
+16  315  picking paper clips clicking check noticed ite...   0.216080
+17   18  nice tv doubt disappointed found made america ...   0.209960
+18  439  size similar iphone 6 plus curve similar iphon...   0.179889
+19  306                             really good watch porn   0.110269
+20  159  decided used 399 000 one since new ones stock ...   0.090090
+21  358             looks great hanging 105 inch fireplace   0.083576
+22  317           love compliments bent mean curved iphone   0.082881
+
+step 1
+index added: 444
+percentage unclustered: 66.9439%
+
+	step 2
+
+step 1
+index added: 445
+percentage unclustered: 66.9439%
+
+	step 2
+
+step 1
+index added: 446
+percentage unclustered: 66.73599999999999%
+
+	step 2
+
+step 1
+index added: 447
+percentage unclustered: 66.73599999999999%
+
+	step 2
+
+step 1
+index added: 448
+percentage unclustered: 66.5281%
+
+	step 2
+
+		step 3
+		candidate index: 448 with core nodes: [113, 290, 448]
+			old information: 2, gain: 0.9743589743589743
+
+     ind                                             review  relevance
+0   311  amazon made huge mistake forgot convert 105cm ...   0.446282
+1   108  hate tv tv delivered ups 1 min countdown deliv...   0.444570
+2   443  amazon free shipping looking tv could let gues...   0.416039
+3   238          great tv cost one kidney first male child   0.402663
+4   357  sell home car drop school buy tv best descion ...   0.394094
+5   264  already theater main home naples florida famil...   0.389061
+6    28  unlike reviews actually purchased tv wife pret...   0.357682
+7    75  tv great nice crisp picture terrific sound tho...   0.349454
+8   422  tv great great credit take loan sell house liv...   0.347930
+9   362  first torn buying tv saw free delivery deal br...   0.335456
+10  424  first hate 105 inches samsung thinking n nanyw...   0.321483
+11   79  got tv mere 120k sale mounted wall whole house...   0.289122
+12  185  selling vital organs afford spend rest life ch...   0.271899
+13   37  great tv amazing picture hd best part though b...   0.269669
+14    5  sitting 12 year old son hospital reading revie...   0.249222
+15  448  absolutely love new tv dad mom find dropped co...   0.247370
+16   24  without doubt amazing tv ever seen able watch ...   0.242035
+17  315  picking paper clips clicking check noticed ite...   0.216080
+18   18  nice tv doubt disappointed found made america ...   0.209960
+19  439  size similar iphone 6 plus curve similar iphon...   0.179889
+20  306                             really good watch porn   0.110269
+21  159  decided used 399 000 one since new ones stock ...   0.090090
+22  358             looks great hanging 105 inch fireplace   0.083576
+23  317           love compliments bent mean curved iphone   0.082881
+
+step 1
+index added: 449
+percentage unclustered: 66.5281%
+
+	step 2
+
+step 1
+index added: 450
+percentage unclustered: 66.5281%
+
+	step 2
+
+step 1
+index added: 451
+percentage unclustered: 66.5281%
+
+	step 2
+
+step 1
+index added: 452
+percentage unclustered: 66.5281%
+
+	step 2
+
+step 1
+index added: 453
+percentage unclustered: 66.73599999999999%
+
+	step 2
+
+step 1
+index added: 454
+percentage unclustered: 66.73599999999999%
+
+	step 2
+
+step 1
+index added: 455
+percentage unclustered: 66.73599999999999%
+
+	step 2
+
+step 1
+index added: 456
+percentage unclustered: 66.73599999999999%
+
+	step 2
+
+step 1
+index added: 457
+percentage unclustered: 66.5281%
+
+	step 2
+
+step 1
+index added: 458
+percentage unclustered: 65.48859999999999%
+
+	step 2
+
+step 1
+index added: 459
+percentage unclustered: 64.8649%
+
+	step 2
+
+		step 3
+		candidate index: 459 with core nodes: [108, 293, 311, 443]
+
+step 1
+index added: 460
+percentage unclustered: 65.6965%
+
+	step 2
+
+step 1
+index added: 461
+percentage unclustered: 65.48859999999999%
+
+	step 2
+
+step 1
+index added: 462
+percentage unclustered: 65.90440000000001%
+
+	step 2
+
+step 1
+index added: 463
+percentage unclustered: 65.90440000000001%
+
+	step 2
+
+step 1
+index added: 464
+percentage unclustered: 65.90440000000001%
+
+	step 2
+
+step 1
+index added: 465
+percentage unclustered: 65.90440000000001%
+
+	step 2
+
+step 1
+index added: 466
+percentage unclustered: 65.2807%
+
+	step 2
+
+step 1
+index added: 467
+percentage unclustered: 64.0333%
+
+	step 2
+
+		step 3
+		candidate index: 467 with core nodes: [108, 293, 311, 443]
+
+step 1
+index added: 468
+percentage unclustered: 62.9938%
+
+	step 2
+
+step 1
+index added: 469
+percentage unclustered: 62.9938%
+
+	step 2
+
+step 1
+index added: 470
+percentage unclustered: 62.9938%
+
+	step 2
+
+step 1
+index added: 471
+percentage unclustered: 62.9938%
+
+	step 2
+
+step 1
+index added: 472
+percentage unclustered: 62.9938%
+
+	step 2
+
+step 1
+index added: 473
+percentage unclustered: 62.7859%
+
+	step 2
+
+step 1
+index added: 474
+percentage unclustered: 62.7859%
+
+	step 2
+
+step 1
+index added: 475
+percentage unclustered: 62.578%
+
+	step 2
+
+step 1
+index added: 476
+percentage unclustered: 63.2017%
+
+	step 2
+
+step 1
+index added: 477
+percentage unclustered: 62.9938%
+
+	step 2
+
+		step 3
+		candidate index: 477 with core nodes: [108, 293, 311, 443]
+
+step 1
+index added: 478
+percentage unclustered: 62.7859%
+
+	step 2
+
+step 1
+index added: 479
+percentage unclustered: 62.7859%
+
+	step 2
+
+step 1
+index added: 480
+percentage unclustered: 62.578%
+
+	step 2
+
+--- 3910.4349780082703 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 99.3763, 99.3763, 99.3763, 99.3763, 99.3763, 99.3763, 99.3763, 99.3763, 99.3763, 99.3763, 99.3763, 99.3763, 99.3763, 99.1684, 99.1684, 99.1684, 98.9605, 98.9605, 98.9605, 98.3368, 98.3368, 98.3368, 98.3368, 98.1289, 98.1289, 97.5052, 97.5052, 98.1289, 98.1289, 98.1289, 98.7526, 98.7526, 97.5052, 97.2973, 97.2973, 97.2973, 97.2973, 97.2973, 97.2973, 97.0894, 96.4657, 96.4657, 95.842, 95.842, 95.6341, 95.4262, 95.4262, 95.4262, 95.4262, 95.4262, 95.4262, 95.4262, 95.4262, 95.4262, 95.2183, 95.2183, 95.0104, 94.3867, 94.1788, 94.1788, 93.5551, 93.5551, 93.5551, 93.5551, 93.3472, 93.3472, 93.3472, 93.3472, 93.3472, 93.3472, 93.3472, 93.3472, 93.1393, 93.1393, 92.9314, 92.9314, 92.7235, 92.5156, 92.5156, 91.89189999999999, 91.684, 91.684, 91.684, 91.4761, 91.4761, 91.4761, 91.26820000000001, 91.26820000000001, 91.26820000000001, 91.26820000000001, 91.26820000000001, 91.26820000000001, 91.89189999999999, 91.684, 91.684, 91.684, 92.3077, 92.0998, 92.0998, 92.0998, 92.0998, 91.4761, 91.4761, 91.26820000000001, 91.26820000000001, 91.0603, 90.8524, 90.8524, 90.8524, 90.8524, 90.8524, 90.8524, 90.8524, 90.8524, 90.2287, 90.0208, 89.8129, 89.8129, 89.605, 89.3971, 89.3971, 88.5655, 88.3576, 88.3576, 88.3576, 88.3576, 88.3576, 88.3576, 88.3576, 87.7339, 88.1497, 87.9418, 87.9418, 87.9418, 87.9418, 87.9418, 87.9418, 88.1497, 88.1497, 87.9418, 87.7339, 87.526, 87.526, 87.526, 87.3181, 87.3181, 87.3181, 87.3181, 87.1102, 87.3181, 86.4865, 86.2786, 86.2786, 86.0707, 85.8628, 85.8628, 86.2786, 86.2786, 86.2786, 86.0707, 85.8628, 85.6549, 85.447, 85.447, 85.447, 85.447, 85.6549, 85.23910000000001, 85.23910000000001, 85.447, 85.447, 85.447, 85.447, 85.6549, 85.6549, 85.0312, 85.0312, 85.0312, 84.8233, 84.6154, 83.7838, 83.7838, 83.7838, 83.7838, 83.7838, 83.7838, 83.5759, 83.5759, 83.5759, 83.368, 83.368, 83.5759, 83.5759, 83.368, 83.368, 83.368, 83.368, 84.1996, 84.1996, 84.1996, 83.99170000000001, 84.1996, 83.99170000000001, 83.99170000000001, 83.99170000000001, 83.99170000000001, 83.7838, 83.7838, 82.7443, 82.7443, 82.7443, 82.7443, 82.7443, 82.7443, 82.7443, 82.7443, 82.7443, 82.7443, 82.5364, 82.5364, 82.5364, 82.7443, 82.7443, 82.7443, 82.32849999999999, 82.1206, 81.9127, 81.9127, 81.9127, 81.7048, 81.7048, 80.8732, 80.6653, 80.4574, 80.4574, 80.4574, 80.4574, 80.4574, 80.4574, 80.4574, 80.4574, 80.4574, 80.4574, 80.4574, 80.2495, 80.0416, 79.8337, 79.6258, 79.4179, 79.4179, 79.4179, 79.21000000000001, 78.1705, 77.9626, 77.9626, 77.9626, 78.1705, 78.1705, 77.9626, 77.7547, 77.7547, 77.131, 77.131, 77.131, 77.7547, 77.7547, 77.7547, 77.5468, 77.5468, 77.131, 77.131, 77.131, 77.131, 77.3389, 77.131, 77.7547, 77.7547, 77.7547, 77.5468, 77.3389, 77.3389, 76.7152, 76.7152, 76.7152, 76.7152, 77.3389, 77.3389, 78.1705, 78.1705, 78.1705, 78.3784, 78.1705, 77.9626, 77.7547, 77.5468, 77.5468, 77.5468, 78.3784, 78.1705, 77.9626, 77.7547, 77.5468, 77.7547, 77.7547, 77.7547, 77.7547, 77.7547, 77.5468, 77.3389, 77.131, 76.9231, 76.29939999999999, 76.0915, 76.0915, 76.0915, 76.0915, 76.0915, 75.4678, 75.2599, 75.2599, 75.05199999999999, 74.8441, 74.8441, 74.6362, 74.6362, 75.4678, 75.4678, 75.4678, 74.6362, 74.6362, 74.42830000000001, 74.42830000000001, 73.8046, 72.973, 72.973, 72.7651, 72.5572, 72.5572, 72.5572, 72.5572, 72.5572, 72.5572, 72.5572, 72.5572, 72.3493, 72.3493, 72.3493, 72.1414, 72.1414, 71.3098, 71.3098, 71.1019, 70.27029999999999, 70.0624, 69.8545, 69.8545, 69.8545, 69.6466, 69.6466, 69.8545, 69.6466, 69.02289999999999, 69.02289999999999, 69.02289999999999, 69.02289999999999, 69.02289999999999, 70.0624, 70.0624, 70.0624, 70.27029999999999, 70.27029999999999, 70.27029999999999, 70.27029999999999, 70.27029999999999, 70.0624, 69.8545, 69.8545, 69.8545, 69.2308, 68.6071, 68.6071, 68.6071, 68.39920000000001, 68.6071, 68.6071, 67.9834, 67.3597, 67.15180000000001, 66.9439, 66.73599999999999, 66.73599999999999, 66.73599999999999, 66.1123, 66.1123, 65.90440000000001, 65.90440000000001, 65.90440000000001, 65.90440000000001, 65.90440000000001, 65.90440000000001, 65.90440000000001, 65.90440000000001, 65.6965, 65.6965, 65.6965, 65.6965, 65.48859999999999, 65.48859999999999, 65.2807, 65.0728, 65.0728, 65.0728, 65.0728, 65.48859999999999, 65.48859999999999, 65.48859999999999, 65.48859999999999, 67.5676, 67.3597, 66.73599999999999, 66.73599999999999, 66.73599999999999, 66.5281, 66.5281, 66.5281, 66.5281, 66.5281, 67.5676, 67.5676, 68.6071, 68.39920000000001, 68.39920000000001, 68.39920000000001, 68.39920000000001, 68.1913, 68.1913, 68.1913, 68.1913, 67.15180000000001, 66.9439, 66.9439, 66.73599999999999, 66.73599999999999, 66.5281, 66.5281, 66.5281, 66.5281, 66.5281, 66.73599999999999, 66.73599999999999, 66.73599999999999, 66.73599999999999, 66.5281, 65.48859999999999, 64.8649, 65.6965, 65.48859999999999, 65.90440000000001, 65.90440000000001, 65.90440000000001, 65.90440000000001, 65.2807, 64.0333, 62.9938, 62.9938, 62.9938, 62.9938, 62.9938, 62.7859, 62.7859, 62.578, 63.2017, 62.9938, 62.7859, 62.7859, 62.578], mean: 80.7838
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0       221  311   0.446282  amazon made huge mistake forgot convert 105cm ...
+1       270  108   0.444570  hate tv tv delivered ups 1 min countdown deliv...
+2       413  443   0.416039  amazon free shipping looking tv could let gues...
+3       381  238   0.402663          great tv cost one kidney first male child
+4       251  357   0.394094  sell home car drop school buy tv best descion ...
+5        68  264   0.389061  already theater main home naples florida famil...
+6        94   28   0.357682  unlike reviews actually purchased tv wife pret...
+7       198   75   0.349454  tv great nice crisp picture terrific sound tho...
+8       347  422   0.347930  tv great great credit take loan sell house liv...
+9       179  362   0.335456  first torn buying tv saw free delivery deal br...
+10      476  424   0.321483  first hate 105 inches samsung thinking n nanyw...
+11      315   79   0.289122  got tv mere 120k sale mounted wall whole house...
+12      371  185   0.271899  selling vital organs afford spend rest life ch...
+13      238   37   0.269669  great tv amazing picture hd best part though b...
+14       29    5   0.249222  sitting 12 year old son hospital reading revie...
+15      422  448   0.247370  absolutely love new tv dad mom find dropped co...
+16      203   24   0.242035  without doubt amazing tv ever seen able watch ...
+17       84  315   0.216080  picking paper clips clicking check noticed ite...
+18       97   18   0.209960  nice tv doubt disappointed found made america ...
+19       35  439   0.179889  size similar iphone 6 plus curve similar iphon...
+20      459  306   0.110269                             really good watch porn
+21      434  159   0.090090  decided used 399 000 one since new ones stock ...
+22      463  358   0.083576             looks great hanging 105 inch fireplace
+23      333  317   0.082881           love compliments bent mean curved iphone
