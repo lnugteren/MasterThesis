@@ -1,0 +1,910 @@
+------- Category: Sports_and_Outdoors -------
+Found asin_id: B00AE1TWE0
+Shape:  (143, 7)
+
+Readability scores: [-1464.4659961190166, -374.41453961456097, 18.04470588235297, -1753.7876187875477, -80.15873626373623, -588.7879468242245, -137.13389610389606, -1077.1270872947275, 2.52500000000002, -102.85311004784685, 61.15833333333334, 205.82000000000002, -259.07829670329664, -617.1674369747898, -137.6768965517241, -84.28918918918914, 18.543918918918934, -105.220621761658, -354.09285714285704, 24.12406976744188, 32.01467741935487, -89.5730769230769, 75.9218181818182, -349.78202247191007, 25.84441176470591, -225.6012307692307, -501.29996644295295, -404.3845999999999, -169.99921348314604, -113.76005025125625, -24.092741935483843, 38.129836065573784, -354.851064301552, -82.7478571428571, 66.17609756097563, -162.71157303370785, -21.91127118644063, 50.881509433962286, 68.9377419354839, 29.97635135135137, -124.0634334763948, -81.99673913043476, -33.065599999999975, -1105.0177443609023, -386.1428151260503, -161.22837837837835, -142.51370370370367, 18.086666666666687, -252.34954545454542, -194.22595155709337, -151.1605063291139, -172.9874517374517, -8.81230769230767, -264.56836565096944, -311.6029927007299, -40.06529411764704, -134.40749999999994, -45.479999999999976, 23.55000000000004, -246.844702549575, -133.51273127753302, -2.8597058823529125, -203.60250836120395, -609.4137238493722, -35.9410526315789, -727.9581818181817, 59.59166666666669, 45.7557142857143, -280.78, -794.8030898876403, -196.07538461538456, 39.07776119402986, -248.02667630057795, 14.06560439560441, -7.803669724770614, -242.4870381231671, -120.24211981566816, -130.34195652173912, -51.51429447852759, -569.4349397590361, -6.745773195876268, -570.4418656716417, -10.884999999999962, -406.50849397590355, -170.39091872791514, -6.184999999999988, -1621.8366137566136, 63.020000000000024, -308.13961538461535, -533.9465094339622, -92.12357142857138, -75.96950276243089, -490.5764735945485, -466.30517667844515, 100.92000000000002, -292.15923664122136, 79.57576923076924, -10.440084745762675, 97.87500000000001, 2.116764705882389, 28.75894736842107, 69.04000000000002, -186.3948601398601, -373.07331210191074, -566.7262934947049, -10.366451612903205, -141.24015624999996, -59.368867924528274, 69.67500000000003, -1256.6502169035152, -32.84856115107911, -97.26199999999996, 29.94500000000002, 35.28970149253733, -68.92999999999996, 15.825000000000017, 3.7731632653061524, 6.70241379310346, 57.19941176470589, 53.32500000000001, 43.60105263157896, -376.9881052631578, 35.28970149253733, 0.8500000000000227, -1797.9140618336885, -3.7643925233644637, 44.49660377358493, -178.5828571428571, 46.069565217391315, -395.31540816326526, 13.398000000000025, -418.5599029126212, -571.2922809667673, -1019.8956557377047, -328.2164746543778, -118.75409090909086, 66.38810810810813, -86.19921052631577, -218.7250458715596, -1485.740994897959, -112.31713592233007, -436.4257633587785, -170.95645161290315], on average: -220.5741
+Readability scores after: [-1464.4659961190166, -374.41453961456097, 18.04470588235297, -1753.7876187875477, -80.15873626373623, -588.7879468242245, -137.13389610389606, -1077.1270872947275, 2.52500000000002, -102.85311004784685, -259.07829670329664, -617.1674369747898, -137.6768965517241, -84.28918918918914, 18.543918918918934, -105.220621761658, -354.09285714285704, 24.12406976744188, 32.01467741935487, -89.5730769230769, -349.78202247191007, 25.84441176470591, -225.6012307692307, -501.29996644295295, -404.3845999999999, -169.99921348314604, -113.76005025125625, -24.092741935483843, 38.129836065573784, -354.851064301552, -82.7478571428571, -162.71157303370785, -21.91127118644063, 29.97635135135137, -124.0634334763948, -81.99673913043476, -33.065599999999975, -1105.0177443609023, -386.1428151260503, -161.22837837837835, -142.51370370370367, 18.086666666666687, -252.34954545454542, -194.22595155709337, -151.1605063291139, -172.9874517374517, -8.81230769230767, -264.56836565096944, -311.6029927007299, -40.06529411764704, -134.40749999999994, -45.479999999999976, 23.55000000000004, -246.844702549575, -133.51273127753302, -2.8597058823529125, -203.60250836120395, -609.4137238493722, -35.9410526315789, -727.9581818181817, 45.7557142857143, -280.78, -794.8030898876403, -196.07538461538456, 39.07776119402986, -248.02667630057795, 14.06560439560441, -7.803669724770614, -242.4870381231671, -120.24211981566816, -130.34195652173912, -51.51429447852759, -569.4349397590361, -6.745773195876268, -570.4418656716417, -10.884999999999962, -406.50849397590355, -170.39091872791514, -6.184999999999988, -1621.8366137566136, -308.13961538461535, -533.9465094339622, -92.12357142857138, -75.96950276243089, -490.5764735945485, -466.30517667844515, -292.15923664122136, -10.440084745762675, 2.116764705882389, 28.75894736842107, -186.3948601398601, -373.07331210191074, -566.7262934947049, -10.366451612903205, -141.24015624999996, -59.368867924528274, -1256.6502169035152, -32.84856115107911, -97.26199999999996, 29.94500000000002, 35.28970149253733, -68.92999999999996, 15.825000000000017, 3.7731632653061524, 6.70241379310346, 43.60105263157896, -376.9881052631578, 35.28970149253733, 0.8500000000000227, -1797.9140618336885, -3.7643925233644637, 44.49660377358493, -178.5828571428571, 46.069565217391315, -395.31540816326526, 13.398000000000025, -418.5599029126212, -571.2922809667673, -1019.8956557377047, -328.2164746543778, -118.75409090909086, -86.19921052631577, -218.7250458715596, -1485.740994897959, -112.31713592233007, -436.4257633587785, -170.95645161290315], on average after: -258.1701
+Shape after:  (127, 8)
+
+
+Chosen product: B00AE1TWE0 has 143 reviews - False, it has 127 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 100.0%
+
+step 1
+index added: 13
+percentage unclustered: 100.0%
+
+step 1
+index added: 14
+percentage unclustered: 100.0%
+
+step 1
+index added: 15
+percentage unclustered: 100.0%
+
+step 1
+index added: 16
+percentage unclustered: 100.0%
+
+step 1
+index added: 17
+percentage unclustered: 100.0%
+
+step 1
+index added: 18
+percentage unclustered: 100.0%
+
+step 1
+index added: 19
+percentage unclustered: 100.0%
+
+step 1
+index added: 20
+percentage unclustered: 100.0%
+
+step 1
+index added: 21
+percentage unclustered: 96.8504%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [9, 16, 17, 21]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  21  give negative five stars product suffers serio...   0.262219
+
+step 1
+index added: 22
+percentage unclustered: 96.8504%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [14, 15, 21, 22]
+			old information: 28, gain: 0.998281154082259
+
+   ind                                             review  relevance
+0  22  first purchased band last may 2013 instantly l...   0.552780
+1  21  give negative five stars product suffers serio...   0.262219
+
+step 1
+index added: 23
+percentage unclustered: 96.8504%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 96.8504%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 96.8504%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 96.8504%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 96.8504%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 96.8504%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 96.8504%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 94.4882%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [13, 15, 22, 25]
+
+step 1
+index added: 31
+percentage unclustered: 94.4882%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 94.4882%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 94.4882%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 89.7638%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [16, 22, 23, 29]
+
+step 1
+index added: 35
+percentage unclustered: 87.4016%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 88.9764%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [16, 22, 23]
+
+step 1
+index added: 37
+percentage unclustered: 88.9764%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 86.6142%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [10, 23, 24]
+
+step 1
+index added: 39
+percentage unclustered: 85.0394%
+
+	step 2
+
+		step 3
+		candidate index: 39 with core nodes: [10, 23, 24]
+
+step 1
+index added: 40
+percentage unclustered: 85.0394%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 85.0394%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 85.0394%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 85.0394%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 85.0394%
+
+	step 2
+
+		step 3
+		candidate index: 44 with core nodes: [24, 29, 35]
+
+step 1
+index added: 45
+percentage unclustered: 85.0394%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 85.0394%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 82.6772%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 81.88980000000001%
+
+	step 2
+
+		step 3
+		candidate index: 48 with core nodes: [24, 29, 48]
+			old information: 398, gain: 0.9823722207458588
+
+   ind                                             review  relevance
+0  48  even though may reading amazon s site buy prod...   0.605675
+1  22  first purchased band last may 2013 instantly l...   0.552780
+2  21  give negative five stars product suffers serio...   0.262219
+
+step 1
+index added: 49
+percentage unclustered: 81.88980000000001%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 81.88980000000001%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 81.88980000000001%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 84.252%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 84.252%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 84.252%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 83.4646%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 83.4646%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 83.4646%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 82.6772%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 80.315%
+
+	step 2
+
+		step 3
+		candidate index: 59 with core nodes: [23, 24, 48, 59]
+			old information: 1541, gain: 0.9837498681851735
+
+   ind                                             review  relevance
+0  59  ve band since end march currently waiting 3rd ...   0.754988
+1  48  even though may reading amazon s site buy prod...   0.605675
+2  22  first purchased band last may 2013 instantly l...   0.552780
+3  21  give negative five stars product suffers serio...   0.262219
+
+step 1
+index added: 60
+percentage unclustered: 80.315%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 79.5276%
+
+	step 2
+
+		step 3
+		candidate index: 61 with core nodes: [23, 24, 59, 61]
+			old information: 2083, gain: 0.9094544664203434
+
+   ind                                             review  relevance
+0  59  ve band since end march currently waiting 3rd ...   0.754988
+1  61  update jawbone replaced broken band august fir...   0.669662
+2  48  even though may reading amazon s site buy prod...   0.605675
+3  22  first purchased band last may 2013 instantly l...   0.552780
+4  21  give negative five stars product suffers serio...   0.262219
+
+step 1
+index added: 62
+percentage unclustered: 79.5276%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 78.7402%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 78.7402%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 77.9528%
+
+	step 2
+
+		step 3
+		candidate index: 65 with core nodes: [24, 48, 59, 61]
+
+step 1
+index added: 66
+percentage unclustered: 77.9528%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 76.378%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 76.378%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 76.378%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 76.378%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 76.378%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 76.378%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 74.0157%
+
+	step 2
+
+		step 3
+		candidate index: 73 with core nodes: [10, 24, 59, 61]
+
+step 1
+index added: 74
+percentage unclustered: 74.0157%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 74.0157%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 74.0157%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 74.0157%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 74.0157%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 73.2283%
+
+	step 2
+
+		step 3
+		candidate index: 79 with core nodes: [24, 59, 68, 79]
+			old information: 7528, gain: 0.9781185053846265
+
+   ind                                             review  relevance
+0  59  ve band since end march currently waiting 3rd ...   0.754988
+1  79  used jawbone two months finally died period we...   0.716389
+2  61  update jawbone replaced broken band august fir...   0.669662
+3  48  even though may reading amazon s site buy prod...   0.605675
+4  22  first purchased band last may 2013 instantly l...   0.552780
+5  21  give negative five stars product suffers serio...   0.262219
+
+step 1
+index added: 80
+percentage unclustered: 72.4409%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 71.65350000000001%
+
+	step 2
+
+		step 3
+		candidate index: 81 with core nodes: [24, 59, 79, 81]
+			old information: 5010, gain: 0.9042540993005389
+
+   ind                                             review  relevance
+0  59  ve band since end march currently waiting 3rd ...   0.754988
+1  81  never felt need write negative review product ...   0.731725
+2  79  used jawbone two months finally died period we...   0.716389
+3  61  update jawbone replaced broken band august fir...   0.669662
+4  48  even though may reading amazon s site buy prod...   0.605675
+5  22  first purchased band last may 2013 instantly l...   0.552780
+6  21  give negative five stars product suffers serio...   0.262219
+
+step 1
+index added: 82
+percentage unclustered: 70.8661%
+
+	step 2
+
+		step 3
+		candidate index: 82 with core nodes: [24, 59, 79, 81]
+
+step 1
+index added: 83
+percentage unclustered: 68.5039%
+
+	step 2
+
+		step 3
+		candidate index: 83 with core nodes: [24, 59, 79, 81, 83]
+			old information: 737, gain: 0.8383771929824562
+
+   ind                                             review  relevance
+0  59  ve band since end march currently waiting 3rd ...   0.754988
+1  81  never felt need write negative review product ...   0.731725
+2  83  positives n n good tracking meaningful informa...   0.731384
+3  79  used jawbone two months finally died period we...   0.716389
+4  61  update jawbone replaced broken band august fir...   0.669662
+5  48  even though may reading amazon s site buy prod...   0.605675
+6  22  first purchased band last may 2013 instantly l...   0.552780
+7  21  give negative five stars product suffers serio...   0.262219
+
+step 1
+index added: 84
+percentage unclustered: 67.7165%
+
+	step 2
+
+		step 3
+		candidate index: 84 with core nodes: [24, 59, 79, 81, 83]
+
+step 1
+index added: 85
+percentage unclustered: 67.7165%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 67.7165%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 67.7165%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 67.7165%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 66.9291%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 66.9291%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 66.9291%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 66.9291%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 66.9291%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 66.1417%
+
+	step 2
+
+		step 3
+		candidate index: 94 with core nodes: [24, 59, 79, 81, 83, 94]
+			old information: 883, gain: 0.923056814220983
+
+   ind                                             review  relevance
+0  59  ve band since end march currently waiting 3rd ...   0.754988
+1  81  never felt need write negative review product ...   0.731725
+2  83  positives n n good tracking meaningful informa...   0.731384
+3  94  get thinking simple band all n nthe guy gal de...   0.725987
+4  79  used jawbone two months finally died period we...   0.716389
+5  61  update jawbone replaced broken band august fir...   0.669662
+6  48  even though may reading amazon s site buy prod...   0.605675
+7  22  first purchased band last may 2013 instantly l...   0.552780
+8  21  give negative five stars product suffers serio...   0.262219
+
+step 1
+index added: 95
+percentage unclustered: 65.3543%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 64.5669%
+
+	step 2
+
+		step 3
+		candidate index: 96 with core nodes: [24, 59, 79, 81, 83, 94]
+
+step 1
+index added: 97
+percentage unclustered: 65.3543%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 65.3543%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 65.3543%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 64.5669%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 62.2047%
+
+	step 2
+
+		step 3
+		candidate index: 101 with core nodes: [24, 59, 79, 81, 83, 94]
+
+step 1
+index added: 102
+percentage unclustered: 62.2047%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 62.2047%
+
+	step 2
+
+		step 3
+		candidate index: 103 with core nodes: [24, 79, 81, 83, 94, 96]
+
+step 1
+index added: 104
+percentage unclustered: 61.4173%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 61.4173%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 60.6299%
+
+	step 2
+
+		step 3
+		candidate index: 106 with core nodes: [24, 79, 81, 83, 94, 106]
+			old information: 3360, gain: 0.8978599221789884
+
+    ind                                             review  relevance
+0   59  ve band since end march currently waiting 3rd ...   0.754988
+1   81  never felt need write negative review product ...   0.731725
+2   83  positives n n good tracking meaningful informa...   0.731384
+3   94  get thinking simple band all n nthe guy gal de...   0.725987
+4   79  used jawbone two months finally died period we...   0.716389
+5  106  almost exactly two months day died first charg...   0.701264
+6   61  update jawbone replaced broken band august fir...   0.669662
+7   48  even though may reading amazon s site buy prod...   0.605675
+8   22  first purchased band last may 2013 instantly l...   0.552780
+9   21  give negative five stars product suffers serio...   0.262219
+
+step 1
+index added: 107
+percentage unclustered: 59.8425%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 59.0551%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 58.2677%
+
+	step 2
+
+		step 3
+		candidate index: 109 with core nodes: [24, 83, 94]
+
+step 1
+index added: 110
+percentage unclustered: 59.0551%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 59.0551%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 59.0551%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 59.0551%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 58.2677%
+
+	step 2
+
+		step 3
+		candidate index: 114 with core nodes: [68, 79, 81, 106, 109]
+
+step 1
+index added: 115
+percentage unclustered: 58.2677%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 57.4803%
+
+	step 2
+
+		step 3
+		candidate index: 116 with core nodes: [68, 79, 81, 106, 109]
+
+step 1
+index added: 117
+percentage unclustered: 56.6929%
+
+	step 2
+
+		step 3
+		candidate index: 117 with core nodes: [68, 79, 81, 106, 109]
+
+step 1
+index added: 118
+percentage unclustered: 56.6929%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 55.9055%
+
+	step 2
+
+		step 3
+		candidate index: 119 with core nodes: [68, 79, 81, 106, 109]
+
+step 1
+index added: 120
+percentage unclustered: 55.9055%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 55.9055%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 53.5433%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 53.5433%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 53.5433%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 53.5433%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 53.5433%
+
+	step 2
+
+--- 457.43428134918213 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 96.8504, 96.8504, 96.8504, 96.8504, 96.8504, 96.8504, 96.8504, 96.8504, 96.8504, 94.4882, 94.4882, 94.4882, 94.4882, 89.7638, 87.4016, 88.9764, 88.9764, 86.6142, 85.0394, 85.0394, 85.0394, 85.0394, 85.0394, 85.0394, 85.0394, 85.0394, 82.6772, 81.88980000000001, 81.88980000000001, 81.88980000000001, 81.88980000000001, 84.252, 84.252, 84.252, 83.4646, 83.4646, 83.4646, 82.6772, 80.315, 80.315, 79.5276, 79.5276, 78.7402, 78.7402, 77.9528, 77.9528, 76.378, 76.378, 76.378, 76.378, 76.378, 76.378, 74.0157, 74.0157, 74.0157, 74.0157, 74.0157, 74.0157, 73.2283, 72.4409, 71.65350000000001, 70.8661, 68.5039, 67.7165, 67.7165, 67.7165, 67.7165, 67.7165, 66.9291, 66.9291, 66.9291, 66.9291, 66.9291, 66.1417, 65.3543, 64.5669, 65.3543, 65.3543, 65.3543, 64.5669, 62.2047, 62.2047, 62.2047, 61.4173, 61.4173, 60.6299, 59.8425, 59.0551, 58.2677, 59.0551, 59.0551, 59.0551, 59.0551, 58.2677, 58.2677, 57.4803, 56.6929, 56.6929, 55.9055, 55.9055, 55.9055, 53.5433, 53.5433, 53.5433, 53.5433, 53.5433], mean: 78.3685
+
+Final Ranking:
+   ranking  ind  relevance                                             review
+0       47   59   0.754988  ve band since end march currently waiting 3rd ...
+1        9   81   0.731725  never felt need write negative review product ...
+2       35   83   0.731384  positives n n good tracking meaningful informa...
+3       30   94   0.725987  get thinking simple band all n nthe guy gal de...
+4       42   79   0.716389  used jawbone two months finally died period we...
+5        4  106   0.701264  almost exactly two months day died first charg...
+6       48   61   0.669662  update jawbone replaced broken band august fir...
+7       33   48   0.605675  even though may reading amazon s site buy prod...
+8       80   22   0.552780  first purchased band last may 2013 instantly l...
+9       88   21   0.262219  give negative five stars product suffers serio...

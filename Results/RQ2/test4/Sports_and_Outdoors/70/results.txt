@@ -1,0 +1,549 @@
+------- Category: Sports_and_Outdoors -------
+Found asin_id: B00167TGII
+Shape:  (70, 7)
+
+Readability scores: [-75.50209944751377, -7.731739130434761, -307.38270471464017, -57.77264150943394, 5.513636363636408, -228.0388073394495, -482.2531088082901, 31.15315789473685, -55.83064516129029, -17.54318681318678, -170.72714285714284, -153.28569169960468, -768.5604929577464, 72.665, 68.23951219512197, -17.151666666666642, -209.50692052980128, 23.233448275862088, -163.40833333333327, -79.1607692307692, -77.47112903225805, -126.43167400881052, -3.616818181818161, -347.9061210762331, 22.422000000000025, 7.2227272727272975, 26.339014084507056, -75.95430232558137, -15.19637931034481, 51.18100000000002, 36.189736842105276, -105.03751152073728, -182.03362068965512, -200.41224137931027, -29.049545454545438, -36.56206106870225, -231.62123867069482, -840.0863490364025, -65.11162650602407, -111.64399999999995, -130.38379310344826, 55.31456521739132, 66.38810810810813, -182.79003355704694, -215.3405956112852, -50.492183098591525, -385.5949999999999, -35.65924812030072, -256.45275280898875, -210.69588785046722, -325.1532608695652, -17.069285714285684, -82.95181818181815, -823.6882754880694, -256.81589041095884, -187.66608247422676, 69.78800000000001, -10.089626168224271, -274.2779624664879, 0.05327433628320932, -408.7035922330096, 43.928823529411794, 34.55379746835446, 36.80428571428574, -715.1074688279301, -352.87390728476817, -214.2571656050955, -24.774999999999977, -627.8227685950412, 23.344943820224742], on average: -147.9474
+Readability scores after: [-75.50209944751377, -7.731739130434761, -307.38270471464017, -57.77264150943394, 5.513636363636408, -228.0388073394495, -482.2531088082901, 31.15315789473685, -55.83064516129029, -17.54318681318678, -170.72714285714284, -153.28569169960468, -768.5604929577464, -17.151666666666642, -209.50692052980128, 23.233448275862088, -163.40833333333327, -79.1607692307692, -77.47112903225805, -126.43167400881052, -3.616818181818161, -347.9061210762331, 22.422000000000025, 7.2227272727272975, 26.339014084507056, -75.95430232558137, -15.19637931034481, 36.189736842105276, -105.03751152073728, -182.03362068965512, -200.41224137931027, -29.049545454545438, -36.56206106870225, -231.62123867069482, -840.0863490364025, -65.11162650602407, -111.64399999999995, -130.38379310344826, -182.79003355704694, -215.3405956112852, -50.492183098591525, -385.5949999999999, -35.65924812030072, -256.45275280898875, -210.69588785046722, -325.1532608695652, -17.069285714285684, -82.95181818181815, -823.6882754880694, -256.81589041095884, -187.66608247422676, -10.089626168224271, -274.2779624664879, 0.05327433628320932, -408.7035922330096, 43.928823529411794, 34.55379746835446, 36.80428571428574, -715.1074688279301, -352.87390728476817, -214.2571656050955, -24.774999999999977, -627.8227685950412, 23.344943820224742], on average after: -167.8108
+Shape after:  (64, 8)
+
+
+Chosen product: B00167TGII has 70 reviews - False, it has 64 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 95.3125%
+
+	step 2
+
+		step 3
+		candidate index: 5 with core nodes: [0, 4, 5]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   5  received pack week ve loaded unloaded pack tim...   0.266138
+
+step 1
+index added: 6
+percentage unclustered: 92.1875%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [0, 3, 5, 6]
+			old information: 534, gain: 0.9900425151040502
+
+   ind                                             review  relevance
+0   6  m big guy 6 1 260 pounds 21 5 torso length 44 ...   0.448567
+1   5  received pack week ve loaded unloaded pack tim...   0.266138
+
+step 1
+index added: 7
+percentage unclustered: 92.1875%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 90.625%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [0, 3, 5, 6]
+
+step 1
+index added: 9
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 92.1875%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 85.9375%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [5, 6, 10, 12, 13]
+			old information: 172, gain: 0.9028248587570622
+
+   ind                                             review  relevance
+0  13  perfect sized fully adjustable backpack incred...   0.467260
+1   6  m big guy 6 1 260 pounds 21 5 torso length 44 ...   0.448567
+2   5  received pack week ve loaded unloaded pack tim...   0.266138
+
+step 1
+index added: 14
+percentage unclustered: 85.9375%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 85.9375%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 85.9375%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [5, 6, 10, 12, 13]
+			old information: 519, gain: 0.9371366279069767
+
+   ind                                             review  relevance
+0  13  perfect sized fully adjustable backpack incred...   0.467260
+1  16  ok pack price couple issues though aluminum in...   0.449344
+2   6  m big guy 6 1 260 pounds 21 5 torso length 44 ...   0.448567
+3   5  received pack week ve loaded unloaded pack tim...   0.266138
+
+step 1
+index added: 17
+percentage unclustered: 87.5%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [5, 12, 13, 16]
+
+step 1
+index added: 18
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 79.6875%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [2, 5, 6, 10, 12, 13]
+			old information: 649, gain: 0.9135012661602026
+
+   ind                                             review  relevance
+0  13  perfect sized fully adjustable backpack incred...   0.467260
+1  16  ok pack price couple issues though aluminum in...   0.449344
+2   6  m big guy 6 1 260 pounds 21 5 torso length 44 ...   0.448567
+3  19  go wrong bag way cheaper big name brands thing...   0.398492
+4   5  received pack week ve loaded unloaded pack tim...   0.266138
+
+step 1
+index added: 20
+percentage unclustered: 79.6875%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 79.6875%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 79.6875%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 79.6875%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 84.375%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 84.375%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 82.8125%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [5, 6, 12, 16]
+
+step 1
+index added: 27
+percentage unclustered: 78.125%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [5, 6, 10, 12, 13]
+
+step 1
+index added: 28
+percentage unclustered: 78.125%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 78.125%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 78.125%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [5, 12, 13, 30]
+			old information: 1134, gain: 0.9037433155080213
+
+   ind                                             review  relevance
+0  30  many better expensive packs also many expensiv...   0.615455
+1  13  perfect sized fully adjustable backpack incred...   0.467260
+2  16  ok pack price couple issues though aluminum in...   0.449344
+3   6  m big guy 6 1 260 pounds 21 5 torso length 44 ...   0.448567
+4  19  go wrong bag way cheaper big name brands thing...   0.398492
+5   5  received pack week ve loaded unloaded pack tim...   0.266138
+
+step 1
+index added: 31
+percentage unclustered: 78.125%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 76.5625%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [5, 12, 13, 30]
+
+step 1
+index added: 33
+percentage unclustered: 71.875%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 76.5625%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 78.125%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 73.4375%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [5, 12, 13, 30, 36]
+			old information: 578, gain: 0.9229641476742636
+
+   ind                                             review  relevance
+0  30  many better expensive packs also many expensiv...   0.615455
+1  36  pack outstanding value upon initial impression...   0.536607
+2  13  perfect sized fully adjustable backpack incred...   0.467260
+3  16  ok pack price couple issues though aluminum in...   0.449344
+4   6  m big guy 6 1 260 pounds 21 5 torso length 44 ...   0.448567
+5  19  go wrong bag way cheaper big name brands thing...   0.398492
+6   5  received pack week ve loaded unloaded pack tim...   0.266138
+
+step 1
+index added: 37
+percentage unclustered: 79.6875%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 79.6875%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 79.6875%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 79.6875%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 79.6875%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 79.6875%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 79.6875%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 85.9375%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [10, 12, 30, 45]
+			old information: 1296, gain: 0.975980428497294
+
+   ind                                             review  relevance
+0  30  many better expensive packs also many expensiv...   0.615455
+1  36  pack outstanding value upon initial impression...   0.536607
+2  45  feeling reviews product talking strap clip fai...   0.506922
+3  13  perfect sized fully adjustable backpack incred...   0.467260
+4  16  ok pack price couple issues though aluminum in...   0.449344
+5   6  m big guy 6 1 260 pounds 21 5 torso length 44 ...   0.448567
+6  19  go wrong bag way cheaper big name brands thing...   0.398492
+7   5  received pack week ve loaded unloaded pack tim...   0.266138
+
+step 1
+index added: 46
+percentage unclustered: 85.9375%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 84.375%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [10, 12, 30, 45]
+
+step 1
+index added: 48
+percentage unclustered: 84.375%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 81.25%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [12, 30, 45, 49]
+			old information: 1049, gain: 0.9370083468444124
+
+   ind                                             review  relevance
+0  30  many better expensive packs also many expensiv...   0.615455
+1  36  pack outstanding value upon initial impression...   0.536607
+2  49  ok purchased bag last fall 1 year ago truthful...   0.522206
+3  45  feeling reviews product talking strap clip fai...   0.506922
+4  13  perfect sized fully adjustable backpack incred...   0.467260
+5  16  ok pack price couple issues though aluminum in...   0.449344
+6   6  m big guy 6 1 260 pounds 21 5 torso length 44 ...   0.448567
+7  19  go wrong bag way cheaper big name brands thing...   0.398492
+8   5  received pack week ve loaded unloaded pack tim...   0.266138
+
+step 1
+index added: 50
+percentage unclustered: 81.25%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 79.6875%
+
+	step 2
+
+		step 3
+		candidate index: 51 with core nodes: [12, 30, 45, 49]
+			old information: 292, gain: 0.8170426065162907
+
+   ind                                             review  relevance
+0  30  many better expensive packs also many expensiv...   0.615455
+1  36  pack outstanding value upon initial impression...   0.536607
+2  49  ok purchased bag last fall 1 year ago truthful...   0.522206
+3  45  feeling reviews product talking strap clip fai...   0.506922
+4  13  perfect sized fully adjustable backpack incred...   0.467260
+5  16  ok pack price couple issues though aluminum in...   0.449344
+6   6  m big guy 6 1 260 pounds 21 5 torso length 44 ...   0.448567
+7  19  go wrong bag way cheaper big name brands thing...   0.398492
+8  51  great pack took three day 30km hike comfortabl...   0.345746
+9   5  received pack week ve loaded unloaded pack tim...   0.266138
+
+step 1
+index added: 52
+percentage unclustered: 78.125%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 78.125%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 78.125%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 78.125%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 62.5%
+
+	step 2
+
+		step 3
+		candidate index: 56 with core nodes: [30, 44, 48]
+
+step 1
+index added: 57
+percentage unclustered: 60.9375%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 60.9375%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 60.9375%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 59.375%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 59.375%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 57.8125%
+
+	step 2
+
+		step 3
+		candidate index: 62 with core nodes: [30, 44, 48]
+			old information: 4523, gain: 0.9351550515404797
+
+    ind                                             review  relevance
+0   62  initial review bag add followup review 3 day b...   0.669968
+1   30  many better expensive packs also many expensiv...   0.615455
+2   36  pack outstanding value upon initial impression...   0.536607
+3   49  ok purchased bag last fall 1 year ago truthful...   0.522206
+4   45  feeling reviews product talking strap clip fai...   0.506922
+5   13  perfect sized fully adjustable backpack incred...   0.467260
+6   16  ok pack price couple issues though aluminum in...   0.449344
+7    6  m big guy 6 1 260 pounds 21 5 torso length 44 ...   0.448567
+8   19  go wrong bag way cheaper big name brands thing...   0.398492
+9   51  great pack took three day 30km hike comfortabl...   0.345746
+10   5  received pack week ve loaded unloaded pack tim...   0.266138
+
+step 1
+index added: 63
+percentage unclustered: 57.8125%
+
+	step 2
+
+--- 133.44100046157837 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 95.3125, 92.1875, 92.1875, 90.625, 90.625, 90.625, 90.625, 92.1875, 85.9375, 85.9375, 85.9375, 85.9375, 87.5, 87.5, 79.6875, 79.6875, 79.6875, 79.6875, 79.6875, 84.375, 84.375, 82.8125, 78.125, 78.125, 78.125, 78.125, 78.125, 76.5625, 71.875, 76.5625, 78.125, 73.4375, 79.6875, 79.6875, 79.6875, 79.6875, 79.6875, 79.6875, 79.6875, 90.625, 85.9375, 85.9375, 84.375, 84.375, 81.25, 81.25, 79.6875, 78.125, 78.125, 78.125, 78.125, 62.5, 60.9375, 60.9375, 60.9375, 59.375, 59.375, 57.8125, 57.8125], mean: 80.5444
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0         7  62   0.669968  initial review bag add followup review 3 day b...
+1        40  30   0.615455  many better expensive packs also many expensiv...
+2        46  36   0.536607  pack outstanding value upon initial impression...
+3        27  49   0.522206  ok purchased bag last fall 1 year ago truthful...
+4        54  45   0.506922  feeling reviews product talking strap clip fai...
+5        32  13   0.467260  perfect sized fully adjustable backpack incred...
+6        24  16   0.449344  ok pack price couple issues though aluminum in...
+7        13   6   0.448567  m big guy 6 1 260 pounds 21 5 torso length 44 ...
+8         6  19   0.398492  go wrong bag way cheaper big name brands thing...
+9        56  51   0.345746  great pack took three day 30km hike comfortabl...
+10        3   5   0.266138  received pack week ve loaded unloaded pack tim...

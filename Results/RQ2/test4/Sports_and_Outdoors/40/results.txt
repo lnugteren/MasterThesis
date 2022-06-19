@@ -1,0 +1,284 @@
+------- Category: Sports_and_Outdoors -------
+Found asin_id: B0009E3EDM
+Shape:  (40, 7)
+
+Readability scores: [9.36825581395351, 24.260135135135158, 56.978461538461566, -137.73805084745757, 25.058157894736866, -634.527448275862, -48.277931034482734, 57.976363636363665, -352.82382022471904, -181.5009090909091, -35.65924812030072, 36.091666666666676, -207.5885245901639, -61.8946625766871, -34.15844827586204, -132.77759656652358, -81.55324175824174, -12.947326732673233, -96.93223880597013, -57.742515337423285, 26.50254237288138, -27.140714285714253, -54.048113207547146, -218.40188311688306, 87.72500000000002, 33.48125000000002, -90.6614516129032, -160.34607003891045, -3.6653398058252264, -795.524114994363, 10.803636363636372, 78.31153846153848, -6.129417475728133, 9.36825581395351, -36.56206106870225, -24.652920353982267, 35.2907142857143, -151.16506224066387, -45.30622047244094, 34.93000000000002], on average: -79.0895
+Readability scores after: [9.36825581395351, 24.260135135135158, -137.73805084745757, 25.058157894736866, -634.527448275862, -48.277931034482734, -352.82382022471904, -181.5009090909091, -35.65924812030072, 36.091666666666676, -207.5885245901639, -61.8946625766871, -34.15844827586204, -132.77759656652358, -81.55324175824174, -12.947326732673233, -96.93223880597013, -57.742515337423285, 26.50254237288138, -27.140714285714253, -54.048113207547146, -218.40188311688306, 33.48125000000002, -90.6614516129032, -160.34607003891045, -3.6653398058252264, -795.524114994363, 10.803636363636372, -6.129417475728133, 9.36825581395351, -36.56206106870225, -24.652920353982267, 35.2907142857143, -151.16506224066387, -45.30622047244094, 34.93000000000002], on average after: -95.6825
+Shape after:  (36, 8)
+
+
+Chosen product: B0009E3EDM has 40 reviews - False, it has 36 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 88.8889%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [2, 3, 8, 10]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  10  purchased wife weeks ago cap end umbrella brok...   0.372025
+
+step 1
+index added: 11
+percentage unclustered: 88.8889%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 88.8889%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 88.8889%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 80.5556%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [5, 8, 10, 14]
+			old information: 47, gain: 0.9905050505050506
+
+   ind                                             review  relevance
+0  14  look diameter dictionary says straight line di...   0.383264
+1  10  purchased wife weeks ago cap end umbrella brok...   0.372025
+
+step 1
+index added: 15
+percentage unclustered: 80.5556%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 77.7778%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [8, 10, 14, 16]
+			old information: 70, gain: 0.986410405746457
+
+   ind                                             review  relevance
+0  16  received umbrella gift m sure exactly vendor p...   0.449794
+1  14  look diameter dictionary says straight line di...   0.383264
+2  10  purchased wife weeks ago cap end umbrella brok...   0.372025
+
+step 1
+index added: 17
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 69.4444%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [2, 3, 20]
+			old information: 130, gain: 0.9531531531531532
+
+   ind                                             review  relevance
+0  16  received umbrella gift m sure exactly vendor p...   0.449794
+1  14  look diameter dictionary says straight line di...   0.383264
+2  10  purchased wife weeks ago cap end umbrella brok...   0.372025
+3  20  product s description correct well designed ho...   0.284587
+
+step 1
+index added: 21
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [5, 12, 21]
+			old information: 169, gain: 0.9886409463637585
+
+   ind                                             review  relevance
+0  21  walk train station office every day n t like g...   0.508648
+1  16  received umbrella gift m sure exactly vendor p...   0.449794
+2  14  look diameter dictionary says straight line di...   0.383264
+3  10  purchased wife weeks ago cap end umbrella brok...   0.372025
+4  20  product s description correct well designed ho...   0.284587
+
+step 1
+index added: 22
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 61.1111%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [4, 8, 10, 16, 24]
+			old information: 554, gain: 0.9413942663704644
+
+   ind                                             review  relevance
+0  24  last year ordered umbrella amazon like size li...   0.517707
+1  21  walk train station office every day n t like g...   0.508648
+2  16  received umbrella gift m sure exactly vendor p...   0.449794
+3  14  look diameter dictionary says straight line di...   0.383264
+4  10  purchased wife weeks ago cap end umbrella brok...   0.372025
+5  20  product s description correct well designed ho...   0.284587
+
+step 1
+index added: 25
+percentage unclustered: 61.1111%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 58.3333%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [4, 24, 26]
+			old information: 1914, gain: 0.9881138683955585
+
+   ind                                             review  relevance
+0  26  div id video block rn1v2wuc7ilm class a sectio...   0.577135
+1  24  last year ordered umbrella amazon like size li...   0.517707
+2  21  walk train station office every day n t like g...   0.508648
+3  16  received umbrella gift m sure exactly vendor p...   0.449794
+4  14  look diameter dictionary says straight line di...   0.383264
+5  10  purchased wife weeks ago cap end umbrella brok...   0.372025
+6  20  product s description correct well designed ho...   0.284587
+
+step 1
+index added: 27
+percentage unclustered: 58.3333%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 55.5556%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 55.5556%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 55.5556%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 55.5556%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 55.5556%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 55.5556%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 58.3333%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 55.5556%
+
+	step 2
+
+--- 42.502410650253296 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 88.8889, 88.8889, 88.8889, 88.8889, 80.5556, 80.5556, 77.7778, 77.7778, 77.7778, 77.7778, 69.4444, 66.66669999999999, 66.66669999999999, 66.66669999999999, 61.1111, 61.1111, 58.3333, 58.3333, 55.5556, 55.5556, 55.5556, 55.5556, 55.5556, 55.5556, 58.3333, 55.5556], mean: 75.9804
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0        4  26   0.577135  div id video block rn1v2wuc7ilm class a sectio...
+1       33  24   0.517707  last year ordered umbrella amazon like size li...
+2       25  21   0.508648  walk train station office every day n t like g...
+3       19  16   0.449794  received umbrella gift m sure exactly vendor p...
+4       20  14   0.383264  look diameter dictionary says straight line di...
+5       26  10   0.372025  purchased wife weeks ago cap end umbrella brok...
+6       35  20   0.284587  product s description correct well designed ho...

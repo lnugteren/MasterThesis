@@ -1,0 +1,790 @@
+------- Category: Sports_and_Outdoors -------
+Found asin_id: B0016PWG7S
+Shape:  (130, 7)
+
+Readability scores: [43.60105263157896, 15.454137931034495, -289.4570277078085, 25.224090909090933, -76.9391304347826, -183.9593478260869, 2.0954545454545865, 101.98214285714288, 60.41428571428575, 0.5496774193548646, -71.9528571428571, -41.09387096774192, -28.408823529411734, -951.6900864553314, -62.198633540372654, 51.9708823529412, -40.95192307692305, -160.01007380073798, 3.6450000000000102, 23.30500000000002, 44.29532258064518, -240.02471428571423, 1.9798901098901354, 62.94730769230771, -44.476357615894, -137.23960352422904, -61.76088235294114, -74.58263157894733, 28.345000000000027, 115.28681818181819, 11.27659340659342, 8.624565217391321, 22.773913043478274, 53.9905263157895, 17.625000000000043, -392.5529591836734, 88.74000000000001, -89.54728323699416, 11.985000000000028, -254.04279661016943, -10.902346938775494, -15.458728813559304, 66.83000000000001, -175.68326086956517, 37.36500000000001, 35.7973529411765, 31.356521739130457, 56.15934426229509, 74.39580645161291, -94.26197860962563, -131.81921052631577, -3.4049999999999727, -29.482826086956493, -377.8771576763485, -259.95174386920974, -15.223387096774175, -10.67434782608693, 65.24754716981133, -335.7391836734693, -44.78192307692305, -205.41297029702963, -0.1539473684210293, -451.93263837638375, -66.99228571428569, 66.40900000000002, -154.8812184873949, -55.77277777777775, -1480.4453175112249, -263.22322314049575, -15.779999999999973, 60.13000000000001, 52.875000000000014, -310.40906633906627, -119.32999999999996, 56.5268181818182, 26.196629213483178, -234.31088235294112, -198.98525423728807, -111.86357142857139, 3.4714150943396476, 21.1729069767442, 16.5718181818182, -80.15262295081963, 30.355000000000004, 49.489000000000026, 51.18500000000002, 88.87365853658538, -43.084285714285684, 23.955915492957757, 80.26029411764708, 9.896164383561654, 33.88000000000001, 15.565903614457852, -438.819202226345, 104.3423076923077, 72.665, 69.64357142857143, -152.07999999999996, -84.02653631284912, 84.8057142857143, 82.58290322580649, 69.81423076923079, -28.927238805970134, 49.53789473684211, 65.85833333333335, 60.57928571428573, -200.39137583892614, -147.6505668016194, -69.38340909090905, -268.34878048780485, 57.19941176470589, 64.71500000000002, -25.139179104477577, 0.7994117647059156, 59.415000000000006, 45.06426229508199, -18.59999999999998, 67.81911764705885, 49.914090909090945, -141.90334645669293, 28.687926829268307, 65.24754716981133, -7.104090909090871, 44.37645161290326, -58.79577922077917, -135.45417721518982, 17.711168831168848, 17.042222222222236, -151.86713692946057, -391.80795081967204], on average: -59.9329
+Readability scores after: [43.60105263157896, 15.454137931034495, -289.4570277078085, 25.224090909090933, -76.9391304347826, -183.9593478260869, 2.0954545454545865, 0.5496774193548646, -71.9528571428571, -41.09387096774192, -28.408823529411734, -951.6900864553314, -62.198633540372654, -40.95192307692305, -160.01007380073798, 3.6450000000000102, 23.30500000000002, 44.29532258064518, -240.02471428571423, 1.9798901098901354, -44.476357615894, -137.23960352422904, -61.76088235294114, -74.58263157894733, 28.345000000000027, 11.27659340659342, 8.624565217391321, 22.773913043478274, 17.625000000000043, -392.5529591836734, -89.54728323699416, 11.985000000000028, -254.04279661016943, -10.902346938775494, -15.458728813559304, -175.68326086956517, 37.36500000000001, 35.7973529411765, 31.356521739130457, -94.26197860962563, -131.81921052631577, -3.4049999999999727, -29.482826086956493, -377.8771576763485, -259.95174386920974, -15.223387096774175, -10.67434782608693, -335.7391836734693, -44.78192307692305, -205.41297029702963, -0.1539473684210293, -451.93263837638375, -66.99228571428569, -154.8812184873949, -55.77277777777775, -1480.4453175112249, -263.22322314049575, -15.779999999999973, -310.40906633906627, -119.32999999999996, 26.196629213483178, -234.31088235294112, -198.98525423728807, -111.86357142857139, 3.4714150943396476, 21.1729069767442, 16.5718181818182, -80.15262295081963, 30.355000000000004, 49.489000000000026, -43.084285714285684, 23.955915492957757, 9.896164383561654, 33.88000000000001, 15.565903614457852, -438.819202226345, -152.07999999999996, -84.02653631284912, -28.927238805970134, 49.53789473684211, -200.39137583892614, -147.6505668016194, -69.38340909090905, -268.34878048780485, -25.139179104477577, 0.7994117647059156, 45.06426229508199, -18.59999999999998, 49.914090909090945, -141.90334645669293, 28.687926829268307, -7.104090909090871, 44.37645161290326, -58.79577922077917, -135.45417721518982, 17.711168831168848, 17.042222222222236, -151.86713692946057, -391.80795081967204], on average after: -100.709
+Shape after:  (99, 8)
+
+
+Chosen product: B0016PWG7S has 130 reviews - False, it has 99 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 96.9697%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [1, 5, 12]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  12  m sorry worth money returned 2 weeks stacking ...    0.29794
+
+step 1
+index added: 13
+percentage unclustered: 95.9596%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [1, 5, 12, 13]
+			old information: 11, gain: 0.9954451345755694
+
+   ind                                             review  relevance
+0  13  workout great ten minutes definitely feeling b...   0.351864
+1  12  m sorry worth money returned 2 weeks stacking ...   0.297940
+
+step 1
+index added: 14
+percentage unclustered: 94.9495%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [5, 12, 13, 14]
+			old information: 79, gain: 0.9904312015503876
+
+   ind                                             review  relevance
+0  13  workout great ten minutes definitely feeling b...   0.351864
+1  12  m sorry worth money returned 2 weeks stacking ...   0.297940
+2  14  ordered straight beachbody enrolled monthly su...   0.293101
+
+step 1
+index added: 15
+percentage unclustered: 94.9495%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 94.9495%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 94.9495%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 94.9495%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 94.9495%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 92.9293%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [5, 10, 12, 13]
+
+step 1
+index added: 21
+percentage unclustered: 92.9293%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 91.9192%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [5, 13, 22]
+			old information: 206, gain: 0.942296918767507
+
+   ind                                             review  relevance
+0  22  workout everything needed condensed 10 minute ...   0.587616
+1  13  workout great ten minutes definitely feeling b...   0.351864
+2  12  m sorry worth money returned 2 weeks stacking ...   0.297940
+3  14  ordered straight beachbody enrolled monthly su...   0.293101
+
+step 1
+index added: 23
+percentage unclustered: 91.9192%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 91.9192%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 89.899%
+
+	step 2
+
+		step 3
+		candidate index: 25 with core nodes: [14, 22, 25]
+			old information: 74, gain: 0.9285024154589372
+
+   ind                                             review  relevance
+0  22  workout everything needed condensed 10 minute ...   0.587616
+1  25  perfect product guilt something active ca n t ...   0.368756
+2  13  workout great ten minutes definitely feeling b...   0.351864
+3  12  m sorry worth money returned 2 weeks stacking ...   0.297940
+4  14  ordered straight beachbody enrolled monthly su...   0.293101
+
+step 1
+index added: 26
+percentage unclustered: 88.8889%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 88.8889%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 87.8788%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [14, 22, 25]
+
+step 1
+index added: 29
+percentage unclustered: 87.8788%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 86.8687%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [5, 14, 22, 30]
+			old information: 245, gain: 0.9698572834645669
+
+   ind                                             review  relevance
+0  22  workout everything needed condensed 10 minute ...   0.587616
+1  30  n t tell order get better results 20 30 minute...   0.497081
+2  25  perfect product guilt something active ca n t ...   0.368756
+3  13  workout great ten minutes definitely feeling b...   0.351864
+4  12  m sorry worth money returned 2 weeks stacking ...   0.297940
+5  14  ordered straight beachbody enrolled monthly su...   0.293101
+
+step 1
+index added: 31
+percentage unclustered: 86.8687%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 86.8687%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 86.8687%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 86.8687%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 83.83840000000001%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [5, 22, 30, 35]
+			old information: 498, gain: 0.9522988505747126
+
+   ind                                             review  relevance
+0  22  workout everything needed condensed 10 minute ...   0.587616
+1  35  ordered tony horton s 10 minute trainer almost...   0.550164
+2  30  n t tell order get better results 20 30 minute...   0.497081
+3  25  perfect product guilt something active ca n t ...   0.368756
+4  13  workout great ten minutes definitely feeling b...   0.351864
+5  12  m sorry worth money returned 2 weeks stacking ...   0.297940
+6  14  ordered straight beachbody enrolled monthly su...   0.293101
+
+step 1
+index added: 36
+percentage unclustered: 83.83840000000001%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 83.83840000000001%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 83.83840000000001%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 80.8081%
+
+	step 2
+
+		step 3
+		candidate index: 39 with core nodes: [5, 22, 30, 35, 39]
+			old information: 551, gain: 0.9080900750625521
+
+   ind                                             review  relevance
+0  39  ordered product two years ago used every morni...   0.593056
+1  22  workout everything needed condensed 10 minute ...   0.587616
+2  35  ordered tony horton s 10 minute trainer almost...   0.550164
+3  30  n t tell order get better results 20 30 minute...   0.497081
+4  25  perfect product guilt something active ca n t ...   0.368756
+5  13  workout great ten minutes definitely feeling b...   0.351864
+6  12  m sorry worth money returned 2 weeks stacking ...   0.297940
+7  14  ordered straight beachbody enrolled monthly su...   0.293101
+
+step 1
+index added: 40
+percentage unclustered: 80.8081%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 81.8182%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 80.8081%
+
+	step 2
+
+		step 3
+		candidate index: 42 with core nodes: [5, 22, 35, 39]
+
+step 1
+index added: 43
+percentage unclustered: 80.8081%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 80.8081%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 79.798%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [5, 22, 35, 39]
+
+step 1
+index added: 46
+percentage unclustered: 79.798%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 79.798%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 78.78790000000001%
+
+	step 2
+
+		step 3
+		candidate index: 48 with core nodes: [5, 22, 35, 39]
+
+step 1
+index added: 49
+percentage unclustered: 78.78790000000001%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [5, 18, 22, 39]
+
+step 1
+index added: 50
+percentage unclustered: 78.78790000000001%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 79.798%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 79.798%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 79.798%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 75.7576%
+
+	step 2
+
+		step 3
+		candidate index: 54 with core nodes: [5, 18, 22, 30, 39]
+			old information: 448, gain: 0.8714859437751004
+
+   ind                                             review  relevance
+0  39  ordered product two years ago used every morni...   0.593056
+1  22  workout everything needed condensed 10 minute ...   0.587616
+2  35  ordered tony horton s 10 minute trainer almost...   0.550164
+3  54  someone done insanity p90x knew beachbody puts...   0.514578
+4  30  n t tell order get better results 20 30 minute...   0.497081
+5  25  perfect product guilt something active ca n t ...   0.368756
+6  13  workout great ten minutes definitely feeling b...   0.351864
+7  12  m sorry worth money returned 2 weeks stacking ...   0.297940
+8  14  ordered straight beachbody enrolled monthly su...   0.293101
+
+step 1
+index added: 55
+percentage unclustered: 74.7475%
+
+	step 2
+
+		step 3
+		candidate index: 55 with core nodes: [14, 18, 39, 55]
+			old information: 3862, gain: 0.9896169677351708
+
+   ind                                             review  relevance
+0  55  bought package little two months ago finally d...   0.616583
+1  39  ordered product two years ago used every morni...   0.593056
+2  22  workout everything needed condensed 10 minute ...   0.587616
+3  35  ordered tony horton s 10 minute trainer almost...   0.550164
+4  54  someone done insanity p90x knew beachbody puts...   0.514578
+5  30  n t tell order get better results 20 30 minute...   0.497081
+6  25  perfect product guilt something active ca n t ...   0.368756
+7  13  workout great ten minutes definitely feeling b...   0.351864
+8  12  m sorry worth money returned 2 weeks stacking ...   0.297940
+9  14  ordered straight beachbody enrolled monthly su...   0.293101
+
+step 1
+index added: 56
+percentage unclustered: 74.7475%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 74.7475%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 74.7475%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 75.7576%
+
+	step 2
+
+		step 3
+		candidate index: 59 with core nodes: [5, 51, 59]
+			old information: 713, gain: 0.900140056022409
+
+    ind                                             review  relevance
+0   55  bought package little two months ago finally d...   0.616583
+1   39  ordered product two years ago used every morni...   0.593056
+2   22  workout everything needed condensed 10 minute ...   0.587616
+3   59  wife using 10 minute trainers awhile really en...   0.561672
+4   35  ordered tony horton s 10 minute trainer almost...   0.550164
+5   54  someone done insanity p90x knew beachbody puts...   0.514578
+6   30  n t tell order get better results 20 30 minute...   0.497081
+7   25  perfect product guilt something active ca n t ...   0.368756
+8   13  workout great ten minutes definitely feeling b...   0.351864
+9   12  m sorry worth money returned 2 weeks stacking ...   0.297940
+10  14  ordered straight beachbody enrolled monthly su...   0.293101
+
+step 1
+index added: 60
+percentage unclustered: 75.7576%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 77.7778%
+
+	step 2
+
+		step 3
+		candidate index: 61 with core nodes: [5, 51, 59]
+
+step 1
+index added: 62
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 74.7475%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 74.7475%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 74.7475%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 74.7475%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 74.7475%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 74.7475%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 73.73740000000001%
+
+	step 2
+
+		step 3
+		candidate index: 70 with core nodes: [5, 51, 59]
+
+step 1
+index added: 71
+percentage unclustered: 73.73740000000001%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 73.73740000000001%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 70.7071%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 70.7071%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 69.697%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 68.68690000000001%
+
+	step 2
+
+		step 3
+		candidate index: 85 with core nodes: [5, 51, 59]
+
+step 1
+index added: 86
+percentage unclustered: 68.68690000000001%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 87 with core nodes: [5, 51, 59]
+			old information: 465, gain: 0.818075117370892
+
+    ind                                             review  relevance
+0   55  bought package little two months ago finally d...   0.616583
+1   39  ordered product two years ago used every morni...   0.593056
+2   22  workout everything needed condensed 10 minute ...   0.587616
+3   59  wife using 10 minute trainers awhile really en...   0.561672
+4   35  ordered tony horton s 10 minute trainer almost...   0.550164
+5   54  someone done insanity p90x knew beachbody puts...   0.514578
+6   30  n t tell order get better results 20 30 minute...   0.497081
+7   87  photo ad misleads customer receive cardio belt...   0.485002
+8   25  perfect product guilt something active ca n t ...   0.368756
+9   13  workout great ten minutes definitely feeling b...   0.351864
+10  12  m sorry worth money returned 2 weeks stacking ...   0.297940
+11  14  ordered straight beachbody enrolled monthly su...   0.293101
+
+step 1
+index added: 88
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 65.6566%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 65.6566%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 65.6566%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 65.6566%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 65.6566%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 64.6465%
+
+	step 2
+
+		step 3
+		candidate index: 94 with core nodes: [5, 51, 59, 94]
+			old information: 1135, gain: 0.8355787338838186
+
+    ind                                             review  relevance
+0   55  bought package little two months ago finally d...   0.616583
+1   39  ordered product two years ago used every morni...   0.593056
+2   22  workout everything needed condensed 10 minute ...   0.587616
+3   94  regularly exercising 30 years must say horton ...   0.577040
+4   59  wife using 10 minute trainers awhile really en...   0.561672
+5   35  ordered tony horton s 10 minute trainer almost...   0.550164
+6   54  someone done insanity p90x knew beachbody puts...   0.514578
+7   30  n t tell order get better results 20 30 minute...   0.497081
+8   87  photo ad misleads customer receive cardio belt...   0.485002
+9   25  perfect product guilt something active ca n t ...   0.368756
+10  13  workout great ten minutes definitely feeling b...   0.351864
+11  12  m sorry worth money returned 2 weeks stacking ...   0.297940
+12  14  ordered straight beachbody enrolled monthly su...   0.293101
+
+step 1
+index added: 95
+percentage unclustered: 63.6364%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 63.6364%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 63.6364%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 61.6162%
+
+	step 2
+
+--- 155.83321332931519 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 96.9697, 95.9596, 94.9495, 94.9495, 94.9495, 94.9495, 94.9495, 94.9495, 92.9293, 92.9293, 91.9192, 91.9192, 91.9192, 89.899, 88.8889, 88.8889, 87.8788, 87.8788, 86.8687, 86.8687, 86.8687, 86.8687, 86.8687, 83.83840000000001, 83.83840000000001, 83.83840000000001, 83.83840000000001, 80.8081, 80.8081, 81.8182, 80.8081, 80.8081, 80.8081, 79.798, 79.798, 79.798, 78.78790000000001, 78.78790000000001, 78.78790000000001, 79.798, 79.798, 79.798, 75.7576, 74.7475, 74.7475, 74.7475, 74.7475, 75.7576, 75.7576, 77.7778, 77.7778, 77.7778, 74.7475, 74.7475, 74.7475, 74.7475, 74.7475, 74.7475, 73.73740000000001, 73.73740000000001, 73.73740000000001, 72.7273, 72.7273, 72.7273, 72.7273, 72.7273, 72.7273, 72.7273, 72.7273, 72.7273, 70.7071, 70.7071, 69.697, 68.68690000000001, 68.68690000000001, 66.66669999999999, 66.66669999999999, 65.6566, 65.6566, 65.6566, 65.6566, 65.6566, 64.6465, 63.6364, 63.6364, 63.6364, 61.6162], mean: 80.9226
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0         2  55   0.616583  bought package little two months ago finally d...
+1        38  39   0.593056  ordered product two years ago used every morni...
+2        88  22   0.587616  workout everything needed condensed 10 minute ...
+3         3  94   0.577040  regularly exercising 30 years must say horton ...
+4        81  59   0.561672  wife using 10 minute trainers awhile really en...
+5        16  35   0.550164  ordered tony horton s 10 minute trainer almost...
+6        73  54   0.514578  someone done insanity p90x knew beachbody puts...
+7        27  30   0.497081  n t tell order get better results 20 30 minute...
+8        92  87   0.485002  photo ad misleads customer receive cardio belt...
+9        90  25   0.368756  perfect product guilt something active ca n t ...
+10       71  13   0.351864  workout great ten minutes definitely feeling b...
+11       64  12   0.297940  m sorry worth money returned 2 weeks stacking ...
+12       47  14   0.293101  ordered straight beachbody enrolled monthly su...

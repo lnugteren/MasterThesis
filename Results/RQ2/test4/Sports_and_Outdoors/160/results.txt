@@ -1,0 +1,994 @@
+------- Category: Sports_and_Outdoors -------
+Found asin_id: B019Z6HS86
+Shape:  (162, 7)
+
+Readability scores: [-119.29999999999995, -577.9375981873111, -38.554999999999964, 45.315000000000026, -64.02470588235292, -109.53086956521737, -76.6608571428571, -980.7604850746268, -326.7826128266032, -347.4869999999999, -57.9083233532934, -624.1303319502074, 81.85500000000002, -558.4864906832297, -535.7535209003214, -107.16601895734595, -20.47737288135589, 11.429000000000016, -4.639999999999972, -970.6712711864405, 30.76807692307695, -145.93801619433196, -3.8517647058823314, 48.38887096774195, -2009.8152694898938, -40.285693430656906, -14.025909090909082, -44.19586956521738, -547.2683098591549, -982.44512605042, 40.26090909090912, -195.43254071661232, -147.86999999999998, -671.6115734720415, -84.3159302325581, -719.8152985074626, -212.15815047021937, -116.62660633484158, -652.860740242261, 80.46500000000003, 1.648333333333369, -8.502941176470557, -116.19666666666663, -324.86564705882347, -607.503395149786, 65.29615384615387, -1256.3338369483918, -123.62579646017697, 12.302826086956543, -132.88561643835612, -201.85305084745755, -188.6644366197183, -510.17272430668834, 16.014210526315807, -34.10999999999997, 19.04000000000002, 51.022105263157904, 36.730000000000004, 70.02760869565219, -482.4249228130359, -323.31413043478256, 99.09884615384617, 24.00000000000003, 61.4764285714286, -677.8029069767441, -158.75499999999997, -11.996639344262263, 89.51692307692309, -12.109702970296993, 54.56500000000002, -166.5416666666666, -209.08730769230763, -724.0021297429619, -5.316799999999972, 26.841363636363653, -10.089626168224271, 89.24500000000002, 93.81500000000001, 52.05, 66.20870967741936, -89.76131578947367, -809.0032965821388, -24.267199999999974, -223.24903726708072, -462.9349999999999, 65.78565217391306, -130.5008450704225, -138.0415517241379, -125.89037344398338, -124.45673913043476, -184.8889568345323, -13.712142857142837, -622.3031468531467, -40.42778688524588, -43.565882352941145, -323.44284009546533, -111.01365853658534, 7.7269230769231, 11.525000000000006, 32.505, 78.24500000000003, -337.5742660550458, -6.336999999999975, -6.251376146788971, -25.995365853658498, -330.30999999999995, -33.96299999999995, -1319.9170106761565, -32.25795620437954, -459.9814847942755, 57.8414285714286, 86.96551724137933, 83.75000000000001, -460.48833333333323, -47.25941558441555, -39.944999999999965, -30.13785714285713, 7.461981132075493, -76.72839378238338, -73.47624999999996, -16.414859813084092, 52.88970588235295, -590.3916371681415, -52.03331288343557, -3177.592777777778, -222.38957831325297, -351.24636563876646, -270.36597826086955, -169.3655056179775, 28.72211267605634, -21.559999999999974, 11.542551020408183, -226.49571428571423, 88.56333333333333, -80.8403389830508, 75.87500000000001, 0.405769230769252, -71.56210526315785, 89.51692307692309, -43.44813432835818, -181.5151408450704, 78.87285714285716, -312.3594334975369, -391.9312499999999, -178.5828571428571, -174.99499999999998, -252.59385714285708, -420.0290909090909, -96.12846938775506, -92.67540816326526, -185.49111913357396, -4.256724137931016, 32.412025316455725, 52.30500000000003, 22.39438202247193, 35.95800000000001, -192.12570032573285, 4.659090909090935, -348.81402810304445, 21.91772727272729, -186.3412121212121, -60.31301775147928], on average: -192.714
+Readability scores after: [-119.29999999999995, -577.9375981873111, -38.554999999999964, 45.315000000000026, -64.02470588235292, -109.53086956521737, -76.6608571428571, -980.7604850746268, -326.7826128266032, -347.4869999999999, -57.9083233532934, -624.1303319502074, -558.4864906832297, -535.7535209003214, -107.16601895734595, -20.47737288135589, 11.429000000000016, -4.639999999999972, -970.6712711864405, 30.76807692307695, -145.93801619433196, -3.8517647058823314, 48.38887096774195, -2009.8152694898938, -40.285693430656906, -14.025909090909082, -44.19586956521738, -547.2683098591549, -982.44512605042, 40.26090909090912, -195.43254071661232, -147.86999999999998, -671.6115734720415, -84.3159302325581, -719.8152985074626, -212.15815047021937, -116.62660633484158, -652.860740242261, 1.648333333333369, -8.502941176470557, -116.19666666666663, -324.86564705882347, -607.503395149786, -1256.3338369483918, -123.62579646017697, 12.302826086956543, -132.88561643835612, -201.85305084745755, -188.6644366197183, -510.17272430668834, 16.014210526315807, -34.10999999999997, 19.04000000000002, 36.730000000000004, -482.4249228130359, -323.31413043478256, 24.00000000000003, -677.8029069767441, -158.75499999999997, -11.996639344262263, -12.109702970296993, -166.5416666666666, -209.08730769230763, -724.0021297429619, -5.316799999999972, 26.841363636363653, -10.089626168224271, -89.76131578947367, -809.0032965821388, -24.267199999999974, -223.24903726708072, -462.9349999999999, -130.5008450704225, -138.0415517241379, -125.89037344398338, -124.45673913043476, -184.8889568345323, -13.712142857142837, -622.3031468531467, -40.42778688524588, -43.565882352941145, -323.44284009546533, -111.01365853658534, 7.7269230769231, 11.525000000000006, 32.505, -337.5742660550458, -6.336999999999975, -6.251376146788971, -25.995365853658498, -330.30999999999995, -33.96299999999995, -1319.9170106761565, -32.25795620437954, -459.9814847942755, -460.48833333333323, -47.25941558441555, -39.944999999999965, -30.13785714285713, 7.461981132075493, -76.72839378238338, -73.47624999999996, -16.414859813084092, -590.3916371681415, -52.03331288343557, -3177.592777777778, -222.38957831325297, -351.24636563876646, -270.36597826086955, -169.3655056179775, 28.72211267605634, -21.559999999999974, 11.542551020408183, -226.49571428571423, -80.8403389830508, 0.405769230769252, -71.56210526315785, -43.44813432835818, -181.5151408450704, -312.3594334975369, -391.9312499999999, -178.5828571428571, -174.99499999999998, -252.59385714285708, -420.0290909090909, -96.12846938775506, -92.67540816326526, -185.49111913357396, -4.256724137931016, 32.412025316455725, 22.39438202247193, 35.95800000000001, -192.12570032573285, 4.659090909090935, -348.81402810304445, 21.91772727272729, -186.3412121212121, -60.31301775147928], on average after: -239.0211
+Shape after:  (138, 8)
+
+
+Chosen product: B019Z6HS86 has 162 reviews - False, it has 138 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 100.0%
+
+step 1
+index added: 13
+percentage unclustered: 100.0%
+
+step 1
+index added: 14
+percentage unclustered: 100.0%
+
+step 1
+index added: 15
+percentage unclustered: 100.0%
+
+step 1
+index added: 16
+percentage unclustered: 100.0%
+
+step 1
+index added: 17
+percentage unclustered: 100.0%
+
+step 1
+index added: 18
+percentage unclustered: 97.8261%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [2, 15, 18]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  18  wanted share thoughts far mostly reviews impor...   0.281263
+
+step 1
+index added: 19
+percentage unclustered: 97.8261%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 95.6522%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [4, 17, 18, 20]
+			old information: 382, gain: 0.9628982128982129
+
+   ind                                             review  relevance
+0  20  roller coaster experience went good bad good n...   0.429014
+1  18  wanted share thoughts far mostly reviews impor...   0.281263
+
+step 1
+index added: 21
+percentage unclustered: 95.6522%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 93.4783%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [4, 17, 18, 20]
+
+step 1
+index added: 23
+percentage unclustered: 93.4783%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 93.4783%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 93.4783%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 92.029%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [7, 18, 20, 23]
+
+step 1
+index added: 27
+percentage unclustered: 92.029%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 89.8551%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [18, 23, 27, 28]
+			old information: 3463, gain: 0.9802709539218815
+
+   ind                                             review  relevance
+0  28  12 08 2016 n12 31 2016 updated 4 stars cg easy...   0.647854
+1  20  roller coaster experience went good bad good n...   0.429014
+2  18  wanted share thoughts far mostly reviews impor...   0.281263
+
+step 1
+index added: 29
+percentage unclustered: 89.8551%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 93.4783%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 90.5797%
+
+	step 2
+
+		step 3
+		candidate index: 31 with core nodes: [18, 20, 27, 28]
+
+step 1
+index added: 32
+percentage unclustered: 90.5797%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 89.8551%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [18, 20, 27, 28]
+			old information: 379, gain: 0.9168859649122807
+
+   ind                                             review  relevance
+0  28  12 08 2016 n12 31 2016 updated 4 stars cg easy...   0.647854
+1  33  comes gimped out of the box registered online ...   0.526086
+2  20  roller coaster experience went good bad good n...   0.429014
+3  18  wanted share thoughts far mostly reviews impor...   0.281263
+
+step 1
+index added: 34
+percentage unclustered: 89.8551%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 89.8551%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 89.8551%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 89.8551%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 89.8551%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 89.8551%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 87.6812%
+
+	step 2
+
+		step 3
+		candidate index: 40 with core nodes: [18, 23, 27, 28]
+
+step 1
+index added: 41
+percentage unclustered: 85.5072%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [18, 23, 28, 41]
+			old information: 1244, gain: 0.9535751604717122
+
+   ind                                             review  relevance
+0  41  got first one prime day july 2016 bought allev...   0.716923
+1  28  12 08 2016 n12 31 2016 updated 4 stars cg easy...   0.647854
+2  33  comes gimped out of the box registered online ...   0.526086
+3  20  roller coaster experience went good bad good n...   0.429014
+4  18  wanted share thoughts far mostly reviews impor...   0.281263
+
+step 1
+index added: 42
+percentage unclustered: 86.2319%
+
+	step 2
+
+		step 3
+		candidate index: 42 with core nodes: [18, 23, 28]
+			old information: 3966, gain: 0.9485122293192086
+
+   ind                                             review  relevance
+0  41  got first one prime day july 2016 bought allev...   0.716923
+1  28  12 08 2016 n12 31 2016 updated 4 stars cg easy...   0.647854
+2  42  absolutely love product s life changing disabl...   0.572687
+3  33  comes gimped out of the box registered online ...   0.526086
+4  20  roller coaster experience went good bad good n...   0.429014
+5  18  wanted share thoughts far mostly reviews impor...   0.281263
+
+step 1
+index added: 43
+percentage unclustered: 86.2319%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [18, 23, 28, 43]
+			old information: 11795, gain: 0.9483015559938637
+
+   ind                                             review  relevance
+0  41  got first one prime day july 2016 bought allev...   0.716923
+1  43  mixed experience rode friend s one time much f...   0.670122
+2  28  12 08 2016 n12 31 2016 updated 4 stars cg easy...   0.647854
+3  42  absolutely love product s life changing disabl...   0.572687
+4  33  comes gimped out of the box registered online ...   0.526086
+5  20  roller coaster experience went good bad good n...   0.429014
+6  18  wanted share thoughts far mostly reviews impor...   0.281263
+
+step 1
+index added: 44
+percentage unclustered: 86.2319%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 85.5072%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 85.5072%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 85.5072%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 85.5072%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 85.5072%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 87.6812%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 87.6812%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 87.6812%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 87.6812%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 84.7826%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 87.6812%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 86.2319%
+
+	step 2
+
+		step 3
+		candidate index: 56 with core nodes: [18, 23, 28, 43]
+
+step 1
+index added: 57
+percentage unclustered: 86.2319%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 86.2319%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 84.7826%
+
+	step 2
+
+		step 3
+		candidate index: 59 with core nodes: [18, 23, 28, 43]
+
+step 1
+index added: 60
+percentage unclustered: 84.7826%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 85.5072%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 82.6087%
+
+	step 2
+
+		step 3
+		candidate index: 62 with core nodes: [7, 23, 43, 57]
+
+step 1
+index added: 63
+percentage unclustered: 84.7826%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 87.6812%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 87.6812%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 87.6812%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 87.6812%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 85.5072%
+
+	step 2
+
+		step 3
+		candidate index: 68 with core nodes: [57, 62, 68]
+			old information: 8312, gain: 0.9027733913511363
+
+   ind                                             review  relevance
+0  41  got first one prime day july 2016 bought allev...   0.716923
+1  43  mixed experience rode friend s one time much f...   0.670122
+2  68  always wanted get hover board never got around...   0.666916
+3  28  12 08 2016 n12 31 2016 updated 4 stars cg easy...   0.647854
+4  42  absolutely love product s life changing disabl...   0.572687
+5  33  comes gimped out of the box registered online ...   0.526086
+6  20  roller coaster experience went good bad good n...   0.429014
+7  18  wanted share thoughts far mostly reviews impor...   0.281263
+
+step 1
+index added: 69
+percentage unclustered: 85.5072%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 85.5072%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 85.5072%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 85.5072%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 84.7826%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 81.8841%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 77.53620000000001%
+
+	step 2
+
+		step 3
+		candidate index: 75 with core nodes: [57, 62, 68]
+
+step 1
+index added: 76
+percentage unclustered: 77.53620000000001%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 77.53620000000001%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 76.8116%
+
+	step 2
+
+		step 3
+		candidate index: 78 with core nodes: [28, 57, 78]
+			old information: 6461, gain: 0.912594696969697
+
+   ind                                             review  relevance
+0  41  got first one prime day july 2016 bought allev...   0.716923
+1  78  ok professional adult say still slightly feel ...   0.705106
+2  43  mixed experience rode friend s one time much f...   0.670122
+3  68  always wanted get hover board never got around...   0.666916
+4  28  12 08 2016 n12 31 2016 updated 4 stars cg easy...   0.647854
+5  42  absolutely love product s life changing disabl...   0.572687
+6  33  comes gimped out of the box registered online ...   0.526086
+7  20  roller coaster experience went good bad good n...   0.429014
+8  18  wanted share thoughts far mostly reviews impor...   0.281263
+
+step 1
+index added: 79
+percentage unclustered: 77.53620000000001%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 71.73910000000001%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 79.7101%
+
+	step 2
+
+		step 3
+		candidate index: 81 with core nodes: [28, 57, 78]
+
+step 1
+index added: 82
+percentage unclustered: 79.7101%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 80.4348%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 80.4348%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 80.4348%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 84.7826%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 84.7826%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 84.7826%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 84.05799999999999%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 84.05799999999999%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 77.53620000000001%
+
+	step 2
+
+		step 3
+		candidate index: 91 with core nodes: [7, 23, 43, 57, 68]
+
+step 1
+index added: 92
+percentage unclustered: 77.53620000000001%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 77.53620000000001%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 77.53620000000001%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 77.53620000000001%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 77.53620000000001%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 77.53620000000001%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 77.53620000000001%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 77.53620000000001%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 77.53620000000001%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 77.53620000000001%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 76.8116%
+
+	step 2
+
+		step 3
+		candidate index: 102 with core nodes: [7, 23, 43, 57, 68]
+
+step 1
+index added: 103
+percentage unclustered: 76.8116%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 73.1884%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 73.1884%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 73.1884%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 73.1884%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 73.1884%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 72.46379999999999%
+
+	step 2
+
+		step 3
+		candidate index: 109 with core nodes: [7, 23, 43, 57, 68]
+
+step 1
+index added: 110
+percentage unclustered: 72.46379999999999%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 72.46379999999999%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 72.46379999999999%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 72.46379999999999%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 78.9855%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 76.087%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 75.3623%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 75.3623%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 75.3623%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 72.46379999999999%
+
+	step 2
+
+		step 3
+		candidate index: 119 with core nodes: [28, 41, 78]
+			old information: 3145, gain: 0.9228315544105018
+
+    ind                                             review  relevance
+0   41  got first one prime day july 2016 bought allev...   0.716923
+1   78  ok professional adult say still slightly feel ...   0.705106
+2   43  mixed experience rode friend s one time much f...   0.670122
+3   68  always wanted get hover board never got around...   0.666916
+4   28  12 08 2016 n12 31 2016 updated 4 stars cg easy...   0.647854
+5  119  div id video block rp3jh485b0wfl class a secti...   0.600740
+6   42  absolutely love product s life changing disabl...   0.572687
+7   33  comes gimped out of the box registered online ...   0.526086
+8   20  roller coaster experience went good bad good n...   0.429014
+9   18  wanted share thoughts far mostly reviews impor...   0.281263
+
+step 1
+index added: 120
+percentage unclustered: 72.46379999999999%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 72.46379999999999%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 65.94200000000001%
+
+	step 2
+
+		step 3
+		candidate index: 122 with core nodes: [23, 28, 41, 43, 68, 78]
+
+step 1
+index added: 123
+percentage unclustered: 65.94200000000001%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 65.94200000000001%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 65.2174%
+
+	step 2
+
+		step 3
+		candidate index: 125 with core nodes: [23, 28, 41, 43, 68, 78]
+
+step 1
+index added: 126
+percentage unclustered: 64.4928%
+
+	step 2
+
+		step 3
+		candidate index: 126 with core nodes: [23, 28, 41, 43, 68, 78]
+
+step 1
+index added: 127
+percentage unclustered: 64.4928%
+
+	step 2
+
+step 1
+index added: 128
+percentage unclustered: 64.4928%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 63.7681%
+
+	step 2
+
+step 1
+index added: 130
+percentage unclustered: 63.7681%
+
+	step 2
+
+step 1
+index added: 131
+percentage unclustered: 63.7681%
+
+	step 2
+
+step 1
+index added: 132
+percentage unclustered: 65.94200000000001%
+
+	step 2
+
+		step 3
+		candidate index: 132 with core nodes: [28, 41, 78, 132]
+			old information: 2379, gain: 0.8324175824175825
+
+     ind                                             review  relevance
+0    41  got first one prime day july 2016 bought allev...   0.716923
+1    78  ok professional adult say still slightly feel ...   0.705106
+2   132  got mine 30 minutes ago installed software iph...   0.678925
+3    43  mixed experience rode friend s one time much f...   0.670122
+4    68  always wanted get hover board never got around...   0.666916
+5    28  12 08 2016 n12 31 2016 updated 4 stars cg easy...   0.647854
+6   119  div id video block rp3jh485b0wfl class a secti...   0.600740
+7    42  absolutely love product s life changing disabl...   0.572687
+8    33  comes gimped out of the box registered online ...   0.526086
+9    20  roller coaster experience went good bad good n...   0.429014
+10   18  wanted share thoughts far mostly reviews impor...   0.281263
+
+step 1
+index added: 133
+percentage unclustered: 65.2174%
+
+	step 2
+
+		step 3
+		candidate index: 133 with core nodes: [28, 41, 78, 132]
+
+step 1
+index added: 134
+percentage unclustered: 65.2174%
+
+	step 2
+
+step 1
+index added: 135
+percentage unclustered: 65.2174%
+
+	step 2
+
+step 1
+index added: 136
+percentage unclustered: 63.7681%
+
+	step 2
+
+step 1
+index added: 137
+percentage unclustered: 63.7681%
+
+	step 2
+
+--- 1248.1857101917267 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 97.8261, 97.8261, 95.6522, 95.6522, 93.4783, 93.4783, 93.4783, 93.4783, 92.029, 92.029, 89.8551, 89.8551, 93.4783, 90.5797, 90.5797, 89.8551, 89.8551, 89.8551, 89.8551, 89.8551, 89.8551, 89.8551, 87.6812, 85.5072, 86.2319, 86.2319, 86.2319, 85.5072, 85.5072, 85.5072, 85.5072, 85.5072, 87.6812, 87.6812, 87.6812, 87.6812, 84.7826, 87.6812, 86.2319, 86.2319, 86.2319, 84.7826, 84.7826, 85.5072, 82.6087, 84.7826, 87.6812, 87.6812, 87.6812, 87.6812, 85.5072, 85.5072, 85.5072, 85.5072, 85.5072, 84.7826, 81.8841, 77.53620000000001, 77.53620000000001, 77.53620000000001, 76.8116, 77.53620000000001, 71.73910000000001, 79.7101, 79.7101, 80.4348, 80.4348, 80.4348, 84.7826, 84.7826, 84.7826, 84.05799999999999, 84.05799999999999, 77.53620000000001, 77.53620000000001, 77.53620000000001, 77.53620000000001, 77.53620000000001, 77.53620000000001, 77.53620000000001, 77.53620000000001, 77.53620000000001, 77.53620000000001, 77.53620000000001, 76.8116, 76.8116, 73.1884, 73.1884, 73.1884, 73.1884, 73.1884, 72.46379999999999, 72.46379999999999, 72.46379999999999, 72.46379999999999, 72.46379999999999, 78.9855, 76.087, 75.3623, 75.3623, 75.3623, 72.46379999999999, 72.46379999999999, 72.46379999999999, 65.94200000000001, 65.94200000000001, 65.94200000000001, 65.2174, 64.4928, 64.4928, 64.4928, 63.7681, 63.7681, 63.7681, 65.94200000000001, 65.2174, 65.2174, 65.2174, 63.7681, 63.7681], mean: 83.0083
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0        62   41   0.716923  got first one prime day july 2016 bought allev...
+1        80   78   0.705106  ok professional adult say still slightly feel ...
+2        17  132   0.678925  got mine 30 minutes ago installed software iph...
+3        50   43   0.670122  mixed experience rode friend s one time much f...
+4        54   68   0.666916  always wanted get hover board never got around...
+5        65   28   0.647854  12 08 2016 n12 31 2016 updated 4 stars cg easy...
+6         5  119   0.600740  div id video block rp3jh485b0wfl class a secti...
+7        45   42   0.572687  absolutely love product s life changing disabl...
+8        91   33   0.526086  comes gimped out of the box registered online ...
+9       100   20   0.429014  roller coaster experience went good bad good n...
+10       63   18   0.281263  wanted share thoughts far mostly reviews impor...

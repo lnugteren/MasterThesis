@@ -1,0 +1,349 @@
+------- Category: Sports_and_Outdoors -------
+Found asin_id: B01EM3IL06
+Shape:  (150, 7)
+
+Readability scores: [57.561538461538476, -39.04090163934423, 72.61545454545455, 155.07000000000002, -59.4283333333333, 103.04428571428573, -30.541596638655435, 49.480000000000004, 53.545000000000016, 43.96307692307695, 103.625, 96.86000000000001, 102.045, 76.50153846153849, 84.52318181818183, 34.59000000000002, 77.90500000000002, 74.805, 65.2959090909091, 69.22500000000002, 66.56038461538462, 69.81423076923079, 60.67375000000002, 68.08078947368423, 78.55658536585368, 95.02705882352943, 108.02500000000002, 93.81500000000001, 75.50000000000001, 55.43357142857144, 177.4, 83.0092307692308, 74.27000000000002, 89.3373076923077, 77.90500000000002, 114.11500000000001, 68.23951219512197, 120.20500000000001, 95.02705882352943, 49.480000000000004, 80.67772727272728, 51.781632653061244, 53.9905263157895, 63.31750000000002, 83.32000000000002, 102.045, 122.50000000000001, 103.37909090909093, 97.025, 95.95500000000001, -88.5257692307692, 74.86500000000001, -2.4102173913043288, 106.24652173913046, 85.86500000000002, 96.02461538461542, 36.23000000000002, 34.52500000000003, 139.32500000000002, 39.75500000000001, 121.22000000000001, 55.234693877551045, 33.969180327868884, -179.07740072202162, 204.805, 42.86500000000002, 28.43863013698632, -121.93133027522933, 103.37909090909093, 93.81500000000001, -2.843980582524239, 89.51692307692309, 102.045, 103.04428571428573, -19.99919354838707, 60.70500000000002, 71.06500000000003, 71.80384615384618, 63.73000000000002, 53.12000000000002, 69.14136363636366, -112.09971698113203, 76.82043478260871, 89.5921052631579, 62.04926829268295, 31.3916666666667, -99.96374999999999, -2.106999999999971, 2.3153012048193062, 65.66727272727275, 54.772459016393455, 48.238529411764716, 73.1421739130435, 34.735909090909104, 68.18847826086959, 151.01000000000002, 24.6265384615385, 100.24000000000001, -21.760145985401422, 66.78534883720931, -409.62979999999993, -34.406267605633786, 62.67108695652176, 55.85902439024392, 46.57711864406782, 40.2017741935484, 70.96108108108109, 26.150689655172428, 92.80000000000001, 52.88970588235295, 120.54499999999999, 27.495000000000033, 57.70428571428574, 36.682142857142864, 15.92494505494507, 102.045, 41.47500000000001, 71.06500000000003, 50.055102040816344, 104.98000000000002, 26.62451219512198, 58.34772727272728, 36.62000000000002, 64.54500000000002, 97.87500000000001, -60.430526315789436, -151.64734693877548, 82.82961538461541, 114.11500000000001, 120.20500000000001, 55.88000000000001, 66.40000000000002, 87.85521739130436, 102.97375000000002, 45.49166666666668, 120.20500000000001, 62.790000000000006, 70.3073529411765, 108.97714285714287, 78.2137931034483, 85.07411764705884, 35.392054794520575, 65.53000000000002, 71.6667741935484, -83.15970588235291, 59.640000000000015, 81.72928571428574, -11.303196721311437, 65.29615384615387, 71.24875000000003], on average: 55.3803
+Readability scores after: [-39.04090163934423, -59.4283333333333, -30.541596638655435, 49.480000000000004, 43.96307692307695, 34.59000000000002, 49.480000000000004, -88.5257692307692, -2.4102173913043288, 36.23000000000002, 34.52500000000003, 39.75500000000001, 33.969180327868884, -179.07740072202162, 42.86500000000002, 28.43863013698632, -121.93133027522933, -2.843980582524239, -19.99919354838707, -112.09971698113203, 31.3916666666667, -99.96374999999999, -2.106999999999971, 2.3153012048193062, 48.238529411764716, 34.735909090909104, 24.6265384615385, -21.760145985401422, -409.62979999999993, -34.406267605633786, 46.57711864406782, 40.2017741935484, 26.150689655172428, 27.495000000000033, 36.682142857142864, 15.92494505494507, 41.47500000000001, 26.62451219512198, 36.62000000000002, -60.430526315789436, -151.64734693877548, 45.49166666666668, 35.392054794520575, -83.15970588235291, -11.303196721311437], on average after: -13.7126
+Shape after:  (45, 8)
+
+
+Chosen product: B01EM3IL06 has 150 reviews - False, it has 45 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 93.3333%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 93.3333%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 93.3333%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 86.6667%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [3, 4, 6, 7, 9]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   9  wow great little flashlight price charged batt...   0.270194
+
+step 1
+index added: 10
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [7, 9, 11]
+			old information: 10, gain: 0.9988777914936595
+
+   ind                                             review  relevance
+0   9  wow great little flashlight price charged batt...   0.270194
+1  13  10 brand names flashlights may slight visual d...   0.171721
+
+step 1
+index added: 14
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [2, 9, 11, 15]
+			old information: 33, gain: 0.9476190476190476
+
+   ind                                             review  relevance
+0  15  bought 3 flash lights line big discount bought...   0.400197
+1   9  wow great little flashlight price charged batt...   0.270194
+2  13  10 brand names flashlights may slight visual d...   0.171721
+
+step 1
+index added: 16
+percentage unclustered: 77.7778%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [2, 9, 15, 16]
+			old information: 226, gain: 0.9764362423104994
+
+   ind                                             review  relevance
+0  16  fwiw first believe 1 star amazon reviews uncle...   0.412681
+1  15  bought 3 flash lights line big discount bought...   0.400197
+2   9  wow great little flashlight price charged batt...   0.270194
+3  13  10 brand names flashlights may slight visual d...   0.171721
+
+step 1
+index added: 17
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 71.1111%
+
+	step 2
+
+		step 3
+		candidate index: 23 with core nodes: [2, 12, 15, 16]
+			old information: 107, gain: 0.8966183574879227
+
+   ind                                             review  relevance
+0  16  fwiw first believe 1 star amazon reviews uncle...   0.412681
+1  15  bought 3 flash lights line big discount bought...   0.400197
+2   9  wow great little flashlight price charged batt...   0.270194
+3  23  junk poor customer service bought 5 chargers b...   0.254517
+4  13  10 brand names flashlights may slight visual d...   0.171721
+
+step 1
+index added: 24
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 64.4444%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [3, 6, 26]
+			old information: 67, gain: 0.9633879781420766
+
+   ind                                             review  relevance
+0  16  fwiw first believe 1 star amazon reviews uncle...   0.412681
+1  15  bought 3 flash lights line big discount bought...   0.400197
+2   9  wow great little flashlight price charged batt...   0.270194
+3  23  junk poor customer service bought 5 chargers b...   0.254517
+4  26  great music great ad great discount total scam...   0.213121
+5  13  10 brand names flashlights may slight visual d...   0.171721
+
+step 1
+index added: 27
+percentage unclustered: 64.4444%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 64.4444%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 62.2222%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 57.7778%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [7, 8, 15]
+
+step 1
+index added: 34
+percentage unclustered: 55.5556%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 53.3333%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 53.3333%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 51.1111%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [7, 8, 15]
+			old information: 237, gain: 0.798469387755102
+
+   ind                                             review  relevance
+0  16  fwiw first believe 1 star amazon reviews uncle...   0.412681
+1  15  bought 3 flash lights line big discount bought...   0.400197
+2  37  product deserves stars received flashlight bir...   0.377496
+3   9  wow great little flashlight price charged batt...   0.270194
+4  23  junk poor customer service bought 5 chargers b...   0.254517
+5  26  great music great ad great discount total scam...   0.213121
+6  13  10 brand names flashlights may slight visual d...   0.171721
+
+step 1
+index added: 38
+percentage unclustered: 48.8889%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 48.8889%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 48.8889%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 46.6667%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 44.4444%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 44.4444%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 42.2222%
+
+	step 2
+
+--- 7.436941623687744 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 93.3333, 93.3333, 93.3333, 86.6667, 86.6667, 86.6667, 86.6667, 80.0, 80.0, 80.0, 77.7778, 77.7778, 77.7778, 77.7778, 77.7778, 77.7778, 77.7778, 71.1111, 73.33330000000001, 73.33330000000001, 64.4444, 64.4444, 64.4444, 62.2222, 60.0, 60.0, 60.0, 57.7778, 55.5556, 53.3333, 53.3333, 51.1111, 48.8889, 48.8889, 48.8889, 46.6667, 44.4444, 44.4444, 42.2222], mean: 71.1628
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0       26  16   0.412681  fwiw first believe 1 star amazon reviews uncle...
+1       32  15   0.400197  bought 3 flash lights line big discount bought...
+2       11  37   0.377496  product deserves stars received flashlight bir...
+3       39   9   0.270194  wow great little flashlight price charged batt...
+4       44  23   0.254517  junk poor customer service bought 5 chargers b...
+5       35  26   0.213121  great music great ad great discount total scam...
+6       23  13   0.171721  10 brand names flashlights may slight visual d...

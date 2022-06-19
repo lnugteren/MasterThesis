@@ -1,0 +1,868 @@
+------- Category: Sports_and_Outdoors -------
+Found asin_id: B0073PZ6O0
+Shape:  (120, 7)
+
+Readability scores: [-271.39642857142854, -8.246483516483494, 13.970945945945957, 55.953125000000014, 63.02500000000001, -115.7647345132743, -28.662255639097708, 61.17750000000002, 39.07776119402986, -240.5081428571428, -507.4871547420965, -101.4936538461538, 33.96342105263162, -30.15687499999997, -693.0111139564659, -97.56915254237285, 68.60500000000002, 57.793103448275886, 139.32500000000002, 90.34394736842108, -59.34299999999996, -111.57644549763032, 44.69666666666669, 26.62451219512198, 77.685, 86.70500000000001, 31.371395348837225, 51.69603448275863, -42.3633333333333, 69.13000000000002, -50.291986301369846, -546.1933227344991, -484.39322525597265, 21.584285714285734, -254.5126136363636, -219.5707763975155, 67.74086206896553, 15.740449438202262, 12.069705882352977, -114.60499999999995, -323.6565060240963, -227.42338461538452, 12.508072289156658, -14.622574257425711, -79.38499999999998, 18.118846153846178, -193.84636986301368, -248.99147058823525, -446.3134501845018, -223.00306930693063, -117.50357142857139, 6.125000000000014, -64.32657894736838, -194.52593406593402, -47.1110344827586, -278.37225464190976, 20.17555555555559, 7.022073170731744, 109.39500000000001, 14.481724137931067, -62.932699386503046, -0.015263157894722212, -16.323109243697445, -89.54728323699416, 29.430714285714302, -328.0282394366197, -557.0380769230768, -280.8454545454545, -124.00892857142856, -73.89872832369937, -513.1129605263156, 44.87551020408166, 10.380000000000024, -150.31318181818176, -379.17730769230764, -39.44323529411761, 19.605000000000018, -273.65978779840844, 8.38453488372096, -421.8243614931238, 51.732195121951236, -10.127727272727256, -67.10081395348836, -473.26365079365075, -377.61066098081017, -306.8397761194029, 3.2675000000000267, -195.81970588235288, -72.59934131736524, -146.6378571428571, -231.54003095975227, -301.30745501285344, -99.75441176470585, -488.23972835314083, 40.64153846153849, -343.91499999999996, -239.47559766763845, -289.6350649350649, -70.0806211180124, -74.35110429447852, -132.48710084033607, -33.271059602648975, -30.235845070422528, 5.3278947368421115, 31.105211267605654, 62.84264705882354, -179.77874999999997, -64.65055555555553, -704.4533541147132, 47.689056603773615, -725.7035294117646, -204.57534653465342, -77.4298837209302, -176.903345724907, -186.1320136518771, -97.53499999999997, -1268.0663017751478, 37.44687500000002, -263.1125352112676, -53.16166666666662], on average: -133.528
+Readability scores after: [-271.39642857142854, -8.246483516483494, 13.970945945945957, -115.7647345132743, -28.662255639097708, 39.07776119402986, -240.5081428571428, -507.4871547420965, -101.4936538461538, 33.96342105263162, -30.15687499999997, -693.0111139564659, -97.56915254237285, -59.34299999999996, -111.57644549763032, 44.69666666666669, 26.62451219512198, 31.371395348837225, -42.3633333333333, -50.291986301369846, -546.1933227344991, -484.39322525597265, 21.584285714285734, -254.5126136363636, -219.5707763975155, 15.740449438202262, 12.069705882352977, -114.60499999999995, -323.6565060240963, -227.42338461538452, 12.508072289156658, -14.622574257425711, -79.38499999999998, 18.118846153846178, -193.84636986301368, -248.99147058823525, -446.3134501845018, -223.00306930693063, -117.50357142857139, 6.125000000000014, -64.32657894736838, -194.52593406593402, -47.1110344827586, -278.37225464190976, 20.17555555555559, 7.022073170731744, 14.481724137931067, -62.932699386503046, -0.015263157894722212, -16.323109243697445, -89.54728323699416, 29.430714285714302, -328.0282394366197, -557.0380769230768, -280.8454545454545, -124.00892857142856, -73.89872832369937, -513.1129605263156, 44.87551020408166, 10.380000000000024, -150.31318181818176, -379.17730769230764, -39.44323529411761, 19.605000000000018, -273.65978779840844, 8.38453488372096, -421.8243614931238, -10.127727272727256, -67.10081395348836, -473.26365079365075, -377.61066098081017, -306.8397761194029, 3.2675000000000267, -195.81970588235288, -72.59934131736524, -146.6378571428571, -231.54003095975227, -301.30745501285344, -99.75441176470585, -488.23972835314083, 40.64153846153849, -343.91499999999996, -239.47559766763845, -289.6350649350649, -70.0806211180124, -74.35110429447852, -132.48710084033607, -33.271059602648975, -30.235845070422528, 5.3278947368421115, 31.105211267605654, -179.77874999999997, -64.65055555555553, -704.4533541147132, 47.689056603773615, -725.7035294117646, -204.57534653465342, -77.4298837209302, -176.903345724907, -186.1320136518771, -97.53499999999997, -1268.0663017751478, 37.44687500000002, -263.1125352112676, -53.16166666666662], on average after: -163.2048
+Shape after:  (105, 8)
+
+
+Chosen product: B0073PZ6O0 has 120 reviews - False, it has 105 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 97.1429%
+
+	step 2
+
+		step 3
+		candidate index: 3 with core nodes: [0, 2, 3]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   3  far five thing keeps five half slow filters ta...   0.422882
+
+step 1
+index added: 4
+percentage unclustered: 97.1429%
+
+	step 2
+
+step 1
+index added: 5
+percentage unclustered: 96.1905%
+
+	step 2
+
+		step 3
+		candidate index: 5 with core nodes: [0, 2, 3, 5]
+			old information: 48, gain: 0.9384615384615385
+
+   ind                                             review  relevance
+0   3  far five thing keeps five half slow filters ta...   0.422882
+1   5  n t buy less month use water pitcher either sm...   0.346874
+
+step 1
+index added: 6
+percentage unclustered: 96.1905%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 95.2381%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [0, 3, 5, 7]
+			old information: 235, gain: 0.9953375791123544
+
+   ind                                             review  relevance
+0   7  complained filters last long enough believe so...   0.558382
+1   3  far five thing keeps five half slow filters ta...   0.422882
+2   5  n t buy less month use water pitcher either sm...   0.346874
+
+step 1
+index added: 8
+percentage unclustered: 94.2857%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [3, 5, 7, 8]
+			old information: 172, gain: 0.9678864824495892
+
+   ind                                             review  relevance
+0   7  complained filters last long enough believe so...   0.558382
+1   8  put brand new filter pitcher early evening yes...   0.519420
+2   3  far five thing keeps five half slow filters ta...   0.422882
+3   5  n t buy less month use water pitcher either sm...   0.346874
+
+step 1
+index added: 9
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 93.3333%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [3, 5, 7, 8]
+
+step 1
+index added: 11
+percentage unclustered: 93.3333%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 92.381%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [3, 5, 7, 8]
+
+step 1
+index added: 13
+percentage unclustered: 92.381%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 91.4286%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [3, 5, 7, 8]
+
+step 1
+index added: 15
+percentage unclustered: 91.4286%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 90.4762%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [0, 12, 16]
+			old information: 125, gain: 0.8678646934460887
+
+   ind                                             review  relevance
+0   7  complained filters last long enough believe so...   0.558382
+1  16  actually makes tap water taste worst awhile fi...   0.547962
+2   8  put brand new filter pitcher early evening yes...   0.519420
+3   3  far five thing keeps five half slow filters ta...   0.422882
+4   5  n t buy less month use water pitcher either sm...   0.346874
+
+step 1
+index added: 17
+percentage unclustered: 89.5238%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 89.5238%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 88.5714%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [0, 12, 16]
+
+step 1
+index added: 20
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 89.5238%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 86.6667%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [0, 12, 16, 21, 26]
+			old information: 140, gain: 0.8901960784313725
+
+   ind                                             review  relevance
+0   7  complained filters last long enough believe so...   0.558382
+1  16  actually makes tap water taste worst awhile fi...   0.547962
+2   8  put brand new filter pitcher early evening yes...   0.519420
+3  26  first loved bought month week ago listened rev...   0.457615
+4   3  far five thing keeps five half slow filters ta...   0.422882
+5   5  n t buy less month use water pitcher either sm...   0.346874
+
+step 1
+index added: 27
+percentage unclustered: 85.7143%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [3, 7, 27]
+			old information: 247, gain: 0.9648198262355789
+
+   ind                                             review  relevance
+0  27  received started using family loves filter far...   0.561983
+1   7  complained filters last long enough believe so...   0.558382
+2  16  actually makes tap water taste worst awhile fi...   0.547962
+3   8  put brand new filter pitcher early evening yes...   0.519420
+4  26  first loved bought month week ago listened rev...   0.457615
+5   3  far five thing keeps five half slow filters ta...   0.422882
+6   5  n t buy less month use water pitcher either sm...   0.346874
+
+step 1
+index added: 28
+percentage unclustered: 85.7143%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 85.7143%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 93.3333%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [5, 12, 16, 21, 25, 30]
+			old information: 111, gain: 0.9093877551020408
+
+   ind                                             review  relevance
+0  27  received started using family loves filter far...   0.561983
+1   7  complained filters last long enough believe so...   0.558382
+2  16  actually makes tap water taste worst awhile fi...   0.547962
+3  30  bad experience filter system couple days ago h...   0.536729
+4   8  put brand new filter pitcher early evening yes...   0.519420
+5  26  first loved bought month week ago listened rev...   0.457615
+6   3  far five thing keeps five half slow filters ta...   0.422882
+7   5  n t buy less month use water pitcher either sm...   0.346874
+
+step 1
+index added: 31
+percentage unclustered: 90.4762%
+
+	step 2
+
+		step 3
+		candidate index: 31 with core nodes: [5, 15, 16, 21, 24, 25, 30, 31]
+			old information: 117, gain: 0.9419642857142857
+
+   ind                                             review  relevance
+0  27  received started using family loves filter far...   0.561983
+1   7  complained filters last long enough believe so...   0.558382
+2  16  actually makes tap water taste worst awhile fi...   0.547962
+3  30  bad experience filter system couple days ago h...   0.536729
+4   8  put brand new filter pitcher early evening yes...   0.519420
+5  26  first loved bought month week ago listened rev...   0.457615
+6   3  far five thing keeps five half slow filters ta...   0.422882
+7  31  thank prompt shipping zero technologies llc ze...   0.353500
+8   5  n t buy less month use water pitcher either sm...   0.346874
+
+step 1
+index added: 32
+percentage unclustered: 90.4762%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 87.619%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 87.619%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 84.7619%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [16, 21, 32, 35]
+			old information: 696, gain: 0.9616423257095619
+
+   ind                                             review  relevance
+0  35  experience zerowater filtration system confusi...   0.703320
+1  27  received started using family loves filter far...   0.561983
+2   7  complained filters last long enough believe so...   0.558382
+3  16  actually makes tap water taste worst awhile fi...   0.547962
+4  30  bad experience filter system couple days ago h...   0.536729
+5   8  put brand new filter pitcher early evening yes...   0.519420
+6  26  first loved bought month week ago listened rev...   0.457615
+7   3  far five thing keeps five half slow filters ta...   0.422882
+8  31  thank prompt shipping zero technologies llc ze...   0.353500
+9   5  n t buy less month use water pitcher either sm...   0.346874
+
+step 1
+index added: 36
+percentage unclustered: 82.8571%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [1, 21, 32, 35]
+			old information: 1655, gain: 0.964534447658845
+
+    ind                                             review  relevance
+0   35  experience zerowater filtration system confusi...   0.703320
+1   36  live southern california water tastes pretty b...   0.684581
+2   27  received started using family loves filter far...   0.561983
+3    7  complained filters last long enough believe so...   0.558382
+4   16  actually makes tap water taste worst awhile fi...   0.547962
+5   30  bad experience filter system couple days ago h...   0.536729
+6    8  put brand new filter pitcher early evening yes...   0.519420
+7   26  first loved bought month week ago listened rev...   0.457615
+8    3  far five thing keeps five half slow filters ta...   0.422882
+9   31  thank prompt shipping zero technologies llc ze...   0.353500
+10   5  n t buy less month use water pitcher either sm...   0.346874
+
+step 1
+index added: 37
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 78.0952%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 77.1429%
+
+	step 2
+
+		step 3
+		candidate index: 42 with core nodes: [1, 21, 32, 35]
+
+step 1
+index added: 43
+percentage unclustered: 77.1429%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 78.0952%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 77.1429%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 76.1905%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 74.28569999999999%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [0, 35, 43]
+
+step 1
+index added: 48
+percentage unclustered: 74.28569999999999%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 72.381%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 69.5238%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 68.5714%
+
+	step 2
+
+		step 3
+		candidate index: 52 with core nodes: [35, 40, 43, 52]
+			old information: 1645, gain: 0.9411785739826932
+
+    ind                                             review  relevance
+0   52  water tap usually gets reading tds meter 270 3...   0.789826
+1   35  experience zerowater filtration system confusi...   0.703320
+2   36  live southern california water tastes pretty b...   0.684581
+3   27  received started using family loves filter far...   0.561983
+4    7  complained filters last long enough believe so...   0.558382
+5   16  actually makes tap water taste worst awhile fi...   0.547962
+6   30  bad experience filter system couple days ago h...   0.536729
+7    8  put brand new filter pitcher early evening yes...   0.519420
+8   26  first loved bought month week ago listened rev...   0.457615
+9    3  far five thing keeps five half slow filters ta...   0.422882
+10  31  thank prompt shipping zero technologies llc ze...   0.353500
+11   5  n t buy less month use water pitcher either sm...   0.346874
+
+step 1
+index added: 53
+percentage unclustered: 68.5714%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 68.5714%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 68.5714%
+
+	step 2
+
+		step 3
+		candidate index: 55 with core nodes: [35, 40, 43, 52]
+
+step 1
+index added: 56
+percentage unclustered: 68.5714%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 67.619%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 68.5714%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 67.619%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 69.5238%
+
+	step 2
+
+		step 3
+		candidate index: 60 with core nodes: [35, 40, 43, 52]
+
+step 1
+index added: 61
+percentage unclustered: 63.8095%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 63.8095%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 63.8095%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 63.8095%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 63.8095%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 59.0476%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 58.0952%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 58.0952%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 58.0952%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 58.0952%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 63.8095%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 62.8571%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 62.8571%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 61.9048%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 60.9524%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 60.9524%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 59.0476%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 60.0%
+
+	step 2
+
+		step 3
+		candidate index: 81 with core nodes: [0, 43, 52, 81]
+			old information: 2735, gain: 0.9062103494393197
+
+    ind                                             review  relevance
+0   52  water tap usually gets reading tds meter 270 3...   0.789826
+1   81  bought zerowater pitcher watching many raving ...   0.727783
+2   35  experience zerowater filtration system confusi...   0.703320
+3   36  live southern california water tastes pretty b...   0.684581
+4   27  received started using family loves filter far...   0.561983
+5    7  complained filters last long enough believe so...   0.558382
+6   16  actually makes tap water taste worst awhile fi...   0.547962
+7   30  bad experience filter system couple days ago h...   0.536729
+8    8  put brand new filter pitcher early evening yes...   0.519420
+9   26  first loved bought month week ago listened rev...   0.457615
+10   3  far five thing keeps five half slow filters ta...   0.422882
+11  31  thank prompt shipping zero technologies llc ze...   0.353500
+12   5  n t buy less month use water pitcher either sm...   0.346874
+
+step 1
+index added: 82
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 59.0476%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 60.0%
+
+	step 2
+
+		step 3
+		candidate index: 87 with core nodes: [0, 43, 52, 81]
+
+step 1
+index added: 88
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 60.9524%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 60.9524%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 60.9524%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 60.9524%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 60.9524%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 60.9524%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 60.9524%
+
+	step 2
+
+		step 3
+		candidate index: 95 with core nodes: [36, 43, 52, 95]
+			old information: 2848, gain: 0.966032560081102
+
+    ind                                             review  relevance
+0   95  great filter neat device tds total disolved so...   0.795045
+1   52  water tap usually gets reading tds meter 270 3...   0.789826
+2   81  bought zerowater pitcher watching many raving ...   0.727783
+3   35  experience zerowater filtration system confusi...   0.703320
+4   36  live southern california water tastes pretty b...   0.684581
+5   27  received started using family loves filter far...   0.561983
+6    7  complained filters last long enough believe so...   0.558382
+7   16  actually makes tap water taste worst awhile fi...   0.547962
+8   30  bad experience filter system couple days ago h...   0.536729
+9    8  put brand new filter pitcher early evening yes...   0.519420
+10  26  first loved bought month week ago listened rev...   0.457615
+11   3  far five thing keeps five half slow filters ta...   0.422882
+12  31  thank prompt shipping zero technologies llc ze...   0.353500
+13   5  n t buy less month use water pitcher either sm...   0.346874
+
+step 1
+index added: 96
+percentage unclustered: 64.7619%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 64.7619%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 64.7619%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 63.8095%
+
+	step 2
+
+		step 3
+		candidate index: 99 with core nodes: [36, 43, 52, 95]
+
+step 1
+index added: 100
+percentage unclustered: 63.8095%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 63.8095%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 63.8095%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 63.8095%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 63.8095%
+
+	step 2
+
+--- 179.21666288375854 seconds ---
+
+
+ Unclustered percentages: [100.0, 97.1429, 97.1429, 96.1905, 96.1905, 95.2381, 94.2857, 94.2857, 93.3333, 93.3333, 92.381, 92.381, 91.4286, 91.4286, 90.4762, 89.5238, 89.5238, 88.5714, 88.5714, 89.5238, 88.5714, 88.5714, 88.5714, 88.5714, 86.6667, 85.7143, 85.7143, 85.7143, 93.3333, 90.4762, 90.4762, 87.619, 87.619, 84.7619, 82.8571, 82.8571, 82.8571, 82.8571, 82.8571, 78.0952, 77.1429, 77.1429, 78.0952, 77.1429, 76.1905, 74.28569999999999, 74.28569999999999, 73.33330000000001, 72.381, 69.5238, 68.5714, 68.5714, 68.5714, 68.5714, 68.5714, 67.619, 68.5714, 67.619, 69.5238, 63.8095, 63.8095, 63.8095, 63.8095, 63.8095, 59.0476, 58.0952, 58.0952, 58.0952, 58.0952, 63.8095, 62.8571, 62.8571, 61.9048, 60.9524, 60.9524, 60.0, 60.0, 60.0, 59.0476, 60.0, 60.0, 60.0, 60.0, 59.0476, 60.0, 60.0, 60.0, 60.9524, 60.9524, 60.9524, 60.9524, 60.9524, 60.9524, 60.9524, 64.7619, 64.7619, 64.7619, 63.8095, 63.8095, 63.8095, 63.8095, 63.8095, 63.8095], mean: 74.3412
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        10  95   0.795045  great filter neat device tds total disolved so...
+1        79  52   0.789826  water tap usually gets reading tds meter 270 3...
+2       101  81   0.727783  bought zerowater pitcher watching many raving ...
+3        69  35   0.703320  experience zerowater filtration system confusi...
+4        59  36   0.684581  live southern california water tastes pretty b...
+5        22  27   0.561983  received started using family loves filter far...
+6         9   7   0.558382  complained filters last long enough believe so...
+7        23  16   0.547962  actually makes tap water taste worst awhile fi...
+8        57  30   0.536729  bad experience filter system couple days ago h...
+9        42   8   0.519420  put brand new filter pitcher early evening yes...
+10       61  26   0.457615  first loved bought month week ago listened rev...
+11       44   3   0.422882  far five thing keeps five half slow filters ta...
+12       39  31   0.353500  thank prompt shipping zero technologies llc ze...
+13       37   5   0.346874  n t buy less month use water pitcher either sm...

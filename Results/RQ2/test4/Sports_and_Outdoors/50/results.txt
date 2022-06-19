@@ -1,0 +1,377 @@
+------- Category: Sports_and_Outdoors -------
+Found asin_id: B0007IS74G
+Shape:  (50, 7)
+
+Readability scores: [44.506176470588244, 19.343793103448306, -9.31714285714284, -7.903275862068952, 41.59800000000004, -158.58499999999998, 19.038000000000025, 27.59948051948055, -87.93499999999999, -56.821476510067086, 53.795609756097576, 69.78500000000003, -21.868536585365817, 55.2925806451613, 24.257173913043502, -202.00499999999994, 47.91323529411766, 22.644109589041108, -211.93398058252424, 49.343750000000014, -52.05651898734173, 55.030000000000015, -4.0758677685950175, 34.11857142857144, -44.64071428571427, 71.78157894736843, -5.408712871287108, -153.7624124513618, -1195.9259186864738, 33.482911392405086, -81.08840659340657, -49.50611111111107, -57.85285714285712, 54.89166666666669, -405.7381999999999, -139.9235714285714, -97.80780487804874, -6.927009345794374, 16.585180722891593, -95.06221674876844, -778.2713636363635, -127.93275109170303, -82.08499999999997, 8.04500000000003, -17.994409448818885, 95.02705882352943, 48.73409090909094, -43.17657894736837, 27.287500000000023, 37.18454545454548], on average: -64.7664
+Readability scores after: [44.506176470588244, 19.343793103448306, -9.31714285714284, -7.903275862068952, 41.59800000000004, -158.58499999999998, 19.038000000000025, 27.59948051948055, -87.93499999999999, -56.821476510067086, -21.868536585365817, 24.257173913043502, -202.00499999999994, 47.91323529411766, 22.644109589041108, -211.93398058252424, 49.343750000000014, -52.05651898734173, -4.0758677685950175, 34.11857142857144, -44.64071428571427, -5.408712871287108, -153.7624124513618, -1195.9259186864738, 33.482911392405086, -81.08840659340657, -49.50611111111107, -57.85285714285712, -405.7381999999999, -139.9235714285714, -97.80780487804874, -6.927009345794374, 16.585180722891593, -95.06221674876844, -778.2713636363635, -127.93275109170303, -82.08499999999997, 8.04500000000003, -17.994409448818885, 48.73409090909094, -43.17657894736837, 27.287500000000023, 37.18454545454548], on average after: -85.9052
+Shape after:  (43, 8)
+
+
+Chosen product: B0007IS74G has 50 reviews - False, it has 43 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 93.0233%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [4, 6, 9]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   9  ordered ab wheel add daily rotation exercises ...   0.203546
+
+step 1
+index added: 10
+percentage unclustered: 93.0233%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 93.0233%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 93.0233%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 93.0233%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 93.0233%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 90.6977%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [4, 6, 9, 15]
+			old information: 48, gain: 0.9963644626221313
+
+   ind                                             review  relevance
+0  15  love ab wheel quickly feel burn ve abslide use...   0.291662
+1   9  ordered ab wheel add daily rotation exercises ...   0.203546
+
+step 1
+index added: 16
+percentage unclustered: 90.6977%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 90.6977%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 90.6977%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 90.6977%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 90.6977%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 93.0233%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [6, 11, 21]
+			old information: 107, gain: 0.9415300546448088
+
+   ind                                             review  relevance
+0  21  fairly cheap construction 6 2 230lbs wheel sup...   0.443111
+1  15  love ab wheel quickly feel burn ve abslide use...   0.291662
+2   9  ordered ab wheel add daily rotation exercises ...   0.203546
+
+step 1
+index added: 22
+percentage unclustered: 93.0233%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 93.0233%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 83.7209%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [5, 15, 21, 24]
+			old information: 132, gain: 0.8604651162790697
+
+   ind                                             review  relevance
+0  21  fairly cheap construction 6 2 230lbs wheel sup...   0.443111
+1  24  wheel really give good workout works different...   0.404970
+2  15  love ab wheel quickly feel burn ve abslide use...   0.291662
+3   9  ordered ab wheel add daily rotation exercises ...   0.203546
+
+step 1
+index added: 25
+percentage unclustered: 83.7209%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 76.7442%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [5, 15, 24]
+			old information: 177, gain: 0.932648401826484
+
+   ind                                             review  relevance
+0  21  fairly cheap construction 6 2 230lbs wheel sup...   0.443111
+1  24  wheel really give good workout works different...   0.404970
+2  26  first little worried buying reading reviews bo...   0.335736
+3  15  love ab wheel quickly feel burn ve abslide use...   0.291662
+4   9  ordered ab wheel add daily rotation exercises ...   0.203546
+
+step 1
+index added: 27
+percentage unclustered: 74.4186%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [1, 5, 15, 21, 24, 27]
+			old information: 199, gain: 0.9544726607183711
+
+   ind                                             review  relevance
+0  21  fairly cheap construction 6 2 230lbs wheel sup...   0.443111
+1  24  wheel really give good workout works different...   0.404970
+2  27  product cheap easy way get great core workout ...   0.374833
+3  26  first little worried buying reading reviews bo...   0.335736
+4  15  love ab wheel quickly feel burn ve abslide use...   0.291662
+5   9  ordered ab wheel add daily rotation exercises ...   0.203546
+
+step 1
+index added: 28
+percentage unclustered: 72.093%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [1, 5, 15, 21, 24, 28]
+			old information: 805, gain: 0.9760914760914761
+
+   ind                                             review  relevance
+0  28  first read review complaining grip difficult a...   0.531054
+1  21  fairly cheap construction 6 2 230lbs wheel sup...   0.443111
+2  24  wheel really give good workout works different...   0.404970
+3  27  product cheap easy way get great core workout ...   0.374833
+4  26  first little worried buying reading reviews bo...   0.335736
+5  15  love ab wheel quickly feel burn ve abslide use...   0.291662
+6   9  ordered ab wheel add daily rotation exercises ...   0.203546
+
+step 1
+index added: 29
+percentage unclustered: 62.7907%
+
+	step 2
+
+		step 3
+		candidate index: 29 with core nodes: [5, 22, 24, 28, 29]
+			old information: 465, gain: 0.9326379834854411
+
+   ind                                             review  relevance
+0  28  first read review complaining grip difficult a...   0.531054
+1  29  first thought work zip back forth ease well th...   0.465701
+2  21  fairly cheap construction 6 2 230lbs wheel sup...   0.443111
+3  24  wheel really give good workout works different...   0.404970
+4  27  product cheap easy way get great core workout ...   0.374833
+5  26  first little worried buying reading reviews bo...   0.335736
+6  15  love ab wheel quickly feel burn ve abslide use...   0.291662
+7   9  ordered ab wheel add daily rotation exercises ...   0.203546
+
+step 1
+index added: 30
+percentage unclustered: 60.4651%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [5, 22, 24, 28, 29]
+
+step 1
+index added: 31
+percentage unclustered: 60.4651%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 55.814%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [5, 22, 24, 28, 29]
+
+step 1
+index added: 33
+percentage unclustered: 55.814%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 55.814%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 53.4884%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 51.1628%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [5, 24, 28, 29, 33, 36]
+			old information: 390, gain: 0.9179465600673259
+
+   ind                                             review  relevance
+0  28  first read review complaining grip difficult a...   0.531054
+1  36  someone told torso track ii went looking could...   0.496204
+2  29  first thought work zip back forth ease well th...   0.465701
+3  21  fairly cheap construction 6 2 230lbs wheel sup...   0.443111
+4  24  wheel really give good workout works different...   0.404970
+5  27  product cheap easy way get great core workout ...   0.374833
+6  26  first little worried buying reading reviews bo...   0.335736
+7  15  love ab wheel quickly feel burn ve abslide use...   0.291662
+8   9  ordered ab wheel add daily rotation exercises ...   0.203546
+
+step 1
+index added: 37
+percentage unclustered: 51.1628%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 48.8372%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [5, 24, 28, 29, 33, 36]
+
+step 1
+index added: 39
+percentage unclustered: 60.4651%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 60.4651%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 60.4651%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 48.8372%
+
+	step 2
+
+		step 3
+		candidate index: 42 with core nodes: [22, 28, 29, 36]
+
+		step 3
+		candidate index: 42 with core nodes: [5, 28, 29, 36]
+
+		step 3
+		candidate index: 42 with core nodes: [5, 22, 28, 29]
+
+--- 15.685356140136719 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 93.0233, 93.0233, 93.0233, 93.0233, 93.0233, 93.0233, 90.6977, 90.6977, 90.6977, 90.6977, 90.6977, 90.6977, 93.0233, 93.0233, 93.0233, 83.7209, 83.7209, 76.7442, 74.4186, 72.093, 62.7907, 60.4651, 60.4651, 55.814, 55.814, 55.814, 53.4884, 51.1628, 51.1628, 48.8372, 60.4651, 60.4651, 60.4651, 48.8372], mean: 79.4668
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0       42  28   0.531054  first read review complaining grip difficult a...
+1       30  36   0.496204  someone told torso track ii went looking could...
+2       15  29   0.465701  first thought work zip back forth ease well th...
+3       36  21   0.443111  fairly cheap construction 6 2 230lbs wheel sup...
+4       41  24   0.404970  wheel really give good workout works different...
+5       33  27   0.374833  product cheap easy way get great core workout ...
+6       25  26   0.335736  first little worried buying reading reviews bo...
+7       28  15   0.291662  love ab wheel quickly feel burn ve abslide use...
+8        7   9   0.203546  ordered ab wheel add daily rotation exercises ...
