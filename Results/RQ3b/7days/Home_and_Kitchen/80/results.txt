@@ -1,0 +1,731 @@
+------- Category: Home_and_Kitchen -------
+Found asin_id: B009I2AL8W
+Shape:  (80, 7)
+
+
+Chosen product: B009I2AL8W has 80 reviews - True, it has 80 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 96.25%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [3, 8, 10]
+		The relevance model has size: 2
+		1 reviews removed from the relevance model, indices: [3]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  10  desk really tiny adult work side compartments ...   0.121395
+
+step 1
+index added: 11
+percentage unclustered: 95.0%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [3, 8, 10, 11]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [3, 8]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+step 1
+index added: 12
+percentage unclustered: 93.75%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [3, 8, 10, 11, 12]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [3, 10]. 
+		It now has size: 2
+			old information: 7, gain: 0.9949201741654572
+
+   ind                                             review  relevance
+0  12  seeing pics desk apple imacs decided purchase ...   0.139960
+1  10  desk really tiny adult work side compartments ...   0.121395
+
+step 1
+index added: 13
+percentage unclustered: 91.25%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [3, 10, 12, 13]
+		The relevance model has size: 5
+		2 reviews removed from the relevance model, indices: [3, 11]. 
+		It now has size: 3
+			old information: 16, gain: 0.9632183908045977
+
+   ind                                             review  relevance
+0  13  best desk ever s sturdy put husband put togeth...   0.309536
+1  12  seeing pics desk apple imacs decided purchase ...   0.139960
+2  10  desk really tiny adult work side compartments ...   0.121395
+
+step 1
+index added: 14
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 91.25%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [6, 9, 13, 14]
+
+step 1
+index added: 18
+percentage unclustered: 91.25%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 91.25%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 91.25%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 91.25%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 87.5%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [6, 8, 9, 13, 14, 17, 19, 22]
+		The relevance model has size: 9
+		5 reviews removed from the relevance model, indices: [6, 8, 10, 14, 19]. 
+		It now has size: 4
+			old information: 2, gain: 0.9047619047619048
+
+   ind                                             review  relevance
+0  13  best desk ever s sturdy put husband put togeth...   0.309536
+1  12  seeing pics desk apple imacs decided purchase ...   0.139960
+2  10  desk really tiny adult work side compartments ...   0.121395
+3  22        great quality easy build cool together wall   0.107990
+
+step 1
+index added: 23
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 86.25%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [6, 8, 9, 13, 14, 17, 19, 22, 27]
+		The relevance model has size: 9
+		5 reviews removed from the relevance model, indices: [8, 9, 12, 19, 22]. 
+		It now has size: 4
+			old information: 26, gain: 0.9759481961147086
+
+   ind                                             review  relevance
+0  13  best desk ever s sturdy put husband put togeth...   0.309536
+1  27  small bedroom teen worked perfectly took bit p...   0.176473
+2  12  seeing pics desk apple imacs decided purchase ...   0.139960
+3  10  desk really tiny adult work side compartments ...   0.121395
+4  22        great quality easy build cool together wall   0.107990
+
+step 1
+index added: 28
+percentage unclustered: 82.5%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [9, 10, 12, 14, 28]
+		The relevance model has size: 8
+		4 reviews removed from the relevance model, indices: [6, 10, 13, 27]. 
+		It now has size: 4
+			old information: 53, gain: 0.9384436701509872
+
+   ind                                             review  relevance
+0  13  best desk ever s sturdy put husband put togeth...   0.309536
+1  28  desk easy install looks great love saves lot s...   0.295066
+2  27  small bedroom teen worked perfectly took bit p...   0.176473
+3  12  seeing pics desk apple imacs decided purchase ...   0.139960
+4  10  desk really tiny adult work side compartments ...   0.121395
+5  22        great quality easy build cool together wall   0.107990
+
+step 1
+index added: 29
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 81.25%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [9, 10, 12, 14, 28]
+
+step 1
+index added: 31
+percentage unclustered: 81.25%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [9, 10, 12, 14, 28]
+
+step 1
+index added: 33
+percentage unclustered: 81.25%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 81.25%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 76.25%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [9, 12, 14]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [9, 17, 28]. 
+		It now has size: 2
+			old information: 99, gain: 0.9401088929219601
+
+   ind                                             review  relevance
+0  13  best desk ever s sturdy put husband put togeth...   0.309536
+1  38  pleased desk pieces labeled difficult identify...   0.299367
+2  28  desk easy install looks great love saves lot s...   0.295066
+3  27  small bedroom teen worked perfectly took bit p...   0.176473
+4  12  seeing pics desk apple imacs decided purchase ...   0.139960
+5  10  desk really tiny adult work side compartments ...   0.121395
+6  22        great quality easy build cool together wall   0.107990
+
+step 1
+index added: 39
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 73.75%
+
+	step 2
+
+		step 3
+		candidate index: 40 with core nodes: [9, 10, 12, 13, 28, 40]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [10, 14, 28, 38]. 
+		It now has size: 3
+			old information: 30, gain: 0.981203007518797
+
+   ind                                             review  relevance
+0  40  really like desk opens floor underneath desk m...   0.370869
+1  13  best desk ever s sturdy put husband put togeth...   0.309536
+2  38  pleased desk pieces labeled difficult identify...   0.299367
+3  28  desk easy install looks great love saves lot s...   0.295066
+4  27  small bedroom teen worked perfectly took bit p...   0.176473
+5  12  seeing pics desk apple imacs decided purchase ...   0.139960
+6  10  desk really tiny adult work side compartments ...   0.121395
+7  22        great quality easy build cool together wall   0.107990
+
+step 1
+index added: 41
+percentage unclustered: 72.5%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [9, 10, 12, 13, 28, 40, 41]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [10, 12, 13]. 
+		It now has size: 3
+			old information: 83, gain: 0.8879892037786775
+
+   ind                                             review  relevance
+0  40  really like desk opens floor underneath desk m...   0.370869
+1  13  best desk ever s sturdy put husband put togeth...   0.309536
+2  38  pleased desk pieces labeled difficult identify...   0.299367
+3  28  desk easy install looks great love saves lot s...   0.295066
+4  41  like desk takes much less room old one get eas...   0.278829
+5  27  small bedroom teen worked perfectly took bit p...   0.176473
+6  12  seeing pics desk apple imacs decided purchase ...   0.139960
+7  10  desk really tiny adult work side compartments ...   0.121395
+8  22        great quality easy build cool together wall   0.107990
+
+step 1
+index added: 42
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 68.75%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 67.5%
+
+	step 2
+
+		step 3
+		candidate index: 44 with core nodes: [12, 13, 40, 41, 44]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [9, 12, 28]. 
+		It now has size: 3
+			old information: 265, gain: 0.9523809523809523
+
+   ind                                             review  relevance
+0  44  lot researching finally deciding buying desk r...   0.452336
+1  40  really like desk opens floor underneath desk m...   0.370869
+2  13  best desk ever s sturdy put husband put togeth...   0.309536
+3  38  pleased desk pieces labeled difficult identify...   0.299367
+4  28  desk easy install looks great love saves lot s...   0.295066
+5  41  like desk takes much less room old one get eas...   0.278829
+6  27  small bedroom teen worked perfectly took bit p...   0.176473
+7  12  seeing pics desk apple imacs decided purchase ...   0.139960
+8  10  desk really tiny adult work side compartments ...   0.121395
+9  22        great quality easy build cool together wall   0.107990
+
+step 1
+index added: 45
+percentage unclustered: 66.25%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [12, 13, 40, 41, 44]
+
+step 1
+index added: 46
+percentage unclustered: 62.5%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 61.25%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 60.0%
+
+	step 2
+
+		step 3
+		candidate index: 48 with core nodes: [43, 46, 48]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [13, 40, 43]. 
+		It now has size: 3
+			old information: 311, gain: 0.9755503144654089
+
+    ind                                             review  relevance
+0   44  lot researching finally deciding buying desk r...   0.452336
+1   40  really like desk opens floor underneath desk m...   0.370869
+2   13  best desk ever s sturdy put husband put togeth...   0.309536
+3   38  pleased desk pieces labeled difficult identify...   0.299367
+4   28  desk easy install looks great love saves lot s...   0.295066
+5   41  like desk takes much less room old one get eas...   0.278829
+6   48  alright everyone s deal wife live condo needed...   0.212882
+7   27  small bedroom teen worked perfectly took bit p...   0.176473
+8   12  seeing pics desk apple imacs decided purchase ...   0.139960
+9   10  desk really tiny adult work side compartments ...   0.121395
+10  22        great quality easy build cool together wall   0.107990
+
+step 1
+index added: 49
+percentage unclustered: 58.75%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [38, 45, 49]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [38, 41, 46]. 
+		It now has size: 3
+			old information: 1070, gain: 0.9718050065876153
+
+    ind                                             review  relevance
+0   44  lot researching finally deciding buying desk r...   0.452336
+1   49  solid wall desk sizing newer thinner 2012 27 i...   0.392458
+2   40  really like desk opens floor underneath desk m...   0.370869
+3   13  best desk ever s sturdy put husband put togeth...   0.309536
+4   38  pleased desk pieces labeled difficult identify...   0.299367
+5   28  desk easy install looks great love saves lot s...   0.295066
+6   41  like desk takes much less room old one get eas...   0.278829
+7   48  alright everyone s deal wife live condo needed...   0.212882
+8   27  small bedroom teen worked perfectly took bit p...   0.176473
+9   12  seeing pics desk apple imacs decided purchase ...   0.139960
+10  10  desk really tiny adult work side compartments ...   0.121395
+11  22        great quality easy build cool together wall   0.107990
+
+step 1
+index added: 50
+percentage unclustered: 57.5%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 57.5%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 55.0%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 55.0%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 55.0%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 53.75%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 52.5%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 51.25%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 50.0%
+
+	step 2
+
+		step 3
+		candidate index: 58 with core nodes: [12, 44, 58]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [12, 44, 45]. 
+		It now has size: 2
+			old information: 331, gain: 0.9447873227689741
+
+    ind                                             review  relevance
+0   44  lot researching finally deciding buying desk r...   0.452336
+1   49  solid wall desk sizing newer thinner 2012 27 i...   0.392458
+2   40  really like desk opens floor underneath desk m...   0.370869
+3   58  hope review help make informed choice comes co...   0.365462
+4   13  best desk ever s sturdy put husband put togeth...   0.309536
+5   38  pleased desk pieces labeled difficult identify...   0.299367
+6   28  desk easy install looks great love saves lot s...   0.295066
+7   41  like desk takes much less room old one get eas...   0.278829
+8   48  alright everyone s deal wife live condo needed...   0.212882
+9   27  small bedroom teen worked perfectly took bit p...   0.176473
+10  12  seeing pics desk apple imacs decided purchase ...   0.139960
+11  10  desk really tiny adult work side compartments ...   0.121395
+12  22        great quality easy build cool together wall   0.107990
+
+step 1
+index added: 59
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 46.25%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 45.0%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 45.0%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 45.0%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 43.75%
+
+	step 2
+
+		step 3
+		candidate index: 68 with core nodes: [1, 52, 58]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [48, 52, 58]. 
+		It now has size: 2
+			old information: 556, gain: 0.9105534105534105
+
+    ind                                             review  relevance
+0   68  desk pretty fabulous take little get even thou...   0.485634
+1   44  lot researching finally deciding buying desk r...   0.452336
+2   49  solid wall desk sizing newer thinner 2012 27 i...   0.392458
+3   40  really like desk opens floor underneath desk m...   0.370869
+4   58  hope review help make informed choice comes co...   0.365462
+5   13  best desk ever s sturdy put husband put togeth...   0.309536
+6   38  pleased desk pieces labeled difficult identify...   0.299367
+7   28  desk easy install looks great love saves lot s...   0.295066
+8   41  like desk takes much less room old one get eas...   0.278829
+9   48  alright everyone s deal wife live condo needed...   0.212882
+10  27  small bedroom teen worked perfectly took bit p...   0.176473
+11  12  seeing pics desk apple imacs decided purchase ...   0.139960
+12  10  desk really tiny adult work side compartments ...   0.121395
+13  22        great quality easy build cool together wall   0.107990
+
+step 1
+index added: 69
+percentage unclustered: 42.5%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 42.5%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 42.5%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 41.25%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 41.25%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 41.25%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 40.0%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 40.0%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 35.0%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 35.0%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 36.25%
+
+	step 2
+
+--- 28.952227354049683 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 96.25, 95.0, 93.75, 91.25, 96.25, 96.25, 96.25, 91.25, 91.25, 91.25, 91.25, 91.25, 87.5, 87.5, 87.5, 87.5, 87.5, 86.25, 82.5, 82.5, 81.25, 81.25, 80.0, 81.25, 81.25, 77.5, 77.5, 77.5, 76.25, 75.0, 73.75, 72.5, 72.5, 68.75, 67.5, 66.25, 62.5, 61.25, 60.0, 58.75, 57.5, 57.5, 55.0, 55.0, 55.0, 53.75, 52.5, 51.25, 50.0, 50.0, 50.0, 50.0, 50.0, 50.0, 46.25, 45.0, 45.0, 45.0, 43.75, 42.5, 42.5, 42.5, 41.25, 41.25, 41.25, 40.0, 40.0, 35.0, 35.0, 36.25], mean: 70.0321
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        41  68   0.485634  desk pretty fabulous take little get even thou...
+1        11  44   0.452336  lot researching finally deciding buying desk r...
+2        16  49   0.392458  solid wall desk sizing newer thinner 2012 27 i...
+3        10  40   0.370869  really like desk opens floor underneath desk m...
+4         9  58   0.365462  hope review help make informed choice comes co...
+5        34  13   0.309536  best desk ever s sturdy put husband put togeth...
+6        30  38   0.299367  pleased desk pieces labeled difficult identify...
+7        33  28   0.295066  desk easy install looks great love saves lot s...
+8        76  41   0.278829  like desk takes much less room old one get eas...
+9        59  48   0.212882  alright everyone s deal wife live condo needed...
+10       57  27   0.176473  small bedroom teen worked perfectly took bit p...
+11        4  12   0.139960  seeing pics desk apple imacs decided purchase ...
+12       45  10   0.121395  desk really tiny adult work side compartments ...
+13       68  22   0.107990        great quality easy build cool together wall

@@ -1,0 +1,170 @@
+------- Category: Home_and_Kitchen -------
+Found asin_id: B00004OCNR
+Shape:  (20, 7)
+
+
+Chosen product: B00004OCNR has 20 reviews - True, it has 20 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [2, 3, 7, 8]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [2, 7]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   8  title kind says typical oxo grip nice s best m...        0.0
+
+step 1
+index added: 9
+percentage unclustered: 75.0%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [2, 3, 7, 9]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [2, 3]. 
+		It now has size: 2
+			old information: 6, gain: 0.9993366500829187
+
+   ind                                             review  relevance
+0   9  favorite whisk truly well made making custard ...   0.335032
+1   8  title kind says typical oxo grip nice s best m...   0.000000
+
+step 1
+index added: 10
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [3, 7, 9, 10]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [8, 9]. 
+		It now has size: 2
+			old information: 110, gain: 0.9835082458770614
+
+   ind                                             review  relevance
+0   9  favorite whisk truly well made making custard ...   0.335032
+1  10  bought whisk old one finally broke 2 wires pop...   0.297177
+2   8  title kind says typical oxo grip nice s best m...   0.000000
+
+step 1
+index added: 11
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 55.0%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [4, 9, 10]
+
+step 1
+index added: 14
+percentage unclustered: 60.0%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [4, 9, 10, 14]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [7, 9, 10]. 
+		It now has size: 2
+			old information: 40, gain: 0.9431009957325747
+
+   ind                                             review  relevance
+0  14  9 whisk well made nice handle note big one big...   0.403846
+1   9  favorite whisk truly well made making custard ...   0.335032
+2  10  bought whisk old one finally broke 2 wires pop...   0.297177
+3   8  title kind says typical oxo grip nice s best m...   0.000000
+
+step 1
+index added: 15
+percentage unclustered: 45.0%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [4, 9, 10, 14]
+
+step 1
+index added: 16
+percentage unclustered: 40.0%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [4, 9, 10, 14]
+
+step 1
+index added: 17
+percentage unclustered: 40.0%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 35.0%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 30.0%
+
+	step 2
+
+--- 0.8722720146179199 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 80.0, 75.0, 70.0, 70.0, 70.0, 55.0, 60.0, 45.0, 40.0, 40.0, 35.0, 30.0], mean: 70.5556
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0        9  14   0.403846  9 whisk well made nice handle note big one big...
+1        3   9   0.335032  favorite whisk truly well made making custard ...
+2       13  10   0.297177  bought whisk old one finally broke 2 wires pop...
+3       19   8   0.000000  title kind says typical oxo grip nice s best m...
