@@ -1,0 +1,207 @@
+------- Category: Office_Products -------
+Found asin_id: B00006B8HT
+Shape:  (30, 7)
+
+
+Chosen product: B00006B8HT has 30 reviews - True, it has 30 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 4
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 5
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 6
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [0, 2, 3, 17]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [0, 3]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  17  purchased product expectation rather large per...     0.2395
+
+step 1
+index added: 18
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [3, 11, 20]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [2, 3]. 
+		It now has size: 2
+			old information: 21, gain: 0.97165991902834
+
+   ind                                             review  relevance
+0  20  could n t find dimensions little arms hold boo...    0.28768
+1  17  purchased product expectation rather large per...    0.23950
+
+step 1
+index added: 21
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 63.3333%
+
+	step 2
+
+		step 3
+		candidate index: 23 with core nodes: [3, 7, 20]
+
+step 1
+index added: 24
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+--- 1.1268937587738037 seconds ---
+
+
+ Unclustered percentages: [100.0, 90.0, 90.0, 90.0, 86.6667, 86.6667, 86.6667, 86.6667, 86.6667, 86.6667, 86.6667, 86.6667, 86.6667, 86.6667, 86.6667, 83.33330000000001, 83.33330000000001, 83.33330000000001, 70.0, 70.0, 70.0, 63.3333, 66.66669999999999, 66.66669999999999, 66.66669999999999, 66.66669999999999, 66.66669999999999, 66.66669999999999], mean: 80.2381
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0       13  20    0.28768  could n t find dimensions little arms hold boo...
+1        2  17    0.23950  purchased product expectation rather large per...

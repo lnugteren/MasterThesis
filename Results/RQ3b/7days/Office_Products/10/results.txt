@@ -1,0 +1,60 @@
+------- Category: Office_Products -------
+Found asin_id: 0310823706
+Shape:  (10, 7)
+
+
+Chosen product: 0310823706 has 10 reviews - True, it has 10 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 60.0%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [2, 5, 6, 9]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [2, 6]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   9  looking bible cover niv archaeological study b...    0.26029
+
+--- 0.07817196846008301 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 60.0], mean: 95.0
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0        5   9    0.26029  looking bible cover niv archaeological study b...

@@ -1,0 +1,1031 @@
+------- Category: Office_Products -------
+Found asin_id: B000VG4AY0
+Shape:  (110, 7)
+
+
+Chosen product: B000VG4AY0 has 110 reviews - True, it has 110 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 97.2727%
+
+	step 2
+
+		step 3
+		candidate index: 2 with core nodes: [0, 1, 2]
+		The relevance model has size: 2
+		1 reviews removed from the relevance model, indices: [0]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   2  scanner would work windows 7 contacted epson h...   0.128781
+
+step 1
+index added: 3
+percentage unclustered: 97.2727%
+
+	step 2
+
+step 1
+index added: 4
+percentage unclustered: 97.2727%
+
+	step 2
+
+step 1
+index added: 5
+percentage unclustered: 97.2727%
+
+	step 2
+
+step 1
+index added: 6
+percentage unclustered: 97.2727%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 97.2727%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 97.2727%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 97.2727%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 97.2727%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 96.3636%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [0, 1, 2, 11]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [0, 1]. 
+		It now has size: 1
+			old information: 22, gain: 0.9996879432624114
+
+   ind                                             review  relevance
+0  11  following comments written scanned 3000 photos...   0.163120
+1   2  scanner would work windows 7 contacted epson h...   0.128781
+
+step 1
+index added: 12
+percentage unclustered: 95.4545%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [1, 2, 11, 12]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [1, 2]. 
+		It now has size: 1
+			old information: 62, gain: 0.9879635022325762
+
+   ind                                             review  relevance
+0  12  epson scanner software work mac osx lion photo...   0.192579
+1  11  following comments written scanned 3000 photos...   0.163120
+2   2  scanner would work windows 7 contacted epson h...   0.128781
+
+step 1
+index added: 13
+percentage unclustered: 95.4545%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 94.5455%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [0, 1, 11, 14]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [0, 11]. 
+		It now has size: 2
+			old information: 766, gain: 0.9817205584059181
+
+   ind                                             review  relevance
+0  14  personally love film restoration love watching...   0.326744
+1  12  epson scanner software work mac osx lion photo...   0.192579
+2  11  following comments written scanned 3000 photos...   0.163120
+3   2  scanner would work windows 7 contacted epson h...   0.128781
+
+step 1
+index added: 15
+percentage unclustered: 94.5455%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 94.5455%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 93.6364%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [1, 11, 14, 17]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [12, 14]. 
+		It now has size: 2
+			old information: 1110, gain: 0.9489326463010673
+
+   ind                                             review  relevance
+0  17  still shoot film need scanner great job scanni...   0.397143
+1  14  personally love film restoration love watching...   0.326744
+2  12  epson scanner software work mac osx lion photo...   0.192579
+3  11  following comments written scanned 3000 photos...   0.163120
+4   2  scanner would work windows 7 contacted epson h...   0.128781
+
+step 1
+index added: 18
+percentage unclustered: 93.6364%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [1, 11, 14, 17]
+
+step 1
+index added: 19
+percentage unclustered: 93.6364%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 92.7273%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [1, 11, 14, 17]
+
+step 1
+index added: 21
+percentage unclustered: 91.8182%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [11, 14, 17, 21]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [1, 17]. 
+		It now has size: 2
+			old information: 197, gain: 0.9135206321334504
+
+   ind                                             review  relevance
+0  17  still shoot film need scanner great job scanni...   0.397143
+1  21  initially thrilled scanner scanning 100s old p...   0.342986
+2  14  personally love film restoration love watching...   0.326744
+3  12  epson scanner software work mac osx lion photo...   0.192579
+4  11  following comments written scanned 3000 photos...   0.163120
+5   2  scanner would work windows 7 contacted epson h...   0.128781
+
+step 1
+index added: 22
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 92.7273%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 91.8182%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [11, 14, 21]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [11, 21]. 
+		It now has size: 1
+			old information: 314, gain: 0.8579828132066938
+
+   ind                                             review  relevance
+0  17  still shoot film need scanner great job scanni...   0.397143
+1  21  initially thrilled scanner scanning 100s old p...   0.342986
+2  14  personally love film restoration love watching...   0.326744
+3  24  ve bad experiences scanners past one worked ri...   0.229515
+4  12  epson scanner software work mac osx lion photo...   0.192579
+5  11  following comments written scanned 3000 photos...   0.163120
+6   2  scanner would work windows 7 contacted epson h...   0.128781
+
+step 1
+index added: 25
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 95.4545%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [0, 1, 20, 24, 26]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [0, 14, 20]. 
+		It now has size: 2
+			old information: 754, gain: 0.9751818570817287
+
+   ind                                             review  relevance
+0  17  still shoot film need scanner great job scanni...   0.397143
+1  21  initially thrilled scanner scanning 100s old p...   0.342986
+2  14  personally love film restoration love watching...   0.326744
+3  24  ve bad experiences scanners past one worked ri...   0.229515
+4  26  purchased scanner epson store specifically sca...   0.227058
+5  12  epson scanner software work mac osx lion photo...   0.192579
+6  11  following comments written scanned 3000 photos...   0.163120
+7   2  scanner would work windows 7 contacted epson h...   0.128781
+
+step 1
+index added: 27
+percentage unclustered: 95.4545%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 95.4545%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 94.5455%
+
+	step 2
+
+		step 3
+		candidate index: 29 with core nodes: [0, 1, 20, 24, 26, 29]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [20, 24, 26]. 
+		It now has size: 2
+			old information: 1350, gain: 0.8706896551724138
+
+   ind                                             review  relevance
+0  17  still shoot film need scanner great job scanni...   0.397143
+1  21  initially thrilled scanner scanning 100s old p...   0.342986
+2  14  personally love film restoration love watching...   0.326744
+3  29  scanner markets great value relatively high qu...   0.319457
+4  24  ve bad experiences scanners past one worked ri...   0.229515
+5  26  purchased scanner epson store specifically sca...   0.227058
+6  12  epson scanner software work mac osx lion photo...   0.192579
+7  11  following comments written scanned 3000 photos...   0.163120
+8   2  scanner would work windows 7 contacted epson h...   0.128781
+
+step 1
+index added: 30
+percentage unclustered: 93.6364%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [26, 29, 30]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [1, 29]. 
+		It now has size: 2
+			old information: 1387, gain: 0.8594731509625126
+
+   ind                                             review  relevance
+0  17  still shoot film need scanner great job scanni...   0.397143
+1  21  initially thrilled scanner scanning 100s old p...   0.342986
+2  30  looked many reviews buying n t anything say ot...   0.331117
+3  14  personally love film restoration love watching...   0.326744
+4  29  scanner markets great value relatively high qu...   0.319457
+5  24  ve bad experiences scanners past one worked ri...   0.229515
+6  26  purchased scanner epson store specifically sca...   0.227058
+7  12  epson scanner software work mac osx lion photo...   0.192579
+8  11  following comments written scanned 3000 photos...   0.163120
+9   2  scanner would work windows 7 contacted epson h...   0.128781
+
+step 1
+index added: 31
+percentage unclustered: 93.6364%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 93.6364%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 93.6364%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 90.9091%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [26, 27, 29, 30, 34]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [0, 29, 30]. 
+		It now has size: 2
+			old information: 987, gain: 0.8955887019993652
+
+    ind                                             review  relevance
+0   17  still shoot film need scanner great job scanni...   0.397143
+1   34  m mac user pc ca n t vouch technical stuff men...   0.346926
+2   21  initially thrilled scanner scanning 100s old p...   0.342986
+3   30  looked many reviews buying n t anything say ot...   0.331117
+4   14  personally love film restoration love watching...   0.326744
+5   29  scanner markets great value relatively high qu...   0.319457
+6   24  ve bad experiences scanners past one worked ri...   0.229515
+7   26  purchased scanner epson store specifically sca...   0.227058
+8   12  epson scanner software work mac osx lion photo...   0.192579
+9   11  following comments written scanned 3000 photos...   0.163120
+10   2  scanner would work windows 7 contacted epson h...   0.128781
+
+step 1
+index added: 35
+percentage unclustered: 91.8182%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [26, 27, 30, 34]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [26, 34]. 
+		It now has size: 2
+			old information: 657, gain: 0.8069350573023802
+
+    ind                                             review  relevance
+0   17  still shoot film need scanner great job scanni...   0.397143
+1   34  m mac user pc ca n t vouch technical stuff men...   0.346926
+2   21  initially thrilled scanner scanning 100s old p...   0.342986
+3   30  looked many reviews buying n t anything say ot...   0.331117
+4   14  personally love film restoration love watching...   0.326744
+5   29  scanner markets great value relatively high qu...   0.319457
+6   35  one month light use m happy scanner kodachrome...   0.294689
+7   24  ve bad experiences scanners past one worked ri...   0.229515
+8   26  purchased scanner epson store specifically sca...   0.227058
+9   12  epson scanner software work mac osx lion photo...   0.192579
+10  11  following comments written scanned 3000 photos...   0.163120
+11   2  scanner would work windows 7 contacted epson h...   0.128781
+
+step 1
+index added: 36
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 90.9091%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [26, 27, 30, 34]
+
+step 1
+index added: 38
+percentage unclustered: 90.9091%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 89.0909%
+
+	step 2
+
+		step 3
+		candidate index: 39 with core nodes: [26, 27, 30, 34]
+
+step 1
+index added: 40
+percentage unclustered: 88.1818%
+
+	step 2
+
+		step 3
+		candidate index: 40 with core nodes: [26, 27, 34, 40]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [27, 34, 35]. 
+		It now has size: 2
+			old information: 3517, gain: 0.9302224073963852
+
+    ind                                             review  relevance
+0   40  data hook product link linked class a link nor...   0.460313
+1   17  still shoot film need scanner great job scanni...   0.397143
+2   34  m mac user pc ca n t vouch technical stuff men...   0.346926
+3   21  initially thrilled scanner scanning 100s old p...   0.342986
+4   30  looked many reviews buying n t anything say ot...   0.331117
+5   14  personally love film restoration love watching...   0.326744
+6   29  scanner markets great value relatively high qu...   0.319457
+7   35  one month light use m happy scanner kodachrome...   0.294689
+8   24  ve bad experiences scanners past one worked ri...   0.229515
+9   26  purchased scanner epson store specifically sca...   0.227058
+10  12  epson scanner software work mac osx lion photo...   0.192579
+11  11  following comments written scanned 3000 photos...   0.163120
+12   2  scanner would work windows 7 contacted epson h...   0.128781
+
+step 1
+index added: 41
+percentage unclustered: 88.1818%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 87.2727%
+
+	step 2
+
+		step 3
+		candidate index: 42 with core nodes: [26, 27, 34, 40]
+
+step 1
+index added: 43
+percentage unclustered: 85.4545%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [11, 34, 40, 43]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [30, 34, 40]. 
+		It now has size: 2
+			old information: 1002, gain: 0.8875547076646841
+
+    ind                                             review  relevance
+0   40  data hook product link linked class a link nor...   0.460313
+1   17  still shoot film need scanner great job scanni...   0.397143
+2   43  ordered friend hundreds thousands pictures s t...   0.378945
+3   34  m mac user pc ca n t vouch technical stuff men...   0.346926
+4   21  initially thrilled scanner scanning 100s old p...   0.342986
+5   30  looked many reviews buying n t anything say ot...   0.331117
+6   14  personally love film restoration love watching...   0.326744
+7   29  scanner markets great value relatively high qu...   0.319457
+8   35  one month light use m happy scanner kodachrome...   0.294689
+9   24  ve bad experiences scanners past one worked ri...   0.229515
+10  26  purchased scanner epson store specifically sca...   0.227058
+11  12  epson scanner software work mac osx lion photo...   0.192579
+12  11  following comments written scanned 3000 photos...   0.163120
+13   2  scanner would work windows 7 contacted epson h...   0.128781
+
+step 1
+index added: 44
+percentage unclustered: 84.5455%
+
+	step 2
+
+		step 3
+		candidate index: 44 with core nodes: [11, 34, 40, 43]
+
+step 1
+index added: 45
+percentage unclustered: 84.5455%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 83.6364%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [11, 34, 40, 46]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [26, 40, 43]. 
+		It now has size: 2
+			old information: 1071, gain: 0.8899280575539569
+
+    ind                                             review  relevance
+0   46  got epson perfection v500 ago pretty much issu...   0.473093
+1   40  data hook product link linked class a link nor...   0.460313
+2   17  still shoot film need scanner great job scanni...   0.397143
+3   43  ordered friend hundreds thousands pictures s t...   0.378945
+4   34  m mac user pc ca n t vouch technical stuff men...   0.346926
+5   21  initially thrilled scanner scanning 100s old p...   0.342986
+6   30  looked many reviews buying n t anything say ot...   0.331117
+7   14  personally love film restoration love watching...   0.326744
+8   29  scanner markets great value relatively high qu...   0.319457
+9   35  one month light use m happy scanner kodachrome...   0.294689
+10  24  ve bad experiences scanners past one worked ri...   0.229515
+11  26  purchased scanner epson store specifically sca...   0.227058
+12  12  epson scanner software work mac osx lion photo...   0.192579
+13  11  following comments written scanned 3000 photos...   0.163120
+14   2  scanner would work windows 7 contacted epson h...   0.128781
+
+step 1
+index added: 47
+percentage unclustered: 82.7273%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [34, 40, 46, 47]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [11, 46]. 
+		It now has size: 2
+			old information: 3956, gain: 0.9210158527332988
+
+    ind                                             review  relevance
+0   47  epson v500 great scanner ordinary home user bo...   0.554295
+1   46  got epson perfection v500 ago pretty much issu...   0.473093
+2   40  data hook product link linked class a link nor...   0.460313
+3   17  still shoot film need scanner great job scanni...   0.397143
+4   43  ordered friend hundreds thousands pictures s t...   0.378945
+5   34  m mac user pc ca n t vouch technical stuff men...   0.346926
+6   21  initially thrilled scanner scanning 100s old p...   0.342986
+7   30  looked many reviews buying n t anything say ot...   0.331117
+8   14  personally love film restoration love watching...   0.326744
+9   29  scanner markets great value relatively high qu...   0.319457
+10  35  one month light use m happy scanner kodachrome...   0.294689
+11  24  ve bad experiences scanners past one worked ri...   0.229515
+12  26  purchased scanner epson store specifically sca...   0.227058
+13  12  epson scanner software work mac osx lion photo...   0.192579
+14  11  following comments written scanned 3000 photos...   0.163120
+15   2  scanner would work windows 7 contacted epson h...   0.128781
+
+step 1
+index added: 48
+percentage unclustered: 82.7273%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 81.8182%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 80.9091%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 80.9091%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 80.9091%
+
+	step 2
+
+		step 3
+		candidate index: 54 with core nodes: [34, 40, 46, 47]
+
+step 1
+index added: 55
+percentage unclustered: 80.9091%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 80.9091%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 80.9091%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 80.9091%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 76.3636%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 75.4545%
+
+	step 2
+
+		step 3
+		candidate index: 63 with core nodes: [25, 62, 63]
+		The relevance model has size: 5
+		2 reviews removed from the relevance model, indices: [34, 47]. 
+		It now has size: 3
+			old information: 182, gain: 0.8316373728029602
+
+    ind                                             review  relevance
+0   63  believe icon says vista compatible n t neither...   0.593975
+1   47  epson v500 great scanner ordinary home user bo...   0.554295
+2   46  got epson perfection v500 ago pretty much issu...   0.473093
+3   40  data hook product link linked class a link nor...   0.460313
+4   17  still shoot film need scanner great job scanni...   0.397143
+5   43  ordered friend hundreds thousands pictures s t...   0.378945
+6   34  m mac user pc ca n t vouch technical stuff men...   0.346926
+7   21  initially thrilled scanner scanning 100s old p...   0.342986
+8   30  looked many reviews buying n t anything say ot...   0.331117
+9   14  personally love film restoration love watching...   0.326744
+10  29  scanner markets great value relatively high qu...   0.319457
+11  35  one month light use m happy scanner kodachrome...   0.294689
+12  24  ve bad experiences scanners past one worked ri...   0.229515
+13  26  purchased scanner epson store specifically sca...   0.227058
+14  12  epson scanner software work mac osx lion photo...   0.192579
+15  11  following comments written scanned 3000 photos...   0.163120
+16   2  scanner would work windows 7 contacted epson h...   0.128781
+
+step 1
+index added: 64
+percentage unclustered: 75.4545%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 75.4545%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 75.4545%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 75.4545%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 75.4545%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 74.5455%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 71.8182%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 71.8182%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 71.8182%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 70.9091%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 74 with core nodes: [40, 46, 47, 56]
+
+step 1
+index added: 75
+percentage unclustered: 70.9091%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 67.2727%
+
+	step 2
+
+		step 3
+		candidate index: 76 with core nodes: [14, 40, 47, 56, 60]
+
+step 1
+index added: 77
+percentage unclustered: 67.2727%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 67.2727%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 67.2727%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 64.5455%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 64.5455%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 64.5455%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 64.5455%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 64.5455%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 63.6364%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 63.6364%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 63.6364%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 63.6364%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 60.9091%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 60.9091%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 59.0909%
+
+	step 2
+
+		step 3
+		candidate index: 92 with core nodes: [4, 14, 40, 47, 56]
+
+step 1
+index added: 93
+percentage unclustered: 58.1818%
+
+	step 2
+
+		step 3
+		candidate index: 93 with core nodes: [4, 14, 40, 47, 56]
+
+step 1
+index added: 94
+percentage unclustered: 58.1818%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 58.1818%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 57.2727%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 57.2727%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 56.3636%
+
+	step 2
+
+		step 3
+		candidate index: 98 with core nodes: [4, 14, 40, 47, 56]
+
+step 1
+index added: 99
+percentage unclustered: 53.6364%
+
+	step 2
+
+		step 3
+		candidate index: 99 with core nodes: [4, 14, 40, 47, 56]
+
+step 1
+index added: 100
+percentage unclustered: 52.7273%
+
+	step 2
+
+		step 3
+		candidate index: 100 with core nodes: [4, 14, 40, 47, 56]
+
+step 1
+index added: 101
+percentage unclustered: 53.6364%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 53.6364%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 54.5455%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 50.0%
+
+	step 2
+
+		step 3
+		candidate index: 104 with core nodes: [4, 14, 40, 47, 56]
+
+step 1
+index added: 105
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 47.2727%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 46.3636%
+
+	step 2
+
+--- 178.13749647140503 seconds ---
+
+
+ Unclustered percentages: [97.2727, 97.2727, 97.2727, 97.2727, 97.2727, 97.2727, 97.2727, 97.2727, 97.2727, 96.3636, 95.4545, 95.4545, 94.5455, 94.5455, 94.5455, 93.6364, 93.6364, 93.6364, 92.7273, 91.8182, 91.8182, 92.7273, 91.8182, 91.8182, 95.4545, 95.4545, 95.4545, 94.5455, 93.6364, 93.6364, 93.6364, 93.6364, 90.9091, 91.8182, 91.8182, 90.9091, 90.9091, 89.0909, 88.1818, 88.1818, 87.2727, 85.4545, 84.5455, 84.5455, 83.6364, 82.7273, 82.7273, 81.8182, 80.9091, 80.9091, 80.0, 80.0, 80.9091, 80.9091, 80.9091, 80.9091, 80.9091, 80.0, 80.0, 80.0, 76.3636, 75.4545, 75.4545, 75.4545, 75.4545, 75.4545, 75.4545, 74.5455, 71.8182, 71.8182, 71.8182, 70.9091, 70.0, 70.9091, 67.2727, 67.2727, 67.2727, 67.2727, 64.5455, 64.5455, 64.5455, 64.5455, 64.5455, 63.6364, 63.6364, 63.6364, 63.6364, 60.9091, 60.9091, 60.0, 59.0909, 58.1818, 58.1818, 58.1818, 57.2727, 57.2727, 56.3636, 53.6364, 52.7273, 53.6364, 53.6364, 54.5455, 50.0, 50.0, 50.0, 50.0, 47.2727, 46.3636], mean: 77.9798
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        41  63   0.593975  believe icon says vista compatible n t neither...
+1        78  47   0.554295  epson v500 great scanner ordinary home user bo...
+2        42  46   0.473093  got epson perfection v500 ago pretty much issu...
+3        50  40   0.460313  data hook product link linked class a link nor...
+4        76  17   0.397143  still shoot film need scanner great job scanni...
+5       102  43   0.378945  ordered friend hundreds thousands pictures s t...
+6        77  34   0.346926  m mac user pc ca n t vouch technical stuff men...
+7        16  21   0.342986  initially thrilled scanner scanning 100s old p...
+8        98  30   0.331117  looked many reviews buying n t anything say ot...
+9        55  14   0.326744  personally love film restoration love watching...
+10       21  29   0.319457  scanner markets great value relatively high qu...
+11       99  35   0.294689  one month light use m happy scanner kodachrome...
+12       96  24   0.229515  ve bad experiences scanners past one worked ri...
+13       86  26   0.227058  purchased scanner epson store specifically sca...
+14       31  12   0.192579  epson scanner software work mac osx lion photo...
+15       73  11   0.163120  following comments written scanned 3000 photos...
+16       75   2   0.128781  scanner would work windows 7 contacted epson h...

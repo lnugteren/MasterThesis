@@ -1,0 +1,1105 @@
+------- Category: Office_Products -------
+Found asin_id: B000GWE8TQ
+Shape:  (140, 7)
+
+
+Chosen product: B000GWE8TQ has 140 reviews - True, it has 140 reviews
+Duplicate reviewers?:  139    A2E0TJ49NACDBA
+Name: reviewerID, dtype: object
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 97.1429%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [0, 2, 6, 11]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [0, 6]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  11  debated purchasing pencils versus prismacolor ...   0.299373
+
+step 1
+index added: 12
+percentage unclustered: 97.1429%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 95.0%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [0, 2, 11]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [0, 2]. 
+		It now has size: 1
+			old information: 6, gain: 0.9870967741935484
+
+   ind                                             review  relevance
+0  11  debated purchasing pencils versus prismacolor ...   0.299373
+1  13  pencils phenomenal wonderful rich pigment wate...   0.136574
+
+step 1
+index added: 14
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 95.0%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [13, 15, 17, 19]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [11, 15]. 
+		It now has size: 2
+			old information: 2, gain: 0.9852941176470589
+
+   ind                                             review  relevance
+0  11  debated purchasing pencils versus prismacolor ...   0.299373
+1  19  disappointing brand colors dark hard tell colo...   0.237624
+2  13  pencils phenomenal wonderful rich pigment wate...   0.136574
+
+		step 3
+		candidate index: 19 with core nodes: [2, 8, 15, 17, 19]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [2, 13, 15]. 
+		It now has size: 3
+			old information: 106, gain: 0.22058823529411764
+
+step 1
+index added: 20
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 92.8571%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [2, 18, 21]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [2, 8, 17]. 
+		It now has size: 3
+			old information: 20, gain: 0.9935086011035378
+
+   ind                                             review  relevance
+0  21  got amazon prime day good deal love intense co...   0.367977
+1  11  debated purchasing pencils versus prismacolor ...   0.299373
+2  19  disappointing brand colors dark hard tell colo...   0.237624
+3  13  pencils phenomenal wonderful rich pigment wate...   0.136574
+
+step 1
+index added: 22
+percentage unclustered: 92.8571%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 92.1429%
+
+	step 2
+
+		step 3
+		candidate index: 23 with core nodes: [2, 12, 18, 21, 23]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [2, 18, 19]. 
+		It now has size: 3
+			old information: 110, gain: 0.7782258064516129
+
+   ind                                             review  relevance
+0  23  wow love intense colors ve used watercolor pen...   0.456630
+1  21  got amazon prime day good deal love intense co...   0.367977
+2  11  debated purchasing pencils versus prismacolor ...   0.299373
+3  19  disappointing brand colors dark hard tell colo...   0.237624
+4  13  pencils phenomenal wonderful rich pigment wate...   0.136574
+
+step 1
+index added: 24
+percentage unclustered: 92.1429%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 91.4286%
+
+	step 2
+
+		step 3
+		candidate index: 25 with core nodes: [2, 12, 18, 21, 23, 25]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [2, 12, 19]. 
+		It now has size: 3
+			old information: 236, gain: 0.9777042985356637
+
+   ind                                             review  relevance
+0  23  wow love intense colors ve used watercolor pen...   0.456630
+1  25  new coloring using colored pencils actually ey...   0.442310
+2  21  got amazon prime day good deal love intense co...   0.367977
+3  11  debated purchasing pencils versus prismacolor ...   0.299373
+4  19  disappointing brand colors dark hard tell colo...   0.237624
+5  13  pencils phenomenal wonderful rich pigment wate...   0.136574
+
+step 1
+index added: 26
+percentage unclustered: 91.4286%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 91.4286%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 89.2857%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [2, 18, 25, 28]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [2, 18, 21]. 
+		It now has size: 2
+			old information: 408, gain: 0.9797014925373134
+
+   ind                                             review  relevance
+0  23  wow love intense colors ve used watercolor pen...   0.456630
+1  25  new coloring using colored pencils actually ey...   0.442310
+2  28  derwent inktense 36 pencil set arrived perfect...   0.408330
+3  21  got amazon prime day good deal love intense co...   0.367977
+4  11  debated purchasing pencils versus prismacolor ...   0.299373
+5  19  disappointing brand colors dark hard tell colo...   0.237624
+6  13  pencils phenomenal wonderful rich pigment wate...   0.136574
+
+step 1
+index added: 29
+percentage unclustered: 89.2857%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 87.8571%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [0, 28, 35]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [23, 28]. 
+		It now has size: 2
+			old information: 173, gain: 0.9376576576576576
+
+   ind                                             review  relevance
+0  35  love ink pencils colors blast page ca n t comm...   0.479946
+1  23  wow love intense colors ve used watercolor pen...   0.456630
+2  25  new coloring using colored pencils actually ey...   0.442310
+3  28  derwent inktense 36 pencil set arrived perfect...   0.408330
+4  21  got amazon prime day good deal love intense co...   0.367977
+5  11  debated purchasing pencils versus prismacolor ...   0.299373
+6  19  disappointing brand colors dark hard tell colo...   0.237624
+7  13  pencils phenomenal wonderful rich pigment wate...   0.136574
+
+step 1
+index added: 36
+percentage unclustered: 85.7143%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [2, 18, 25]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [18, 25, 35]. 
+		It now has size: 2
+			old information: 103, gain: 0.8049242424242424
+
+   ind                                             review  relevance
+0  35  love ink pencils colors blast page ca n t comm...   0.479946
+1  23  wow love intense colors ve used watercolor pen...   0.456630
+2  25  new coloring using colored pencils actually ey...   0.442310
+3  28  derwent inktense 36 pencil set arrived perfect...   0.408330
+4  36  fist watercolor pencils m art expert love got ...   0.391024
+5  21  got amazon prime day good deal love intense co...   0.367977
+6  11  debated purchasing pencils versus prismacolor ...   0.299373
+7  19  disappointing brand colors dark hard tell colo...   0.237624
+8  13  pencils phenomenal wonderful rich pigment wate...   0.136574
+
+step 1
+index added: 37
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [2, 18, 28, 37]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [0, 28, 36]. 
+		It now has size: 2
+			old information: 654, gain: 0.9113941200379352
+
+   ind                                             review  relevance
+0  35  love ink pencils colors blast page ca n t comm...   0.479946
+1  37  bought alternative watercolor pencils first im...   0.476133
+2  23  wow love intense colors ve used watercolor pen...   0.456630
+3  25  new coloring using colored pencils actually ey...   0.442310
+4  28  derwent inktense 36 pencil set arrived perfect...   0.408330
+5  36  fist watercolor pencils m art expert love got ...   0.391024
+6  21  got amazon prime day good deal love intense co...   0.367977
+7  11  debated purchasing pencils versus prismacolor ...   0.299373
+8  19  disappointing brand colors dark hard tell colo...   0.237624
+9  13  pencils phenomenal wonderful rich pigment wate...   0.136574
+
+step 1
+index added: 38
+percentage unclustered: 84.2857%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 84.2857%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 84.2857%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 87.1429%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 87.1429%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 87.1429%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 87.8571%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 87.8571%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 87.8571%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 87.8571%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 86.4286%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 86.4286%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 86.4286%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 85.7143%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 85.7143%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 80.71430000000001%
+
+	step 2
+
+		step 3
+		candidate index: 53 with core nodes: [2, 18, 25, 37]
+
+step 1
+index added: 54
+percentage unclustered: 80.71430000000001%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 79.28569999999999%
+
+	step 2
+
+		step 3
+		candidate index: 55 with core nodes: [2, 18, 33, 50]
+
+step 1
+index added: 56
+percentage unclustered: 79.28569999999999%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 79.28569999999999%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 78.5714%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 76.4286%
+
+	step 2
+
+		step 3
+		candidate index: 59 with core nodes: [2, 18, 33, 50]
+
+step 1
+index added: 60
+percentage unclustered: 76.4286%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 76.4286%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 75.71430000000001%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 75.71430000000001%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 75.71430000000001%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 73.5714%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 73.5714%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 73.5714%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 72.8571%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 72.1429%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 72.1429%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 72.1429%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 72.1429%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 67.8571%
+
+	step 2
+
+		step 3
+		candidate index: 75 with core nodes: [35, 62, 75]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [2, 37, 62]. 
+		It now has size: 2
+			old information: 255, gain: 0.8509643483343075
+
+    ind                                             review  relevance
+0   35  love ink pencils colors blast page ca n t comm...   0.479946
+1   37  bought alternative watercolor pencils first im...   0.476133
+2   23  wow love intense colors ve used watercolor pen...   0.456630
+3   25  new coloring using colored pencils actually ey...   0.442310
+4   28  derwent inktense 36 pencil set arrived perfect...   0.408330
+5   36  fist watercolor pencils m art expert love got ...   0.391024
+6   21  got amazon prime day good deal love intense co...   0.367977
+7   75  really like pencils could improved intense col...   0.337597
+8   11  debated purchasing pencils versus prismacolor ...   0.299373
+9   19  disappointing brand colors dark hard tell colo...   0.237624
+10  13  pencils phenomenal wonderful rich pigment wate...   0.136574
+
+step 1
+index added: 76
+percentage unclustered: 72.8571%
+
+	step 2
+
+		step 3
+		candidate index: 76 with core nodes: [12, 36, 69]
+
+step 1
+index added: 77
+percentage unclustered: 72.1429%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 72.1429%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 72.1429%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 74.28569999999999%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 74.28569999999999%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 73.5714%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 73.5714%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 72.8571%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 72.8571%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 72.8571%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 72.8571%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 72.8571%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 72.8571%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 72.8571%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 72.8571%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 72.1429%
+
+	step 2
+
+		step 3
+		candidate index: 92 with core nodes: [16, 18, 25, 33, 50, 66]
+
+step 1
+index added: 93
+percentage unclustered: 72.1429%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 71.4286%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 71.4286%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 70.71430000000001%
+
+	step 2
+
+		step 3
+		candidate index: 96 with core nodes: [77, 84, 96]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [18, 75, 84]. 
+		It now has size: 2
+			old information: 67, gain: 0.9453061224489796
+
+    ind                                             review  relevance
+0   35  love ink pencils colors blast page ca n t comm...   0.479946
+1   37  bought alternative watercolor pencils first im...   0.476133
+2   23  wow love intense colors ve used watercolor pen...   0.456630
+3   25  new coloring using colored pencils actually ey...   0.442310
+4   28  derwent inktense 36 pencil set arrived perfect...   0.408330
+5   36  fist watercolor pencils m art expert love got ...   0.391024
+6   21  got amazon prime day good deal love intense co...   0.367977
+7   75  really like pencils could improved intense col...   0.337597
+8   11  debated purchasing pencils versus prismacolor ...   0.299373
+9   19  disappointing brand colors dark hard tell colo...   0.237624
+10  13  pencils phenomenal wonderful rich pigment wate...   0.136574
+11  96  m quilter heard others talk inktense finally d...   0.114301
+
+step 1
+index added: 97
+percentage unclustered: 70.71430000000001%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 62.1429%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 62.1429%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 61.4286%
+
+	step 2
+
+		step 3
+		candidate index: 100 with core nodes: [2, 18, 66, 100]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [18, 35, 96]. 
+		It now has size: 3
+			old information: 713, gain: 0.9446428571428571
+
+     ind                                             review  relevance
+0   100  pencils absolutely amazing really love m angli...   0.625764
+1    35  love ink pencils colors blast page ca n t comm...   0.479946
+2    37  bought alternative watercolor pencils first im...   0.476133
+3    23  wow love intense colors ve used watercolor pen...   0.456630
+4    25  new coloring using colored pencils actually ey...   0.442310
+5    28  derwent inktense 36 pencil set arrived perfect...   0.408330
+6    36  fist watercolor pencils m art expert love got ...   0.391024
+7    21  got amazon prime day good deal love intense co...   0.367977
+8    75  really like pencils could improved intense col...   0.337597
+9    11  debated purchasing pencils versus prismacolor ...   0.299373
+10   19  disappointing brand colors dark hard tell colo...   0.237624
+11   13  pencils phenomenal wonderful rich pigment wate...   0.136574
+12   96  m quilter heard others talk inktense finally d...   0.114301
+
+step 1
+index added: 101
+percentage unclustered: 61.4286%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 61.4286%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 60.7143%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 60.7143%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 60.7143%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 60.0%
+
+	step 2
+
+		step 3
+		candidate index: 106 with core nodes: [2, 18, 66, 100]
+
+step 1
+index added: 107
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 59.2857%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 58.5714%
+
+	step 2
+
+		step 3
+		candidate index: 110 with core nodes: [19, 70, 75, 81]
+
+step 1
+index added: 111
+percentage unclustered: 57.8571%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 57.8571%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 58.5714%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 57.8571%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 57.8571%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 57.8571%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 57.8571%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 57.8571%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 57.8571%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 57.8571%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 57.8571%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 59.2857%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 57.1429%
+
+	step 2
+
+		step 3
+		candidate index: 123 with core nodes: [19, 70, 75]
+
+step 1
+index added: 124
+percentage unclustered: 55.0%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 55.0%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 54.2857%
+
+	step 2
+
+		step 3
+		candidate index: 126 with core nodes: [2, 69, 89, 126]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [66, 69, 77]. 
+		It now has size: 3
+			old information: 292, gain: 0.8947747747747747
+
+     ind                                             review  relevance
+0   100  pencils absolutely amazing really love m angli...   0.625764
+1   126  love intense color found sale 14 thought d try...   0.586890
+2    35  love ink pencils colors blast page ca n t comm...   0.479946
+3    37  bought alternative watercolor pencils first im...   0.476133
+4    23  wow love intense colors ve used watercolor pen...   0.456630
+5    25  new coloring using colored pencils actually ey...   0.442310
+6    28  derwent inktense 36 pencil set arrived perfect...   0.408330
+7    36  fist watercolor pencils m art expert love got ...   0.391024
+8    21  got amazon prime day good deal love intense co...   0.367977
+9    75  really like pencils could improved intense col...   0.337597
+10   11  debated purchasing pencils versus prismacolor ...   0.299373
+11   19  disappointing brand colors dark hard tell colo...   0.237624
+12   13  pencils phenomenal wonderful rich pigment wate...   0.136574
+13   96  m quilter heard others talk inktense finally d...   0.114301
+
+step 1
+index added: 127
+percentage unclustered: 53.5714%
+
+	step 2
+
+step 1
+index added: 128
+percentage unclustered: 53.5714%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 50.7143%
+
+	step 2
+
+step 1
+index added: 130
+percentage unclustered: 50.7143%
+
+	step 2
+
+step 1
+index added: 131
+percentage unclustered: 50.7143%
+
+	step 2
+
+step 1
+index added: 132
+percentage unclustered: 52.1429%
+
+	step 2
+
+step 1
+index added: 133
+percentage unclustered: 52.1429%
+
+	step 2
+
+step 1
+index added: 134
+percentage unclustered: 52.1429%
+
+	step 2
+
+step 1
+index added: 135
+percentage unclustered: 51.4286%
+
+	step 2
+
+		step 3
+		candidate index: 135 with core nodes: [2, 89, 100, 126]
+
+step 1
+index added: 136
+percentage unclustered: 51.4286%
+
+	step 2
+
+step 1
+index added: 137
+percentage unclustered: 50.7143%
+
+	step 2
+
+step 1
+index added: 138
+percentage unclustered: 51.4286%
+
+	step 2
+
+step 1
+index added: 139
+percentage unclustered: 51.4286%
+
+	step 2
+
+--- 77.66195178031921 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 97.1429, 97.1429, 95.0, 95.0, 94.2857, 94.2857, 94.2857, 94.2857, 95.0, 95.0, 92.8571, 92.8571, 92.1429, 92.1429, 91.4286, 91.4286, 91.4286, 89.2857, 89.2857, 88.5714, 88.5714, 88.5714, 88.5714, 88.5714, 87.8571, 85.7143, 85.0, 84.2857, 84.2857, 84.2857, 87.1429, 87.1429, 87.1429, 87.8571, 87.8571, 87.8571, 87.8571, 86.4286, 86.4286, 86.4286, 85.7143, 85.7143, 80.71430000000001, 80.71430000000001, 79.28569999999999, 79.28569999999999, 79.28569999999999, 78.5714, 76.4286, 76.4286, 76.4286, 75.71430000000001, 75.71430000000001, 75.71430000000001, 73.5714, 73.5714, 73.5714, 72.8571, 72.1429, 72.1429, 72.1429, 72.1429, 70.0, 70.0, 67.8571, 72.8571, 72.1429, 72.1429, 72.1429, 74.28569999999999, 74.28569999999999, 73.5714, 73.5714, 72.8571, 72.8571, 72.8571, 72.8571, 72.8571, 72.8571, 72.8571, 72.8571, 72.1429, 72.1429, 71.4286, 71.4286, 70.71430000000001, 70.71430000000001, 62.1429, 62.1429, 61.4286, 61.4286, 61.4286, 60.7143, 60.7143, 60.7143, 60.0, 60.0, 60.0, 59.2857, 58.5714, 57.8571, 57.8571, 58.5714, 57.8571, 57.8571, 57.8571, 57.8571, 57.8571, 57.8571, 57.8571, 57.8571, 59.2857, 57.1429, 55.0, 55.0, 54.2857, 53.5714, 53.5714, 50.7143, 50.7143, 50.7143, 52.1429, 52.1429, 52.1429, 51.4286, 51.4286, 50.7143, 51.4286, 51.4286], mean: 75.1553
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0       115  100   0.625764  pencils absolutely amazing really love m angli...
+1        64  126   0.586890  love intense color found sale 14 thought d try...
+2        86   35   0.479946  love ink pencils colors blast page ca n t comm...
+3        22   37   0.476133  bought alternative watercolor pencils first im...
+4        39   23   0.456630  wow love intense colors ve used watercolor pen...
+5        19   25   0.442310  new coloring using colored pencils actually ey...
+6         8   28   0.408330  derwent inktense 36 pencil set arrived perfect...
+7        14   36   0.391024  fist watercolor pencils m art expert love got ...
+8        98   21   0.367977  got amazon prime day good deal love intense co...
+9        81   75   0.337597  really like pencils could improved intense col...
+10       91   11   0.299373  debated purchasing pencils versus prismacolor ...
+11       95   19   0.237624  disappointing brand colors dark hard tell colo...
+12       42   13   0.136574  pencils phenomenal wonderful rich pigment wate...
+13       69   96   0.114301  m quilter heard others talk inktense finally d...

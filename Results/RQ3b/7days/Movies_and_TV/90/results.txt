@@ -1,0 +1,759 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 0767824571
+Shape:  (90, 7)
+
+
+Chosen product: 0767824571 has 90 reviews - True, it has 90 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 100.0%
+
+step 1
+index added: 13
+percentage unclustered: 100.0%
+
+step 1
+index added: 14
+percentage unclustered: 100.0%
+
+step 1
+index added: 15
+percentage unclustered: 100.0%
+
+step 1
+index added: 16
+percentage unclustered: 100.0%
+
+step 1
+index added: 17
+percentage unclustered: 100.0%
+
+step 1
+index added: 18
+percentage unclustered: 94.4444%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [0, 9, 17, 18]
+		The relevance model has size: 3
+		1 reviews removed from the relevance model, indices: [0]. 
+		It now has size: 2
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  18  funniest movie ever period n nmy wife would ag...   0.312772
+
+step 1
+index added: 19
+percentage unclustered: 95.5556%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [9, 18, 19]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [9, 18]. 
+		It now has size: 1
+			old information: 4, gain: 0.9987017202207076
+
+   ind                                             review  relevance
+0  18  funniest movie ever period n nmy wife would ag...   0.312772
+1  19  please careful order edition classic monty pyt...   0.212948
+
+step 1
+index added: 20
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 93.3333%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [8, 9, 18, 19, 21]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [8, 17, 18]. 
+		It now has size: 2
+			old information: 18, gain: 0.9869375907111756
+
+   ind                                             review  relevance
+0  21  enjoying set movie quality great extras disc g...   0.367919
+1  18  funniest movie ever period n nmy wife would ag...   0.312772
+2  19  please careful order edition classic monty pyt...   0.212948
+
+step 1
+index added: 22
+percentage unclustered: 93.3333%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 23 with core nodes: [16, 22, 23]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [19, 21, 22]. 
+		It now has size: 2
+			old information: 39, gain: 0.95
+
+   ind                                             review  relevance
+0  21  enjoying set movie quality great extras disc g...   0.367919
+1  23  well monty python s holy grail gem edition qui...   0.318921
+2  18  funniest movie ever period n nmy wife would ag...   0.312772
+3  19  please careful order edition classic monty pyt...   0.212948
+
+step 1
+index added: 24
+percentage unclustered: 88.8889%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [9, 18, 21]
+
+step 1
+index added: 25
+percentage unclustered: 88.8889%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 88.8889%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 88.8889%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 88.8889%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 87.7778%
+
+	step 2
+
+		step 3
+		candidate index: 29 with core nodes: [16, 22, 23]
+
+step 1
+index added: 30
+percentage unclustered: 84.4444%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 82.2222%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 82.2222%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 82.2222%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 82.2222%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 82.2222%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 81.1111%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [9, 18, 21, 28]
+
+step 1
+index added: 39
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 39 with core nodes: [9, 18, 21, 28]
+
+step 1
+index added: 40
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 44 with core nodes: [22, 23, 39, 42, 43]
+		The relevance model has size: 7
+		3 reviews removed from the relevance model, indices: [9, 23, 39]. 
+		It now has size: 4
+			old information: 61, gain: 0.9913117789488677
+
+   ind                                             review  relevance
+0  21  enjoying set movie quality great extras disc g...   0.367919
+1  23  well monty python s holy grail gem edition qui...   0.318921
+2  44  terry jones co director monty python holy grai...   0.313408
+3  18  funniest movie ever period n nmy wife would ag...   0.312772
+4  19  please careful order edition classic monty pyt...   0.212948
+
+step 1
+index added: 45
+percentage unclustered: 75.5556%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [30, 31, 45]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [16, 31, 42, 44]. 
+		It now has size: 3
+			old information: 225, gain: 0.9852216748768473
+
+   ind                                             review  relevance
+0  21  enjoying set movie quality great extras disc g...   0.367919
+1  23  well monty python s holy grail gem edition qui...   0.318921
+2  44  terry jones co director monty python holy grai...   0.313408
+3  18  funniest movie ever period n nmy wife would ag...   0.312772
+4  45  know love movie get collector s edition asap e...   0.240833
+5  19  please careful order edition classic monty pyt...   0.212948
+
+step 1
+index added: 46
+percentage unclustered: 75.5556%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 75.5556%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 75.5556%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 75.5556%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 72.2222%
+
+	step 2
+
+		step 3
+		candidate index: 50 with core nodes: [9, 18, 21, 28]
+		The relevance model has size: 8
+		4 reviews removed from the relevance model, indices: [9, 21, 22, 30]. 
+		It now has size: 4
+			old information: 104, gain: 0.9412429378531073
+
+   ind                                             review  relevance
+0  21  enjoying set movie quality great extras disc g...   0.367919
+1  23  well monty python s holy grail gem edition qui...   0.318921
+2  44  terry jones co director monty python holy grai...   0.313408
+3  18  funniest movie ever period n nmy wife would ag...   0.312772
+4  50  love satirical comedy pointless humor movie pe...   0.279735
+5  45  know love movie get collector s edition asap e...   0.240833
+6  19  please careful order edition classic monty pyt...   0.212948
+
+step 1
+index added: 51
+percentage unclustered: 72.2222%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 72.2222%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 72.2222%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 72.2222%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 71.1111%
+
+	step 2
+
+		step 3
+		candidate index: 55 with core nodes: [22, 42, 55]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [18, 42, 43, 50]. 
+		It now has size: 3
+			old information: 171, gain: 0.985672392124005
+
+   ind                                             review  relevance
+0  55  say film whose script virtually memorized legi...   0.380466
+1  21  enjoying set movie quality great extras disc g...   0.367919
+2  23  well monty python s holy grail gem edition qui...   0.318921
+3  44  terry jones co director monty python holy grai...   0.313408
+4  18  funniest movie ever period n nmy wife would ag...   0.312772
+5  50  love satirical comedy pointless humor movie pe...   0.279735
+6  45  know love movie get collector s edition asap e...   0.240833
+7  19  please careful order edition classic monty pyt...   0.212948
+
+step 1
+index added: 56
+percentage unclustered: 68.8889%
+
+	step 2
+
+		step 3
+		candidate index: 56 with core nodes: [16, 22, 42, 55, 56]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [16, 22, 45]. 
+		It now has size: 3
+			old information: 53, gain: 0.9767339771729587
+
+   ind                                             review  relevance
+0  56  nothing say film simply word warning box set a...   0.467059
+1  55  say film whose script virtually memorized legi...   0.380466
+2  21  enjoying set movie quality great extras disc g...   0.367919
+3  23  well monty python s holy grail gem edition qui...   0.318921
+4  44  terry jones co director monty python holy grai...   0.313408
+5  18  funniest movie ever period n nmy wife would ag...   0.312772
+6  50  love satirical comedy pointless humor movie pe...   0.279735
+7  45  know love movie get collector s edition asap e...   0.240833
+8  19  please careful order edition classic monty pyt...   0.212948
+
+step 1
+index added: 57
+percentage unclustered: 68.8889%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 67.7778%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 67.7778%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 67.7778%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 67.7778%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 63 with core nodes: [16, 22, 42, 55, 56]
+
+step 1
+index added: 64
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 63.3333%
+
+	step 2
+
+		step 3
+		candidate index: 65 with core nodes: [9, 16, 17, 21, 22, 42, 55, 56, 65]
+		The relevance model has size: 9
+		5 reviews removed from the relevance model, indices: [9, 17, 22, 28, 42]. 
+		It now has size: 4
+			old information: 261, gain: 0.9797360248447204
+
+   ind                                             review  relevance
+0  56  nothing say film simply word warning box set a...   0.467059
+1  55  say film whose script virtually memorized legi...   0.380466
+2  21  enjoying set movie quality great extras disc g...   0.367919
+3  65  m sure n t like movie seems something balance ...   0.325739
+4  23  well monty python s holy grail gem edition qui...   0.318921
+5  44  terry jones co director monty python holy grai...   0.313408
+6  18  funniest movie ever period n nmy wife would ag...   0.312772
+7  50  love satirical comedy pointless humor movie pe...   0.279735
+8  45  know love movie get collector s edition asap e...   0.240833
+9  19  please careful order edition classic monty pyt...   0.212948
+
+step 1
+index added: 66
+percentage unclustered: 65.5556%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 65.5556%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 67.7778%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 65.5556%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 65.5556%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 65.5556%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 65.5556%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 61.1111%
+
+	step 2
+
+		step 3
+		candidate index: 77 with core nodes: [16, 17, 18, 22, 42, 52, 55, 56, 65, 77]
+		The relevance model has size: 10
+		5 reviews removed from the relevance model, indices: [16, 18, 42, 55, 65]. 
+		It now has size: 5
+			old information: 452, gain: 0.9435070616172978
+
+    ind                                             review  relevance
+0   56  nothing say film simply word warning box set a...   0.467059
+1   77  certain individuals erroniously indicated revi...   0.413703
+2   55  say film whose script virtually memorized legi...   0.380466
+3   21  enjoying set movie quality great extras disc g...   0.367919
+4   65  m sure n t like movie seems something balance ...   0.325739
+5   23  well monty python s holy grail gem edition qui...   0.318921
+6   44  terry jones co director monty python holy grai...   0.313408
+7   18  funniest movie ever period n nmy wife would ag...   0.312772
+8   50  love satirical comedy pointless humor movie pe...   0.279735
+9   45  know love movie get collector s edition asap e...   0.240833
+10  19  please careful order edition classic monty pyt...   0.212948
+
+step 1
+index added: 78
+percentage unclustered: 61.1111%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 61.1111%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 53.3333%
+
+	step 2
+
+		step 3
+		candidate index: 80 with core nodes: [9, 16, 17, 18, 22, 55, 56, 65, 66, 68, 77]
+
+		step 3
+		candidate index: 80 with core nodes: [9, 16, 17, 18, 22, 52, 55, 56, 65, 66, 68]
+
+step 1
+index added: 81
+percentage unclustered: 52.2222%
+
+	step 2
+
+		step 3
+		candidate index: 81 with core nodes: [9, 16, 17, 22, 42, 55, 65]
+
+		step 3
+		candidate index: 81 with core nodes: [9, 16, 17, 22, 42, 65, 66, 68, 77]
+
+		step 3
+		candidate index: 81 with core nodes: [9, 16, 17, 22, 42, 52, 65, 66, 68]
+
+		step 3
+		candidate index: 81 with core nodes: [16, 18, 22, 42, 55, 56, 65, 66, 68, 77]
+
+		step 3
+		candidate index: 81 with core nodes: [16, 18, 22, 42, 52, 55, 56, 65, 66, 68]
+
+step 1
+index added: 82
+percentage unclustered: 52.2222%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 52.2222%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 51.1111%
+
+	step 2
+
+		step 3
+		candidate index: 84 with core nodes: [9, 16, 17, 22, 42, 55, 65, 84]
+		The relevance model has size: 11
+		6 reviews removed from the relevance model, indices: [9, 17, 42, 52, 56, 65]. 
+		It now has size: 5
+			old information: 431, gain: 0.8992519869097709
+
+    ind                                             review  relevance
+0   56  nothing say film simply word warning box set a...   0.467059
+1   77  certain individuals erroniously indicated revi...   0.413703
+2   55  say film whose script virtually memorized legi...   0.380466
+3   84  movie hands down funniest scenes comedy histor...   0.375508
+4   21  enjoying set movie quality great extras disc g...   0.367919
+5   65  m sure n t like movie seems something balance ...   0.325739
+6   23  well monty python s holy grail gem edition qui...   0.318921
+7   44  terry jones co director monty python holy grai...   0.313408
+8   18  funniest movie ever period n nmy wife would ag...   0.312772
+9   50  love satirical comedy pointless humor movie pe...   0.279735
+10  45  know love movie get collector s edition asap e...   0.240833
+11  19  please careful order edition classic monty pyt...   0.212948
+
+		step 3
+		candidate index: 84 with core nodes: [9, 16, 17, 22, 42, 65, 66, 68, 77, 84]
+		The relevance model has size: 12
+		6 reviews removed from the relevance model, indices: [9, 21, 42, 55, 66, 77]. 
+		It now has size: 6
+			old information: 3659, gain: 0.14469378214118747
+
+		step 3
+		candidate index: 84 with core nodes: [9, 16, 17, 22, 42, 52, 65, 66, 68, 84]
+		The relevance model has size: 11
+		5 reviews removed from the relevance model, indices: [9, 17, 22, 52, 68]. 
+		It now has size: 6
+			old information: 3659, gain: 0.14469378214118747
+
+step 1
+index added: 85
+percentage unclustered: 51.1111%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 51.1111%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 51.1111%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 51.1111%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 51.1111%
+
+	step 2
+
+--- 54.48229432106018 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 94.4444, 95.5556, 95.5556, 93.3333, 93.3333, 90.0, 88.8889, 88.8889, 88.8889, 88.8889, 88.8889, 87.7778, 84.4444, 83.33330000000001, 83.33330000000001, 82.2222, 82.2222, 82.2222, 82.2222, 82.2222, 81.1111, 80.0, 80.0, 80.0, 80.0, 80.0, 76.66669999999999, 75.5556, 75.5556, 75.5556, 75.5556, 75.5556, 72.2222, 72.2222, 72.2222, 72.2222, 72.2222, 71.1111, 68.8889, 68.8889, 67.7778, 67.7778, 67.7778, 67.7778, 66.66669999999999, 66.66669999999999, 66.66669999999999, 63.3333, 65.5556, 65.5556, 70.0, 70.0, 67.7778, 66.66669999999999, 66.66669999999999, 65.5556, 65.5556, 65.5556, 65.5556, 61.1111, 61.1111, 61.1111, 53.3333, 52.2222, 52.2222, 52.2222, 51.1111, 51.1111, 51.1111, 51.1111, 51.1111, 51.1111], mean: 77.6263
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        33  56   0.467059  nothing say film simply word warning box set a...
+1         6  77   0.413703  certain individuals erroniously indicated revi...
+2        54  55   0.380466  say film whose script virtually memorized legi...
+3        80  84   0.375508  movie hands down funniest scenes comedy histor...
+4        69  21   0.367919  enjoying set movie quality great extras disc g...
+5        85  65   0.325739  m sure n t like movie seems something balance ...
+6        34  23   0.318921  well monty python s holy grail gem edition qui...
+7        62  44   0.313408  terry jones co director monty python holy grai...
+8        36  18   0.312772  funniest movie ever period n nmy wife would ag...
+9        79  50   0.279735  love satirical comedy pointless humor movie pe...
+10       63  45   0.240833  know love movie get collector s edition asap e...
+11       55  19   0.212948  please careful order edition classic monty pyt...

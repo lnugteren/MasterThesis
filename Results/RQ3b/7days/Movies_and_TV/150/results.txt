@@ -1,0 +1,1210 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 0510539610
+Shape:  (150, 7)
+
+
+Chosen product: 0510539610 has 150 reviews - True, it has 150 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 98.0%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [0, 4, 7]
+		The relevance model has size: 2
+		1 reviews removed from the relevance model, indices: [0]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   7  amazing pt workout diagnosed slight prolapse b...   0.155633
+
+step 1
+index added: 8
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 96.0%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [0, 4, 7]
+
+step 1
+index added: 18
+percentage unclustered: 96.0%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 96.0%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 96.0%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 96.0%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 96.0%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 96.0%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 95.3333%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [0, 4, 7, 9, 24]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [0, 4]. 
+		It now has size: 2
+			old information: 7, gain: 0.9814814814814815
+
+   ind                                             review  relevance
+0  24  exercises appear great dvd closed captioned he...   0.179076
+1   7  amazing pt workout diagnosed slight prolapse b...   0.155633
+
+step 1
+index added: 25
+percentage unclustered: 93.3333%
+
+	step 2
+
+		step 3
+		candidate index: 25 with core nodes: [0, 2, 4, 7, 9, 17, 22, 23, 25]
+		The relevance model has size: 9
+		5 reviews removed from the relevance model, indices: [2, 7, 17, 23, 24]. 
+		It now has size: 4
+			old information: 31, gain: 0.9933419243986255
+
+   ind                                             review  relevance
+0  25  fantastic program injured low back several yea...   0.225322
+1  24  exercises appear great dvd closed captioned he...   0.179076
+2   7  amazing pt workout diagnosed slight prolapse b...   0.155633
+
+step 1
+index added: 26
+percentage unclustered: 93.3333%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 93.3333%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 92.6667%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [0, 2, 4, 7, 9, 17, 22, 23, 25, 28]
+		The relevance model has size: 9
+		5 reviews removed from the relevance model, indices: [4, 7, 9, 23, 25]. 
+		It now has size: 4
+			old information: 50, gain: 0.9556737588652482
+
+   ind                                             review  relevance
+0  25  fantastic program injured low back several yea...   0.225322
+1  24  exercises appear great dvd closed captioned he...   0.179076
+2   7  amazing pt workout diagnosed slight prolapse b...   0.155633
+3  28  excellent instruction explanation little diffi...   0.149323
+
+step 1
+index added: 29
+percentage unclustered: 92.6667%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 91.3333%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [0, 2, 4, 7, 9, 17, 22, 23, 25, 28, 30]
+		The relevance model has size: 10
+		5 reviews removed from the relevance model, indices: [0, 2, 7, 23, 28]. 
+		It now has size: 5
+			old information: 75, gain: 0.9411764705882353
+
+   ind                                             review  relevance
+0  25  fantastic program injured low back several yea...   0.225322
+1  30  purchased lot research finding prolapsed bladd...   0.201395
+2  24  exercises appear great dvd closed captioned he...   0.179076
+3   7  amazing pt workout diagnosed slight prolapse b...   0.155633
+4  28  excellent instruction explanation little diffi...   0.149323
+
+step 1
+index added: 31
+percentage unclustered: 91.3333%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 91.3333%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 91.3333%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [0, 7, 17, 22, 23, 25, 32]
+
+step 1
+index added: 35
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [0, 7, 17, 22, 23, 25, 32]
+
+		step 3
+		candidate index: 35 with core nodes: [0, 4, 7, 22, 25, 30, 32]
+
+step 1
+index added: 36
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 92.6667%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 92.6667%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 92.6667%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 92.6667%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 90.6667%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [1, 7, 23, 33]
+
+step 1
+index added: 42
+percentage unclustered: 90.6667%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 90.6667%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 90.6667%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 90.6667%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 89.3333%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 87.3333%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 85.3333%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 85.3333%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 85.3333%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 85.3333%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 85.3333%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 85.3333%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 82.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 65 with core nodes: [48, 50, 65]
+		The relevance model has size: 8
+		4 reviews removed from the relevance model, indices: [4, 22, 25, 48]. 
+		It now has size: 4
+			old information: 86, gain: 0.8554621848739495
+
+   ind                                             review  relevance
+0  65  amazed results 6 weeks using dvd incontinence ...   0.343738
+1  25  fantastic program injured low back several yea...   0.225322
+2  30  purchased lot research finding prolapsed bladd...   0.201395
+3  24  exercises appear great dvd closed captioned he...   0.179076
+4   7  amazing pt workout diagnosed slight prolapse b...   0.155633
+5  28  excellent instruction explanation little diffi...   0.149323
+
+step 1
+index added: 66
+percentage unclustered: 82.0%
+
+	step 2
+
+		step 3
+		candidate index: 66 with core nodes: [6, 24, 52, 66]
+		The relevance model has size: 8
+		4 reviews removed from the relevance model, indices: [6, 17, 30, 52]. 
+		It now has size: 4
+			old information: 33, gain: 0.8571428571428571
+
+   ind                                             review  relevance
+0  65  amazed results 6 weeks using dvd incontinence ...   0.343738
+1  25  fantastic program injured low back several yea...   0.225322
+2  66  targets muscles n t know would n t know work n...   0.218093
+3  30  purchased lot research finding prolapsed bladd...   0.201395
+4  24  exercises appear great dvd closed captioned he...   0.179076
+5   7  amazing pt workout diagnosed slight prolapse b...   0.155633
+6  28  excellent instruction explanation little diffi...   0.149323
+
+step 1
+index added: 67
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 81.33330000000001%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 79.33330000000001%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 77.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 72 with core nodes: [48, 50, 65]
+
+step 1
+index added: 73
+percentage unclustered: 77.33330000000001%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 76.0%
+
+	step 2
+
+		step 3
+		candidate index: 79 with core nodes: [1, 7, 33]
+		The relevance model has size: 8
+		4 reviews removed from the relevance model, indices: [7, 9, 65, 66]. 
+		It now has size: 4
+			old information: 187, gain: 0.9724432655467138
+
+   ind                                             review  relevance
+0  65  amazed results 6 weeks using dvd incontinence ...   0.343738
+1  25  fantastic program injured low back several yea...   0.225322
+2  66  targets muscles n t know would n t know work n...   0.218093
+3  30  purchased lot research finding prolapsed bladd...   0.201395
+4  79  used months found helpful already knew problem...   0.195164
+5  24  exercises appear great dvd closed captioned he...   0.179076
+6   7  amazing pt workout diagnosed slight prolapse b...   0.155633
+7  28  excellent instruction explanation little diffi...   0.149323
+
+step 1
+index added: 80
+percentage unclustered: 76.0%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 75.33330000000001%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 74.66669999999999%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 72.66669999999999%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 70.66669999999999%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 70.66669999999999%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 70.66669999999999%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 69.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 90 with core nodes: [7, 33, 37, 90]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [1, 37, 50, 79]. 
+		It now has size: 3
+			old information: 196, gain: 0.8727272727272727
+
+   ind                                             review  relevance
+0  65  amazed results 6 weeks using dvd incontinence ...   0.343738
+1  90  instructions descriptions exercises clear info...   0.338077
+2  25  fantastic program injured low back several yea...   0.225322
+3  66  targets muscles n t know would n t know work n...   0.218093
+4  30  purchased lot research finding prolapsed bladd...   0.201395
+5  79  used months found helpful already knew problem...   0.195164
+6  24  exercises appear great dvd closed captioned he...   0.179076
+7   7  amazing pt workout diagnosed slight prolapse b...   0.155633
+8  28  excellent instruction explanation little diffi...   0.149323
+
+step 1
+index added: 91
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 67.33330000000001%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 96 with core nodes: [48, 50, 65]
+
+step 1
+index added: 97
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 65.33330000000001%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 64.66669999999999%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 64.66669999999999%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 62.6667%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 62.6667%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 60.6667%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 60.6667%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 60.6667%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 60.6667%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 59.3333%
+
+	step 2
+
+		step 3
+		candidate index: 114 with core nodes: [9, 48, 50]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [7, 9, 24, 50]. 
+		It now has size: 3
+			old information: 68, gain: 0.9397163120567376
+
+    ind                                             review  relevance
+0   65  amazed results 6 weeks using dvd incontinence ...   0.343738
+1   90  instructions descriptions exercises clear info...   0.338077
+2  114  first thought dvd might answer problem noticed...   0.246428
+3   25  fantastic program injured low back several yea...   0.225322
+4   66  targets muscles n t know would n t know work n...   0.218093
+5   30  purchased lot research finding prolapsed bladd...   0.201395
+6   79  used months found helpful already knew problem...   0.195164
+7   24  exercises appear great dvd closed captioned he...   0.179076
+8    7  amazing pt workout diagnosed slight prolapse b...   0.155633
+9   28  excellent instruction explanation little diffi...   0.149323
+
+step 1
+index added: 115
+percentage unclustered: 58.6667%
+
+	step 2
+
+		step 3
+		candidate index: 115 with core nodes: [53, 96, 115]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [33, 48, 53]. 
+		It now has size: 3
+			old information: 17, gain: 0.8888888888888888
+
+     ind                                             review  relevance
+0   115  dvd great resource offers women opportunity re...   0.359451
+1    65  amazed results 6 weeks using dvd incontinence ...   0.343738
+2    90  instructions descriptions exercises clear info...   0.338077
+3   114  first thought dvd might answer problem noticed...   0.246428
+4    25  fantastic program injured low back several yea...   0.225322
+5    66  targets muscles n t know would n t know work n...   0.218093
+6    30  purchased lot research finding prolapsed bladd...   0.201395
+7    79  used months found helpful already knew problem...   0.195164
+8    24  exercises appear great dvd closed captioned he...   0.179076
+9     7  amazing pt workout diagnosed slight prolapse b...   0.155633
+10   28  excellent instruction explanation little diffi...   0.149323
+
+step 1
+index added: 116
+percentage unclustered: 58.6667%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 58.6667%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 63.3333%
+
+	step 2
+
+		step 3
+		candidate index: 118 with core nodes: [0, 7, 33, 37, 74, 90, 118]
+		The relevance model has size: 9
+		5 reviews removed from the relevance model, indices: [0, 33, 74, 90, 96]. 
+		It now has size: 4
+			old information: 148, gain: 0.8505050505050505
+
+     ind                                             review  relevance
+0   115  dvd great resource offers women opportunity re...   0.359451
+1    65  amazed results 6 weeks using dvd incontinence ...   0.343738
+2    90  instructions descriptions exercises clear info...   0.338077
+3   118  pleased results gotten 3 weeks using exercises...   0.293550
+4   114  first thought dvd might answer problem noticed...   0.246428
+5    25  fantastic program injured low back several yea...   0.225322
+6    66  targets muscles n t know would n t know work n...   0.218093
+7    30  purchased lot research finding prolapsed bladd...   0.201395
+8    79  used months found helpful already knew problem...   0.195164
+9    24  exercises appear great dvd closed captioned he...   0.179076
+10    7  amazing pt workout diagnosed slight prolapse b...   0.155633
+11   28  excellent instruction explanation little diffi...   0.149323
+
+step 1
+index added: 119
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 64.66669999999999%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 62.6667%
+
+	step 2
+
+		step 3
+		candidate index: 124 with core nodes: [50, 114, 124]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [7, 114, 118]. 
+		It now has size: 3
+			old information: 53, gain: 0.9246088193456614
+
+     ind                                             review  relevance
+0   115  dvd great resource offers women opportunity re...   0.359451
+1   124  play desktop computer computer office ca n t e...   0.345604
+2    65  amazed results 6 weeks using dvd incontinence ...   0.343738
+3    90  instructions descriptions exercises clear info...   0.338077
+4   118  pleased results gotten 3 weeks using exercises...   0.293550
+5   114  first thought dvd might answer problem noticed...   0.246428
+6    25  fantastic program injured low back several yea...   0.225322
+7    66  targets muscles n t know would n t know work n...   0.218093
+8    30  purchased lot research finding prolapsed bladd...   0.201395
+9    79  used months found helpful already knew problem...   0.195164
+10   24  exercises appear great dvd closed captioned he...   0.179076
+11    7  amazing pt workout diagnosed slight prolapse b...   0.155633
+12   28  excellent instruction explanation little diffi...   0.149323
+
+step 1
+index added: 125
+percentage unclustered: 60.6667%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 60.6667%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 60.6667%
+
+	step 2
+
+step 1
+index added: 128
+percentage unclustered: 60.6667%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 60.6667%
+
+	step 2
+
+step 1
+index added: 130
+percentage unclustered: 60.6667%
+
+	step 2
+
+step 1
+index added: 131
+percentage unclustered: 58.6667%
+
+	step 2
+
+step 1
+index added: 132
+percentage unclustered: 58.0%
+
+	step 2
+
+step 1
+index added: 133
+percentage unclustered: 58.0%
+
+	step 2
+
+step 1
+index added: 134
+percentage unclustered: 58.0%
+
+	step 2
+
+step 1
+index added: 135
+percentage unclustered: 58.0%
+
+	step 2
+
+step 1
+index added: 136
+percentage unclustered: 58.0%
+
+	step 2
+
+step 1
+index added: 137
+percentage unclustered: 58.0%
+
+	step 2
+
+step 1
+index added: 138
+percentage unclustered: 56.6667%
+
+	step 2
+
+step 1
+index added: 139
+percentage unclustered: 56.6667%
+
+	step 2
+
+step 1
+index added: 140
+percentage unclustered: 56.0%
+
+	step 2
+
+step 1
+index added: 141
+percentage unclustered: 56.0%
+
+	step 2
+
+step 1
+index added: 142
+percentage unclustered: 56.6667%
+
+	step 2
+
+		step 3
+		candidate index: 142 with core nodes: [53, 96, 142]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [50, 53, 115]. 
+		It now has size: 3
+			old information: 209, gain: 0.9385836027034969
+
+     ind                                             review  relevance
+0   115  dvd great resource offers women opportunity re...   0.359451
+1   124  play desktop computer computer office ca n t e...   0.345604
+2    65  amazed results 6 weeks using dvd incontinence ...   0.343738
+3    90  instructions descriptions exercises clear info...   0.338077
+4   118  pleased results gotten 3 weeks using exercises...   0.293550
+5   142  excellent dvd suffer pelvic floor muscle weakn...   0.293419
+6   114  first thought dvd might answer problem noticed...   0.246428
+7    25  fantastic program injured low back several yea...   0.225322
+8    66  targets muscles n t know would n t know work n...   0.218093
+9    30  purchased lot research finding prolapsed bladd...   0.201395
+10   79  used months found helpful already knew problem...   0.195164
+11   24  exercises appear great dvd closed captioned he...   0.179076
+12    7  amazing pt workout diagnosed slight prolapse b...   0.155633
+13   28  excellent instruction explanation little diffi...   0.149323
+
+step 1
+index added: 143
+percentage unclustered: 56.0%
+
+	step 2
+
+step 1
+index added: 144
+percentage unclustered: 55.3333%
+
+	step 2
+
+step 1
+index added: 145
+percentage unclustered: 55.3333%
+
+	step 2
+
+step 1
+index added: 146
+percentage unclustered: 55.3333%
+
+	step 2
+
+step 1
+index added: 147
+percentage unclustered: 56.6667%
+
+	step 2
+
+		step 3
+		candidate index: 147 with core nodes: [6, 66, 73, 147]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [6, 37, 73, 96]. 
+		It now has size: 3
+			old information: 254, gain: 0.9175592340149302
+
+     ind                                             review  relevance
+0   115  dvd great resource offers women opportunity re...   0.359451
+1   124  play desktop computer computer office ca n t e...   0.345604
+2    65  amazed results 6 weeks using dvd incontinence ...   0.343738
+3    90  instructions descriptions exercises clear info...   0.338077
+4   147  2nd baby prolapsed bladder told midwife ll eve...   0.302857
+5   118  pleased results gotten 3 weeks using exercises...   0.293550
+6   142  excellent dvd suffer pelvic floor muscle weakn...   0.293419
+7   114  first thought dvd might answer problem noticed...   0.246428
+8    25  fantastic program injured low back several yea...   0.225322
+9    66  targets muscles n t know would n t know work n...   0.218093
+10   30  purchased lot research finding prolapsed bladd...   0.201395
+11   79  used months found helpful already knew problem...   0.195164
+12   24  exercises appear great dvd closed captioned he...   0.179076
+13    7  amazing pt workout diagnosed slight prolapse b...   0.155633
+14   28  excellent instruction explanation little diffi...   0.149323
+
+step 1
+index added: 148
+percentage unclustered: 56.0%
+
+	step 2
+
+step 1
+index added: 149
+percentage unclustered: 55.3333%
+
+	step 2
+
+		step 3
+		candidate index: 149 with core nodes: [6, 66, 147, 149]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [6, 66, 124]. 
+		It now has size: 2
+			old information: 337, gain: 0.9056022408963585
+
+     ind                                             review  relevance
+0   149  doctor recommended pelvic floor physical thera...   0.435656
+1   115  dvd great resource offers women opportunity re...   0.359451
+2   124  play desktop computer computer office ca n t e...   0.345604
+3    65  amazed results 6 weeks using dvd incontinence ...   0.343738
+4    90  instructions descriptions exercises clear info...   0.338077
+5   147  2nd baby prolapsed bladder told midwife ll eve...   0.302857
+6   118  pleased results gotten 3 weeks using exercises...   0.293550
+7   142  excellent dvd suffer pelvic floor muscle weakn...   0.293419
+8   114  first thought dvd might answer problem noticed...   0.246428
+9    25  fantastic program injured low back several yea...   0.225322
+10   66  targets muscles n t know would n t know work n...   0.218093
+11   30  purchased lot research finding prolapsed bladd...   0.201395
+12   79  used months found helpful already knew problem...   0.195164
+13   24  exercises appear great dvd closed captioned he...   0.179076
+14    7  amazing pt workout diagnosed slight prolapse b...   0.155633
+15   28  excellent instruction explanation little diffi...   0.149323
+
+--- 145.93155336380005 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 98.0, 98.0, 98.0, 98.0, 98.0, 98.0, 98.0, 98.0, 98.0, 98.0, 96.0, 96.0, 96.0, 96.0, 96.0, 96.0, 96.0, 95.3333, 93.3333, 93.3333, 93.3333, 92.6667, 92.6667, 91.3333, 91.3333, 91.3333, 91.3333, 90.0, 90.0, 90.0, 92.6667, 92.6667, 92.6667, 92.6667, 90.6667, 90.6667, 90.6667, 90.6667, 90.6667, 90.0, 90.0, 89.3333, 87.3333, 85.3333, 85.3333, 92.0, 86.0, 86.0, 86.0, 86.0, 86.0, 85.3333, 85.3333, 85.3333, 85.3333, 83.33330000000001, 83.33330000000001, 83.33330000000001, 82.66669999999999, 82.0, 82.0, 82.0, 82.0, 81.33330000000001, 79.33330000000001, 77.33330000000001, 77.33330000000001, 76.66669999999999, 76.66669999999999, 76.66669999999999, 76.66669999999999, 76.66669999999999, 76.0, 76.0, 75.33330000000001, 74.66669999999999, 72.66669999999999, 70.66669999999999, 70.66669999999999, 70.66669999999999, 70.0, 70.0, 70.0, 69.33330000000001, 70.0, 70.0, 68.0, 68.0, 67.33330000000001, 66.66669999999999, 66.66669999999999, 66.66669999999999, 66.66669999999999, 66.0, 66.0, 65.33330000000001, 64.66669999999999, 64.66669999999999, 64.0, 63.3333, 63.3333, 62.6667, 62.6667, 60.6667, 60.6667, 60.6667, 60.6667, 59.3333, 58.6667, 58.6667, 58.6667, 63.3333, 63.3333, 64.66669999999999, 64.0, 63.3333, 63.3333, 62.6667, 60.6667, 60.6667, 60.6667, 60.6667, 60.6667, 60.6667, 58.6667, 58.0, 58.0, 58.0, 58.0, 58.0, 58.0, 56.6667, 56.6667, 56.0, 56.0, 56.6667, 56.0, 55.3333, 55.3333, 55.3333, 56.6667, 56.0, 55.3333], mean: 77.0676
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0         8  149   0.435656  doctor recommended pelvic floor physical thera...
+1       134  115   0.359451  dvd great resource offers women opportunity re...
+2        69  124   0.345604  play desktop computer computer office ca n t e...
+3       101   65   0.343738  amazed results 6 weeks using dvd incontinence ...
+4        39   90   0.338077  instructions descriptions exercises clear info...
+5         3  147   0.302857  2nd baby prolapsed bladder told midwife ll eve...
+6        10  118   0.293550  pleased results gotten 3 weeks using exercises...
+7        25  142   0.293419  excellent dvd suffer pelvic floor muscle weakn...
+8        63  114   0.246428  first thought dvd might answer problem noticed...
+9        54   25   0.225322  fantastic program injured low back several yea...
+10      108   66   0.218093  targets muscles n t know would n t know work n...
+11      112   30   0.201395  purchased lot research finding prolapsed bladd...
+12       80   79   0.195164  used months found helpful already knew problem...
+13       18   24   0.179076  exercises appear great dvd closed captioned he...
+14       45    7   0.155633  amazing pt workout diagnosed slight prolapse b...
+15      124   28   0.149323  excellent instruction explanation little diffi...

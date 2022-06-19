@@ -1,0 +1,728 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 6303212263
+Shape:  (80, 7)
+
+
+Chosen product: 6303212263 has 80 reviews - True, it has 80 reviews
+Duplicate reviewers?:  76    A31I3HXMD5H1EL
+Name: reviewerID, dtype: object
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 95.0%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [0, 1, 5, 6]
+		The relevance model has size: 3
+		1 reviews removed from the relevance model, indices: [0]. 
+		It now has size: 2
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   6  like watching whole new superman movie n t exp...   0.169681
+
+step 1
+index added: 7
+percentage unclustered: 93.75%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [0, 1, 5, 6]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [0, 1]. 
+		It now has size: 2
+			old information: 0, gain: 1.0
+
+step 1
+index added: 8
+percentage unclustered: 93.75%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [1, 5, 6, 8]
+		The relevance model has size: 4
+		1 reviews removed from the relevance model, indices: [1]. 
+		It now has size: 3
+			old information: 2, gain: 0.9994122832794593
+
+   ind                                             review  relevance
+0   8  well surprised like everybody else warner brot...   0.413324
+1   6  like watching whole new superman movie n t exp...   0.169681
+
+step 1
+index added: 9
+percentage unclustered: 93.75%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 93.75%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 93.75%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 93.75%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 92.5%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [1, 5, 6, 8]
+
+step 1
+index added: 14
+percentage unclustered: 91.25%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [1, 5, 6, 8, 14]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [1, 5, 7]. 
+		It now has size: 2
+			old information: 8, gain: 0.9733333333333334
+
+   ind                                             review  relevance
+0   8  well surprised like everybody else warner brot...   0.413324
+1  14  greatest superman actor greatest superman movi...   0.294460
+2   6  like watching whole new superman movie n t exp...   0.169681
+
+step 1
+index added: 15
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [5, 8, 15]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [5, 6]. 
+		It now has size: 2
+			old information: 343, gain: 0.9928845555440307
+
+   ind                                             review  relevance
+0   8  well surprised like everybody else warner brot...   0.413324
+1  15  george lucas convenient scapegoat looking cast...   0.346999
+2  14  greatest superman actor greatest superman movi...   0.294460
+3   6  like watching whole new superman movie n t exp...   0.169681
+
+step 1
+index added: 16
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 87.5%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [5, 8, 15, 17]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [5, 8]. 
+		It now has size: 2
+			old information: 513, gain: 0.9761705685618729
+
+   ind                                             review  relevance
+0   8  well surprised like everybody else warner brot...   0.413324
+1  17  superman movie extended tv version finally off...   0.386535
+2  15  george lucas convenient scapegoat looking cast...   0.346999
+3  14  greatest superman actor greatest superman movi...   0.294460
+4   6  like watching whole new superman movie n t exp...   0.169681
+
+step 1
+index added: 18
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 88.75%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [5, 6, 8, 14, 15, 20]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [6, 14, 17]. 
+		It now has size: 3
+			old information: 279, gain: 0.9458357600465929
+
+   ind                                             review  relevance
+0   8  well surprised like everybody else warner brot...   0.413324
+1  17  superman movie extended tv version finally off...   0.386535
+2  15  george lucas convenient scapegoat looking cast...   0.346999
+3  20  always definitive superman movie christopher r...   0.306143
+4  14  greatest superman actor greatest superman movi...   0.294460
+5   6  like watching whole new superman movie n t exp...   0.169681
+
+step 1
+index added: 21
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 88.75%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [5, 8, 15, 22]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [8, 15]. 
+		It now has size: 2
+			old information: 385, gain: 0.9660044150110375
+
+   ind                                             review  relevance
+0   8  well surprised like everybody else warner brot...   0.413324
+1  17  superman movie extended tv version finally off...   0.386535
+2  15  george lucas convenient scapegoat looking cast...   0.346999
+3  20  always definitive superman movie christopher r...   0.306143
+4  22  still yet get extras watch extended version in...   0.303105
+5  14  greatest superman actor greatest superman movi...   0.294460
+6   6  like watching whole new superman movie n t exp...   0.169681
+
+step 1
+index added: 23
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 83.75%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 83.75%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 83.75%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [3, 5, 8, 15, 27, 35]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [5, 8, 22, 27]. 
+		It now has size: 3
+			old information: 1488, gain: 0.9802825113296054
+
+   ind                                             review  relevance
+0  35  warned jor el superman movie purest nth degree...   0.460451
+1   8  well surprised like everybody else warner brot...   0.413324
+2  17  superman movie extended tv version finally off...   0.386535
+3  15  george lucas convenient scapegoat looking cast...   0.346999
+4  20  always definitive superman movie christopher r...   0.306143
+5  22  still yet get extras watch extended version in...   0.303105
+6  14  greatest superman actor greatest superman movi...   0.294460
+7   6  like watching whole new superman movie n t exp...   0.169681
+
+step 1
+index added: 36
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 78.75%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [3, 5, 8, 15, 27, 35]
+
+step 1
+index added: 39
+percentage unclustered: 78.75%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 77.5%
+
+	step 2
+
+		step 3
+		candidate index: 40 with core nodes: [3, 5, 8, 15, 27, 35]
+
+step 1
+index added: 41
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 76.25%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [3, 5, 8, 15, 27, 35]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [5, 15, 20, 27]. 
+		It now has size: 3
+			old information: 1844, gain: 0.9439445525291829
+
+   ind                                             review  relevance
+0  35  warned jor el superman movie purest nth degree...   0.460451
+1   8  well surprised like everybody else warner brot...   0.413324
+2  17  superman movie extended tv version finally off...   0.386535
+3  45  born 1976 spent developmental years wonderful ...   0.373138
+4  15  george lucas convenient scapegoat looking cast...   0.346999
+5  20  always definitive superman movie christopher r...   0.306143
+6  22  still yet get extras watch extended version in...   0.303105
+7  14  greatest superman actor greatest superman movi...   0.294460
+8   6  like watching whole new superman movie n t exp...   0.169681
+
+step 1
+index added: 46
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 72.5%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [3, 5, 8, 15, 27, 35]
+
+step 1
+index added: 50
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 71.25%
+
+	step 2
+
+		step 3
+		candidate index: 56 with core nodes: [3, 5, 8, 15, 27, 35]
+
+step 1
+index added: 57
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 57 with core nodes: [45, 56, 57]
+		The relevance model has size: 5
+		2 reviews removed from the relevance model, indices: [3, 8]. 
+		It now has size: 3
+			old information: 4969, gain: 0.9521014073645653
+
+   ind                                             review  relevance
+0  57  soon heard christopher reeve died first thing ...   0.505257
+1  35  warned jor el superman movie purest nth degree...   0.460451
+2   8  well surprised like everybody else warner brot...   0.413324
+3  17  superman movie extended tv version finally off...   0.386535
+4  45  born 1976 spent developmental years wonderful ...   0.373138
+5  15  george lucas convenient scapegoat looking cast...   0.346999
+6  20  always definitive superman movie christopher r...   0.306143
+7  22  still yet get extras watch extended version in...   0.303105
+8  14  greatest superman actor greatest superman movi...   0.294460
+9   6  like watching whole new superman movie n t exp...   0.169681
+
+step 1
+index added: 58
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 66.25%
+
+	step 2
+
+		step 3
+		candidate index: 61 with core nodes: [3, 5, 8, 11, 15, 27, 35, 61]
+		The relevance model has size: 10
+		5 reviews removed from the relevance model, indices: [3, 8, 15, 35, 56]. 
+		It now has size: 5
+			old information: 1284, gain: 0.8881143255489717
+
+    ind                                             review  relevance
+0   57  soon heard christopher reeve died first thing ...   0.505257
+1   61  ve waiting dvd many years m happy say m never ...   0.499410
+2   35  warned jor el superman movie purest nth degree...   0.460451
+3    8  well surprised like everybody else warner brot...   0.413324
+4   17  superman movie extended tv version finally off...   0.386535
+5   45  born 1976 spent developmental years wonderful ...   0.373138
+6   15  george lucas convenient scapegoat looking cast...   0.346999
+7   20  always definitive superman movie christopher r...   0.306143
+8   22  still yet get extras watch extended version in...   0.303105
+9   14  greatest superman actor greatest superman movi...   0.294460
+10   6  like watching whole new superman movie n t exp...   0.169681
+
+step 1
+index added: 62
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 65.0%
+
+	step 2
+
+		step 3
+		candidate index: 67 with core nodes: [3, 8, 11, 15, 27, 35, 61, 67]
+		The relevance model has size: 10
+		5 reviews removed from the relevance model, indices: [3, 5, 15, 27, 45]. 
+		It now has size: 5
+			old information: 1885, gain: 0.8855564325177585
+
+    ind                                             review  relevance
+0   57  soon heard christopher reeve died first thing ...   0.505257
+1   67  last superman presented way meant master print...   0.500554
+2   61  ve waiting dvd many years m happy say m never ...   0.499410
+3   35  warned jor el superman movie purest nth degree...   0.460451
+4    8  well surprised like everybody else warner brot...   0.413324
+5   17  superman movie extended tv version finally off...   0.386535
+6   45  born 1976 spent developmental years wonderful ...   0.373138
+7   15  george lucas convenient scapegoat looking cast...   0.346999
+8   20  always definitive superman movie christopher r...   0.306143
+9   22  still yet get extras watch extended version in...   0.303105
+10  14  greatest superman actor greatest superman movi...   0.294460
+11   6  like watching whole new superman movie n t exp...   0.169681
+
+step 1
+index added: 68
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 61.25%
+
+	step 2
+
+		step 3
+		candidate index: 70 with core nodes: [15, 27, 35, 61, 65]
+
+step 1
+index added: 71
+percentage unclustered: 61.25%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 60.0%
+
+	step 2
+
+		step 3
+		candidate index: 72 with core nodes: [45, 57, 72]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [35, 45, 57, 61]. 
+		It now has size: 3
+			old information: 4708, gain: 0.9321398714289832
+
+    ind                                             review  relevance
+0   72  movies based superheroes usually entertaining ...   0.528854
+1   57  soon heard christopher reeve died first thing ...   0.505257
+2   67  last superman presented way meant master print...   0.500554
+3   61  ve waiting dvd many years m happy say m never ...   0.499410
+4   35  warned jor el superman movie purest nth degree...   0.460451
+5    8  well surprised like everybody else warner brot...   0.413324
+6   17  superman movie extended tv version finally off...   0.386535
+7   45  born 1976 spent developmental years wonderful ...   0.373138
+8   15  george lucas convenient scapegoat looking cast...   0.346999
+9   20  always definitive superman movie christopher r...   0.306143
+10  22  still yet get extras watch extended version in...   0.303105
+11  14  greatest superman actor greatest superman movi...   0.294460
+12   6  like watching whole new superman movie n t exp...   0.169681
+
+step 1
+index added: 73
+percentage unclustered: 48.75%
+
+	step 2
+
+		step 3
+		candidate index: 73 with core nodes: [45, 48, 57, 72]
+
+step 1
+index added: 74
+percentage unclustered: 47.5%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 46.25%
+
+	step 2
+
+		step 3
+		candidate index: 75 with core nodes: [45, 48, 57, 72]
+
+step 1
+index added: 76
+percentage unclustered: 46.25%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 46.25%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 46.25%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 56.25%
+
+	step 2
+
+--- 323.11993432044983 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 95.0, 93.75, 93.75, 93.75, 93.75, 93.75, 93.75, 92.5, 91.25, 90.0, 88.75, 87.5, 87.5, 87.5, 88.75, 88.75, 88.75, 88.75, 88.75, 88.75, 88.75, 88.75, 88.75, 88.75, 88.75, 88.75, 83.75, 83.75, 83.75, 80.0, 80.0, 80.0, 78.75, 78.75, 77.5, 77.5, 77.5, 77.5, 77.5, 76.25, 76.25, 76.25, 77.5, 72.5, 72.5, 72.5, 72.5, 72.5, 72.5, 72.5, 71.25, 70.0, 70.0, 70.0, 70.0, 66.25, 66.25, 66.25, 66.25, 66.25, 66.25, 65.0, 65.0, 65.0, 61.25, 61.25, 60.0, 48.75, 47.5, 46.25, 46.25, 46.25, 46.25, 56.25], mean: 77.7083
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        47  72   0.528854  movies based superheroes usually entertaining ...
+1        43  57   0.505257  soon heard christopher reeve died first thing ...
+2         6  67   0.500554  last superman presented way meant master print...
+3        59  61   0.499410  ve waiting dvd many years m happy say m never ...
+4        32  35   0.460451  warned jor el superman movie purest nth degree...
+5        19   8   0.413324  well surprised like everybody else warner brot...
+6         4  17   0.386535  superman movie extended tv version finally off...
+7        35  45   0.373138  born 1976 spent developmental years wonderful ...
+8         3  15   0.346999  george lucas convenient scapegoat looking cast...
+9        28  20   0.306143  always definitive superman movie christopher r...
+10       41  22   0.303105  still yet get extras watch extended version in...
+11       18  14   0.294460  greatest superman actor greatest superman movi...
+12       16   6   0.169681  like watching whole new superman movie n t exp...

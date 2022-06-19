@@ -1,0 +1,312 @@
+------- Category: Office_Products -------
+Found asin_id: B00000IGBF
+Shape:  (40, 7)
+
+
+Chosen product: B00000IGBF has 40 reviews - True, it has 40 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 92.5%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [2, 3, 11]
+		The relevance model has size: 2
+		1 reviews removed from the relevance model, indices: [2]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  11  s month since got palm iiix since m organized ...   0.299858
+
+step 1
+index added: 12
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 92.5%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [3, 7, 18]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [3, 7]. 
+		It now has size: 1
+			old information: 58, gain: 0.9594689028651293
+
+   ind                                             review  relevance
+0  18  3com great job creating palm line os since bir...   0.301771
+1  11  s month since got palm iiix since m organized ...   0.299858
+
+step 1
+index added: 19
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [3, 7, 18, 20]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [3, 11]. 
+		It now has size: 2
+			old information: 72, gain: 0.971830985915493
+
+   ind                                             review  relevance
+0  20  palm certainly revolutionize way arrange life ...   0.315886
+1  18  3com great job creating palm line os since bir...   0.301771
+2  11  s month since got palm iiix since m organized ...   0.299858
+
+step 1
+index added: 21
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 87.5%
+
+	step 2
+
+		step 3
+		candidate index: 23 with core nodes: [3, 18, 20, 23]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [18, 20]. 
+		It now has size: 2
+			old information: 706, gain: 0.9759888446757133
+
+   ind                                             review  relevance
+0  23  big questions days organizer get ll assume rea...   0.362309
+1  20  palm certainly revolutionize way arrange life ...   0.315886
+2  18  3com great job creating palm line os since bir...   0.301771
+3  11  s month since got palm iiix since m organized ...   0.299858
+
+step 1
+index added: 24
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 25 with core nodes: [18, 20, 23, 25]
+		The relevance model has size: 5
+		2 reviews removed from the relevance model, indices: [7, 18]. 
+		It now has size: 3
+			old information: 233, gain: 0.8430976430976431
+
+   ind                                             review  relevance
+0  23  big questions days organizer get ll assume rea...   0.362309
+1  25  bought palm iiix last semester helpfull able k...   0.332069
+2  20  palm certainly revolutionize way arrange life ...   0.315886
+3  18  3com great job creating palm line os since bir...   0.301771
+4  11  s month since got palm iiix since m organized ...   0.299858
+
+step 1
+index added: 26
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 82.5%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [18, 20, 23, 25]
+
+step 1
+index added: 33
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 67.5%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [12, 20, 23, 35]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [3, 12, 20]. 
+		It now has size: 2
+			old information: 52, gain: 0.8518518518518519
+
+   ind                                             review  relevance
+0  35  wanted say anyone like sure whether buy new fu...   0.459105
+1  23  big questions days organizer get ll assume rea...   0.362309
+2  25  bought palm iiix last semester helpfull able k...   0.332069
+3  20  palm certainly revolutionize way arrange life ...   0.315886
+4  18  3com great job creating palm line os since bir...   0.301771
+5  11  s month since got palm iiix since m organized ...   0.299858
+
+step 1
+index added: 36
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 65.0%
+
+	step 2
+
+		step 3
+		candidate index: 39 with core nodes: [12, 20, 23, 35]
+
+--- 4.288872957229614 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 92.5, 92.5, 92.5, 92.5, 92.5, 92.5, 92.5, 92.5, 92.5, 90.0, 90.0, 90.0, 87.5, 87.5, 85.0, 85.0, 85.0, 85.0, 85.0, 85.0, 85.0, 82.5, 82.5, 75.0, 67.5, 67.5, 67.5, 67.5, 65.0], mean: 88.0921
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0        7  35   0.459105  wanted say anyone like sure whether buy new fu...
+1        2  23   0.362309  big questions days organizer get ll assume rea...
+2       32  25   0.332069  bought palm iiix last semester helpfull able k...
+3       34  20   0.315886  palm certainly revolutionize way arrange life ...
+4       10  18   0.301771  3com great job creating palm line os since bir...
+5       17  11   0.299858  s month since got palm iiix since m organized ...
