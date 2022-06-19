@@ -1,0 +1,1295 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 6303965415
+Shape:  (160, 7)
+
+
+Chosen product: 6303965415 has 160 reviews - True, it has 160 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 100.0%
+
+step 1
+index added: 13
+percentage unclustered: 100.0%
+
+step 1
+index added: 14
+percentage unclustered: 100.0%
+
+step 1
+index added: 15
+percentage unclustered: 100.0%
+
+step 1
+index added: 16
+percentage unclustered: 100.0%
+
+step 1
+index added: 17
+percentage unclustered: 100.0%
+
+step 1
+index added: 18
+percentage unclustered: 98.125%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [13, 14, 18]
+		The relevance model has size: 2
+		1 reviews removed from the relevance model, indices: [13]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  18  found movie disjointed hard truly understand m...   0.208541
+
+step 1
+index added: 19
+percentage unclustered: 98.125%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 98.125%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 96.25%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [12, 13, 14, 18, 21]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [12, 14]. 
+		It now has size: 2
+			old information: 56, gain: 0.9886868686868687
+
+   ind                                             review  relevance
+0  21  trying decide version persuasion buy search be...   0.233940
+1  18  found movie disjointed hard truly understand m...   0.208541
+
+step 1
+index added: 22
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 94.375%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [12, 13, 14, 21, 22]
+
+step 1
+index added: 34
+percentage unclustered: 94.375%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 92.5%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [2, 21, 35]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [18, 21]. 
+		It now has size: 2
+			old information: 126, gain: 0.9462915601023018
+
+   ind                                             review  relevance
+0  35  hands best adaptation jane austin s masterpiec...   0.297589
+1  21  trying decide version persuasion buy search be...   0.233940
+2  18  found movie disjointed hard truly understand m...   0.208541
+
+step 1
+index added: 36
+percentage unclustered: 93.125%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 94.375%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [2, 21, 35]
+
+step 1
+index added: 38
+percentage unclustered: 92.5%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [2, 12, 13, 14, 21, 23, 38]
+		The relevance model has size: 7
+		3 reviews removed from the relevance model, indices: [12, 13, 21]. 
+		It now has size: 4
+			old information: 106, gain: 0.9798210546354464
+
+   ind                                             review  relevance
+0  38  wanting use film adaptation austen s novel col...   0.338396
+1  35  hands best adaptation jane austin s masterpiec...   0.297589
+2  21  trying decide version persuasion buy search be...   0.233940
+3  18  found movie disjointed hard truly understand m...   0.208541
+
+step 1
+index added: 39
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 92.5%
+
+	step 2
+
+		step 3
+		candidate index: 40 with core nodes: [2, 12, 13, 14, 21, 23, 38]
+
+step 1
+index added: 41
+percentage unclustered: 91.875%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [2, 12, 13, 14, 23, 41]
+		The relevance model has size: 7
+		3 reviews removed from the relevance model, indices: [2, 12, 14]. 
+		It now has size: 4
+			old information: 317, gain: 0.9815751235106074
+
+   ind                                             review  relevance
+0  41  persuasion together northanger abbey posthumou...   0.388717
+1  38  wanting use film adaptation austen s novel col...   0.338396
+2  35  hands best adaptation jane austin s masterpiec...   0.297589
+3  21  trying decide version persuasion buy search be...   0.233940
+4  18  found movie disjointed hard truly understand m...   0.208541
+
+step 1
+index added: 42
+percentage unclustered: 91.875%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 91.875%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 91.875%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 91.875%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 91.875%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 91.875%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 91.875%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 91.875%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 91.875%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 91.875%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 91.875%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 89.375%
+
+	step 2
+
+		step 3
+		candidate index: 53 with core nodes: [2, 5, 13, 14, 23]
+		The relevance model has size: 8
+		4 reviews removed from the relevance model, indices: [5, 35, 38, 41]. 
+		It now has size: 4
+			old information: 29, gain: 0.9450757575757576
+
+   ind                                             review  relevance
+0  41  persuasion together northanger abbey posthumou...   0.388717
+1  38  wanting use film adaptation austen s novel col...   0.338396
+2  53  movie one favorites years girlfriends like wel...   0.301250
+3  35  hands best adaptation jane austin s masterpiec...   0.297589
+4  21  trying decide version persuasion buy search be...   0.233940
+5  18  found movie disjointed hard truly understand m...   0.208541
+
+step 1
+index added: 54
+percentage unclustered: 89.375%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 89.375%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 87.5%
+
+	step 2
+
+		step 3
+		candidate index: 56 with core nodes: [2, 5, 13, 36, 56]
+		The relevance model has size: 7
+		3 reviews removed from the relevance model, indices: [2, 5, 23]. 
+		It now has size: 4
+			old information: 551, gain: 0.9417116259388554
+
+   ind                                             review  relevance
+0  41  persuasion together northanger abbey posthumou...   0.388717
+1  56  m late bloomer comes pieces literature finally...   0.386577
+2  38  wanting use film adaptation austen s novel col...   0.338396
+3  53  movie one favorites years girlfriends like wel...   0.301250
+4  35  hands best adaptation jane austin s masterpiec...   0.297589
+5  21  trying decide version persuasion buy search be...   0.233940
+6  18  found movie disjointed hard truly understand m...   0.208541
+
+		step 3
+		candidate index: 56 with core nodes: [2, 21, 36, 38, 41, 56]
+		The relevance model has size: 9
+		4 reviews removed from the relevance model, indices: [2, 13, 36, 38]. 
+		It now has size: 5
+			old information: 7151, gain: 0.24352057547868403
+
+		step 3
+		candidate index: 56 with core nodes: [5, 13, 21, 36, 38, 41, 56]
+		The relevance model has size: 10
+		4 reviews removed from the relevance model, indices: [5, 14, 21, 36]. 
+		It now has size: 6
+			old information: 7151, gain: 0.24352057547868403
+
+step 1
+index added: 57
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 86.875%
+
+	step 2
+
+		step 3
+		candidate index: 59 with core nodes: [2, 5, 13, 36, 56, 59]
+		The relevance model has size: 10
+		4 reviews removed from the relevance model, indices: [2, 13, 36, 41]. 
+		It now has size: 6
+			old information: 224, gain: 0.917067752684191
+
+   ind                                             review  relevance
+0  59  regret movie people n t seen s fairly faithful...   0.491157
+1  41  persuasion together northanger abbey posthumou...   0.388717
+2  56  m late bloomer comes pieces literature finally...   0.386577
+3  38  wanting use film adaptation austen s novel col...   0.338396
+4  53  movie one favorites years girlfriends like wel...   0.301250
+5  35  hands best adaptation jane austin s masterpiec...   0.297589
+6  21  trying decide version persuasion buy search be...   0.233940
+7  18  found movie disjointed hard truly understand m...   0.208541
+
+step 1
+index added: 60
+percentage unclustered: 86.25%
+
+	step 2
+
+		step 3
+		candidate index: 60 with core nodes: [2, 5, 13, 36, 56, 59]
+
+step 1
+index added: 61
+percentage unclustered: 86.25%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 85.625%
+
+	step 2
+
+		step 3
+		candidate index: 62 with core nodes: [2, 5, 13, 36, 56, 59]
+
+step 1
+index added: 63
+percentage unclustered: 85.625%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 85.625%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 85.625%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 83.75%
+
+	step 2
+
+		step 3
+		candidate index: 66 with core nodes: [36, 41, 65, 66]
+		The relevance model has size: 10
+		5 reviews removed from the relevance model, indices: [41, 53, 56, 56, 59]. 
+		It now has size: 5
+			old information: 97, gain: 0.8543543543543544
+
+   ind                                             review  relevance
+0  59  regret movie people n t seen s fairly faithful...   0.491157
+1  66  even though ve read austen s novels knew going...   0.440986
+2  41  persuasion together northanger abbey posthumou...   0.388717
+3  56  m late bloomer comes pieces literature finally...   0.386577
+4  38  wanting use film adaptation austen s novel col...   0.338396
+5  53  movie one favorites years girlfriends like wel...   0.301250
+6  35  hands best adaptation jane austin s masterpiec...   0.297589
+7  21  trying decide version persuasion buy search be...   0.233940
+8  18  found movie disjointed hard truly understand m...   0.208541
+
+step 1
+index added: 67
+percentage unclustered: 83.75%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 81.875%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 80.625%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 71 with core nodes: [56, 59, 71]
+		The relevance model has size: 7
+		3 reviews removed from the relevance model, indices: [5, 38, 59]. 
+		It now has size: 4
+			old information: 1990, gain: 0.9744265244490137
+
+   ind                                             review  relevance
+0  71  good company always worth seeking n n idea goo...   0.496284
+1  59  regret movie people n t seen s fairly faithful...   0.491157
+2  66  even though ve read austen s novels knew going...   0.440986
+3  41  persuasion together northanger abbey posthumou...   0.388717
+4  56  m late bloomer comes pieces literature finally...   0.386577
+5  38  wanting use film adaptation austen s novel col...   0.338396
+6  53  movie one favorites years girlfriends like wel...   0.301250
+7  35  hands best adaptation jane austin s masterpiec...   0.297589
+8  21  trying decide version persuasion buy search be...   0.233940
+9  18  found movie disjointed hard truly understand m...   0.208541
+
+step 1
+index added: 72
+percentage unclustered: 79.375%
+
+	step 2
+
+		step 3
+		candidate index: 72 with core nodes: [36, 65, 72]
+		The relevance model has size: 5
+		1 reviews removed from the relevance model, indices: [56]. 
+		It now has size: 4
+			old information: 1547, gain: 0.9617741536940944
+
+    ind                                             review  relevance
+0   72  love movie amanda root forgive saying plainer ...   0.578151
+1   71  good company always worth seeking n n idea goo...   0.496284
+2   59  regret movie people n t seen s fairly faithful...   0.491157
+3   66  even though ve read austen s novels knew going...   0.440986
+4   41  persuasion together northanger abbey posthumou...   0.388717
+5   56  m late bloomer comes pieces literature finally...   0.386577
+6   38  wanting use film adaptation austen s novel col...   0.338396
+7   53  movie one favorites years girlfriends like wel...   0.301250
+8   35  hands best adaptation jane austin s masterpiec...   0.297589
+9   21  trying decide version persuasion buy search be...   0.233940
+10  18  found movie disjointed hard truly understand m...   0.208541
+
+step 1
+index added: 73
+percentage unclustered: 79.375%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 80.625%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 80.625%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 80.625%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 80.625%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 80.625%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 79.375%
+
+	step 2
+
+		step 3
+		candidate index: 81 with core nodes: [36, 65, 72]
+
+step 1
+index added: 82
+percentage unclustered: 79.375%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 79.375%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 79.375%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 79.375%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 79.375%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 81.25%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 81.25%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 81.25%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 81.25%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 81.25%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 81.25%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 81.25%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 81.25%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 78.75%
+
+	step 2
+
+		step 3
+		candidate index: 95 with core nodes: [56, 59, 71]
+
+step 1
+index added: 96
+percentage unclustered: 78.125%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 77.5%
+
+	step 2
+
+		step 3
+		candidate index: 97 with core nodes: [36, 65, 72, 97]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [36, 66, 72]. 
+		It now has size: 2
+			old information: 1542, gain: 0.9193092621664051
+
+    ind                                             review  relevance
+0   72  love movie amanda root forgive saying plainer ...   0.578151
+1   71  good company always worth seeking n n idea goo...   0.496284
+2   59  regret movie people n t seen s fairly faithful...   0.491157
+3   97  jane austen s persuasion last great novel come...   0.465701
+4   66  even though ve read austen s novels knew going...   0.440986
+5   41  persuasion together northanger abbey posthumou...   0.388717
+6   56  m late bloomer comes pieces literature finally...   0.386577
+7   38  wanting use film adaptation austen s novel col...   0.338396
+8   53  movie one favorites years girlfriends like wel...   0.301250
+9   35  hands best adaptation jane austin s masterpiec...   0.297589
+10  21  trying decide version persuasion buy search be...   0.233940
+11  18  found movie disjointed hard truly understand m...   0.208541
+
+step 1
+index added: 98
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 75.625%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 78.75%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 78.75%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 78.75%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 78.75%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 78.75%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 78.125%
+
+	step 2
+
+		step 3
+		candidate index: 109 with core nodes: [36, 65, 72, 109]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [65, 72, 97]. 
+		It now has size: 2
+			old information: 1551, gain: 0.8839592997156965
+
+     ind                                             review  relevance
+0    72  love movie amanda root forgive saying plainer ...   0.578151
+1    71  good company always worth seeking n n idea goo...   0.496284
+2    59  regret movie people n t seen s fairly faithful...   0.491157
+3    97  jane austen s persuasion last great novel come...   0.465701
+4    66  even though ve read austen s novels knew going...   0.440986
+5   109  thoroughly enjoyed adaptation jane austen s pe...   0.414510
+6    41  persuasion together northanger abbey posthumou...   0.388717
+7    56  m late bloomer comes pieces literature finally...   0.386577
+8    38  wanting use film adaptation austen s novel col...   0.338396
+9    53  movie one favorites years girlfriends like wel...   0.301250
+10   35  hands best adaptation jane austin s masterpiec...   0.297589
+11   21  trying decide version persuasion buy search be...   0.233940
+12   18  found movie disjointed hard truly understand m...   0.208541
+
+step 1
+index added: 110
+percentage unclustered: 78.125%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 78.125%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 78.125%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 77.5%
+
+	step 2
+
+		step 3
+		candidate index: 113 with core nodes: [36, 65, 72, 109, 113]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [71, 72, 109]. 
+		It now has size: 2
+			old information: 4653, gain: 0.9473702069901595
+
+     ind                                             review  relevance
+0    72  love movie amanda root forgive saying plainer ...   0.578151
+1   113  persuasion film faithful adaptation jane auste...   0.540587
+2    71  good company always worth seeking n n idea goo...   0.496284
+3    59  regret movie people n t seen s fairly faithful...   0.491157
+4    97  jane austen s persuasion last great novel come...   0.465701
+5    66  even though ve read austen s novels knew going...   0.440986
+6   109  thoroughly enjoyed adaptation jane austen s pe...   0.414510
+7    41  persuasion together northanger abbey posthumou...   0.388717
+8    56  m late bloomer comes pieces literature finally...   0.386577
+9    38  wanting use film adaptation austen s novel col...   0.338396
+10   53  movie one favorites years girlfriends like wel...   0.301250
+11   35  hands best adaptation jane austin s masterpiec...   0.297589
+12   21  trying decide version persuasion buy search be...   0.233940
+13   18  found movie disjointed hard truly understand m...   0.208541
+
+step 1
+index added: 114
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 76.875%
+
+	step 2
+
+		step 3
+		candidate index: 120 with core nodes: [36, 65, 72, 109, 113, 120]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [36, 109, 113]. 
+		It now has size: 2
+			old information: 904, gain: 0.8754820936639118
+
+     ind                                             review  relevance
+0    72  love movie amanda root forgive saying plainer ...   0.578151
+1   113  persuasion film faithful adaptation jane auste...   0.540587
+2    71  good company always worth seeking n n idea goo...   0.496284
+3    59  regret movie people n t seen s fairly faithful...   0.491157
+4    97  jane austen s persuasion last great novel come...   0.465701
+5   120  lifelong admirer jane austen s novels one also...   0.453488
+6    66  even though ve read austen s novels knew going...   0.440986
+7   109  thoroughly enjoyed adaptation jane austen s pe...   0.414510
+8    41  persuasion together northanger abbey posthumou...   0.388717
+9    56  m late bloomer comes pieces literature finally...   0.386577
+10   38  wanting use film adaptation austen s novel col...   0.338396
+11   53  movie one favorites years girlfriends like wel...   0.301250
+12   35  hands best adaptation jane austin s masterpiec...   0.297589
+13   21  trying decide version persuasion buy search be...   0.233940
+14   18  found movie disjointed hard truly understand m...   0.208541
+
+step 1
+index added: 121
+percentage unclustered: 76.875%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 76.875%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 76.875%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 75.625%
+
+	step 2
+
+		step 3
+		candidate index: 127 with core nodes: [65, 72, 109, 113]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [65, 113, 120]. 
+		It now has size: 2
+			old information: 1433, gain: 0.8646197449220595
+
+     ind                                             review  relevance
+0    72  love movie amanda root forgive saying plainer ...   0.578151
+1   113  persuasion film faithful adaptation jane auste...   0.540587
+2   127  even persuasion first came watched three times...   0.510971
+3    71  good company always worth seeking n n idea goo...   0.496284
+4    59  regret movie people n t seen s fairly faithful...   0.491157
+5    97  jane austen s persuasion last great novel come...   0.465701
+6   120  lifelong admirer jane austen s novels one also...   0.453488
+7    66  even though ve read austen s novels knew going...   0.440986
+8   109  thoroughly enjoyed adaptation jane austen s pe...   0.414510
+9    41  persuasion together northanger abbey posthumou...   0.388717
+10   56  m late bloomer comes pieces literature finally...   0.386577
+11   38  wanting use film adaptation austen s novel col...   0.338396
+12   53  movie one favorites years girlfriends like wel...   0.301250
+13   35  hands best adaptation jane austin s masterpiec...   0.297589
+14   21  trying decide version persuasion buy search be...   0.233940
+15   18  found movie disjointed hard truly understand m...   0.208541
+
+step 1
+index added: 128
+percentage unclustered: 75.625%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 75.625%
+
+	step 2
+
+step 1
+index added: 130
+percentage unclustered: 75.625%
+
+	step 2
+
+step 1
+index added: 131
+percentage unclustered: 75.625%
+
+	step 2
+
+step 1
+index added: 132
+percentage unclustered: 75.625%
+
+	step 2
+
+step 1
+index added: 133
+percentage unclustered: 75.625%
+
+	step 2
+
+step 1
+index added: 134
+percentage unclustered: 75.625%
+
+	step 2
+
+step 1
+index added: 135
+percentage unclustered: 75.625%
+
+	step 2
+
+step 1
+index added: 136
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 137
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 138
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 139
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 140
+percentage unclustered: 71.875%
+
+	step 2
+
+step 1
+index added: 141
+percentage unclustered: 71.875%
+
+	step 2
+
+step 1
+index added: 142
+percentage unclustered: 71.25%
+
+	step 2
+
+		step 3
+		candidate index: 142 with core nodes: [65, 72, 113]
+
+step 1
+index added: 143
+percentage unclustered: 71.25%
+
+	step 2
+
+step 1
+index added: 144
+percentage unclustered: 70.625%
+
+	step 2
+
+step 1
+index added: 145
+percentage unclustered: 70.625%
+
+	step 2
+
+step 1
+index added: 146
+percentage unclustered: 71.25%
+
+	step 2
+
+step 1
+index added: 147
+percentage unclustered: 71.25%
+
+	step 2
+
+step 1
+index added: 148
+percentage unclustered: 70.625%
+
+	step 2
+
+step 1
+index added: 149
+percentage unclustered: 70.625%
+
+	step 2
+
+step 1
+index added: 150
+percentage unclustered: 70.625%
+
+	step 2
+
+step 1
+index added: 151
+percentage unclustered: 68.75%
+
+	step 2
+
+step 1
+index added: 152
+percentage unclustered: 68.125%
+
+	step 2
+
+		step 3
+		candidate index: 152 with core nodes: [65, 72, 113]
+
+step 1
+index added: 153
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 154
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 155
+percentage unclustered: 66.875%
+
+	step 2
+
+		step 3
+		candidate index: 155 with core nodes: [65, 72, 113, 155]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [72, 113, 127]. 
+		It now has size: 2
+			old information: 3401, gain: 0.9631267956849352
+
+     ind                                             review  relevance
+0    72  love movie amanda root forgive saying plainer ...   0.578151
+1   113  persuasion film faithful adaptation jane auste...   0.540587
+2   155  like jane austin s style romance character dev...   0.524014
+3   127  even persuasion first came watched three times...   0.510971
+4    71  good company always worth seeking n n idea goo...   0.496284
+5    59  regret movie people n t seen s fairly faithful...   0.491157
+6    97  jane austen s persuasion last great novel come...   0.465701
+7   120  lifelong admirer jane austen s novels one also...   0.453488
+8    66  even though ve read austen s novels knew going...   0.440986
+9   109  thoroughly enjoyed adaptation jane austen s pe...   0.414510
+10   41  persuasion together northanger abbey posthumou...   0.388717
+11   56  m late bloomer comes pieces literature finally...   0.386577
+12   38  wanting use film adaptation austen s novel col...   0.338396
+13   53  movie one favorites years girlfriends like wel...   0.301250
+14   35  hands best adaptation jane austin s masterpiec...   0.297589
+15   21  trying decide version persuasion buy search be...   0.233940
+16   18  found movie disjointed hard truly understand m...   0.208541
+
+step 1
+index added: 156
+percentage unclustered: 66.875%
+
+	step 2
+
+step 1
+index added: 157
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 158
+percentage unclustered: 64.375%
+
+	step 2
+
+step 1
+index added: 159
+percentage unclustered: 64.375%
+
+	step 2
+
+--- 570.3397645950317 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 98.125, 98.125, 98.125, 96.25, 96.25, 96.25, 96.25, 96.25, 96.25, 96.25, 96.25, 96.25, 96.25, 96.25, 96.25, 94.375, 94.375, 92.5, 93.125, 94.375, 92.5, 92.5, 92.5, 91.875, 91.875, 91.875, 91.875, 91.875, 91.875, 91.875, 91.875, 91.875, 91.875, 91.875, 91.875, 89.375, 89.375, 89.375, 87.5, 87.5, 87.5, 86.875, 86.25, 86.25, 85.625, 85.625, 85.625, 85.625, 83.75, 83.75, 81.875, 82.5, 80.625, 80.0, 79.375, 79.375, 80.625, 80.625, 80.625, 80.625, 80.625, 80.0, 80.0, 79.375, 79.375, 79.375, 79.375, 79.375, 79.375, 81.25, 81.25, 81.25, 81.25, 81.25, 81.25, 81.25, 81.25, 78.75, 78.125, 77.5, 77.5, 77.5, 77.5, 77.5, 77.5, 75.625, 78.75, 78.75, 78.75, 78.75, 78.75, 78.125, 78.125, 78.125, 78.125, 77.5, 77.5, 77.5, 77.5, 77.5, 77.5, 77.5, 76.875, 76.875, 76.875, 76.875, 77.5, 77.5, 77.5, 75.625, 75.625, 75.625, 75.625, 75.625, 75.625, 75.625, 75.625, 75.625, 72.5, 72.5, 72.5, 72.5, 71.875, 71.875, 71.25, 71.25, 70.625, 70.625, 71.25, 71.25, 70.625, 70.625, 70.625, 68.75, 68.125, 67.5, 67.5, 66.875, 66.875, 66.25, 64.375, 64.375], mean: 83.6116
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0        43   72   0.578151  love movie amanda root forgive saying plainer ...
+1        26  113   0.540587  persuasion film faithful adaptation jane auste...
+2        27  155   0.524014  like jane austin s style romance character dev...
+3       120  127   0.510971  even persuasion first came watched three times...
+4       147   71   0.496284  good company always worth seeking n n idea goo...
+5       111   59   0.491157  regret movie people n t seen s fairly faithful...
+6        87   97   0.465701  jane austen s persuasion last great novel come...
+7        17  120   0.453488  lifelong admirer jane austen s novels one also...
+8        97   66   0.440986  even though ve read austen s novels knew going...
+9        19  109   0.414510  thoroughly enjoyed adaptation jane austen s pe...
+10       34   41   0.388717  persuasion together northanger abbey posthumou...
+11       48   56   0.386577  m late bloomer comes pieces literature finally...
+12      134   38   0.338396  wanting use film adaptation austen s novel col...
+13       78   53   0.301250  movie one favorites years girlfriends like wel...
+14      132   35   0.297589  hands best adaptation jane austin s masterpiec...
+15      105   21   0.233940  trying decide version persuasion buy search be...
+16       96   18   0.208541  found movie disjointed hard truly understand m...
