@@ -1,0 +1,814 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 7799120991
+Shape:  (100, 7)
+
+
+Chosen product: 7799120991 has 100 reviews - True, it has 100 reviews
+Duplicate reviewers?:  85    A1D2C0WDCSHUWZ
+Name: reviewerID, dtype: object
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 97.0%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [2, 4, 8]
+		The relevance model has size: 2
+		1 reviews removed from the relevance model, indices: [2]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   8  well everybody jump shark sometime right a tea...   0.157555
+
+step 1
+index added: 9
+percentage unclustered: 97.0%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 97.0%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 97.0%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 97.0%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 97.0%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 97.0%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 97.0%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 97.0%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 97.0%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 97.0%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 100.0%
+
+step 1
+index added: 20
+percentage unclustered: 100.0%
+
+step 1
+index added: 21
+percentage unclustered: 100.0%
+
+step 1
+index added: 22
+percentage unclustered: 100.0%
+
+step 1
+index added: 23
+percentage unclustered: 94.0%
+
+	step 2
+
+		step 3
+		candidate index: 23 with core nodes: [2, 8, 21, 23]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [2, 4]. 
+		It now has size: 2
+			old information: 790, gain: 0.8911845730027548
+
+   ind                                             review  relevance
+0  23  ve loved every pixar movie ve ever seen one so...   0.594059
+1   8  well everybody jump shark sometime right a tea...   0.157555
+
+step 1
+index added: 24
+percentage unclustered: 91.0%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [2, 8, 10, 23]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [8, 10, 23]. 
+		It now has size: 2
+			old information: 29, gain: 0.9033333333333333
+
+   ind                                             review  relevance
+0  23  ve loved every pixar movie ve ever seen one so...   0.594059
+1   8  well everybody jump shark sometime right a tea...   0.157555
+2  24  really really disappointed disney including cl...   0.080878
+
+step 1
+index added: 25
+percentage unclustered: 91.0%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 91.0%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 89.0%
+
+	step 2
+
+		step 3
+		candidate index: 29 with core nodes: [2, 8, 23, 27]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [21, 23, 24]. 
+		It now has size: 3
+			old information: 653, gain: 0.9423399558498896
+
+   ind                                             review  relevance
+0  23  ve loved every pixar movie ve ever seen one so...   0.594059
+1  29  bought blu ray 4 disc set christmas gift inclu...   0.249132
+2   8  well everybody jump shark sometime right a tea...   0.157555
+3  24  really really disappointed disney including cl...   0.080878
+
+step 1
+index added: 30
+percentage unclustered: 89.0%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 87.0%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [8, 23, 27, 33]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [2, 23, 27]. 
+		It now has size: 2
+			old information: 256, gain: 0.8806526806526807
+
+   ind                                             review  relevance
+0  23  ve loved every pixar movie ve ever seen one so...   0.594059
+1  33  disney heck certain rental versions english su...   0.395805
+2  29  bought blu ray 4 disc set christmas gift inclu...   0.249132
+3   8  well everybody jump shark sometime right a tea...   0.157555
+4  24  really really disappointed disney including cl...   0.080878
+
+step 1
+index added: 34
+percentage unclustered: 87.0%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 87.0%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 87.0%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 87.0%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 87.0%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 87.0%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 92.0%
+
+	step 2
+
+		step 3
+		candidate index: 42 with core nodes: [10, 14, 24, 31, 33]
+
+step 1
+index added: 43
+percentage unclustered: 91.0%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [10, 24, 31, 33]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [8, 24, 33]. 
+		It now has size: 3
+			old information: 105, gain: 0.902867715078631
+
+   ind                                             review  relevance
+0  23  ve loved every pixar movie ve ever seen one so...   0.594059
+1  33  disney heck certain rental versions english su...   0.395805
+2  43  without reference quality movie dvd version mo...   0.263061
+3  29  bought blu ray 4 disc set christmas gift inclu...   0.249132
+4   8  well everybody jump shark sometime right a tea...   0.157555
+5  24  really really disappointed disney including cl...   0.080878
+
+step 1
+index added: 44
+percentage unclustered: 91.0%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 91.0%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 91.0%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 91.0%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 91.0%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 91.0%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 81.0%
+
+	step 2
+
+		step 3
+		candidate index: 50 with core nodes: [23, 40, 46, 50]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [23, 29, 31, 46]. 
+		It now has size: 3
+			old information: 144, gain: 0.7433155080213903
+
+   ind                                             review  relevance
+0  23  ve loved every pixar movie ve ever seen one so...   0.594059
+1  33  disney heck certain rental versions english su...   0.395805
+2  50  rented movie today thought ok certainly n t li...   0.387298
+3  43  without reference quality movie dvd version mo...   0.263061
+4  29  bought blu ray 4 disc set christmas gift inclu...   0.249132
+5   8  well everybody jump shark sometime right a tea...   0.157555
+6  24  really really disappointed disney including cl...   0.080878
+
+step 1
+index added: 51
+percentage unclustered: 81.0%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 81.0%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 81.0%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 81.0%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 87.0%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 87.0%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 87.0%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 87.0%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 87.0%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 87.0%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 86.0%
+
+	step 2
+
+		step 3
+		candidate index: 61 with core nodes: [15, 31, 43]
+
+step 1
+index added: 62
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 63 with core nodes: [10, 24, 33, 63]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [10, 24, 40]. 
+		It now has size: 3
+			old information: 98, gain: 0.940713853599516
+
+   ind                                             review  relevance
+0  23  ve loved every pixar movie ve ever seen one so...   0.594059
+1  33  disney heck certain rental versions english su...   0.395805
+2  50  rented movie today thought ok certainly n t li...   0.387298
+3  63  good movie wife deaf enjoy movie yet since saw...   0.361118
+4  43  without reference quality movie dvd version mo...   0.263061
+5  29  bought blu ray 4 disc set christmas gift inclu...   0.249132
+6   8  well everybody jump shark sometime right a tea...   0.157555
+7  24  really really disappointed disney including cl...   0.080878
+
+step 1
+index added: 64
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 82.0%
+
+	step 2
+
+		step 3
+		candidate index: 67 with core nodes: [27, 33, 67]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [27, 33, 43]. 
+		It now has size: 2
+			old information: 20187, gain: 0.9858220234466523
+
+   ind                                             review  relevance
+0  23  ve loved every pixar movie ve ever seen one so...   0.594059
+1  33  disney heck certain rental versions english su...   0.395805
+2  50  rented movie today thought ok certainly n t li...   0.387298
+3  63  good movie wife deaf enjoy movie yet since saw...   0.361118
+4  67  touching fun hilarious animated film incredibl...   0.352993
+5  43  without reference quality movie dvd version mo...   0.263061
+6  29  bought blu ray 4 disc set christmas gift inclu...   0.249132
+7   8  well everybody jump shark sometime right a tea...   0.157555
+8  24  really really disappointed disney including cl...   0.080878
+
+step 1
+index added: 68
+percentage unclustered: 79.0%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 79.0%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 79.0%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 79.0%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 74.0%
+
+	step 2
+
+		step 3
+		candidate index: 74 with core nodes: [27, 33, 67, 74]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [33, 50, 67]. 
+		It now has size: 2
+			old information: 206, gain: 0.8612794612794613
+
+   ind                                             review  relevance
+0  23  ve loved every pixar movie ve ever seen one so...   0.594059
+1  74  n t luxo sue pixar made luxo jr n nwhy n t lux...   0.414175
+2  33  disney heck certain rental versions english su...   0.395805
+3  50  rented movie today thought ok certainly n t li...   0.387298
+4  63  good movie wife deaf enjoy movie yet since saw...   0.361118
+5  67  touching fun hilarious animated film incredibl...   0.352993
+6  43  without reference quality movie dvd version mo...   0.263061
+7  29  bought blu ray 4 disc set christmas gift inclu...   0.249132
+8   8  well everybody jump shark sometime right a tea...   0.157555
+9  24  really really disappointed disney including cl...   0.080878
+
+step 1
+index added: 75
+percentage unclustered: 73.0%
+
+	step 2
+
+		step 3
+		candidate index: 75 with core nodes: [27, 33, 67, 74, 75]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [63, 67, 74]. 
+		It now has size: 2
+			old information: 376, gain: 0.7558441558441559
+
+    ind                                             review  relevance
+0   23  ve loved every pixar movie ve ever seen one so...   0.594059
+1   75  may seen movie loved may hate disney strange r...   0.429729
+2   74  n t luxo sue pixar made luxo jr n nwhy n t lux...   0.414175
+3   33  disney heck certain rental versions english su...   0.395805
+4   50  rented movie today thought ok certainly n t li...   0.387298
+5   63  good movie wife deaf enjoy movie yet since saw...   0.361118
+6   67  touching fun hilarious animated film incredibl...   0.352993
+7   43  without reference quality movie dvd version mo...   0.263061
+8   29  bought blu ray 4 disc set christmas gift inclu...   0.249132
+9    8  well everybody jump shark sometime right a tea...   0.157555
+10  24  really really disappointed disney including cl...   0.080878
+
+step 1
+index added: 76
+percentage unclustered: 73.0%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 72.0%
+
+	step 2
+
+		step 3
+		candidate index: 77 with core nodes: [55, 65, 77]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [27, 65, 75]. 
+		It now has size: 2
+			old information: 1250, gain: 0.8658222413052812
+
+    ind                                             review  relevance
+0   23  ve loved every pixar movie ve ever seen one so...   0.594059
+1   75  may seen movie loved may hate disney strange r...   0.429729
+2   77  n t seen movie rating reflects packaging thing...   0.418435
+3   74  n t luxo sue pixar made luxo jr n nwhy n t lux...   0.414175
+4   33  disney heck certain rental versions english su...   0.395805
+5   50  rented movie today thought ok certainly n t li...   0.387298
+6   63  good movie wife deaf enjoy movie yet since saw...   0.361118
+7   67  touching fun hilarious animated film incredibl...   0.352993
+8   43  without reference quality movie dvd version mo...   0.263061
+9   29  bought blu ray 4 disc set christmas gift inclu...   0.249132
+10   8  well everybody jump shark sometime right a tea...   0.157555
+11  24  really really disappointed disney including cl...   0.080878
+
+step 1
+index added: 78
+percentage unclustered: 72.0%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 72.0%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 71.0%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 71.0%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 71.0%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 65.0%
+
+	step 2
+
+		step 3
+		candidate index: 85 with core nodes: [27, 67, 76]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [33, 67, 77]. 
+		It now has size: 3
+			old information: 6844, gain: 0.8607272949268432
+
+    ind                                             review  relevance
+0   23  ve loved every pixar movie ve ever seen one so...   0.594059
+1   75  may seen movie loved may hate disney strange r...   0.429729
+2   77  n t seen movie rating reflects packaging thing...   0.418435
+3   74  n t luxo sue pixar made luxo jr n nwhy n t lux...   0.414175
+4   33  disney heck certain rental versions english su...   0.395805
+5   50  rented movie today thought ok certainly n t li...   0.387298
+6   63  good movie wife deaf enjoy movie yet since saw...   0.361118
+7   67  touching fun hilarious animated film incredibl...   0.352993
+8   85  1 2 n nfor perilous moments middle began suspe...   0.348425
+9   43  without reference quality movie dvd version mo...   0.263061
+10  29  bought blu ray 4 disc set christmas gift inclu...   0.249132
+11   8  well everybody jump shark sometime right a tea...   0.157555
+12  24  really really disappointed disney including cl...   0.080878
+
+step 1
+index added: 86
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 63.0%
+
+	step 2
+
+		step 3
+		candidate index: 98 with core nodes: [27, 67, 76]
+
+step 1
+index added: 99
+percentage unclustered: 63.0%
+
+	step 2
+
+--- 4320.790153503418 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 97.0, 97.0, 97.0, 97.0, 97.0, 97.0, 97.0, 97.0, 97.0, 97.0, 97.0, 100.0, 100.0, 100.0, 100.0, 94.0, 91.0, 91.0, 91.0, 92.0, 92.0, 89.0, 89.0, 88.0, 88.0, 87.0, 87.0, 87.0, 87.0, 87.0, 87.0, 87.0, 95.0, 95.0, 92.0, 91.0, 91.0, 91.0, 91.0, 91.0, 91.0, 91.0, 81.0, 81.0, 81.0, 81.0, 81.0, 87.0, 87.0, 87.0, 87.0, 87.0, 87.0, 86.0, 86.0, 85.0, 85.0, 85.0, 85.0, 82.0, 79.0, 79.0, 79.0, 79.0, 78.0, 75.0, 74.0, 73.0, 73.0, 72.0, 72.0, 72.0, 71.0, 71.0, 71.0, 68.0, 68.0, 65.0, 65.0, 65.0, 65.0, 64.0, 64.0, 64.0, 64.0, 64.0, 64.0, 64.0, 64.0, 64.0, 63.0, 63.0], mean: 84.051
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        79  23   0.594059  ve loved every pixar movie ve ever seen one so...
+1        39  75   0.429729  may seen movie loved may hate disney strange r...
+2        57  77   0.418435  n t seen movie rating reflects packaging thing...
+3        86  74   0.414175  n t luxo sue pixar made luxo jr n nwhy n t lux...
+4        62  33   0.395805  disney heck certain rental versions english su...
+5        84  50   0.387298  rented movie today thought ok certainly n t li...
+6        20  63   0.361118  good movie wife deaf enjoy movie yet since saw...
+7        38  67   0.352993  touching fun hilarious animated film incredibl...
+8        36  85   0.348425  1 2 n nfor perilous moments middle began suspe...
+9        16  43   0.263061  without reference quality movie dvd version mo...
+10       28  29   0.249132  bought blu ray 4 disc set christmas gift inclu...
+11       43   8   0.157555  well everybody jump shark sometime right a tea...
+12       18  24   0.080878  really really disappointed disney including cl...
