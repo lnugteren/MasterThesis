@@ -1,0 +1,782 @@
+------- Category: Electronics -------
+Found asin_id: B00004SY4H
+Shape:  (100, 7)
+
+
+Chosen product: B00004SY4H has 100 reviews - True, it has 100 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 100.0%
+
+step 1
+index added: 13
+percentage unclustered: 100.0%
+
+step 1
+index added: 14
+percentage unclustered: 97.0%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [2, 7, 14]
+		The relevance model has size: 2
+		1 reviews removed from the relevance model, indices: [2]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  14  ve market high quality headphones mix master v...    0.27081
+
+step 1
+index added: 15
+percentage unclustered: 97.0%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 97.0%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 97.0%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 96.0%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [2, 7, 14, 18]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [2, 7]. 
+		It now has size: 1
+			old information: 59, gain: 0.9826623567440493
+
+   ind                                             review  relevance
+0  18  first review ever pair 300 00 pioneer headphon...   0.274267
+1  14  ve market high quality headphones mix master v...   0.270810
+
+step 1
+index added: 19
+percentage unclustered: 94.0%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [2, 14, 16, 18]
+
+step 1
+index added: 20
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 91.0%
+
+	step 2
+
+		step 3
+		candidate index: 25 with core nodes: [2, 7, 11, 14, 15, 16]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [2, 11, 14, 16]. 
+		It now has size: 3
+			old information: 52, gain: 0.9365853658536586
+
+   ind                                             review  relevance
+0  18  first review ever pair 300 00 pioneer headphon...   0.274267
+1  25  headphones absolutely life changing best refer...   0.273911
+2  14  ve market high quality headphones mix master v...   0.270810
+
+step 1
+index added: 26
+percentage unclustered: 91.0%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 91.0%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 91.0%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 29 with core nodes: [2, 7, 11, 14, 15, 16]
+
+step 1
+index added: 30
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 87.0%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [4, 7, 11, 14, 15, 16, 23, 32]
+		The relevance model has size: 9
+		5 reviews removed from the relevance model, indices: [4, 14, 15, 18, 23]. 
+		It now has size: 4
+			old information: 54, gain: 0.9636363636363636
+
+   ind                                             review  relevance
+0  32  love bass headphones hear nothing 80 hz ve own...   0.410762
+1  18  first review ever pair 300 00 pioneer headphon...   0.274267
+2  25  headphones absolutely life changing best refer...   0.273911
+3  14  ve market high quality headphones mix master v...   0.270810
+
+step 1
+index added: 33
+percentage unclustered: 84.0%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [2, 5, 26, 33]
+		The relevance model has size: 8
+		4 reviews removed from the relevance model, indices: [2, 7, 11, 26]. 
+		It now has size: 4
+			old information: 2261, gain: 0.9990523968784838
+
+   ind                                             review  relevance
+0  33  first foray high end audio re listening home a...   0.595400
+1  32  love bass headphones hear nothing 80 hz ve own...   0.410762
+2  18  first review ever pair 300 00 pioneer headphon...   0.274267
+3  25  headphones absolutely life changing best refer...   0.273911
+4  14  ve market high quality headphones mix master v...   0.270810
+
+step 1
+index added: 34
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [2, 26, 33]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [25, 26, 32, 33]. 
+		It now has size: 3
+			old information: 12806, gain: 0.9103503797822815
+
+   ind                                             review  relevance
+0  33  first foray high end audio re listening home a...   0.595400
+1  41  quite time curious truly came good headphones ...   0.569154
+2  32  love bass headphones hear nothing 80 hz ve own...   0.410762
+3  18  first review ever pair 300 00 pioneer headphon...   0.274267
+4  25  headphones absolutely life changing best refer...   0.273911
+5  14  ve market high quality headphones mix master v...   0.270810
+
+step 1
+index added: 42
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 83.0%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [2, 26, 33]
+
+step 1
+index added: 44
+percentage unclustered: 83.0%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 83.0%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [2, 26, 33]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [2, 16, 26]. 
+		It now has size: 3
+			old information: 9111, gain: 0.8852533343408773
+
+   ind                                             review  relevance
+0  33  first foray high end audio re listening home a...   0.595400
+1  41  quite time curious truly came good headphones ...   0.569154
+2  45  would seem review turned sort comparison sennh...   0.542114
+3  32  love bass headphones hear nothing 80 hz ve own...   0.410762
+4  18  first review ever pair 300 00 pioneer headphon...   0.274267
+5  25  headphones absolutely life changing best refer...   0.273911
+6  14  ve market high quality headphones mix master v...   0.270810
+
+step 1
+index added: 46
+percentage unclustered: 83.0%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 82.0%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [11, 14, 32]
+
+step 1
+index added: 48
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 48 with core nodes: [26, 33, 48]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [5, 26, 33]. 
+		It now has size: 2
+			old information: 9479, gain: 0.9139953726806695
+
+   ind                                             review  relevance
+0  48  sort emotional attachment headphones ve since ...   0.595489
+1  33  first foray high end audio re listening home a...   0.595400
+2  41  quite time curious truly came good headphones ...   0.569154
+3  45  would seem review turned sort comparison sennh...   0.542114
+4  32  love bass headphones hear nothing 80 hz ve own...   0.410762
+5  18  first review ever pair 300 00 pioneer headphon...   0.274267
+6  25  headphones absolutely life changing best refer...   0.273911
+7  14  ve market high quality headphones mix master v...   0.270810
+
+step 1
+index added: 49
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 79.0%
+
+	step 2
+
+		step 3
+		candidate index: 53 with core nodes: [26, 33, 48, 53]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [33, 41, 48]. 
+		It now has size: 2
+			old information: 15952, gain: 0.9194892371362959
+
+   ind                                             review  relevance
+0  48  sort emotional attachment headphones ve since ...   0.595489
+1  33  first foray high end audio re listening home a...   0.595400
+2  41  quite time curious truly came good headphones ...   0.569154
+3  45  would seem review turned sort comparison sennh...   0.542114
+4  53  wow s year since started hi fi journey quite h...   0.497489
+5  32  love bass headphones hear nothing 80 hz ve own...   0.410762
+6  18  first review ever pair 300 00 pioneer headphon...   0.274267
+7  25  headphones absolutely life changing best refer...   0.273911
+8  14  ve market high quality headphones mix master v...   0.270810
+
+step 1
+index added: 54
+percentage unclustered: 79.0%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 79.0%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 78.0%
+
+	step 2
+
+		step 3
+		candidate index: 56 with core nodes: [26, 33, 48, 53]
+
+step 1
+index added: 57
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 76.0%
+
+	step 2
+
+		step 3
+		candidate index: 62 with core nodes: [26, 33, 48, 53, 62]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [45, 48, 53]. 
+		It now has size: 2
+			old information: 2961, gain: 0.8350877192982457
+
+   ind                                             review  relevance
+0  48  sort emotional attachment headphones ve since ...   0.595489
+1  33  first foray high end audio re listening home a...   0.595400
+2  62  n t headphone amp n t worry sound great withou...   0.579038
+3  41  quite time curious truly came good headphones ...   0.569154
+4  45  would seem review turned sort comparison sennh...   0.542114
+5  53  wow s year since started hi fi journey quite h...   0.497489
+6  32  love bass headphones hear nothing 80 hz ve own...   0.410762
+7  18  first review ever pair 300 00 pioneer headphon...   0.274267
+8  25  headphones absolutely life changing best refer...   0.273911
+9  14  ve market high quality headphones mix master v...   0.270810
+
+step 1
+index added: 63
+percentage unclustered: 75.0%
+
+	step 2
+
+		step 3
+		candidate index: 63 with core nodes: [26, 33, 48, 53, 62]
+		The relevance model has size: 5
+		2 reviews removed from the relevance model, indices: [26, 48]. 
+		It now has size: 3
+			old information: 5747, gain: 0.8182824258521469
+
+    ind                                             review  relevance
+0   48  sort emotional attachment headphones ve since ...   0.595489
+1   33  first foray high end audio re listening home a...   0.595400
+2   62  n t headphone amp n t worry sound great withou...   0.579038
+3   41  quite time curious truly came good headphones ...   0.569154
+4   45  would seem review turned sort comparison sennh...   0.542114
+5   53  wow s year since started hi fi journey quite h...   0.497489
+6   63  electronic music fanatic many many years techn...   0.470314
+7   32  love bass headphones hear nothing 80 hz ve own...   0.410762
+8   18  first review ever pair 300 00 pioneer headphon...   0.274267
+9   25  headphones absolutely life changing best refer...   0.273911
+10  14  ve market high quality headphones mix master v...   0.270810
+
+step 1
+index added: 64
+percentage unclustered: 74.0%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 74.0%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 74.0%
+
+	step 2
+
+		step 3
+		candidate index: 66 with core nodes: [26, 33, 48, 53, 62]
+
+step 1
+index added: 67
+percentage unclustered: 73.0%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 73.0%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 69 with core nodes: [26, 33, 48, 53, 62]
+
+step 1
+index added: 70
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 63.0%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 66.0%
+
+	step 2
+
+		step 3
+		candidate index: 76 with core nodes: [12, 33, 53, 62]
+
+step 1
+index added: 77
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 65.0%
+
+	step 2
+
+		step 3
+		candidate index: 84 with core nodes: [12, 33, 53, 62]
+
+step 1
+index added: 85
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 64.0%
+
+	step 2
+
+--- 4546.680376768112 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 97.0, 97.0, 97.0, 97.0, 96.0, 94.0, 94.0, 94.0, 94.0, 94.0, 94.0, 91.0, 91.0, 91.0, 91.0, 90.0, 90.0, 90.0, 87.0, 84.0, 84.0, 84.0, 85.0, 85.0, 85.0, 86.0, 86.0, 85.0, 85.0, 83.0, 83.0, 83.0, 83.0, 82.0, 80.0, 80.0, 80.0, 80.0, 80.0, 79.0, 79.0, 79.0, 78.0, 78.0, 78.0, 78.0, 78.0, 78.0, 76.0, 75.0, 74.0, 74.0, 74.0, 73.0, 73.0, 70.0, 70.0, 70.0, 65.0, 64.0, 63.0, 65.0, 66.0, 66.0, 66.0, 66.0, 66.0, 64.0, 64.0, 64.0, 65.0, 68.0, 68.0, 68.0, 68.0, 65.0, 65.0, 65.0, 64.0, 64.0, 64.0, 64.0, 64.0, 64.0, 64.0, 64.0], mean: 80.5
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        66  48   0.595489  sort emotional attachment headphones ve since ...
+1         1  33   0.595400  first foray high end audio re listening home a...
+2        95  62   0.579038  n t headphone amp n t worry sound great withou...
+3        17  41   0.569154  quite time curious truly came good headphones ...
+4         9  45   0.542114  would seem review turned sort comparison sennh...
+5        39  53   0.497489  wow s year since started hi fi journey quite h...
+6        69  63   0.470314  electronic music fanatic many many years techn...
+7        65  32   0.410762  love bass headphones hear nothing 80 hz ve own...
+8        64  18   0.274267  first review ever pair 300 00 pioneer headphon...
+9        74  25   0.273911  headphones absolutely life changing best refer...
+10       30  14   0.270810  ve market high quality headphones mix master v...

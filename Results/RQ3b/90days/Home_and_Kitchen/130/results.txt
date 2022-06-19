@@ -1,0 +1,1120 @@
+------- Category: Home_and_Kitchen -------
+Found asin_id: B0002OKDT2
+Shape:  (130, 7)
+
+
+Chosen product: B0002OKDT2 has 130 reviews - True, it has 130 reviews
+Duplicate reviewers?:  120    A2JHPH3AQMK7M3
+Name: reviewerID, dtype: object
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 97.6923%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [1, 3, 9]
+		The relevance model has size: 2
+		1 reviews removed from the relevance model, indices: [1]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   9  excellent juicer green vegetable juice fruits ...   0.240244
+
+step 1
+index added: 10
+percentage unclustered: 97.6923%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 96.1538%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [3, 4, 9, 11]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [3, 4]. 
+		It now has size: 1
+			old information: 600, gain: 0.979253112033195
+
+   ind                                             review  relevance
+0  11  ve owned juicer year best juicer ve ever juici...   0.278018
+1   9  excellent juicer green vegetable juice fruits ...   0.240244
+
+step 1
+index added: 12
+percentage unclustered: 96.1538%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 96.1538%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 95.3846%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [3, 4, 9, 11]
+		The relevance model has size: 4
+		1 reviews removed from the relevance model, indices: [3]. 
+		It now has size: 3
+			old information: 166, gain: 0.9176587301587301
+
+   ind                                             review  relevance
+0  14  big time researcher spent month checking juice...   0.287112
+1  11  ve owned juicer year best juicer ve ever juici...   0.278018
+2   9  excellent juicer green vegetable juice fruits ...   0.240244
+
+step 1
+index added: 15
+percentage unclustered: 95.3846%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 93.0769%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [4, 9, 11, 13]
+
+step 1
+index added: 17
+percentage unclustered: 93.0769%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 93.0769%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 91.5385%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [3, 6, 11, 13, 19]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [3, 4, 9, 13]. 
+		It now has size: 3
+			old information: 613, gain: 0.9396237565251649
+
+   ind                                             review  relevance
+0  19  whoa skeptical buying new juicer sooooo many d...   0.471516
+1  14  big time researcher spent month checking juice...   0.287112
+2  11  ve owned juicer year best juicer ve ever juici...   0.278018
+3   9  excellent juicer green vegetable juice fruits ...   0.240244
+
+step 1
+index added: 20
+percentage unclustered: 90.7692%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [3, 6, 11, 13, 19]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [3, 6, 11]. 
+		It now has size: 3
+			old information: 358, gain: 0.8922011442336646
+
+   ind                                             review  relevance
+0  19  whoa skeptical buying new juicer sooooo many d...   0.471516
+1  20  decided month ago start juicing lower choleste...   0.393981
+2  14  big time researcher spent month checking juice...   0.287112
+3  11  ve owned juicer year best juicer ve ever juici...   0.278018
+4   9  excellent juicer green vegetable juice fruits ...   0.240244
+
+step 1
+index added: 21
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 89.2308%
+
+	step 2
+
+		step 3
+		candidate index: 25 with core nodes: [3, 6, 11, 13, 19]
+
+step 1
+index added: 26
+percentage unclustered: 89.2308%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 90.7692%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [11, 13, 20]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [11, 13, 14]. 
+		It now has size: 2
+			old information: 859, gain: 0.9077930442249893
+
+   ind                                             review  relevance
+0  19  whoa skeptical buying new juicer sooooo many d...   0.471516
+1  20  decided month ago start juicing lower choleste...   0.393981
+2  27  researching juicers years literally friends gi...   0.387538
+3  14  big time researcher spent month checking juice...   0.287112
+4  11  ve owned juicer year best juicer ve ever juici...   0.278018
+5   9  excellent juicer green vegetable juice fruits ...   0.240244
+
+step 1
+index added: 28
+percentage unclustered: 90.7692%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 91.5385%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 90.7692%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 86.9231%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 86.9231%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 86.9231%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [3, 6, 11, 13, 19, 33]
+		The relevance model has size: 7
+		3 reviews removed from the relevance model, indices: [3, 11, 19]. 
+		It now has size: 4
+			old information: 1510, gain: 0.9122348154606219
+
+   ind                                             review  relevance
+0  19  whoa skeptical buying new juicer sooooo many d...   0.471516
+1  33  still love juicer owning using 5 months s easy...   0.439290
+2  20  decided month ago start juicing lower choleste...   0.393981
+3  27  researching juicers years literally friends gi...   0.387538
+4  14  big time researcher spent month checking juice...   0.287112
+5  11  ve owned juicer year best juicer ve ever juici...   0.278018
+6   9  excellent juicer green vegetable juice fruits ...   0.240244
+
+step 1
+index added: 34
+percentage unclustered: 86.9231%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 86.9231%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 86.1538%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [3, 6, 11, 13, 19, 33]
+		The relevance model has size: 8
+		4 reviews removed from the relevance model, indices: [3, 6, 19, 20]. 
+		It now has size: 4
+			old information: 904, gain: 0.7638453500522466
+
+   ind                                             review  relevance
+0  36  juicer arrived 2 days thanks amazon s great se...   0.475988
+1  19  whoa skeptical buying new juicer sooooo many d...   0.471516
+2  33  still love juicer owning using 5 months s easy...   0.439290
+3  20  decided month ago start juicing lower choleste...   0.393981
+4  27  researching juicers years literally friends gi...   0.387538
+5  14  big time researcher spent month checking juice...   0.287112
+6  11  ve owned juicer year best juicer ve ever juici...   0.278018
+7   9  excellent juicer green vegetable juice fruits ...   0.240244
+
+step 1
+index added: 37
+percentage unclustered: 86.1538%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 85.3846%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [11, 13, 19, 38]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [11, 19, 27]. 
+		It now has size: 3
+			old information: 3374, gain: 0.9257662097643616
+
+   ind                                             review  relevance
+0  38  n t seen many reviews people put specific quan...   0.585001
+1  36  juicer arrived 2 days thanks amazon s great se...   0.475988
+2  19  whoa skeptical buying new juicer sooooo many d...   0.471516
+3  33  still love juicer owning using 5 months s easy...   0.439290
+4  20  decided month ago start juicing lower choleste...   0.393981
+5  27  researching juicers years literally friends gi...   0.387538
+6  14  big time researcher spent month checking juice...   0.287112
+7  11  ve owned juicer year best juicer ve ever juici...   0.278018
+8   9  excellent juicer green vegetable juice fruits ...   0.240244
+
+step 1
+index added: 39
+percentage unclustered: 84.6154%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 83.8462%
+
+	step 2
+
+		step 3
+		candidate index: 40 with core nodes: [11, 13, 19, 38]
+		The relevance model has size: 6
+		2 reviews removed from the relevance model, indices: [11, 13]. 
+		It now has size: 4
+			old information: 2217, gain: 0.9045219638242894
+
+   ind                                             review  relevance
+0  38  n t seen many reviews people put specific quan...   0.585001
+1  40  past year used breville juicer served well big...   0.547022
+2  36  juicer arrived 2 days thanks amazon s great se...   0.475988
+3  19  whoa skeptical buying new juicer sooooo many d...   0.471516
+4  33  still love juicer owning using 5 months s easy...   0.439290
+5  20  decided month ago start juicing lower choleste...   0.393981
+6  27  researching juicers years literally friends gi...   0.387538
+7  14  big time researcher spent month checking juice...   0.287112
+8  11  ve owned juicer year best juicer ve ever juici...   0.278018
+9   9  excellent juicer green vegetable juice fruits ...   0.240244
+
+step 1
+index added: 41
+percentage unclustered: 83.8462%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 83.8462%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 83.8462%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 83.8462%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 83.8462%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 83.8462%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 82.3077%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 82.3077%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 82.3077%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 82.3077%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 80.7692%
+
+	step 2
+
+		step 3
+		candidate index: 51 with core nodes: [11, 13, 38, 51]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [13, 33, 38, 40]. 
+		It now has size: 3
+			old information: 495, gain: 0.8706896551724138
+
+    ind                                             review  relevance
+0   38  n t seen many reviews people put specific quan...   0.585001
+1   51  recently bought omega breville juicer n t gett...   0.580631
+2   40  past year used breville juicer served well big...   0.547022
+3   36  juicer arrived 2 days thanks amazon s great se...   0.475988
+4   19  whoa skeptical buying new juicer sooooo many d...   0.471516
+5   33  still love juicer owning using 5 months s easy...   0.439290
+6   20  decided month ago start juicing lower choleste...   0.393981
+7   27  researching juicers years literally friends gi...   0.387538
+8   14  big time researcher spent month checking juice...   0.287112
+9   11  ve owned juicer year best juicer ve ever juici...   0.278018
+10   9  excellent juicer green vegetable juice fruits ...   0.240244
+
+step 1
+index added: 52
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 52 with core nodes: [11, 13, 38, 51]
+
+step 1
+index added: 53
+percentage unclustered: 80.7692%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 80.7692%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 55 with core nodes: [11, 13, 38, 51, 55]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [11, 13, 36]. 
+		It now has size: 3
+			old information: 2377, gain: 0.8793462260798944
+
+    ind                                             review  relevance
+0   55  n t think really compare omega masticating aug...   0.589473
+1   38  n t seen many reviews people put specific quan...   0.585001
+2   51  recently bought omega breville juicer n t gett...   0.580631
+3   40  past year used breville juicer served well big...   0.547022
+4   36  juicer arrived 2 days thanks amazon s great se...   0.475988
+5   19  whoa skeptical buying new juicer sooooo many d...   0.471516
+6   33  still love juicer owning using 5 months s easy...   0.439290
+7   20  decided month ago start juicing lower choleste...   0.393981
+8   27  researching juicers years literally friends gi...   0.387538
+9   14  big time researcher spent month checking juice...   0.287112
+10  11  ve owned juicer year best juicer ve ever juici...   0.278018
+11   9  excellent juicer green vegetable juice fruits ...   0.240244
+
+step 1
+index added: 56
+percentage unclustered: 81.5385%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 79.2308%
+
+	step 2
+
+		step 3
+		candidate index: 57 with core nodes: [49, 51, 57]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [19, 38, 49]. 
+		It now has size: 2
+			old information: 192, gain: 0.8950819672131147
+
+    ind                                             review  relevance
+0   55  n t think really compare omega masticating aug...   0.589473
+1   38  n t seen many reviews people put specific quan...   0.585001
+2   51  recently bought omega breville juicer n t gett...   0.580631
+3   57  bought juicer months ago nadv n making juice c...   0.559698
+4   40  past year used breville juicer served well big...   0.547022
+5   36  juicer arrived 2 days thanks amazon s great se...   0.475988
+6   19  whoa skeptical buying new juicer sooooo many d...   0.471516
+7   33  still love juicer owning using 5 months s easy...   0.439290
+8   20  decided month ago start juicing lower choleste...   0.393981
+9   27  researching juicers years literally friends gi...   0.387538
+10  14  big time researcher spent month checking juice...   0.287112
+11  11  ve owned juicer year best juicer ve ever juici...   0.278018
+12   9  excellent juicer green vegetable juice fruits ...   0.240244
+
+step 1
+index added: 58
+percentage unclustered: 78.4615%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 78.4615%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 76.9231%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 76.1538%
+
+	step 2
+
+		step 3
+		candidate index: 61 with core nodes: [11, 38, 61]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [38, 51, 57]. 
+		It now has size: 2
+			old information: 4603, gain: 0.9152067790365662
+
+    ind                                             review  relevance
+0   61  used centrifugal juicers years used cleaning c...   0.637601
+1   55  n t think really compare omega masticating aug...   0.589473
+2   38  n t seen many reviews people put specific quan...   0.585001
+3   51  recently bought omega breville juicer n t gett...   0.580631
+4   57  bought juicer months ago nadv n making juice c...   0.559698
+5   40  past year used breville juicer served well big...   0.547022
+6   36  juicer arrived 2 days thanks amazon s great se...   0.475988
+7   19  whoa skeptical buying new juicer sooooo many d...   0.471516
+8   33  still love juicer owning using 5 months s easy...   0.439290
+9   20  decided month ago start juicing lower choleste...   0.393981
+10  27  researching juicers years literally friends gi...   0.387538
+11  14  big time researcher spent month checking juice...   0.287112
+12  11  ve owned juicer year best juicer ve ever juici...   0.278018
+13   9  excellent juicer green vegetable juice fruits ...   0.240244
+
+step 1
+index added: 62
+percentage unclustered: 75.3846%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 75.3846%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 74.6154%
+
+	step 2
+
+		step 3
+		candidate index: 64 with core nodes: [11, 38, 61]
+
+step 1
+index added: 65
+percentage unclustered: 74.6154%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 73.8462%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 74.6154%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 74.6154%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 73.8462%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 74.6154%
+
+	step 2
+
+		step 3
+		candidate index: 70 with core nodes: [11, 38, 49, 61]
+
+step 1
+index added: 71
+percentage unclustered: 76.1538%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 76.1538%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 75.3846%
+
+	step 2
+
+		step 3
+		candidate index: 73 with core nodes: [11, 38, 49, 61, 73]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [49, 55, 61]. 
+		It now has size: 2
+			old information: 3735, gain: 0.9008626410086265
+
+    ind                                             review  relevance
+0   73  love juicer n nthe omega 8005 incredibly effic...   0.655934
+1   61  used centrifugal juicers years used cleaning c...   0.637601
+2   55  n t think really compare omega masticating aug...   0.589473
+3   38  n t seen many reviews people put specific quan...   0.585001
+4   51  recently bought omega breville juicer n t gett...   0.580631
+5   57  bought juicer months ago nadv n making juice c...   0.559698
+6   40  past year used breville juicer served well big...   0.547022
+7   36  juicer arrived 2 days thanks amazon s great se...   0.475988
+8   19  whoa skeptical buying new juicer sooooo many d...   0.471516
+9   33  still love juicer owning using 5 months s easy...   0.439290
+10  20  decided month ago start juicing lower choleste...   0.393981
+11  27  researching juicers years literally friends gi...   0.387538
+12  14  big time researcher spent month checking juice...   0.287112
+13  11  ve owned juicer year best juicer ve ever juici...   0.278018
+14   9  excellent juicer green vegetable juice fruits ...   0.240244
+
+step 1
+index added: 74
+percentage unclustered: 74.6154%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 75.3846%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 72.3077%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 69.2308%
+
+	step 2
+
+		step 3
+		candidate index: 77 with core nodes: [11, 61, 73]
+
+step 1
+index added: 78
+percentage unclustered: 66.9231%
+
+	step 2
+
+		step 3
+		candidate index: 78 with core nodes: [11, 61, 73]
+
+step 1
+index added: 79
+percentage unclustered: 66.15379999999999%
+
+	step 2
+
+		step 3
+		candidate index: 79 with core nodes: [11, 61, 73]
+
+step 1
+index added: 80
+percentage unclustered: 65.3846%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 64.6154%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 64.6154%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 63.0769%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 62.3077%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 62.3077%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 62.3077%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 61.5385%
+
+	step 2
+
+		step 3
+		candidate index: 87 with core nodes: [45, 49, 57]
+
+step 1
+index added: 88
+percentage unclustered: 61.5385%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 60.7692%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 60.7692%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 60.7692%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 60.7692%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 60.7692%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 59.2308%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 58.4615%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 58.4615%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 59.2308%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 59.2308%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 58.4615%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 58.4615%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 58.4615%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 57.6923%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 57.6923%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 57.6923%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 56.9231%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 56.1538%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 56.1538%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 56.1538%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 55.3846%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 55.3846%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 55.3846%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 57.6923%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 57.6923%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 56.9231%
+
+	step 2
+
+		step 3
+		candidate index: 117 with core nodes: [45, 49, 57, 117]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [11, 49, 73]. 
+		It now has size: 3
+			old information: 1206, gain: 0.8646616541353384
+
+     ind                                             review  relevance
+0   117  use juicer week best performed hard produce fr...   0.752283
+1    73  love juicer n nthe omega 8005 incredibly effic...   0.655934
+2    61  used centrifugal juicers years used cleaning c...   0.637601
+3    55  n t think really compare omega masticating aug...   0.589473
+4    38  n t seen many reviews people put specific quan...   0.585001
+5    51  recently bought omega breville juicer n t gett...   0.580631
+6    57  bought juicer months ago nadv n making juice c...   0.559698
+7    40  past year used breville juicer served well big...   0.547022
+8    36  juicer arrived 2 days thanks amazon s great se...   0.475988
+9    19  whoa skeptical buying new juicer sooooo many d...   0.471516
+10   33  still love juicer owning using 5 months s easy...   0.439290
+11   20  decided month ago start juicing lower choleste...   0.393981
+12   27  researching juicers years literally friends gi...   0.387538
+13   14  big time researcher spent month checking juice...   0.287112
+14   11  ve owned juicer year best juicer ve ever juici...   0.278018
+15    9  excellent juicer green vegetable juice fruits ...   0.240244
+
+step 1
+index added: 118
+percentage unclustered: 56.9231%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 56.9231%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 54.6154%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 54.6154%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 54.6154%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 52.3077%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 52.3077%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 50.7692%
+
+	step 2
+
+		step 3
+		candidate index: 125 with core nodes: [49, 57, 117]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [38, 49, 57]. 
+		It now has size: 2
+			old information: 2510, gain: 0.9046895766090753
+
+     ind                                             review  relevance
+0   117  use juicer week best performed hard produce fr...   0.752283
+1    73  love juicer n nthe omega 8005 incredibly effic...   0.655934
+2    61  used centrifugal juicers years used cleaning c...   0.637601
+3   125  never expected juicer could become favorite ki...   0.622495
+4    55  n t think really compare omega masticating aug...   0.589473
+5    38  n t seen many reviews people put specific quan...   0.585001
+6    51  recently bought omega breville juicer n t gett...   0.580631
+7    57  bought juicer months ago nadv n making juice c...   0.559698
+8    40  past year used breville juicer served well big...   0.547022
+9    36  juicer arrived 2 days thanks amazon s great se...   0.475988
+10   19  whoa skeptical buying new juicer sooooo many d...   0.471516
+11   33  still love juicer owning using 5 months s easy...   0.439290
+12   20  decided month ago start juicing lower choleste...   0.393981
+13   27  researching juicers years literally friends gi...   0.387538
+14   14  big time researcher spent month checking juice...   0.287112
+15   11  ve owned juicer year best juicer ve ever juici...   0.278018
+16    9  excellent juicer green vegetable juice fruits ...   0.240244
+
+step 1
+index added: 126
+percentage unclustered: 50.7692%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 50.7692%
+
+	step 2
+
+step 1
+index added: 128
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 49.2308%
+
+	step 2
+
+--- 280.3217568397522 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 97.6923, 97.6923, 96.1538, 96.1538, 96.1538, 95.3846, 95.3846, 93.0769, 93.0769, 93.0769, 91.5385, 90.7692, 90.0, 90.0, 90.0, 90.0, 89.2308, 89.2308, 90.7692, 90.7692, 91.5385, 90.7692, 86.9231, 86.9231, 86.9231, 86.9231, 86.9231, 86.1538, 86.1538, 85.3846, 84.6154, 83.8462, 83.8462, 83.8462, 83.8462, 83.8462, 83.8462, 83.8462, 82.3077, 82.3077, 82.3077, 82.3077, 80.7692, 80.0, 80.7692, 80.7692, 80.0, 81.5385, 79.2308, 78.4615, 78.4615, 76.9231, 76.1538, 75.3846, 75.3846, 74.6154, 74.6154, 73.8462, 74.6154, 74.6154, 73.8462, 74.6154, 76.1538, 76.1538, 75.3846, 74.6154, 75.3846, 72.3077, 69.2308, 66.9231, 66.15379999999999, 65.3846, 64.6154, 64.6154, 63.0769, 62.3077, 62.3077, 62.3077, 61.5385, 61.5385, 60.7692, 60.7692, 60.7692, 60.7692, 60.7692, 60.0, 60.0, 60.0, 59.2308, 58.4615, 58.4615, 59.2308, 59.2308, 58.4615, 58.4615, 58.4615, 57.6923, 57.6923, 57.6923, 56.9231, 56.1538, 56.1538, 56.1538, 55.3846, 55.3846, 55.3846, 57.6923, 57.6923, 56.9231, 56.9231, 56.9231, 54.6154, 54.6154, 54.6154, 52.3077, 52.3077, 50.7692, 50.7692, 50.7692, 50.0, 49.2308], mean: 74.381
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0        13  117   0.752283  use juicer week best performed hard produce fr...
+1        52   73   0.655934  love juicer n nthe omega 8005 incredibly effic...
+2        54   61   0.637601  used centrifugal juicers years used cleaning c...
+3         4  125   0.622495  never expected juicer could become favorite ki...
+4        42   55   0.589473  n t think really compare omega masticating aug...
+5        75   38   0.585001  n t seen many reviews people put specific quan...
+6        91   51   0.580631  recently bought omega breville juicer n t gett...
+7        66   57   0.559698  bought juicer months ago nadv n making juice c...
+8        25   40   0.547022  past year used breville juicer served well big...
+9        97   36   0.475988  juicer arrived 2 days thanks amazon s great se...
+10       57   19   0.471516  whoa skeptical buying new juicer sooooo many d...
+11      114   33   0.439290  still love juicer owning using 5 months s easy...
+12       69   20   0.393981  decided month ago start juicing lower choleste...
+13       81   27   0.387538  researching juicers years literally friends gi...
+14       88   14   0.287112  big time researcher spent month checking juice...
+15       56   11   0.278018  ve owned juicer year best juicer ve ever juici...
+16       28    9   0.240244  excellent juicer green vegetable juice fruits ...

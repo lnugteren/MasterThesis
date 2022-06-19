@@ -1,0 +1,256 @@
+------- Category: Electronics -------
+Found asin_id: B00000J1U8
+Shape:  (30, 7)
+
+
+Chosen product: B00000J1U8 has 30 reviews - True, it has 30 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 3 with core nodes: [0, 2, 3]
+		The relevance model has size: 2
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 2
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   3  ordered three cables appearance slightly diffe...   0.076073
+
+step 1
+index added: 4
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 5
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 6
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [0, 1, 2, 7]
+		The relevance model has size: 5
+		2 reviews removed from the relevance model, indices: [0, 3]. 
+		It now has size: 3
+			old information: 0, gain: 1.0
+
+step 1
+index added: 10
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [0, 1, 2, 7]
+
+step 1
+index added: 11
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [0, 2, 7, 11]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [0, 2, 7]. 
+		It now has size: 2
+			old information: 3, gain: 0.9939516129032258
+
+   ind                                             review  relevance
+0  11  forewarned cable belkin 6ft f3u134 06 usb 2 0 ...   0.109190
+1   3  ordered three cables appearance slightly diffe...   0.076073
+
+step 1
+index added: 12
+percentage unclustered: 63.3333%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [0, 2, 7, 11, 12]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [1, 2, 11]. 
+		It now has size: 3
+			old information: 16, gain: 0.9804878048780488
+
+   ind                                             review  relevance
+0  12  ve purchased several belkin cables always seem...   0.434398
+1  11  forewarned cable belkin 6ft f3u134 06 usb 2 0 ...   0.109190
+2   3  ordered three cables appearance slightly diffe...   0.076073
+
+step 1
+index added: 13
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 60.0%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [0, 2, 7, 11, 12, 15]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [2, 7, 9]. 
+		It now has size: 3
+			old information: 21, gain: 0.8894736842105263
+
+   ind                                             review  relevance
+0  15  item specify version usb support support usb 1...   0.436033
+1  12  ve purchased several belkin cables always seem...   0.434398
+2  11  forewarned cable belkin 6ft f3u134 06 usb 2 0 ...   0.109190
+3   3  ordered three cables appearance slightly diffe...   0.076073
+
+step 1
+index added: 16
+percentage unclustered: 56.6667%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [0, 7, 16]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [0, 7, 11]. 
+		It now has size: 2
+			old information: 58, gain: 0.9922697587631614
+
+   ind                                             review  relevance
+0  16  re looking basic 10 usb extension cable ve com...   0.511325
+1  15  item specify version usb support support usb 1...   0.436033
+2  12  ve purchased several belkin cables always seem...   0.434398
+3  11  forewarned cable belkin 6ft f3u134 06 usb 2 0 ...   0.109190
+4   3  ordered three cables appearance slightly diffe...   0.076073
+
+step 1
+index added: 17
+percentage unclustered: 56.6667%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 56.6667%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 56.6667%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 56.6667%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 56.6667%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 56.6667%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 56.6667%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 56.6667%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 56.6667%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 56.6667%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 56.6667%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 56.6667%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 46.6667%
+
+	step 2
+
+--- 1.7619614601135254 seconds ---
+
+
+ Unclustered percentages: [100.0, 90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 80.0, 76.66669999999999, 66.66669999999999, 63.3333, 63.3333, 63.3333, 60.0, 56.6667, 56.6667, 56.6667, 56.6667, 56.6667, 56.6667, 56.6667, 56.6667, 56.6667, 56.6667, 56.6667, 56.6667, 56.6667, 46.6667], mean: 67.7381
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0        8  16   0.511325  re looking basic 10 usb extension cable ve com...
+1        9  15   0.436033  item specify version usb support support usb 1...
+2       19  12   0.434398  ve purchased several belkin cables always seem...
+3       12  11   0.109190  forewarned cable belkin 6ft f3u134 06 usb 2 0 ...
+4        6   3   0.076073  ordered three cables appearance slightly diffe...

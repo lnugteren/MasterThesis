@@ -1,0 +1,299 @@
+------- Category: Electronics -------
+Found asin_id: B00004T1XK
+Shape:  (40, 7)
+
+
+Chosen product: B00004T1XK has 40 reviews - True, it has 40 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [1, 11, 12]
+		The relevance model has size: 2
+		1 reviews removed from the relevance model, indices: [1]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  12  pleased find since large library cassettes nan...   0.054411
+
+step 1
+index added: 13
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [7, 11, 12, 17]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [7, 11]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+step 1
+index added: 18
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 87.5%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [11, 12, 17, 21]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [11, 12]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+step 1
+index added: 22
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [11, 17, 21, 22]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [11, 17]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+step 1
+index added: 23
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 25 with core nodes: [1, 11, 17, 21, 22, 25]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [1, 17, 21]. 
+		It now has size: 2
+			old information: 1, gain: 0.9963768115942029
+
+   ind                                             review  relevance
+0  25  pleased recorder easy operate good job recorde...   0.169842
+1  12  pleased find since large library cassettes nan...   0.054411
+
+step 1
+index added: 26
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 31 with core nodes: [1, 11, 17, 21, 22, 25]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [17, 22, 25]. 
+		It now has size: 3
+			old information: 1, gain: 0.9971509971509972
+
+   ind                                             review  relevance
+0  25  pleased recorder easy operate good job recorde...   0.169842
+1  31  performs advertised sturdy excellent value pri...   0.158587
+2  12  pleased find since large library cassettes nan...   0.054411
+
+step 1
+index added: 32
+percentage unclustered: 72.5%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [1, 2, 11, 17]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [2, 11, 21]. 
+		It now has size: 3
+			old information: 5, gain: 0.9802371541501976
+
+   ind                                             review  relevance
+0  32  great tape recorder recording live music low b...   0.253708
+1  25  pleased recorder easy operate good job recorde...   0.169842
+2  31  performs advertised sturdy excellent value pri...   0.158587
+3  12  pleased find since large library cassettes nan...   0.054411
+
+step 1
+index added: 33
+percentage unclustered: 65.0%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [1, 11, 17]
+
+step 1
+index added: 34
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 65.0%
+
+	step 2
+
+--- 2.4132015705108643 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 92.5, 90.0, 90.0, 90.0, 90.0, 92.5, 90.0, 90.0, 90.0, 90.0, 87.5, 85.0, 85.0, 85.0, 80.0, 80.0, 80.0, 80.0, 80.0, 82.5, 80.0, 72.5, 65.0, 65.0, 65.0, 65.0, 65.0, 65.0, 65.0], mean: 85.1974
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0        8  32   0.253708  great tape recorder recording live music low b...
+1       31  25   0.169842  pleased recorder easy operate good job recorde...
+2        7  31   0.158587  performs advertised sturdy excellent value pri...
+3       29  12   0.054411  pleased find since large library cassettes nan...
