@@ -1,0 +1,736 @@
+------- Category: Office_Products -------
+Found asin_id: B00006IFI5
+Shape:  (100, 7)
+
+Readability scores: [50.60250000000002, 24.20586206896553, -63.8171597633136, 43.00500000000004, -282.4860880829015, -4.908387096774177, 46.45114754098363, 26.77795180722893, -10.72272727272724, 44.40293103448278, 49.53789473684211, 76.32192307692308, -211.5182258064516, -58.79577922077917, 41.59500000000001, 67.46538461538464, -251.62487179487175, -88.66499999999996, -94.66666666666663, 45.143488372093046, 17.784285714285744, 38.86876712328768, 6.917419354838728, 60.88302325581398, -77.83372781065087, 89.5921052631579, 61.4764285714286, 42.900377358490594, -2.192743362831834, 51.07260869565218, 46.70000000000002, -10.8946226415094, 38.56844827586209, 15.982500000000016, 5.105882352941194, 9.265000000000029, -12.769736842105246, 81.82375000000002, 88.83428571428574, 64.57423076923078, -52.55233128834354, 82.74852941176471, 65.28000000000002, 41.408783783783804, 101.93500000000002, -231.4270149253731, 22.156627906976766, -1.406428571428549, 2.116764705882389, -15.913953488372044, 76.32192307692308, -52.88033112582778, 72.04500000000002, 13.509310344827611, 66.03863636363637, 58.86264150943398, 66.5448275862069, -152.94531645569617, 87.11125000000001, 73.17700000000002, -70.41982758620686, -174.09171641791042, -111.45334862385317, 60.363333333333344, 73.1421739130435, -17.88249999999998, 9.086516853932608, -126.19674208144792, -126.4550218340611, 57.19941176470589, -68.04005988023951, -62.561320754716945, -95.1044736842105, 23.925522388059733, 73.2, 42.27542372881358, -18.671734693877525, 26.500779220779236, 179.43, -86.96999999999997, -54.36331210191079, -89.60499999999998, 22.10597402597405, -13.040714285714245, 35.7973529411765, 82.82961538461541, 12.217662337662361, -114.39419354838705, -175.92722007722006, 47.79500000000003, 62.60000000000001, 20.493258426966307, 50.65681818181821, -185.35999999999999, 70.30710526315791, -219.81649517684883, 57.793103448275886, 43.565000000000026, -235.966253776435, 34.9269230769231], on average: -5.7302
+Readability scores after: [24.20586206896553, -63.8171597633136, 43.00500000000004, -282.4860880829015, -4.908387096774177, 46.45114754098363, 26.77795180722893, -10.72272727272724, 44.40293103448278, 49.53789473684211, -211.5182258064516, -58.79577922077917, 41.59500000000001, -251.62487179487175, -88.66499999999996, -94.66666666666663, 45.143488372093046, 17.784285714285744, 38.86876712328768, 6.917419354838728, -77.83372781065087, 42.900377358490594, -2.192743362831834, 46.70000000000002, -10.8946226415094, 38.56844827586209, 15.982500000000016, 5.105882352941194, 9.265000000000029, -12.769736842105246, -52.55233128834354, 41.408783783783804, -231.4270149253731, 22.156627906976766, -1.406428571428549, 2.116764705882389, -15.913953488372044, -52.88033112582778, 13.509310344827611, -152.94531645569617, -70.41982758620686, -174.09171641791042, -111.45334862385317, -17.88249999999998, 9.086516853932608, -126.19674208144792, -126.4550218340611, -68.04005988023951, -62.561320754716945, -95.1044736842105, 23.925522388059733, 42.27542372881358, -18.671734693877525, 26.500779220779236, -86.96999999999997, -54.36331210191079, -89.60499999999998, 22.10597402597405, -13.040714285714245, 35.7973529411765, 12.217662337662361, -114.39419354838705, -175.92722007722006, 47.79500000000003, 20.493258426966307, -185.35999999999999, -219.81649517684883, 43.565000000000026, -235.966253776435, 34.9269230769231], on average after: -39.7607
+Shape after:  (70, 8)
+
+
+Chosen product: B00006IFI5 has 100 reviews - False, it has 70 reviews
+Duplicate reviewers?:  46    A1X1CEGHTHMBL1
+Name: reviewerID, dtype: object
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 95.7143%
+
+	step 2
+
+		step 3
+		candidate index: 4 with core nodes: [1, 2, 4]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   4  bought use coloring books vibrant wonderful bl...   0.245681
+
+step 1
+index added: 5
+percentage unclustered: 94.2857%
+
+	step 2
+
+		step 3
+		candidate index: 5 with core nodes: [1, 2, 4, 5]
+			old information: 22, gain: 0.9417989417989417
+
+   ind                                             review  relevance
+0   5  love sharpie pens great spirograph fine point ...   0.293568
+1   4  bought use coloring books vibrant wonderful bl...   0.245681
+
+step 1
+index added: 6
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 92.8571%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [1, 4, 5, 11]
+			old information: 29, gain: 0.9903429903429903
+
+   ind                                             review  relevance
+0   5  love sharpie pens great spirograph fine point ...   0.293568
+1  11  purchased pens great excitement disappointed h...   0.291655
+2   4  bought use coloring books vibrant wonderful bl...   0.245681
+
+step 1
+index added: 12
+percentage unclustered: 92.8571%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 92.8571%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 91.4286%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [1, 4, 5, 11]
+			old information: 89, gain: 0.9851542952460384
+
+   ind                                             review  relevance
+0   5  love sharpie pens great spirograph fine point ...   0.293568
+1  11  purchased pens great excitement disappointed h...   0.291655
+2   4  bought use coloring books vibrant wonderful bl...   0.245681
+3  14  yes smell like sharpie markers alcohol based o...   0.235136
+
+step 1
+index added: 15
+percentage unclustered: 87.1429%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [1, 10, 13]
+			old information: 332, gain: 0.9355464958260532
+
+   ind                                             review  relevance
+0  15  markers markers brands water based others even...   0.423369
+1   5  love sharpie pens great spirograph fine point ...   0.293568
+2  11  purchased pens great excitement disappointed h...   0.291655
+3   4  bought use coloring books vibrant wonderful bl...   0.245681
+4  14  yes smell like sharpie markers alcohol based o...   0.235136
+
+step 1
+index added: 16
+percentage unclustered: 87.1429%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 87.1429%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 85.7143%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 85.7143%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 81.4286%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [1, 3, 10]
+			old information: 221, gain: 0.9570957095709571
+
+   ind                                             review  relevance
+0  20  love black ultra fine point sharpies thing bet...   0.425497
+1  15  markers markers brands water based others even...   0.423369
+2   5  love sharpie pens great spirograph fine point ...   0.293568
+3  11  purchased pens great excitement disappointed h...   0.291655
+4   4  bought use coloring books vibrant wonderful bl...   0.245681
+5  14  yes smell like sharpie markers alcohol based o...   0.235136
+
+step 1
+index added: 21
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 78.5714%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [1, 3, 10]
+
+step 1
+index added: 25
+percentage unclustered: 77.1429%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 77.1429%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 75.71430000000001%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [10, 20, 27]
+			old information: 73, gain: 0.9379251700680272
+
+   ind                                             review  relevance
+0  20  love black ultra fine point sharpies thing bet...   0.425497
+1  15  markers markers brands water based others even...   0.423369
+2  27  far favorite set sharpie limited edition color...   0.378860
+3   5  love sharpie pens great spirograph fine point ...   0.293568
+4  11  purchased pens great excitement disappointed h...   0.291655
+5   4  bought use coloring books vibrant wonderful bl...   0.245681
+6  14  yes smell like sharpie markers alcohol based o...   0.235136
+
+step 1
+index added: 28
+percentage unclustered: 75.71430000000001%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 75.71430000000001%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 75.71430000000001%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 75.71430000000001%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 75.71430000000001%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 75.71430000000001%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 75.71430000000001%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [1, 3, 4, 15, 20, 27]
+
+step 1
+index added: 35
+percentage unclustered: 77.1429%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 72.8571%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 72.8571%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 72.8571%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [1, 3, 4, 15, 20]
+
+step 1
+index added: 39
+percentage unclustered: 71.4286%
+
+	step 2
+
+		step 3
+		candidate index: 39 with core nodes: [1, 4, 13, 15, 39]
+			old information: 888, gain: 0.947255880256593
+
+   ind                                             review  relevance
+0  20  love black ultra fine point sharpies thing bet...   0.425497
+1  39  bought whim brick and mortar make write better...   0.424748
+2  15  markers markers brands water based others even...   0.423369
+3  27  far favorite set sharpie limited edition color...   0.378860
+4   5  love sharpie pens great spirograph fine point ...   0.293568
+5  11  purchased pens great excitement disappointed h...   0.291655
+6   4  bought use coloring books vibrant wonderful bl...   0.245681
+7  14  yes smell like sharpie markers alcohol based o...   0.235136
+
+		step 3
+		candidate index: 39 with core nodes: [1, 3, 4, 13, 20, 39]
+			old information: 7307, gain: 0.5659895462105013
+
+   ind                                             review  relevance
+0  39  bought whim brick and mortar make write better...   0.563354
+1  20  love black ultra fine point sharpies thing bet...   0.425497
+2  39  bought whim brick and mortar make write better...   0.424748
+3  15  markers markers brands water based others even...   0.423369
+4  27  far favorite set sharpie limited edition color...   0.378860
+5   5  love sharpie pens great spirograph fine point ...   0.293568
+6  11  purchased pens great excitement disappointed h...   0.291655
+7   4  bought use coloring books vibrant wonderful bl...   0.245681
+8  14  yes smell like sharpie markers alcohol based o...   0.235136
+
+step 1
+index added: 40
+percentage unclustered: 71.4286%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 75.71430000000001%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 75.71430000000001%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 75.71430000000001%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 75.71430000000001%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 75.71430000000001%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 74.28569999999999%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [1, 3, 4, 15, 20]
+			old information: 500, gain: 0.9263188918361333
+
+   ind                                             review  relevance
+0  39  bought whim brick and mortar make write better...   0.563354
+1  20  love black ultra fine point sharpies thing bet...   0.425497
+2  39  bought whim brick and mortar make write better...   0.424748
+3  15  markers markers brands water based others even...   0.423369
+4  27  far favorite set sharpie limited edition color...   0.378860
+5  46  buy box anyone ever remember without sharpies ...   0.349326
+6   5  love sharpie pens great spirograph fine point ...   0.293568
+7  11  purchased pens great excitement disappointed h...   0.291655
+8   4  bought use coloring books vibrant wonderful bl...   0.245681
+9  14  yes smell like sharpie markers alcohol based o...   0.235136
+
+		step 3
+		candidate index: 46 with core nodes: [1, 3, 4, 13, 20, 39]
+			old information: 3934, gain: 0.42027704096669616
+
+    ind                                             review  relevance
+0   39  bought whim brick and mortar make write better...   0.563354
+1   46  buy box anyone ever remember without sharpies ...   0.447046
+2   20  love black ultra fine point sharpies thing bet...   0.425497
+3   39  bought whim brick and mortar make write better...   0.424748
+4   15  markers markers brands water based others even...   0.423369
+5   27  far favorite set sharpie limited edition color...   0.378860
+6   46  buy box anyone ever remember without sharpies ...   0.349326
+7    5  love sharpie pens great spirograph fine point ...   0.293568
+8   11  purchased pens great excitement disappointed h...   0.291655
+9    4  bought use coloring books vibrant wonderful bl...   0.245681
+10  14  yes smell like sharpie markers alcohol based o...   0.235136
+
+step 1
+index added: 47
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [1, 3, 10]
+
+step 1
+index added: 48
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 74.28569999999999%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [1, 3, 49]
+			old information: 454, gain: 0.9184186882300089
+
+    ind                                             review  relevance
+0   39  bought whim brick and mortar make write better...   0.563354
+1   49  nthese three metallic markers sharpie easy use...   0.458903
+2   46  buy box anyone ever remember without sharpies ...   0.447046
+3   20  love black ultra fine point sharpies thing bet...   0.425497
+4   39  bought whim brick and mortar make write better...   0.424748
+5   15  markers markers brands water based others even...   0.423369
+6   27  far favorite set sharpie limited edition color...   0.378860
+7   46  buy box anyone ever remember without sharpies ...   0.349326
+8    5  love sharpie pens great spirograph fine point ...   0.293568
+9   11  purchased pens great excitement disappointed h...   0.291655
+10   4  bought use coloring books vibrant wonderful bl...   0.245681
+11  14  yes smell like sharpie markers alcohol based o...   0.235136
+
+step 1
+index added: 50
+percentage unclustered: 74.28569999999999%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 72.8571%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 74.28569999999999%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 78.5714%
+
+	step 2
+
+		step 3
+		candidate index: 53 with core nodes: [1, 4, 5, 11, 13, 24, 39, 49, 53]
+			old information: 80, gain: 0.8920377867746289
+
+    ind                                             review  relevance
+0   39  bought whim brick and mortar make write better...   0.563354
+1   49  nthese three metallic markers sharpie easy use...   0.458903
+2   46  buy box anyone ever remember without sharpies ...   0.447046
+3   20  love black ultra fine point sharpies thing bet...   0.425497
+4   39  bought whim brick and mortar make write better...   0.424748
+5   15  markers markers brands water based others even...   0.423369
+6   27  far favorite set sharpie limited edition color...   0.378860
+7   46  buy box anyone ever remember without sharpies ...   0.349326
+8    5  love sharpie pens great spirograph fine point ...   0.293568
+9   11  purchased pens great excitement disappointed h...   0.291655
+10  53  ordered pens write glossy paper smear work gre...   0.290828
+11   4  bought use coloring books vibrant wonderful bl...   0.245681
+12  14  yes smell like sharpie markers alcohol based o...   0.235136
+
+step 1
+index added: 54
+percentage unclustered: 71.4286%
+
+	step 2
+
+		step 3
+		candidate index: 54 with core nodes: [1, 4, 13, 20, 39, 49, 54]
+			old information: 319, gain: 0.9300438596491228
+
+    ind                                             review  relevance
+0   39  bought whim brick and mortar make write better...   0.563354
+1   54  many black cables various computer electronic ...   0.476743
+2   49  nthese three metallic markers sharpie easy use...   0.458903
+3   46  buy box anyone ever remember without sharpies ...   0.447046
+4   20  love black ultra fine point sharpies thing bet...   0.425497
+5   39  bought whim brick and mortar make write better...   0.424748
+6   15  markers markers brands water based others even...   0.423369
+7   27  far favorite set sharpie limited edition color...   0.378860
+8   46  buy box anyone ever remember without sharpies ...   0.349326
+9    5  love sharpie pens great spirograph fine point ...   0.293568
+10  11  purchased pens great excitement disappointed h...   0.291655
+11  53  ordered pens write glossy paper smear work gre...   0.290828
+12   4  bought use coloring books vibrant wonderful bl...   0.245681
+13  14  yes smell like sharpie markers alcohol based o...   0.235136
+
+step 1
+index added: 55
+percentage unclustered: 71.4286%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 68.5714%
+
+	step 2
+
+		step 3
+		candidate index: 57 with core nodes: [1, 4, 13, 20, 39, 49, 54]
+			old information: 88, gain: 0.8678678678678678
+
+    ind                                             review  relevance
+0   39  bought whim brick and mortar make write better...   0.563354
+1   54  many black cables various computer electronic ...   0.476743
+2   49  nthese three metallic markers sharpie easy use...   0.458903
+3   46  buy box anyone ever remember without sharpies ...   0.447046
+4   20  love black ultra fine point sharpies thing bet...   0.425497
+5   39  bought whim brick and mortar make write better...   0.424748
+6   15  markers markers brands water based others even...   0.423369
+7   27  far favorite set sharpie limited edition color...   0.378860
+8   46  buy box anyone ever remember without sharpies ...   0.349326
+9   57  since using opposed fine point writing much cl...   0.306529
+10   5  love sharpie pens great spirograph fine point ...   0.293568
+11  11  purchased pens great excitement disappointed h...   0.291655
+12  53  ordered pens write glossy paper smear work gre...   0.290828
+13   4  bought use coloring books vibrant wonderful bl...   0.245681
+14  14  yes smell like sharpie markers alcohol based o...   0.235136
+
+step 1
+index added: 58
+percentage unclustered: 61.4286%
+
+	step 2
+
+		step 3
+		candidate index: 58 with core nodes: [1, 4, 10, 13, 20, 39, 49, 54, 58]
+			old information: 248, gain: 0.9002012072434608
+
+    ind                                             review  relevance
+0   39  bought whim brick and mortar make write better...   0.563354
+1   58  buy office store n ni love sharpie love marker...   0.481035
+2   54  many black cables various computer electronic ...   0.476743
+3   49  nthese three metallic markers sharpie easy use...   0.458903
+4   46  buy box anyone ever remember without sharpies ...   0.447046
+5   20  love black ultra fine point sharpies thing bet...   0.425497
+6   39  bought whim brick and mortar make write better...   0.424748
+7   15  markers markers brands water based others even...   0.423369
+8   27  far favorite set sharpie limited edition color...   0.378860
+9   46  buy box anyone ever remember without sharpies ...   0.349326
+10  57  since using opposed fine point writing much cl...   0.306529
+11   5  love sharpie pens great spirograph fine point ...   0.293568
+12  11  purchased pens great excitement disappointed h...   0.291655
+13  53  ordered pens write glossy paper smear work gre...   0.290828
+14   4  bought use coloring books vibrant wonderful bl...   0.245681
+15  14  yes smell like sharpie markers alcohol based o...   0.235136
+
+step 1
+index added: 59
+percentage unclustered: 60.0%
+
+	step 2
+
+		step 3
+		candidate index: 59 with core nodes: [1, 4, 10, 13, 20, 39, 49, 54, 58]
+
+step 1
+index added: 60
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 58.5714%
+
+	step 2
+
+		step 3
+		candidate index: 61 with core nodes: [1, 10, 20, 54, 58, 61]
+			old information: 495, gain: 0.9381327334083239
+
+    ind                                             review  relevance
+0   39  bought whim brick and mortar make write better...   0.563354
+1   58  buy office store n ni love sharpie love marker...   0.481035
+2   54  many black cables various computer electronic ...   0.476743
+3   49  nthese three metallic markers sharpie easy use...   0.458903
+4   61  n t normally write reviews magic markers one f...   0.448914
+5   46  buy box anyone ever remember without sharpies ...   0.447046
+6   20  love black ultra fine point sharpies thing bet...   0.425497
+7   39  bought whim brick and mortar make write better...   0.424748
+8   15  markers markers brands water based others even...   0.423369
+9   27  far favorite set sharpie limited edition color...   0.378860
+10  46  buy box anyone ever remember without sharpies ...   0.349326
+11  57  since using opposed fine point writing much cl...   0.306529
+12   5  love sharpie pens great spirograph fine point ...   0.293568
+13  11  purchased pens great excitement disappointed h...   0.291655
+14  53  ordered pens write glossy paper smear work gre...   0.290828
+15   4  bought use coloring books vibrant wonderful bl...   0.245681
+16  14  yes smell like sharpie markers alcohol based o...   0.235136
+
+step 1
+index added: 62
+percentage unclustered: 58.5714%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 58.5714%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 58.5714%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 58.5714%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 58.5714%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 58.5714%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 61.4286%
+
+	step 2
+
+		step 3
+		candidate index: 68 with core nodes: [1, 10, 20, 32, 54, 58, 61, 68]
+			old information: 938, gain: 0.9424186617556783
+
+    ind                                             review  relevance
+0   39  bought whim brick and mortar make write better...   0.563354
+1   68  first discovered sharpie permanent fine point ...   0.555233
+2   58  buy office store n ni love sharpie love marker...   0.481035
+3   54  many black cables various computer electronic ...   0.476743
+4   49  nthese three metallic markers sharpie easy use...   0.458903
+5   61  n t normally write reviews magic markers one f...   0.448914
+6   46  buy box anyone ever remember without sharpies ...   0.447046
+7   20  love black ultra fine point sharpies thing bet...   0.425497
+8   39  bought whim brick and mortar make write better...   0.424748
+9   15  markers markers brands water based others even...   0.423369
+10  27  far favorite set sharpie limited edition color...   0.378860
+11  46  buy box anyone ever remember without sharpies ...   0.349326
+12  57  since using opposed fine point writing much cl...   0.306529
+13   5  love sharpie pens great spirograph fine point ...   0.293568
+14  11  purchased pens great excitement disappointed h...   0.291655
+15  53  ordered pens write glossy paper smear work gre...   0.290828
+16   4  bought use coloring books vibrant wonderful bl...   0.245681
+17  14  yes smell like sharpie markers alcohol based o...   0.235136
+
+step 1
+index added: 69
+percentage unclustered: 61.4286%
+
+	step 2
+
+--- 42.29370450973511 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 95.7143, 94.2857, 94.2857, 94.2857, 94.2857, 94.2857, 94.2857, 92.8571, 92.8571, 92.8571, 91.4286, 87.1429, 87.1429, 87.1429, 85.7143, 85.7143, 81.4286, 81.4286, 80.0, 80.0, 78.5714, 77.1429, 77.1429, 75.71430000000001, 75.71430000000001, 75.71430000000001, 75.71430000000001, 75.71430000000001, 75.71430000000001, 75.71430000000001, 75.71430000000001, 77.1429, 72.8571, 72.8571, 72.8571, 71.4286, 71.4286, 75.71430000000001, 75.71430000000001, 75.71430000000001, 75.71430000000001, 75.71430000000001, 74.28569999999999, 70.0, 70.0, 74.28569999999999, 74.28569999999999, 72.8571, 74.28569999999999, 78.5714, 71.4286, 71.4286, 70.0, 68.5714, 61.4286, 60.0, 60.0, 58.5714, 58.5714, 58.5714, 58.5714, 58.5714, 58.5714, 58.5714, 61.4286, 61.4286], mean: 76.8697
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0         4  39   0.563354  bought whim brick and mortar make write better...
+1        21  68   0.555233  first discovered sharpie permanent fine point ...
+2        54  58   0.481035  buy office store n ni love sharpie love marker...
+3        61  54   0.476743  many black cables various computer electronic ...
+4        41  49   0.458903  nthese three metallic markers sharpie easy use...
+5        36  61   0.448914  n t normally write reviews magic markers one f...
+6         8  46   0.447046  buy box anyone ever remember without sharpies ...
+7        42  20   0.425497  love black ultra fine point sharpies thing bet...
+8         4  39   0.424748  bought whim brick and mortar make write better...
+9        53  15   0.423369  markers markers brands water based others even...
+10       55  27   0.378860  far favorite set sharpie limited edition color...
+11        8  46   0.349326  buy box anyone ever remember without sharpies ...
+12       35  57   0.306529  since using opposed fine point writing much cl...
+13       30   5   0.293568  love sharpie pens great spirograph fine point ...
+14       34  11   0.291655  purchased pens great excitement disappointed h...
+15       68  53   0.290828  ordered pens write glossy paper smear work gre...
+16       16   4   0.245681  bought use coloring books vibrant wonderful bl...
+17       22  14   0.235136  yes smell like sharpie markers alcohol based o...

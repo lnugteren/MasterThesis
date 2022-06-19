@@ -1,0 +1,137 @@
+------- Category: Office_Products -------
+Found asin_id: B00006B8HT
+Shape:  (30, 7)
+
+Readability scores: [115.54769230769233, 84.46750000000003, 76.03, -159.82905660377355, 40.78389610389614, -25.204090909090894, 73.17700000000002, -88.00983050847454, 48.84, -128.671615720524, 101.4, 80.50500000000002, -173.53760869565212, 42.72600000000003, 67.33000000000003, 6.368181818181839, -74.58263157894733, -27.764999999999958, 33.0564285714286, -6.899999999999963, 66.56038461538462, 52.506315789473696, 44.91764705882353, -16.277187499999968, -38.99961538461537, 89.3373076923077, 35.950000000000024, -33.11488721804507, 61.4764285714286, -2.8597058823529125], on average: 11.5076
+Readability scores after: [-159.82905660377355, 40.78389610389614, -25.204090909090894, -88.00983050847454, 48.84, -128.671615720524, -173.53760869565212, 42.72600000000003, 6.368181818181839, -74.58263157894733, -27.764999999999958, 33.0564285714286, -6.899999999999963, 44.91764705882353, -16.277187499999968, -38.99961538461537, 35.950000000000024, -33.11488721804507, -2.8597058823529125], on average after: -27.5321
+Shape after:  (19, 8)
+
+
+Chosen product: B00006B8HT has 30 reviews - False, it has 19 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 84.2105%
+
+	step 2
+
+step 1
+index added: 5
+percentage unclustered: 84.2105%
+
+	step 2
+
+step 1
+index added: 6
+percentage unclustered: 84.2105%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 84.2105%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 84.2105%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 84.2105%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 84.2105%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 84.2105%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 78.9474%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [1, 2, 4, 12]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  12  purchased product expectation rather large per...   0.311693
+
+step 1
+index added: 13
+percentage unclustered: 57.8947%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [2, 7, 13]
+			old information: 21, gain: 0.97165991902834
+
+   ind                                             review  relevance
+0  13  could n t find dimensions little arms hold boo...   0.372169
+1  12  purchased product expectation rather large per...   0.311693
+
+step 1
+index added: 14
+percentage unclustered: 57.8947%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 57.8947%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 47.3684%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [2, 6, 7, 10, 13, 15]
+
+step 1
+index added: 17
+percentage unclustered: 47.3684%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 47.3684%
+
+	step 2
+
+--- 0.6758604049682617 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 84.2105, 84.2105, 84.2105, 84.2105, 84.2105, 84.2105, 84.2105, 84.2105, 78.9474, 57.8947, 57.8947, 57.8947, 47.3684, 47.3684, 47.3684], mean: 74.613
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0        8  13   0.372169  could n t find dimensions little arms hold boo...
+1        1  12   0.311693  purchased product expectation rather large per...

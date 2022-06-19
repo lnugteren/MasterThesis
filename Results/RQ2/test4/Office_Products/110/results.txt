@@ -1,0 +1,845 @@
+------- Category: Office_Products -------
+Found asin_id: B000VG4AY0
+Shape:  (110, 7)
+
+Readability scores: [-3.0217241379310025, -165.1217647058823, 35.38500000000001, 11.542551020408183, -29.984960629921247, -191.81828767123287, -336.2727272727272, -48.277931034482734, -155.93647540983602, 66.63000000000002, -476.4370761245674, -22.47209302325578, -17.212631578947324, -5.401666666666642, -56.4462068965517, -259.06126760563376, -361.6702586206896, -354.5194736842105, -584.342952522255, -40.90321167883208, -735.0964457831325, -416.5660636182902, -537.357857142857, -101.38045454545451, -307.2414999999999, 2.942739726027412, -54.918855421686715, -12.769736842105246, -31.65348837209298, -351.854243792325, -58.135286624203786, -23.345169491525397, 13.90888888888891, -340.93669014084503, -44.67899999999996, -451.4554054054053, -161.0044357976653, -183.753665480427, -1761.7084594447467, -543.1675594294769, 4.47307692307696, -146.0120717131474, -35.09499999999997, -130.91391891891888, -120.3862790697674, 4.592371134020638, -245.99243243243237, -412.97149805447464, -215.19099041533545, -275.3579032258064, -180.88448905109482, -114.32977375565606, 19.13111111111114, -166.12799227799226, -466.25749999999994, -232.86670731707312, -141.48399999999995, -77.68558823529408, -324.90999999999997, -1.20088235294115, -150.97612903225803, -259.0907142857142, -12.02763157894735, -509.0665534804753, 0.8752631578947501, -329.95157772621803, -59.083636363636344, -488.593507853403, -449.88609489051083, -47.05785714285712, 19.88500000000002, -1056.2700087642418, -42.79556291390726, 3.4644444444444815, 11.142000000000024, -121.38584415584411, -13.804705882352906, -142.85542510121456, -16.13029411764704, -239.98447368421046, -25.406724137931008, -73.00611111111108, 24.56109756097564, 7.02500000000002, -115.72923076923072, -366.04612068965514, -61.84374999999997, -25.321968503937, -155.64216867469875, 41.22357142857144, 40.265540540540556, 61.32038461538463, 31.530769230769252, -83.49499999999996, -105.63370558375631, 71.595, -293.37064935064933, -107.71052631578945, 20.942500000000024, 14.286860465116305, -26.331363636363605, -55.556818181818144, -20.237826086956503, 13.135934065934094, -13.616956521739112, -180.95499999999993, -178.09090909090907, -87.53299999999996, -40.76079136690643, -432.2465384615384], on average: -167.1021
+Readability scores after: [-3.0217241379310025, -165.1217647058823, 35.38500000000001, 11.542551020408183, -29.984960629921247, -191.81828767123287, -336.2727272727272, -48.277931034482734, -155.93647540983602, -476.4370761245674, -22.47209302325578, -17.212631578947324, -5.401666666666642, -56.4462068965517, -259.06126760563376, -361.6702586206896, -354.5194736842105, -584.342952522255, -40.90321167883208, -735.0964457831325, -416.5660636182902, -537.357857142857, -101.38045454545451, -307.2414999999999, 2.942739726027412, -54.918855421686715, -12.769736842105246, -31.65348837209298, -351.854243792325, -58.135286624203786, -23.345169491525397, 13.90888888888891, -340.93669014084503, -44.67899999999996, -451.4554054054053, -161.0044357976653, -183.753665480427, -1761.7084594447467, -543.1675594294769, 4.47307692307696, -146.0120717131474, -35.09499999999997, -130.91391891891888, -120.3862790697674, 4.592371134020638, -245.99243243243237, -412.97149805447464, -215.19099041533545, -275.3579032258064, -180.88448905109482, -114.32977375565606, 19.13111111111114, -166.12799227799226, -466.25749999999994, -232.86670731707312, -141.48399999999995, -77.68558823529408, -324.90999999999997, -1.20088235294115, -150.97612903225803, -259.0907142857142, -12.02763157894735, -509.0665534804753, 0.8752631578947501, -329.95157772621803, -59.083636363636344, -488.593507853403, -449.88609489051083, -47.05785714285712, 19.88500000000002, -1056.2700087642418, -42.79556291390726, 3.4644444444444815, 11.142000000000024, -121.38584415584411, -13.804705882352906, -142.85542510121456, -16.13029411764704, -239.98447368421046, -25.406724137931008, -73.00611111111108, 24.56109756097564, 7.02500000000002, -115.72923076923072, -366.04612068965514, -61.84374999999997, -25.321968503937, -155.64216867469875, 41.22357142857144, 40.265540540540556, 31.530769230769252, -83.49499999999996, -105.63370558375631, -293.37064935064933, -107.71052631578945, 20.942500000000024, 14.286860465116305, -26.331363636363605, -55.556818181818144, -20.237826086956503, 13.135934065934094, -13.616956521739112, -180.95499999999993, -178.09090909090907, -87.53299999999996, -40.76079136690643, -432.2465384615384], on average after: -173.6521
+Shape after:  (107, 8)
+
+
+Chosen product: B000VG4AY0 has 110 reviews - False, it has 107 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 97.1963%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [1, 4, 6]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   6  purchased scanner primarily scan 1000 slides f...   0.345614
+
+step 1
+index added: 7
+percentage unclustered: 96.2617%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [1, 4, 6, 7]
+			old information: 94, gain: 0.9599317988064792
+
+   ind                                             review  relevance
+0   6  purchased scanner primarily scan 1000 slides f...   0.345614
+1   7  absolutely love scanner say enough good things...   0.228359
+
+step 1
+index added: 8
+percentage unclustered: 95.3271%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [1, 4, 6, 8]
+			old information: 269, gain: 0.9711249463288966
+
+   ind                                             review  relevance
+0   6  purchased scanner primarily scan 1000 slides f...   0.345614
+1   8  past 37 years shot thousands photographs print...   0.256934
+2   7  absolutely love scanner say enough good things...   0.228359
+
+step 1
+index added: 9
+percentage unclustered: 95.3271%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 95.3271%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 95.3271%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 95.3271%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 95.3271%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 92.5234%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [1, 4, 5, 14]
+			old information: 544, gain: 0.9715332286760858
+
+   ind                                             review  relevance
+0  14  purchased scanner much research december 2011 ...   0.462728
+1   6  purchased scanner primarily scan 1000 slides f...   0.345614
+2   8  past 37 years shot thousands photographs print...   0.256934
+3   7  absolutely love scanner say enough good things...   0.228359
+
+step 1
+index added: 15
+percentage unclustered: 92.5234%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 92.5234%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 91.5888%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [1, 5, 14]
+			old information: 1601, gain: 0.977290780141844
+
+   ind                                             review  relevance
+0  17  following comments written scanned 3000 photos...   0.552993
+1  14  purchased scanner much research december 2011 ...   0.462728
+2   6  purchased scanner primarily scan 1000 slides f...   0.345614
+3   8  past 37 years shot thousands photographs print...   0.256934
+4   7  absolutely love scanner say enough good things...   0.228359
+
+step 1
+index added: 18
+percentage unclustered: 91.5888%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 91.5888%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 90.6542%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [1, 14, 17, 20]
+			old information: 1778, gain: 0.9575706956210476
+
+   ind                                             review  relevance
+0  20  personally love film restoration love watching...   0.616751
+1  17  following comments written scanned 3000 photos...   0.552993
+2  14  purchased scanner much research december 2011 ...   0.462728
+3   6  purchased scanner primarily scan 1000 slides f...   0.345614
+4   8  past 37 years shot thousands photographs print...   0.256934
+5   7  absolutely love scanner say enough good things...   0.228359
+
+step 1
+index added: 21
+percentage unclustered: 90.6542%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 90.6542%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 89.7196%
+
+	step 2
+
+		step 3
+		candidate index: 23 with core nodes: [1, 14, 17, 20]
+
+step 1
+index added: 24
+percentage unclustered: 88.785%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 88.785%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 91.5888%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [1, 4, 5, 14]
+
+step 1
+index added: 27
+percentage unclustered: 91.5888%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 91.5888%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 91.5888%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 90.6542%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 90.6542%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 89.7196%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [1, 4, 5, 14, 32]
+			old information: 1062, gain: 0.9650439419373951
+
+   ind                                             review  relevance
+0  20  personally love film restoration love watching...   0.616751
+1  17  following comments written scanned 3000 photos...   0.552993
+2  14  purchased scanner much research december 2011 ...   0.462728
+3  32  purchased scanner epson store specifically sca...   0.435856
+4   6  purchased scanner primarily scan 1000 slides f...   0.345614
+5   8  past 37 years shot thousands photographs print...   0.256934
+6   7  absolutely love scanner say enough good things...   0.228359
+
+step 1
+index added: 33
+percentage unclustered: 89.7196%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 89.7196%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 88.785%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [1, 5, 32, 35]
+			old information: 1464, gain: 0.8597701149425288
+
+   ind                                             review  relevance
+0  20  personally love film restoration love watching...   0.616751
+1  35  scanner markets great value relatively high qu...   0.581339
+2  17  following comments written scanned 3000 photos...   0.552993
+3  14  purchased scanner much research december 2011 ...   0.462728
+4  32  purchased scanner epson store specifically sca...   0.435856
+5   6  purchased scanner primarily scan 1000 slides f...   0.345614
+6   8  past 37 years shot thousands photographs print...   0.256934
+7   7  absolutely love scanner say enough good things...   0.228359
+
+step 1
+index added: 36
+percentage unclustered: 87.8505%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [1, 5, 32, 35]
+
+step 1
+index added: 37
+percentage unclustered: 87.8505%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 87.8505%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 87.8505%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 87.8505%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 85.9813%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 85.9813%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 85.0467%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 79.4393%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 79.4393%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 78.5047%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [14, 37, 40, 46]
+			old information: 3258, gain: 0.9353609904172371
+
+   ind                                             review  relevance
+0  46  data hook product link linked class a link nor...   0.682866
+1  20  personally love film restoration love watching...   0.616751
+2  35  scanner markets great value relatively high qu...   0.581339
+3  17  following comments written scanned 3000 photos...   0.552993
+4  14  purchased scanner much research december 2011 ...   0.462728
+5  32  purchased scanner epson store specifically sca...   0.435856
+6   6  purchased scanner primarily scan 1000 slides f...   0.345614
+7   8  past 37 years shot thousands photographs print...   0.256934
+8   7  absolutely love scanner say enough good things...   0.228359
+
+step 1
+index added: 47
+percentage unclustered: 78.5047%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 77.5701%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 77.5701%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [14, 37, 40, 46]
+
+step 1
+index added: 50
+percentage unclustered: 76.63550000000001%
+
+	step 2
+
+		step 3
+		candidate index: 50 with core nodes: [14, 37, 40, 46]
+
+step 1
+index added: 51
+percentage unclustered: 76.63550000000001%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 73.8318%
+
+	step 2
+
+		step 3
+		candidate index: 52 with core nodes: [37, 40, 46, 52]
+			old information: 1004, gain: 0.896813977389517
+
+   ind                                             review  relevance
+0  46  data hook product link linked class a link nor...   0.682866
+1  20  personally love film restoration love watching...   0.616751
+2  52  got epson perfection v500 ago pretty much issu...   0.599347
+3  35  scanner markets great value relatively high qu...   0.581339
+4  17  following comments written scanned 3000 photos...   0.552993
+5  14  purchased scanner much research december 2011 ...   0.462728
+6  32  purchased scanner epson store specifically sca...   0.435856
+7   6  purchased scanner primarily scan 1000 slides f...   0.345614
+8   8  past 37 years shot thousands photographs print...   0.256934
+9   7  absolutely love scanner say enough good things...   0.228359
+
+step 1
+index added: 53
+percentage unclustered: 72.8972%
+
+	step 2
+
+		step 3
+		candidate index: 53 with core nodes: [40, 46, 52, 53]
+			old information: 3825, gain: 0.9236313540709978
+
+    ind                                             review  relevance
+0   46  data hook product link linked class a link nor...   0.682866
+1   53  epson v500 great scanner ordinary home user bo...   0.641179
+2   20  personally love film restoration love watching...   0.616751
+3   52  got epson perfection v500 ago pretty much issu...   0.599347
+4   35  scanner markets great value relatively high qu...   0.581339
+5   17  following comments written scanned 3000 photos...   0.552993
+6   14  purchased scanner much research december 2011 ...   0.462728
+7   32  purchased scanner epson store specifically sca...   0.435856
+8    6  purchased scanner primarily scan 1000 slides f...   0.345614
+9    8  past 37 years shot thousands photographs print...   0.256934
+10   7  absolutely love scanner say enough good things...   0.228359
+
+step 1
+index added: 54
+percentage unclustered: 72.8972%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 73.8318%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 72.8972%
+
+	step 2
+
+		step 3
+		candidate index: 56 with core nodes: [7, 30, 56]
+			old information: 525, gain: 0.8745819397993311
+
+    ind                                             review  relevance
+0   46  data hook product link linked class a link nor...   0.682866
+1   53  epson v500 great scanner ordinary home user bo...   0.641179
+2   20  personally love film restoration love watching...   0.616751
+3   52  got epson perfection v500 ago pretty much issu...   0.599347
+4   35  scanner markets great value relatively high qu...   0.581339
+5   17  following comments written scanned 3000 photos...   0.552993
+6   14  purchased scanner much research december 2011 ...   0.462728
+7   32  purchased scanner epson store specifically sca...   0.435856
+8    6  purchased scanner primarily scan 1000 slides f...   0.345614
+9    8  past 37 years shot thousands photographs print...   0.256934
+10  56  received v500 followed simple instructions get...   0.232868
+11   7  absolutely love scanner say enough good things...   0.228359
+
+step 1
+index added: 57
+percentage unclustered: 72.8972%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 71.9626%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 71.9626%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 69.1589%
+
+	step 2
+
+		step 3
+		candidate index: 60 with core nodes: [40, 46, 52, 53]
+
+step 1
+index added: 61
+percentage unclustered: 69.1589%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 69.1589%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 68.2243%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 68.2243%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 67.28970000000001%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 67.28970000000001%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 67.28970000000001%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 63.5514%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 63.5514%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 62.6168%
+
+	step 2
+
+		step 3
+		candidate index: 70 with core nodes: [40, 46, 52, 53]
+
+step 1
+index added: 71
+percentage unclustered: 62.6168%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 62.6168%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 62.6168%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 62.6168%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 63.5514%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 60.7477%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 60.7477%
+
+	step 2
+
+		step 3
+		candidate index: 77 with core nodes: [46, 53, 62]
+
+step 1
+index added: 78
+percentage unclustered: 60.7477%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 59.8131%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 58.8785%
+
+	step 2
+
+		step 3
+		candidate index: 80 with core nodes: [46, 53, 62]
+
+step 1
+index added: 81
+percentage unclustered: 58.8785%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 56.0748%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 56.0748%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 56.0748%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 56.0748%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 53.271%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 52.3364%
+
+	step 2
+
+		step 3
+		candidate index: 87 with core nodes: [20, 46, 53, 62]
+
+step 1
+index added: 88
+percentage unclustered: 52.3364%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 52.3364%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 49.5327%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 49.5327%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 48.5981%
+
+	step 2
+
+		step 3
+		candidate index: 92 with core nodes: [20, 46, 53, 62]
+
+step 1
+index added: 93
+percentage unclustered: 45.7944%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 45.7944%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 44.8598%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 43.9252%
+
+	step 2
+
+		step 3
+		candidate index: 96 with core nodes: [20, 46, 53, 62]
+
+step 1
+index added: 97
+percentage unclustered: 42.9907%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 42.9907%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 42.9907%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 42.0561%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 42.0561%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 41.1215%
+
+	step 2
+
+		step 3
+		candidate index: 102 with core nodes: [20, 46, 53, 62]
+
+step 1
+index added: 103
+percentage unclustered: 38.3178%
+
+	step 2
+
+		step 3
+		candidate index: 103 with core nodes: [20, 46, 53, 62]
+
+step 1
+index added: 104
+percentage unclustered: 38.3178%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 37.3832%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 37.3832%
+
+	step 2
+
+--- 227.6163136959076 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 97.1963, 96.2617, 95.3271, 95.3271, 95.3271, 95.3271, 95.3271, 95.3271, 92.5234, 92.5234, 92.5234, 91.5888, 91.5888, 91.5888, 90.6542, 90.6542, 90.6542, 89.7196, 88.785, 88.785, 91.5888, 91.5888, 91.5888, 91.5888, 90.6542, 90.6542, 89.7196, 89.7196, 89.7196, 88.785, 87.8505, 87.8505, 87.8505, 87.8505, 87.8505, 85.9813, 85.9813, 85.0467, 79.4393, 79.4393, 78.5047, 78.5047, 77.5701, 77.5701, 76.63550000000001, 76.63550000000001, 73.8318, 72.8972, 72.8972, 73.8318, 72.8972, 72.8972, 71.9626, 71.9626, 69.1589, 69.1589, 69.1589, 68.2243, 68.2243, 67.28970000000001, 67.28970000000001, 67.28970000000001, 63.5514, 63.5514, 62.6168, 62.6168, 62.6168, 62.6168, 62.6168, 63.5514, 60.7477, 60.7477, 60.7477, 59.8131, 58.8785, 58.8785, 56.0748, 56.0748, 56.0748, 56.0748, 53.271, 52.3364, 52.3364, 52.3364, 49.5327, 49.5327, 48.5981, 45.7944, 45.7944, 44.8598, 43.9252, 42.9907, 42.9907, 42.9907, 42.0561, 42.0561, 41.1215, 38.3178, 38.3178, 37.3832, 37.3832], mean: 72.7993
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        50  46   0.682866  data hook product link linked class a link nor...
+1        75  53   0.641179  epson v500 great scanner ordinary home user bo...
+2        55  20   0.616751  personally love film restoration love watching...
+3        42  52   0.599347  got epson perfection v500 ago pretty much issu...
+4        21  35   0.581339  scanner markets great value relatively high qu...
+5        71  17   0.552993  following comments written scanned 3000 photos...
+6        79  14   0.462728  purchased scanner much research december 2011 ...
+7        83  32   0.435856  purchased scanner epson store specifically sca...
+8         2   6   0.345614  purchased scanner primarily scan 1000 slides f...
+9        24   8   0.256934  past 37 years shot thousands photographs print...
+10       56  56   0.232868  received v500 followed simple instructions get...
+11        3   7   0.228359  absolutely love scanner say enough good things...

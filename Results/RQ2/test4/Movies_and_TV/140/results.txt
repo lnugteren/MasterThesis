@@ -1,0 +1,844 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 6303364438
+Shape:  (141, 7)
+
+Readability scores: [-162.72062499999996, -29.15499999999996, -83.82807692307688, -16.57865168539324, 15.640000000000004, 25.226086956521755, 75.50000000000001, -151.56506024096382, -702.571030534351, 67.32040816326531, -207.1351515151515, 29.608636363636393, 44.05625000000002, -195.26898601398597, 2.905533980582561, -14.234999999999985, -2218.466746031746, -656.2261475409834, 13.338750000000005, 55.405000000000015, 19.49236842105266, 50.232857142857156, -120.08084905660372, -835.3260845383759, -623.6764963503649, -169.3970967741935, -6.6430769230769044, -101.22878640776695, -381.4653539823008, -345.30999999999995, -756.025376344086, -7.462272727272705, -390.0528991596638, 25.550000000000026, 43.59131578947371, -40.11187969924808, 49.93192307692309, -37.853664122137374, 3.4250000000000114, -107.41233160621759, -231.31914634146335, -153.44249999999994, -1099.0526271186438, -17.744957983193245, -268.2472334293948, -246.67142857142852, -587.3996987951806, -545.0091974317816, -98.89837662337658, -60.62181818181817, 60.54000000000003, -905.5838100102144, -191.575, -78.90546511627903, -32.10647540983604, -120.27593457943922, 23.340909090909115, -128.7835714285714, 5.105882352941194, -109.27921465968582, -25.5622727272727, -588.1641566265059, -16.203695652173877, -643.0094405594405, -26.640999999999977, -369.7529032258064, -283.3061235955056, 30.639285714285734, -263.0269911504424, -103.24567164179102, -350.4747806004618, -32.66550847457624, -197.44602076124565, -69.68827814569532, -268.7836033519552, -968.786547041707, 54.26142857142858, -103.69286407766985, -50.640294117647045, -183.7355350553505, -39.04090163934423, -187.74303370786515, -35.416081081081074, -59.36344827586203, -1065.213197519929, -321.8349999999999, -131.80417040358742, -187.91078066914494, 55.85902439024392, -662.1189795918367, 60.35441176470591, -53.70499999999997, -279.54291443850263, -206.10153061224486, -754.2278614823814, -52.55580645161288, -326.23913461538456, 13.824029850746285, -63.66370967741932, 97.70500000000001, -620.7920689655172, -134.48154867256633, -564.5748837209302, -18.786822429906508, 12.536896551724169, -198.82642857142855, -27.100454545454525, -149.69549180327863, -112.0686538461538, -429.73038834951444, 56.79884615384617, 75.63909090909095, -637.6414366998576, -307.5618041237113, -176.63087786259536, -407.55437100213214, 31.440000000000012, -76.69029411764703, -58.28094594594593, -35.67499999999998, -192.57581818181816, -84.65710982658955, -218.55374999999998, -145.88155737704915, -354.3595454545454, -258.87842857142846, -176.63087786259536, -151.51746835443035, -17.279528301886756, -83.53499999999997, -139.69666666666663, -55.37538922155687, 61.81513513513516, 51.781632653061244, -208.0165979381443, 92.86285714285715, 23.52939024390247, 45.06375000000003, -3.6615384615384414, 33.70200000000003, 10.541216216216228], on average: -190.3132
+Readability scores after: [-162.72062499999996, -29.15499999999996, -83.82807692307688, -16.57865168539324, 15.640000000000004, 25.226086956521755, -151.56506024096382, -702.571030534351, -207.1351515151515, 29.608636363636393, 44.05625000000002, -195.26898601398597, 2.905533980582561, -14.234999999999985, -2218.466746031746, -656.2261475409834, 13.338750000000005, 19.49236842105266, -120.08084905660372, -835.3260845383759, -623.6764963503649, -169.3970967741935, -6.6430769230769044, -101.22878640776695, -381.4653539823008, -345.30999999999995, -756.025376344086, -7.462272727272705, -390.0528991596638, 25.550000000000026, 43.59131578947371, -40.11187969924808, 49.93192307692309, -37.853664122137374, 3.4250000000000114, -107.41233160621759, -231.31914634146335, -153.44249999999994, -1099.0526271186438, -17.744957983193245, -268.2472334293948, -246.67142857142852, -587.3996987951806, -545.0091974317816, -98.89837662337658, -60.62181818181817, -905.5838100102144, -191.575, -78.90546511627903, -32.10647540983604, -120.27593457943922, 23.340909090909115, -128.7835714285714, 5.105882352941194, -109.27921465968582, -25.5622727272727, -588.1641566265059, -16.203695652173877, -643.0094405594405, -26.640999999999977, -369.7529032258064, -283.3061235955056, 30.639285714285734, -263.0269911504424, -103.24567164179102, -350.4747806004618, -32.66550847457624, -197.44602076124565, -69.68827814569532, -268.7836033519552, -968.786547041707, -103.69286407766985, -50.640294117647045, -183.7355350553505, -39.04090163934423, -187.74303370786515, -35.416081081081074, -59.36344827586203, -1065.213197519929, -321.8349999999999, -131.80417040358742, -187.91078066914494, -662.1189795918367, -53.70499999999997, -279.54291443850263, -206.10153061224486, -754.2278614823814, -52.55580645161288, -326.23913461538456, 13.824029850746285, -63.66370967741932, -620.7920689655172, -134.48154867256633, -564.5748837209302, -18.786822429906508, 12.536896551724169, -198.82642857142855, -27.100454545454525, -149.69549180327863, -112.0686538461538, -429.73038834951444, -637.6414366998576, -307.5618041237113, -176.63087786259536, -407.55437100213214, 31.440000000000012, -76.69029411764703, -58.28094594594593, -35.67499999999998, -192.57581818181816, -84.65710982658955, -218.55374999999998, -145.88155737704915, -354.3595454545454, -258.87842857142846, -176.63087786259536, -151.51746835443035, -17.279528301886756, -83.53499999999997, -139.69666666666663, -55.37538922155687, -208.0165979381443, 23.52939024390247, 45.06375000000003, -3.6615384615384414, 33.70200000000003, 10.541216216216228], on average after: -218.5058
+Shape after:  (127, 8)
+
+
+Chosen product: 6303364438 has 141 reviews - False, it has 127 reviews
+Duplicate reviewers?:  38    A1SHNOU2ODKIDG
+43    A3KKM0T1KY42HA
+Name: reviewerID, dtype: object
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 96.8504%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [0, 3, 7, 9]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   9  brief caligula 5 star film s realistic portray...   0.339956
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 100.0%
+
+step 1
+index added: 13
+percentage unclustered: 100.0%
+
+step 1
+index added: 14
+percentage unclustered: 100.0%
+
+step 1
+index added: 15
+percentage unclustered: 100.0%
+
+step 1
+index added: 16
+percentage unclustered: 100.0%
+
+step 1
+index added: 17
+percentage unclustered: 100.0%
+
+step 1
+index added: 18
+percentage unclustered: 100.0%
+
+step 1
+index added: 19
+percentage unclustered: 100.0%
+
+step 1
+index added: 20
+percentage unclustered: 97.6378%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [7, 9, 20]
+			old information: 108, gain: 0.9989309576837416
+
+   ind                                             review  relevance
+0  20  s hard view film divorced controversy see spli...   0.494284
+1   9  brief caligula 5 star film s realistic portray...   0.339956
+
+step 1
+index added: 21
+percentage unclustered: 97.6378%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 97.6378%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 97.6378%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 95.2756%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [7, 8, 20, 24]
+			old information: 1337, gain: 0.9645122760451228
+
+   ind                                             review  relevance
+0  20  s hard view film divorced controversy see spli...   0.494284
+1  24  s nearly 30 years since caligula released onto...   0.475886
+2   9  brief caligula 5 star film s realistic portray...   0.339956
+
+step 1
+index added: 25
+percentage unclustered: 95.2756%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 95.2756%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 95.2756%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 95.2756%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 95.2756%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 94.4882%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [7, 8, 20, 24]
+
+step 1
+index added: 31
+percentage unclustered: 94.4882%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 94.4882%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 94.4882%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 94.4882%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 91.3386%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [6, 7, 14, 20, 35]
+			old information: 773, gain: 0.8880197015790237
+
+   ind                                             review  relevance
+0  35  ahh caligula perplexing film sheer shock value...   0.578305
+1  20  s hard view film divorced controversy see spli...   0.494284
+2  24  s nearly 30 years since caligula released onto...   0.475886
+3   9  brief caligula 5 star film s realistic portray...   0.339956
+
+step 1
+index added: 36
+percentage unclustered: 91.3386%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 91.3386%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 92.126%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [7, 20, 35, 38]
+			old information: 6346, gain: 0.9642095764480288
+
+   ind                                             review  relevance
+0  38  caligula blu ray imperial edition identical co...   0.604434
+1  35  ahh caligula perplexing film sheer shock value...   0.578305
+2  20  s hard view film divorced controversy see spli...   0.494284
+3  24  s nearly 30 years since caligula released onto...   0.475886
+4   9  brief caligula 5 star film s realistic portray...   0.339956
+
+step 1
+index added: 39
+percentage unclustered: 89.7638%
+
+	step 2
+
+		step 3
+		candidate index: 39 with core nodes: [6, 7, 8, 15, 38]
+
+step 1
+index added: 40
+percentage unclustered: 88.9764%
+
+	step 2
+
+		step 3
+		candidate index: 40 with core nodes: [7, 38, 40]
+			old information: 2983, gain: 0.8600909901036536
+
+   ind                                             review  relevance
+0  38  caligula blu ray imperial edition identical co...   0.604434
+1  40  new imperial 3 disc edition caligula image pen...   0.589865
+2  35  ahh caligula perplexing film sheer shock value...   0.578305
+3  20  s hard view film divorced controversy see spli...   0.494284
+4  24  s nearly 30 years since caligula released onto...   0.475886
+5   9  brief caligula 5 star film s realistic portray...   0.339956
+
+step 1
+index added: 41
+percentage unclustered: 88.9764%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 88.9764%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 88.9764%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 88.9764%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 88.189%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 88.189%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 88.189%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 88.189%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 88.189%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 85.8268%
+
+	step 2
+
+		step 3
+		candidate index: 50 with core nodes: [7, 38, 40]
+
+step 1
+index added: 51
+percentage unclustered: 85.8268%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 85.0394%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 85.0394%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 85.0394%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 85.0394%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 85.0394%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 85.0394%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 85.0394%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 85.0394%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 85.0394%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 85.0394%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 84.252%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 84.252%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 84.252%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 83.4646%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 83.4646%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 83.4646%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 83.4646%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 83.4646%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 83.4646%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 83.4646%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 83.4646%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 83.4646%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 83.4646%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 83.4646%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 83.4646%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 81.1024%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 81.1024%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 81.1024%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 81.1024%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 80.315%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 80.315%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 80.315%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 77.9528%
+
+	step 2
+
+		step 3
+		candidate index: 84 with core nodes: [7, 8, 15, 20, 38, 40, 52, 65, 84]
+			old information: 1406, gain: 0.9216931216931217
+
+   ind                                             review  relevance
+0  38  caligula blu ray imperial edition identical co...   0.604434
+1  40  new imperial 3 disc edition caligula image pen...   0.589865
+2  35  ahh caligula perplexing film sheer shock value...   0.578305
+3  84  feel slightly embarrassed tell people much lov...   0.577085
+4  20  s hard view film divorced controversy see spli...   0.494284
+5  24  s nearly 30 years since caligula released onto...   0.475886
+6   9  brief caligula 5 star film s realistic portray...   0.339956
+
+step 1
+index added: 85
+percentage unclustered: 77.1654%
+
+	step 2
+
+		step 3
+		candidate index: 85 with core nodes: [7, 8, 15, 20, 38, 40, 52, 65, 84]
+
+step 1
+index added: 86
+percentage unclustered: 81.88980000000001%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 81.88980000000001%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 81.88980000000001%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 79.5276%
+
+	step 2
+
+		step 3
+		candidate index: 89 with core nodes: [8, 15, 52, 84]
+
+		step 3
+		candidate index: 89 with core nodes: [8, 11, 15, 45, 52, 65, 77]
+
+step 1
+index added: 90
+percentage unclustered: 79.5276%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 78.7402%
+
+	step 2
+
+		step 3
+		candidate index: 91 with core nodes: [8, 15, 52, 84]
+
+		step 3
+		candidate index: 91 with core nodes: [8, 11, 15, 45, 65, 77, 84]
+
+step 1
+index added: 92
+percentage unclustered: 78.7402%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 78.7402%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 78.7402%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 77.9528%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 77.1654%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 77.1654%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 77.1654%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 77.1654%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 77.1654%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 77.1654%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 77.1654%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 76.378%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 76.378%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 74.0157%
+
+	step 2
+
+		step 3
+		candidate index: 105 with core nodes: [8, 15, 84, 100]
+
+step 1
+index added: 106
+percentage unclustered: 65.3543%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 65.3543%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 65.3543%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 65.3543%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 65.3543%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 64.5669%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 63.7795%
+
+	step 2
+
+		step 3
+		candidate index: 112 with core nodes: [15, 84, 88, 100]
+
+step 1
+index added: 113
+percentage unclustered: 62.9921%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 62.9921%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 62.9921%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 62.9921%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 62.9921%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 62.9921%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 64.5669%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 64.5669%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 64.5669%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 64.5669%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 62.2047%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 62.2047%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 62.2047%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 62.2047%
+
+	step 2
+
+--- 289.34700083732605 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 96.8504, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 97.6378, 97.6378, 97.6378, 97.6378, 95.2756, 95.2756, 95.2756, 95.2756, 95.2756, 95.2756, 94.4882, 94.4882, 94.4882, 94.4882, 94.4882, 91.3386, 91.3386, 91.3386, 92.126, 89.7638, 88.9764, 88.9764, 88.9764, 88.9764, 88.9764, 88.189, 88.189, 88.189, 88.189, 88.189, 85.8268, 85.8268, 85.0394, 85.0394, 85.0394, 85.0394, 85.0394, 85.0394, 85.0394, 85.0394, 85.0394, 85.0394, 84.252, 84.252, 84.252, 83.4646, 83.4646, 83.4646, 83.4646, 83.4646, 83.4646, 83.4646, 83.4646, 83.4646, 83.4646, 83.4646, 83.4646, 81.1024, 81.1024, 81.1024, 81.1024, 80.315, 80.315, 80.315, 77.9528, 77.1654, 81.88980000000001, 81.88980000000001, 81.88980000000001, 79.5276, 79.5276, 78.7402, 78.7402, 78.7402, 78.7402, 77.9528, 77.1654, 77.1654, 77.1654, 77.1654, 77.1654, 77.1654, 77.1654, 76.378, 76.378, 74.0157, 65.3543, 65.3543, 65.3543, 65.3543, 65.3543, 64.5669, 63.7795, 62.9921, 62.9921, 62.9921, 62.9921, 62.9921, 62.9921, 64.5669, 64.5669, 64.5669, 64.5669, 62.2047, 62.2047, 62.2047, 62.2047], mean: 83.7984
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0       18  38   0.604434  caligula blu ray imperial edition identical co...
+1        4  40   0.589865  new imperial 3 disc edition caligula image pen...
+2       67  35   0.578305  ahh caligula perplexing film sheer shock value...
+3       13  84   0.577085  feel slightly embarrassed tell people much lov...
+4       24  20   0.494284  s hard view film divorced controversy see spli...
+5       72  24   0.475886  s nearly 30 years since caligula released onto...
+6       77   9   0.339956  brief caligula 5 star film s realistic portray...

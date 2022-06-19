@@ -1,0 +1,537 @@
+------- Category: Office_Products -------
+Found asin_id: B0000A8VNU
+Shape:  (70, 7)
+
+Readability scores: [6.628241758241785, -186.01170040485826, -16.660991735537166, -95.41549132947974, 66.20115384615386, 17.599302325581434, 56.42500000000001, 7.400813953488409, 68.23090909090911, -144.03339055793987, -132.5161764705882, -272.34520547945203, 57.94500000000003, 65.37076923076924, -20.20639999999996, -1.4849999999999852, -125.52105263157893, 54.73000000000002, -123.94948051948047, -34.84333333333329, -11.494303797468334, 47.11093023255816, 39.12229729729732, 0.733944954128475, -42.053749999999965, -15.049999999999969, -877.2718191161356, 86.708, 77.77205882352942, -38.86744186046508, -61.36108695652172, -63.08388888888885, 18.874776119402995, -201.31874598070735, 28.193750000000023, 0.5686842105263281, -167.78123595505616, -128.7835714285714, 6.134473684210562, 86.17636363636365, -76.10661290322578, 65.33088235294119, 49.48500000000002, -623.1142067988668, -81.14219251336894, -42.47999999999996, -2.393999999999963, -3.122368421052599, -282.1871087533156, -48.872483221476486, 28.33264705882354, -60.78624999999995, -146.93233201581023, -61.64727272727269, 41.30415094339626, -52.679999999999964, -146.81306122448976, -188.6034671532846, -22.937443609022523, -347.43207547169806, -40.925140186915854, -2.0493103448275605, -37.555813953488325, 25.39777777777779, -920.9439285714285, -371.64650107991355, -106.47695187165772, -299.03683544303794, 70.3073529411765, 51.69603448275863], on average: -80.0308
+Readability scores after: [6.628241758241785, -186.01170040485826, -16.660991735537166, -95.41549132947974, 17.599302325581434, 7.400813953488409, -144.03339055793987, -132.5161764705882, -272.34520547945203, -20.20639999999996, -1.4849999999999852, -125.52105263157893, -123.94948051948047, -34.84333333333329, -11.494303797468334, 47.11093023255816, 39.12229729729732, 0.733944954128475, -42.053749999999965, -15.049999999999969, -877.2718191161356, -38.86744186046508, -61.36108695652172, -63.08388888888885, 18.874776119402995, -201.31874598070735, 28.193750000000023, 0.5686842105263281, -167.78123595505616, -128.7835714285714, 6.134473684210562, -76.10661290322578, 49.48500000000002, -623.1142067988668, -81.14219251336894, -42.47999999999996, -2.393999999999963, -3.122368421052599, -282.1871087533156, -48.872483221476486, 28.33264705882354, -60.78624999999995, -146.93233201581023, -61.64727272727269, 41.30415094339626, -52.679999999999964, -146.81306122448976, -188.6034671532846, -22.937443609022523, -347.43207547169806, -40.925140186915854, -2.0493103448275605, -37.555813953488325, 25.39777777777779, -920.9439285714285, -371.64650107991355, -106.47695187165772, -299.03683544303794], on average after: -110.5009
+Shape after:  (58, 8)
+
+
+Chosen product: B0000A8VNU has 70 reviews - False, it has 58 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 94.8276%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [0, 2, 8]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   8  mix feeling dictionary bad news first the dict...    0.31178
+
+step 1
+index added: 9
+percentage unclustered: 94.8276%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [5, 8, 9]
+			old information: 37, gain: 0.9797814207650273
+
+   ind                                             review  relevance
+0   8  mix feeling dictionary bad news first the dict...   0.311780
+1   9  full time college student could live without w...   0.216333
+
+step 1
+index added: 10
+percentage unclustered: 94.8276%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 87.931%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [0, 5, 8, 11]
+			old information: 112, gain: 0.9813177648040033
+
+   ind                                             review  relevance
+0  11  really good portable e dictionary ve bought ch...   0.379757
+1   8  mix feeling dictionary bad news first the dict...   0.311780
+2   9  full time college student could live without w...   0.216333
+
+step 1
+index added: 12
+percentage unclustered: 86.2069%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [0, 5, 8, 12]
+			old information: 366, gain: 0.9504132231404959
+
+   ind                                             review  relevance
+0  12  franklin speaking 11th collegiate dictionary p...   0.456685
+1  11  really good portable e dictionary ve bought ch...   0.379757
+2   8  mix feeling dictionary bad news first the dict...   0.311780
+3   9  full time college student could live without w...   0.216333
+
+step 1
+index added: 13
+percentage unclustered: 86.2069%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [0, 8, 11, 12]
+			old information: 100, gain: 0.9585921325051759
+
+   ind                                             review  relevance
+0  12  franklin speaking 11th collegiate dictionary p...   0.456685
+1  11  really good portable e dictionary ve bought ch...   0.379757
+2   8  mix feeling dictionary bad news first the dict...   0.311780
+3   9  full time college student could live without w...   0.216333
+4  13  extremely pleased product extremely helpful re...   0.208832
+
+step 1
+index added: 14
+percentage unclustered: 87.931%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 86.2069%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 86.2069%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 82.7586%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [0, 8, 12]
+			old information: 107, gain: 0.9305194805194805
+
+   ind                                             review  relevance
+0  12  franklin speaking 11th collegiate dictionary p...   0.456685
+1  11  really good portable e dictionary ve bought ch...   0.379757
+2  17  bought one son christmas 03 18 still says best...   0.364185
+3   8  mix feeling dictionary bad news first the dict...   0.311780
+4   9  full time college student could live without w...   0.216333
+5  13  extremely pleased product extremely helpful re...   0.208832
+
+step 1
+index added: 18
+percentage unclustered: 81.03450000000001%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [2, 9, 11, 18]
+			old information: 139, gain: 0.9129072681704261
+
+   ind                                             review  relevance
+0  12  franklin speaking 11th collegiate dictionary p...   0.456685
+1  18  dictionary year use daily use features diction...   0.402333
+2  11  really good portable e dictionary ve bought ch...   0.379757
+3  17  bought one son christmas 03 18 still says best...   0.364185
+4   8  mix feeling dictionary bad news first the dict...   0.311780
+5   9  full time college student could live without w...   0.216333
+6  13  extremely pleased product extremely helpful re...   0.208832
+
+step 1
+index added: 19
+percentage unclustered: 81.03450000000001%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 81.03450000000001%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 79.3103%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [0, 8, 12, 21]
+			old information: 184, gain: 0.9057859703020993
+
+   ind                                             review  relevance
+0  12  franklin speaking 11th collegiate dictionary p...   0.456685
+1  21  small size light weight dictionary make easy c...   0.428282
+2  18  dictionary year use daily use features diction...   0.402333
+3  11  really good portable e dictionary ve bought ch...   0.379757
+4  17  bought one son christmas 03 18 still says best...   0.364185
+5   8  mix feeling dictionary bad news first the dict...   0.311780
+6   9  full time college student could live without w...   0.216333
+7  13  extremely pleased product extremely helpful re...   0.208832
+
+step 1
+index added: 22
+percentage unclustered: 82.7586%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [18, 21, 22]
+			old information: 222, gain: 0.9053708439897699
+
+   ind                                             review  relevance
+0  12  franklin speaking 11th collegiate dictionary p...   0.456685
+1  22  order able find dictionary needed bought kids ...   0.445697
+2  21  small size light weight dictionary make easy c...   0.428282
+3  18  dictionary year use daily use features diction...   0.402333
+4  11  really good portable e dictionary ve bought ch...   0.379757
+5  17  bought one son christmas 03 18 still says best...   0.364185
+6   8  mix feeling dictionary bad news first the dict...   0.311780
+7   9  full time college student could live without w...   0.216333
+8  13  extremely pleased product extremely helpful re...   0.208832
+
+step 1
+index added: 23
+percentage unclustered: 82.7586%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 82.7586%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 82.7586%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 82.7586%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 77.5862%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [18, 21, 22, 27]
+			old information: 70, gain: 0.8674242424242424
+
+   ind                                             review  relevance
+0  12  franklin speaking 11th collegiate dictionary p...   0.456685
+1  22  order able find dictionary needed bought kids ...   0.445697
+2  21  small size light weight dictionary make easy c...   0.428282
+3  27  bought dictionary english major reading needed...   0.422760
+4  18  dictionary year use daily use features diction...   0.402333
+5  11  really good portable e dictionary ve bought ch...   0.379757
+6  17  bought one son christmas 03 18 still says best...   0.364185
+7   8  mix feeling dictionary bad news first the dict...   0.311780
+8   9  full time college student could live without w...   0.216333
+9  13  extremely pleased product extremely helpful re...   0.208832
+
+step 1
+index added: 28
+percentage unclustered: 77.5862%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [8, 12, 28]
+			old information: 505, gain: 0.9280729240848882
+
+    ind                                             review  relevance
+0   28  satisfied dictionary useful definitions thesau...   0.514407
+1   12  franklin speaking 11th collegiate dictionary p...   0.456685
+2   22  order able find dictionary needed bought kids ...   0.445697
+3   21  small size light weight dictionary make easy c...   0.428282
+4   27  bought dictionary english major reading needed...   0.422760
+5   18  dictionary year use daily use features diction...   0.402333
+6   11  really good portable e dictionary ve bought ch...   0.379757
+7   17  bought one son christmas 03 18 still says best...   0.364185
+8    8  mix feeling dictionary bad news first the dict...   0.311780
+9    9  full time college student could live without w...   0.216333
+10  13  extremely pleased product extremely helpful re...   0.208832
+
+step 1
+index added: 29
+percentage unclustered: 77.5862%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 77.5862%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 75.8621%
+
+	step 2
+
+		step 3
+		candidate index: 31 with core nodes: [8, 12, 28, 31]
+			old information: 416, gain: 0.9376311844077961
+
+    ind                                             review  relevance
+0   28  satisfied dictionary useful definitions thesau...   0.514407
+1   12  franklin speaking 11th collegiate dictionary p...   0.456685
+2   22  order able find dictionary needed bought kids ...   0.445697
+3   31  franklin speaking 11th collegiate dictionary p...   0.442240
+4   21  small size light weight dictionary make easy c...   0.428282
+5   27  bought dictionary english major reading needed...   0.422760
+6   18  dictionary year use daily use features diction...   0.402333
+7   11  really good portable e dictionary ve bought ch...   0.379757
+8   17  bought one son christmas 03 18 still says best...   0.364185
+9    8  mix feeling dictionary bad news first the dict...   0.311780
+10   9  full time college student could live without w...   0.216333
+11  13  extremely pleased product extremely helpful re...   0.208832
+
+step 1
+index added: 32
+percentage unclustered: 75.8621%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 70.6897%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [8, 12, 31, 33]
+			old information: 3200, gain: 0.9610776622270875
+
+    ind                                             review  relevance
+0   33  s long time since last took sat increasingly f...   0.688422
+1   28  satisfied dictionary useful definitions thesau...   0.514407
+2   12  franklin speaking 11th collegiate dictionary p...   0.456685
+3   22  order able find dictionary needed bought kids ...   0.445697
+4   31  franklin speaking 11th collegiate dictionary p...   0.442240
+5   21  small size light weight dictionary make easy c...   0.428282
+6   27  bought dictionary english major reading needed...   0.422760
+7   18  dictionary year use daily use features diction...   0.402333
+8   11  really good portable e dictionary ve bought ch...   0.379757
+9   17  bought one son christmas 03 18 still says best...   0.364185
+10   8  mix feeling dictionary bad news first the dict...   0.311780
+11   9  full time college student could live without w...   0.216333
+12  13  extremely pleased product extremely helpful re...   0.208832
+
+step 1
+index added: 34
+percentage unclustered: 70.6897%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 70.6897%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 70.6897%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 70.6897%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 70.6897%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 68.96549999999999%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 68.96549999999999%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 67.2414%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 67.2414%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 65.5172%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [8, 12, 31, 33]
+
+step 1
+index added: 44
+percentage unclustered: 63.7931%
+
+	step 2
+
+		step 3
+		candidate index: 44 with core nodes: [8, 12, 31, 33]
+
+step 1
+index added: 45
+percentage unclustered: 63.7931%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 63.7931%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 63.7931%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 63.7931%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 65.5172%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 65.5172%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 63.7931%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 63.7931%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 62.069%
+
+	step 2
+
+		step 3
+		candidate index: 53 with core nodes: [8, 12, 28, 33]
+
+step 1
+index added: 54
+percentage unclustered: 56.8966%
+
+	step 2
+
+		step 3
+		candidate index: 54 with core nodes: [8, 12, 28, 33]
+
+step 1
+index added: 55
+percentage unclustered: 56.8966%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 56.8966%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 56.8966%
+
+	step 2
+
+--- 43.674885272979736 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 94.8276, 94.8276, 94.8276, 87.931, 86.2069, 86.2069, 87.931, 86.2069, 86.2069, 82.7586, 81.03450000000001, 81.03450000000001, 81.03450000000001, 79.3103, 82.7586, 82.7586, 82.7586, 82.7586, 82.7586, 77.5862, 77.5862, 77.5862, 77.5862, 75.8621, 75.8621, 70.6897, 70.6897, 70.6897, 70.6897, 70.6897, 70.6897, 68.96549999999999, 68.96549999999999, 67.2414, 67.2414, 65.5172, 63.7931, 63.7931, 63.7931, 63.7931, 63.7931, 65.5172, 65.5172, 63.7931, 63.7931, 62.069, 56.8966, 56.8966, 56.8966, 56.8966], mean: 77.0628
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0         5  33   0.688422  s long time since last took sat increasingly f...
+1        14  28   0.514407  satisfied dictionary useful definitions thesau...
+2         6  12   0.456685  franklin speaking 11th collegiate dictionary p...
+3        48  22   0.445697  order able find dictionary needed bought kids ...
+4        24  31   0.442240  franklin speaking 11th collegiate dictionary p...
+5        35  21   0.428282  small size light weight dictionary make easy c...
+6        18  27   0.422760  bought dictionary english major reading needed...
+7        46  18   0.402333  dictionary year use daily use features diction...
+8        13  11   0.379757  really good portable e dictionary ve bought ch...
+9        34  17   0.364185  bought one son christmas 03 18 still says best...
+10       16   8   0.311780  mix feeling dictionary bad news first the dict...
+11       29   9   0.216333  full time college student could live without w...
+12       12  13   0.208832  extremely pleased product extremely helpful re...

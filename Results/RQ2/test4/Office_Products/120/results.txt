@@ -1,0 +1,842 @@
+------- Category: Office_Products -------
+Found asin_id: B00450DVDY
+Shape:  (120, 7)
+
+Readability scores: [-2104.5077071823202, -405.68890243902433, -307.85470873786403, -9.938695652173891, -385.4124058577405, -72.24656626506021, 22.457307692307722, -250.47176300578028, 22.831842105263192, 58.99282608695654, 54.502272727272754, 69.64357142857143, -126.98381355932197, 10.380000000000024, -140.64108695652172, -153.35214285714284, 23.55000000000004, -255.9633333333333, -275.92366310160423, 62.19500000000003, -245.8171919770773, 14.286860465116305, -63.24956521739128, 34.695789473684236, 0.08166666666669187, -126.73724137931032, -142.94412017167377, -925.0015210991166, -27.00205882352938, -619.5371848739495, -19.04347457627115, -181.3456747404844, -95.13499999999998, 70.93, -243.1434782608695, 87.30000000000001, 29.285645161290347, 13.839325842696638, -40.76079136690643, -505.15929159802295, -265.32074380165284, -596.76010130246, -77.55499999999998, 73.97307692307693, 60.270454545454555, 68.23090909090911, 47.24647058823532, -198.25897610921498, -82.49941176470585, -251.38818181818178, -412.7557905138339, -548.3016055045871, -503.2872147651006, -85.14203389830504, -810.8099107142857, -407.2609999999999, -9.31714285714284, 2.6850000000000307, -16.13029411764704, -487.07487046632116, -0.9057894736841945, -261.63010869565215, -1041.7374934268184, -445.3324953789278, 0.44145631067964075, -810.646441241685, -423.2832352941176, -359.7838410596026, -10.122857142857114, 6.628241758241785, -116.5883333333333, 61.333000000000006, -225.68999999999994, -113.69594339622637, -152.9202489626556, -109.59896039603957, 6.368181818181839, -27.52083969465646, -584.7495945945944, 38.95235294117649, -204.46453642384103, 60.95769230769233, 30.623947368421085, -122.36868778280538, -2.4895454545454356, -114.2383333333333, -208.53735294117644, -91.11900523560206, 36.73692307692309, -186.74071428571426, -235.80027522935774, -119.86256756756754, -88.99060439560436, -110.8698453608247, -191.04054607508527, -45.70527027027025, -274.2208064516129, -4.7409090909090565, -162.1282758620689, 54.9556756756757, 25.40337837837839, -101.73019704433496, -488.4920970537261, -16.333181818181785, 35.651206896551734, -145.17693548387092, -2.177272727272694, -762.8274528301886, -237.60864864864857, -181.72280898876403, -232.6295384615384, -957.8501923076922, -135.58720338983045, -74.79568965517238, 13.90888888888891, 26.44222222222224, 32.7757142857143, -493.26925605536326, -243.3708083832335, -217.24919354838704], on average: -186.2959
+Readability scores after: [-2104.5077071823202, -405.68890243902433, -307.85470873786403, -9.938695652173891, -385.4124058577405, -72.24656626506021, 22.457307692307722, -250.47176300578028, 22.831842105263192, -126.98381355932197, 10.380000000000024, -140.64108695652172, -153.35214285714284, 23.55000000000004, -255.9633333333333, -275.92366310160423, -245.8171919770773, 14.286860465116305, -63.24956521739128, 34.695789473684236, 0.08166666666669187, -126.73724137931032, -142.94412017167377, -925.0015210991166, -27.00205882352938, -619.5371848739495, -19.04347457627115, -181.3456747404844, -95.13499999999998, -243.1434782608695, 29.285645161290347, 13.839325842696638, -40.76079136690643, -505.15929159802295, -265.32074380165284, -596.76010130246, -77.55499999999998, 47.24647058823532, -198.25897610921498, -82.49941176470585, -251.38818181818178, -412.7557905138339, -548.3016055045871, -503.2872147651006, -85.14203389830504, -810.8099107142857, -407.2609999999999, -9.31714285714284, 2.6850000000000307, -16.13029411764704, -487.07487046632116, -0.9057894736841945, -261.63010869565215, -1041.7374934268184, -445.3324953789278, 0.44145631067964075, -810.646441241685, -423.2832352941176, -359.7838410596026, -10.122857142857114, 6.628241758241785, -116.5883333333333, -225.68999999999994, -113.69594339622637, -152.9202489626556, -109.59896039603957, 6.368181818181839, -27.52083969465646, -584.7495945945944, 38.95235294117649, -204.46453642384103, 30.623947368421085, -122.36868778280538, -2.4895454545454356, -114.2383333333333, -208.53735294117644, -91.11900523560206, 36.73692307692309, -186.74071428571426, -235.80027522935774, -119.86256756756754, -88.99060439560436, -110.8698453608247, -191.04054607508527, -45.70527027027025, -274.2208064516129, -4.7409090909090565, -162.1282758620689, 25.40337837837839, -101.73019704433496, -488.4920970537261, -16.333181818181785, 35.651206896551734, -145.17693548387092, -2.177272727272694, -762.8274528301886, -237.60864864864857, -181.72280898876403, -232.6295384615384, -957.8501923076922, -135.58720338983045, -74.79568965517238, 13.90888888888891, 26.44222222222224, 32.7757142857143, -493.26925605536326, -243.3708083832335, -217.24919354838704], on average after: -214.2481
+Shape after:  (108, 8)
+
+
+Chosen product: B00450DVDY has 120 reviews - False, it has 108 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 97.2222%
+
+	step 2
+
+		step 3
+		candidate index: 3 with core nodes: [0, 2, 3]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   3  bought local staples stock price s royal pain ...    0.20537
+
+step 1
+index added: 4
+percentage unclustered: 96.2963%
+
+	step 2
+
+		step 3
+		candidate index: 4 with core nodes: [0, 2, 3, 4]
+			old information: 173, gain: 0.9956950181655303
+
+   ind                                             review  relevance
+0   4  bought retail officedepot outlet officedepot o...   0.659038
+1   3  bought local staples stock price s royal pain ...   0.205370
+
+step 1
+index added: 5
+percentage unclustered: 96.2963%
+
+	step 2
+
+step 1
+index added: 6
+percentage unclustered: 96.2963%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 95.3704%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [0, 2, 4, 7]
+			old information: 412, gain: 0.9763095854177448
+
+   ind                                             review  relevance
+0   4  bought retail officedepot outlet officedepot o...   0.659038
+1   7  setup printer came detailed guide made setuo q...   0.447171
+2   3  bought local staples stock price s royal pain ...   0.205370
+
+step 1
+index added: 8
+percentage unclustered: 95.3704%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 94.4444%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [0, 2, 4, 9]
+			old information: 456, gain: 0.9438976377952756
+
+   ind                                             review  relevance
+0   4  bought retail officedepot outlet officedepot o...   0.659038
+1   9  wife homeschool children print lot wanted some...   0.504898
+2   7  setup printer came detailed guide made setuo q...   0.447171
+3   3  bought local staples stock price s royal pain ...   0.205370
+
+step 1
+index added: 10
+percentage unclustered: 94.4444%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 94.4444%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 93.5185%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [0, 2, 4, 9]
+			old information: 368, gain: 0.9666243424632687
+
+   ind                                             review  relevance
+0   4  bought retail officedepot outlet officedepot o...   0.659038
+1   9  wife homeschool children print lot wanted some...   0.504898
+2  12  ve printer 3 years finally frustrated enough l...   0.504657
+3   7  setup printer came detailed guide made setuo q...   0.447171
+4   3  bought local staples stock price s royal pain ...   0.205370
+
+step 1
+index added: 13
+percentage unclustered: 90.7407%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [0, 2, 4, 9]
+
+step 1
+index added: 14
+percentage unclustered: 90.7407%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 90.7407%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 88.8889%
+
+	step 2
+
+		step 3
+		candidate index: 23 with core nodes: [0, 2, 4, 23]
+			old information: 4144, gain: 0.9756573227754411
+
+   ind                                             review  relevance
+0   4  bought retail officedepot outlet officedepot o...   0.659038
+1  23  edited july 28 2013 add nwell ve googled crap ...   0.657170
+2   9  wife homeschool children print lot wanted some...   0.504898
+3  12  ve printer 3 years finally frustrated enough l...   0.504657
+4   7  setup printer came detailed guide made setuo q...   0.447171
+5   3  bought local staples stock price s royal pain ...   0.205370
+
+step 1
+index added: 24
+percentage unclustered: 88.8889%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 88.8889%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 88.8889%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 90.7407%
+
+	step 2
+
+		step 3
+		candidate index: 29 with core nodes: [0, 2, 4, 23]
+
+step 1
+index added: 30
+percentage unclustered: 89.8148%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [0, 2, 4, 23]
+
+step 1
+index added: 31
+percentage unclustered: 89.8148%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 89.8148%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 89.8148%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 87.037%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [0, 2, 4, 23]
+
+step 1
+index added: 35
+percentage unclustered: 86.1111%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 86.1111%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [0, 4, 15, 23, 27, 35]
+
+step 1
+index added: 37
+percentage unclustered: 85.1852%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 85.1852%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 85.1852%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 85.1852%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 85.1852%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 42 with core nodes: [0, 4, 23, 27]
+			old information: 2265, gain: 0.9678723404255319
+
+   ind                                             review  relevance
+0   4  bought retail officedepot outlet officedepot o...   0.659038
+1  23  edited july 28 2013 add nwell ve googled crap ...   0.657170
+2  42  bought brother hl 2270dw less 30 days ago with...   0.618554
+3   9  wife homeschool children print lot wanted some...   0.504898
+4  12  ve printer 3 years finally frustrated enough l...   0.504657
+5   7  setup printer came detailed guide made setuo q...   0.447171
+6   3  bought local staples stock price s royal pain ...   0.205370
+
+step 1
+index added: 43
+percentage unclustered: 82.4074%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [0, 4, 43]
+			old information: 2345, gain: 0.9871228844738779
+
+   ind                                             review  relevance
+0   4  bought retail officedepot outlet officedepot o...   0.659038
+1  23  edited july 28 2013 add nwell ve googled crap ...   0.657170
+2  43  nloved hl 2070n even better n npros n n cost p...   0.649766
+3  42  bought brother hl 2270dw less 30 days ago with...   0.618554
+4   9  wife homeschool children print lot wanted some...   0.504898
+5  12  ve printer 3 years finally frustrated enough l...   0.504657
+6   7  setup printer came detailed guide made setuo q...   0.447171
+7   3  bought local staples stock price s royal pain ...   0.205370
+
+step 1
+index added: 44
+percentage unclustered: 82.4074%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 78.7037%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [0, 4, 45]
+			old information: 6940, gain: 0.945249140080154
+
+   ind                                             review  relevance
+0  45  bought printer dorm ve realized semester ll ne...   0.683430
+1   4  bought retail officedepot outlet officedepot o...   0.659038
+2  23  edited july 28 2013 add nwell ve googled crap ...   0.657170
+3  43  nloved hl 2070n even better n npros n n cost p...   0.649766
+4  42  bought brother hl 2270dw less 30 days ago with...   0.618554
+5   9  wife homeschool children print lot wanted some...   0.504898
+6  12  ve printer 3 years finally frustrated enough l...   0.504657
+7   7  setup printer came detailed guide made setuo q...   0.447171
+8   3  bought local staples stock price s royal pain ...   0.205370
+
+step 1
+index added: 46
+percentage unclustered: 75.0%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [0, 4, 22, 43, 45]
+
+step 1
+index added: 47
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 75.0%
+
+	step 2
+
+		step 3
+		candidate index: 50 with core nodes: [0, 4, 22, 43]
+			old information: 5374, gain: 0.8899401982469075
+
+   ind                                             review  relevance
+0  50  using brother hl 2270dw printer days happy it ...   0.688257
+1  45  bought printer dorm ve realized semester ll ne...   0.683430
+2   4  bought retail officedepot outlet officedepot o...   0.659038
+3  23  edited july 28 2013 add nwell ve googled crap ...   0.657170
+4  43  nloved hl 2070n even better n npros n n cost p...   0.649766
+5  42  bought brother hl 2270dw less 30 days ago with...   0.618554
+6   9  wife homeschool children print lot wanted some...   0.504898
+7  12  ve printer 3 years finally frustrated enough l...   0.504657
+8   7  setup printer came detailed guide made setuo q...   0.447171
+9   3  bought local staples stock price s royal pain ...   0.205370
+
+step 1
+index added: 51
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 74.0741%
+
+	step 2
+
+		step 3
+		candidate index: 54 with core nodes: [16, 27, 41, 42]
+
+step 1
+index added: 55
+percentage unclustered: 74.0741%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 73.1481%
+
+	step 2
+
+		step 3
+		candidate index: 56 with core nodes: [0, 4, 22, 43]
+
+step 1
+index added: 57
+percentage unclustered: 69.4444%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 68.5185%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 68.5185%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 68.5185%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 69.4444%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 69.4444%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 69.4444%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 75.9259%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 75.9259%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 80.5556%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 80.5556%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 80.5556%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 80.5556%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 80.5556%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 78.7037%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 79.6296%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 82.4074%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 82.4074%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 81.4815%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 80.5556%
+
+	step 2
+
+		step 3
+		candidate index: 80 with core nodes: [22, 43, 80]
+			old information: 1207, gain: 0.8515009842519685
+
+    ind                                             review  relevance
+0   80  reasonably experienced user found printer diff...   0.694539
+1   50  using brother hl 2270dw printer days happy it ...   0.688257
+2   45  bought printer dorm ve realized semester ll ne...   0.683430
+3    4  bought retail officedepot outlet officedepot o...   0.659038
+4   23  edited july 28 2013 add nwell ve googled crap ...   0.657170
+5   43  nloved hl 2070n even better n npros n n cost p...   0.649766
+6   42  bought brother hl 2270dw less 30 days ago with...   0.618554
+7    9  wife homeschool children print lot wanted some...   0.504898
+8   12  ve printer 3 years finally frustrated enough l...   0.504657
+9    7  setup printer came detailed guide made setuo q...   0.447171
+10   3  bought local staples stock price s royal pain ...   0.205370
+
+step 1
+index added: 81
+percentage unclustered: 72.2222%
+
+	step 2
+
+		step 3
+		candidate index: 81 with core nodes: [0, 22, 43, 50, 80]
+
+step 1
+index added: 82
+percentage unclustered: 72.2222%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 73.1481%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 73.1481%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 65.7407%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 64.81479999999999%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 62.037%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 62.037%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 65.7407%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 65.7407%
+
+	step 2
+
+		step 3
+		candidate index: 95 with core nodes: [4, 45, 95]
+			old information: 8196, gain: 0.9281071550748664
+
+    ind                                             review  relevance
+0   80  reasonably experienced user found printer diff...   0.694539
+1   95  excellent little printer clear fast hassle fre...   0.693158
+2   50  using brother hl 2270dw printer days happy it ...   0.688257
+3   45  bought printer dorm ve realized semester ll ne...   0.683430
+4    4  bought retail officedepot outlet officedepot o...   0.659038
+5   23  edited july 28 2013 add nwell ve googled crap ...   0.657170
+6   43  nloved hl 2070n even better n npros n n cost p...   0.649766
+7   42  bought brother hl 2270dw less 30 days ago with...   0.618554
+8    9  wife homeschool children print lot wanted some...   0.504898
+9   12  ve printer 3 years finally frustrated enough l...   0.504657
+10   7  setup printer came detailed guide made setuo q...   0.447171
+11   3  bought local staples stock price s royal pain ...   0.205370
+
+step 1
+index added: 96
+percentage unclustered: 64.81479999999999%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 62.037%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 62.037%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 62.037%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 62.037%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 60.1852%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 57.4074%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 57.4074%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 56.4815%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 55.5556%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 54.6296%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 56.4815%
+
+	step 2
+
+--- 828.8976535797119 seconds ---
+
+
+ Unclustered percentages: [100.0, 97.2222, 96.2963, 96.2963, 96.2963, 95.3704, 95.3704, 94.4444, 94.4444, 94.4444, 93.5185, 90.7407, 90.7407, 90.7407, 91.6667, 91.6667, 91.6667, 91.6667, 91.6667, 91.6667, 91.6667, 88.8889, 88.8889, 88.8889, 88.8889, 91.6667, 91.6667, 90.7407, 89.8148, 89.8148, 89.8148, 89.8148, 87.037, 86.1111, 86.1111, 85.1852, 85.1852, 85.1852, 85.1852, 85.1852, 83.33330000000001, 82.4074, 82.4074, 78.7037, 75.0, 75.0, 75.0, 75.0, 75.0, 75.0, 75.0, 75.0, 74.0741, 74.0741, 73.1481, 69.4444, 68.5185, 68.5185, 68.5185, 69.4444, 69.4444, 69.4444, 75.9259, 75.9259, 80.5556, 80.5556, 80.5556, 80.5556, 80.5556, 77.7778, 77.7778, 77.7778, 77.7778, 78.7037, 79.6296, 82.4074, 82.4074, 81.4815, 80.5556, 72.2222, 72.2222, 73.1481, 73.1481, 66.66669999999999, 66.66669999999999, 65.7407, 64.81479999999999, 62.037, 62.037, 65.7407, 66.66669999999999, 66.66669999999999, 66.66669999999999, 65.7407, 64.81479999999999, 62.037, 62.037, 62.037, 62.037, 60.1852, 57.4074, 57.4074, 56.4815, 55.5556, 54.6296, 56.4815], mean: 78.7299
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        45  80   0.694539  reasonably experienced user found printer diff...
+1        19  95   0.693158  excellent little printer clear fast hassle fre...
+2        99  50   0.688257  using brother hl 2270dw printer days happy it ...
+3        24  45   0.683430  bought printer dorm ve realized semester ll ne...
+4        14   4   0.659038  bought retail officedepot outlet officedepot o...
+5        40  23   0.657170  edited july 28 2013 add nwell ve googled crap ...
+6        60  43   0.649766  nloved hl 2070n even better n npros n n cost p...
+7         3  42   0.618554  bought brother hl 2270dw less 30 days ago with...
+8        10   9   0.504898  wife homeschool children print lot wanted some...
+9        39  12   0.504657  ve printer 3 years finally frustrated enough l...
+10       12   7   0.447171  setup printer came detailed guide made setuo q...
+11       23   3   0.205370  bought local staples stock price s royal pain ...

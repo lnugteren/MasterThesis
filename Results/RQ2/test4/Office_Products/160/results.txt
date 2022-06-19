@@ -1,0 +1,1213 @@
+------- Category: Office_Products -------
+Found asin_id: B000V2QCQI
+Shape:  (160, 7)
+
+Readability scores: [14.06560439560441, -61.66810344827584, -97.77605263157893, -55.49874999999996, -113.39377551020404, -39.526206896551685, -167.87045627376423, 8.932500000000019, 38.96000000000002, -50.61172413793099, -93.97030612244893, -241.18895348837205, -25.385526315789463, -14.008695652173884, -83.08128491620108, -145.8488412017167, -57.401736526946095, -89.31945945945942, -279.1985233160621, -1439.937444152431, -821.0008590308369, -209.4759395973154, 10.99430379746839, -125.11626794258372, -117.27444954128437, -503.3422934232715, -91.98499999999999, 26.061428571428593, -123.54642857142854, 6.739545454545478, 42.27000000000003, -96.12846938775506, -51.46419354838707, -54.56112582781455, 31.432857142857173, -237.76731707317066, 73.17200000000001, 27.05759493670888, -23.345169491525397, 14.206962025316486, -4.4866990291262, -548.5153715170278, -636.295, -110.26373786407764, -49.300633802816876, -593.7542921013412, -9.174999999999983, -142.1123913043478, -115.25105726872242, -156.89499999999995, -97.38499999999998, -247.00499999999994, -43.02468531468527, 63.479677419354864, -60.44125748502991, 18.592134831460697, 68.09500000000003, -20.14337209302323, -144.27749999999995, -501.28589315525863, 32.85026315789477, 42.11684210526318, -90.2065789473684, -76.26299999999995, -69.22991525423726, 33.67000000000002, -64.14965116279068, -95.13875647668391, -225.68999999999994, -29.82999999999997, -135.97726457399096, -107.41233160621759, -181.5009090909091, 8.135955056179796, -79.18497005988021, -137.52999999999997, -8.028999999999982, -15.823913043478242, -48.15205882352939, -257.24017241379306, 27.797228915662686, -361.1840939597315, -69.02968944099378, -18.174999999999983, -44.48749999999998, -96.9484615384615, -81.33786982248519, -197.46887755102037, -50.0792857142857, -205.91067961165047, -167.25891050583652, 31.530769230769252, -223.97937499999995, -113.0190476190476, -90.1706703910614, -486.7326516464471, -200.01393939393938, -25.511683168316807, -7.006764705882333, -286.7105929919137, -16.892627118644043, -48.749098360655694, -482.6877486910994, -26.88923076923075, 2.1029310344828005, -32.309302325581356, -48.30469798657714, -138.98999999999995, -398.04274703557303, -73.20676470588232, -357.02879049676017, -67.43841463414631, -74.30948275862066, 85.01500000000001, 47.91323529411766, 37.486956521739145, -10.246216216216197, -244.61478260869558, -50.61172413793099, -11.346638655462144, -772.3050471698112, -412.7424103585657, 2.3690322580645358, 24.739397590361477, -180.27036363636364, -86.32487341772148, -341.65551724137924, 25.758674698795204, -56.51872611464965, 42.86500000000002, -211.10524916943518, -669.5357894736842, -189.92324324324323, 40.30785714285716, 89.86500000000001, -40.393684210526274, 52.66918918918922, 64.1159090909091, 41.47500000000001, 52.28076923076925, -3.257113402061819, -23.244146341463377, 15.891470588235322, -27.14859504132228, 50.38270270270271, -306.50488664987404, -6.04874999999997, -39.944999999999965, 8.825000000000017, -120.1133333333333, -1.97499999999998, 30.04961538461542, 16.832142857142884, -157.91448275862064, -7.7176635514018415, -353.906923076923, 76.55500000000002, -124.94092511013211, -226.35874999999993, -24.513823529411752], on average: -114.8441
+Readability scores after: [14.06560439560441, -61.66810344827584, -97.77605263157893, -55.49874999999996, -113.39377551020404, -39.526206896551685, -167.87045627376423, 8.932500000000019, 38.96000000000002, -50.61172413793099, -93.97030612244893, -241.18895348837205, -25.385526315789463, -14.008695652173884, -83.08128491620108, -145.8488412017167, -57.401736526946095, -89.31945945945942, -279.1985233160621, -1439.937444152431, -821.0008590308369, -209.4759395973154, 10.99430379746839, -125.11626794258372, -117.27444954128437, -503.3422934232715, -91.98499999999999, 26.061428571428593, -123.54642857142854, 6.739545454545478, 42.27000000000003, -96.12846938775506, -51.46419354838707, -54.56112582781455, 31.432857142857173, -237.76731707317066, 27.05759493670888, -23.345169491525397, 14.206962025316486, -4.4866990291262, -548.5153715170278, -636.295, -110.26373786407764, -49.300633802816876, -593.7542921013412, -9.174999999999983, -142.1123913043478, -115.25105726872242, -156.89499999999995, -97.38499999999998, -247.00499999999994, -43.02468531468527, -60.44125748502991, 18.592134831460697, -20.14337209302323, -144.27749999999995, -501.28589315525863, 32.85026315789477, 42.11684210526318, -90.2065789473684, -76.26299999999995, -69.22991525423726, 33.67000000000002, -64.14965116279068, -95.13875647668391, -225.68999999999994, -29.82999999999997, -135.97726457399096, -107.41233160621759, -181.5009090909091, 8.135955056179796, -79.18497005988021, -137.52999999999997, -8.028999999999982, -15.823913043478242, -48.15205882352939, -257.24017241379306, 27.797228915662686, -361.1840939597315, -69.02968944099378, -18.174999999999983, -44.48749999999998, -96.9484615384615, -81.33786982248519, -197.46887755102037, -50.0792857142857, -205.91067961165047, -167.25891050583652, 31.530769230769252, -223.97937499999995, -113.0190476190476, -90.1706703910614, -486.7326516464471, -200.01393939393938, -25.511683168316807, -7.006764705882333, -286.7105929919137, -16.892627118644043, -48.749098360655694, -482.6877486910994, -26.88923076923075, 2.1029310344828005, -32.309302325581356, -48.30469798657714, -138.98999999999995, -398.04274703557303, -73.20676470588232, -357.02879049676017, -67.43841463414631, -74.30948275862066, 47.91323529411766, 37.486956521739145, -10.246216216216197, -244.61478260869558, -50.61172413793099, -11.346638655462144, -772.3050471698112, -412.7424103585657, 2.3690322580645358, 24.739397590361477, -180.27036363636364, -86.32487341772148, -341.65551724137924, 25.758674698795204, -56.51872611464965, 42.86500000000002, -211.10524916943518, -669.5357894736842, -189.92324324324323, 40.30785714285716, -40.393684210526274, 41.47500000000001, -3.257113402061819, -23.244146341463377, 15.891470588235322, -27.14859504132228, -306.50488664987404, -6.04874999999997, -39.944999999999965, 8.825000000000017, -120.1133333333333, -1.97499999999998, 30.04961538461542, 16.832142857142884, -157.91448275862064, -7.7176635514018415, -353.906923076923, -124.94092511013211, -226.35874999999993, -24.513823529411752], on average after: -127.0046
+Shape after:  (150, 8)
+
+
+Chosen product: B000V2QCQI has 160 reviews - False, it has 150 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 98.0%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [2, 4, 6]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   6  needed quality scanner digitize 1700 slides ar...   0.420662
+
+step 1
+index added: 7
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 97.3333%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [2, 4, 6, 15]
+			old information: 109, gain: 0.9877679272808888
+
+   ind                                             review  relevance
+0   6  needed quality scanner digitize 1700 slides ar...   0.420662
+1  15  used work digital imaging studio access severa...   0.415443
+
+step 1
+index added: 16
+percentage unclustered: 97.3333%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 97.3333%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 94.6667%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [2, 6, 15, 18]
+			old information: 696, gain: 0.97286655491014
+
+   ind                                             review  relevance
+0  18  m using scanner primarily archiving collection...   0.512033
+1   6  needed quality scanner digitize 1700 slides ar...   0.420662
+2  15  used work digital imaging studio access severa...   0.415443
+
+step 1
+index added: 19
+percentage unclustered: 94.6667%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 94.6667%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 94.6667%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 96.6667%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [1, 10, 18, 22]
+			old information: 69, gain: 0.9361702127659575
+
+   ind                                             review  relevance
+0  18  m using scanner primarily archiving collection...   0.512033
+1   6  needed quality scanner digitize 1700 slides ar...   0.420662
+2  15  used work digital imaging studio access severa...   0.415443
+3  22  scanner arrived quickly relatively easy set li...   0.158152
+
+step 1
+index added: 23
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 94.0%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [2, 6, 18, 24]
+			old information: 506, gain: 0.9479958890030833
+
+   ind                                             review  relevance
+0  18  m using scanner primarily archiving collection...   0.512033
+1  24  canon canoscan 8800f excellent scanner film ph...   0.467282
+2   6  needed quality scanner digitize 1700 slides ar...   0.420662
+3  15  used work digital imaging studio access severa...   0.415443
+4  22  scanner arrived quickly relatively easy set li...   0.158152
+
+step 1
+index added: 25
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 92.0%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [2, 6, 18, 24]
+
+step 1
+index added: 27
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 31 with core nodes: [2, 6, 18, 24]
+
+step 1
+index added: 32
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 89.3333%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 88.6667%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 86.6667%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [6, 18, 19, 35]
+			old information: 644, gain: 0.9604665438919583
+
+   ind                                             review  relevance
+0  35  want finally get old pictures negatives boxes ...   0.682808
+1  18  m using scanner primarily archiving collection...   0.512033
+2  24  canon canoscan 8800f excellent scanner film ph...   0.467282
+3   6  needed quality scanner digitize 1700 slides ar...   0.420662
+4  15  used work digital imaging studio access severa...   0.415443
+5  22  scanner arrived quickly relatively easy set li...   0.158152
+
+step 1
+index added: 36
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 89.3333%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 89.3333%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 89.3333%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 89.3333%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 82.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [18, 19, 35]
+
+step 1
+index added: 44
+percentage unclustered: 82.0%
+
+	step 2
+
+		step 3
+		candidate index: 44 with core nodes: [18, 19, 35]
+
+step 1
+index added: 45
+percentage unclustered: 81.33330000000001%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 81.33330000000001%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 80.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [18, 19, 35]
+
+step 1
+index added: 48
+percentage unclustered: 85.3333%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 84.6667%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 84.6667%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 84.6667%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 84.6667%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 84.6667%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 55 with core nodes: [18, 19, 29, 35]
+
+step 1
+index added: 56
+percentage unclustered: 82.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 56 with core nodes: [18, 19, 29, 35]
+			old information: 1765, gain: 0.9670880883120758
+
+   ind                                             review  relevance
+0  35  want finally get old pictures negatives boxes ...   0.682808
+1  56  done semi professional photography hundreds 35...   0.553786
+2  18  m using scanner primarily archiving collection...   0.512033
+3  24  canon canoscan 8800f excellent scanner film ph...   0.467282
+4   6  needed quality scanner digitize 1700 slides ar...   0.420662
+5  15  used work digital imaging studio access severa...   0.415443
+6  22  scanner arrived quickly relatively easy set li...   0.158152
+
+step 1
+index added: 57
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 57 with core nodes: [18, 19, 29, 35]
+
+step 1
+index added: 58
+percentage unclustered: 82.0%
+
+	step 2
+
+		step 3
+		candidate index: 58 with core nodes: [18, 19, 29, 35]
+
+step 1
+index added: 59
+percentage unclustered: 84.6667%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 84.6667%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 84.6667%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 84.6667%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 82.66669999999999%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 84.6667%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 84.6667%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 87.3333%
+
+	step 2
+
+		step 3
+		candidate index: 77 with core nodes: [18, 29, 42, 55]
+
+step 1
+index added: 78
+percentage unclustered: 86.6667%
+
+	step 2
+
+		step 3
+		candidate index: 78 with core nodes: [18, 29, 42, 44, 55, 56, 68, 78]
+			old information: 1781, gain: 0.9454350490196078
+
+   ind                                             review  relevance
+0  35  want finally get old pictures negatives boxes ...   0.682808
+1  56  done semi professional photography hundreds 35...   0.553786
+2  18  m using scanner primarily archiving collection...   0.512033
+3  78  previous reviews canoscan 8800f helpful decidi...   0.486430
+4  24  canon canoscan 8800f excellent scanner film ph...   0.467282
+5   6  needed quality scanner digitize 1700 slides ar...   0.420662
+6  15  used work digital imaging studio access severa...   0.415443
+7  22  scanner arrived quickly relatively easy set li...   0.158152
+
+step 1
+index added: 79
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 85.3333%
+
+	step 2
+
+		step 3
+		candidate index: 80 with core nodes: [24, 54, 80]
+			old information: 466, gain: 0.8226788432267884
+
+   ind                                             review  relevance
+0  35  want finally get old pictures negatives boxes ...   0.682808
+1  56  done semi professional photography hundreds 35...   0.553786
+2  18  m using scanner primarily archiving collection...   0.512033
+3  78  previous reviews canoscan 8800f helpful decidi...   0.486430
+4  24  canon canoscan 8800f excellent scanner film ph...   0.467282
+5   6  needed quality scanner digitize 1700 slides ar...   0.420662
+6  15  used work digital imaging studio access severa...   0.415443
+7  80  pleased nbsp data hook product link linked cla...   0.275666
+8  22  scanner arrived quickly relatively easy set li...   0.158152
+
+step 1
+index added: 81
+percentage unclustered: 85.3333%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 84.6667%
+
+	step 2
+
+		step 3
+		candidate index: 82 with core nodes: [18, 29, 42, 44, 55, 78, 82]
+			old information: 637, gain: 0.8833333333333333
+
+   ind                                             review  relevance
+0  35  want finally get old pictures negatives boxes ...   0.682808
+1  56  done semi professional photography hundreds 35...   0.553786
+2  18  m using scanner primarily archiving collection...   0.512033
+3  78  previous reviews canoscan 8800f helpful decidi...   0.486430
+4  82  read many reviews purchasing product comfortab...   0.484266
+5  24  canon canoscan 8800f excellent scanner film ph...   0.467282
+6   6  needed quality scanner digitize 1700 slides ar...   0.420662
+7  15  used work digital imaging studio access severa...   0.415443
+8  80  pleased nbsp data hook product link linked cla...   0.275666
+9  22  scanner arrived quickly relatively easy set li...   0.158152
+
+step 1
+index added: 83
+percentage unclustered: 84.6667%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 84.0%
+
+	step 2
+
+		step 3
+		candidate index: 84 with core nodes: [18, 29, 42, 44, 55, 78, 82]
+
+step 1
+index added: 85
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 81.33330000000001%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 78.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 89 with core nodes: [18, 19, 89]
+			old information: 1157, gain: 0.932021151586369
+
+    ind                                             review  relevance
+0   35  want finally get old pictures negatives boxes ...   0.682808
+1   89  upgrading system vista found hp going supply d...   0.609260
+2   56  done semi professional photography hundreds 35...   0.553786
+3   18  m using scanner primarily archiving collection...   0.512033
+4   78  previous reviews canoscan 8800f helpful decidi...   0.486430
+5   82  read many reviews purchasing product comfortab...   0.484266
+6   24  canon canoscan 8800f excellent scanner film ph...   0.467282
+7    6  needed quality scanner digitize 1700 slides ar...   0.420662
+8   15  used work digital imaging studio access severa...   0.415443
+9   80  pleased nbsp data hook product link linked cla...   0.275666
+10  22  scanner arrived quickly relatively easy set li...   0.158152
+
+step 1
+index added: 90
+percentage unclustered: 78.0%
+
+	step 2
+
+		step 3
+		candidate index: 90 with core nodes: [18, 19, 89]
+
+step 1
+index added: 91
+percentage unclustered: 78.66669999999999%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 78.0%
+
+	step 2
+
+		step 3
+		candidate index: 92 with core nodes: [28, 56, 92]
+			old information: 3246, gain: 0.9433418861601298
+
+    ind                                             review  relevance
+0   35  want finally get old pictures negatives boxes ...   0.682808
+1   89  upgrading system vista found hp going supply d...   0.609260
+2   56  done semi professional photography hundreds 35...   0.553786
+3   18  m using scanner primarily archiving collection...   0.512033
+4   78  previous reviews canoscan 8800f helpful decidi...   0.486430
+5   82  read many reviews purchasing product comfortab...   0.484266
+6   92  updated 12 aug 08 used scanner 14 hours one da...   0.475043
+7   24  canon canoscan 8800f excellent scanner film ph...   0.467282
+8    6  needed quality scanner digitize 1700 slides ar...   0.420662
+9   15  used work digital imaging studio access severa...   0.415443
+10  80  pleased nbsp data hook product link linked cla...   0.275666
+11  22  scanner arrived quickly relatively easy set li...   0.158152
+
+step 1
+index added: 93
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 76.0%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 76.0%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 75.33330000000001%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 74.66669999999999%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 75.33330000000001%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 75.33330000000001%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 72.0%
+
+	step 2
+
+		step 3
+		candidate index: 101 with core nodes: [24, 54, 80, 101]
+			old information: 707, gain: 0.6136612021857923
+
+     ind                                             review  relevance
+0    35  want finally get old pictures negatives boxes ...   0.682808
+1    89  upgrading system vista found hp going supply d...   0.609260
+2    56  done semi professional photography hundreds 35...   0.553786
+3    18  m using scanner primarily archiving collection...   0.512033
+4    78  previous reviews canoscan 8800f helpful decidi...   0.486430
+5    82  read many reviews purchasing product comfortab...   0.484266
+6    92  updated 12 aug 08 used scanner 14 hours one da...   0.475043
+7    24  canon canoscan 8800f excellent scanner film ph...   0.467282
+8     6  needed quality scanner digitize 1700 slides ar...   0.420662
+9    15  used work digital imaging studio access severa...   0.415443
+10  101  data hook product link linked class a link nor...   0.382947
+11   80  pleased nbsp data hook product link linked cla...   0.275666
+12   22  scanner arrived quickly relatively easy set li...   0.158152
+
+step 1
+index added: 102
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 102 with core nodes: [44, 78, 82, 99, 102]
+			old information: 509, gain: 0.7552884615384615
+
+     ind                                             review  relevance
+0    35  want finally get old pictures negatives boxes ...   0.682808
+1    89  upgrading system vista found hp going supply d...   0.609260
+2    56  done semi professional photography hundreds 35...   0.553786
+3    18  m using scanner primarily archiving collection...   0.512033
+4    78  previous reviews canoscan 8800f helpful decidi...   0.486430
+5    82  read many reviews purchasing product comfortab...   0.484266
+6    92  updated 12 aug 08 used scanner 14 hours one da...   0.475043
+7    24  canon canoscan 8800f excellent scanner film ph...   0.467282
+8   102  using microtek scanner number years mainly use...   0.466375
+9     6  needed quality scanner digitize 1700 slides ar...   0.420662
+10   15  used work digital imaging studio access severa...   0.415443
+11  101  data hook product link linked class a link nor...   0.382947
+12   80  pleased nbsp data hook product link linked cla...   0.275666
+13   22  scanner arrived quickly relatively easy set li...   0.158152
+
+step 1
+index added: 103
+percentage unclustered: 69.33330000000001%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 69.33330000000001%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 67.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 105 with core nodes: [18, 19, 89, 105]
+			old information: 2154, gain: 0.9432411067193676
+
+     ind                                             review  relevance
+0    35  want finally get old pictures negatives boxes ...   0.682808
+1    89  upgrading system vista found hp going supply d...   0.609260
+2   105  lem guess got zillion slides negatives photos ...   0.592900
+3    56  done semi professional photography hundreds 35...   0.553786
+4    18  m using scanner primarily archiving collection...   0.512033
+5    78  previous reviews canoscan 8800f helpful decidi...   0.486430
+6    82  read many reviews purchasing product comfortab...   0.484266
+7    92  updated 12 aug 08 used scanner 14 hours one da...   0.475043
+8    24  canon canoscan 8800f excellent scanner film ph...   0.467282
+9   102  using microtek scanner number years mainly use...   0.466375
+10    6  needed quality scanner digitize 1700 slides ar...   0.420662
+11   15  used work digital imaging studio access severa...   0.415443
+12  101  data hook product link linked class a link nor...   0.382947
+13   80  pleased nbsp data hook product link linked cla...   0.275666
+14   22  scanner arrived quickly relatively easy set li...   0.158152
+
+step 1
+index added: 106
+percentage unclustered: 67.33330000000001%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 67.33330000000001%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 65.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 109 with core nodes: [18, 19, 89, 105]
+
+step 1
+index added: 110
+percentage unclustered: 64.66669999999999%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 64.0%
+
+	step 2
+
+		step 3
+		candidate index: 111 with core nodes: [28, 56, 92]
+
+step 1
+index added: 112
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 61.3333%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 61.3333%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 61.3333%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 61.3333%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 64.66669999999999%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 62.6667%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 62.6667%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 62.6667%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 63.3333%
+
+	step 2
+
+		step 3
+		candidate index: 127 with core nodes: [18, 19, 28, 56, 78, 92, 99, 105, 108, 127]
+			old information: 5431, gain: 0.9345883316471552
+
+     ind                                             review  relevance
+0    35  want finally get old pictures negatives boxes ...   0.682808
+1    89  upgrading system vista found hp going supply d...   0.609260
+2   127  good news bad news purchased scanner based num...   0.606344
+3   105  lem guess got zillion slides negatives photos ...   0.592900
+4    56  done semi professional photography hundreds 35...   0.553786
+5    18  m using scanner primarily archiving collection...   0.512033
+6    78  previous reviews canoscan 8800f helpful decidi...   0.486430
+7    82  read many reviews purchasing product comfortab...   0.484266
+8    92  updated 12 aug 08 used scanner 14 hours one da...   0.475043
+9    24  canon canoscan 8800f excellent scanner film ph...   0.467282
+10  102  using microtek scanner number years mainly use...   0.466375
+11    6  needed quality scanner digitize 1700 slides ar...   0.420662
+12   15  used work digital imaging studio access severa...   0.415443
+13  101  data hook product link linked class a link nor...   0.382947
+14   80  pleased nbsp data hook product link linked cla...   0.275666
+15   22  scanner arrived quickly relatively easy set li...   0.158152
+
+step 1
+index added: 128
+percentage unclustered: 62.6667%
+
+	step 2
+
+		step 3
+		candidate index: 128 with core nodes: [18, 19, 28, 56, 78, 92, 99, 105, 108, 127]
+
+step 1
+index added: 129
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 130
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 131
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 132
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 133
+percentage unclustered: 65.33330000000001%
+
+	step 2
+
+step 1
+index added: 134
+percentage unclustered: 64.66669999999999%
+
+	step 2
+
+step 1
+index added: 135
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 136
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 137
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 138
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 139
+percentage unclustered: 60.6667%
+
+	step 2
+
+step 1
+index added: 140
+percentage unclustered: 60.6667%
+
+	step 2
+
+step 1
+index added: 141
+percentage unclustered: 60.6667%
+
+	step 2
+
+step 1
+index added: 142
+percentage unclustered: 60.0%
+
+	step 2
+
+		step 3
+		candidate index: 142 with core nodes: [31, 79, 142]
+			old information: 310, gain: 0.7132284921369103
+
+     ind                                             review  relevance
+0    35  want finally get old pictures negatives boxes ...   0.682808
+1    89  upgrading system vista found hp going supply d...   0.609260
+2   127  good news bad news purchased scanner based num...   0.606344
+3   105  lem guess got zillion slides negatives photos ...   0.592900
+4    56  done semi professional photography hundreds 35...   0.553786
+5    18  m using scanner primarily archiving collection...   0.512033
+6    78  previous reviews canoscan 8800f helpful decidi...   0.486430
+7    82  read many reviews purchasing product comfortab...   0.484266
+8    92  updated 12 aug 08 used scanner 14 hours one da...   0.475043
+9    24  canon canoscan 8800f excellent scanner film ph...   0.467282
+10  102  using microtek scanner number years mainly use...   0.466375
+11    6  needed quality scanner digitize 1700 slides ar...   0.420662
+12   15  used work digital imaging studio access severa...   0.415443
+13  101  data hook product link linked class a link nor...   0.382947
+14   80  pleased nbsp data hook product link linked cla...   0.275666
+15  142  bought one month ago mainly scan 35mm film pro...   0.229222
+16   22  scanner arrived quickly relatively easy set li...   0.158152
+
+step 1
+index added: 143
+percentage unclustered: 59.3333%
+
+	step 2
+
+step 1
+index added: 144
+percentage unclustered: 59.3333%
+
+	step 2
+
+step 1
+index added: 145
+percentage unclustered: 59.3333%
+
+	step 2
+
+step 1
+index added: 146
+percentage unclustered: 59.3333%
+
+	step 2
+
+step 1
+index added: 147
+percentage unclustered: 59.3333%
+
+	step 2
+
+step 1
+index added: 148
+percentage unclustered: 59.3333%
+
+	step 2
+
+step 1
+index added: 149
+percentage unclustered: 59.3333%
+
+	step 2
+
+--- 397.0538172721863 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 98.0, 98.0, 98.0, 98.0, 98.0, 98.0, 98.0, 98.0, 98.0, 97.3333, 97.3333, 97.3333, 94.6667, 94.6667, 94.6667, 94.6667, 96.6667, 96.6667, 94.0, 94.0, 92.0, 92.0, 92.0, 92.0, 92.0, 90.0, 90.0, 89.3333, 88.6667, 86.6667, 86.6667, 86.0, 89.3333, 89.3333, 89.3333, 89.3333, 83.33330000000001, 82.66669999999999, 82.0, 81.33330000000001, 81.33330000000001, 80.66669999999999, 85.3333, 84.6667, 84.6667, 84.6667, 84.6667, 84.6667, 84.0, 83.33330000000001, 82.66669999999999, 80.0, 82.0, 84.6667, 84.6667, 84.6667, 84.6667, 83.33330000000001, 82.66669999999999, 84.6667, 84.6667, 86.6667, 86.0, 86.0, 86.0, 86.0, 86.0, 86.0, 86.0, 88.0, 88.0, 87.3333, 86.6667, 86.0, 85.3333, 85.3333, 84.6667, 84.6667, 84.0, 84.0, 84.0, 84.0, 81.33330000000001, 78.66669999999999, 78.0, 78.66669999999999, 78.0, 78.0, 78.0, 76.0, 76.0, 75.33330000000001, 74.66669999999999, 75.33330000000001, 75.33330000000001, 72.0, 70.0, 69.33330000000001, 69.33330000000001, 67.33330000000001, 67.33330000000001, 67.33330000000001, 66.0, 65.33330000000001, 64.66669999999999, 64.0, 63.3333, 63.3333, 61.3333, 61.3333, 61.3333, 61.3333, 64.66669999999999, 64.0, 64.0, 63.3333, 63.3333, 63.3333, 62.6667, 62.6667, 62.6667, 63.3333, 62.6667, 66.0, 66.0, 66.0, 66.0, 65.33330000000001, 64.66669999999999, 64.0, 60.0, 60.0, 60.0, 60.6667, 60.6667, 60.6667, 60.0, 59.3333, 59.3333, 59.3333, 59.3333, 59.3333, 59.3333, 59.3333], mean: 79.4955
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0        32   35   0.682808  want finally get old pictures negatives boxes ...
+1        86   89   0.609260  upgrading system vista found hp going supply d...
+2         5  127   0.606344  good news bad news purchased scanner based num...
+3        83  105   0.592900  lem guess got zillion slides negatives photos ...
+4        20   56   0.553786  done semi professional photography hundreds 35...
+5        73   18   0.512033  m using scanner primarily archiving collection...
+6        30   78   0.486430  previous reviews canoscan 8800f helpful decidi...
+7       126   82   0.484266  read many reviews purchasing product comfortab...
+8        17   92   0.475043  updated 12 aug 08 used scanner 14 hours one da...
+9        21   24   0.467282  canon canoscan 8800f excellent scanner film ph...
+10      135  102   0.466375  using microtek scanner number years mainly use...
+11       51    6   0.420662  needed quality scanner digitize 1700 slides ar...
+12       60   15   0.415443  used work digital imaging studio access severa...
+13      134  101   0.382947  data hook product link linked class a link nor...
+14       94   80   0.275666  pleased nbsp data hook product link linked cla...
+15       45  142   0.229222  bought one month ago mainly scan 35mm film pro...
+16      105   22   0.158152  scanner arrived quickly relatively easy set li...

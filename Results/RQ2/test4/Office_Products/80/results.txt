@@ -1,0 +1,496 @@
+------- Category: Office_Products -------
+Found asin_id: B00000J4FS
+Shape:  (80, 7)
+
+Readability scores: [69.46206896551725, 51.99868852459018, 25.246067415730366, -165.13777372262768, -45.13364864864863, 5.499693877551053, -4.948319327731056, -2.7753571428571178, -111.66516129032254, -319.44529702970294, 23.356176470588252, -183.36737410071936, -134.31526970954354, -249.19151335311568, 22.4976829268293, 60.67375000000002, -26.946785714285696, 55.31456521739132, -55.95899999999996, -59.966538461538434, -107.21911764705878, -7.006764705882333, -302.8920253164556, -41.84146853146849, -118.8123255813953, -232.83716867469875, -82.51314917127067, -93.01519417475724, 16.014193548387112, -41.27655172413789, -42.51370967741933, 81.63500000000002, 67.96136363636366, -90.19047619047616, -41.11476821192049, -96.32989949748742, -76.91499999999998, 42.27542372881358, -116.13241935483867, 48.49357142857143, 13.06823529411767, 23.30500000000002, -1.7963157894736526, 30.026395348837227, 35.35606557377051, -123.70034334763945, -125.49747787610616, -30.817812499999974, -193.5393708609271, -60.994999999999976, -56.89653061224486, -461.985871559633, 55.234693877551045, -198.2265886287625, 69.22500000000002, -29.934436090225518, 35.69256756756759, -15.571923076923056, -87.02274193548385, -149.56499999999994, -13.104999999999961, -141.12866952789696, 29.87000000000002, 16.257432432432438, -9.720999999999975, -170.65424812030068, 49.75230769230771, -1.45267441860463, 3.7731632653061524, 26.18545454545456, 19.534411764705908, -27.936538461538433, 12.591666666666676, -11.549827586206874, -155.83235294117645, 17.725000000000023, 97.44500000000002, -2.9134905660377086, -818.8577864293659, -156.12362549800793], on average: -59.8602
+Readability scores after: [25.246067415730366, -165.13777372262768, -45.13364864864863, 5.499693877551053, -4.948319327731056, -2.7753571428571178, -111.66516129032254, -319.44529702970294, 23.356176470588252, -183.36737410071936, -134.31526970954354, -249.19151335311568, 22.4976829268293, -26.946785714285696, -55.95899999999996, -59.966538461538434, -107.21911764705878, -7.006764705882333, -302.8920253164556, -41.84146853146849, -118.8123255813953, -232.83716867469875, -82.51314917127067, -93.01519417475724, 16.014193548387112, -41.27655172413789, -42.51370967741933, -90.19047619047616, -41.11476821192049, -96.32989949748742, -76.91499999999998, 42.27542372881358, -116.13241935483867, 48.49357142857143, 13.06823529411767, 23.30500000000002, -1.7963157894736526, 30.026395348837227, 35.35606557377051, -123.70034334763945, -125.49747787610616, -30.817812499999974, -193.5393708609271, -60.994999999999976, -56.89653061224486, -461.985871559633, -198.2265886287625, -29.934436090225518, 35.69256756756759, -15.571923076923056, -87.02274193548385, -149.56499999999994, -13.104999999999961, -141.12866952789696, 29.87000000000002, 16.257432432432438, -9.720999999999975, -170.65424812030068, 49.75230769230771, -1.45267441860463, 3.7731632653061524, 26.18545454545456, 19.534411764705908, -27.936538461538433, 12.591666666666676, -11.549827586206874, -155.83235294117645, 17.725000000000023, -2.9134905660377086, -818.8577864293659, -156.12362549800793], on average after: -76.0249
+Shape after:  (71, 8)
+
+
+Chosen product: B00000J4FS has 80 reviews - False, it has 71 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 95.7746%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [2, 4, 9]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   9  put palm v best dollars ve ever spent really n...   0.367078
+
+step 1
+index added: 10
+percentage unclustered: 91.5493%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [0, 4, 9, 10]
+			old information: 157, gain: 0.9833915159208717
+
+   ind                                             review  relevance
+0  10  bought palm last year using one year could nev...   0.379821
+1   9  put palm v best dollars ve ever spent really n...   0.367078
+
+step 1
+index added: 11
+percentage unclustered: 91.5493%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 91.5493%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 91.5493%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 91.5493%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 91.5493%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 91.5493%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 91.5493%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 91.5493%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 91.5493%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 91.5493%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 91.5493%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 90.1408%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [0, 4, 9, 10]
+
+step 1
+index added: 23
+percentage unclustered: 90.1408%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 90.1408%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 90.1408%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 90.1408%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 90.1408%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 88.7324%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [0, 4, 9, 10, 28]
+			old information: 164, gain: 0.9300937766410913
+
+   ind                                             review  relevance
+0  10  bought palm last year using one year could nev...   0.379821
+1  28  ve using palm v 6 months love never used pda a...   0.370420
+2   9  put palm v best dollars ve ever spent really n...   0.367078
+
+step 1
+index added: 29
+percentage unclustered: 87.3239%
+
+	step 2
+
+		step 3
+		candidate index: 29 with core nodes: [0, 4, 9, 10, 28, 29]
+			old information: 184, gain: 0.9560439560439561
+
+   ind                                             review  relevance
+0  29  received palm v birthday present first thought...   0.394396
+1  10  bought palm last year using one year could nev...   0.379821
+2  28  ve using palm v 6 months love never used pda a...   0.370420
+3   9  put palm v best dollars ve ever spent really n...   0.367078
+
+step 1
+index added: 30
+percentage unclustered: 83.0986%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [0, 4, 9, 10, 28, 29]
+
+step 1
+index added: 31
+percentage unclustered: 83.0986%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 83.0986%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 83.0986%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 81.6901%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [0, 1, 4, 9, 13, 28, 29]
+
+step 1
+index added: 35
+percentage unclustered: 81.6901%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 81.6901%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 81.6901%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 80.2817%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [0, 1, 4, 9, 13, 28, 29]
+
+step 1
+index added: 39
+percentage unclustered: 80.2817%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 80.2817%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 80.2817%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 76.0563%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 80.2817%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 80.2817%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 80.2817%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 78.8732%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 78.8732%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 78.8732%
+
+	step 2
+
+		step 3
+		candidate index: 48 with core nodes: [9, 42, 46]
+
+step 1
+index added: 49
+percentage unclustered: 77.4648%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [9, 42, 46, 49]
+			old information: 70, gain: 0.968340117593849
+
+   ind                                             review  relevance
+0  49  finally decided spend extra palm v give old pa...   0.541284
+1  29  received palm v birthday present first thought...   0.394396
+2  10  bought palm last year using one year could nev...   0.379821
+3  28  ve using palm v 6 months love never used pda a...   0.370420
+4   9  put palm v best dollars ve ever spent really n...   0.367078
+
+step 1
+index added: 50
+percentage unclustered: 76.0563%
+
+	step 2
+
+		step 3
+		candidate index: 50 with core nodes: [9, 42, 46, 49]
+
+step 1
+index added: 51
+percentage unclustered: 76.0563%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 76.0563%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 76.0563%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 76.0563%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 76.0563%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 76.0563%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 76.0563%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 76.0563%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 76.0563%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 76.0563%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 74.64789999999999%
+
+	step 2
+
+		step 3
+		candidate index: 61 with core nodes: [9, 42, 46, 49]
+
+step 1
+index added: 62
+percentage unclustered: 74.64789999999999%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 74.64789999999999%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 74.64789999999999%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 73.2394%
+
+	step 2
+
+		step 3
+		candidate index: 65 with core nodes: [9, 42, 46, 49]
+
+step 1
+index added: 66
+percentage unclustered: 71.831%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 71.831%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 67.60560000000001%
+
+	step 2
+
+		step 3
+		candidate index: 68 with core nodes: [9, 42, 46, 49]
+
+step 1
+index added: 69
+percentage unclustered: 67.60560000000001%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 66.19720000000001%
+
+	step 2
+
+--- 18.101527214050293 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 95.7746, 91.5493, 91.5493, 91.5493, 91.5493, 91.5493, 91.5493, 91.5493, 91.5493, 91.5493, 91.5493, 91.5493, 91.5493, 90.1408, 90.1408, 90.1408, 90.1408, 90.1408, 90.1408, 88.7324, 87.3239, 83.0986, 83.0986, 83.0986, 83.0986, 81.6901, 81.6901, 81.6901, 81.6901, 80.2817, 80.2817, 80.2817, 80.2817, 76.0563, 80.2817, 80.2817, 80.2817, 78.8732, 78.8732, 78.8732, 77.4648, 76.0563, 76.0563, 76.0563, 76.0563, 76.0563, 76.0563, 76.0563, 76.0563, 76.0563, 76.0563, 76.0563, 74.64789999999999, 74.64789999999999, 74.64789999999999, 74.64789999999999, 73.2394, 71.831, 71.831, 67.60560000000001, 67.60560000000001, 66.19720000000001], mean: 83.7109
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0        7  49   0.541284  finally decided spend extra palm v give old pa...
+1       49  29   0.394396  received palm v birthday present first thought...
+2       71  10   0.379821  bought palm last year using one year could nev...
+3       46  28   0.370420  ve using palm v 6 months love never used pda a...
+4       50   9   0.367078  put palm v best dollars ve ever spent really n...

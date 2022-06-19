@@ -1,0 +1,181 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 0615115187
+Shape:  (30, 7)
+
+Readability scores: [9.737000000000037, 32.172272727272755, 21.29400000000004, -456.70807339449533, -210.15370967741933, 25.147464788732407, 52.506315789473696, 70.14470588235295, -34.27517241379307, 50.191666666666684, 74.805, 60.975714285714304, -13.165123966942119, -65.2363636363636, -22.628220338983027, 30.318000000000026, -100.01316326530608, 32.412025316455725, -198.58969696969694, 37.664210526315806, 9.087058823529432, 40.773823529411786, 94.83000000000001, -45.98272727272723, -79.56142857142854, -18.637857142857115, 65.50500000000001, -67.15018072289153, 13.965000000000018, 22.644109589041108], on average: -18.9309
+Readability scores after: [9.737000000000037, 32.172272727272755, 21.29400000000004, -456.70807339449533, -210.15370967741933, 25.147464788732407, -34.27517241379307, -13.165123966942119, -65.2363636363636, -22.628220338983027, 30.318000000000026, -100.01316326530608, 32.412025316455725, -198.58969696969694, 37.664210526315806, 9.087058823529432, 40.773823529411786, -45.98272727272723, -79.56142857142854, -18.637857142857115, -67.15018072289153, 13.965000000000018, 22.644109589041108], on average after: -45.082
+Shape after:  (23, 8)
+
+
+Chosen product: 0615115187 has 30 reviews - False, it has 23 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 86.9565%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [0, 2, 6]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   6  remember clearly hardware wars came sister how...    0.25926
+
+step 1
+index added: 7
+percentage unclustered: 86.9565%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 78.26089999999999%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [0, 2, 6, 8]
+			old information: 55, gain: 0.9868609651218346
+
+   ind                                             review  relevance
+0   8  reading many reviews seen movie ve come conclu...   0.278524
+1   6  remember clearly hardware wars came sister how...   0.259260
+
+step 1
+index added: 9
+percentage unclustered: 78.26089999999999%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 78.26089999999999%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 78.26089999999999%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 78.26089999999999%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 78.26089999999999%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 73.913%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [0, 2, 6, 8]
+			old information: 35, gain: 0.9137931034482759
+
+   ind                                             review  relevance
+0   8  reading many reviews seen movie ve come conclu...   0.278524
+1  14  n t genius understand magic behind video get s...   0.265663
+2   6  remember clearly hardware wars came sister how...   0.259260
+
+step 1
+index added: 15
+percentage unclustered: 73.913%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 73.913%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 60.8696%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [0, 2, 17]
+			old information: 48, gain: 0.979539641943734
+
+   ind                                             review  relevance
+0  17  far comic shorts go one gem find fault story d...   0.344468
+1   8  reading many reviews seen movie ve come conclu...   0.278524
+2  14  n t genius understand magic behind video get s...   0.265663
+3   6  remember clearly hardware wars came sister how...   0.259260
+
+step 1
+index added: 18
+percentage unclustered: 56.5217%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [6, 7, 11]
+
+step 1
+index added: 19
+percentage unclustered: 52.1739%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [0, 2, 17]
+
+step 1
+index added: 20
+percentage unclustered: 52.1739%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 52.1739%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 60.8696%
+
+	step 2
+
+--- 1.2616710662841797 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 86.9565, 86.9565, 78.26089999999999, 78.26089999999999, 78.26089999999999, 78.26089999999999, 78.26089999999999, 78.26089999999999, 73.913, 73.913, 73.913, 60.8696, 56.5217, 52.1739, 52.1739, 52.1739, 60.8696], mean: 76.1905
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0       11  17   0.344468  far comic shorts go one gem find fault story d...
+1        4   8   0.278524  reading many reviews seen movie ve come conclu...
+2       22  14   0.265663  n t genius understand magic behind video get s...
+3        8   6   0.259260  remember clearly hardware wars came sister how...

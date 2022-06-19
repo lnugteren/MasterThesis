@@ -1,0 +1,332 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 6300249824
+Shape:  (50, 7)
+
+Readability scores: [26.8994827586207, -77.53401273885346, -71.60662420382162, -286.02649595687325, 12.457500000000024, -290.82630434782607, -361.9744622425629, 2.0954545454545865, -202.67418118466892, -688.3879133858267, 88.83428571428574, -9.535384615384586, -422.588121330724, -172.33416988416985, -3.8863636363635976, 88.83428571428574, 19.038000000000025, -64.84730769230764, -24.092741935483843, 64.54500000000002, -501.38567291311745, -16.945204081632625, 47.235000000000014, -587.6064540059346, -83.69343558282205, 91.78500000000003, -416.3668897637795, -152.83419999999995, -135.26704225352108, -128.01044843049323, -232.44468944099378, -49.44026845637582, 33.48830985915495, -24.81666666666662, -10.884999999999962, -42.35673913043476, -118.88800970873783, -238.11675675675667, -37.717625899280534, -127.94666666666663, -67.55884615384612, 10.99430379746839, -216.81271565495206, -65.04999999999998, -109.9976804123711, -173.54507874015746, -69.87277777777773, 49.390714285714296, 5.990365853658574, -204.82839857651243], on average: -118.9423
+Readability scores after: [26.8994827586207, -77.53401273885346, -71.60662420382162, -286.02649595687325, 12.457500000000024, -290.82630434782607, -361.9744622425629, 2.0954545454545865, -202.67418118466892, -688.3879133858267, -9.535384615384586, -422.588121330724, -172.33416988416985, -3.8863636363635976, 19.038000000000025, -64.84730769230764, -24.092741935483843, -501.38567291311745, -16.945204081632625, 47.235000000000014, -587.6064540059346, -83.69343558282205, -416.3668897637795, -152.83419999999995, -135.26704225352108, -128.01044843049323, -232.44468944099378, -49.44026845637582, 33.48830985915495, -24.81666666666662, -10.884999999999962, -42.35673913043476, -118.88800970873783, -238.11675675675667, -37.717625899280534, -127.94666666666663, -67.55884615384612, 10.99430379746839, -216.81271565495206, -65.04999999999998, -109.9976804123711, -173.54507874015746, -69.87277777777773, 49.390714285714296, 5.990365853658574, -204.82839857651243], on average after: -136.5459
+Shape after:  (46, 8)
+
+
+Chosen product: 6300249824 has 50 reviews - False, it has 46 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 93.4783%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [3, 6, 7]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   7  films usually interpretations great literature...   0.272813
+
+step 1
+index added: 8
+percentage unclustered: 93.4783%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 93.4783%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 93.4783%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 93.4783%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 93.4783%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 93.4783%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 93.4783%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 93.4783%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 93.4783%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 93.4783%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 91.3043%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [3, 6, 7, 18]
+			old information: 4, gain: 0.9975801572897761
+
+   ind                                             review  relevance
+0  18  wonderful understated intelligent sensitive pe...   0.369273
+1   7  films usually interpretations great literature...   0.272813
+
+step 1
+index added: 19
+percentage unclustered: 91.3043%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 84.7826%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [3, 5, 20]
+			old information: 101, gain: 0.998237070395001
+
+   ind                                             review  relevance
+0  20  expected much bbc production jane austin novel...   0.451388
+1  18  wonderful understated intelligent sensitive pe...   0.369273
+2   7  films usually interpretations great literature...   0.272813
+
+step 1
+index added: 21
+percentage unclustered: 84.7826%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 82.6087%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [3, 5, 20, 22]
+			old information: 1539, gain: 0.9647503435639029
+
+   ind                                             review  relevance
+0  22  money best accurate dramatization jane austen ...   0.612987
+1  20  expected much bbc production jane austin novel...   0.451388
+2  18  wonderful understated intelligent sensitive pe...   0.369273
+3   7  films usually interpretations great literature...   0.272813
+
+step 1
+index added: 23
+percentage unclustered: 82.6087%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 82.6087%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 82.6087%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 82.6087%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 82.6087%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 80.4348%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [3, 5, 20, 22]
+
+step 1
+index added: 29
+percentage unclustered: 73.913%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 71.73910000000001%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 78.26089999999999%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 78.26089999999999%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 78.26089999999999%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 78.26089999999999%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 78.26089999999999%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 69.5652%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 71.73910000000001%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 73.913%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 78.26089999999999%
+
+	step 2
+
+		step 3
+		candidate index: 39 with core nodes: [3, 5, 9, 22]
+
+step 1
+index added: 40
+percentage unclustered: 78.26089999999999%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 76.087%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [3, 5, 9, 22]
+			old information: 646, gain: 0.9465674110835401
+
+   ind                                             review  relevance
+0  22  money best accurate dramatization jane austen ...   0.612987
+1  41  stylish well costumed soulless version great b...   0.492185
+2  20  expected much bbc production jane austin novel...   0.451388
+3  18  wonderful understated intelligent sensitive pe...   0.369273
+4   7  films usually interpretations great literature...   0.272813
+
+step 1
+index added: 42
+percentage unclustered: 69.5652%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 69.5652%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 69.5652%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 67.3913%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [3, 5, 9, 22]
+
+--- 27.572556495666504 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 93.4783, 93.4783, 93.4783, 93.4783, 93.4783, 93.4783, 93.4783, 93.4783, 93.4783, 93.4783, 93.4783, 91.3043, 91.3043, 84.7826, 84.7826, 82.6087, 82.6087, 82.6087, 82.6087, 82.6087, 82.6087, 80.4348, 73.913, 71.73910000000001, 78.26089999999999, 78.26089999999999, 78.26089999999999, 78.26089999999999, 78.26089999999999, 69.5652, 71.73910000000001, 73.913, 78.26089999999999, 78.26089999999999, 76.087, 69.5652, 69.5652, 69.5652, 67.3913], mean: 84.4862
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0        9  22   0.612987  money best accurate dramatization jane austen ...
+1        8  41   0.492185  stylish well costumed soulless version great b...
+2       33  20   0.451388  expected much bbc production jane austin novel...
+3       15  18   0.369273  wonderful understated intelligent sensitive pe...
+4       36   7   0.272813  films usually interpretations great literature...

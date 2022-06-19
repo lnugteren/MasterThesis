@@ -1,0 +1,37 @@
+------- Category: Office_Products -------
+Found asin_id: 0310823706
+Shape:  (10, 7)
+
+Readability scores: [28.965000000000018, -9.924789915966358, -71.8265714285714, -25.79785714285711, 60.51705882352943, 82.58290322580649, 34.19258620689657, 60.12142857142859, -73.19288135593216, 78.48545454545456], on average: 16.4122
+Readability scores after: [28.965000000000018, -9.924789915966358, -71.8265714285714, -25.79785714285711, 34.19258620689657, -73.19288135593216], on average after: -19.5974
+Shape after:  (6, 8)
+
+
+Chosen product: 0310823706 has 10 reviews - False, it has 6 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+--- 0.02887725830078125 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0], mean: 100.0
+
+Final Ranking:
+Empty DataFrame
+Columns: [ranking, ind, relevance, review]
+Index: []

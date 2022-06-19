@@ -1,0 +1,663 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 6303212263
+Shape:  (80, 7)
+
+Readability scores: [-280.78175202156325, -70.3447727272727, 40.33000000000001, -839.6540021691973, -447.84791044776114, -151.86713692946057, 77.82054054054055, 39.52921052631581, -56.712692307692265, -84.85016574585632, 33.48125000000002, -134.5702597402597, -93.79499999999999, 18.95698113207549, 90.34394736842108, -447.9095375722543, 82.74852941176471, -205.24868421052622, -51.5252631578947, -91.9804545454545, -96.45747191011233, -72.92727272727272, -202.2131081081081, -36.33294117647057, -29.968214285714254, -396.55580645161285, -521.704459234609, -645.1380136986301, -308.97318181818173, -260.007967032967, -17.03403361344533, -12.8126470588235, 11.525000000000006, -334.46619489559157, 79.55750000000002, -566.9334597875569, 50.237413793103464, 51.55884615384618, -56.3400632911392, -848.0511538461537, 99.24500000000002, -653.5991044776118, 48.645000000000024, -15.049999999999969, -190.06233812949637, -343.3884246575342, -94.71438502673793, -72.94749999999996, -770.7088207547168, 22.662835820895552, -734.1904460966541, -234.87572289156623, -198.83645051194537, -153.62232365145223, 23.344943820224742, -7.705714285714251, -97.3304663212435, -764.7106007067136, -135.48896551724135, -67.89529411764704, -226.17087378640775, -157.04499999999996, -349.56259593679454, -973.5329007633586, -265.5139830508474, -761.820848056537, -370.4987746170678, -242.30292452830184, -168.4772727272727, -239.1204545454545, -239.46639240506323, -46.90794117647057, -571.0753680981595, -61.28430463576156, -169.57121457489876, -452.5709398496239, -224.99409090909086, -55.36798561151075, -258.4485074626865, -115.08142131979693], on average: -213.462
+Readability scores after: [-280.78175202156325, -70.3447727272727, 40.33000000000001, -839.6540021691973, -447.84791044776114, -151.86713692946057, 39.52921052631581, -56.712692307692265, -84.85016574585632, 33.48125000000002, -134.5702597402597, -93.79499999999999, 18.95698113207549, -447.9095375722543, -205.24868421052622, -51.5252631578947, -91.9804545454545, -96.45747191011233, -72.92727272727272, -202.2131081081081, -36.33294117647057, -29.968214285714254, -396.55580645161285, -521.704459234609, -645.1380136986301, -308.97318181818173, -260.007967032967, -17.03403361344533, -12.8126470588235, 11.525000000000006, -334.46619489559157, -566.9334597875569, -56.3400632911392, -848.0511538461537, -653.5991044776118, 48.645000000000024, -15.049999999999969, -190.06233812949637, -343.3884246575342, -94.71438502673793, -72.94749999999996, -770.7088207547168, 22.662835820895552, -734.1904460966541, -234.87572289156623, -198.83645051194537, -153.62232365145223, 23.344943820224742, -7.705714285714251, -97.3304663212435, -764.7106007067136, -135.48896551724135, -67.89529411764704, -226.17087378640775, -157.04499999999996, -349.56259593679454, -973.5329007633586, -265.5139830508474, -761.820848056537, -370.4987746170678, -242.30292452830184, -168.4772727272727, -239.1204545454545, -239.46639240506323, -46.90794117647057, -571.0753680981595, -61.28430463576156, -169.57121457489876, -452.5709398496239, -224.99409090909086, -55.36798561151075, -258.4485074626865, -115.08142131979693], on average after: -241.2119
+Shape after:  (73, 8)
+
+
+Chosen product: 6303212263 has 80 reviews - False, it has 73 reviews
+Duplicate reviewers?:  69    A31I3HXMD5H1EL
+Name: reviewerID, dtype: object
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 95.8904%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [1, 5, 6]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   6  watched 3 hour extended cut loved notice one s...   0.194142
+
+step 1
+index added: 7
+percentage unclustered: 94.5205%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [1, 5, 6, 7]
+			old information: 10, gain: 0.9970614163972965
+
+   ind                                             review  relevance
+0   7  well surprised like everybody else warner brot...   0.406722
+1   6  watched 3 hour extended cut loved notice one s...   0.194142
+
+step 1
+index added: 8
+percentage unclustered: 94.5205%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 94.5205%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 94.5205%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 94.5205%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 93.1507%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [1, 5, 6, 7]
+			old information: 3, gain: 0.9935483870967742
+
+   ind                                             review  relevance
+0   7  well surprised like everybody else warner brot...   0.406722
+1   6  watched 3 hour extended cut loved notice one s...   0.194142
+2  12  guys correct information fluke discovery worka...   0.177318
+
+step 1
+index added: 13
+percentage unclustered: 91.7808%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [1, 5, 7, 13]
+			old information: 325, gain: 0.9932579607924489
+
+   ind                                             review  relevance
+0  13  george lucas convenient scapegoat looking cast...   0.440132
+1   7  well surprised like everybody else warner brot...   0.406722
+2   6  watched 3 hour extended cut loved notice one s...   0.194142
+3  12  guys correct information fluke discovery worka...   0.177318
+
+step 1
+index added: 14
+percentage unclustered: 90.411%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [5, 7, 13, 14]
+			old information: 528, gain: 0.9754738015607581
+
+   ind                                             review  relevance
+0  14  superman movie extended tv version finally off...   0.487981
+1  13  george lucas convenient scapegoat looking cast...   0.440132
+2   7  well surprised like everybody else warner brot...   0.406722
+3   6  watched 3 hour extended cut loved notice one s...   0.194142
+4  12  guys correct information fluke discovery worka...   0.177318
+
+step 1
+index added: 15
+percentage unclustered: 90.411%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 90.411%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 89.0411%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [5, 7, 13, 14]
+
+step 1
+index added: 18
+percentage unclustered: 89.0411%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 87.6712%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [5, 7, 13, 14]
+			old information: 325, gain: 0.9713024282560706
+
+   ind                                             review  relevance
+0  14  superman movie extended tv version finally off...   0.487981
+1  13  george lucas convenient scapegoat looking cast...   0.440132
+2   7  well surprised like everybody else warner brot...   0.406722
+3  19  still yet get extras watch extended version in...   0.282443
+4   6  watched 3 hour extended cut loved notice one s...   0.194142
+5  12  guys correct information fluke discovery worka...   0.177318
+
+step 1
+index added: 20
+percentage unclustered: 87.6712%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 87.6712%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 87.6712%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 87.6712%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 87.6712%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 87.6712%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 87.6712%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 87.6712%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 87.6712%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 82.1918%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 82.1918%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 78.0822%
+
+	step 2
+
+		step 3
+		candidate index: 31 with core nodes: [3, 5, 7, 13, 24, 31]
+			old information: 1384, gain: 0.9816606153764609
+
+   ind                                             review  relevance
+0  31  warned jor el superman movie purest nth degree...   0.502727
+1  14  superman movie extended tv version finally off...   0.487981
+2  13  george lucas convenient scapegoat looking cast...   0.440132
+3   7  well surprised like everybody else warner brot...   0.406722
+4  19  still yet get extras watch extended version in...   0.282443
+5   6  watched 3 hour extended cut loved notice one s...   0.194142
+6  12  guys correct information fluke discovery worka...   0.177318
+
+step 1
+index added: 32
+percentage unclustered: 76.7123%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [3, 5, 7, 13, 24, 31]
+
+step 1
+index added: 33
+percentage unclustered: 76.7123%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 76.7123%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 76.7123%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 76.7123%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 76.7123%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 75.3425%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [3, 5, 7, 13, 24, 31]
+			old information: 1735, gain: 0.9472580252918288
+
+   ind                                             review  relevance
+0  31  warned jor el superman movie purest nth degree...   0.502727
+1  14  superman movie extended tv version finally off...   0.487981
+2  38  born 1976 spent developmental years wonderful ...   0.441951
+3  13  george lucas convenient scapegoat looking cast...   0.440132
+4   7  well surprised like everybody else warner brot...   0.406722
+5  19  still yet get extras watch extended version in...   0.282443
+6   6  watched 3 hour extended cut loved notice one s...   0.194142
+7  12  guys correct information fluke discovery worka...   0.177318
+
+step 1
+index added: 39
+percentage unclustered: 75.3425%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 73.9726%
+
+	step 2
+
+		step 3
+		candidate index: 40 with core nodes: [3, 5, 7, 13, 24, 31, 40]
+			old information: 657, gain: 0.8699009900990099
+
+   ind                                             review  relevance
+0  40  original superman movie give 5 stars without d...   0.513271
+1  31  warned jor el superman movie purest nth degree...   0.502727
+2  14  superman movie extended tv version finally off...   0.487981
+3  38  born 1976 spent developmental years wonderful ...   0.441951
+4  13  george lucas convenient scapegoat looking cast...   0.440132
+5   7  well surprised like everybody else warner brot...   0.406722
+6  19  still yet get extras watch extended version in...   0.282443
+7   6  watched 3 hour extended cut loved notice one s...   0.194142
+8  12  guys correct information fluke discovery worka...   0.177318
+
+step 1
+index added: 41
+percentage unclustered: 73.9726%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 69.863%
+
+	step 2
+
+		step 3
+		candidate index: 42 with core nodes: [3, 5, 7, 13, 24, 31, 40]
+
+step 1
+index added: 43
+percentage unclustered: 69.863%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 69.863%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 69.863%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 69.863%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 69.863%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 69.863%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 68.4932%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [3, 5, 7, 13, 24, 31, 40]
+
+step 1
+index added: 50
+percentage unclustered: 67.1233%
+
+	step 2
+
+		step 3
+		candidate index: 50 with core nodes: [38, 49, 50]
+			old information: 4897, gain: 0.9527954501638712
+
+   ind                                             review  relevance
+0  40  original superman movie give 5 stars without d...   0.513271
+1  31  warned jor el superman movie purest nth degree...   0.502727
+2  50  soon heard christopher reeve died first thing ...   0.497492
+3  14  superman movie extended tv version finally off...   0.487981
+4  38  born 1976 spent developmental years wonderful ...   0.441951
+5  13  george lucas convenient scapegoat looking cast...   0.440132
+6   7  well surprised like everybody else warner brot...   0.406722
+7  19  still yet get extras watch extended version in...   0.282443
+8   6  watched 3 hour extended cut loved notice one s...   0.194142
+9  12  guys correct information fluke discovery worka...   0.177318
+
+step 1
+index added: 51
+percentage unclustered: 67.1233%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 67.1233%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 63.0137%
+
+	step 2
+
+		step 3
+		candidate index: 53 with core nodes: [5, 7, 13, 38, 40, 49, 50, 53]
+			old information: 1966, gain: 0.8960613269891621
+
+    ind                                             review  relevance
+0   53  late 70s early 80s fantastic time kid movies e...   0.535533
+1   40  original superman movie give 5 stars without d...   0.513271
+2   31  warned jor el superman movie purest nth degree...   0.502727
+3   50  soon heard christopher reeve died first thing ...   0.497492
+4   14  superman movie extended tv version finally off...   0.487981
+5   38  born 1976 spent developmental years wonderful ...   0.441951
+6   13  george lucas convenient scapegoat looking cast...   0.440132
+7    7  well surprised like everybody else warner brot...   0.406722
+8   19  still yet get extras watch extended version in...   0.282443
+9    6  watched 3 hour extended cut loved notice one s...   0.194142
+10  12  guys correct information fluke discovery worka...   0.177318
+
+		step 3
+		candidate index: 53 with core nodes: [3, 7, 13, 24, 31, 38, 49, 50, 53]
+			old information: 13382, gain: 0.29251916468411315
+
+step 1
+index added: 54
+percentage unclustered: 58.9041%
+
+	step 2
+
+		step 3
+		candidate index: 54 with core nodes: [3, 5, 7, 10, 13, 24, 31, 40, 53, 54]
+			old information: 1566, gain: 0.8635413035901011
+
+    ind                                             review  relevance
+0   54  ve waiting dvd many years m happy say m never ...   0.601159
+1   53  late 70s early 80s fantastic time kid movies e...   0.535533
+2   40  original superman movie give 5 stars without d...   0.513271
+3   31  warned jor el superman movie purest nth degree...   0.502727
+4   50  soon heard christopher reeve died first thing ...   0.497492
+5   14  superman movie extended tv version finally off...   0.487981
+6   38  born 1976 spent developmental years wonderful ...   0.441951
+7   13  george lucas convenient scapegoat looking cast...   0.440132
+8    7  well surprised like everybody else warner brot...   0.406722
+9   19  still yet get extras watch extended version in...   0.282443
+10   6  watched 3 hour extended cut loved notice one s...   0.194142
+11  12  guys correct information fluke discovery worka...   0.177318
+
+step 1
+index added: 55
+percentage unclustered: 63.0137%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 63.0137%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 56.1644%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 54.7945%
+
+	step 2
+
+		step 3
+		candidate index: 58 with core nodes: [24, 31, 33]
+
+step 1
+index added: 59
+percentage unclustered: 54.7945%
+
+	step 2
+
+		step 3
+		candidate index: 59 with core nodes: [13, 31, 33, 54, 58, 59]
+			old information: 4135, gain: 0.8790617413939341
+
+    ind                                             review  relevance
+0   54  ve waiting dvd many years m happy say m never ...   0.601159
+1   59  one all time favorite films finally given dvd ...   0.557621
+2   53  late 70s early 80s fantastic time kid movies e...   0.535533
+3   40  original superman movie give 5 stars without d...   0.513271
+4   31  warned jor el superman movie purest nth degree...   0.502727
+5   50  soon heard christopher reeve died first thing ...   0.497492
+6   14  superman movie extended tv version finally off...   0.487981
+7   38  born 1976 spent developmental years wonderful ...   0.441951
+8   13  george lucas convenient scapegoat looking cast...   0.440132
+9    7  well surprised like everybody else warner brot...   0.406722
+10  19  still yet get extras watch extended version in...   0.282443
+11   6  watched 3 hour extended cut loved notice one s...   0.194142
+12  12  guys correct information fluke discovery worka...   0.177318
+
+step 1
+index added: 60
+percentage unclustered: 54.7945%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 54.7945%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 58.9041%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 58.9041%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 58.9041%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 58.9041%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 54.7945%
+
+	step 2
+
+		step 3
+		candidate index: 66 with core nodes: [38, 49, 50]
+
+step 1
+index added: 67
+percentage unclustered: 53.4247%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 52.0548%
+
+	step 2
+
+		step 3
+		candidate index: 68 with core nodes: [38, 49, 50]
+			old information: 4536, gain: 0.8924991112691077
+
+    ind                                             review  relevance
+0   54  ve waiting dvd many years m happy say m never ...   0.601159
+1   59  one all time favorite films finally given dvd ...   0.557621
+2   53  late 70s early 80s fantastic time kid movies e...   0.535533
+3   40  original superman movie give 5 stars without d...   0.513271
+4   31  warned jor el superman movie purest nth degree...   0.502727
+5   50  soon heard christopher reeve died first thing ...   0.497492
+6   14  superman movie extended tv version finally off...   0.487981
+7   68  one grandest movies time christopher reeve mad...   0.477432
+8   38  born 1976 spent developmental years wonderful ...   0.441951
+9   13  george lucas convenient scapegoat looking cast...   0.440132
+10   7  well surprised like everybody else warner brot...   0.406722
+11  19  still yet get extras watch extended version in...   0.282443
+12   6  watched 3 hour extended cut loved notice one s...   0.194142
+13  12  guys correct information fluke discovery worka...   0.177318
+
+step 1
+index added: 69
+percentage unclustered: 52.0548%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 52.0548%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 52.0548%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 63.0137%
+
+	step 2
+
+--- 358.0991642475128 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 95.8904, 94.5205, 94.5205, 94.5205, 94.5205, 94.5205, 93.1507, 91.7808, 90.411, 90.411, 90.411, 89.0411, 89.0411, 87.6712, 87.6712, 87.6712, 87.6712, 87.6712, 87.6712, 87.6712, 87.6712, 87.6712, 87.6712, 82.1918, 82.1918, 78.0822, 76.7123, 76.7123, 76.7123, 76.7123, 76.7123, 76.7123, 75.3425, 75.3425, 73.9726, 73.9726, 69.863, 69.863, 69.863, 69.863, 69.863, 69.863, 69.863, 68.4932, 67.1233, 67.1233, 67.1233, 63.0137, 58.9041, 63.0137, 63.0137, 56.1644, 54.7945, 54.7945, 54.7945, 54.7945, 58.9041, 58.9041, 58.9041, 58.9041, 54.7945, 53.4247, 52.0548, 52.0548, 52.0548, 52.0548, 63.0137], mean: 75.7476
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        54  54   0.601159  ve waiting dvd many years m happy say m never ...
+1        70  59   0.557621  one all time favorite films finally given dvd ...
+2        40  53   0.535533  late 70s early 80s fantastic time kid movies e...
+3        58  40   0.513271  original superman movie give 5 stars without d...
+4        29  31   0.502727  warned jor el superman movie purest nth degree...
+5        39  50   0.497492  soon heard christopher reeve died first thing ...
+6         4  14   0.487981  superman movie extended tv version finally off...
+7        53  68   0.477432  one grandest movies time christopher reeve mad...
+8        32  38   0.441951  born 1976 spent developmental years wonderful ...
+9         3  13   0.440132  george lucas convenient scapegoat looking cast...
+10       16   7   0.406722  well surprised like everybody else warner brot...
+11       37  19   0.282443  still yet get extras watch extended version in...
+12        7   6   0.194142  watched 3 hour extended cut loved notice one s...
+13       20  12   0.177318  guys correct information fluke discovery worka...

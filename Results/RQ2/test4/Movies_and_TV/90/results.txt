@@ -1,0 +1,636 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 0767824571
+Shape:  (90, 7)
+
+Readability scores: [-9.362268041237073, 25.06864406779664, -49.64823529411761, -234.80852941176465, 90.05058823529413, 53.84693548387099, 113.10000000000001, 72.98681818181821, 1.1900000000000261, -206.80900990099005, 205.82000000000002, -45.973507462686555, -35.710882352941155, -547.1120700636942, -4.4866990291262, -6.872561983471044, -450.70491620111727, -587.61436123348, 65.29615384615387, -46.40884615384611, -526.4615763546798, -7.571735537190051, -418.9863636363636, 26.007058823529434, -16.323109243697445, -369.8807268722466, 55.57500000000002, 30.62000000000002, 5.513636363636408, 59.59166666666669, 20.189186046511637, 105.9007142857143, -26.13951612903223, -30.541596638655435, 36.55730769230772, 53.419285714285735, -323.67180451127814, -338.98081206496516, 45.315000000000026, -24.774999999999977, 78.13000000000001, -254.04279661016943, -212.64060509554136, -96.00952380952377, -135.21852017937215, -237.97953987730057, -262.6842045454545, -551.4613219284603, -274.9583914209115, -143.19793522267202, -25.307560975609732, 2.8940909090909344, -431.48148221343865, -259.72122615803806, -18.429512195121916, -185.4975899280575, -22.39827868852457, -324.2680722891566, -63.85499999999995, -88.56227272727268, -301.78902985074626, -263.67615384615385, -118.97876712328762, 3.659615384615421, -531.4786567164178, -238.1857142857142, -124.75499999999995, -236.81318181818182, -227.33735294117642, -269.7336740331491, -18.11362068965515, 30.318000000000026, -243.56150442477872, -3.8349999999999795, -869.2558860759493, 23.844936708860786, -8.029999999999973, -118.28324742268035, -86.51644578313248, -190.38756653992394, -450.38983240223456, 28.222142857142885, -103.18399999999995, -149.54928571428567, -58.55967741935481, 8.655048543689347, -55.681655629139044, -15.463852459016366, -125.73421524663674, -45.94413793103446], on average: -127.8892
+Readability scores after: [-9.362268041237073, 25.06864406779664, -49.64823529411761, -234.80852941176465, 1.1900000000000261, -206.80900990099005, -45.973507462686555, -35.710882352941155, -547.1120700636942, -4.4866990291262, -6.872561983471044, -450.70491620111727, -587.61436123348, -46.40884615384611, -526.4615763546798, -7.571735537190051, -418.9863636363636, 26.007058823529434, -16.323109243697445, -369.8807268722466, 30.62000000000002, 5.513636363636408, 20.189186046511637, -26.13951612903223, -30.541596638655435, 36.55730769230772, -323.67180451127814, -338.98081206496516, 45.315000000000026, -24.774999999999977, -254.04279661016943, -212.64060509554136, -96.00952380952377, -135.21852017937215, -237.97953987730057, -262.6842045454545, -551.4613219284603, -274.9583914209115, -143.19793522267202, -25.307560975609732, 2.8940909090909344, -431.48148221343865, -259.72122615803806, -18.429512195121916, -185.4975899280575, -22.39827868852457, -324.2680722891566, -63.85499999999995, -88.56227272727268, -301.78902985074626, -263.67615384615385, -118.97876712328762, 3.659615384615421, -531.4786567164178, -238.1857142857142, -124.75499999999995, -236.81318181818182, -227.33735294117642, -269.7336740331491, -18.11362068965515, 30.318000000000026, -243.56150442477872, -3.8349999999999795, -869.2558860759493, 23.844936708860786, -8.029999999999973, -118.28324742268035, -86.51644578313248, -190.38756653992394, -450.38983240223456, 28.222142857142885, -103.18399999999995, -149.54928571428567, -58.55967741935481, 8.655048543689347, -55.681655629139044, -15.463852459016366, -125.73421524663674, -45.94413793103446], on average after: -157.7689
+Shape after:  (79, 8)
+
+
+Chosen product: 0767824571 has 90 reviews - False, it has 79 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 100.0%
+
+step 1
+index added: 13
+percentage unclustered: 100.0%
+
+step 1
+index added: 14
+percentage unclustered: 100.0%
+
+step 1
+index added: 15
+percentage unclustered: 94.9367%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [4, 5, 13, 15]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  15  enjoying set movie quality great extras disc g...   0.393525
+
+step 1
+index added: 16
+percentage unclustered: 94.9367%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 91.1392%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [11, 16, 17]
+			old information: 11, gain: 0.985897435897436
+
+   ind                                             review  relevance
+0  17  well monty python s holy grail gem edition qui...   0.421632
+1  15  enjoying set movie quality great extras disc g...   0.393525
+
+step 1
+index added: 18
+percentage unclustered: 91.1392%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 91.1392%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 91.1392%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 91.1392%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 87.3418%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 86.0759%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 86.0759%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 86.0759%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 86.0759%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 86.0759%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 84.8101%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 83.54429999999999%
+
+	step 2
+
+		step 3
+		candidate index: 29 with core nodes: [5, 13, 15, 21]
+
+step 1
+index added: 30
+percentage unclustered: 83.54429999999999%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 83.54429999999999%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 83.54429999999999%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 79.74680000000001%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [11, 16, 17, 29, 31, 32]
+			old information: 50, gain: 0.9928785073351375
+
+   ind                                             review  relevance
+0  17  well monty python s holy grail gem edition qui...   0.421632
+1  15  enjoying set movie quality great extras disc g...   0.393525
+2  33  terry jones co director monty python holy grai...   0.386471
+
+step 1
+index added: 34
+percentage unclustered: 78.481%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [11, 16, 17, 29, 31, 32]
+
+step 1
+index added: 35
+percentage unclustered: 78.481%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 78.481%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 78.481%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 78.481%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 78.481%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 78.481%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 78.481%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 78.481%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 78.481%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 77.2152%
+
+	step 2
+
+		step 3
+		candidate index: 44 with core nodes: [11, 16, 29, 31, 32, 44]
+			old information: 99, gain: 0.9917050691244239
+
+   ind                                             review  relevance
+0  44  say film whose script virtually memorized legi...   0.446490
+1  17  well monty python s holy grail gem edition qui...   0.421632
+2  15  enjoying set movie quality great extras disc g...   0.393525
+3  33  terry jones co director monty python holy grai...   0.386471
+
+step 1
+index added: 45
+percentage unclustered: 73.4177%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [11, 16, 29, 31, 32, 44, 45]
+			old information: 32, gain: 0.9859525899912204
+
+   ind                                             review  relevance
+0  44  say film whose script virtually memorized legi...   0.446490
+1  17  well monty python s holy grail gem edition qui...   0.421632
+2  45  nothing say film simply word warning box set a...   0.414858
+3  15  enjoying set movie quality great extras disc g...   0.393525
+4  33  terry jones co director monty python holy grai...   0.386471
+
+step 1
+index added: 46
+percentage unclustered: 73.4177%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 72.1519%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 72.1519%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 72.1519%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 72.1519%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 72.1519%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 72.1519%
+
+	step 2
+
+		step 3
+		candidate index: 52 with core nodes: [11, 16, 29, 31, 32, 44, 45]
+
+step 1
+index added: 53
+percentage unclustered: 72.1519%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 68.3544%
+
+	step 2
+
+		step 3
+		candidate index: 54 with core nodes: [5, 15, 21, 54]
+			old information: 150, gain: 0.9883540372670807
+
+   ind                                             review  relevance
+0  54  m sure n t like movie seems something balance ...   0.467754
+1  44  say film whose script virtually memorized legi...   0.446490
+2  17  well monty python s holy grail gem edition qui...   0.421632
+3  45  nothing say film simply word warning box set a...   0.414858
+4  15  enjoying set movie quality great extras disc g...   0.393525
+5  33  terry jones co director monty python holy grai...   0.386471
+
+step 1
+index added: 55
+percentage unclustered: 70.8861%
+
+	step 2
+
+		step 3
+		candidate index: 55 with core nodes: [16, 29, 31, 33, 54, 55]
+			old information: 485, gain: 0.9447482342219184
+
+   ind                                             review  relevance
+0  54  m sure n t like movie seems something balance ...   0.467754
+1  44  say film whose script virtually memorized legi...   0.446490
+2  17  well monty python s holy grail gem edition qui...   0.421632
+3  45  nothing say film simply word warning box set a...   0.414858
+4  15  enjoying set movie quality great extras disc g...   0.393525
+5  33  terry jones co director monty python holy grai...   0.386471
+6  55  whacky bunch behind monty python s flying circ...   0.365716
+
+		step 3
+		candidate index: 55 with core nodes: [5, 11, 16, 29, 33, 44, 45, 54, 55]
+			old information: 5586, gain: 0.36363636363636365
+
+   ind                                             review  relevance
+0  54  m sure n t like movie seems something balance ...   0.467754
+1  55  whacky bunch behind monty python s flying circ...   0.465752
+2  44  say film whose script virtually memorized legi...   0.446490
+3  17  well monty python s holy grail gem edition qui...   0.421632
+4  45  nothing say film simply word warning box set a...   0.414858
+5  15  enjoying set movie quality great extras disc g...   0.393525
+6  33  terry jones co director monty python holy grai...   0.386471
+7  55  whacky bunch behind monty python s flying circ...   0.365716
+
+step 1
+index added: 56
+percentage unclustered: 70.8861%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 75.9494%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 75.9494%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 73.4177%
+
+	step 2
+
+		step 3
+		candidate index: 59 with core nodes: [7, 16, 31, 34, 52, 54, 59]
+			old information: 74, gain: 0.9536340852130326
+
+   ind                                             review  relevance
+0  54  m sure n t like movie seems something balance ...   0.467754
+1  55  whacky bunch behind monty python s flying circ...   0.465752
+2  44  say film whose script virtually memorized legi...   0.446490
+3  17  well monty python s holy grail gem edition qui...   0.421632
+4  45  nothing say film simply word warning box set a...   0.414858
+5  15  enjoying set movie quality great extras disc g...   0.393525
+6  33  terry jones co director monty python holy grai...   0.386471
+7  59  excellent movie dvd edition awful numerous def...   0.370427
+8  55  whacky bunch behind monty python s flying circ...   0.365716
+
+step 1
+index added: 60
+percentage unclustered: 69.6203%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 69.6203%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 65.8228%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 65.8228%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 65.8228%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 65.8228%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 60.7595%
+
+	step 2
+
+		step 3
+		candidate index: 66 with core nodes: [11, 12, 16, 41, 44, 57, 66]
+			old information: 662, gain: 0.9172603424571929
+
+   ind                                             review  relevance
+0  54  m sure n t like movie seems something balance ...   0.467754
+1  55  whacky bunch behind monty python s flying circ...   0.465752
+2  44  say film whose script virtually memorized legi...   0.446490
+3  66  certain individuals erroniously indicated revi...   0.440577
+4  17  well monty python s holy grail gem edition qui...   0.421632
+5  45  nothing say film simply word warning box set a...   0.414858
+6  15  enjoying set movie quality great extras disc g...   0.393525
+7  33  terry jones co director monty python holy grai...   0.386471
+8  59  excellent movie dvd edition awful numerous def...   0.370427
+9  55  whacky bunch behind monty python s flying circ...   0.365716
+
+step 1
+index added: 67
+percentage unclustered: 59.4937%
+
+	step 2
+
+		step 3
+		candidate index: 67 with core nodes: [57, 66, 67]
+			old information: 3060, gain: 0.5987411487018096
+
+    ind                                             review  relevance
+0   67  columbia s first dvd release python classic qu...   0.512684
+1   54  m sure n t like movie seems something balance ...   0.467754
+2   55  whacky bunch behind monty python s flying circ...   0.465752
+3   44  say film whose script virtually memorized legi...   0.446490
+4   66  certain individuals erroniously indicated revi...   0.440577
+5   17  well monty python s holy grail gem edition qui...   0.421632
+6   45  nothing say film simply word warning box set a...   0.414858
+7   15  enjoying set movie quality great extras disc g...   0.393525
+8   33  terry jones co director monty python holy grai...   0.386471
+9   59  excellent movie dvd edition awful numerous def...   0.370427
+10  55  whacky bunch behind monty python s flying circ...   0.365716
+
+step 1
+index added: 68
+percentage unclustered: 59.4937%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 51.8987%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 50.6329%
+
+	step 2
+
+		step 3
+		candidate index: 70 with core nodes: [5, 11, 12, 16, 31, 44, 54]
+
+		step 3
+		candidate index: 70 with core nodes: [5, 11, 12, 16, 31, 54, 55, 57, 66, 67]
+
+step 1
+index added: 71
+percentage unclustered: 50.6329%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 50.6329%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 49.3671%
+
+	step 2
+
+		step 3
+		candidate index: 73 with core nodes: [5, 11, 12, 16, 31, 44, 54, 73]
+			old information: 488, gain: 0.8859280037400654
+
+    ind                                             review  relevance
+0   67  columbia s first dvd release python classic qu...   0.512684
+1   73  movie hands down funniest scenes comedy histor...   0.492517
+2   54  m sure n t like movie seems something balance ...   0.467754
+3   55  whacky bunch behind monty python s flying circ...   0.465752
+4   44  say film whose script virtually memorized legi...   0.446490
+5   66  certain individuals erroniously indicated revi...   0.440577
+6   17  well monty python s holy grail gem edition qui...   0.421632
+7   45  nothing say film simply word warning box set a...   0.414858
+8   15  enjoying set movie quality great extras disc g...   0.393525
+9   33  terry jones co director monty python holy grai...   0.386471
+10  59  excellent movie dvd edition awful numerous def...   0.370427
+11  55  whacky bunch behind monty python s flying circ...   0.365716
+
+		step 3
+		candidate index: 73 with core nodes: [5, 11, 12, 16, 31, 54, 55, 57, 66, 67, 73]
+			old information: 3659, gain: 0.14469378214118747
+
+step 1
+index added: 74
+percentage unclustered: 49.3671%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 48.1013%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 48.1013%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 48.1013%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 48.1013%
+
+	step 2
+
+--- 41.458165884017944 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 94.9367, 94.9367, 91.1392, 91.1392, 91.1392, 91.1392, 91.1392, 87.3418, 86.0759, 86.0759, 86.0759, 86.0759, 86.0759, 84.8101, 83.54429999999999, 83.54429999999999, 83.54429999999999, 83.54429999999999, 79.74680000000001, 78.481, 78.481, 78.481, 78.481, 78.481, 78.481, 78.481, 78.481, 78.481, 78.481, 77.2152, 73.4177, 73.4177, 72.1519, 72.1519, 72.1519, 72.1519, 72.1519, 72.1519, 72.1519, 68.3544, 70.8861, 70.8861, 75.9494, 75.9494, 73.4177, 69.6203, 69.6203, 65.8228, 65.8228, 65.8228, 65.8228, 60.7595, 59.4937, 59.4937, 51.8987, 50.6329, 50.6329, 50.6329, 49.3671, 49.3671, 48.1013, 48.1013, 48.1013, 48.1013], mean: 77.7741
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0         7  67   0.512684  columbia s first dvd release python classic qu...
+1        69  73   0.492517  movie hands down funniest scenes comedy histor...
+2        74  54   0.467754  m sure n t like movie seems something balance ...
+3        54  55   0.465752  whacky bunch behind monty python s flying circ...
+4        47  44   0.446490  say film whose script virtually memorized legi...
+5         5  66   0.440577  certain individuals erroniously indicated revi...
+6        28  17   0.421632  well monty python s holy grail gem edition qui...
+7        27  45   0.414858  nothing say film simply word warning box set a...
+8        61  15   0.393525  enjoying set movie quality great extras disc g...
+9        55  33   0.386471  terry jones co director monty python holy grai...
+10       30  59   0.370427  excellent movie dvd edition awful numerous def...
+11       54  55   0.365716  whacky bunch behind monty python s flying circ...

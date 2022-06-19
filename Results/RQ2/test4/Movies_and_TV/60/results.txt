@@ -1,0 +1,490 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 6302320488
+Shape:  (60, 7)
+
+Readability scores: [-71.36124999999996, -31.983385826771638, -478.4249999999999, 1.001250000000013, -162.7771084337349, -4.027727272727233, -90.8100515463917, -95.64692307692304, -24.143277310924333, -340.81013513513506, 49.53789473684211, 54.98069767441862, 41.14500000000001, 31.725000000000023, -85.49224137931031, -266.1287704918032, -136.40142857142854, -5.722755102040793, -11.285526315789454, -608.371923076923, -208.85674418604648, -52.1222727272727, 16.691011235955074, 63.60071428571429, -147.08139999999995, -83.80386363636362, -228.13507739938075, -37.67999999999998, 20.166000000000025, -557.8855813953487, 15.825000000000017, -82.51314917127067, 34.735909090909104, 72.20714285714286, 4.642772277227763, -83.80386363636362, -10.09650943396224, -475.775, -149.116652360515, -24.619756097560952, -106.3897058823529, 64.1159090909091, -102.2286842105263, -539.5495652173912, 38.86876712328768, -58.67999999999998, -242.01066265060234, -943.6451171874999, 31.994285714285752, -185.60236842105257, -274.58985714285706, -78.76374999999996, -76.90430939226516, -181.61590909090904, -49.8964084507042, -52.01854014598537, -140.39999999999998, 43.337272727272754, 51.02818181818183, -14.364565217391288], on average: -116.0989
+Readability scores after: [-71.36124999999996, -31.983385826771638, -478.4249999999999, 1.001250000000013, -162.7771084337349, -4.027727272727233, -90.8100515463917, -95.64692307692304, -24.143277310924333, -340.81013513513506, 49.53789473684211, 41.14500000000001, 31.725000000000023, -85.49224137931031, -266.1287704918032, -136.40142857142854, -5.722755102040793, -11.285526315789454, -608.371923076923, -208.85674418604648, -52.1222727272727, 16.691011235955074, -147.08139999999995, -83.80386363636362, -228.13507739938075, -37.67999999999998, 20.166000000000025, -557.8855813953487, 15.825000000000017, -82.51314917127067, 34.735909090909104, 4.642772277227763, -83.80386363636362, -10.09650943396224, -475.775, -149.116652360515, -24.619756097560952, -106.3897058823529, -102.2286842105263, -539.5495652173912, 38.86876712328768, -58.67999999999998, -242.01066265060234, -943.6451171874999, 31.994285714285752, -185.60236842105257, -274.58985714285706, -78.76374999999996, -76.90430939226516, -181.61590909090904, -49.8964084507042, -52.01854014598537, -140.39999999999998, 43.337272727272754, -14.364565217391288], on average after: -132.2158
+Shape after:  (55, 8)
+
+
+Chosen product: 6302320488 has 60 reviews - False, it has 55 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 94.5455%
+
+	step 2
+
+		step 3
+		candidate index: 3 with core nodes: [0, 2, 3]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   3  blu ray edition olive films amazing hate amazo...   0.302887
+
+step 1
+index added: 4
+percentage unclustered: 94.5455%
+
+	step 2
+
+step 1
+index added: 5
+percentage unclustered: 94.5455%
+
+	step 2
+
+step 1
+index added: 6
+percentage unclustered: 92.7273%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [0, 2, 3, 6]
+			old information: 17, gain: 0.9957553058676654
+
+   ind                                             review  relevance
+0   6  seen film dvd new blu ray version restored way...   0.368451
+1   3  blu ray edition olive films amazing hate amazo...   0.302887
+
+step 1
+index added: 7
+percentage unclustered: 92.7273%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 90.9091%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [0, 2, 3, 6, 8]
+			old information: 68, gain: 0.9701492537313433
+
+   ind                                             review  relevance
+0   6  seen film dvd new blu ray version restored way...   0.368451
+1   8  three versions movie one john wayne favorites ...   0.367489
+2   3  blu ray edition olive films amazing hate amazo...   0.302887
+
+step 1
+index added: 9
+percentage unclustered: 89.0909%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [0, 2, 6, 9]
+			old information: 271, gain: 0.9887505188875052
+
+   ind                                             review  relevance
+0   9  sure amazon saw fit lump dvd reviews blu ray v...   0.455920
+1   6  seen film dvd new blu ray version restored way...   0.368451
+2   8  three versions movie one john wayne favorites ...   0.367489
+3   3  blu ray edition olive films amazing hate amazo...   0.302887
+
+step 1
+index added: 10
+percentage unclustered: 89.0909%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 89.0909%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [3, 9, 11]
+			old information: 113, gain: 0.8100840336134454
+
+   ind                                             review  relevance
+0   9  sure amazon saw fit lump dvd reviews blu ray v...   0.455920
+1  11  add comments considering getting disc favor sp...   0.400232
+2   6  seen film dvd new blu ray version restored way...   0.368451
+3   8  three versions movie one john wayne favorites ...   0.367489
+4   3  blu ray edition olive films amazing hate amazo...   0.302887
+
+step 1
+index added: 12
+percentage unclustered: 89.0909%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 87.2727%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [3, 9, 11, 13]
+			old information: 244, gain: 0.9561545372866127
+
+   ind                                             review  relevance
+0  13  compared 60th anniversary special edition blu ...   0.519636
+1   9  sure amazon saw fit lump dvd reviews blu ray v...   0.455920
+2  11  add comments considering getting disc favor sp...   0.400232
+3   6  seen film dvd new blu ray version restored way...   0.368451
+4   8  three versions movie one john wayne favorites ...   0.367489
+5   3  blu ray edition olive films amazing hate amazo...   0.302887
+
+step 1
+index added: 14
+percentage unclustered: 87.2727%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 89.0909%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [9, 11, 13, 15]
+			old information: 411, gain: 0.9301732925586137
+
+   ind                                             review  relevance
+0  13  compared 60th anniversary special edition blu ...   0.519636
+1   9  sure amazon saw fit lump dvd reviews blu ray v...   0.455920
+2  15  writing specifically quality blu ray movie sho...   0.441487
+3  11  add comments considering getting disc favor sp...   0.400232
+4   6  seen film dvd new blu ray version restored way...   0.368451
+5   8  three versions movie one john wayne favorites ...   0.367489
+6   3  blu ray edition olive films amazing hate amazo...   0.302887
+
+step 1
+index added: 16
+percentage unclustered: 87.2727%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [9, 11, 13, 15]
+
+step 1
+index added: 17
+percentage unclustered: 87.2727%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 81.8182%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [9, 11, 13, 15, 18]
+			old information: 1546, gain: 0.981470827939978
+
+   ind                                             review  relevance
+0  18  s bad amazon lumped quiet man reviews onto ver...   0.560618
+1  13  compared 60th anniversary special edition blu ...   0.519636
+2   9  sure amazon saw fit lump dvd reviews blu ray v...   0.455920
+3  15  writing specifically quality blu ray movie sho...   0.441487
+4  11  add comments considering getting disc favor sp...   0.400232
+5   6  seen film dvd new blu ray version restored way...   0.368451
+6   8  three versions movie one john wayne favorites ...   0.367489
+7   3  blu ray edition olive films amazing hate amazo...   0.302887
+
+step 1
+index added: 19
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [9, 11, 13, 15, 18]
+
+step 1
+index added: 20
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 83.6364%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [9, 11, 13, 15, 18]
+
+step 1
+index added: 22
+percentage unclustered: 83.6364%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 83.6364%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 83.6364%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 83.6364%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 83.6364%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 83.6364%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 83.6364%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 81.8182%
+
+	step 2
+
+		step 3
+		candidate index: 29 with core nodes: [9, 11, 13, 15, 18, 29]
+			old information: 558, gain: 0.8826004628655586
+
+   ind                                             review  relevance
+0  29  loved quiet man decades never seen decently re...   0.601240
+1  18  s bad amazon lumped quiet man reviews onto ver...   0.560618
+2  13  compared 60th anniversary special edition blu ...   0.519636
+3   9  sure amazon saw fit lump dvd reviews blu ray v...   0.455920
+4  15  writing specifically quality blu ray movie sho...   0.441487
+5  11  add comments considering getting disc favor sp...   0.400232
+6   6  seen film dvd new blu ray version restored way...   0.368451
+7   8  three versions movie one john wayne favorites ...   0.367489
+8   3  blu ray edition olive films amazing hate amazo...   0.302887
+
+step 1
+index added: 30
+percentage unclustered: 76.3636%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 76.3636%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 76.3636%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 74.5455%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 74.5455%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 72.7273%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [9, 11, 13, 29]
+
+step 1
+index added: 36
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 67.2727%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 67.2727%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 65.4545%
+
+	step 2
+
+		step 3
+		candidate index: 51 with core nodes: [5, 45, 51]
+			old information: 155, gain: 0.9533273110508883
+
+   ind                                             review  relevance
+0  29  loved quiet man decades never seen decently re...   0.601240
+1  18  s bad amazon lumped quiet man reviews onto ver...   0.560618
+2  13  compared 60th anniversary special edition blu ...   0.519636
+3   9  sure amazon saw fit lump dvd reviews blu ray v...   0.455920
+4  15  writing specifically quality blu ray movie sho...   0.441487
+5  11  add comments considering getting disc favor sp...   0.400232
+6   6  seen film dvd new blu ray version restored way...   0.368451
+7   8  three versions movie one john wayne favorites ...   0.367489
+8  51  one favorite films movie right elements comedy...   0.325950
+9   3  blu ray edition olive films amazing hate amazo...   0.302887
+
+step 1
+index added: 52
+percentage unclustered: 63.6364%
+
+	step 2
+
+		step 3
+		candidate index: 52 with core nodes: [45, 51, 52]
+			old information: 469, gain: 0.9404444444444444
+
+    ind                                             review  relevance
+0   29  loved quiet man decades never seen decently re...   0.601240
+1   18  s bad amazon lumped quiet man reviews onto ver...   0.560618
+2   13  compared 60th anniversary special edition blu ...   0.519636
+3    9  sure amazon saw fit lump dvd reviews blu ray v...   0.455920
+4   15  writing specifically quality blu ray movie sho...   0.441487
+5   52  true masterpiece movie captures heart soul ire...   0.405073
+6   11  add comments considering getting disc favor sp...   0.400232
+7    6  seen film dvd new blu ray version restored way...   0.368451
+8    8  three versions movie one john wayne favorites ...   0.367489
+9   51  one favorite films movie right elements comedy...   0.325950
+10   3  blu ray edition olive films amazing hate amazo...   0.302887
+
+step 1
+index added: 53
+percentage unclustered: 63.6364%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 56.3636%
+
+	step 2
+
+--- 36.34327793121338 seconds ---
+
+
+ Unclustered percentages: [100.0, 94.5455, 94.5455, 94.5455, 92.7273, 92.7273, 90.9091, 89.0909, 89.0909, 89.0909, 89.0909, 87.2727, 87.2727, 89.0909, 87.2727, 87.2727, 81.8182, 80.0, 80.0, 83.6364, 83.6364, 83.6364, 83.6364, 83.6364, 83.6364, 83.6364, 83.6364, 81.8182, 76.3636, 76.3636, 76.3636, 74.5455, 74.5455, 72.7273, 72.7273, 72.7273, 72.7273, 72.7273, 72.7273, 72.7273, 72.7273, 67.2727, 67.2727, 72.7273, 72.7273, 72.7273, 72.7273, 72.7273, 72.7273, 65.4545, 63.6364, 63.6364, 56.3636], mean: 79.7599
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        19  29   0.601240  loved quiet man decades never seen decently re...
+1        18  18   0.560618  s bad amazon lumped quiet man reviews onto ver...
+2         5  13   0.519636  compared 60th anniversary special edition blu ...
+3        12   9   0.455920  sure amazon saw fit lump dvd reviews blu ray v...
+4        41  15   0.441487  writing specifically quality blu ray movie sho...
+5         8  52   0.405073  true masterpiece movie captures heart soul ire...
+6        37  11   0.400232  add comments considering getting disc favor sp...
+7        33   6   0.368451  seen film dvd new blu ray version restored way...
+8        34   8   0.367489  three versions movie one john wayne favorites ...
+9        51  51   0.325950  one favorite films movie right elements comedy...
+10        7   3   0.302887  blu ray edition olive films amazing hate amazo...

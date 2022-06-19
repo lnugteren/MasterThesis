@@ -1,0 +1,892 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 6303593666
+Shape:  (120, 7)
+
+Readability scores: [-50.87999999999997, -46.460875912408724, 43.60384615384618, -36.346379310344815, -73.62697841726614, -315.16863636363627, 94.04473684210527, 47.83803278688528, 25.188208955223885, -129.21815165876774, -833.0237912087911, 43.84500000000002, -0.3829702970296722, -159.05696721311472, -340.8070405727923, 61.401842105263185, 46.945000000000036, -39.62568807339446, -390.49624203821645, -190.39499999999995, 28.75894736842107, -139.1355172413793, 3.9722727272727667, -175.4884824902723, -587.3317194570135, -117.18971563981042, -421.9039795918367, -113.34716417910444, -426.7149999999999, -180.87263779527558, 41.33357142857146, -94.55634831460671, -41.86899999999996, -10.447580645161253, -866.9649999999999, -37.80319999999996, -474.91147540983593, -680.8869363395224, -736.1108717310086, -40.42778688524588, -42.07384615384615, -55.26884615384614, -107.28499999999997, -451.05994296577944, -405.44989690721644, -405.62432989690717, -636.4808823529411, -670.4723553719007, -337.8515829145728, -18.663539823008833, -435.18539370078736, 2.42000000000003, 25.52807692307696, -198.80704626334517, 6.263823529411795, 32.035769230769255, -352.68201372997703, -197.01357142857142, -31.877142857142843, -154.14749999999995, 66.89500000000001, 80.26029411764708, 69.14136363636366, -85.34260355029583, -68.82545454545452, 0.5147674418604851, -465.5138547486033, -17.86783783783781, -966.3804347826085, -389.99398286937895, 46.48000000000002, -906.631956745623, -208.10097087378637, -27.140714285714253, -66.75694267515921, -651.884243697479, 55.88000000000001, -323.7200488997554, -428.21090909090907, -123.39264705882348, 6.445000000000007, -2.8480769230769027, -143.79327800829873, -112.05954773869344, -614.7238197424891, -457.6367597765362, -159.09402439024387, -294.90047244094484, 54.73000000000002, 38.713043478260886, -696.6721231979029, -30.541596638655435, -16.556760563380266, -330.34934624697325, -352.2566059225512, 60.35441176470591, -246.54334355828217, -65.62126506024093, 29.51078947368424, -147.0323684210526, -83.33220930232555, -354.2614220183486, -121.60014218009476, -504.14886759581873, -345.6993349753694, -234.74776025236594, -62.5477622377622, -89.22999999999995, -152.03249999999997, 74.86500000000001, -159.50222689075628, -36.97186915887849, -112.37973821989526, -26.558934426229484, -305.57769436997313, -181.61590909090904, -4.966551724137915, 33.13500000000003, -123.24666666666663, -12.769736842105246], on average: -187.0239
+Readability scores after: [-50.87999999999997, -46.460875912408724, 43.60384615384618, -36.346379310344815, -73.62697841726614, -315.16863636363627, 47.83803278688528, 25.188208955223885, -129.21815165876774, -833.0237912087911, 43.84500000000002, -0.3829702970296722, -159.05696721311472, -340.8070405727923, 46.945000000000036, -39.62568807339446, -390.49624203821645, -190.39499999999995, 28.75894736842107, -139.1355172413793, 3.9722727272727667, -175.4884824902723, -587.3317194570135, -117.18971563981042, -421.9039795918367, -113.34716417910444, -426.7149999999999, -180.87263779527558, 41.33357142857146, -94.55634831460671, -41.86899999999996, -10.447580645161253, -866.9649999999999, -37.80319999999996, -474.91147540983593, -680.8869363395224, -736.1108717310086, -40.42778688524588, -42.07384615384615, -55.26884615384614, -107.28499999999997, -451.05994296577944, -405.44989690721644, -405.62432989690717, -636.4808823529411, -670.4723553719007, -337.8515829145728, -18.663539823008833, -435.18539370078736, 2.42000000000003, 25.52807692307696, -198.80704626334517, 6.263823529411795, 32.035769230769255, -352.68201372997703, -197.01357142857142, -31.877142857142843, -154.14749999999995, -85.34260355029583, -68.82545454545452, 0.5147674418604851, -465.5138547486033, -17.86783783783781, -966.3804347826085, -389.99398286937895, 46.48000000000002, -906.631956745623, -208.10097087378637, -27.140714285714253, -66.75694267515921, -651.884243697479, -323.7200488997554, -428.21090909090907, -123.39264705882348, 6.445000000000007, -2.8480769230769027, -143.79327800829873, -112.05954773869344, -614.7238197424891, -457.6367597765362, -159.09402439024387, -294.90047244094484, 38.713043478260886, -696.6721231979029, -30.541596638655435, -16.556760563380266, -330.34934624697325, -352.2566059225512, -246.54334355828217, -65.62126506024093, 29.51078947368424, -147.0323684210526, -83.33220930232555, -354.2614220183486, -121.60014218009476, -504.14886759581873, -345.6993349753694, -234.74776025236594, -62.5477622377622, -89.22999999999995, -152.03249999999997, -159.50222689075628, -36.97186915887849, -112.37973821989526, -26.558934426229484, -305.57769436997313, -181.61590909090904, -4.966551724137915, 33.13500000000003, -123.24666666666663, -12.769736842105246], on average after: -207.7517
+Shape after:  (111, 8)
+
+
+Chosen product: 6303593666 has 120 reviews - False, it has 111 reviews
+Duplicate reviewers?:  43    A27FYYS44LH7KD
+61    A23IV3DK4EAXJH
+Name: reviewerID, dtype: object
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 100.0%
+
+step 1
+index added: 13
+percentage unclustered: 97.2973%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [1, 10, 13]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  13  propaganda today s movies newspapers tv shows ...   0.080016
+
+step 1
+index added: 14
+percentage unclustered: 97.2973%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 94.5946%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [6, 7, 13, 15]
+			old information: 58, gain: 0.974539069359087
+
+   ind                                             review  relevance
+0  15  without question premier propaganda film time ...   0.298088
+1  13  propaganda today s movies newspapers tv shows ...   0.080016
+
+step 1
+index added: 16
+percentage unclustered: 94.5946%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 94.5946%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 91.89189999999999%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [1, 4, 15]
+			old information: 4, gain: 0.9928698752228164
+
+   ind                                             review  relevance
+0  15  without question premier propaganda film time ...   0.298088
+1  18  download brought amazon auspices triad product...   0.227165
+2  13  propaganda today s movies newspapers tv shows ...   0.080016
+
+step 1
+index added: 19
+percentage unclustered: 91.89189999999999%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 90.991%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [6, 13, 15, 20]
+			old information: 31, gain: 0.9534534534534534
+
+   ind                                             review  relevance
+0  15  without question premier propaganda film time ...   0.298088
+1  18  download brought amazon auspices triad product...   0.227165
+2  20  leni riefenstahl made film nuremberg congress ...   0.187369
+3  13  propaganda today s movies newspapers tv shows ...   0.080016
+
+step 1
+index added: 21
+percentage unclustered: 90.991%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 90.991%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 88.28829999999999%
+
+	step 2
+
+		step 3
+		candidate index: 23 with core nodes: [4, 6, 13, 15, 20, 23]
+			old information: 79, gain: 0.9883583849101091
+
+   ind                                             review  relevance
+0  23  decided purchase triumph weeks ago saw amazon ...   0.298557
+1  15  without question premier propaganda film time ...   0.298088
+2  18  download brought amazon auspices triad product...   0.227165
+3  20  leni riefenstahl made film nuremberg congress ...   0.187369
+4  13  propaganda today s movies newspapers tv shows ...   0.080016
+
+step 1
+index added: 24
+percentage unclustered: 88.28829999999999%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 88.28829999999999%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 85.5856%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [12, 13, 19, 26]
+			old information: 434, gain: 0.986703431372549
+
+   ind                                             review  relevance
+0  26  write review even discuss leni riefenstahl thi...   0.560704
+1  23  decided purchase triumph weeks ago saw amazon ...   0.298557
+2  15  without question premier propaganda film time ...   0.298088
+3  18  download brought amazon auspices triad product...   0.227165
+4  20  leni riefenstahl made film nuremberg congress ...   0.187369
+5  13  propaganda today s movies newspapers tv shows ...   0.080016
+
+step 1
+index added: 27
+percentage unclustered: 85.5856%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 85.5856%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 85.5856%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 84.68469999999999%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [12, 13, 19, 26]
+
+step 1
+index added: 31
+percentage unclustered: 84.68469999999999%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 84.68469999999999%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 84.68469999999999%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 84.68469999999999%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 84.68469999999999%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 86.4865%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [19, 26, 36]
+			old information: 1023, gain: 0.9897372618653505
+
+   ind                                             review  relevance
+0  26  write review even discuss leni riefenstahl thi...   0.560704
+1  36  triumph will original german triumph des wille...   0.502610
+2  23  decided purchase triumph weeks ago saw amazon ...   0.298557
+3  15  without question premier propaganda film time ...   0.298088
+4  18  download brought amazon auspices triad product...   0.227165
+5  20  leni riefenstahl made film nuremberg congress ...   0.187369
+6  13  propaganda today s movies newspapers tv shows ...   0.080016
+
+step 1
+index added: 37
+percentage unclustered: 86.4865%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 87.3874%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 86.4865%
+
+	step 2
+
+		step 3
+		candidate index: 39 with core nodes: [12, 13, 19, 26]
+
+step 1
+index added: 40
+percentage unclustered: 86.4865%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 86.4865%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 86.4865%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 86.4865%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 86.4865%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 85.5856%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [15, 19, 26, 45]
+			old information: 2295, gain: 0.9761288108091241
+
+   ind                                             review  relevance
+0  26  write review even discuss leni riefenstahl thi...   0.560704
+1  45  seen wonderful horrible life leni riefenstahl ...   0.511967
+2  36  triumph will original german triumph des wille...   0.502610
+3  23  decided purchase triumph weeks ago saw amazon ...   0.298557
+4  15  without question premier propaganda film time ...   0.298088
+5  18  download brought amazon auspices triad product...   0.227165
+6  20  leni riefenstahl made film nuremberg congress ...   0.187369
+7  13  propaganda today s movies newspapers tv shows ...   0.080016
+
+step 1
+index added: 46
+percentage unclustered: 84.68469999999999%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [19, 26, 45]
+
+step 1
+index added: 47
+percentage unclustered: 84.68469999999999%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 84.68469999999999%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 84.68469999999999%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 84.68469999999999%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 84.68469999999999%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 80.1802%
+
+	step 2
+
+		step 3
+		candidate index: 52 with core nodes: [5, 23, 26, 52]
+			old information: 102, gain: 0.9259796806966618
+
+   ind                                             review  relevance
+0  26  write review even discuss leni riefenstahl thi...   0.560704
+1  45  seen wonderful horrible life leni riefenstahl ...   0.511967
+2  36  triumph will original german triumph des wille...   0.502610
+3  52  would highly recommend dvd construct used film...   0.397370
+4  23  decided purchase triumph weeks ago saw amazon ...   0.298557
+5  15  without question premier propaganda film time ...   0.298088
+6  18  download brought amazon auspices triad product...   0.227165
+7  20  leni riefenstahl made film nuremberg congress ...   0.187369
+8  13  propaganda today s movies newspapers tv shows ...   0.080016
+
+step 1
+index added: 53
+percentage unclustered: 79.2793%
+
+	step 2
+
+		step 3
+		candidate index: 53 with core nodes: [19, 26, 45, 53]
+			old information: 182, gain: 0.5816091954022988
+
+   ind                                             review  relevance
+0  26  write review even discuss leni riefenstahl thi...   0.560704
+1  53  ww2 era documentary film leni riefenstahl tell...   0.526438
+2  45  seen wonderful horrible life leni riefenstahl ...   0.511967
+3  36  triumph will original german triumph des wille...   0.502610
+4  52  would highly recommend dvd construct used film...   0.397370
+5  23  decided purchase triumph weeks ago saw amazon ...   0.298557
+6  15  without question premier propaganda film time ...   0.298088
+7  18  download brought amazon auspices triad product...   0.227165
+8  20  leni riefenstahl made film nuremberg congress ...   0.187369
+9  13  propaganda today s movies newspapers tv shows ...   0.080016
+
+step 1
+index added: 54
+percentage unclustered: 75.6757%
+
+	step 2
+
+		step 3
+		candidate index: 54 with core nodes: [13, 42, 43, 54]
+			old information: 1043, gain: 0.9639349930843707
+
+    ind                                             review  relevance
+0   26  write review even discuss leni riefenstahl thi...   0.560704
+1   53  ww2 era documentary film leni riefenstahl tell...   0.526438
+2   45  seen wonderful horrible life leni riefenstahl ...   0.511967
+3   36  triumph will original german triumph des wille...   0.502610
+4   54  movie masterpiece however approach right frame...   0.500409
+5   52  would highly recommend dvd construct used film...   0.397370
+6   23  decided purchase triumph weeks ago saw amazon ...   0.298557
+7   15  without question premier propaganda film time ...   0.298088
+8   18  download brought amazon auspices triad product...   0.227165
+9   20  leni riefenstahl made film nuremberg congress ...   0.187369
+10  13  propaganda today s movies newspapers tv shows ...   0.080016
+
+step 1
+index added: 55
+percentage unclustered: 75.6757%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 75.6757%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 78.3784%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 78.3784%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 78.3784%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 78.3784%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 74.7748%
+
+	step 2
+
+		step 3
+		candidate index: 61 with core nodes: [13, 42, 43, 54]
+
+step 1
+index added: 62
+percentage unclustered: 74.7748%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 74.7748%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 73.87389999999999%
+
+	step 2
+
+		step 3
+		candidate index: 64 with core nodes: [13, 42, 43, 54]
+
+step 1
+index added: 65
+percentage unclustered: 73.87389999999999%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 73.87389999999999%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 72.973%
+
+	step 2
+
+		step 3
+		candidate index: 67 with core nodes: [42, 43, 54, 67]
+			old information: 695, gain: 0.9446700103494945
+
+    ind                                             review  relevance
+0   26  write review even discuss leni riefenstahl thi...   0.560704
+1   53  ww2 era documentary film leni riefenstahl tell...   0.526438
+2   45  seen wonderful horrible life leni riefenstahl ...   0.511967
+3   36  triumph will original german triumph des wille...   0.502610
+4   54  movie masterpiece however approach right frame...   0.500409
+5   67  film amazing visual impact alone lot reviewers...   0.471434
+6   52  would highly recommend dvd construct used film...   0.397370
+7   23  decided purchase triumph weeks ago saw amazon ...   0.298557
+8   15  without question premier propaganda film time ...   0.298088
+9   18  download brought amazon auspices triad product...   0.227165
+10  20  leni riefenstahl made film nuremberg congress ...   0.187369
+11  13  propaganda today s movies newspapers tv shows ...   0.080016
+
+		step 3
+		candidate index: 67 with core nodes: [26, 43, 54, 67]
+			old information: 6129, gain: 0.5120611416288512
+
+    ind                                             review  relevance
+0   26  write review even discuss leni riefenstahl thi...   0.560704
+1   67  film amazing visual impact alone lot reviewers...   0.546560
+2   53  ww2 era documentary film leni riefenstahl tell...   0.526438
+3   45  seen wonderful horrible life leni riefenstahl ...   0.511967
+4   36  triumph will original german triumph des wille...   0.502610
+5   54  movie masterpiece however approach right frame...   0.500409
+6   67  film amazing visual impact alone lot reviewers...   0.471434
+7   52  would highly recommend dvd construct used film...   0.397370
+8   23  decided purchase triumph weeks ago saw amazon ...   0.298557
+9   15  without question premier propaganda film time ...   0.298088
+10  18  download brought amazon auspices triad product...   0.227165
+11  20  leni riefenstahl made film nuremberg congress ...   0.187369
+12  13  propaganda today s movies newspapers tv shows ...   0.080016
+
+step 1
+index added: 68
+percentage unclustered: 69.3694%
+
+	step 2
+
+		step 3
+		candidate index: 68 with core nodes: [42, 43, 54, 63]
+
+		step 3
+		candidate index: 68 with core nodes: [26, 42, 45, 53, 54, 63]
+
+step 1
+index added: 69
+percentage unclustered: 69.3694%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 68.4685%
+
+	step 2
+
+		step 3
+		candidate index: 70 with core nodes: [26, 42, 53, 54, 63, 70]
+			old information: 2526, gain: 0.9680265306380771
+
+    ind                                             review  relevance
+0   70  riefenstahl s documentary made adolf hitler na...   0.583835
+1   26  write review even discuss leni riefenstahl thi...   0.560704
+2   67  film amazing visual impact alone lot reviewers...   0.546560
+3   53  ww2 era documentary film leni riefenstahl tell...   0.526438
+4   45  seen wonderful horrible life leni riefenstahl ...   0.511967
+5   36  triumph will original german triumph des wille...   0.502610
+6   54  movie masterpiece however approach right frame...   0.500409
+7   67  film amazing visual impact alone lot reviewers...   0.471434
+8   52  would highly recommend dvd construct used film...   0.397370
+9   23  decided purchase triumph weeks ago saw amazon ...   0.298557
+10  15  without question premier propaganda film time ...   0.298088
+11  18  download brought amazon auspices triad product...   0.227165
+12  20  leni riefenstahl made film nuremberg congress ...   0.187369
+13  13  propaganda today s movies newspapers tv shows ...   0.080016
+
+step 1
+index added: 71
+percentage unclustered: 65.7658%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 65.7658%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 67.5676%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 65.7658%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 65.7658%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 64.8649%
+
+	step 2
+
+		step 3
+		candidate index: 80 with core nodes: [53, 63, 70]
+
+step 1
+index added: 81
+percentage unclustered: 64.8649%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 64.8649%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 64.8649%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 65.7658%
+
+	step 2
+
+		step 3
+		candidate index: 91 with core nodes: [53, 63, 70]
+
+step 1
+index added: 92
+percentage unclustered: 65.7658%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 63.0631%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 62.1622%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 61.2613%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 61.2613%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 61.2613%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 62.1622%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 61.2613%
+
+	step 2
+
+		step 3
+		candidate index: 99 with core nodes: [19, 63, 78, 81]
+
+step 1
+index added: 100
+percentage unclustered: 60.3604%
+
+	step 2
+
+		step 3
+		candidate index: 100 with core nodes: [19, 63, 78, 81]
+
+step 1
+index added: 101
+percentage unclustered: 60.3604%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 60.3604%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 63.964%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 63.964%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 63.964%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 63.964%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 63.964%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 63.0631%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 63.0631%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 62.1622%
+
+	step 2
+
+		step 3
+		candidate index: 110 with core nodes: [19, 63, 78, 81]
+
+--- 324.5155739784241 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 97.2973, 97.2973, 94.5946, 94.5946, 94.5946, 91.89189999999999, 91.89189999999999, 90.991, 90.991, 90.991, 88.28829999999999, 88.28829999999999, 88.28829999999999, 85.5856, 85.5856, 85.5856, 85.5856, 84.68469999999999, 84.68469999999999, 84.68469999999999, 84.68469999999999, 84.68469999999999, 84.68469999999999, 86.4865, 86.4865, 87.3874, 86.4865, 86.4865, 86.4865, 86.4865, 86.4865, 86.4865, 85.5856, 84.68469999999999, 84.68469999999999, 84.68469999999999, 84.68469999999999, 84.68469999999999, 84.68469999999999, 80.1802, 79.2793, 75.6757, 75.6757, 75.6757, 78.3784, 78.3784, 78.3784, 78.3784, 74.7748, 74.7748, 74.7748, 73.87389999999999, 73.87389999999999, 73.87389999999999, 72.973, 69.3694, 69.3694, 68.4685, 65.7658, 65.7658, 67.5676, 66.66669999999999, 66.66669999999999, 66.66669999999999, 66.66669999999999, 65.7658, 65.7658, 64.8649, 64.8649, 64.8649, 64.8649, 66.66669999999999, 66.66669999999999, 66.66669999999999, 66.66669999999999, 66.66669999999999, 66.66669999999999, 66.66669999999999, 65.7658, 65.7658, 63.0631, 62.1622, 61.2613, 61.2613, 61.2613, 62.1622, 61.2613, 60.3604, 60.3604, 60.3604, 63.964, 63.964, 63.964, 63.964, 63.964, 63.0631, 63.0631, 62.1622], mean: 78.2214
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        99  70   0.583835  riefenstahl s documentary made adolf hitler na...
+1        75  26   0.560704  write review even discuss leni riefenstahl thi...
+2        50  67   0.546560  film amazing visual impact alone lot reviewers...
+3        23  53   0.526438  ww2 era documentary film leni riefenstahl tell...
+4        40  45   0.511967  seen wonderful horrible life leni riefenstahl ...
+5        49  36   0.502610  triumph will original german triumph des wille...
+6        72  54   0.500409  movie masterpiece however approach right frame...
+7        50  67   0.471434  film amazing visual impact alone lot reviewers...
+8        96  52   0.397370  would highly recommend dvd construct used film...
+9        32  23   0.298557  decided purchase triumph weeks ago saw amazon ...
+10       90  15   0.298088  without question premier propaganda film time ...
+11       39  18   0.227165  download brought amazon auspices triad product...
+12       88  20   0.187369  leni riefenstahl made film nuremberg congress ...
+13       86  13   0.080016  propaganda today s movies newspapers tv shows ...

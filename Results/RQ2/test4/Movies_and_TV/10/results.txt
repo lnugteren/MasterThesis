@@ -1,0 +1,49 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 0767817648
+Shape:  (10, 7)
+
+Readability scores: [-298.81608108108105, -257.3660869565217, 54.89166666666669, -1440.578968935889, -115.51086294416241, -98.3895454545454, 6.445000000000007, -62.02924528301884, 4.374000000000024, -160.2920331950207], on average: -236.7272
+Readability scores after: [-298.81608108108105, -257.3660869565217, -1440.578968935889, -115.51086294416241, -98.3895454545454, 6.445000000000007, -62.02924528301884, 4.374000000000024, -160.2920331950207], on average after: -269.1293
+Shape after:  (9, 8)
+
+
+Chosen product: 0767817648 has 10 reviews - False, it has 9 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+--- 0.06878185272216797 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0], mean: 100.0
+
+Final Ranking:
+Empty DataFrame
+Columns: [ranking, ind, relevance, review]
+Index: []

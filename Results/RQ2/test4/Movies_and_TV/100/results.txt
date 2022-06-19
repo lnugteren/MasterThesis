@@ -1,0 +1,809 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 7799120991
+Shape:  (100, 7)
+
+Readability scores: [-546.0553048780487, -1063.1754188481673, -142.03974576271182, 95.16500000000002, -25.126428571428548, -92.61499999999997, -46.50999999999996, -9.175816326530594, -130.4689449541284, 55.89000000000003, 44.87551020408166, -2436.609708116753, -331.25785714285706, 69.46206896551725, -473.44826086956516, -163.538764940239, -528.0542003231018, -39.52325581395344, 22.10597402597405, -834.4745945945945, -76.83254437869822, 6.7607142857143, -92.87619047619044, -161.9919844357976, -29.17499999999997, 83.32900000000001, -111.33604651162786, 42.900377358490594, -323.8603614457831, -601.4969469026548, 27.436511627906995, -234.6315517241379, -176.65314606741572, -37.34999999999995, 58.687755102040846, -76.91499999999998, -2.019999999999982, -117.58839285714284, 25.806000000000026, 30.623947368421085, 32.5826086956522, -7.959729729729716, 33.995000000000026, -35.45863636363633, 60.67375000000002, 64.9557142857143, 13.839325842696638, -92.85147928994081, -172.53999999999996, -44.66394904458596, -98.33363636363632, -200.67258064516125, -16.82239999999996, 33.37919354838712, 77.685, 69.22500000000002, -40.36401408450702, -77.62771428571425, -69.84711864406775, 14.286860465116305, -77.97254237288132, -118.71932432432429, -298.55139534883716, 48.43447368421056, -161.4326642335766, 42.96590909090911, 76.98605263157897, 3.659615384615421, -40.27677215189868, -382.6667145790554, -2890.582037351443, 23.021176470588273, -230.54379518072284, -642.6506172839505, 36.55095890410959, -80.61491803278685, 59.482203389830545, 12.457500000000024, -4.789130434782592, -270.2343406593406, -140.61872093023248, 89.24500000000002, -652.825934065934, 41.02500000000003, 43.15000000000002, -565.5015420560746, 34.52500000000003, -243.11133136094674, -480.45821428571423, -131.88455696202527, -326.23249999999996, 37.486956521739145, -219.3762738853503, -319.14650831353913, -18.59999999999998, -129.6434033613445, -114.00433179723497, -710.0167924528301, -384.3310359408033, -3.122368421052599], on average: -178.8719
+Readability scores after: [-546.0553048780487, -1063.1754188481673, -142.03974576271182, -25.126428571428548, -92.61499999999997, -46.50999999999996, -9.175816326530594, -130.4689449541284, 44.87551020408166, -2436.609708116753, -331.25785714285706, -473.44826086956516, -163.538764940239, -528.0542003231018, -39.52325581395344, 22.10597402597405, -834.4745945945945, -76.83254437869822, 6.7607142857143, -92.87619047619044, -161.9919844357976, -29.17499999999997, -111.33604651162786, 42.900377358490594, -323.8603614457831, -601.4969469026548, 27.436511627906995, -234.6315517241379, -176.65314606741572, -37.34999999999995, -76.91499999999998, -2.019999999999982, -117.58839285714284, 25.806000000000026, 30.623947368421085, 32.5826086956522, -7.959729729729716, 33.995000000000026, -35.45863636363633, 13.839325842696638, -92.85147928994081, -172.53999999999996, -44.66394904458596, -98.33363636363632, -200.67258064516125, -16.82239999999996, 33.37919354838712, -40.36401408450702, -77.62771428571425, -69.84711864406775, 14.286860465116305, -77.97254237288132, -118.71932432432429, -298.55139534883716, 48.43447368421056, -161.4326642335766, 42.96590909090911, 3.659615384615421, -40.27677215189868, -382.6667145790554, -2890.582037351443, 23.021176470588273, -230.54379518072284, -642.6506172839505, 36.55095890410959, -80.61491803278685, 12.457500000000024, -4.789130434782592, -270.2343406593406, -140.61872093023248, -652.825934065934, 41.02500000000003, 43.15000000000002, -565.5015420560746, 34.52500000000003, -243.11133136094674, -480.45821428571423, -131.88455696202527, -326.23249999999996, 37.486956521739145, -219.3762738853503, -319.14650831353913, -18.59999999999998, -129.6434033613445, -114.00433179723497, -710.0167924528301, -384.3310359408033, -3.122368421052599], on average after: -213.0452
+Shape after:  (88, 8)
+
+
+Chosen product: 7799120991 has 100 reviews - False, it has 88 reviews
+Duplicate reviewers?:  73    A1D2C0WDCSHUWZ
+Name: reviewerID, dtype: object
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 96.5909%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [1, 4, 6]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   6  possibly pixar s greatest masterpiece first 10...   0.153474
+
+step 1
+index added: 7
+percentage unclustered: 96.5909%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 96.5909%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 95.4545%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [1, 4, 6, 9]
+			old information: 154, gain: 0.999831376276175
+
+   ind                                             review  relevance
+0   9  well everybody jump shark sometime right a tea...   0.680945
+1   6  possibly pixar s greatest masterpiece first 10...   0.153474
+
+step 1
+index added: 10
+percentage unclustered: 95.4545%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 95.4545%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 95.4545%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 95.4545%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 95.4545%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 93.1818%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [0, 1, 4, 9]
+			old information: 56, gain: 0.9203413940256046
+
+   ind                                             review  relevance
+0   9  well everybody jump shark sometime right a tea...   0.680945
+1  15  watched movie 5 times great movie liked behind...   0.171718
+2   6  possibly pixar s greatest masterpiece first 10...   0.153474
+
+step 1
+index added: 16
+percentage unclustered: 93.1818%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 93.1818%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 93.1818%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 96.5909%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 96.5909%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 95.4545%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [0, 6, 15, 21]
+			old information: 156, gain: 0.9175039661554732
+
+   ind                                             review  relevance
+0   9  well everybody jump shark sometime right a tea...   0.680945
+1  21  without doubt worst ever big budget animated f...   0.226320
+2  15  watched movie 5 times great movie liked behind...   0.171718
+3   6  possibly pixar s greatest masterpiece first 10...   0.153474
+
+step 1
+index added: 22
+percentage unclustered: 94.3182%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [0, 15, 21, 22]
+			old information: 805, gain: 0.8891184573002755
+
+   ind                                             review  relevance
+0   9  well everybody jump shark sometime right a tea...   0.680945
+1  22  ve loved every pixar movie ve ever seen one so...   0.643783
+2  21  without doubt worst ever big budget animated f...   0.226320
+3  15  watched movie 5 times great movie liked behind...   0.171718
+4   6  possibly pixar s greatest masterpiece first 10...   0.153474
+
+step 1
+index added: 23
+percentage unclustered: 94.3182%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 94.3182%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 94.3182%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 94.3182%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 95.4545%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 94.3182%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [0, 15, 22, 28]
+			old information: 661, gain: 0.9416335540838852
+
+   ind                                             review  relevance
+0   9  well everybody jump shark sometime right a tea...   0.680945
+1  22  ve loved every pixar movie ve ever seen one so...   0.643783
+2  28  bought blu ray 4 disc set christmas gift inclu...   0.239444
+3  21  without doubt worst ever big budget animated f...   0.226320
+4  15  watched movie 5 times great movie liked behind...   0.171718
+5   6  possibly pixar s greatest masterpiece first 10...   0.153474
+
+step 1
+index added: 29
+percentage unclustered: 94.3182%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 94.3182%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 90.9091%
+
+	step 2
+
+		step 3
+		candidate index: 31 with core nodes: [0, 22, 31]
+			old information: 252, gain: 0.8825174825174825
+
+   ind                                             review  relevance
+0   9  well everybody jump shark sometime right a tea...   0.680945
+1  22  ve loved every pixar movie ve ever seen one so...   0.643783
+2  31  disney heck certain rental versions english su...   0.456460
+3  28  bought blu ray 4 disc set christmas gift inclu...   0.239444
+4  21  without doubt worst ever big budget animated f...   0.226320
+5  15  watched movie 5 times great movie liked behind...   0.171718
+6   6  possibly pixar s greatest masterpiece first 10...   0.153474
+
+step 1
+index added: 32
+percentage unclustered: 90.9091%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 90.9091%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 90.9091%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 90.9091%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 90.9091%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 90.9091%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 89.7727%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [0, 22, 31, 38]
+			old information: 617, gain: 0.8047468354430379
+
+   ind                                             review  relevance
+0   9  well everybody jump shark sometime right a tea...   0.680945
+1  22  ve loved every pixar movie ve ever seen one so...   0.643783
+2  38  personally loved thought meaningful beautiful ...   0.636613
+3  31  disney heck certain rental versions english su...   0.456460
+4  28  bought blu ray 4 disc set christmas gift inclu...   0.239444
+5  21  without doubt worst ever big budget animated f...   0.226320
+6  15  watched movie 5 times great movie liked behind...   0.171718
+7   6  possibly pixar s greatest masterpiece first 10...   0.153474
+
+step 1
+index added: 39
+percentage unclustered: 88.6364%
+
+	step 2
+
+		step 3
+		candidate index: 39 with core nodes: [0, 22, 31, 38]
+
+step 1
+index added: 40
+percentage unclustered: 88.6364%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 88.6364%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 87.5%
+
+	step 2
+
+		step 3
+		candidate index: 42 with core nodes: [0, 22, 38, 42]
+			old information: 697, gain: 0.7848765432098765
+
+   ind                                             review  relevance
+0   9  well everybody jump shark sometime right a tea...   0.680945
+1  22  ve loved every pixar movie ve ever seen one so...   0.643783
+2  38  personally loved thought meaningful beautiful ...   0.636613
+3  42  never buy movie even see rent worst movie ve e...   0.492373
+4  31  disney heck certain rental versions english su...   0.456460
+5  28  bought blu ray 4 disc set christmas gift inclu...   0.239444
+6  21  without doubt worst ever big budget animated f...   0.226320
+7  15  watched movie 5 times great movie liked behind...   0.171718
+8   6  possibly pixar s greatest masterpiece first 10...   0.153474
+
+step 1
+index added: 43
+percentage unclustered: 86.3636%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 86.3636%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 85.2273%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [0, 22, 38, 42]
+
+step 1
+index added: 46
+percentage unclustered: 84.0909%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [0, 22, 38, 42]
+			old information: 162, gain: 0.7112299465240641
+
+   ind                                             review  relevance
+0   9  well everybody jump shark sometime right a tea...   0.680945
+1  22  ve loved every pixar movie ve ever seen one so...   0.643783
+2  38  personally loved thought meaningful beautiful ...   0.636613
+3  42  never buy movie even see rent worst movie ve e...   0.492373
+4  46  rented movie today thought ok certainly n t li...   0.468050
+5  31  disney heck certain rental versions english su...   0.456460
+6  28  bought blu ray 4 disc set christmas gift inclu...   0.239444
+7  21  without doubt worst ever big budget animated f...   0.226320
+8  15  watched movie 5 times great movie liked behind...   0.171718
+9   6  possibly pixar s greatest masterpiece first 10...   0.153474
+
+step 1
+index added: 47
+percentage unclustered: 84.0909%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 84.0909%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 86.3636%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [38, 45, 49]
+			old information: 781, gain: 0.8134257047300526
+
+    ind                                             review  relevance
+0    9  well everybody jump shark sometime right a tea...   0.680945
+1   22  ve loved every pixar movie ve ever seen one so...   0.643783
+2   38  personally loved thought meaningful beautiful ...   0.636613
+3   42  never buy movie even see rent worst movie ve e...   0.492373
+4   49  great deal started packaging blu ray movies li...   0.492130
+5   46  rented movie today thought ok certainly n t li...   0.468050
+6   31  disney heck certain rental versions english su...   0.456460
+7   28  bought blu ray 4 disc set christmas gift inclu...   0.239444
+8   21  without doubt worst ever big budget animated f...   0.226320
+9   15  watched movie 5 times great movie liked behind...   0.171718
+10   6  possibly pixar s greatest masterpiece first 10...   0.153474
+
+step 1
+index added: 50
+percentage unclustered: 90.9091%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 90.9091%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 90.9091%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 90.9091%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 87.5%
+
+	step 2
+
+		step 3
+		candidate index: 54 with core nodes: [23, 31, 54]
+			old information: 170, gain: 0.7447447447447447
+
+    ind                                             review  relevance
+0    9  well everybody jump shark sometime right a tea...   0.680945
+1   22  ve loved every pixar movie ve ever seen one so...   0.643783
+2   38  personally loved thought meaningful beautiful ...   0.636613
+3   42  never buy movie even see rent worst movie ve e...   0.492373
+4   49  great deal started packaging blu ray movies li...   0.492130
+5   46  rented movie today thought ok certainly n t li...   0.468050
+6   31  disney heck certain rental versions english su...   0.456460
+7   54  thank goodness rented movie tempted buy since ...   0.284502
+8   28  bought blu ray 4 disc set christmas gift inclu...   0.239444
+9   21  without doubt worst ever big budget animated f...   0.226320
+10  15  watched movie 5 times great movie liked behind...   0.171718
+11   6  possibly pixar s greatest masterpiece first 10...   0.153474
+
+step 1
+index added: 55
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 86.3636%
+
+	step 2
+
+		step 3
+		candidate index: 56 with core nodes: [27, 28, 44, 49]
+
+step 1
+index added: 57
+percentage unclustered: 85.2273%
+
+	step 2
+
+		step 3
+		candidate index: 57 with core nodes: [31, 54, 57]
+			old information: 115, gain: 0.9304295220810648
+
+    ind                                             review  relevance
+0    9  well everybody jump shark sometime right a tea...   0.680945
+1   22  ve loved every pixar movie ve ever seen one so...   0.643783
+2   38  personally loved thought meaningful beautiful ...   0.636613
+3   42  never buy movie even see rent worst movie ve e...   0.492373
+4   49  great deal started packaging blu ray movies li...   0.492130
+5   46  rented movie today thought ok certainly n t li...   0.468050
+6   31  disney heck certain rental versions english su...   0.456460
+7   57  good movie wife deaf enjoy movie yet since saw...   0.381902
+8   54  thank goodness rented movie tempted buy since ...   0.284502
+9   28  bought blu ray 4 disc set christmas gift inclu...   0.239444
+10  21  without doubt worst ever big budget animated f...   0.226320
+11  15  watched movie 5 times great movie liked behind...   0.171718
+12   6  possibly pixar s greatest masterpiece first 10...   0.153474
+
+step 1
+index added: 58
+percentage unclustered: 85.2273%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 85.2273%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 84.0909%
+
+	step 2
+
+		step 3
+		candidate index: 60 with core nodes: [27, 31, 60]
+			old information: 21020, gain: 0.985236980871285
+
+    ind                                             review  relevance
+0    9  well everybody jump shark sometime right a tea...   0.680945
+1   22  ve loved every pixar movie ve ever seen one so...   0.643783
+2   38  personally loved thought meaningful beautiful ...   0.636613
+3   60  touching fun hilarious animated film incredibl...   0.635380
+4   42  never buy movie even see rent worst movie ve e...   0.492373
+5   49  great deal started packaging blu ray movies li...   0.492130
+6   46  rented movie today thought ok certainly n t li...   0.468050
+7   31  disney heck certain rental versions english su...   0.456460
+8   57  good movie wife deaf enjoy movie yet since saw...   0.381902
+9   54  thank goodness rented movie tempted buy since ...   0.284502
+10  28  bought blu ray 4 disc set christmas gift inclu...   0.239444
+11  21  without doubt worst ever big budget animated f...   0.226320
+12  15  watched movie 5 times great movie liked behind...   0.171718
+13   6  possibly pixar s greatest masterpiece first 10...   0.153474
+
+step 1
+index added: 61
+percentage unclustered: 80.6818%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 80.6818%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 80.6818%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 80.6818%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 79.5455%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 78.4091%
+
+	step 2
+
+		step 3
+		candidate index: 66 with core nodes: [27, 31, 60, 66]
+			old information: 229, gain: 0.8457912457912458
+
+    ind                                             review  relevance
+0    9  well everybody jump shark sometime right a tea...   0.680945
+1   22  ve loved every pixar movie ve ever seen one so...   0.643783
+2   38  personally loved thought meaningful beautiful ...   0.636613
+3   60  touching fun hilarious animated film incredibl...   0.635380
+4   66  n t luxo sue pixar made luxo jr n nwhy n t lux...   0.536750
+5   42  never buy movie even see rent worst movie ve e...   0.492373
+6   49  great deal started packaging blu ray movies li...   0.492130
+7   46  rented movie today thought ok certainly n t li...   0.468050
+8   31  disney heck certain rental versions english su...   0.456460
+9   57  good movie wife deaf enjoy movie yet since saw...   0.381902
+10  54  thank goodness rented movie tempted buy since ...   0.284502
+11  28  bought blu ray 4 disc set christmas gift inclu...   0.239444
+12  21  without doubt worst ever big budget animated f...   0.226320
+13  15  watched movie 5 times great movie liked behind...   0.171718
+14   6  possibly pixar s greatest masterpiece first 10...   0.153474
+
+step 1
+index added: 67
+percentage unclustered: 77.2727%
+
+	step 2
+
+		step 3
+		candidate index: 67 with core nodes: [27, 31, 60, 66, 67]
+			old information: 391, gain: 0.7461038961038962
+
+    ind                                             review  relevance
+0    9  well everybody jump shark sometime right a tea...   0.680945
+1   22  ve loved every pixar movie ve ever seen one so...   0.643783
+2   38  personally loved thought meaningful beautiful ...   0.636613
+3   60  touching fun hilarious animated film incredibl...   0.635380
+4   66  n t luxo sue pixar made luxo jr n nwhy n t lux...   0.536750
+5   42  never buy movie even see rent worst movie ve e...   0.492373
+6   49  great deal started packaging blu ray movies li...   0.492130
+7   67  may seen movie loved may hate disney strange r...   0.487450
+8   46  rented movie today thought ok certainly n t li...   0.468050
+9   31  disney heck certain rental versions english su...   0.456460
+10  57  good movie wife deaf enjoy movie yet since saw...   0.381902
+11  54  thank goodness rented movie tempted buy since ...   0.284502
+12  28  bought blu ray 4 disc set christmas gift inclu...   0.239444
+13  21  without doubt worst ever big budget animated f...   0.226320
+14  15  watched movie 5 times great movie liked behind...   0.171718
+15   6  possibly pixar s greatest masterpiece first 10...   0.153474
+
+step 1
+index added: 68
+percentage unclustered: 77.2727%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 76.1364%
+
+	step 2
+
+		step 3
+		candidate index: 69 with core nodes: [49, 58, 69]
+			old information: 1281, gain: 0.8624946328896522
+
+    ind                                             review  relevance
+0    9  well everybody jump shark sometime right a tea...   0.680945
+1   22  ve loved every pixar movie ve ever seen one so...   0.643783
+2   38  personally loved thought meaningful beautiful ...   0.636613
+3   60  touching fun hilarious animated film incredibl...   0.635380
+4   66  n t luxo sue pixar made luxo jr n nwhy n t lux...   0.536750
+5   42  never buy movie even see rent worst movie ve e...   0.492373
+6   49  great deal started packaging blu ray movies li...   0.492130
+7   67  may seen movie loved may hate disney strange r...   0.487450
+8   69  n t seen movie rating reflects packaging thing...   0.487301
+9   46  rented movie today thought ok certainly n t li...   0.468050
+10  31  disney heck certain rental versions english su...   0.456460
+11  57  good movie wife deaf enjoy movie yet since saw...   0.381902
+12  54  thank goodness rented movie tempted buy since ...   0.284502
+13  28  bought blu ray 4 disc set christmas gift inclu...   0.239444
+14  21  without doubt worst ever big budget animated f...   0.226320
+15  15  watched movie 5 times great movie liked behind...   0.171718
+16   6  possibly pixar s greatest masterpiece first 10...   0.153474
+
+step 1
+index added: 70
+percentage unclustered: 76.1364%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 71.5909%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 68.1818%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 67.0455%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 67.0455%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 67.0455%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 67.0455%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 67.0455%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 65.9091%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 65.9091%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 65.9091%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 65.9091%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 65.9091%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 65.9091%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 65.9091%
+
+	step 2
+
+--- 4299.569238185883 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 96.5909, 96.5909, 96.5909, 95.4545, 95.4545, 95.4545, 95.4545, 95.4545, 95.4545, 93.1818, 93.1818, 93.1818, 93.1818, 96.5909, 96.5909, 95.4545, 94.3182, 94.3182, 94.3182, 94.3182, 94.3182, 95.4545, 94.3182, 94.3182, 94.3182, 90.9091, 90.9091, 90.9091, 90.9091, 90.9091, 90.9091, 90.9091, 89.7727, 88.6364, 88.6364, 88.6364, 87.5, 86.3636, 86.3636, 85.2273, 84.0909, 84.0909, 84.0909, 86.3636, 90.9091, 90.9091, 90.9091, 90.9091, 87.5, 87.5, 86.3636, 85.2273, 85.2273, 85.2273, 84.0909, 80.6818, 80.6818, 80.6818, 80.6818, 79.5455, 78.4091, 77.2727, 77.2727, 76.1364, 76.1364, 75.0, 75.0, 75.0, 71.5909, 68.1818, 67.0455, 67.0455, 67.0455, 67.0455, 67.0455, 65.9091, 65.9091, 65.9091, 65.9091, 65.9091, 65.9091, 65.9091], mean: 85.6237
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        39   9   0.680945  well everybody jump shark sometime right a tea...
+1        72  22   0.643783  ve loved every pixar movie ve ever seen one so...
+2        76  38   0.636613  personally loved thought meaningful beautiful ...
+3        35  60   0.635380  touching fun hilarious animated film incredibl...
+4        78  66   0.536750  n t luxo sue pixar made luxo jr n nwhy n t lux...
+5        63  42   0.492373  never buy movie even see rent worst movie ve e...
+6        65  49   0.492130  great deal started packaging blu ray movies li...
+7        36  67   0.487450  may seen movie loved may hate disney strange r...
+8        52  69   0.487301  n t seen movie rating reflects packaging thing...
+9        77  46   0.468050  rented movie today thought ok certainly n t li...
+10       55  31   0.456460  disney heck certain rental versions english su...
+11       18  57   0.381902  good movie wife deaf enjoy movie yet since saw...
+12       23  54   0.284502  thank goodness rented movie tempted buy since ...
+13       26  28   0.239444  bought blu ray 4 disc set christmas gift inclu...
+14       49  21   0.226320  without doubt worst ever big budget animated f...
+15       80  15   0.171718  watched movie 5 times great movie liked behind...
+16       37   6   0.153474  possibly pixar s greatest masterpiece first 10...

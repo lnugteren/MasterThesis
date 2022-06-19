@@ -1,0 +1,853 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 6302548748
+Shape:  (110, 7)
+
+Readability scores: [-64.83863636363631, -984.8992722117201, -224.07857142857137, 50.270263157894775, -201.25155709342556, 7.10894736842107, -1216.8531538461536, -50.492183098591525, -277.22321329639885, -117.42535885167462, 51.55884615384618, -302.85263852242736, -405.00109756097555, -99.00305084745759, -6.184999999999988, -400.33329853862205, 24.605714285714306, -87.53186440677962, -603.0187665198237, -540.2227419354838, -388.99875545851523, -400.81991935483865, -108.5259459459459, -47.52999999999997, -595.6019999999999, -20.381538461538454, -201.4806713780918, -291.84917582417575, -9.174999999999983, 8.091764705882383, -95.61919786096253, -475.1233453237409, -219.11999999999995, -64.65055555555553, -368.1503846153846, -38.420161290322554, -687.3745632333766, -207.14443298969064, -16.343513513513486, -371.4699999999999, 40.02706896551725, -390.6993801652892, -36.39653846153844, -55.97789473684206, -11.153823529411738, -124.38660714285712, -208.41254180602, -659.8741935483871, -217.89386581469648, -76.32367469879514, -252.37227810650884, -378.0926923076923, -335.96561611374403, -257.66985714285704, -242.52688073394492, -56.58190839694652, 13.136075949367111, -139.7545851528384, -54.36331210191079, -40.64322834645668, -170.76551330798478, -59.428802816901396, -870.7954718981971, -51.79749999999996, -69.55515527950308, -383.7944608879492, -104.40696335078532, -315.4811538461538, -76.83254437869822, -306.8688746803068, -262.34534482758613, -9.868181818181782, -301.6311488250652, -155.5921428571428, -155.27074235807856, -322.5964634146341, -376.35993506493503, -228.60958990536278, -263.0060869565217, -197.06161870503593, -512.828487394958, -189.92441176470584, -306.0028346456693, -67.80299999999997, -74.83017751479288, -19.771221374045766, -224.0918241042345, -180.77224719101122, -400.6290644490644, 31.119594594594602, -717.6829999999999, -19.45768595041318, -137.60535714285712, 0.22863636363638307, -257.91220930232555, -76.83283236994215, -1.757777777777747, -243.70277777777773, -43.07999999999997, -131.18499999999995, -333.27393120393117, -395.63249999999994, -210.98564935064928, -390.81499999999994, -100.61454545454544, -109.85305825242715, -100.61454545454544, -140.7655793991416, -198.77171232876708, -250.82137026239064], on average: -218.382
+Readability scores after: [-64.83863636363631, -984.8992722117201, -224.07857142857137, -201.25155709342556, 7.10894736842107, -1216.8531538461536, -50.492183098591525, -277.22321329639885, -117.42535885167462, -302.85263852242736, -405.00109756097555, -99.00305084745759, -6.184999999999988, -400.33329853862205, 24.605714285714306, -87.53186440677962, -603.0187665198237, -540.2227419354838, -388.99875545851523, -400.81991935483865, -108.5259459459459, -47.52999999999997, -595.6019999999999, -20.381538461538454, -201.4806713780918, -291.84917582417575, -9.174999999999983, 8.091764705882383, -95.61919786096253, -475.1233453237409, -219.11999999999995, -64.65055555555553, -368.1503846153846, -38.420161290322554, -687.3745632333766, -207.14443298969064, -16.343513513513486, -371.4699999999999, 40.02706896551725, -390.6993801652892, -36.39653846153844, -55.97789473684206, -11.153823529411738, -124.38660714285712, -208.41254180602, -659.8741935483871, -217.89386581469648, -76.32367469879514, -252.37227810650884, -378.0926923076923, -335.96561611374403, -257.66985714285704, -242.52688073394492, -56.58190839694652, 13.136075949367111, -139.7545851528384, -54.36331210191079, -40.64322834645668, -170.76551330798478, -59.428802816901396, -870.7954718981971, -51.79749999999996, -69.55515527950308, -383.7944608879492, -104.40696335078532, -315.4811538461538, -76.83254437869822, -306.8688746803068, -262.34534482758613, -9.868181818181782, -301.6311488250652, -155.5921428571428, -155.27074235807856, -322.5964634146341, -376.35993506493503, -228.60958990536278, -263.0060869565217, -197.06161870503593, -512.828487394958, -189.92441176470584, -306.0028346456693, -67.80299999999997, -74.83017751479288, -19.771221374045766, -224.0918241042345, -180.77224719101122, -400.6290644490644, 31.119594594594602, -717.6829999999999, -19.45768595041318, -137.60535714285712, 0.22863636363638307, -257.91220930232555, -76.83283236994215, -1.757777777777747, -243.70277777777773, -43.07999999999997, -131.18499999999995, -333.27393120393117, -395.63249999999994, -210.98564935064928, -390.81499999999994, -100.61454545454544, -109.85305825242715, -100.61454545454544, -140.7655793991416, -198.77171232876708, -250.82137026239064], on average after: -223.3689
+Shape after:  (108, 8)
+
+
+Chosen product: 6302548748 has 110 reviews - False, it has 108 reviews
+Duplicate reviewers?:  104    APYCNRS112N2B
+Name: reviewerID, dtype: object
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 97.2222%
+
+	step 2
+
+		step 3
+		candidate index: 5 with core nodes: [1, 2, 5]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   5  saw gettysburg first time 8 years ago rental d...   0.398564
+
+step 1
+index added: 6
+percentage unclustered: 97.2222%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 97.2222%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 97.2222%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 97.2222%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 97.2222%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 97.2222%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 97.2222%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 97.2222%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 94.4444%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [1, 2, 5, 13]
+			old information: 46, gain: 0.8866995073891626
+
+   ind                                             review  relevance
+0   5  saw gettysburg first time 8 years ago rental d...   0.398564
+1  14  one favorite films time finally wonderful copy...   0.211937
+
+step 1
+index added: 15
+percentage unclustered: 93.5185%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 93.5185%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 93.5185%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 93.5185%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 93.5185%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 93.5185%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 93.5185%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 93.5185%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 93.5185%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 96.2963%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 96.2963%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 96.2963%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 96.2963%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 92.5926%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [1, 2, 5, 28]
+			old information: 506, gain: 0.9155963302752294
+
+   ind                                             review  relevance
+0  28  1993 movie based michael shaara s book killer ...   0.452804
+1   5  saw gettysburg first time 8 years ago rental d...   0.398564
+2  14  one favorite films time finally wonderful copy...   0.211937
+
+step 1
+index added: 29
+percentage unclustered: 92.5926%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 89.8148%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [5, 25, 28, 30]
+			old information: 1402, gain: 0.9129733085040348
+
+   ind                                             review  relevance
+0  30  four hours plus one longest movies well made w...   0.542821
+1  28  1993 movie based michael shaara s book killer ...   0.452804
+2   5  saw gettysburg first time 8 years ago rental d...   0.398564
+3  14  one favorite films time finally wonderful copy...   0.211937
+
+step 1
+index added: 31
+percentage unclustered: 89.8148%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 92.5926%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [13, 15, 18, 25, 30, 32]
+			old information: 2208, gain: 0.9339139804256084
+
+   ind                                             review  relevance
+0  30  four hours plus one longest movies well made w...   0.542821
+1  32  recommend movie deserves four stars n ni one t...   0.540053
+2  28  1993 movie based michael shaara s book killer ...   0.452804
+3   5  saw gettysburg first time 8 years ago rental d...   0.398564
+4  14  one favorite films time finally wonderful copy...   0.211937
+
+step 1
+index added: 33
+percentage unclustered: 92.5926%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 91.6667%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [25, 30, 32, 34]
+			old information: 4355, gain: 0.9538640817839928
+
+   ind                                             review  relevance
+0  34  gettysburg excellent film well acted excellent...   0.594473
+1  30  four hours plus one longest movies well made w...   0.542821
+2  32  recommend movie deserves four stars n ni one t...   0.540053
+3  28  1993 movie based michael shaara s book killer ...   0.452804
+4   5  saw gettysburg first time 8 years ago rental d...   0.398564
+5  14  one favorite films time finally wonderful copy...   0.211937
+
+step 1
+index added: 35
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 90.7407%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [25, 30, 34, 37]
+			old information: 3100, gain: 0.934430390456449
+
+   ind                                             review  relevance
+0  37  based late author michael shaara s pulitzer pr...   0.637538
+1  34  gettysburg excellent film well acted excellent...   0.594473
+2  30  four hours plus one longest movies well made w...   0.542821
+3  32  recommend movie deserves four stars n ni one t...   0.540053
+4  28  1993 movie based michael shaara s book killer ...   0.452804
+5   5  saw gettysburg first time 8 years ago rental d...   0.398564
+6  14  one favorite films time finally wonderful copy...   0.211937
+
+step 1
+index added: 38
+percentage unclustered: 90.7407%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 90.7407%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 90.7407%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 90.7407%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 90.7407%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 90.7407%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 89.8148%
+
+	step 2
+
+		step 3
+		candidate index: 44 with core nodes: [25, 30, 32, 34, 37, 44]
+			old information: 1472, gain: 0.8871252204585538
+
+   ind                                             review  relevance
+0  37  based late author michael shaara s pulitzer pr...   0.637538
+1  34  gettysburg excellent film well acted excellent...   0.594473
+2  30  four hours plus one longest movies well made w...   0.542821
+3  32  recommend movie deserves four stars n ni one t...   0.540053
+4  44  gettysburg excellent movie revolving around ci...   0.537197
+5  28  1993 movie based michael shaara s book killer ...   0.452804
+6   5  saw gettysburg first time 8 years ago rental d...   0.398564
+7  14  one favorite films time finally wonderful copy...   0.211937
+
+step 1
+index added: 45
+percentage unclustered: 87.037%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [13, 18, 45]
+			old information: 4157, gain: 0.9384403506693519
+
+   ind                                             review  relevance
+0  37  based late author michael shaara s pulitzer pr...   0.637538
+1  34  gettysburg excellent film well acted excellent...   0.594473
+2  30  four hours plus one longest movies well made w...   0.542821
+3  32  recommend movie deserves four stars n ni one t...   0.540053
+4  44  gettysburg excellent movie revolving around ci...   0.537197
+5  45  hard session exams wanted grab film would pull...   0.473418
+6  28  1993 movie based michael shaara s book killer ...   0.452804
+7   5  saw gettysburg first time 8 years ago rental d...   0.398564
+8  14  one favorite films time finally wonderful copy...   0.211937
+
+step 1
+index added: 46
+percentage unclustered: 87.037%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 86.1111%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [25, 30, 32, 34, 37, 44]
+
+step 1
+index added: 48
+percentage unclustered: 86.1111%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 86.1111%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 86.1111%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 86.1111%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 86.1111%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 86.1111%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 86.1111%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 86.1111%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 86.1111%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 86.1111%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 58 with core nodes: [13, 18, 45]
+
+step 1
+index added: 59
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 82.4074%
+
+	step 2
+
+		step 3
+		candidate index: 60 with core nodes: [25, 34, 37, 60]
+			old information: 8540, gain: 0.9460187227802254
+
+   ind                                             review  relevance
+0  37  based late author michael shaara s pulitzer pr...   0.637538
+1  34  gettysburg excellent film well acted excellent...   0.594473
+2  60  gettysburg perhaps best attempt film capture s...   0.589783
+3  30  four hours plus one longest movies well made w...   0.542821
+4  32  recommend movie deserves four stars n ni one t...   0.540053
+5  44  gettysburg excellent movie revolving around ci...   0.537197
+6  45  hard session exams wanted grab film would pull...   0.473418
+7  28  1993 movie based michael shaara s book killer ...   0.452804
+8   5  saw gettysburg first time 8 years ago rental d...   0.398564
+9  14  one favorite films time finally wonderful copy...   0.211937
+
+step 1
+index added: 61
+percentage unclustered: 82.4074%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 82.4074%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 82.4074%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 82.4074%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 82.4074%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 75.9259%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 73.1481%
+
+	step 2
+
+		step 3
+		candidate index: 67 with core nodes: [25, 28, 32, 34, 37, 51, 60, 67]
+			old information: 4677, gain: 0.8058530510585306
+
+    ind                                             review  relevance
+0   67  movie gettysburg 4 hours length one hell long ...   0.674469
+1   37  based late author michael shaara s pulitzer pr...   0.637538
+2   34  gettysburg excellent film well acted excellent...   0.594473
+3   60  gettysburg perhaps best attempt film capture s...   0.589783
+4   30  four hours plus one longest movies well made w...   0.542821
+5   32  recommend movie deserves four stars n ni one t...   0.540053
+6   44  gettysburg excellent movie revolving around ci...   0.537197
+7   45  hard session exams wanted grab film would pull...   0.473418
+8   28  1993 movie based michael shaara s book killer ...   0.452804
+9    5  saw gettysburg first time 8 years ago rental d...   0.398564
+10  14  one favorite films time finally wonderful copy...   0.211937
+
+step 1
+index added: 68
+percentage unclustered: 74.0741%
+
+	step 2
+
+		step 3
+		candidate index: 68 with core nodes: [25, 28, 32, 34, 37, 51, 60, 67]
+			old information: 1668, gain: 0.8987311031509927
+
+    ind                                             review  relevance
+0   67  movie gettysburg 4 hours length one hell long ...   0.674469
+1   37  based late author michael shaara s pulitzer pr...   0.637538
+2   34  gettysburg excellent film well acted excellent...   0.594473
+3   60  gettysburg perhaps best attempt film capture s...   0.589783
+4   30  four hours plus one longest movies well made w...   0.542821
+5   32  recommend movie deserves four stars n ni one t...   0.540053
+6   44  gettysburg excellent movie revolving around ci...   0.537197
+7   68  movie proves n t need lot blood gore show war ...   0.513065
+8   45  hard session exams wanted grab film would pull...   0.473418
+9   28  1993 movie based michael shaara s book killer ...   0.452804
+10   5  saw gettysburg first time 8 years ago rental d...   0.398564
+11  14  one favorite films time finally wonderful copy...   0.211937
+
+step 1
+index added: 69
+percentage unclustered: 75.9259%
+
+	step 2
+
+		step 3
+		candidate index: 69 with core nodes: [13, 23, 45]
+
+step 1
+index added: 70
+percentage unclustered: 75.9259%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 72.2222%
+
+	step 2
+
+		step 3
+		candidate index: 71 with core nodes: [22, 34, 37, 60]
+
+step 1
+index added: 72
+percentage unclustered: 72.2222%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 71.2963%
+
+	step 2
+
+		step 3
+		candidate index: 73 with core nodes: [22, 34, 37, 60]
+
+step 1
+index added: 74
+percentage unclustered: 71.2963%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 71.2963%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 71.2963%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 70.3704%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 70.3704%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 76.8519%
+
+	step 2
+
+		step 3
+		candidate index: 80 with core nodes: [22, 37, 60]
+			old information: 5387, gain: 0.7843129404228059
+
+    ind                                             review  relevance
+0   67  movie gettysburg 4 hours length one hell long ...   0.674469
+1   37  based late author michael shaara s pulitzer pr...   0.637538
+2   34  gettysburg excellent film well acted excellent...   0.594473
+3   60  gettysburg perhaps best attempt film capture s...   0.589783
+4   30  four hours plus one longest movies well made w...   0.542821
+5   32  recommend movie deserves four stars n ni one t...   0.540053
+6   44  gettysburg excellent movie revolving around ci...   0.537197
+7   80  ronald maxwell s gettysburg nothing short mast...   0.526319
+8   68  movie proves n t need lot blood gore show war ...   0.513065
+9   45  hard session exams wanted grab film would pull...   0.473418
+10  28  1993 movie based michael shaara s book killer ...   0.452804
+11   5  saw gettysburg first time 8 years ago rental d...   0.398564
+12  14  one favorite films time finally wonderful copy...   0.211937
+
+step 1
+index added: 81
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 72.2222%
+
+	step 2
+
+		step 3
+		candidate index: 84 with core nodes: [22, 37, 60]
+
+step 1
+index added: 85
+percentage unclustered: 71.2963%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 70.3704%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 70.3704%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 67.5926%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 63.8889%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 63.8889%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 63.8889%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 60.1852%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 59.2593%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 56.4815%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 56.4815%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 56.4815%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 56.4815%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 56.4815%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 56.4815%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 56.4815%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 56.4815%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 56.4815%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 56.4815%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 56.4815%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 57.4074%
+
+	step 2
+
+		step 3
+		candidate index: 105 with core nodes: [22, 37, 60]
+
+step 1
+index added: 106
+percentage unclustered: 57.4074%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 57.4074%
+
+	step 2
+
+--- 841.0283575057983 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 97.2222, 97.2222, 97.2222, 97.2222, 97.2222, 97.2222, 97.2222, 97.2222, 97.2222, 94.4444, 93.5185, 93.5185, 93.5185, 93.5185, 93.5185, 93.5185, 93.5185, 93.5185, 93.5185, 96.2963, 96.2963, 96.2963, 96.2963, 92.5926, 92.5926, 89.8148, 89.8148, 92.5926, 92.5926, 91.6667, 91.6667, 91.6667, 90.7407, 90.7407, 90.7407, 90.7407, 90.7407, 90.7407, 90.7407, 89.8148, 87.037, 87.037, 86.1111, 86.1111, 86.1111, 86.1111, 86.1111, 86.1111, 86.1111, 86.1111, 86.1111, 86.1111, 86.1111, 83.33330000000001, 83.33330000000001, 82.4074, 82.4074, 82.4074, 82.4074, 82.4074, 82.4074, 75.9259, 73.1481, 74.0741, 75.9259, 75.9259, 72.2222, 72.2222, 71.2963, 71.2963, 71.2963, 71.2963, 70.3704, 70.3704, 77.7778, 76.8519, 75.0, 75.0, 75.0, 72.2222, 71.2963, 70.3704, 70.3704, 67.5926, 63.8889, 63.8889, 63.8889, 60.1852, 59.2593, 56.4815, 56.4815, 56.4815, 56.4815, 56.4815, 56.4815, 56.4815, 56.4815, 56.4815, 56.4815, 56.4815, 57.4074, 57.4074, 57.4074], mean: 81.2282
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        45  67   0.674469  movie gettysburg 4 hours length one hell long ...
+1        46  37   0.637538  based late author michael shaara s pulitzer pr...
+2        62  34   0.594473  gettysburg excellent film well acted excellent...
+3         5  60   0.589783  gettysburg perhaps best attempt film capture s...
+4        90  30   0.542821  four hours plus one longest movies well made w...
+5        24  32   0.540053  recommend movie deserves four stars n ni one t...
+6        92  44   0.537197  gettysburg excellent movie revolving around ci...
+7        26  80   0.526319  ronald maxwell s gettysburg nothing short mast...
+8       100  68   0.513065  movie proves n t need lot blood gore show war ...
+9        39  45   0.473418  hard session exams wanted grab film would pull...
+10       61  28   0.452804  1993 movie based michael shaara s book killer ...
+11       44   5   0.398564  saw gettysburg first time 8 years ago rental d...
+12       63  14   0.211937  one favorite films time finally wonderful copy...

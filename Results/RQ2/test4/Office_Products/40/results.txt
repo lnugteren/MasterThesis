@@ -1,0 +1,235 @@
+------- Category: Office_Products -------
+Found asin_id: B00000IGBF
+Shape:  (40, 7)
+
+Readability scores: [-37.38928571428569, -225.350900621118, -24.092741935483843, -123.04322429906539, 74.39580645161291, -68.93142857142854, -23.924999999999983, 28.32681818181821, -266.44315789473677, -226.22779816513759, -249.70396551724133, -42.06342105263154, 10.463695652173925, -73.16870786516851, -4.518529411764675, 25.40337837837839, 6.190970873786441, -537.16976635514, -43.610344827586175, 11.302142857142869, -55.44101910828023, -328.3604783599088, 27.002352941176483, -3.386756756756739, -13.712142857142837, -88.3872580645161, 70.77346938775511, 43.065000000000026, -12.665275590551175, -2.8480769230769027, 71.6667741935484, 15.101250000000022, -5.0622131147540586, 63.83470588235297, -6.336999999999975, -64.72363636363633, -2.30461538461536, -6.371279069767411, -135.31922746781112, -54.82705202312134], on average: -56.9464
+Readability scores after: [-37.38928571428569, -225.350900621118, -24.092741935483843, -123.04322429906539, -68.93142857142854, -23.924999999999983, 28.32681818181821, -266.44315789473677, -226.22779816513759, -249.70396551724133, -42.06342105263154, 10.463695652173925, -73.16870786516851, -4.518529411764675, 25.40337837837839, 6.190970873786441, -537.16976635514, -43.610344827586175, 11.302142857142869, -55.44101910828023, -328.3604783599088, 27.002352941176483, -3.386756756756739, -13.712142857142837, -88.3872580645161, 43.065000000000026, -12.665275590551175, -2.8480769230769027, 15.101250000000022, -5.0622131147540586, -6.336999999999975, -64.72363636363633, -2.30461538461536, -6.371279069767411, -135.31922746781112, -54.82705202312134], on average after: -71.0702
+Shape after:  (36, 8)
+
+
+Chosen product: B00000IGBF has 40 reviews - False, it has 36 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 100.0%
+
+step 1
+index added: 13
+percentage unclustered: 100.0%
+
+step 1
+index added: 14
+percentage unclustered: 100.0%
+
+step 1
+index added: 15
+percentage unclustered: 91.6667%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [1, 4, 15]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  15  3com great job creating palm line os since bir...   0.247548
+
+step 1
+index added: 16
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 88.8889%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [1, 4, 15, 17]
+			old information: 30, gain: 0.9882629107981221
+
+   ind                                             review  relevance
+0  17  palm certainly revolutionize way arrange life ...   0.357151
+1  15  3com great job creating palm line os since bir...   0.247548
+
+step 1
+index added: 18
+percentage unclustered: 80.5556%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 80.5556%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 77.7778%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [15, 16, 17, 20]
+			old information: 245, gain: 0.9916675169200422
+
+   ind                                             review  relevance
+0  20  big questions days organizer get ll assume rea...   0.548490
+1  17  palm certainly revolutionize way arrange life ...   0.357151
+2  15  3com great job creating palm line os since bir...   0.247548
+
+step 1
+index added: 21
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 75.0%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [15, 16, 17, 20]
+			old information: 172, gain: 0.8841750841750842
+
+   ind                                             review  relevance
+0  20  big questions days organizer get ll assume rea...   0.548490
+1  22  bought palm iiix last semester helpfull able k...   0.361267
+2  17  palm certainly revolutionize way arrange life ...   0.357151
+3  15  3com great job creating palm line os since bir...   0.247548
+
+step 1
+index added: 23
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 75.0%
+
+	step 2
+
+--- 3.6210668087005615 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 91.6667, 91.6667, 88.8889, 80.5556, 80.5556, 77.7778, 77.7778, 75.0, 75.0, 83.33330000000001, 83.33330000000001, 83.33330000000001, 83.33330000000001, 83.33330000000001, 75.0, 75.0, 75.0, 75.0, 75.0, 75.0, 75.0], mean: 87.6634
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0        2  20   0.548490  big questions days organizer get ll assume rea...
+1       29  22   0.361267  bought palm iiix last semester helpfull able k...
+2       31  17   0.357151  palm certainly revolutionize way arrange life ...
+3        8  15   0.247548  3com great job creating palm line os since bir...

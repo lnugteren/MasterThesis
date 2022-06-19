@@ -1,0 +1,1200 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 6303965415
+Shape:  (160, 7)
+
+Readability scores: [-151.16913793103447, -115.60384615384613, 12.072941176470607, -60.74290322580643, -32.51214285714282, -53.101612903225785, -32.98964285714284, -234.4808832807571, -27.513124999999974, 51.63630434782611, -660.5917408906881, -0.8912162162161934, 66.56038461538462, -106.48765306122444, 29.37033898305087, 43.148979591836756, 72.98681818181821, 3.465930232558165, 47.235000000000014, -100.72029850746266, -507.7648903878583, -260.1255813953488, -81.33786982248519, -44.07947761194026, -49.41489795918365, -220.1904430379746, -37.34999999999995, 36.35956521739132, -41.357755102040784, 52.47773584905662, 72.12882352941179, -100.09581005586588, -435.3519291338583, 76.55600000000001, -81.508947368421, 4.9586585365854035, -39.202142857142846, -205.07982758620685, 1.8635365853658783, -90.13597560975606, -31.452611940298482, -86.46465517241377, -224.50852459016392, 54.9556756756757, 49.668780487804895, 76.53625000000002, -166.85421686746986, -76.72378048780483, 35.4614285714286, 81.04909090909092, 17.042222222222236, 81.87571428571431, 42.86500000000002, -512.824859967051, 32.85026315789477, -96.00952380952377, -91.38545454545451, -169.23400778210112, -49.47499999999998, 8.36078947368425, -36.25025423728809, -131.72671232876706, -8.33872093023254, -269.96279069767434, -28.186290322580618, -13.712142857142837, -710.6502298850573, 35.35606557377051, 43.51857142857145, -109.64842364532018, -49.98559999999996, -113.29688679245278, -629.0205923836388, -409.0566867469879, -77.70611111111108, 28.75894736842107, -118.79350710900472, 18.553571428571445, 24.049347826086972, -160.45119834710738, -6.122471910112338, -63.471764705882336, -82.9931578947368, -71.88999999999996, -363.64932166301963, -126.81999999999996, 15.949615384615413, -504.3676530612244, -38.84581081081079, -153.0285714285714, 48.053684210526335, 38.28558823529413, 51.40500000000003, -10.820517241379292, -29.030232558139488, -67.2872727272727, -104.98586956521736, -65.98232394366195, -274.87511049723753, 45.06426229508199, 19.73403225806453, -234.55437499999994, -27.14859504132228, -2.8480769230769027, 27.284473684210553, -140.2491071428571, -215.54539473684204, -195.86059440559436, 24.91582278481016, -485.4749999999999, -218.60657894736835, -276.74203296703297, -134.13590909090905, -459.6032014388488, -698.874329896907, -500.44122837370236, -306.9609375, -308.9749999999999, 13.527349397590385, -192.2102527075812, -205.29440677966096, -148.75356223175962, -245.3639940828402, -229.81736024844716, 30.87700000000003, -703.9241139240505, -86.68795454545452, -199.19540816326526, -189.4093728222996, -43.80395683453233, -276.0681147540983, -133.4715584415584, -10.434455445544529, -559.9781690140844, -347.4445890410958, -433.21032629558533, -133.07321428571424, -16.114545454545436, -184.57487364620937, -429.19272727272727, -121.76276699029123, -8.246483516483494, 9.205000000000013, -192.83485915492957, -186.75091240875906, -181.52072202166062, -495.09556338028165, -319.0854999999999, 4.022500000000022, 18.04470588235297, -429.0290909090909, -65.7813793103448, 33.30911764705884, -378.16199566160515, 31.737105263157915, -95.05452261306529, -663.9625675675675, -23.59499999999997, -6.174999999999969, 21.007272727272763], on average: -128.829
+Readability scores after: [-151.16913793103447, -115.60384615384613, 12.072941176470607, -60.74290322580643, -32.51214285714282, -53.101612903225785, -32.98964285714284, -234.4808832807571, -27.513124999999974, -660.5917408906881, -0.8912162162161934, -106.48765306122444, 29.37033898305087, 43.148979591836756, 3.465930232558165, 47.235000000000014, -100.72029850746266, -507.7648903878583, -260.1255813953488, -81.33786982248519, -44.07947761194026, -49.41489795918365, -220.1904430379746, -37.34999999999995, 36.35956521739132, -41.357755102040784, -100.09581005586588, -435.3519291338583, -81.508947368421, 4.9586585365854035, -39.202142857142846, -205.07982758620685, 1.8635365853658783, -90.13597560975606, -31.452611940298482, -86.46465517241377, -224.50852459016392, 49.668780487804895, -166.85421686746986, -76.72378048780483, 35.4614285714286, 17.042222222222236, 42.86500000000002, -512.824859967051, 32.85026315789477, -96.00952380952377, -91.38545454545451, -169.23400778210112, -49.47499999999998, 8.36078947368425, -36.25025423728809, -131.72671232876706, -8.33872093023254, -269.96279069767434, -28.186290322580618, -13.712142857142837, -710.6502298850573, 35.35606557377051, 43.51857142857145, -109.64842364532018, -49.98559999999996, -113.29688679245278, -629.0205923836388, -409.0566867469879, -77.70611111111108, 28.75894736842107, -118.79350710900472, 18.553571428571445, 24.049347826086972, -160.45119834710738, -6.122471910112338, -63.471764705882336, -82.9931578947368, -71.88999999999996, -363.64932166301963, -126.81999999999996, 15.949615384615413, -504.3676530612244, -38.84581081081079, -153.0285714285714, 48.053684210526335, 38.28558823529413, -10.820517241379292, -29.030232558139488, -67.2872727272727, -104.98586956521736, -65.98232394366195, -274.87511049723753, 45.06426229508199, 19.73403225806453, -234.55437499999994, -27.14859504132228, -2.8480769230769027, 27.284473684210553, -140.2491071428571, -215.54539473684204, -195.86059440559436, 24.91582278481016, -485.4749999999999, -218.60657894736835, -276.74203296703297, -134.13590909090905, -459.6032014388488, -698.874329896907, -500.44122837370236, -306.9609375, -308.9749999999999, 13.527349397590385, -192.2102527075812, -205.29440677966096, -148.75356223175962, -245.3639940828402, -229.81736024844716, 30.87700000000003, -703.9241139240505, -86.68795454545452, -199.19540816326526, -189.4093728222996, -43.80395683453233, -276.0681147540983, -133.4715584415584, -10.434455445544529, -559.9781690140844, -347.4445890410958, -433.21032629558533, -133.07321428571424, -16.114545454545436, -184.57487364620937, -429.19272727272727, -121.76276699029123, -8.246483516483494, 9.205000000000013, -192.83485915492957, -186.75091240875906, -181.52072202166062, -495.09556338028165, -319.0854999999999, 4.022500000000022, 18.04470588235297, -429.0290909090909, -65.7813793103448, 33.30911764705884, -378.16199566160515, 31.737105263157915, -95.05452261306529, -663.9625675675675, -23.59499999999997, -6.174999999999969, 21.007272727272763], on average after: -143.294
+Shape after:  (149, 8)
+
+
+Chosen product: 6303965415 has 160 reviews - False, it has 149 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 97.9866%
+
+	step 2
+
+		step 3
+		candidate index: 5 with core nodes: [0, 3, 5]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   5  reviewers said best austen adaption spot analy...     0.1802
+
+step 1
+index added: 6
+percentage unclustered: 97.9866%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 97.9866%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 97.9866%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 97.9866%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 97.9866%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 97.9866%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 97.9866%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 97.9866%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 97.9866%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 97.9866%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 95.9732%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [0, 3, 13]
+			old information: 38, gain: 0.990073145245559
+
+   ind                                             review  relevance
+0  16  found movie disjointed hard truly understand m...   0.296224
+1   5  reviewers said best austen adaption spot analy...   0.180200
+
+step 1
+index added: 17
+percentage unclustered: 95.9732%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 95.9732%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 95.30199999999999%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [0, 3, 13, 19]
+			old information: 87, gain: 0.9824242424242424
+
+   ind                                             review  relevance
+0  19  trying decide version persuasion buy search be...   0.362464
+1  16  found movie disjointed hard truly understand m...   0.296224
+2   5  reviewers said best austen adaption spot analy...   0.180200
+
+step 1
+index added: 20
+percentage unclustered: 95.30199999999999%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 95.30199999999999%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 95.30199999999999%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 95.30199999999999%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 95.30199999999999%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 95.30199999999999%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 95.30199999999999%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 95.30199999999999%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 95.9732%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [11, 12, 13, 19]
+
+step 1
+index added: 29
+percentage unclustered: 95.9732%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 93.2886%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [3, 19, 30]
+			old information: 156, gain: 0.9335038363171355
+
+   ind                                             review  relevance
+0  30  hands best adaptation jane austin s masterpiec...   0.407533
+1  19  trying decide version persuasion buy search be...   0.362464
+2  16  found movie disjointed hard truly understand m...   0.296224
+3   5  reviewers said best austen adaption spot analy...   0.180200
+
+step 1
+index added: 31
+percentage unclustered: 95.9732%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 97.9866%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 95.9732%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [13, 21, 33]
+			old information: 107, gain: 0.9796306872263468
+
+   ind                                             review  relevance
+0  30  hands best adaptation jane austin s masterpiec...   0.407533
+1  33  wanting use film adaptation austen s novel col...   0.378013
+2  19  trying decide version persuasion buy search be...   0.362464
+3  16  found movie disjointed hard truly understand m...   0.296224
+4   5  reviewers said best austen adaption spot analy...   0.180200
+
+step 1
+index added: 34
+percentage unclustered: 95.9732%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 92.6174%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [3, 11, 12, 13, 19, 21, 33]
+
+step 1
+index added: 36
+percentage unclustered: 91.94630000000001%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [3, 11, 12, 13, 21, 36]
+			old information: 351, gain: 0.9795989537925022
+
+   ind                                             review  relevance
+0  36  persuasion together northanger abbey posthumou...   0.478237
+1  30  hands best adaptation jane austin s masterpiec...   0.407533
+2  33  wanting use film adaptation austen s novel col...   0.378013
+3  19  trying decide version persuasion buy search be...   0.362464
+4  16  found movie disjointed hard truly understand m...   0.296224
+5   5  reviewers said best austen adaption spot analy...   0.180200
+
+step 1
+index added: 37
+percentage unclustered: 91.2752%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 91.2752%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 91.2752%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 91.2752%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 91.2752%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 91.2752%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 91.2752%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 91.2752%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 91.2752%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 91.2752%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 88.5906%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [0, 3, 12, 21, 31, 36, 47]
+			old information: 573, gain: 0.9393843224373215
+
+   ind                                             review  relevance
+0  47  m late bloomer comes pieces literature finally...   0.489247
+1  36  persuasion together northanger abbey posthumou...   0.478237
+2  30  hands best adaptation jane austin s masterpiec...   0.407533
+3  33  wanting use film adaptation austen s novel col...   0.378013
+4  19  trying decide version persuasion buy search be...   0.362464
+5  16  found movie disjointed hard truly understand m...   0.296224
+6   5  reviewers said best austen adaption spot analy...   0.180200
+
+step 1
+index added: 48
+percentage unclustered: 88.5906%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 88.5906%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 87.9195%
+
+	step 2
+
+		step 3
+		candidate index: 50 with core nodes: [0, 3, 31, 36, 47]
+			old information: 224, gain: 0.917067752684191
+
+   ind                                             review  relevance
+0  50  regret movie people n t seen s fairly faithful...   0.498077
+1  47  m late bloomer comes pieces literature finally...   0.489247
+2  36  persuasion together northanger abbey posthumou...   0.478237
+3  30  hands best adaptation jane austin s masterpiec...   0.407533
+4  33  wanting use film adaptation austen s novel col...   0.378013
+5  19  trying decide version persuasion buy search be...   0.362464
+6  16  found movie disjointed hard truly understand m...   0.296224
+7   5  reviewers said best austen adaption spot analy...   0.180200
+
+		step 3
+		candidate index: 50 with core nodes: [3, 12, 31, 47, 50]
+			old information: 1661, gain: 0.38504257682339876
+
+   ind                                             review  relevance
+0  50  regret movie people n t seen s fairly faithful...   0.586879
+1  50  regret movie people n t seen s fairly faithful...   0.498077
+2  47  m late bloomer comes pieces literature finally...   0.489247
+3  36  persuasion together northanger abbey posthumou...   0.478237
+4  30  hands best adaptation jane austin s masterpiec...   0.407533
+5  33  wanting use film adaptation austen s novel col...   0.378013
+6  19  trying decide version persuasion buy search be...   0.362464
+7  16  found movie disjointed hard truly understand m...   0.296224
+8   5  reviewers said best austen adaption spot analy...   0.180200
+
+step 1
+index added: 51
+percentage unclustered: 87.2483%
+
+	step 2
+
+		step 3
+		candidate index: 51 with core nodes: [0, 3, 31, 36, 47]
+
+		step 3
+		candidate index: 51 with core nodes: [3, 12, 31, 47, 50]
+
+step 1
+index added: 52
+percentage unclustered: 87.2483%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 85.2349%
+
+	step 2
+
+		step 3
+		candidate index: 53 with core nodes: [0, 3, 31, 36, 47]
+
+		step 3
+		candidate index: 53 with core nodes: [3, 12, 31, 47, 50]
+
+		step 3
+		candidate index: 53 with core nodes: [0, 12, 31, 36, 47, 50]
+
+step 1
+index added: 54
+percentage unclustered: 85.2349%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 85.2349%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 85.2349%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 85.2349%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 85.2349%
+
+	step 2
+
+		step 3
+		candidate index: 58 with core nodes: [3, 12, 31, 47, 50, 58]
+			old information: 78, gain: 0.8761904761904762
+
+   ind                                             review  relevance
+0  50  regret movie people n t seen s fairly faithful...   0.586879
+1  50  regret movie people n t seen s fairly faithful...   0.498077
+2  47  m late bloomer comes pieces literature finally...   0.489247
+3  36  persuasion together northanger abbey posthumou...   0.478237
+4  30  hands best adaptation jane austin s masterpiec...   0.407533
+5  33  wanting use film adaptation austen s novel col...   0.378013
+6  58  love jane austen persuasion best book n t tran...   0.363839
+7  19  trying decide version persuasion buy search be...   0.362464
+8  16  found movie disjointed hard truly understand m...   0.296224
+9   5  reviewers said best austen adaption spot analy...   0.180200
+
+step 1
+index added: 59
+percentage unclustered: 83.22149999999999%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 86.5772%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 86.5772%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 85.906%
+
+	step 2
+
+		step 3
+		candidate index: 62 with core nodes: [47, 50, 58, 62]
+			old information: 1970, gain: 0.9746835443037974
+
+    ind                                             review  relevance
+0   62  good company always worth seeking n n idea goo...   0.607924
+1   50  regret movie people n t seen s fairly faithful...   0.586879
+2   50  regret movie people n t seen s fairly faithful...   0.498077
+3   47  m late bloomer comes pieces literature finally...   0.489247
+4   36  persuasion together northanger abbey posthumou...   0.478237
+5   30  hands best adaptation jane austin s masterpiec...   0.407533
+6   33  wanting use film adaptation austen s novel col...   0.378013
+7   58  love jane austen persuasion best book n t tran...   0.363839
+8   19  trying decide version persuasion buy search be...   0.362464
+9   16  found movie disjointed hard truly understand m...   0.296224
+10   5  reviewers said best austen adaption spot analy...   0.180200
+
+step 1
+index added: 63
+percentage unclustered: 85.2349%
+
+	step 2
+
+		step 3
+		candidate index: 63 with core nodes: [47, 50, 58, 62]
+			old information: 1565, gain: 0.9613293797874969
+
+    ind                                             review  relevance
+0   63  love movie amanda root forgive saying plainer ...   0.613033
+1   62  good company always worth seeking n n idea goo...   0.607924
+2   50  regret movie people n t seen s fairly faithful...   0.586879
+3   50  regret movie people n t seen s fairly faithful...   0.498077
+4   47  m late bloomer comes pieces literature finally...   0.489247
+5   36  persuasion together northanger abbey posthumou...   0.478237
+6   30  hands best adaptation jane austin s masterpiec...   0.407533
+7   33  wanting use film adaptation austen s novel col...   0.378013
+8   58  love jane austen persuasion best book n t tran...   0.363839
+9   19  trying decide version persuasion buy search be...   0.362464
+10  16  found movie disjointed hard truly understand m...   0.296224
+11   5  reviewers said best austen adaption spot analy...   0.180200
+
+step 1
+index added: 64
+percentage unclustered: 85.2349%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 84.5638%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 84.5638%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 84.5638%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 83.8926%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 83.8926%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 83.22149999999999%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 83.22149999999999%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 82.5503%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 82.5503%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 82.5503%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 82.5503%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 82.5503%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 82.5503%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 82.5503%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 82.5503%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 82.5503%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 82.5503%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 82.5503%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 82.5503%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 82.5503%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 79.86580000000001%
+
+	step 2
+
+		step 3
+		candidate index: 85 with core nodes: [47, 50, 58, 62]
+
+step 1
+index added: 86
+percentage unclustered: 79.19460000000001%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 79.19460000000001%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 79.19460000000001%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 79.19460000000001%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 79.19460000000001%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 79.19460000000001%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 79.19460000000001%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 79.19460000000001%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 81.8792%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 81.8792%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 81.8792%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 81.8792%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 81.8792%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 81.2081%
+
+	step 2
+
+		step 3
+		candidate index: 99 with core nodes: [31, 36, 99]
+			old information: 1522, gain: 0.8861289839892263
+
+    ind                                             review  relevance
+0   63  love movie amanda root forgive saying plainer ...   0.613033
+1   62  good company always worth seeking n n idea goo...   0.607924
+2   50  regret movie people n t seen s fairly faithful...   0.586879
+3   99  thoroughly enjoyed adaptation jane austen s pe...   0.529513
+4   50  regret movie people n t seen s fairly faithful...   0.498077
+5   47  m late bloomer comes pieces literature finally...   0.489247
+6   36  persuasion together northanger abbey posthumou...   0.478237
+7   30  hands best adaptation jane austin s masterpiec...   0.407533
+8   33  wanting use film adaptation austen s novel col...   0.378013
+9   58  love jane austen persuasion best book n t tran...   0.363839
+10  19  trying decide version persuasion buy search be...   0.362464
+11  16  found movie disjointed hard truly understand m...   0.296224
+12   5  reviewers said best austen adaption spot analy...   0.180200
+
+step 1
+index added: 100
+percentage unclustered: 81.2081%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 81.2081%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 81.2081%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 79.19460000000001%
+
+	step 2
+
+		step 3
+		candidate index: 103 with core nodes: [31, 56, 63, 99, 103]
+			old information: 4360, gain: 0.9506843117294423
+
+     ind                                             review  relevance
+0    63  love movie amanda root forgive saying plainer ...   0.613033
+1    62  good company always worth seeking n n idea goo...   0.607924
+2   103  persuasion film faithful adaptation jane auste...   0.590978
+3    50  regret movie people n t seen s fairly faithful...   0.586879
+4    99  thoroughly enjoyed adaptation jane austen s pe...   0.529513
+5    50  regret movie people n t seen s fairly faithful...   0.498077
+6    47  m late bloomer comes pieces literature finally...   0.489247
+7    36  persuasion together northanger abbey posthumou...   0.478237
+8    30  hands best adaptation jane austin s masterpiec...   0.407533
+9    33  wanting use film adaptation austen s novel col...   0.378013
+10   58  love jane austen persuasion best book n t tran...   0.363839
+11   19  trying decide version persuasion buy search be...   0.362464
+12   16  found movie disjointed hard truly understand m...   0.296224
+13    5  reviewers said best austen adaption spot analy...   0.180200
+
+step 1
+index added: 104
+percentage unclustered: 79.19460000000001%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 79.19460000000001%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 79.19460000000001%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 79.19460000000001%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 79.19460000000001%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 79.19460000000001%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 78.5235%
+
+	step 2
+
+		step 3
+		candidate index: 110 with core nodes: [31, 56, 63, 99, 103, 110]
+			old information: 913, gain: 0.8742424242424243
+
+     ind                                             review  relevance
+0    63  love movie amanda root forgive saying plainer ...   0.613033
+1    62  good company always worth seeking n n idea goo...   0.607924
+2   103  persuasion film faithful adaptation jane auste...   0.590978
+3    50  regret movie people n t seen s fairly faithful...   0.586879
+4   110  lifelong admirer jane austen s novels one also...   0.585477
+5    99  thoroughly enjoyed adaptation jane austen s pe...   0.529513
+6    50  regret movie people n t seen s fairly faithful...   0.498077
+7    47  m late bloomer comes pieces literature finally...   0.489247
+8    36  persuasion together northanger abbey posthumou...   0.478237
+9    30  hands best adaptation jane austin s masterpiec...   0.407533
+10   33  wanting use film adaptation austen s novel col...   0.378013
+11   58  love jane austen persuasion best book n t tran...   0.363839
+12   19  trying decide version persuasion buy search be...   0.362464
+13   16  found movie disjointed hard truly understand m...   0.296224
+14    5  reviewers said best austen adaption spot analy...   0.180200
+
+step 1
+index added: 111
+percentage unclustered: 78.5235%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 78.5235%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 80.5369%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 80.5369%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 81.2081%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 77.1812%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 75.1678%
+
+	step 2
+
+		step 3
+		candidate index: 117 with core nodes: [56, 63, 99, 103]
+			old information: 1475, gain: 0.860651865847898
+
+     ind                                             review  relevance
+0    63  love movie amanda root forgive saying plainer ...   0.613033
+1    62  good company always worth seeking n n idea goo...   0.607924
+2   103  persuasion film faithful adaptation jane auste...   0.590978
+3    50  regret movie people n t seen s fairly faithful...   0.586879
+4   110  lifelong admirer jane austen s novels one also...   0.585477
+5   117  even persuasion first came watched three times...   0.537906
+6    99  thoroughly enjoyed adaptation jane austen s pe...   0.529513
+7    50  regret movie people n t seen s fairly faithful...   0.498077
+8    47  m late bloomer comes pieces literature finally...   0.489247
+9    36  persuasion together northanger abbey posthumou...   0.478237
+10   30  hands best adaptation jane austin s masterpiec...   0.407533
+11   33  wanting use film adaptation austen s novel col...   0.378013
+12   58  love jane austen persuasion best book n t tran...   0.363839
+13   19  trying decide version persuasion buy search be...   0.362464
+14   16  found movie disjointed hard truly understand m...   0.296224
+15    5  reviewers said best austen adaption spot analy...   0.180200
+
+step 1
+index added: 118
+percentage unclustered: 75.1678%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 75.1678%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 75.1678%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 75.1678%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 75.1678%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 75.1678%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 75.1678%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 73.1544%
+
+	step 2
+
+		step 3
+		candidate index: 125 with core nodes: [56, 63, 99, 103]
+
+step 1
+index added: 126
+percentage unclustered: 69.7987%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 69.7987%
+
+	step 2
+
+step 1
+index added: 128
+percentage unclustered: 69.7987%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 69.7987%
+
+	step 2
+
+step 1
+index added: 130
+percentage unclustered: 69.1275%
+
+	step 2
+
+step 1
+index added: 131
+percentage unclustered: 69.1275%
+
+	step 2
+
+step 1
+index added: 132
+percentage unclustered: 68.4564%
+
+	step 2
+
+		step 3
+		candidate index: 132 with core nodes: [56, 63, 103]
+
+step 1
+index added: 133
+percentage unclustered: 68.4564%
+
+	step 2
+
+step 1
+index added: 134
+percentage unclustered: 67.7852%
+
+	step 2
+
+step 1
+index added: 135
+percentage unclustered: 67.7852%
+
+	step 2
+
+step 1
+index added: 136
+percentage unclustered: 68.4564%
+
+	step 2
+
+step 1
+index added: 137
+percentage unclustered: 68.4564%
+
+	step 2
+
+step 1
+index added: 138
+percentage unclustered: 67.7852%
+
+	step 2
+
+step 1
+index added: 139
+percentage unclustered: 67.7852%
+
+	step 2
+
+step 1
+index added: 140
+percentage unclustered: 67.7852%
+
+	step 2
+
+step 1
+index added: 141
+percentage unclustered: 67.7852%
+
+	step 2
+
+step 1
+index added: 142
+percentage unclustered: 67.11410000000001%
+
+	step 2
+
+		step 3
+		candidate index: 142 with core nodes: [56, 63, 103]
+
+step 1
+index added: 143
+percentage unclustered: 66.443%
+
+	step 2
+
+step 1
+index added: 144
+percentage unclustered: 66.443%
+
+	step 2
+
+step 1
+index added: 145
+percentage unclustered: 65.7718%
+
+	step 2
+
+		step 3
+		candidate index: 145 with core nodes: [56, 63, 103, 145]
+			old information: 3211, gain: 0.9651867512332628
+
+     ind                                             review  relevance
+0    63  love movie amanda root forgive saying plainer ...   0.613033
+1    62  good company always worth seeking n n idea goo...   0.607924
+2   103  persuasion film faithful adaptation jane auste...   0.590978
+3    50  regret movie people n t seen s fairly faithful...   0.586879
+4   110  lifelong admirer jane austen s novels one also...   0.585477
+5   145  like jane austin s style romance character dev...   0.540348
+6   117  even persuasion first came watched three times...   0.537906
+7    99  thoroughly enjoyed adaptation jane austen s pe...   0.529513
+8    50  regret movie people n t seen s fairly faithful...   0.498077
+9    47  m late bloomer comes pieces literature finally...   0.489247
+10   36  persuasion together northanger abbey posthumou...   0.478237
+11   30  hands best adaptation jane austin s masterpiec...   0.407533
+12   33  wanting use film adaptation austen s novel col...   0.378013
+13   58  love jane austen persuasion best book n t tran...   0.363839
+14   19  trying decide version persuasion buy search be...   0.362464
+15   16  found movie disjointed hard truly understand m...   0.296224
+16    5  reviewers said best austen adaption spot analy...   0.180200
+
+step 1
+index added: 146
+percentage unclustered: 65.7718%
+
+	step 2
+
+step 1
+index added: 147
+percentage unclustered: 65.1007%
+
+	step 2
+
+step 1
+index added: 148
+percentage unclustered: 63.0872%
+
+	step 2
+
+--- 507.285386800766 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 97.9866, 97.9866, 97.9866, 97.9866, 97.9866, 97.9866, 97.9866, 97.9866, 97.9866, 97.9866, 97.9866, 95.9732, 95.9732, 95.9732, 95.30199999999999, 95.30199999999999, 95.30199999999999, 95.30199999999999, 95.30199999999999, 95.30199999999999, 95.30199999999999, 95.30199999999999, 95.30199999999999, 95.9732, 95.9732, 93.2886, 95.9732, 97.9866, 95.9732, 95.9732, 92.6174, 91.94630000000001, 91.2752, 91.2752, 91.2752, 91.2752, 91.2752, 91.2752, 91.2752, 91.2752, 91.2752, 91.2752, 88.5906, 88.5906, 88.5906, 87.9195, 87.2483, 87.2483, 85.2349, 85.2349, 85.2349, 85.2349, 85.2349, 85.2349, 83.22149999999999, 86.5772, 86.5772, 85.906, 85.2349, 85.2349, 84.5638, 84.5638, 84.5638, 83.8926, 83.8926, 83.22149999999999, 83.22149999999999, 82.5503, 82.5503, 82.5503, 82.5503, 82.5503, 82.5503, 82.5503, 82.5503, 82.5503, 82.5503, 82.5503, 82.5503, 82.5503, 79.86580000000001, 79.19460000000001, 79.19460000000001, 79.19460000000001, 79.19460000000001, 79.19460000000001, 79.19460000000001, 79.19460000000001, 79.19460000000001, 81.8792, 81.8792, 81.8792, 81.8792, 81.8792, 81.2081, 81.2081, 81.2081, 81.2081, 79.19460000000001, 79.19460000000001, 79.19460000000001, 79.19460000000001, 79.19460000000001, 79.19460000000001, 79.19460000000001, 78.5235, 78.5235, 78.5235, 80.5369, 80.5369, 81.2081, 77.1812, 75.1678, 75.1678, 75.1678, 75.1678, 75.1678, 75.1678, 75.1678, 75.1678, 73.1544, 69.7987, 69.7987, 69.7987, 69.7987, 69.1275, 69.1275, 68.4564, 68.4564, 67.7852, 67.7852, 68.4564, 68.4564, 67.7852, 67.7852, 67.7852, 67.7852, 67.11410000000001, 66.443, 66.443, 65.7718, 65.7718, 65.1007, 63.0872], mean: 83.6369
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0        43   63   0.613033  love movie amanda root forgive saying plainer ...
+1       136   62   0.607924  good company always worth seeking n n idea goo...
+2        26  103   0.590978  persuasion film faithful adaptation jane auste...
+3       102   50   0.586879  regret movie people n t seen s fairly faithful...
+4        17  110   0.585477  lifelong admirer jane austen s novels one also...
+5        27  145   0.540348  like jane austin s style romance character dev...
+6       111  117   0.537906  even persuasion first came watched three times...
+7        19   99   0.529513  thoroughly enjoyed adaptation jane austen s pe...
+8       102   50   0.498077  regret movie people n t seen s fairly faithful...
+9        48   47   0.489247  m late bloomer comes pieces literature finally...
+10       34   36   0.478237  persuasion together northanger abbey posthumou...
+11      122   30   0.407533  hands best adaptation jane austin s masterpiec...
+12      124   33   0.378013  wanting use film adaptation austen s novel col...
+13      108   58   0.363839  love jane austen persuasion best book n t tran...
+14       97   19   0.362464  trying decide version persuasion buy search be...
+15       89   16   0.296224  found movie disjointed hard truly understand m...
+16        5    5   0.180200  reviewers said best austen adaption spot analy...
