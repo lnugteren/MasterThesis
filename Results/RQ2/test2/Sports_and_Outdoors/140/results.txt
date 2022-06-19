@@ -1,0 +1,538 @@
+------- Category: Sports_and_Outdoors -------
+Found asin_id: B00AE1TWE0
+Shape:  (143, 7)
+Shape after:  (143, 7)
+
+
+Chosen product: B00AE1TWE0 has 143 reviews - False, it has 140 reviews
+
+Removed indexes: [0, 4, 9, 11, 12, 13, 17, 21, 22, 23, 24, 27, 28, 33, 35, 36, 37, 44, 46, 47, 50, 51, 55, 59, 61, 62, 63, 65, 66, 74, 82, 84, 85, 89, 91, 94, 98, 102, 103, 104, 105, 107, 110, 115, 120, 127, 133, 134, 135]
+New length of reviews: 91
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 96.7033%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 96.7033%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 96.7033%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 96.7033%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 96.7033%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 93.4066%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 92.3077%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 91.2088%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 91.2088%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 90.1099%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 90.1099%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 90.1099%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 90.1099%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 90.1099%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 90.1099%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 90.1099%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 90.1099%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 87.9121%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 87.9121%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 87.9121%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 89.011%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 87.9121%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 87.9121%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 84.6154%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 87.9121%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 87.9121%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 87.9121%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 87.9121%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 84.6154%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 81.3187%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 78.02199999999999%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 78.02199999999999%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 78.02199999999999%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 78.02199999999999%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 78.02199999999999%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 76.9231%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 75.8242%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 75.8242%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 75.8242%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 75.8242%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 75.8242%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 74.7253%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 74.7253%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 73.6264%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 73.6264%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 73.6264%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 72.5275%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 68.1319%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 68.1319%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 72.5275%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 76.9231%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 76.9231%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 76.9231%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 73.6264%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 73.6264%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 73.6264%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 73.6264%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 73.6264%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 73.6264%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 73.6264%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 73.6264%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 73.6264%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 71.4286%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 71.4286%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 67.033%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 67.033%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 67.033%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 65.9341%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 65.9341%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 64.8352%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 63.7363%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 62.6374%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 61.5385%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 61.5385%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 60.4396%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 60.4396%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 60.4396%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 56.044%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 56.044%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 56.044%
+
+	step 2
+
+--- 27.292049169540405 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 96.7033, 96.7033, 96.7033, 96.7033, 96.7033, 93.4066, 92.3077, 91.2088, 91.2088, 90.1099, 90.1099, 90.1099, 90.1099, 90.1099, 90.1099, 90.1099, 90.1099, 87.9121, 87.9121, 87.9121, 89.011, 87.9121, 87.9121, 84.6154, 87.9121, 87.9121, 87.9121, 87.9121, 84.6154, 81.3187, 78.02199999999999, 78.02199999999999, 78.02199999999999, 78.02199999999999, 78.02199999999999, 76.9231, 75.8242, 75.8242, 75.8242, 75.8242, 75.8242, 74.7253, 74.7253, 73.6264, 73.6264, 73.6264, 72.5275, 68.1319, 68.1319, 72.5275, 76.9231, 76.9231, 76.9231, 73.6264, 73.6264, 73.6264, 73.6264, 73.6264, 73.6264, 73.6264, 73.6264, 73.6264, 71.4286, 71.4286, 67.033, 67.033, 67.033, 65.9341, 65.9341, 64.8352, 63.7363, 62.6374, 61.5385, 61.5385, 60.4396, 60.4396, 60.4396, 56.044, 56.044, 56.044], mean: 80.1581
+
+Final Ranking:
+Empty DataFrame
+Columns: [ranking, ind, relevance, review]
+Index: []

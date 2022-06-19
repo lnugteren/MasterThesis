@@ -1,0 +1,328 @@
+------- Category: Sports_and_Outdoors -------
+Found asin_id: B000EHWWJQ
+Shape:  (60, 7)
+Shape after:  (60, 7)
+
+
+Chosen product: B000EHWWJQ has 60 reviews - True, it has 60 reviews
+
+Removed indexes: [7, 8, 13, 14, 16, 26, 27, 33, 34, 36, 37, 43, 54]
+New length of reviews: 47
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 93.617%
+
+	step 2
+
+		step 3
+		candidate index: 3 with core nodes: [0, 2, 3]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   3  owned knife close 40 years ago really sacrific...   0.312378
+
+step 1
+index added: 4
+percentage unclustered: 91.4894%
+
+	step 2
+
+		step 3
+		candidate index: 4 with core nodes: [0, 2, 3, 4]
+			old information: 2, gain: 0.9852941176470589
+
+   ind                                             review  relevance
+0   3  owned knife close 40 years ago really sacrific...   0.312378
+1   4  bought need sharp knife use opening packages g...   0.311805
+
+step 1
+index added: 5
+percentage unclustered: 89.3617%
+
+	step 2
+
+		step 3
+		candidate index: 5 with core nodes: [0, 2, 3, 4, 5]
+			old information: 13, gain: 0.9874396135265701
+
+   ind                                             review  relevance
+0   3  owned knife close 40 years ago really sacrific...   0.312378
+1   4  bought need sharp knife use opening packages g...   0.311805
+2   5  particular buck knife going 15 years never fai...   0.252559
+
+step 1
+index added: 6
+percentage unclustered: 87.234%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [0, 2, 3, 4, 6]
+			old information: 27, gain: 0.9615931721194879
+
+   ind                                             review  relevance
+0   6  knife excellent quality sharpened correctly bl...   0.376589
+1   3  owned knife close 40 years ago really sacrific...   0.312378
+2   4  bought need sharp knife use opening packages g...   0.311805
+3   5  particular buck knife going 15 years never fai...   0.252559
+
+step 1
+index added: 7
+percentage unclustered: 87.234%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 85.10640000000001%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 82.9787%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 82.9787%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 82.9787%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 80.8511%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 80.8511%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 80.8511%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 80.8511%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 80.8511%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 80.8511%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 80.8511%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 74.46809999999999%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 72.3404%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 72.3404%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 72.3404%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 70.2128%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 68.0851%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 68.0851%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 68.0851%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 65.9574%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 63.8298%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 61.7021%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 61.7021%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 59.5745%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 59.5745%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 57.4468%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 57.4468%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 57.4468%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 57.4468%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 57.4468%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 57.4468%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 57.4468%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 55.3191%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 55.3191%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 48.9362%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 48.9362%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 46.8085%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 46.8085%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 51.0638%
+
+	step 2
+
+--- 4.180296182632446 seconds ---
+
+
+ Unclustered percentages: [100.0, 93.617, 91.4894, 89.3617, 87.234, 87.234, 85.10640000000001, 82.9787, 82.9787, 82.9787, 80.8511, 80.8511, 80.8511, 80.8511, 80.8511, 80.8511, 80.8511, 74.46809999999999, 72.3404, 72.3404, 72.3404, 70.2128, 68.0851, 68.0851, 68.0851, 65.9574, 63.8298, 61.7021, 61.7021, 59.5745, 59.5745, 57.4468, 57.4468, 57.4468, 57.4468, 57.4468, 57.4468, 57.4468, 55.3191, 55.3191, 48.9362, 48.9362, 46.8085, 46.8085, 51.0638], mean: 69.8345
+
+Final Ranking:
+   ranking  ...                                             review
+0       28  ...  knife excellent quality sharpened correctly bl...
+1       16  ...  owned knife close 40 years ago really sacrific...
+2       60  ...  bought need sharp knife use opening packages g...
+3       12  ...  particular buck knife going 15 years never fai...
+
+[4 rows x 4 columns]
