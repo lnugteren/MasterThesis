@@ -1,0 +1,82 @@
+------- Category: Home_and_Kitchen -------
+Found asin_id: B00004OCNR
+Shape:  (20, 7)
+Shape after:  (20, 7)
+
+
+Chosen product: B00004OCNR has 20 reviews - True, it has 20 reviews
+
+Removed indexes: [0, 1, 5, 10, 12, 15, 17, 18]
+New length of reviews: 12
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 3
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 4
+percentage unclustered: 58.3333%
+
+	step 2
+
+step 1
+index added: 5
+percentage unclustered: 58.3333%
+
+	step 2
+
+step 1
+index added: 6
+percentage unclustered: 58.3333%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 41.6667%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 41.6667%
+
+	step 2
+
+--- 0.1517019271850586 seconds ---
+
+
+ Unclustered percentages: [75.0, 66.66669999999999, 58.3333, 58.3333, 58.3333, 50.0, 50.0, 50.0, 41.6667, 41.6667], mean: 55.0
+
+Final Ranking:
+Empty DataFrame
+Columns: [ranking, ind, relevance, review]
+Index: []

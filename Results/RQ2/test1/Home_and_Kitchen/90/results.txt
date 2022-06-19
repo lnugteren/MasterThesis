@@ -1,0 +1,130 @@
+------- Category: Home_and_Kitchen -------
+Found asin_id: B000063XH7
+Shape:  (90, 7)
+Shape after:  (90, 7)
+
+
+Chosen product: B000063XH7 has 90 reviews - True, it has 90 reviews
+
+Removed indexes: [0, 1, 2, 3, 5, 6, 7, 8, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 39, 40, 41, 42, 43, 45, 46, 53, 54, 55, 56, 59, 60, 61, 62, 63, 64, 65, 68, 69, 70, 72, 75, 79, 80, 81, 82, 83, 84, 85, 86, 87, 89]
+New length of reviews: 23
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 86.9565%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 86.9565%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 86.9565%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 86.9565%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 82.6087%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 69.5652%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 69.5652%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 65.2174%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 60.8696%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 56.5217%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 43.4783%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 43.4783%
+
+	step 2
+
+--- 0.4719204902648926 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 86.9565, 86.9565, 86.9565, 86.9565, 82.6087, 69.5652, 69.5652, 65.2174, 60.8696, 56.5217, 43.4783, 43.4783], mean: 82.8157
+
+Final Ranking:
+Empty DataFrame
+Columns: [ranking, ind, relevance, review]
+Index: []

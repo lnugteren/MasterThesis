@@ -1,0 +1,238 @@
+------- Category: Electronics -------
+Found asin_id: B000TEVQVO
+Shape:  (90, 7)
+Shape after:  (90, 7)
+
+
+Chosen product: B000TEVQVO has 90 reviews - True, it has 90 reviews
+
+Removed indexes: [0, 2, 3, 6, 9, 10, 11, 12, 13, 14, 18, 21, 22, 26, 27, 32, 33, 37, 38, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 59, 60, 61, 63, 64, 66, 67, 70, 71, 72, 74, 80, 81, 83, 84, 85, 86, 87, 88, 89]
+New length of reviews: 40
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 57.5%
+
+	step 2
+
+--- 2.2422735691070557 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 92.5, 92.5, 92.5, 92.5, 92.5, 92.5, 92.5, 92.5, 90.0, 90.0, 82.5, 82.5, 82.5, 85.0, 82.5, 82.5, 82.5, 75.0, 75.0, 75.0, 82.5, 82.5, 80.0, 67.5, 67.5, 65.0, 65.0, 67.5, 67.5, 60.0, 60.0, 57.5], mean: 82.8289
+
+Final Ranking:
+Empty DataFrame
+Columns: [ranking, ind, relevance, review]
+Index: []
