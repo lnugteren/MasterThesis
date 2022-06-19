@@ -1,0 +1,971 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 6302548748
+Shape:  (110, 7)
+
+
+Chosen product: 6302548748 has 110 reviews - True, it has 110 reviews
+Duplicate reviewers?:  106    APYCNRS112N2B
+Name: reviewerID, dtype: object
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 97.2727%
+
+	step 2
+
+		step 3
+		candidate index: 3 with core nodes: [1, 2, 3]
+		The relevance model has size: 2
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 2
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   3  really love movie s one favorite civil war mov...   0.330167
+
+step 1
+index added: 4
+percentage unclustered: 97.2727%
+
+	step 2
+
+step 1
+index added: 5
+percentage unclustered: 97.2727%
+
+	step 2
+
+step 1
+index added: 6
+percentage unclustered: 96.3636%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [1, 2, 3, 6]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [1, 3]. 
+		It now has size: 1
+			old information: 107, gain: 0.9995282207750407
+
+   ind                                             review  relevance
+0   6  saw gettysburg first time 8 years ago rental d...   0.337094
+1   3  really love movie s one favorite civil war mov...   0.330167
+
+step 1
+index added: 7
+percentage unclustered: 96.3636%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 96.3636%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 96.3636%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 96.3636%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 96.3636%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 96.3636%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 96.3636%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 96.3636%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 93.6364%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [1, 2, 3, 6]
+
+step 1
+index added: 16
+percentage unclustered: 92.7273%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [10, 15, 16]
+		The relevance model has size: 4
+		1 reviews removed from the relevance model, indices: [2]. 
+		It now has size: 3
+			old information: 46, gain: 0.8866995073891626
+
+   ind                                             review  relevance
+0   6  saw gettysburg first time 8 years ago rental d...   0.337094
+1   3  really love movie s one favorite civil war mov...   0.330167
+2  16  one favorite films time finally wonderful copy...   0.233496
+
+step 1
+index added: 17
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 90.9091%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [1, 2, 6, 30]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [1, 6, 15]. 
+		It now has size: 3
+			old information: 506, gain: 0.9155963302752294
+
+   ind                                             review  relevance
+0   6  saw gettysburg first time 8 years ago rental d...   0.337094
+1   3  really love movie s one favorite civil war mov...   0.330167
+2  30  1993 movie based michael shaara s book killer ...   0.275042
+3  16  one favorite films time finally wonderful copy...   0.233496
+
+step 1
+index added: 31
+percentage unclustered: 90.9091%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 88.1818%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [6, 27, 30, 32]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [2, 6, 10]. 
+		It now has size: 3
+			old information: 1435, gain: 0.9109248913718188
+
+   ind                                             review  relevance
+0  32  four hours plus one longest movies well made w...   0.475106
+1   6  saw gettysburg first time 8 years ago rental d...   0.337094
+2   3  really love movie s one favorite civil war mov...   0.330167
+3  30  1993 movie based michael shaara s book killer ...   0.275042
+4  16  one favorite films time finally wonderful copy...   0.233496
+
+step 1
+index added: 33
+percentage unclustered: 88.1818%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 91.8182%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [15, 17, 20, 27, 32, 34]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [15, 16, 20, 27]. 
+		It now has size: 3
+			old information: 2216, gain: 0.9336745383257011
+
+   ind                                             review  relevance
+0  34  recommend movie deserves four stars n ni one t...   0.574833
+1  32  four hours plus one longest movies well made w...   0.475106
+2   6  saw gettysburg first time 8 years ago rental d...   0.337094
+3   3  really love movie s one favorite civil war mov...   0.330167
+4  30  1993 movie based michael shaara s book killer ...   0.275042
+5  16  one favorite films time finally wonderful copy...   0.233496
+
+step 1
+index added: 35
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 90.9091%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [27, 32, 34, 36]
+		The relevance model has size: 5
+		2 reviews removed from the relevance model, indices: [17, 27]. 
+		It now has size: 3
+			old information: 4368, gain: 0.953726362625139
+
+   ind                                             review  relevance
+0  34  recommend movie deserves four stars n ni one t...   0.574833
+1  36  gettysburg excellent film well acted excellent...   0.533743
+2  32  four hours plus one longest movies well made w...   0.475106
+3   6  saw gettysburg first time 8 years ago rental d...   0.337094
+4   3  really love movie s one favorite civil war mov...   0.330167
+5  30  1993 movie based michael shaara s book killer ...   0.275042
+6  16  one favorite films time finally wonderful copy...   0.233496
+
+step 1
+index added: 37
+percentage unclustered: 90.9091%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 90.9091%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 39 with core nodes: [27, 32, 36, 39]
+		The relevance model has size: 5
+		1 reviews removed from the relevance model, indices: [27]. 
+		It now has size: 4
+			old information: 3103, gain: 0.9343669359956005
+
+   ind                                             review  relevance
+0  34  recommend movie deserves four stars n ni one t...   0.574833
+1  39  based late author michael shaara s pulitzer pr...   0.555812
+2  36  gettysburg excellent film well acted excellent...   0.533743
+3  32  four hours plus one longest movies well made w...   0.475106
+4   6  saw gettysburg first time 8 years ago rental d...   0.337094
+5   3  really love movie s one favorite civil war mov...   0.330167
+6  30  1993 movie based michael shaara s book killer ...   0.275042
+7  16  one favorite films time finally wonderful copy...   0.233496
+
+step 1
+index added: 40
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 79.0909%
+
+	step 2
+
+		step 3
+		candidate index: 42 with core nodes: [30, 32, 34, 36]
+
+		step 3
+		candidate index: 42 with core nodes: [26, 27, 32, 34, 36, 39]
+
+		step 3
+		candidate index: 42 with core nodes: [26, 27, 30, 34, 36, 39]
+
+step 1
+index added: 43
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 78.1818%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [26, 27, 30, 32, 34, 36, 39, 46]
+		The relevance model has size: 7
+		3 reviews removed from the relevance model, indices: [26, 30, 34]. 
+		It now has size: 4
+			old information: 1475, gain: 0.8868951767502492
+
+   ind                                             review  relevance
+0  34  recommend movie deserves four stars n ni one t...   0.574833
+1  39  based late author michael shaara s pulitzer pr...   0.555812
+2  36  gettysburg excellent film well acted excellent...   0.533743
+3  46  gettysburg excellent movie revolving around ci...   0.490675
+4  32  four hours plus one longest movies well made w...   0.475106
+5   6  saw gettysburg first time 8 years ago rental d...   0.337094
+6   3  really love movie s one favorite civil war mov...   0.330167
+7  30  1993 movie based michael shaara s book killer ...   0.275042
+8  16  one favorite films time finally wonderful copy...   0.233496
+
+step 1
+index added: 47
+percentage unclustered: 75.4545%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [15, 20, 47]
+		The relevance model has size: 7
+		3 reviews removed from the relevance model, indices: [15, 27, 32]. 
+		It now has size: 4
+			old information: 4164, gain: 0.9383366899656439
+
+   ind                                             review  relevance
+0  34  recommend movie deserves four stars n ni one t...   0.574833
+1  39  based late author michael shaara s pulitzer pr...   0.555812
+2  36  gettysburg excellent film well acted excellent...   0.533743
+3  46  gettysburg excellent movie revolving around ci...   0.490675
+4  32  four hours plus one longest movies well made w...   0.475106
+5  47  hard session exams wanted grab film would pull...   0.428539
+6   6  saw gettysburg first time 8 years ago rental d...   0.337094
+7   3  really love movie s one favorite civil war mov...   0.330167
+8  30  1993 movie based michael shaara s book killer ...   0.275042
+9  16  one favorite films time finally wonderful copy...   0.233496
+
+step 1
+index added: 48
+percentage unclustered: 74.5455%
+
+	step 2
+
+		step 3
+		candidate index: 48 with core nodes: [26, 27, 30, 32, 34, 36, 39, 46]
+
+step 1
+index added: 49
+percentage unclustered: 73.6364%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [26, 27, 30, 32, 34, 36, 39, 46]
+
+step 1
+index added: 50
+percentage unclustered: 73.6364%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 73.6364%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 73.6364%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 72.7273%
+
+	step 2
+
+		step 3
+		candidate index: 53 with core nodes: [26, 27, 30, 32, 34, 36, 39, 46, 53]
+		The relevance model has size: 10
+		5 reviews removed from the relevance model, indices: [20, 26, 30, 34, 36]. 
+		It now has size: 5
+			old information: 2271, gain: 0.8811616954474097
+
+    ind                                             review  relevance
+0   34  recommend movie deserves four stars n ni one t...   0.574833
+1   39  based late author michael shaara s pulitzer pr...   0.555812
+2   53  watched gettysburg four times gone back reread...   0.552039
+3   36  gettysburg excellent film well acted excellent...   0.533743
+4   46  gettysburg excellent movie revolving around ci...   0.490675
+5   32  four hours plus one longest movies well made w...   0.475106
+6   47  hard session exams wanted grab film would pull...   0.428539
+7    6  saw gettysburg first time 8 years ago rental d...   0.337094
+8    3  really love movie s one favorite civil war mov...   0.330167
+9   30  1993 movie based michael shaara s book killer ...   0.275042
+10  16  one favorite films time finally wonderful copy...   0.233496
+
+step 1
+index added: 54
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 76.3636%
+
+	step 2
+
+		step 3
+		candidate index: 60 with core nodes: [15, 20, 47]
+
+step 1
+index added: 61
+percentage unclustered: 76.3636%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 75.4545%
+
+	step 2
+
+		step 3
+		candidate index: 62 with core nodes: [27, 30, 36, 39, 46, 62]
+		The relevance model has size: 8
+		4 reviews removed from the relevance model, indices: [30, 32, 39, 47]. 
+		It now has size: 4
+			old information: 8804, gain: 0.9443499807209724
+
+    ind                                             review  relevance
+0   62  gettysburg perhaps best attempt film capture s...   0.581612
+1   34  recommend movie deserves four stars n ni one t...   0.574833
+2   39  based late author michael shaara s pulitzer pr...   0.555812
+3   53  watched gettysburg four times gone back reread...   0.552039
+4   36  gettysburg excellent film well acted excellent...   0.533743
+5   46  gettysburg excellent movie revolving around ci...   0.490675
+6   32  four hours plus one longest movies well made w...   0.475106
+7   47  hard session exams wanted grab film would pull...   0.428539
+8    6  saw gettysburg first time 8 years ago rental d...   0.337094
+9    3  really love movie s one favorite civil war mov...   0.330167
+10  30  1993 movie based michael shaara s book killer ...   0.275042
+11  16  one favorite films time finally wonderful copy...   0.233496
+
+step 1
+index added: 63
+percentage unclustered: 75.4545%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 75.4545%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 75.4545%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 75.4545%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 75.4545%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 74.5455%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 71.8182%
+
+	step 2
+
+		step 3
+		candidate index: 69 with core nodes: [27, 30, 34, 36, 39, 53, 62, 69]
+		The relevance model has size: 8
+		4 reviews removed from the relevance model, indices: [30, 39, 46, 53]. 
+		It now has size: 4
+			old information: 4763, gain: 0.8022831050228311
+
+    ind                                             review  relevance
+0   69  movie gettysburg 4 hours length one hell long ...   0.594335
+1   62  gettysburg perhaps best attempt film capture s...   0.581612
+2   34  recommend movie deserves four stars n ni one t...   0.574833
+3   39  based late author michael shaara s pulitzer pr...   0.555812
+4   53  watched gettysburg four times gone back reread...   0.552039
+5   36  gettysburg excellent film well acted excellent...   0.533743
+6   46  gettysburg excellent movie revolving around ci...   0.490675
+7   32  four hours plus one longest movies well made w...   0.475106
+8   47  hard session exams wanted grab film would pull...   0.428539
+9    6  saw gettysburg first time 8 years ago rental d...   0.337094
+10   3  really love movie s one favorite civil war mov...   0.330167
+11  30  1993 movie based michael shaara s book killer ...   0.275042
+12  16  one favorite films time finally wonderful copy...   0.233496
+
+step 1
+index added: 70
+percentage unclustered: 72.7273%
+
+	step 2
+
+		step 3
+		candidate index: 70 with core nodes: [27, 30, 34, 36, 39, 53, 62, 69]
+		The relevance model has size: 8
+		4 reviews removed from the relevance model, indices: [27, 30, 53, 62]. 
+		It now has size: 4
+			old information: 1695, gain: 0.8970918584178252
+
+    ind                                             review  relevance
+0   69  movie gettysburg 4 hours length one hell long ...   0.594335
+1   62  gettysburg perhaps best attempt film capture s...   0.581612
+2   34  recommend movie deserves four stars n ni one t...   0.574833
+3   39  based late author michael shaara s pulitzer pr...   0.555812
+4   53  watched gettysburg four times gone back reread...   0.552039
+5   36  gettysburg excellent film well acted excellent...   0.533743
+6   70  movie proves n t need lot blood gore show war ...   0.509139
+7   46  gettysburg excellent movie revolving around ci...   0.490675
+8   32  four hours plus one longest movies well made w...   0.475106
+9   47  hard session exams wanted grab film would pull...   0.428539
+10   6  saw gettysburg first time 8 years ago rental d...   0.337094
+11   3  really love movie s one favorite civil war mov...   0.330167
+12  30  1993 movie based michael shaara s book killer ...   0.275042
+13  16  one favorite films time finally wonderful copy...   0.233496
+
+step 1
+index added: 71
+percentage unclustered: 75.4545%
+
+	step 2
+
+		step 3
+		candidate index: 71 with core nodes: [15, 25, 47]
+
+step 1
+index added: 72
+percentage unclustered: 75.4545%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 71.8182%
+
+	step 2
+
+		step 3
+		candidate index: 73 with core nodes: [24, 36, 39, 62]
+
+step 1
+index added: 74
+percentage unclustered: 71.8182%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 70.9091%
+
+	step 2
+
+		step 3
+		candidate index: 75 with core nodes: [24, 36, 39, 62]
+
+step 1
+index added: 76
+percentage unclustered: 70.9091%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 70.9091%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 70.9091%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 79 with core nodes: [24, 36, 39, 62]
+
+step 1
+index added: 80
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 77.2727%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 76.3636%
+
+	step 2
+
+		step 3
+		candidate index: 82 with core nodes: [24, 39, 62]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [36, 62, 69, 70]. 
+		It now has size: 3
+			old information: 5452, gain: 0.7817104420243434
+
+    ind                                             review  relevance
+0   69  movie gettysburg 4 hours length one hell long ...   0.594335
+1   62  gettysburg perhaps best attempt film capture s...   0.581612
+2   34  recommend movie deserves four stars n ni one t...   0.574833
+3   39  based late author michael shaara s pulitzer pr...   0.555812
+4   53  watched gettysburg four times gone back reread...   0.552039
+5   36  gettysburg excellent film well acted excellent...   0.533743
+6   70  movie proves n t need lot blood gore show war ...   0.509139
+7   46  gettysburg excellent movie revolving around ci...   0.490675
+8   32  four hours plus one longest movies well made w...   0.475106
+9   82  ronald maxwell s gettysburg nothing short mast...   0.458115
+10  47  hard session exams wanted grab film would pull...   0.428539
+11   6  saw gettysburg first time 8 years ago rental d...   0.337094
+12   3  really love movie s one favorite civil war mov...   0.330167
+13  30  1993 movie based michael shaara s book killer ...   0.275042
+14  16  one favorite films time finally wonderful copy...   0.233496
+
+step 1
+index added: 83
+percentage unclustered: 74.5455%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 74.5455%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 74.5455%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 71.8182%
+
+	step 2
+
+		step 3
+		candidate index: 86 with core nodes: [24, 39, 62]
+
+step 1
+index added: 87
+percentage unclustered: 70.9091%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 67.2727%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 63.6364%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 63.6364%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 63.6364%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 59.0909%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 56.3636%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 56.3636%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 56.3636%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 56.3636%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 56.3636%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 56.3636%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 56.3636%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 56.3636%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 56.3636%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 56.3636%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 56.3636%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 57.2727%
+
+	step 2
+
+		step 3
+		candidate index: 107 with core nodes: [24, 39, 62]
+
+step 1
+index added: 108
+percentage unclustered: 57.2727%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 57.2727%
+
+	step 2
+
+--- 918.0421516895294 seconds ---
+
+
+ Unclustered percentages: [100.0, 97.2727, 97.2727, 97.2727, 96.3636, 96.3636, 96.3636, 96.3636, 96.3636, 96.3636, 96.3636, 96.3636, 96.3636, 93.6364, 92.7273, 91.8182, 91.8182, 91.8182, 91.8182, 91.8182, 91.8182, 91.8182, 91.8182, 91.8182, 91.8182, 91.8182, 91.8182, 91.8182, 90.9091, 90.9091, 88.1818, 88.1818, 91.8182, 91.8182, 90.9091, 90.9091, 90.9091, 90.0, 80.0, 80.0, 79.0909, 79.0909, 79.0909, 79.0909, 78.1818, 75.4545, 74.5455, 73.6364, 73.6364, 73.6364, 73.6364, 72.7273, 72.7273, 79.0909, 79.0909, 79.0909, 79.0909, 79.0909, 76.3636, 76.3636, 75.4545, 75.4545, 75.4545, 75.4545, 75.4545, 75.4545, 74.5455, 71.8182, 72.7273, 75.4545, 75.4545, 71.8182, 71.8182, 70.9091, 70.9091, 70.9091, 70.9091, 70.0, 70.0, 77.2727, 76.3636, 74.5455, 74.5455, 74.5455, 71.8182, 70.9091, 70.0, 70.0, 67.2727, 63.6364, 63.6364, 63.6364, 60.0, 59.0909, 56.3636, 56.3636, 56.3636, 56.3636, 56.3636, 56.3636, 56.3636, 56.3636, 56.3636, 56.3636, 56.3636, 57.2727, 57.2727, 57.2727], mean: 78.2912
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        46  69   0.594335  movie gettysburg 4 hours length one hell long ...
+1         5  62   0.581612  gettysburg perhaps best attempt film capture s...
+2        25  34   0.574833  recommend movie deserves four stars n ni one t...
+3        47  39   0.555812  based late author michael shaara s pulitzer pr...
+4        96  53   0.552039  watched gettysburg four times gone back reread...
+5        64  36   0.533743  gettysburg excellent film well acted excellent...
+6       102  70   0.509139  movie proves n t need lot blood gore show war ...
+7        94  46   0.490675  gettysburg excellent movie revolving around ci...
+8        92  32   0.475106  four hours plus one longest movies well made w...
+9        27  82   0.458115  ronald maxwell s gettysburg nothing short mast...
+10       40  47   0.428539  hard session exams wanted grab film would pull...
+11       45   6   0.337094  saw gettysburg first time 8 years ago rental d...
+12        9   3   0.330167  really love movie s one favorite civil war mov...
+13       63  30   0.275042  1993 movie based michael shaara s book killer ...
+14       65  16   0.233496  one favorite films time finally wonderful copy...
