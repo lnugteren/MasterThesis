@@ -1,0 +1,3060 @@
+-----Office_Products 0310823706 10-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan]
+
+Run time:
+[0.0030431747436523438]
+
+
+
+Length of final ranking:
+[0]
+
+
+Percentage of final ranking:
+[0.0]
+
+
+Percentage of successful step3s:
+[0]
+
+
+F1-scores:
+[nan]
+
+
+Jaccard distances:
+[nan]
+
+
+RBO distances:
+[nan]
+
+-----Office_Products 0310821800 20-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan]
+
+Run time:
+[0.0030431747436523438, 0.0015196800231933594]
+
+
+
+Length of final ranking:
+[0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0]
+
+
+F1-scores:
+[nan, nan]
+
+
+Jaccard distances:
+[nan, nan]
+
+
+RBO distances:
+[nan, nan]
+
+-----Office_Products B00006B8HT 30-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan]
+
+Run time:
+[0.0030431747436523438, 0.0015196800231933594, 0.0015497207641601562]
+
+
+
+Length of final ranking:
+[0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan]
+
+-----Office_Products B00000IGBF 40-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan]
+
+Run time:
+[0.0030431747436523438, 0.0015196800231933594, 0.0015497207641601562, 0.0016379356384277344]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan]
+
+-----Office_Products B00006IEI7 50-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan]
+
+Run time:
+[0.0030431747436523438, 0.0015196800231933594, 0.0015497207641601562, 0.0016379356384277344, 0.0018062591552734375]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan]
+
+-----Office_Products B00000J6JX 60-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan]
+
+Run time:
+[0.0030431747436523438, 0.0015196800231933594, 0.0015497207641601562, 0.0016379356384277344, 0.0018062591552734375, 0.0014793872833251953]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan]
+
+-----Office_Products B0000A8VNU 70-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, nan]
+
+Run time:
+[0.0030431747436523438, 0.0015196800231933594, 0.0015497207641601562, 0.0016379356384277344, 0.0018062591552734375, 0.0014793872833251953, 0.0014464855194091797]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan]
+
+-----Office_Products B00000J4FS 80-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, nan, nan]
+
+Run time:
+[0.0030431747436523438, 0.0015196800231933594, 0.0015497207641601562, 0.0016379356384277344, 0.0018062591552734375, 0.0014793872833251953, 0.0014464855194091797, 0.0015120506286621094]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Office_Products B00M9GTHS4 90-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+Run time:
+[0.0030431747436523438, 0.0015196800231933594, 0.0015497207641601562, 0.0016379356384277344, 0.0018062591552734375, 0.0014793872833251953, 0.0014464855194091797, 0.0015120506286621094, 0.00177764892578125]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Office_Products B00006IFI5 100-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+Run time:
+[0.0030431747436523438, 0.0015196800231933594, 0.0015497207641601562, 0.0016379356384277344, 0.0018062591552734375, 0.0014793872833251953, 0.0014464855194091797, 0.0015120506286621094, 0.00177764892578125, 0.0014643669128417969]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Office_Products B000VG4AY0 110-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+Run time:
+[0.0030431747436523438, 0.0015196800231933594, 0.0015497207641601562, 0.0016379356384277344, 0.0018062591552734375, 0.0014793872833251953, 0.0014464855194091797, 0.0015120506286621094, 0.00177764892578125, 0.0014643669128417969, 0.001468658447265625]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Office_Products B00450DVDY 120-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+Run time:
+[0.0030431747436523438, 0.0015196800231933594, 0.0015497207641601562, 0.0016379356384277344, 0.0018062591552734375, 0.0014793872833251953, 0.0014464855194091797, 0.0015120506286621094, 0.00177764892578125, 0.0014643669128417969, 0.001468658447265625, 0.0015087127685546875]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Office_Products B0007VMROE 130-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+Run time:
+[0.0030431747436523438, 0.0015196800231933594, 0.0015497207641601562, 0.0016379356384277344, 0.0018062591552734375, 0.0014793872833251953, 0.0014464855194091797, 0.0015120506286621094, 0.00177764892578125, 0.0014643669128417969, 0.001468658447265625, 0.0015087127685546875, 0.001852273941040039]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Office_Products B000GWE8TQ 140-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 0.0]
+
+Run time:
+[0.0030431747436523438, 0.0015196800231933594, 0.0015497207641601562, 0.0016379356384277344, 0.0018062591552734375, 0.0014793872833251953, 0.0014464855194091797, 0.0015120506286621094, 0.00177764892578125, 0.0014643669128417969, 0.001468658447265625, 0.0015087127685546875, 0.001852273941040039, 0.006365060806274414]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Office_Products B001CQDOMM 151-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 0.0, nan]
+
+Run time:
+[0.0030431747436523438, 0.0015196800231933594, 0.0015497207641601562, 0.0016379356384277344, 0.0018062591552734375, 0.0014793872833251953, 0.0014464855194091797, 0.0015120506286621094, 0.00177764892578125, 0.0014643669128417969, 0.001468658447265625, 0.0015087127685546875, 0.001852273941040039, 0.006365060806274414, 0.001558542251586914]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Office_Products B000V2QCQI 160-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 0.0, nan, nan]
+
+Run time:
+[0.0030431747436523438, 0.0015196800231933594, 0.0015497207641601562, 0.0016379356384277344, 0.0018062591552734375, 0.0014793872833251953, 0.0014464855194091797, 0.0015120506286621094, 0.00177764892578125, 0.0014643669128417969, 0.001468658447265625, 0.0015087127685546875, 0.001852273941040039, 0.006365060806274414, 0.001558542251586914, 0.0014619827270507812]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Deleted percentages:
+[100.0, 90.9090909090909, 100.0, 100.0, 97.5, 90.0, 98.27586206896552, 98.59154929577466, 98.83720930232558, 97.14285714285714, 99.06542056074767, 100.0, 100.0, 97.27272727272727, 100.0, 98.0]
+
+
+Deleted percentages:
+[100, 0.0, 100, 100, 100.0, 33.33333333333333, 0.0, 100.0, 0.0, 0.0, 0.0, 100, 100, 0.0, 100, 33.33333333333333]
+
+\Stop words in reviews and summary:
+[0.4611, 0.499, 0.4701, 0.5086, 0.4679, 0.5071, 0.4903, 0.4973, 0.4841, 0.4884, 0.4672, 0.4785, 0.4916, 0.5013, 0.4918, 0.4692]
+[0.4611, 0.499, 0.4701, 0.5086, 0.4679, 0.5071, 0.4903, 0.4973, 0.4841, 0.4884, 0.4672, 0.4785, 0.4916, 0.5013, 0.4918, 0.4692]
+
+\Readability before and after:
+[16.4122, 35.5025, 11.5076, -56.9464, -29.9775, 40.8623, -80.0308, -59.8602, -124.8882, -5.7302, -167.1021, -186.2959, -113.5869, -43.7217, -134.9018, -114.8441]
+[16.4122, 35.5025, 11.5076, -56.9464, -29.9775, 40.8623, -80.0308, -59.8602, -124.8882, -5.7302, -167.1021, -186.2959, -113.5869, -43.7217, -134.9018, -114.8441]
+
+
+Deleted percentages:
+[40.0, 45.0, 36.666666666666664, 10.0, 20.0, 50.0, 17.14285714285714, 11.25, 4.444444444444443, 30.0, 2.7272727272727337, 10.0, 11.538461538461533, 21.42857142857143, 6.0, 6.25]
+
+-----Movies_and_TV 0767817648 10-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan]
+
+Run time:
+[0.010771036148071289]
+
+
+
+Length of final ranking:
+[0]
+
+
+Percentage of final ranking:
+[0.0]
+
+
+Percentage of successful step3s:
+[0]
+
+
+F1-scores:
+[nan]
+
+
+Jaccard distances:
+[nan]
+
+
+RBO distances:
+[nan]
+
+-----Movies_and_TV 0767015525 20-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan]
+
+Run time:
+[0.010771036148071289, 0.001554250717163086]
+
+
+
+Length of final ranking:
+[0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0]
+
+
+F1-scores:
+[nan, nan]
+
+
+Jaccard distances:
+[nan, nan]
+
+
+RBO distances:
+[nan, nan]
+
+-----Movies_and_TV 0615115187 30-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan]
+
+Run time:
+[0.010771036148071289, 0.001554250717163086, 0.0017228126525878906]
+
+
+
+Length of final ranking:
+[0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan]
+
+-----Movies_and_TV 0783226853 40-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan]
+
+Run time:
+[0.010771036148071289, 0.001554250717163086, 0.0017228126525878906, 0.0016744136810302734]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan]
+
+-----Movies_and_TV 6300249824 50-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan]
+
+Run time:
+[0.010771036148071289, 0.001554250717163086, 0.0017228126525878906, 0.0016744136810302734, 0.0016841888427734375]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan]
+
+-----Movies_and_TV 6302320488 60-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan]
+
+Run time:
+[0.010771036148071289, 0.001554250717163086, 0.0017228126525878906, 0.0016744136810302734, 0.0016841888427734375, 0.0017697811126708984]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan]
+
+-----Movies_and_TV 1559409002 70-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, 0.0]
+
+Run time:
+[0.010771036148071289, 0.001554250717163086, 0.0017228126525878906, 0.0016744136810302734, 0.0016841888427734375, 0.0017697811126708984, 0.009210586547851562]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan]
+
+-----Movies_and_TV 6303212263 80-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, 0.0, nan]
+
+Run time:
+[0.010771036148071289, 0.001554250717163086, 0.0017228126525878906, 0.0016744136810302734, 0.0016841888427734375, 0.0017697811126708984, 0.009210586547851562, 0.0018346309661865234]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Movies_and_TV 0767824571 90-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, 0.0, nan, nan]
+
+Run time:
+[0.010771036148071289, 0.001554250717163086, 0.0017228126525878906, 0.0016744136810302734, 0.0016841888427734375, 0.0017697811126708984, 0.009210586547851562, 0.0018346309661865234, 0.0015740394592285156]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Movies_and_TV 7799120991 100-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, 0.0, nan, nan, 0.0]
+
+Run time:
+[0.010771036148071289, 0.001554250717163086, 0.0017228126525878906, 0.0016744136810302734, 0.0016841888427734375, 0.0017697811126708984, 0.009210586547851562, 0.0018346309661865234, 0.0015740394592285156, 0.03141617774963379]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Movies_and_TV 6302548748 110-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, 0.0, nan, nan, 0.0, nan]
+
+Run time:
+[0.010771036148071289, 0.001554250717163086, 0.0017228126525878906, 0.0016744136810302734, 0.0016841888427734375, 0.0017697811126708984, 0.009210586547851562, 0.0018346309661865234, 0.0015740394592285156, 0.03141617774963379, 0.001528024673461914]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Movies_and_TV 6303593666 120-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, 0.0, nan, nan, 0.0, nan, 0.0]
+
+Run time:
+[0.010771036148071289, 0.001554250717163086, 0.0017228126525878906, 0.0016744136810302734, 0.0016841888427734375, 0.0017697811126708984, 0.009210586547851562, 0.0018346309661865234, 0.0015740394592285156, 0.03141617774963379, 0.001528024673461914, 0.028421640396118164]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Movies_and_TV 1569388431 130-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, 0.0, nan, nan, 0.0, nan, 0.0, 0.0]
+
+Run time:
+[0.010771036148071289, 0.001554250717163086, 0.0017228126525878906, 0.0016744136810302734, 0.0016841888427734375, 0.0017697811126708984, 0.009210586547851562, 0.0018346309661865234, 0.0015740394592285156, 0.03141617774963379, 0.001528024673461914, 0.028421640396118164, 0.034803152084350586]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Movies_and_TV 6303364438 141-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, 0.0, nan, nan, 0.0, nan, 0.0, 0.0, 0.0]
+
+Run time:
+[0.010771036148071289, 0.001554250717163086, 0.0017228126525878906, 0.0016744136810302734, 0.0016841888427734375, 0.0017697811126708984, 0.009210586547851562, 0.0018346309661865234, 0.0015740394592285156, 0.03141617774963379, 0.001528024673461914, 0.028421640396118164, 0.034803152084350586, 0.011620759963989258]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Movies_and_TV 0510539610 150-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, 0.0, nan, nan, 0.0, nan, 0.0, 0.0, 0.0, 0.0]
+
+Run time:
+[0.010771036148071289, 0.001554250717163086, 0.0017228126525878906, 0.0016744136810302734, 0.0016841888427734375, 0.0017697811126708984, 0.009210586547851562, 0.0018346309661865234, 0.0015740394592285156, 0.03141617774963379, 0.001528024673461914, 0.028421640396118164, 0.034803152084350586, 0.011620759963989258, 0.3154149055480957]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Movies_and_TV 6303965415 160-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, 0.0, nan, nan, 0.0, nan, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+Run time:
+[0.010771036148071289, 0.001554250717163086, 0.0017228126525878906, 0.0016744136810302734, 0.0016841888427734375, 0.0017697811126708984, 0.009210586547851562, 0.0018346309661865234, 0.0015740394592285156, 0.03141617774963379, 0.001528024673461914, 0.028421640396118164, 0.034803152084350586, 0.011620759963989258, 0.3154149055480957, 0.16488289833068848]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Deleted percentages:
+[100.0, 100.0, 91.30434782608695, 97.43589743589743, 93.47826086956522, 92.72727272727273, 91.42857142857143, 94.52054794520548, 97.46835443037975, 90.9090909090909, 98.14814814814815, 90.09009009009009, 88.28828828828829, 94.48818897637796, 72.88135593220339, 89.26174496644295]
+
+
+Deleted percentages:
+[100, 100, 100.0, 100.0, 66.66666666666666, 75.0, 50.0, 50.0, 100.0, 25.0, 50.0, 45.45454545454545, 53.84615384615385, 42.857142857142854, 50.0, 18.75]
+
+\Stop words in reviews and summary:
+[0.4244, 0.4735, 0.4933, 0.4697, 0.4892, 0.4851, 0.4769, 0.4627, 0.4904, 0.4977, 0.4637, 0.4845, 0.4982, 0.4746, 0.5166, 0.4905]
+[0.4244, 0.4735, 0.4933, 0.4697, 0.4892, 0.4851, 0.4769, 0.4627, 0.4904, 0.4977, 0.4637, 0.4845, 0.4982, 0.4746, 0.5166, 0.4905]
+
+\Readability before and after:
+[-236.7272, -236.0197, -18.9309, -161.8385, -118.9423, -116.0989, -248.2644, -213.462, -127.8892, -178.8719, -218.382, -187.0239, -75.025, -190.3132, 2.3484, -128.829]
+[-236.7272, -236.0197, -18.9309, -161.8385, -118.9423, -116.0989, -248.2644, -213.462, -127.8892, -178.8719, -218.382, -187.0239, -75.025, -190.3132, 2.3484, -128.829]
+
+
+Deleted percentages:
+[10.0, 0.0, 23.33333333333333, 2.5, 8.0, 8.333333333333329, 0.0, 8.75, 12.222222222222229, 12.0, 1.818181818181813, 7.5, 14.615384615384613, 9.285714285714292, 21.33333333333333, 6.875]
+
+-----Electronics 0528013475 10-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan]
+
+Run time:
+[0.07199764251708984]
+
+
+
+Length of final ranking:
+[0]
+
+
+Percentage of final ranking:
+[0.0]
+
+
+Percentage of successful step3s:
+[0]
+
+
+F1-scores:
+[nan]
+
+
+Jaccard distances:
+[nan]
+
+
+RBO distances:
+[nan]
+
+-----Electronics B00000J0D5 20-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan]
+
+Run time:
+[0.07199764251708984, 0.001821279525756836]
+
+
+
+Length of final ranking:
+[0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0]
+
+
+F1-scores:
+[nan, nan]
+
+
+Jaccard distances:
+[nan, nan]
+
+
+RBO distances:
+[nan, nan]
+
+-----Electronics B00000J1U8 30-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, 0.0]
+
+Run time:
+[0.07199764251708984, 0.001821279525756836, 0.032911062240600586]
+
+
+
+Length of final ranking:
+[0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan]
+
+-----Electronics B00004T1XK 40-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, 0.0, 0.0]
+
+Run time:
+[0.07199764251708984, 0.001821279525756836, 0.032911062240600586, 0.02837061882019043]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan]
+
+-----Electronics B00003G1RG 50-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, 0.0, 0.0, nan]
+
+Run time:
+[0.07199764251708984, 0.001821279525756836, 0.032911062240600586, 0.02837061882019043, 0.0015265941619873047]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan]
+
+-----Electronics B00004THD0 60-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, 0.0, 0.0, nan, nan]
+
+Run time:
+[0.07199764251708984, 0.001821279525756836, 0.032911062240600586, 0.02837061882019043, 0.0015265941619873047, 0.0016503334045410156]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan]
+
+-----Electronics B00005N5WU 70-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, 0.0, 0.0, nan, nan, 0.0]
+
+Run time:
+[0.07199764251708984, 0.001821279525756836, 0.032911062240600586, 0.02837061882019043, 0.0015265941619873047, 0.0016503334045410156, 0.026767730712890625]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan]
+
+-----Electronics B0000EI9VR 80-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, 0.0, 0.0, nan, nan, 0.0, nan]
+
+Run time:
+[0.07199764251708984, 0.001821279525756836, 0.032911062240600586, 0.02837061882019043, 0.0015265941619873047, 0.0016503334045410156, 0.026767730712890625, 0.0017201900482177734]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Electronics B000TEVQVO 90-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, 0.0, 0.0, nan, nan, 0.0, nan, nan]
+
+Run time:
+[0.07199764251708984, 0.001821279525756836, 0.032911062240600586, 0.02837061882019043, 0.0015265941619873047, 0.0016503334045410156, 0.026767730712890625, 0.0017201900482177734, 0.001622915267944336]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Electronics B00004SY4H 100-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, 0.0, 0.0, nan, nan, 0.0, nan, nan, nan]
+
+Run time:
+[0.07199764251708984, 0.001821279525756836, 0.032911062240600586, 0.02837061882019043, 0.0015265941619873047, 0.0016503334045410156, 0.026767730712890625, 0.0017201900482177734, 0.001622915267944336, 0.0014090538024902344]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Electronics B00002SWHH 110-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, 0.0, 0.0, nan, nan, 0.0, nan, nan, nan, nan]
+
+Run time:
+[0.07199764251708984, 0.001821279525756836, 0.032911062240600586, 0.02837061882019043, 0.0015265941619873047, 0.0016503334045410156, 0.026767730712890625, 0.0017201900482177734, 0.001622915267944336, 0.0014090538024902344, 0.001455545425415039]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Electronics B0000A1G05 120-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, 0.0, 0.0, nan, nan, 0.0, nan, nan, nan, nan, nan]
+
+Run time:
+[0.07199764251708984, 0.001821279525756836, 0.032911062240600586, 0.02837061882019043, 0.0015265941619873047, 0.0016503334045410156, 0.026767730712890625, 0.0017201900482177734, 0.001622915267944336, 0.0014090538024902344, 0.001455545425415039, 0.0016155242919921875]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Electronics B00AEMGGU2 130-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, 0.0, 0.0, nan, nan, 0.0, nan, nan, nan, nan, nan, nan]
+
+Run time:
+[0.07199764251708984, 0.001821279525756836, 0.032911062240600586, 0.02837061882019043, 0.0015265941619873047, 0.0016503334045410156, 0.026767730712890625, 0.0017201900482177734, 0.001622915267944336, 0.0014090538024902344, 0.001455545425415039, 0.0016155242919921875, 0.0017535686492919922]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Electronics B00006IS4X 140-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, 0.0, 0.0, nan, nan, 0.0, nan, nan, nan, nan, nan, nan, 41.6667]
+
+Run time:
+[0.07199764251708984, 0.001821279525756836, 0.032911062240600586, 0.02837061882019043, 0.0015265941619873047, 0.0016503334045410156, 0.026767730712890625, 0.0017201900482177734, 0.001622915267944336, 0.0014090538024902344, 0.001455545425415039, 0.0016155242919921875, 0.0017535686492919922, 0.04833078384399414]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Electronics B006R2N8VS 151-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, 0.0, 0.0, nan, nan, 0.0, nan, nan, nan, nan, nan, nan, 41.6667, 0.0]
+
+Run time:
+[0.07199764251708984, 0.001821279525756836, 0.032911062240600586, 0.02837061882019043, 0.0015265941619873047, 0.0016503334045410156, 0.026767730712890625, 0.0017201900482177734, 0.001622915267944336, 0.0014090538024902344, 0.001455545425415039, 0.0016155242919921875, 0.0017535686492919922, 0.04833078384399414, 0.042528390884399414]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Electronics B000062VUQ 160-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, 0.0, 0.0, nan, nan, 0.0, nan, nan, nan, nan, nan, nan, 41.6667, 0.0, nan]
+
+Run time:
+[0.07199764251708984, 0.001821279525756836, 0.032911062240600586, 0.02837061882019043, 0.0015265941619873047, 0.0016503334045410156, 0.026767730712890625, 0.0017201900482177734, 0.001622915267944336, 0.0014090538024902344, 0.001455545425415039, 0.0016155242919921875, 0.0017535686492919922, 0.04833078384399414, 0.042528390884399414, 0.0015103816986083984]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Deleted percentages:
+[87.5, 92.85714285714286, 77.27272727272728, 80.0, 94.5945945945946, 100.0, 88.70967741935483, 100.0, 92.94117647058823, 96.93877551020408, 98.03921568627452, 100.0, 96.69421487603306, 92.96875, 89.38053097345133, 96.62162162162163]
+
+
+Deleted percentages:
+[0.0, 0.0, 40.0, 16.66666666666667, 50.0, 100, 28.57142857142857, 100, 83.33333333333333, 33.33333333333333, 0.0, 100, 75.0, 33.33333333333333, 41.666666666666664, 60.0]
+
+\Stop words in reviews and summary:
+[0.5127, 0.5062, 0.4872, 0.4798, 0.4658, 0.4875, 0.4738, 0.4841, 0.4929, 0.4817, 0.4988, 0.4784, 0.4795, 0.4714, 0.4902, 0.4767]
+[0.5127, 0.5062, 0.4872, 0.4798, 0.4658, 0.4875, 0.4738, 0.4841, 0.4929, 0.4817, 0.4988, 0.4784, 0.4795, 0.4714, 0.4902, 0.4767]
+
+\Readability before and after:
+[-21.6193, -3.2569, 28.8268, -7.2994, 2.339, -94.9112, -110.8312, -307.4938, -116.6252, -317.6773, -134.3446, -225.5331, -221.7482, -140.2807, -16.4734, -203.7127]
+[-21.6193, -3.2569, 28.8268, -7.2994, 2.339, -94.9112, -110.8312, -307.4938, -116.6252, -317.6773, -134.3446, -225.5331, -221.7482, -140.2807, -16.4734, -203.7127]
+
+
+Deleted percentages:
+[20.0, 30.0, 26.66666666666667, 25.0, 26.0, 18.33333333333333, 11.42857142857143, 0.0, 5.555555555555557, 2.0, 7.272727272727266, 5.0, 6.92307692307692, 8.57142857142857, 24.66666666666667, 7.5]
+
+-----Home_and_Kitchen 9900493486 10-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan]
+
+Run time:
+[0.09007573127746582]
+
+
+
+Length of final ranking:
+[0]
+
+
+Percentage of final ranking:
+[0.0]
+
+
+Percentage of successful step3s:
+[0]
+
+
+F1-scores:
+[nan]
+
+
+Jaccard distances:
+[nan]
+
+
+RBO distances:
+[nan]
+
+-----Home_and_Kitchen B00004OCNR 20-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan]
+
+Run time:
+[0.09007573127746582, 0.0016281604766845703]
+
+
+
+Length of final ranking:
+[0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0]
+
+
+F1-scores:
+[nan, nan]
+
+
+Jaccard distances:
+[nan, nan]
+
+
+RBO distances:
+[nan, nan]
+
+-----Home_and_Kitchen B00004RHRD 30-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan]
+
+Run time:
+[0.09007573127746582, 0.0016281604766845703, 0.0016100406646728516]
+
+
+
+Length of final ranking:
+[0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan]
+
+-----Home_and_Kitchen B00004SU1I 40-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan]
+
+Run time:
+[0.09007573127746582, 0.0016281604766845703, 0.0016100406646728516, 0.0016677379608154297]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan]
+
+-----Home_and_Kitchen B00005B5Z0 50-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan]
+
+Run time:
+[0.09007573127746582, 0.0016281604766845703, 0.0016100406646728516, 0.0016677379608154297, 0.001621246337890625]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan]
+
+-----Home_and_Kitchen B00004RHQA 60-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan]
+
+Run time:
+[0.09007573127746582, 0.0016281604766845703, 0.0016100406646728516, 0.0016677379608154297, 0.001621246337890625, 0.0014650821685791016]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan]
+
+-----Home_and_Kitchen B0002HDWNS 70-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, nan]
+
+Run time:
+[0.09007573127746582, 0.0016281604766845703, 0.0016100406646728516, 0.0016677379608154297, 0.001621246337890625, 0.0014650821685791016, 0.001589059829711914]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan]
+
+-----Home_and_Kitchen B009I2AL8W 80-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, nan, 0.0]
+
+Run time:
+[0.09007573127746582, 0.0016281604766845703, 0.0016100406646728516, 0.0016677379608154297, 0.001621246337890625, 0.0014650821685791016, 0.001589059829711914, 0.034804344177246094]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Home_and_Kitchen B000063XH7 90-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, nan, 0.0, nan]
+
+Run time:
+[0.09007573127746582, 0.0016281604766845703, 0.0016100406646728516, 0.0016677379608154297, 0.001621246337890625, 0.0014650821685791016, 0.001589059829711914, 0.034804344177246094, 0.0015072822570800781]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Home_and_Kitchen B00004YNX2 100-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, nan, 0.0, nan, nan]
+
+Run time:
+[0.09007573127746582, 0.0016281604766845703, 0.0016100406646728516, 0.0016677379608154297, 0.001621246337890625, 0.0014650821685791016, 0.001589059829711914, 0.034804344177246094, 0.0015072822570800781, 0.0015597343444824219]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Home_and_Kitchen B0063OQOTS 110-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, nan, 0.0, nan, nan, 100.0]
+
+Run time:
+[0.09007573127746582, 0.0016281604766845703, 0.0016100406646728516, 0.0016677379608154297, 0.001621246337890625, 0.0014650821685791016, 0.001589059829711914, 0.034804344177246094, 0.0015072822570800781, 0.0015597343444824219, 0.015615224838256836]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Home_and_Kitchen B000I618NY 120-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, nan, 0.0, nan, nan, 100.0, nan]
+
+Run time:
+[0.09007573127746582, 0.0016281604766845703, 0.0016100406646728516, 0.0016677379608154297, 0.001621246337890625, 0.0014650821685791016, 0.001589059829711914, 0.034804344177246094, 0.0015072822570800781, 0.0015597343444824219, 0.015615224838256836, 0.0016522407531738281]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Home_and_Kitchen B0002OKDT2 130-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, nan, 0.0, nan, nan, 100.0, nan, nan]
+
+Run time:
+[0.09007573127746582, 0.0016281604766845703, 0.0016100406646728516, 0.0016677379608154297, 0.001621246337890625, 0.0014650821685791016, 0.001589059829711914, 0.034804344177246094, 0.0015072822570800781, 0.0015597343444824219, 0.015615224838256836, 0.0016522407531738281, 0.0014755725860595703]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Home_and_Kitchen B00006F2MI 140-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, nan, 0.0, nan, nan, 100.0, nan, nan, nan]
+
+Run time:
+[0.09007573127746582, 0.0016281604766845703, 0.0016100406646728516, 0.0016677379608154297, 0.001621246337890625, 0.0014650821685791016, 0.001589059829711914, 0.034804344177246094, 0.0015072822570800781, 0.0015597343444824219, 0.015615224838256836, 0.0016522407531738281, 0.0014755725860595703, 0.0014848709106445312]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Home_and_Kitchen B0153NEBPI 150-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, nan, 0.0, nan, nan, 100.0, nan, nan, nan, 46.0317]
+
+Run time:
+[0.09007573127746582, 0.0016281604766845703, 0.0016100406646728516, 0.0016677379608154297, 0.001621246337890625, 0.0014650821685791016, 0.001589059829711914, 0.034804344177246094, 0.0015072822570800781, 0.0015597343444824219, 0.015615224838256836, 0.0016522407531738281, 0.0014755725860595703, 0.0014848709106445312, 0.0982203483581543]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Home_and_Kitchen B000246GSE 160-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, nan, 0.0, nan, nan, 100.0, nan, nan, nan, 46.0317, nan]
+
+Run time:
+[0.09007573127746582, 0.0016281604766845703, 0.0016100406646728516, 0.0016677379608154297, 0.001621246337890625, 0.0014650821685791016, 0.001589059829711914, 0.034804344177246094, 0.0015072822570800781, 0.0015597343444824219, 0.015615224838256836, 0.0016522407531738281, 0.0014755725860595703, 0.0014848709106445312, 0.0982203483581543, 0.0015320777893066406]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Deleted percentages:
+[88.88888888888889, 92.3076923076923, 95.23809523809524, 92.0, 100.0, 98.30508474576271, 98.50746268656717, 90.1639344262295, 100.0, 98.88888888888889, 96.84210526315789, 99.0909090909091, 100.0, 99.25373134328358, 77.19298245614036, 100.0]
+
+
+Deleted percentages:
+[0.0, 100.0, 0.0, 0.0, 100, 100.0, 100.0, 50.0, 100, 0.0, 0.0, 100.0, 100, 0.0, 30.769230769230774, 100]
+
+\Stop words in reviews and summary:
+[0.5187, 0.4727, 0.4678, 0.4789, 0.4936, 0.5026, 0.4815, 0.4849, 0.4956, 0.4838, 0.5065, 0.4923, 0.4867, 0.4853, 0.4806, 0.485]
+[0.5187, 0.4727, 0.4678, 0.4789, 0.4936, 0.5026, 0.4815, 0.4849, 0.4956, 0.4838, 0.5065, 0.4923, 0.4867, 0.4853, 0.4806, 0.485]
+
+\Readability before and after:
+[-0.9401, 7.829, 13.1682, -5.3762, -15.279, -91.4864, -106.1778, -26.3815, -65.5264, -78.3466, -118.3818, -140.3419, -171.2068, -136.6736, 53.0313, -117.7589]
+[-0.9401, 7.829, 13.1682, -5.3762, -15.279, -91.4864, -106.1778, -26.3815, -65.5264, -78.3466, -118.3818, -140.3419, -171.2068, -136.6736, 53.0313, -117.7589]
+
+
+Deleted percentages:
+[10.0, 35.0, 30.0, 37.5, 16.0, 1.6666666666666714, 4.285714285714292, 23.75, 8.888888888888886, 10.0, 13.63636363636364, 8.333333333333329, 7.692307692307693, 4.285714285714292, 62.0, 18.125]
+
+-----Sports_and_Outdoors 7245456321 10-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan]
+
+Run time:
+[0.07898116111755371]
+
+
+
+Length of final ranking:
+[0]
+
+
+Percentage of final ranking:
+[0.0]
+
+
+Percentage of successful step3s:
+[0]
+
+
+F1-scores:
+[nan]
+
+
+Jaccard distances:
+[nan]
+
+
+RBO distances:
+[nan]
+
+-----Sports_and_Outdoors B00003G1U0 20-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan]
+
+Run time:
+[0.07898116111755371, 0.0015835762023925781]
+
+
+
+Length of final ranking:
+[0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0]
+
+
+F1-scores:
+[nan, nan]
+
+
+Jaccard distances:
+[nan, nan]
+
+
+RBO distances:
+[nan, nan]
+
+-----Sports_and_Outdoors B00005NN9H 30-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan]
+
+Run time:
+[0.07898116111755371, 0.0015835762023925781, 0.0016078948974609375]
+
+
+
+Length of final ranking:
+[0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan]
+
+-----Sports_and_Outdoors B0009E3EDM 40-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan]
+
+Run time:
+[0.07898116111755371, 0.0015835762023925781, 0.0016078948974609375, 0.0014657974243164062]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan]
+
+-----Sports_and_Outdoors B0007IS74G 50-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan]
+
+Run time:
+[0.07898116111755371, 0.0015835762023925781, 0.0016078948974609375, 0.0014657974243164062, 0.0014748573303222656]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan]
+
+-----Sports_and_Outdoors B000EHWWJQ 60-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan]
+
+Run time:
+[0.07898116111755371, 0.0015835762023925781, 0.0016078948974609375, 0.0014657974243164062, 0.0014748573303222656, 0.0015311241149902344]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan]
+
+-----Sports_and_Outdoors B00167TGII 70-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, nan]
+
+Run time:
+[0.07898116111755371, 0.0015835762023925781, 0.0016078948974609375, 0.0014657974243164062, 0.0014748573303222656, 0.0015311241149902344, 0.0014922618865966797]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan]
+
+-----Sports_and_Outdoors B005NCOUDS 80-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, nan, nan]
+
+Run time:
+[0.07898116111755371, 0.0015835762023925781, 0.0016078948974609375, 0.0014657974243164062, 0.0014748573303222656, 0.0015311241149902344, 0.0014922618865966797, 0.0014190673828125]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Sports_and_Outdoors B001IDZHF6 90-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+Run time:
+[0.07898116111755371, 0.0015835762023925781, 0.0016078948974609375, 0.0014657974243164062, 0.0014748573303222656, 0.0015311241149902344, 0.0014922618865966797, 0.0014190673828125, 0.0014872550964355469]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Sports_and_Outdoors B005UGIMNQ 100-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+Run time:
+[0.07898116111755371, 0.0015835762023925781, 0.0016078948974609375, 0.0014657974243164062, 0.0014748573303222656, 0.0015311241149902344, 0.0014922618865966797, 0.0014190673828125, 0.0014872550964355469, 0.0014758110046386719]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Sports_and_Outdoors B000LG06UW 110-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+Run time:
+[0.07898116111755371, 0.0015835762023925781, 0.0016078948974609375, 0.0014657974243164062, 0.0014748573303222656, 0.0015311241149902344, 0.0014922618865966797, 0.0014190673828125, 0.0014872550964355469, 0.0014758110046386719, 0.0016565322875976562]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Sports_and_Outdoors B0073PZ6O0 120-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+Run time:
+[0.07898116111755371, 0.0015835762023925781, 0.0016078948974609375, 0.0014657974243164062, 0.0014748573303222656, 0.0015311241149902344, 0.0014922618865966797, 0.0014190673828125, 0.0014872550964355469, 0.0014758110046386719, 0.0016565322875976562, 0.001722574234008789]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Sports_and_Outdoors B0016PWG7S 130-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+Run time:
+[0.07898116111755371, 0.0015835762023925781, 0.0016078948974609375, 0.0014657974243164062, 0.0014748573303222656, 0.0015311241149902344, 0.0014922618865966797, 0.0014190673828125, 0.0014872550964355469, 0.0014758110046386719, 0.0016565322875976562, 0.001722574234008789, 0.0014793872833251953]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Sports_and_Outdoors B00AE1TWE0 143-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+Run time:
+[0.07898116111755371, 0.0015835762023925781, 0.0016078948974609375, 0.0014657974243164062, 0.0014748573303222656, 0.0015311241149902344, 0.0014922618865966797, 0.0014190673828125, 0.0014872550964355469, 0.0014758110046386719, 0.0016565322875976562, 0.001722574234008789, 0.0014793872833251953, 0.0017061233520507812]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Sports_and_Outdoors B01EM3IL06 150-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 37.1428]
+
+Run time:
+[0.07898116111755371, 0.0015835762023925781, 0.0016078948974609375, 0.0014657974243164062, 0.0014748573303222656, 0.0015311241149902344, 0.0014922618865966797, 0.0014190673828125, 0.0014872550964355469, 0.0014758110046386719, 0.0016565322875976562, 0.001722574234008789, 0.0014793872833251953, 0.0017061233520507812, 0.10798335075378418]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+-----Sports_and_Outdoors B019Z6HS86 162-----
+
+Length of final ranking:
+0
+
+
+Clustered:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 37.1428, nan]
+
+Run time:
+[0.07898116111755371, 0.0015835762023925781, 0.0016078948974609375, 0.0014657974243164062, 0.0014748573303222656, 0.0015311241149902344, 0.0014922618865966797, 0.0014190673828125, 0.0014872550964355469, 0.0014758110046386719, 0.0016565322875976562, 0.001722574234008789, 0.0014793872833251953, 0.0017061233520507812, 0.10798335075378418, 0.0014591217041015625]
+
+
+
+Length of final ranking:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+Percentage of final ranking:
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Percentage of successful step3s:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+F1-scores:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Jaccard distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+RBO distances:
+[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+
+
+Deleted percentages:
+[100.0, 100.0, 100.0, 97.22222222222223, 97.67441860465117, 100.0, 100.0, 100.0, 100.0, 100.0, 97.95918367346938, 99.04761904761905, 97.97979797979798, 100.0, 84.44444444444444, 97.82608695652173]
+
+
+Deleted percentages:
+[100, 100, 100, 0.0, 0.0, 100, 100, 100, 100, 100, 0.0, 100.0, 50.0, 100, 0.0, 33.33333333333333]
+
+\Stop words in reviews and summary:
+[0.493, 0.5101, 0.5327, 0.4857, 0.504, 0.4913, 0.4778, 0.5285, 0.5155, 0.4775, 0.5204, 0.4815, 0.5073, 0.5053, 0.4423, 0.4945]
+[0.493, 0.5101, 0.5327, 0.4857, 0.504, 0.4913, 0.4778, 0.5285, 0.5155, 0.4775, 0.5204, 0.4815, 0.5073, 0.5053, 0.4423, 0.4945]
+
+\Readability before and after:
+[-11.5861, -17.3503, -23.475, -79.0895, -64.7664, -22.482, -147.9474, -42.0462, -37.5142, -125.6711, -105.1012, -133.528, -59.9329, -220.5741, 55.3803, -192.714]
+[-11.5861, -17.3503, -23.475, -79.0895, -64.7664, -22.482, -147.9474, -42.0462, -37.5142, -125.6711, -105.1012, -133.528, -59.9329, -220.5741, 55.3803, -192.714]
+
+
+Deleted percentages:
+[10.0, 5.0, 13.333333333333329, 10.0, 14.0, 25.0, 8.57142857142857, 25.0, 20.0, 14.0, 10.909090909090907, 12.5, 23.84615384615384, 9.285714285714292, 70.0, 13.75]
+
