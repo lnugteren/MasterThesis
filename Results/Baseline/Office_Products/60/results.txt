@@ -1,0 +1,490 @@
+------- Category: Office_Products -------
+Found asin_id: B00000J6JX
+Shape:  (60, 7)
+
+
+Chosen product: B00000J6JX has 60 reviews - True, it has 60 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 93.3333%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [3, 5, 7, 8]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   8  pretty good globe fair good gift child interes...   0.274792
+
+step 1
+index added: 9
+percentage unclustered: 91.6667%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [3, 7, 8, 9]
+			old information: 57, gain: 0.9932021466905188
+
+   ind                                             review  relevance
+0   9  quite lot appropriate detail globe considering...   0.393919
+1   8  pretty good globe fair good gift child interes...   0.274792
+
+step 1
+index added: 10
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [3, 7, 8, 9]
+			old information: 44, gain: 0.9512735326688815
+
+   ind                                             review  relevance
+0   9  quite lot appropriate detail globe considering...   0.393919
+1   8  pretty good globe fair good gift child interes...   0.274792
+2  16  came well packaged quality pretty good would r...   0.273916
+
+step 1
+index added: 17
+percentage unclustered: 88.3333%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [3, 7, 8, 9]
+
+step 1
+index added: 18
+percentage unclustered: 93.3333%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 93.3333%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 93.3333%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 93.3333%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 93.3333%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 91.6667%
+
+	step 2
+
+		step 3
+		candidate index: 23 with core nodes: [7, 8, 16, 17, 23]
+			old information: 35, gain: 0.9376114081996435
+
+   ind                                             review  relevance
+0   9  quite lot appropriate detail globe considering...   0.393919
+1   8  pretty good globe fair good gift child interes...   0.274792
+2  16  came well packaged quality pretty good would r...   0.273916
+3  23  price review good amount detail price point gl...   0.220119
+
+step 1
+index added: 24
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [7, 8, 16, 24]
+			old information: 34, gain: 0.9541160593792173
+
+   ind                                             review  relevance
+0   9  quite lot appropriate detail globe considering...   0.393919
+1  24  good globe excellent print quality using visua...   0.325561
+2   8  pretty good globe fair good gift child interes...   0.274792
+3  16  came well packaged quality pretty good would r...   0.273916
+4  23  price review good amount detail price point gl...   0.220119
+
+step 1
+index added: 25
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 88.3333%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [7, 8, 16, 24]
+
+step 1
+index added: 27
+percentage unclustered: 88.3333%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 88.3333%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 88.3333%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 88.3333%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 88.3333%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 88.3333%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 88.3333%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 88.3333%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 88.3333%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [7, 8, 29, 37]
+			old information: 2, gain: 0.9555555555555556
+
+   ind                                             review  relevance
+0   9  quite lot appropriate detail globe considering...   0.393919
+1  24  good globe excellent print quality using visua...   0.325561
+2  37  decent globe meet expectation guess expecting ...   0.290907
+3   8  pretty good globe fair good gift child interes...   0.274792
+4  16  came well packaged quality pretty good would r...   0.273916
+5  23  price review good amount detail price point gl...   0.220119
+
+step 1
+index added: 38
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [7, 8, 23, 24, 26, 29, 37, 39, 42]
+			old information: 4, gain: 0.9272727272727272
+
+   ind                                             review  relevance
+0   9  quite lot appropriate detail globe considering...   0.393919
+1  24  good globe excellent print quality using visua...   0.325561
+2  37  decent globe meet expectation guess expecting ...   0.290907
+3   8  pretty good globe fair good gift child interes...   0.274792
+4  16  came well packaged quality pretty good would r...   0.273916
+5  43  globe great lines match homeschool children gr...   0.242078
+6  23  price review good amount detail price point gl...   0.220119
+
+step 1
+index added: 44
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 63.3333%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [9, 40, 42, 45]
+			old information: 10, gain: 0.8901098901098901
+
+   ind                                             review  relevance
+0  45  sturdy globe easy read names relief globe real...   0.439906
+1   9  quite lot appropriate detail globe considering...   0.393919
+2  24  good globe excellent print quality using visua...   0.325561
+3  37  decent globe meet expectation guess expecting ...   0.290907
+4   8  pretty good globe fair good gift child interes...   0.274792
+5  16  came well packaged quality pretty good would r...   0.273916
+6  43  globe great lines match homeschool children gr...   0.242078
+7  23  price review good amount detail price point gl...   0.220119
+
+step 1
+index added: 46
+percentage unclustered: 61.6667%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [3, 7, 8, 9, 29, 42, 45, 46]
+			old information: 70, gain: 0.9146341463414634
+
+   ind                                             review  relevance
+0  46  relief globe good inch measuring equator meani...   0.449411
+1  45  sturdy globe easy read names relief globe real...   0.439906
+2   9  quite lot appropriate detail globe considering...   0.393919
+3  24  good globe excellent print quality using visua...   0.325561
+4  37  decent globe meet expectation guess expecting ...   0.290907
+5   8  pretty good globe fair good gift child interes...   0.274792
+6  16  came well packaged quality pretty good would r...   0.273916
+7  43  globe great lines match homeschool children gr...   0.242078
+8  23  price review good amount detail price point gl...   0.220119
+
+step 1
+index added: 47
+percentage unclustered: 61.6667%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 58.3333%
+
+	step 2
+
+		step 3
+		candidate index: 52 with core nodes: [23, 39, 52]
+			old information: 24, gain: 0.8596491228070176
+
+   ind                                             review  relevance
+0  46  relief globe good inch measuring equator meani...   0.449411
+1  45  sturdy globe easy read names relief globe real...   0.439906
+2   9  quite lot appropriate detail globe considering...   0.393919
+3  52  bought globe children homeschooling already us...   0.364576
+4  24  good globe excellent print quality using visua...   0.325561
+5  37  decent globe meet expectation guess expecting ...   0.290907
+6   8  pretty good globe fair good gift child interes...   0.274792
+7  16  came well packaged quality pretty good would r...   0.273916
+8  43  globe great lines match homeschool children gr...   0.242078
+9  23  price review good amount detail price point gl...   0.220119
+
+step 1
+index added: 53
+percentage unclustered: 56.6667%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 56.6667%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 56.6667%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 56.6667%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 51.6667%
+
+	step 2
+
+		step 3
+		candidate index: 57 with core nodes: [3, 8, 9, 29, 42, 45, 46]
+
+step 1
+index added: 58
+percentage unclustered: 50.0%
+
+	step 2
+
+		step 3
+		candidate index: 58 with core nodes: [3, 8, 9, 29, 42, 45, 46]
+
+step 1
+index added: 59
+percentage unclustered: 50.0%
+
+	step 2
+
+--- 7.80850887298584 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 95.0, 93.3333, 91.6667, 91.6667, 91.6667, 91.6667, 91.6667, 91.6667, 91.6667, 90.0, 88.3333, 93.3333, 93.3333, 93.3333, 93.3333, 93.3333, 91.6667, 90.0, 90.0, 88.3333, 88.3333, 88.3333, 88.3333, 88.3333, 88.3333, 88.3333, 88.3333, 88.3333, 88.3333, 90.0, 85.0, 85.0, 85.0, 85.0, 85.0, 85.0, 78.33330000000001, 78.33330000000001, 63.3333, 61.6667, 61.6667, 60.0, 60.0, 60.0, 60.0, 58.3333, 56.6667, 56.6667, 56.6667, 56.6667, 51.6667, 50.0, 50.0], mean: 81.8965
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0       28  46   0.449411  relief globe good inch measuring equator meani...
+1       47  45   0.439906  sturdy globe easy read names relief globe real...
+2       22   9   0.393919  quite lot appropriate detail globe considering...
+3       29  52   0.364576  bought globe children homeschooling already us...
+4       41  24   0.325561  good globe excellent print quality using visua...
+5       37  37   0.290907  decent globe meet expectation guess expecting ...
+6        8   8   0.274792  pretty good globe fair good gift child interes...
+7       34  16   0.273916  came well packaged quality pretty good would r...
+8       40  43   0.242078  globe great lines match homeschool children gr...
+9       49  23   0.220119  price review good amount detail price point gl...

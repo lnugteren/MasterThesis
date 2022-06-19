@@ -1,0 +1,865 @@
+------- Category: Sports_and_Outdoors -------
+Found asin_id: B000LG06UW
+Shape:  (110, 7)
+
+
+Chosen product: B000LG06UW has 110 reviews - True, it has 110 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 97.2727%
+
+	step 2
+
+		step 3
+		candidate index: 4 with core nodes: [1, 2, 4]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   4  extremely unstable hard walk belt additionally...   0.118201
+
+step 1
+index added: 5
+percentage unclustered: 97.2727%
+
+	step 2
+
+step 1
+index added: 6
+percentage unclustered: 97.2727%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 97.2727%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 97.2727%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 97.2727%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 96.3636%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [1, 2, 4, 10]
+			old information: 21, gain: 0.9964970809007506
+
+   ind                                             review  relevance
+0  10  m 62 years young 6 feet tall weight 185lbs fin...   0.207536
+1   4  extremely unstable hard walk belt additionally...   0.118201
+
+step 1
+index added: 11
+percentage unclustered: 96.3636%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 96.3636%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 95.4545%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [1, 4, 10, 13]
+			old information: 17, gain: 0.9889610389610389
+
+   ind                                             review  relevance
+0  10  m 62 years young 6 feet tall weight 185lbs fin...   0.207536
+1  13  received treadmill week say pleasantly surpris...   0.165325
+2   4  extremely unstable hard walk belt additionally...   0.118201
+
+step 1
+index added: 14
+percentage unclustered: 95.4545%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 95.4545%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 95.4545%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 95.4545%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 95.4545%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 94.5455%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [1, 10, 13, 19]
+			old information: 371, gain: 0.9799762521588946
+
+   ind                                             review  relevance
+0  19  first free shipping product ships california t...   0.328514
+1  10  m 62 years young 6 feet tall weight 185lbs fin...   0.207536
+2  13  received treadmill week say pleasantly surpris...   0.165325
+3   4  extremely unstable hard walk belt additionally...   0.118201
+
+step 1
+index added: 20
+percentage unclustered: 94.5455%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 94.5455%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 94.5455%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 94.5455%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 93.6364%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [1, 10, 13, 19]
+
+step 1
+index added: 25
+percentage unclustered: 93.6364%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 93.6364%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 93.6364%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 93.6364%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 93.6364%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 92.7273%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [1, 10, 13, 19]
+			old information: 153, gain: 0.9264423076923077
+
+   ind                                             review  relevance
+0  19  first free shipping product ships california t...   0.328514
+1  30  less 120 great bargain inclement weather ca ge...   0.239955
+2  10  m 62 years young 6 feet tall weight 185lbs fin...   0.207536
+3  13  received treadmill week say pleasantly surpris...   0.165325
+4   4  extremely unstable hard walk belt additionally...   0.118201
+
+step 1
+index added: 31
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 31 with core nodes: [1, 10, 15, 19, 31]
+			old information: 44, gain: 0.8746438746438746
+
+   ind                                             review  relevance
+0  19  first free shipping product ships california t...   0.328514
+1  30  less 120 great bargain inclement weather ca ge...   0.239955
+2  31  disappointed treadmill m tall person expect lo...   0.219782
+3  10  m 62 years young 6 feet tall weight 185lbs fin...   0.207536
+4  13  received treadmill week say pleasantly surpris...   0.165325
+5   4  extremely unstable hard walk belt additionally...   0.118201
+
+step 1
+index added: 32
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 89.0909%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [13, 31, 34]
+			old information: 410, gain: 0.9425770308123249
+
+   ind                                             review  relevance
+0  34  treadmill around year still holding strong n n...   0.366497
+1  19  first free shipping product ships california t...   0.328514
+2  30  less 120 great bargain inclement weather ca ge...   0.239955
+3  31  disappointed treadmill m tall person expect lo...   0.219782
+4  10  m 62 years young 6 feet tall weight 185lbs fin...   0.207536
+5  13  received treadmill week say pleasantly surpris...   0.165325
+6   4  extremely unstable hard walk belt additionally...   0.118201
+
+step 1
+index added: 35
+percentage unclustered: 89.0909%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 84.5455%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [8, 15, 19, 25]
+
+step 1
+index added: 37
+percentage unclustered: 84.5455%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 83.6364%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [8, 15, 19, 38]
+			old information: 2477, gain: 0.9737592033476349
+
+   ind                                             review  relevance
+0  38  like good patient get annual physicals usually...   0.542640
+1  34  treadmill around year still holding strong n n...   0.366497
+2  19  first free shipping product ships california t...   0.328514
+3  30  less 120 great bargain inclement weather ca ge...   0.239955
+4  31  disappointed treadmill m tall person expect lo...   0.219782
+5  10  m 62 years young 6 feet tall weight 185lbs fin...   0.207536
+6  13  received treadmill week say pleasantly surpris...   0.165325
+7   4  extremely unstable hard walk belt additionally...   0.118201
+
+step 1
+index added: 39
+percentage unclustered: 83.6364%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 83.6364%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 83.6364%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 83.6364%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 82.7273%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [8, 15, 19, 38]
+
+step 1
+index added: 44
+percentage unclustered: 82.7273%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 82.7273%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 82.7273%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 82.7273%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 48 with core nodes: [8, 19, 38]
+
+step 1
+index added: 49
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 78.1818%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 78.1818%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 78.1818%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 77.2727%
+
+	step 2
+
+		step 3
+		candidate index: 63 with core nodes: [8, 19, 38, 63]
+			old information: 549, gain: 0.8974981329350261
+
+   ind                                             review  relevance
+0  38  like good patient get annual physicals usually...   0.542640
+1  63  previously owned powered treadmill much prefer...   0.510504
+2  34  treadmill around year still holding strong n n...   0.366497
+3  19  first free shipping product ships california t...   0.328514
+4  30  less 120 great bargain inclement weather ca ge...   0.239955
+5  31  disappointed treadmill m tall person expect lo...   0.219782
+6  10  m 62 years young 6 feet tall weight 185lbs fin...   0.207536
+7  13  received treadmill week say pleasantly surpris...   0.165325
+8   4  extremely unstable hard walk belt additionally...   0.118201
+
+step 1
+index added: 64
+percentage unclustered: 77.2727%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 76.3636%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 76.3636%
+
+	step 2
+
+		step 3
+		candidate index: 66 with core nodes: [8, 19, 38, 62, 66]
+			old information: 881, gain: 0.9324438309945556
+
+   ind                                             review  relevance
+0  38  like good patient get annual physicals usually...   0.542640
+1  66  purchased treadmill 3 weeks ago husband overwe...   0.520001
+2  63  previously owned powered treadmill much prefer...   0.510504
+3  34  treadmill around year still holding strong n n...   0.366497
+4  19  first free shipping product ships california t...   0.328514
+5  30  less 120 great bargain inclement weather ca ge...   0.239955
+6  31  disappointed treadmill m tall person expect lo...   0.219782
+7  10  m 62 years young 6 feet tall weight 185lbs fin...   0.207536
+8  13  received treadmill week say pleasantly surpris...   0.165325
+9   4  extremely unstable hard walk belt additionally...   0.118201
+
+step 1
+index added: 67
+percentage unclustered: 75.4545%
+
+	step 2
+
+		step 3
+		candidate index: 67 with core nodes: [8, 19, 38, 62, 66]
+
+step 1
+index added: 68
+percentage unclustered: 75.4545%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 75.4545%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 74.5455%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 74.5455%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 74.5455%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 73 with core nodes: [8, 38, 66, 73]
+			old information: 2586, gain: 0.9323497096217235
+
+    ind                                             review  relevance
+0   73  lots different exercise equipment including cr...   0.547537
+1   38  like good patient get annual physicals usually...   0.542640
+2   66  purchased treadmill 3 weeks ago husband overwe...   0.520001
+3   63  previously owned powered treadmill much prefer...   0.510504
+4   34  treadmill around year still holding strong n n...   0.366497
+5   19  first free shipping product ships california t...   0.328514
+6   30  less 120 great bargain inclement weather ca ge...   0.239955
+7   31  disappointed treadmill m tall person expect lo...   0.219782
+8   10  m 62 years young 6 feet tall weight 185lbs fin...   0.207536
+9   13  received treadmill week say pleasantly surpris...   0.165325
+10   4  extremely unstable hard walk belt additionally...   0.118201
+
+step 1
+index added: 74
+percentage unclustered: 79.0909%
+
+	step 2
+
+		step 3
+		candidate index: 74 with core nodes: [8, 38, 66, 73]
+
+step 1
+index added: 75
+percentage unclustered: 78.1818%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 78.1818%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 77.2727%
+
+	step 2
+
+		step 3
+		candidate index: 77 with core nodes: [8, 38, 73]
+			old information: 962, gain: 0.8203883495145631
+
+    ind                                             review  relevance
+0   73  lots different exercise equipment including cr...   0.547537
+1   38  like good patient get annual physicals usually...   0.542640
+2   77  treadmill easy setup parts included n nmy issu...   0.535820
+3   66  purchased treadmill 3 weeks ago husband overwe...   0.520001
+4   63  previously owned powered treadmill much prefer...   0.510504
+5   34  treadmill around year still holding strong n n...   0.366497
+6   19  first free shipping product ships california t...   0.328514
+7   30  less 120 great bargain inclement weather ca ge...   0.239955
+8   31  disappointed treadmill m tall person expect lo...   0.219782
+9   10  m 62 years young 6 feet tall weight 185lbs fin...   0.207536
+10  13  received treadmill week say pleasantly surpris...   0.165325
+11   4  extremely unstable hard walk belt additionally...   0.118201
+
+step 1
+index added: 78
+percentage unclustered: 77.2727%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 77.2727%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 77.2727%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 74.5455%
+
+	step 2
+
+		step 3
+		candidate index: 81 with core nodes: [19, 38, 62, 81]
+			old information: 240, gain: 0.8383838383838383
+
+    ind                                             review  relevance
+0   81  great inexpensive alternative electric treadmi...   0.619207
+1   73  lots different exercise equipment including cr...   0.547537
+2   38  like good patient get annual physicals usually...   0.542640
+3   77  treadmill easy setup parts included n nmy issu...   0.535820
+4   66  purchased treadmill 3 weeks ago husband overwe...   0.520001
+5   63  previously owned powered treadmill much prefer...   0.510504
+6   34  treadmill around year still holding strong n n...   0.366497
+7   19  first free shipping product ships california t...   0.328514
+8   30  less 120 great bargain inclement weather ca ge...   0.239955
+9   31  disappointed treadmill m tall person expect lo...   0.219782
+10  10  m 62 years young 6 feet tall weight 185lbs fin...   0.207536
+11  13  received treadmill week say pleasantly surpris...   0.165325
+12   4  extremely unstable hard walk belt additionally...   0.118201
+
+step 1
+index added: 82
+percentage unclustered: 73.6364%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 73.6364%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 75.4545%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 78.1818%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 75.4545%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 75.4545%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 75.4545%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 74.5455%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 73.6364%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 71.8182%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 71.8182%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 71.8182%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 71.8182%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 71.8182%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 71.8182%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 67.2727%
+
+	step 2
+
+		step 3
+		candidate index: 97 with core nodes: [37, 63, 74]
+
+step 1
+index added: 98
+percentage unclustered: 67.2727%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 67.2727%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 67.2727%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 67.2727%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 67.2727%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 67.2727%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 66.36359999999999%
+
+	step 2
+
+		step 3
+		candidate index: 104 with core nodes: [37, 63, 74]
+
+step 1
+index added: 105
+percentage unclustered: 66.36359999999999%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 66.36359999999999%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 60.9091%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 60.0%
+
+	step 2
+
+--- 85.09123516082764 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 97.2727, 97.2727, 97.2727, 97.2727, 97.2727, 97.2727, 96.3636, 96.3636, 96.3636, 95.4545, 95.4545, 95.4545, 95.4545, 95.4545, 95.4545, 94.5455, 94.5455, 94.5455, 94.5455, 94.5455, 93.6364, 93.6364, 93.6364, 93.6364, 93.6364, 93.6364, 92.7273, 90.0, 90.0, 90.0, 89.0909, 89.0909, 84.5455, 84.5455, 83.6364, 83.6364, 83.6364, 83.6364, 83.6364, 82.7273, 82.7273, 82.7273, 82.7273, 82.7273, 80.0, 79.0909, 79.0909, 79.0909, 80.0, 80.0, 80.0, 79.0909, 79.0909, 79.0909, 79.0909, 79.0909, 78.1818, 78.1818, 78.1818, 77.2727, 77.2727, 76.3636, 76.3636, 75.4545, 75.4545, 75.4545, 74.5455, 74.5455, 74.5455, 80.0, 79.0909, 78.1818, 78.1818, 77.2727, 77.2727, 77.2727, 77.2727, 74.5455, 73.6364, 73.6364, 75.4545, 78.1818, 75.4545, 75.4545, 75.4545, 74.5455, 73.6364, 71.8182, 71.8182, 71.8182, 71.8182, 71.8182, 71.8182, 67.2727, 67.2727, 67.2727, 67.2727, 67.2727, 67.2727, 67.2727, 66.36359999999999, 66.36359999999999, 66.36359999999999, 60.9091, 60.0, 60.0], mean: 81.6919
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        36  81   0.619207  great inexpensive alternative electric treadmi...
+1        43  73   0.547537  lots different exercise equipment including cr...
+2        61  38   0.542640  like good patient get annual physicals usually...
+3        96  77   0.535820  treadmill easy setup parts included n nmy issu...
+4        20  66   0.520001  purchased treadmill 3 weeks ago husband overwe...
+5        33  63   0.510504  previously owned powered treadmill much prefer...
+6        50  34   0.366497  treadmill around year still holding strong n n...
+7        55  19   0.328514  first free shipping product ships california t...
+8        70  30   0.239955  less 120 great bargain inclement weather ca ge...
+9        71  31   0.219782  disappointed treadmill m tall person expect lo...
+10       29  10   0.207536  m 62 years young 6 feet tall weight 185lbs fin...
+11       56  13   0.165325  received treadmill week say pleasantly surpris...
+12       17   4   0.118201  extremely unstable hard walk belt additionally...

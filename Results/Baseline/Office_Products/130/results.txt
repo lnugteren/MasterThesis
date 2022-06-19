@@ -1,0 +1,966 @@
+------- Category: Office_Products -------
+Found asin_id: B0007VMROE
+Shape:  (130, 7)
+
+
+Chosen product: B0007VMROE has 130 reviews - True, it has 130 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 97.6923%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [3, 7, 12]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  12  64 bit usb drivers want synchronize computer 6...   0.132829
+
+step 1
+index added: 13
+percentage unclustered: 97.6923%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 95.3846%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [3, 7, 9, 14]
+			old information: 6, gain: 0.9995283018867924
+
+   ind                                             review  relevance
+0  14  received palm days ago ok actually last night ...   0.425369
+1  12  64 bit usb drivers want synchronize computer 6...   0.132829
+
+step 1
+index added: 15
+percentage unclustered: 95.3846%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 95.3846%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 93.0769%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [3, 4, 7, 14]
+			old information: 119, gain: 0.9900293255131964
+
+   ind                                             review  relevance
+0  14  received palm days ago ok actually last night ...   0.425369
+1  17  busy facility manager need palm operating syst...   0.393424
+2  12  64 bit usb drivers want synchronize computer 6...   0.132829
+
+step 1
+index added: 18
+percentage unclustered: 93.0769%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 92.3077%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [3, 4, 7, 14]
+
+step 1
+index added: 20
+percentage unclustered: 91.5385%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [3, 4, 7, 14]
+
+step 1
+index added: 21
+percentage unclustered: 91.5385%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 91.5385%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 91.5385%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 90.7692%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [3, 4, 7, 14]
+
+step 1
+index added: 25
+percentage unclustered: 90.7692%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 90.7692%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 93.8462%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 93.8462%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 93.8462%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 93.8462%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 93.8462%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 93.8462%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 91.5385%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [4, 14, 22, 33]
+			old information: 185, gain: 0.9825224374114313
+
+   ind                                             review  relevance
+0  33  first synchronization setup steps palm tungste...   0.449694
+1  14  received palm days ago ok actually last night ...   0.425369
+2  17  busy facility manager need palm operating syst...   0.393424
+3  12  64 bit usb drivers want synchronize computer 6...   0.132829
+
+step 1
+index added: 34
+percentage unclustered: 89.2308%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 89.2308%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 87.6923%
+
+	step 2
+
+		step 3
+		candidate index: 40 with core nodes: [9, 16, 19]
+			old information: 111, gain: 0.9540372670807453
+
+   ind                                             review  relevance
+0  33  first synchronization setup steps palm tungste...   0.449694
+1  14  received palm days ago ok actually last night ...   0.425369
+2  17  busy facility manager need palm operating syst...   0.393424
+3  40  use handheld nursing school able purchase refe...   0.206071
+4  12  64 bit usb drivers want synchronize computer 6...   0.132829
+
+step 1
+index added: 41
+percentage unclustered: 86.9231%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 86.9231%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 86.9231%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 86.9231%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 86.1538%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 86.1538%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 86.1538%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 86.1538%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 86.1538%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 85.3846%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 85.3846%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 85.3846%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 85.3846%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 83.8462%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 83.8462%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 84.6154%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 84.6154%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 84.6154%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 84.6154%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 84.6154%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 83.8462%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 86.1538%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 86.1538%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 86.1538%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 80.7692%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 80.7692%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 80.7692%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 77.6923%
+
+	step 2
+
+		step 3
+		candidate index: 68 with core nodes: [3, 41, 52, 68]
+			old information: 564, gain: 0.9719402985074627
+
+   ind                                             review  relevance
+0  33  first synchronization setup steps palm tungste...   0.449694
+1  68  old series black white adequate needs updated ...   0.443270
+2  14  received palm days ago ok actually last night ...   0.425369
+3  17  busy facility manager need palm operating syst...   0.393424
+4  40  use handheld nursing school able purchase refe...   0.206071
+5  12  64 bit usb drivers want synchronize computer 6...   0.132829
+
+step 1
+index added: 69
+percentage unclustered: 75.3846%
+
+	step 2
+
+		step 3
+		candidate index: 69 with core nodes: [22, 33, 56]
+			old information: 199, gain: 0.9337329337329338
+
+   ind                                             review  relevance
+0  33  first synchronization setup steps palm tungste...   0.449694
+1  68  old series black white adequate needs updated ...   0.443270
+2  14  received palm days ago ok actually last night ...   0.425369
+3  17  busy facility manager need palm operating syst...   0.393424
+4  69  bought tungsten e2 3 8 06 6 22 06 digitizer ma...   0.353321
+5  40  use handheld nursing school able purchase refe...   0.206071
+6  12  64 bit usb drivers want synchronize computer 6...   0.132829
+
+step 1
+index added: 70
+percentage unclustered: 75.3846%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 75.3846%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 75.3846%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 75.3846%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 74.6154%
+
+	step 2
+
+		step 3
+		candidate index: 74 with core nodes: [3, 41, 52, 68]
+
+step 1
+index added: 75
+percentage unclustered: 74.6154%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 74.6154%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 74.6154%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 74.6154%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 74.6154%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 73.8462%
+
+	step 2
+
+		step 3
+		candidate index: 80 with core nodes: [22, 33, 56, 80]
+			old information: 2930, gain: 0.9752410407213054
+
+   ind                                             review  relevance
+0  80  bought first palm years ago classic palmpilot ...   0.624987
+1  33  first synchronization setup steps palm tungste...   0.449694
+2  68  old series black white adequate needs updated ...   0.443270
+3  14  received palm days ago ok actually last night ...   0.425369
+4  17  busy facility manager need palm operating syst...   0.393424
+5  69  bought tungsten e2 3 8 06 6 22 06 digitizer ma...   0.353321
+6  40  use handheld nursing school able purchase refe...   0.206071
+7  12  64 bit usb drivers want synchronize computer 6...   0.132829
+
+step 1
+index added: 81
+percentage unclustered: 73.0769%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 73.0769%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 73.0769%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 73.0769%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 70.7692%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 69.2308%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 69.2308%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 68.4615%
+
+	step 2
+
+		step 3
+		candidate index: 90 with core nodes: [22, 33, 56, 80]
+
+step 1
+index added: 91
+percentage unclustered: 68.4615%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 68.4615%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 68.4615%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 66.15379999999999%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 65.3846%
+
+	step 2
+
+		step 3
+		candidate index: 95 with core nodes: [65, 69, 95]
+			old information: 149, gain: 0.7880512091038406
+
+   ind                                             review  relevance
+0  80  bought first palm years ago classic palmpilot ...   0.624987
+1  33  first synchronization setup steps palm tungste...   0.449694
+2  68  old series black white adequate needs updated ...   0.443270
+3  14  received palm days ago ok actually last night ...   0.425369
+4  17  busy facility manager need palm operating syst...   0.393424
+5  69  bought tungsten e2 3 8 06 6 22 06 digitizer ma...   0.353321
+6  95  something cost 200 90 day warranty pay 25 even...   0.253868
+7  40  use handheld nursing school able purchase refe...   0.206071
+8  12  64 bit usb drivers want synchronize computer 6...   0.132829
+
+step 1
+index added: 96
+percentage unclustered: 65.3846%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 65.3846%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 65.3846%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 64.6154%
+
+	step 2
+
+		step 3
+		candidate index: 99 with core nodes: [3, 41, 99]
+			old information: 275, gain: 0.9060150375939849
+
+   ind                                             review  relevance
+0  80  bought first palm years ago classic palmpilot ...   0.624987
+1  33  first synchronization setup steps palm tungste...   0.449694
+2  99  first haldheld ever got september 05 n nit sta...   0.444005
+3  68  old series black white adequate needs updated ...   0.443270
+4  14  received palm days ago ok actually last night ...   0.425369
+5  17  busy facility manager need palm operating syst...   0.393424
+6  69  bought tungsten e2 3 8 06 6 22 06 digitizer ma...   0.353321
+7  95  something cost 200 90 day warranty pay 25 even...   0.253868
+8  40  use handheld nursing school able purchase refe...   0.206071
+9  12  64 bit usb drivers want synchronize computer 6...   0.132829
+
+step 1
+index added: 100
+percentage unclustered: 64.6154%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 63.8462%
+
+	step 2
+
+		step 3
+		candidate index: 101 with core nodes: [33, 56, 80, 101]
+			old information: 1296, gain: 0.9462017434620175
+
+     ind                                             review  relevance
+0    80  bought first palm years ago classic palmpilot ...   0.624987
+1   101  palm tungsten e2 review four month later revis...   0.574559
+2    33  first synchronization setup steps palm tungste...   0.449694
+3    99  first haldheld ever got september 05 n nit sta...   0.444005
+4    68  old series black white adequate needs updated ...   0.443270
+5    14  received palm days ago ok actually last night ...   0.425369
+6    17  busy facility manager need palm operating syst...   0.393424
+7    69  bought tungsten e2 3 8 06 6 22 06 digitizer ma...   0.353321
+8    95  something cost 200 90 day warranty pay 25 even...   0.253868
+9    40  use handheld nursing school able purchase refe...   0.206071
+10   12  64 bit usb drivers want synchronize computer 6...   0.132829
+
+step 1
+index added: 102
+percentage unclustered: 63.0769%
+
+	step 2
+
+		step 3
+		candidate index: 102 with core nodes: [33, 56, 80, 101]
+			old information: 1924, gain: 0.9623040752351097
+
+     ind                                             review  relevance
+0    80  bought first palm years ago classic palmpilot ...   0.624987
+1   102  tungsten e2 going first palm device probably p...   0.604411
+2   101  palm tungsten e2 review four month later revis...   0.574559
+3    33  first synchronization setup steps palm tungste...   0.449694
+4    99  first haldheld ever got september 05 n nit sta...   0.444005
+5    68  old series black white adequate needs updated ...   0.443270
+6    14  received palm days ago ok actually last night ...   0.425369
+7    17  busy facility manager need palm operating syst...   0.393424
+8    69  bought tungsten e2 3 8 06 6 22 06 digitizer ma...   0.353321
+9    95  something cost 200 90 day warranty pay 25 even...   0.253868
+10   40  use handheld nursing school able purchase refe...   0.206071
+11   12  64 bit usb drivers want synchronize computer 6...   0.132829
+
+step 1
+index added: 103
+percentage unclustered: 63.0769%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 63.0769%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 63.0769%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 59.2308%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 58.4615%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 58.4615%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 57.6923%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 57.6923%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 57.6923%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 56.9231%
+
+	step 2
+
+		step 3
+		candidate index: 112 with core nodes: [3, 41, 99]
+
+step 1
+index added: 113
+percentage unclustered: 56.9231%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 56.9231%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 56.9231%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 56.9231%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 56.1538%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 53.8462%
+
+	step 2
+
+		step 3
+		candidate index: 118 with core nodes: [3, 41, 99]
+			old information: 83, gain: 0.912262156448203
+
+     ind                                             review  relevance
+0    80  bought first palm years ago classic palmpilot ...   0.624987
+1   102  tungsten e2 going first palm device probably p...   0.604411
+2   101  palm tungsten e2 review four month later revis...   0.574559
+3   118  nice palm product n n horrible reliability war...   0.498311
+4    33  first synchronization setup steps palm tungste...   0.449694
+5    99  first haldheld ever got september 05 n nit sta...   0.444005
+6    68  old series black white adequate needs updated ...   0.443270
+7    14  received palm days ago ok actually last night ...   0.425369
+8    17  busy facility manager need palm operating syst...   0.393424
+9    69  bought tungsten e2 3 8 06 6 22 06 digitizer ma...   0.353321
+10   95  something cost 200 90 day warranty pay 25 even...   0.253868
+11   40  use handheld nursing school able purchase refe...   0.206071
+12   12  64 bit usb drivers want synchronize computer 6...   0.132829
+
+step 1
+index added: 119
+percentage unclustered: 53.8462%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 53.8462%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 53.8462%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 53.8462%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 53.0769%
+
+	step 2
+
+		step 3
+		candidate index: 123 with core nodes: [3, 41, 99]
+
+step 1
+index added: 124
+percentage unclustered: 53.0769%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 53.0769%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 52.3077%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 52.3077%
+
+	step 2
+
+step 1
+index added: 128
+percentage unclustered: 51.5385%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 53.8462%
+
+	step 2
+
+--- 159.10864281654358 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 97.6923, 97.6923, 95.3846, 95.3846, 95.3846, 93.0769, 93.0769, 92.3077, 91.5385, 91.5385, 91.5385, 91.5385, 90.7692, 90.7692, 90.7692, 93.8462, 93.8462, 93.8462, 93.8462, 93.8462, 93.8462, 91.5385, 89.2308, 89.2308, 88.4615, 88.4615, 88.4615, 88.4615, 87.6923, 86.9231, 86.9231, 86.9231, 86.9231, 86.1538, 86.1538, 86.1538, 86.1538, 86.1538, 85.3846, 85.3846, 85.3846, 85.3846, 83.8462, 83.8462, 84.6154, 84.6154, 84.6154, 84.6154, 84.6154, 83.8462, 86.1538, 86.1538, 86.1538, 80.7692, 80.7692, 80.7692, 77.6923, 75.3846, 75.3846, 75.3846, 75.3846, 75.3846, 74.6154, 74.6154, 74.6154, 74.6154, 74.6154, 74.6154, 73.8462, 73.0769, 73.0769, 73.0769, 73.0769, 70.7692, 70.0, 70.0, 69.2308, 69.2308, 68.4615, 68.4615, 68.4615, 68.4615, 66.15379999999999, 65.3846, 65.3846, 65.3846, 65.3846, 64.6154, 64.6154, 63.8462, 63.0769, 63.0769, 63.0769, 63.0769, 59.2308, 58.4615, 58.4615, 57.6923, 57.6923, 57.6923, 56.9231, 56.9231, 56.9231, 56.9231, 56.9231, 56.1538, 53.8462, 53.8462, 53.8462, 53.8462, 53.8462, 53.0769, 53.0769, 53.0769, 52.3077, 52.3077, 51.5385, 53.8462], mean: 77.8245
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0         7   80   0.624987  bought first palm years ago classic palmpilot ...
+1        35  102   0.604411  tungsten e2 going first palm device probably p...
+2       129  101   0.574559  palm tungsten e2 review four month later revis...
+3       107  118   0.498311  nice palm product n n horrible reliability war...
+4        44   33   0.449694  first synchronization setup steps palm tungste...
+5        43   99   0.444005  first haldheld ever got september 05 n nit sta...
+6        63   68   0.443270  old series black white adequate needs updated ...
+7       110   14   0.425369  received palm days ago ok actually last night ...
+8        86   17   0.393424  busy facility manager need palm operating syst...
+9        21   69   0.353321  bought tungsten e2 3 8 06 6 22 06 digitizer ma...
+10       19   95   0.253868  something cost 200 90 day warranty pay 25 even...
+11      124   40   0.206071  use handheld nursing school able purchase refe...
+12      109   12   0.132829  64 bit usb drivers want synchronize computer 6...

@@ -1,0 +1,974 @@
+------- Category: Sports_and_Outdoors -------
+Found asin_id: B0016PWG7S
+Shape:  (130, 7)
+
+
+Chosen product: B0016PWG7S has 130 reviews - True, it has 130 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 100.0%
+
+step 1
+index added: 13
+percentage unclustered: 100.0%
+
+step 1
+index added: 14
+percentage unclustered: 97.6923%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [1, 5, 14]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  14  m sorry worth money returned 2 weeks stacking ...   0.267154
+
+step 1
+index added: 15
+percentage unclustered: 97.6923%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 96.1538%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [5, 8, 14, 16]
+			old information: 4, gain: 0.9982440737489026
+
+   ind                                             review  relevance
+0  16  workout great ten minutes definitely feeling b...   0.356212
+1  14  m sorry worth money returned 2 weeks stacking ...   0.267154
+
+step 1
+index added: 17
+percentage unclustered: 95.3846%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [5, 8, 14, 16]
+
+step 1
+index added: 18
+percentage unclustered: 95.3846%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 95.3846%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 95.3846%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 95.3846%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 95.3846%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 95.3846%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 93.8462%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [5, 8, 12, 14, 16]
+
+step 1
+index added: 25
+percentage unclustered: 93.8462%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 93.0769%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [5, 8, 16, 26]
+			old information: 49, gain: 0.9840960727036676
+
+   ind                                             review  relevance
+0  26  workout everything needed condensed 10 minute ...   0.500814
+1  16  workout great ten minutes definitely feeling b...   0.356212
+2  14  m sorry worth money returned 2 weeks stacking ...   0.267154
+
+step 1
+index added: 27
+percentage unclustered: 93.0769%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 93.0769%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 93.0769%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 91.5385%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [5, 8, 16, 26]
+
+step 1
+index added: 31
+percentage unclustered: 90.7692%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 90.7692%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 91.5385%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 90.7692%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 90.7692%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 90.7692%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [5, 8, 26, 31, 37]
+			old information: 99, gain: 0.9851574212893554
+
+   ind                                             review  relevance
+0  26  workout everything needed condensed 10 minute ...   0.500814
+1  16  workout great ten minutes definitely feeling b...   0.356212
+2  37  tell order get better results 20 30 minutes or...   0.354992
+3  14  m sorry worth money returned 2 weeks stacking ...   0.267154
+
+step 1
+index added: 38
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 87.6923%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [5, 26, 43]
+			old information: 307, gain: 0.9675235375013224
+
+   ind                                             review  relevance
+0  26  workout everything needed condensed 10 minute ...   0.500814
+1  43  ordered tony horton 10 minute trainer almost y...   0.494217
+2  16  workout great ten minutes definitely feeling b...   0.356212
+3  37  tell order get better results 20 30 minutes or...   0.354992
+4  14  m sorry worth money returned 2 weeks stacking ...   0.267154
+
+step 1
+index added: 44
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 85.3846%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [4, 5, 8, 16, 21, 26, 43]
+
+step 1
+index added: 48
+percentage unclustered: 85.3846%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 83.0769%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [4, 5, 8, 16, 21, 26, 43]
+			old information: 392, gain: 0.9208080808080809
+
+   ind                                             review  relevance
+0  26  workout everything needed condensed 10 minute ...   0.500814
+1  43  ordered tony horton 10 minute trainer almost y...   0.494217
+2  49  ordered product two years ago used every morni...   0.462782
+3  16  workout great ten minutes definitely feeling b...   0.356212
+4  37  tell order get better results 20 30 minutes or...   0.354992
+5  14  m sorry worth money returned 2 weeks stacking ...   0.267154
+
+step 1
+index added: 50
+percentage unclustered: 83.0769%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 83.8462%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 84.6154%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 84.6154%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 84.6154%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 83.8462%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 83.8462%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 83.8462%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 83.8462%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 83.0769%
+
+	step 2
+
+		step 3
+		candidate index: 59 with core nodes: [47, 55, 59]
+			old information: 237, gain: 0.89280868385346
+
+   ind                                             review  relevance
+0  26  workout everything needed condensed 10 minute ...   0.500814
+1  43  ordered tony horton 10 minute trainer almost y...   0.494217
+2  49  ordered product two years ago used every morni...   0.462782
+3  16  workout great ten minutes definitely feeling b...   0.356212
+4  37  tell order get better results 20 30 minutes or...   0.354992
+5  14  m sorry worth money returned 2 weeks stacking ...   0.267154
+6  59  love product videos entertaining insightful ex...   0.256590
+
+step 1
+index added: 60
+percentage unclustered: 83.0769%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 83.0769%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 80.7692%
+
+	step 2
+
+		step 3
+		candidate index: 62 with core nodes: [5, 26, 43, 62]
+			old information: 1028, gain: 0.9785363816682326
+
+   ind                                             review  relevance
+0  62  m long time fan p90x system simply put single ...   0.594661
+1  26  workout everything needed condensed 10 minute ...   0.500814
+2  43  ordered tony horton 10 minute trainer almost y...   0.494217
+3  49  ordered product two years ago used every morni...   0.462782
+4  16  workout great ten minutes definitely feeling b...   0.356212
+5  37  tell order get better results 20 30 minutes or...   0.354992
+6  14  m sorry worth money returned 2 weeks stacking ...   0.267154
+7  59  love product videos entertaining insightful ex...   0.256590
+
+step 1
+index added: 63
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 63 with core nodes: [5, 26, 43, 62]
+
+step 1
+index added: 64
+percentage unclustered: 82.3077%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 82.3077%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 79.2308%
+
+	step 2
+
+		step 3
+		candidate index: 66 with core nodes: [5, 21, 26, 62]
+			old information: 380, gain: 0.8734598734598734
+
+   ind                                             review  relevance
+0  62  m long time fan p90x system simply put single ...   0.594661
+1  26  workout everything needed condensed 10 minute ...   0.500814
+2  43  ordered tony horton 10 minute trainer almost y...   0.494217
+3  49  ordered product two years ago used every morni...   0.462782
+4  66  someone done insanity p90x knew beachbody puts...   0.456384
+5  16  workout great ten minutes definitely feeling b...   0.356212
+6  37  tell order get better results 20 30 minutes or...   0.354992
+7  14  m sorry worth money returned 2 weeks stacking ...   0.267154
+8  59  love product videos entertaining insightful ex...   0.256590
+
+step 1
+index added: 67
+percentage unclustered: 79.2308%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 68 with core nodes: [5, 13, 26, 62]
+
+step 1
+index added: 69
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 81.5385%
+
+	step 2
+
+		step 3
+		candidate index: 73 with core nodes: [5, 62, 73]
+			old information: 352, gain: 0.9472263868065967
+
+   ind                                             review  relevance
+0  62  m long time fan p90x system simply put single ...   0.594661
+1  73  wife using 10 minute trainers awhile really en...   0.514265
+2  26  workout everything needed condensed 10 minute ...   0.500814
+3  43  ordered tony horton 10 minute trainer almost y...   0.494217
+4  49  ordered product two years ago used every morni...   0.462782
+5  66  someone done insanity p90x knew beachbody puts...   0.456384
+6  16  workout great ten minutes definitely feeling b...   0.356212
+7  37  tell order get better results 20 30 minutes or...   0.354992
+8  14  m sorry worth money returned 2 weeks stacking ...   0.267154
+9  59  love product videos entertaining insightful ex...   0.256590
+
+step 1
+index added: 74
+percentage unclustered: 81.5385%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 81.5385%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 76 with core nodes: [5, 62, 73]
+
+step 1
+index added: 77
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 80.7692%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 78.4615%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 78.4615%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 78.4615%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 78.4615%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 78.4615%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 78.4615%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 78.4615%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 78.4615%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 77.6923%
+
+	step 2
+
+		step 3
+		candidate index: 87 with core nodes: [5, 62, 73]
+
+step 1
+index added: 88
+percentage unclustered: 77.6923%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 76.9231%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 76.9231%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 76.1538%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 76.1538%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 76.1538%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 76.1538%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 76.1538%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 73.8462%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 73.8462%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 73.8462%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 73.0769%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 71.5385%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 71.5385%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 71.5385%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 71.5385%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 71.5385%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 71.5385%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 69.2308%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 71.5385%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 63.8462%
+
+	step 2
+
+		step 3
+		candidate index: 108 with core nodes: [2, 5, 13, 62, 73, 106, 108]
+			old information: 595, gain: 0.8609163160355306
+
+     ind                                             review  relevance
+0    62  m long time fan p90x system simply put single ...   0.594661
+1   108  10 minute training program great get best resu...   0.541487
+2    73  wife using 10 minute trainers awhile really en...   0.514265
+3    26  workout everything needed condensed 10 minute ...   0.500814
+4    43  ordered tony horton 10 minute trainer almost y...   0.494217
+5    49  ordered product two years ago used every morni...   0.462782
+6    66  someone done insanity p90x knew beachbody puts...   0.456384
+7    16  workout great ten minutes definitely feeling b...   0.356212
+8    37  tell order get better results 20 30 minutes or...   0.354992
+9    14  m sorry worth money returned 2 weeks stacking ...   0.267154
+10   59  love product videos entertaining insightful ex...   0.256590
+
+step 1
+index added: 109
+percentage unclustered: 63.8462%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 63.8462%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 63.8462%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 63.0769%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 62.3077%
+
+	step 2
+
+		step 3
+		candidate index: 113 with core nodes: [2, 5, 13, 62, 73, 106, 108]
+
+step 1
+index added: 114
+percentage unclustered: 62.3077%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 62.3077%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 61.5385%
+
+	step 2
+
+		step 3
+		candidate index: 116 with core nodes: [5, 62, 73, 116]
+			old information: 324, gain: 0.8658385093167702
+
+     ind                                             review  relevance
+0    62  m long time fan p90x system simply put single ...   0.594661
+1   108  10 minute training program great get best resu...   0.541487
+2    73  wife using 10 minute trainers awhile really en...   0.514265
+3    26  workout everything needed condensed 10 minute ...   0.500814
+4    43  ordered tony horton 10 minute trainer almost y...   0.494217
+5   116  photo ad misleads customer receive cardio belt...   0.479498
+6    49  ordered product two years ago used every morni...   0.462782
+7    66  someone done insanity p90x knew beachbody puts...   0.456384
+8    16  workout great ten minutes definitely feeling b...   0.356212
+9    37  tell order get better results 20 30 minutes or...   0.354992
+10   14  m sorry worth money returned 2 weeks stacking ...   0.267154
+11   59  love product videos entertaining insightful ex...   0.256590
+
+step 1
+index added: 117
+percentage unclustered: 61.5385%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 61.5385%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 60.7692%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 60.7692%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 57.6923%
+
+	step 2
+
+		step 3
+		candidate index: 121 with core nodes: [2, 13, 106]
+
+step 1
+index added: 122
+percentage unclustered: 57.6923%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 57.6923%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 57.6923%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 56.9231%
+
+	step 2
+
+		step 3
+		candidate index: 125 with core nodes: [5, 62, 73, 116, 125]
+			old information: 761, gain: 0.883905415713196
+
+     ind                                             review  relevance
+0    62  m long time fan p90x system simply put single ...   0.594661
+1   108  10 minute training program great get best resu...   0.541487
+2   125  regularly exercising 30 years must say horton ...   0.529992
+3    73  wife using 10 minute trainers awhile really en...   0.514265
+4    26  workout everything needed condensed 10 minute ...   0.500814
+5    43  ordered tony horton 10 minute trainer almost y...   0.494217
+6   116  photo ad misleads customer receive cardio belt...   0.479498
+7    49  ordered product two years ago used every morni...   0.462782
+8    66  someone done insanity p90x knew beachbody puts...   0.456384
+9    16  workout great ten minutes definitely feeling b...   0.356212
+10   37  tell order get better results 20 30 minutes or...   0.354992
+11   14  m sorry worth money returned 2 weeks stacking ...   0.267154
+12   59  love product videos entertaining insightful ex...   0.256590
+
+step 1
+index added: 126
+percentage unclustered: 56.1538%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 56.1538%
+
+	step 2
+
+step 1
+index added: 128
+percentage unclustered: 55.3846%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 54.6154%
+
+	step 2
+
+		step 3
+		candidate index: 129 with core nodes: [2, 13, 106]
+
+--- 86.3480076789856 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 97.6923, 97.6923, 96.1538, 95.3846, 95.3846, 95.3846, 95.3846, 95.3846, 95.3846, 95.3846, 93.8462, 93.8462, 93.0769, 93.0769, 93.0769, 93.0769, 91.5385, 90.7692, 90.7692, 91.5385, 90.7692, 90.7692, 90.7692, 90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 87.6923, 87.6923, 87.6923, 87.6923, 85.3846, 85.3846, 83.0769, 83.0769, 83.8462, 84.6154, 84.6154, 84.6154, 83.8462, 83.8462, 83.8462, 83.8462, 83.0769, 83.0769, 83.0769, 80.7692, 80.0, 82.3077, 82.3077, 79.2308, 79.2308, 80.0, 80.0, 80.0, 80.0, 80.0, 81.5385, 81.5385, 81.5385, 80.0, 80.0, 80.7692, 78.4615, 78.4615, 78.4615, 78.4615, 78.4615, 78.4615, 78.4615, 78.4615, 77.6923, 77.6923, 76.9231, 76.9231, 76.1538, 76.1538, 76.1538, 76.1538, 76.1538, 73.8462, 73.8462, 73.8462, 73.0769, 71.5385, 71.5385, 71.5385, 71.5385, 71.5385, 71.5385, 69.2308, 71.5385, 63.8462, 63.8462, 63.8462, 63.8462, 63.0769, 62.3077, 62.3077, 62.3077, 61.5385, 61.5385, 61.5385, 60.7692, 60.7692, 57.6923, 57.6923, 57.6923, 57.6923, 56.9231, 56.1538, 56.1538, 55.3846, 54.6154], mean: 81.0877
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0        41   62   0.594661  m long time fan p90x system simply put single ...
+1        58  108   0.541487  10 minute training program great get best resu...
+2         3  125   0.529992  regularly exercising 30 years must say horton ...
+3       107   73   0.514265  wife using 10 minute trainers awhile really en...
+4       115   26   0.500814  workout everything needed condensed 10 minute ...
+5        16   43   0.494217  ordered tony horton 10 minute trainer almost y...
+6       121  116   0.479498  photo ad misleads customer receive cardio belt...
+7        43   49   0.462782  ordered product two years ago used every morni...
+8        92   66   0.456384  someone done insanity p90x knew beachbody puts...
+9        88   16   0.356212  workout great ten minutes definitely feeling b...
+10       29   37   0.354992  tell order get better results 20 30 minutes or...
+11       76   14   0.267154  m sorry worth money returned 2 weeks stacking ...
+12       84   59   0.256590  love product videos entertaining insightful ex...

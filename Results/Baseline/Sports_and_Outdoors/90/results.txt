@@ -1,0 +1,787 @@
+------- Category: Sports_and_Outdoors -------
+Found asin_id: B001IDZHF6
+Shape:  (90, 7)
+
+
+Chosen product: B001IDZHF6 has 90 reviews - True, it has 90 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 96.6667%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [2, 7, 11]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  11  2 months using 3 4 times week definitely makes...   0.047494
+
+step 1
+index added: 12
+percentage unclustered: 95.5556%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [2, 7, 11, 12]
+			old information: 1, gain: 0.9990749306197965
+
+   ind                                             review  relevance
+0  12  really enjoy working step machines belonged gy...   0.175550
+1  11  2 months using 3 4 times week definitely makes...   0.047494
+
+step 1
+index added: 13
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 93.3333%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [0, 2, 12, 14]
+			old information: 56, gain: 0.9977777777777778
+
+   ind                                             review  relevance
+0  14  loved thing arrived true hard pedal even lowes...   0.273930
+1  12  really enjoy working step machines belonged gy...   0.175550
+2  11  2 months using 3 4 times week definitely makes...   0.047494
+
+step 1
+index added: 15
+percentage unclustered: 92.2222%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [0, 2, 12, 14]
+			old information: 40, gain: 0.9781420765027322
+
+   ind                                             review  relevance
+0  14  loved thing arrived true hard pedal even lowes...   0.273930
+1  12  really enjoy working step machines belonged gy...   0.175550
+2  15  totally love stepper hubby live small townhous...   0.161695
+3  11  2 months using 3 4 times week definitely makes...   0.047494
+
+step 1
+index added: 16
+percentage unclustered: 92.2222%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 92.2222%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 91.1111%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [0, 2, 14, 15, 18]
+			old information: 83, gain: 0.9322448979591836
+
+   ind                                             review  relevance
+0  14  loved thing arrived true hard pedal even lowes...   0.273930
+1  18  put sunny stepper together without hitch love ...   0.246316
+2  12  really enjoy working step machines belonged gy...   0.175550
+3  15  totally love stepper hubby live small townhous...   0.161695
+4  11  2 months using 3 4 times week definitely makes...   0.047494
+
+step 1
+index added: 19
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [0, 2, 11, 14, 15, 18, 19]
+			old information: 17, gain: 0.919047619047619
+
+   ind                                             review  relevance
+0  14  loved thing arrived true hard pedal even lowes...   0.273930
+1  18  put sunny stepper together without hitch love ...   0.246316
+2  19  compact well constructed receive mine days go ...   0.192379
+3  12  really enjoy working step machines belonged gy...   0.175550
+4  15  totally love stepper hubby live small townhous...   0.161695
+5  11  2 months using 3 4 times week definitely makes...   0.047494
+
+step 1
+index added: 20
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 88.8889%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [0, 2, 11, 14, 15, 18, 19]
+			old information: 67, gain: 0.9633879781420766
+
+   ind                                             review  relevance
+0  14  loved thing arrived true hard pedal even lowes...   0.273930
+1  18  put sunny stepper together without hitch love ...   0.246316
+2  19  compact well constructed receive mine days go ...   0.192379
+3  12  really enjoy working step machines belonged gy...   0.175550
+4  15  totally love stepper hubby live small townhous...   0.161695
+5  21  sturdy build quality tell hold decent amount w...   0.147559
+6  11  2 months using 3 4 times week definitely makes...   0.047494
+
+step 1
+index added: 22
+percentage unclustered: 88.8889%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 88.8889%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 88.8889%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 88.8889%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 85.5556%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [0, 2, 12, 15, 18, 26]
+			old information: 139, gain: 0.9187609585037989
+
+   ind                                             review  relevance
+0  14  loved thing arrived true hard pedal even lowes...   0.273930
+1  26  honest felt like stepped 1987 bought looking s...   0.264602
+2  18  put sunny stepper together without hitch love ...   0.246316
+3  19  compact well constructed receive mine days go ...   0.192379
+4  12  really enjoy working step machines belonged gy...   0.175550
+5  15  totally love stepper hubby live small townhous...   0.161695
+6  21  sturdy build quality tell hold decent amount w...   0.147559
+7  11  2 months using 3 4 times week definitely makes...   0.047494
+
+		step 3
+		candidate index: 26 with core nodes: [2, 12, 16, 19, 21, 24, 26]
+			old information: 1436, gain: 0.16072472238457042
+
+		step 3
+		candidate index: 26 with core nodes: [0, 2, 15, 16, 18, 19, 21, 24, 26]
+			old information: 1436, gain: 0.16072472238457042
+
+step 1
+index added: 27
+percentage unclustered: 85.5556%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 87.7778%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [2, 16, 19, 28]
+			old information: 328, gain: 0.9309909530822639
+
+   ind                                             review  relevance
+0  28  great compact stair stepper looking something ...   0.284933
+1  14  loved thing arrived true hard pedal even lowes...   0.273930
+2  26  honest felt like stepped 1987 bought looking s...   0.264602
+3  18  put sunny stepper together without hitch love ...   0.246316
+4  19  compact well constructed receive mine days go ...   0.192379
+5  12  really enjoy working step machines belonged gy...   0.175550
+6  15  totally love stepper hubby live small townhous...   0.161695
+7  21  sturdy build quality tell hold decent amount w...   0.147559
+8  11  2 months using 3 4 times week definitely makes...   0.047494
+
+step 1
+index added: 29
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 29 with core nodes: [2, 16, 19, 24, 29]
+			old information: 28, gain: 0.7666666666666667
+
+   ind                                             review  relevance
+0  28  great compact stair stepper looking something ...   0.284933
+1  14  loved thing arrived true hard pedal even lowes...   0.273930
+2  26  honest felt like stepped 1987 bought looking s...   0.264602
+3  18  put sunny stepper together without hitch love ...   0.246316
+4  29  last stepper broke one replacement love item u...   0.237831
+5  19  compact well constructed receive mine days go ...   0.192379
+6  12  really enjoy working step machines belonged gy...   0.175550
+7  15  totally love stepper hubby live small townhous...   0.161695
+8  21  sturdy build quality tell hold decent amount w...   0.147559
+9  11  2 months using 3 4 times week definitely makes...   0.047494
+
+step 1
+index added: 30
+percentage unclustered: 82.2222%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [0, 14, 15, 16, 28, 29, 30]
+			old information: 30, gain: 0.9145299145299145
+
+    ind                                             review  relevance
+0   28  great compact stair stepper looking something ...   0.284933
+1   14  loved thing arrived true hard pedal even lowes...   0.273930
+2   26  honest felt like stepped 1987 bought looking s...   0.264602
+3   18  put sunny stepper together without hitch love ...   0.246316
+4   29  last stepper broke one replacement love item u...   0.237831
+5   19  compact well constructed receive mine days go ...   0.192379
+6   30  loved stepper broke couple months ncheap produ...   0.176685
+7   12  really enjoy working step machines belonged gy...   0.175550
+8   15  totally love stepper hubby live small townhous...   0.161695
+9   21  sturdy build quality tell hold decent amount w...   0.147559
+10  11  2 months using 3 4 times week definitely makes...   0.047494
+
+step 1
+index added: 31
+percentage unclustered: 81.1111%
+
+	step 2
+
+		step 3
+		candidate index: 31 with core nodes: [0, 14, 15, 16, 28, 29, 30]
+			old information: 23, gain: 0.7472527472527473
+
+    ind                                             review  relevance
+0   28  great compact stair stepper looking something ...   0.284933
+1   14  loved thing arrived true hard pedal even lowes...   0.273930
+2   26  honest felt like stepped 1987 bought looking s...   0.264602
+3   18  put sunny stepper together without hitch love ...   0.246316
+4   29  last stepper broke one replacement love item u...   0.237831
+5   19  compact well constructed receive mine days go ...   0.192379
+6   30  loved stepper broke couple months ncheap produ...   0.176685
+7   12  really enjoy working step machines belonged gy...   0.175550
+8   15  totally love stepper hubby live small townhous...   0.161695
+9   31  reason stepper count calories counts time 4 se...   0.154642
+10  21  sturdy build quality tell hold decent amount w...   0.147559
+11  11  2 months using 3 4 times week definitely makes...   0.047494
+
+step 1
+index added: 32
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 77.7778%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [0, 14, 15, 16, 28, 29, 35]
+			old information: 105, gain: 0.9364791288566243
+
+    ind                                             review  relevance
+0   28  great compact stair stepper looking something ...   0.284933
+1   35  original straight up and down pedal step movem...   0.276225
+2   14  loved thing arrived true hard pedal even lowes...   0.273930
+3   26  honest felt like stepped 1987 bought looking s...   0.264602
+4   18  put sunny stepper together without hitch love ...   0.246316
+5   29  last stepper broke one replacement love item u...   0.237831
+6   19  compact well constructed receive mine days go ...   0.192379
+7   30  loved stepper broke couple months ncheap produ...   0.176685
+8   12  really enjoy working step machines belonged gy...   0.175550
+9   15  totally love stepper hubby live small townhous...   0.161695
+10  31  reason stepper count calories counts time 4 se...   0.154642
+11  21  sturdy build quality tell hold decent amount w...   0.147559
+12  11  2 months using 3 4 times week definitely makes...   0.047494
+
+step 1
+index added: 36
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 75.5556%
+
+	step 2
+
+		step 3
+		candidate index: 52 with core nodes: [0, 14, 15, 26, 28, 29, 35, 52]
+			old information: 1214, gain: 0.9743220948432675
+
+    ind                                             review  relevance
+0   52  around 163 pounds n27 years old n5 4 little th...   0.316022
+1   28  great compact stair stepper looking something ...   0.284933
+2   35  original straight up and down pedal step movem...   0.276225
+3   14  loved thing arrived true hard pedal even lowes...   0.273930
+4   26  honest felt like stepped 1987 bought looking s...   0.264602
+5   18  put sunny stepper together without hitch love ...   0.246316
+6   29  last stepper broke one replacement love item u...   0.237831
+7   19  compact well constructed receive mine days go ...   0.192379
+8   30  loved stepper broke couple months ncheap produ...   0.176685
+9   12  really enjoy working step machines belonged gy...   0.175550
+10  15  totally love stepper hubby live small townhous...   0.161695
+11  31  reason stepper count calories counts time 4 se...   0.154642
+12  21  sturdy build quality tell hold decent amount w...   0.147559
+13  11  2 months using 3 4 times week definitely makes...   0.047494
+
+step 1
+index added: 53
+percentage unclustered: 82.2222%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 82.2222%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 82.2222%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 82.2222%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 82.2222%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 67 with core nodes: [23, 24, 47, 53, 58, 60, 64, 65]
+
+step 1
+index added: 68
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 67.7778%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 67.7778%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 67.7778%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 67.7778%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 67.7778%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 67.7778%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 67.7778%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 76 with core nodes: [47, 52, 76]
+			old information: 487, gain: 0.9108058608058608
+
+    ind                                             review  relevance
+0   76  week opinion may change longer usage easy asse...   0.331959
+1   52  around 163 pounds n27 years old n5 4 little th...   0.316022
+2   28  great compact stair stepper looking something ...   0.284933
+3   35  original straight up and down pedal step movem...   0.276225
+4   14  loved thing arrived true hard pedal even lowes...   0.273930
+5   26  honest felt like stepped 1987 bought looking s...   0.264602
+6   18  put sunny stepper together without hitch love ...   0.246316
+7   29  last stepper broke one replacement love item u...   0.237831
+8   19  compact well constructed receive mine days go ...   0.192379
+9   30  loved stepper broke couple months ncheap produ...   0.176685
+10  12  really enjoy working step machines belonged gy...   0.175550
+11  15  totally love stepper hubby live small townhous...   0.161695
+12  31  reason stepper count calories counts time 4 se...   0.154642
+13  21  sturdy build quality tell hold decent amount w...   0.147559
+14  11  2 months using 3 4 times week definitely makes...   0.047494
+
+step 1
+index added: 77
+percentage unclustered: 65.5556%
+
+	step 2
+
+		step 3
+		candidate index: 77 with core nodes: [47, 52, 76]
+			old information: 295, gain: 0.8907811921510551
+
+    ind                                             review  relevance
+0   76  week opinion may change longer usage easy asse...   0.331959
+1   77  heart rate really gets going compact little st...   0.317690
+2   52  around 163 pounds n27 years old n5 4 little th...   0.316022
+3   28  great compact stair stepper looking something ...   0.284933
+4   35  original straight up and down pedal step movem...   0.276225
+5   14  loved thing arrived true hard pedal even lowes...   0.273930
+6   26  honest felt like stepped 1987 bought looking s...   0.264602
+7   18  put sunny stepper together without hitch love ...   0.246316
+8   29  last stepper broke one replacement love item u...   0.237831
+9   19  compact well constructed receive mine days go ...   0.192379
+10  30  loved stepper broke couple months ncheap produ...   0.176685
+11  12  really enjoy working step machines belonged gy...   0.175550
+12  15  totally love stepper hubby live small townhous...   0.161695
+13  31  reason stepper count calories counts time 4 se...   0.154642
+14  21  sturdy build quality tell hold decent amount w...   0.147559
+15  11  2 months using 3 4 times week definitely makes...   0.047494
+
+step 1
+index added: 78
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 67.7778%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 67.7778%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 65.5556%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 65.5556%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 62.2222%
+
+	step 2
+
+		step 3
+		candidate index: 84 with core nodes: [47, 52, 61, 71]
+
+step 1
+index added: 85
+percentage unclustered: 62.2222%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 62.2222%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 62.2222%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 65.5556%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 65.5556%
+
+	step 2
+
+--- 38.20409059524536 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 96.6667, 95.5556, 95.5556, 93.3333, 92.2222, 92.2222, 92.2222, 91.1111, 90.0, 90.0, 88.8889, 88.8889, 88.8889, 88.8889, 88.8889, 85.5556, 85.5556, 87.7778, 90.0, 82.2222, 81.1111, 81.1111, 80.0, 80.0, 77.7778, 77.7778, 76.66669999999999, 76.66669999999999, 76.66669999999999, 76.66669999999999, 76.66669999999999, 76.66669999999999, 76.66669999999999, 76.66669999999999, 76.66669999999999, 76.66669999999999, 76.66669999999999, 76.66669999999999, 76.66669999999999, 76.66669999999999, 76.66669999999999, 75.5556, 82.2222, 81.1111, 81.1111, 81.1111, 81.1111, 80.0, 80.0, 82.2222, 82.2222, 82.2222, 82.2222, 81.1111, 77.7778, 77.7778, 73.33330000000001, 73.33330000000001, 67.7778, 67.7778, 67.7778, 67.7778, 67.7778, 67.7778, 67.7778, 66.66669999999999, 65.5556, 66.66669999999999, 67.7778, 67.7778, 66.66669999999999, 65.5556, 65.5556, 62.2222, 62.2222, 62.2222, 62.2222, 65.5556, 65.5556], mean: 80.3788
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        53  76   0.331959  week opinion may change longer usage easy asse...
+1        23  77   0.317690  heart rate really gets going compact little st...
+2         8  52   0.316022  around 163 pounds n27 years old n5 4 little th...
+3        58  28   0.284933  great compact stair stepper looking something ...
+4        43  35   0.276225  original straight up and down pedal step movem...
+5        22  14   0.273930  loved thing arrived true hard pedal even lowes...
+6        66  26   0.264602  honest felt like stepped 1987 bought looking s...
+7        45  18   0.246316  put sunny stepper together without hitch love ...
+8        70  29   0.237831  last stepper broke one replacement love item u...
+9        56  19   0.192379  compact well constructed receive mine days go ...
+10       36  30   0.176685  loved stepper broke couple months ncheap produ...
+11       47  12   0.175550  really enjoy working step machines belonged gy...
+12       28  15   0.161695  totally love stepper hubby live small townhous...
+13       61  31   0.154642  reason stepper count calories counts time 4 se...
+14       60  21   0.147559  sturdy build quality tell hold decent amount w...
+15       46  11   0.047494  2 months using 3 4 times week definitely makes...

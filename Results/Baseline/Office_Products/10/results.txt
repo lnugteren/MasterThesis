@@ -1,0 +1,57 @@
+------- Category: Office_Products -------
+Found asin_id: 0310823706
+Shape:  (10, 7)
+
+
+Chosen product: 0310823706 has 10 reviews - True, it has 10 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 60.0%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [0, 3, 6, 9]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   9  nice cover tyndale life application study bibl...   0.424094
+
+--- 0.05448555946350098 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 60.0], mean: 95.0
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0        9   9   0.424094  nice cover tyndale life application study bibl...

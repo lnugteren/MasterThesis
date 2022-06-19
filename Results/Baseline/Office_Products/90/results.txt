@@ -1,0 +1,713 @@
+------- Category: Office_Products -------
+Found asin_id: B00M9GTHS4
+Shape:  (90, 7)
+
+
+Chosen product: B00M9GTHS4 has 90 reviews - True, it has 90 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 96.6667%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [3, 6, 7]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   7  used quicken since ran dos 20 years good intui...   0.300333
+
+step 1
+index added: 8
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 94.4444%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [3, 6, 7, 12]
+			old information: 30, gain: 0.9923391215526047
+
+   ind                                             review  relevance
+0  12  worked accounting years got masters computer i...   0.374845
+1   7  used quicken since ran dos 20 years good intui...   0.300333
+
+step 1
+index added: 13
+percentage unclustered: 94.4444%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 94.4444%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 93.3333%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [6, 7, 12, 15]
+			old information: 188, gain: 0.9933898245490664
+
+   ind                                             review  relevance
+0  15  intuit recently informed support connected ser...   0.386172
+1  12  worked accounting years got masters computer i...   0.374845
+2   7  used quicken since ran dos 20 years good intui...   0.300333
+
+step 1
+index added: 16
+percentage unclustered: 93.3333%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [6, 12, 15, 16]
+			old information: 1015, gain: 0.9886278332380984
+
+   ind                                             review  relevance
+0  16  probably lot longer past reviews want make sur...   0.526381
+1  15  intuit recently informed support connected ser...   0.386172
+2  12  worked accounting years got masters computer i...   0.374845
+3   7  used quicken since ran dos 20 years good intui...   0.300333
+
+step 1
+index added: 17
+percentage unclustered: 93.3333%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 93.3333%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 94.4444%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 94.4444%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 94.4444%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [15, 16, 19, 22]
+			old information: 749, gain: 0.9713092775607141
+
+   ind                                             review  relevance
+0  22  using quicken since originally introduced many...   0.606501
+1  16  probably lot longer past reviews want make sur...   0.526381
+2  15  intuit recently informed support connected ser...   0.386172
+3  12  worked accounting years got masters computer i...   0.374845
+4   7  used quicken since ran dos 20 years good intui...   0.300333
+
+step 1
+index added: 23
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 93.3333%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [12, 16, 22, 24]
+			old information: 574, gain: 0.905978705978706
+
+   ind                                             review  relevance
+0  22  using quicken since originally introduced many...   0.606501
+1  16  probably lot longer past reviews want make sur...   0.526381
+2  24  like spyware love quicken say spyware quicken ...   0.449987
+3  15  intuit recently informed support connected ser...   0.386172
+4  12  worked accounting years got masters computer i...   0.374845
+5   7  used quicken since ran dos 20 years good intui...   0.300333
+
+step 1
+index added: 25
+percentage unclustered: 93.3333%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 93.3333%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [16, 21, 22]
+
+step 1
+index added: 28
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 91.1111%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 91.1111%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [16, 21, 22]
+			old information: 805, gain: 0.9458932652238204
+
+   ind                                             review  relevance
+0  22  using quicken since originally introduced many...   0.606501
+1  16  probably lot longer past reviews want make sur...   0.526381
+2  32  little think incompetent masters degree used q...   0.491831
+3  24  like spyware love quicken say spyware quicken ...   0.449987
+4  15  intuit recently informed support connected ser...   0.386172
+5  12  worked accounting years got masters computer i...   0.374845
+6   7  used quicken since ran dos 20 years good intui...   0.300333
+
+step 1
+index added: 33
+percentage unclustered: 87.7778%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [12, 16, 22, 32]
+			old information: 1008, gain: 0.9187293396758849
+
+   ind                                             review  relevance
+0  22  using quicken since originally introduced many...   0.606501
+1  16  probably lot longer past reviews want make sur...   0.526381
+2  32  little think incompetent masters degree used q...   0.491831
+3  34  rarely write reviews amazon fed intuit quicken...   0.468536
+4  24  like spyware love quicken say spyware quicken ...   0.449987
+5  15  intuit recently informed support connected ser...   0.386172
+6  12  worked accounting years got masters computer i...   0.374845
+7   7  used quicken since ran dos 20 years good intui...   0.300333
+
+step 1
+index added: 35
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 88.8889%
+
+	step 2
+
+		step 3
+		candidate index: 39 with core nodes: [12, 16, 22, 32]
+
+step 1
+index added: 40
+percentage unclustered: 85.5556%
+
+	step 2
+
+		step 3
+		candidate index: 40 with core nodes: [16, 34, 40]
+			old information: 581, gain: 0.9012911994563371
+
+   ind                                             review  relevance
+0  22  using quicken since originally introduced many...   0.606501
+1  16  probably lot longer past reviews want make sur...   0.526381
+2  32  little think incompetent masters degree used q...   0.491831
+3  40  used quicken since 1984 generally pleased prod...   0.479889
+4  34  rarely write reviews amazon fed intuit quicken...   0.468536
+5  24  like spyware love quicken say spyware quicken ...   0.449987
+6  15  intuit recently informed support connected ser...   0.386172
+7  12  worked accounting years got masters computer i...   0.374845
+8   7  used quicken since ran dos 20 years good intui...   0.300333
+
+step 1
+index added: 41
+percentage unclustered: 84.4444%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [16, 22, 40, 41]
+			old information: 1987, gain: 0.9182640888523241
+
+   ind                                             review  relevance
+0  41  purchased quicken deluxe 2015 windows amazon r...   0.653343
+1  22  using quicken since originally introduced many...   0.606501
+2  16  probably lot longer past reviews want make sur...   0.526381
+3  32  little think incompetent masters degree used q...   0.491831
+4  40  used quicken since 1984 generally pleased prod...   0.479889
+5  34  rarely write reviews amazon fed intuit quicken...   0.468536
+6  24  like spyware love quicken say spyware quicken ...   0.449987
+7  15  intuit recently informed support connected ser...   0.386172
+8  12  worked accounting years got masters computer i...   0.374845
+9   7  used quicken since ran dos 20 years good intui...   0.300333
+
+step 1
+index added: 42
+percentage unclustered: 84.4444%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 84.4444%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 84.4444%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 84.4444%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 84.4444%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 84.4444%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 84.4444%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 81.1111%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [11, 16, 22, 41]
+
+step 1
+index added: 50
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 71.1111%
+
+	step 2
+
+		step 3
+		candidate index: 51 with core nodes: [11, 16, 22, 41]
+
+step 1
+index added: 52
+percentage unclustered: 67.7778%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 67.7778%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 54 with core nodes: [11, 16, 22, 41]
+
+step 1
+index added: 55
+percentage unclustered: 84.4444%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 85.5556%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 85.5556%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 84.4444%
+
+	step 2
+
+		step 3
+		candidate index: 58 with core nodes: [6, 11, 12, 16, 41]
+
+step 1
+index added: 59
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 87.7778%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 87.7778%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 87.7778%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 87.7778%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 87.7778%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 87.7778%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 86.6667%
+
+	step 2
+
+		step 3
+		candidate index: 71 with core nodes: [6, 12, 16, 41, 71]
+			old information: 154, gain: 0.8792156862745099
+
+    ind                                             review  relevance
+0   41  purchased quicken deluxe 2015 windows amazon r...   0.653343
+1   22  using quicken since originally introduced many...   0.606501
+2   16  probably lot longer past reviews want make sur...   0.526381
+3   32  little think incompetent masters degree used q...   0.491831
+4   40  used quicken since 1984 generally pleased prod...   0.479889
+5   71  new quicken deluxe connect bank bank america b...   0.471594
+6   34  rarely write reviews amazon fed intuit quicken...   0.468536
+7   24  like spyware love quicken say spyware quicken ...   0.449987
+8   15  intuit recently informed support connected ser...   0.386172
+9   12  worked accounting years got masters computer i...   0.374845
+10   7  used quicken since ran dos 20 years good intui...   0.300333
+
+step 1
+index added: 72
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 81.1111%
+
+	step 2
+
+		step 3
+		candidate index: 73 with core nodes: [6, 12, 16, 41, 71]
+			old information: 55, gain: 0.5955882352941176
+
+    ind                                             review  relevance
+0   41  purchased quicken deluxe 2015 windows amazon r...   0.653343
+1   22  using quicken since originally introduced many...   0.606501
+2   16  probably lot longer past reviews want make sur...   0.526381
+3   32  little think incompetent masters degree used q...   0.491831
+4   40  used quicken since 1984 generally pleased prod...   0.479889
+5   71  new quicken deluxe connect bank bank america b...   0.471594
+6   34  rarely write reviews amazon fed intuit quicken...   0.468536
+7   24  like spyware love quicken say spyware quicken ...   0.449987
+8   15  intuit recently informed support connected ser...   0.386172
+9   12  worked accounting years got masters computer i...   0.374845
+10   7  used quicken since ran dos 20 years good intui...   0.300333
+11  73  although software claims download bank account...   0.288951
+
+step 1
+index added: 74
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 78.8889%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 78.8889%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 78.8889%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 78.8889%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 77.7778%
+
+	step 2
+
+--- 78.68177437782288 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 96.6667, 96.6667, 96.6667, 96.6667, 96.6667, 94.4444, 94.4444, 94.4444, 93.3333, 93.3333, 93.3333, 93.3333, 94.4444, 94.4444, 94.4444, 90.0, 90.0, 93.3333, 93.3333, 93.3333, 90.0, 90.0, 90.0, 91.1111, 91.1111, 90.0, 87.7778, 90.0, 90.0, 90.0, 90.0, 90.0, 88.8889, 85.5556, 84.4444, 84.4444, 84.4444, 84.4444, 84.4444, 84.4444, 84.4444, 84.4444, 81.1111, 81.1111, 71.1111, 67.7778, 67.7778, 66.66669999999999, 84.4444, 85.5556, 85.5556, 84.4444, 83.33330000000001, 83.33330000000001, 83.33330000000001, 83.33330000000001, 83.33330000000001, 83.33330000000001, 87.7778, 87.7778, 87.7778, 87.7778, 87.7778, 87.7778, 86.6667, 86.6667, 81.1111, 81.1111, 81.1111, 80.0, 80.0, 80.0, 80.0, 80.0, 78.8889, 78.8889, 78.8889, 78.8889, 77.7778, 77.7778, 77.7778, 77.7778, 77.7778], mean: 86.7803
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        21  41   0.653343  purchased quicken deluxe 2015 windows amazon r...
+1        51  22   0.606501  using quicken since originally introduced many...
+2        27  16   0.526381  probably lot longer past reviews want make sur...
+3        61  32   0.491831  little think incompetent masters degree used q...
+4        54  40   0.479889  used quicken since 1984 generally pleased prod...
+5        18  71   0.471594  new quicken deluxe connect bank bank america b...
+6        25  34   0.468536  rarely write reviews amazon fed intuit quicken...
+7        34  24   0.449987  like spyware love quicken say spyware quicken ...
+8        77  15   0.386172  intuit recently informed support connected ser...
+9        45  12   0.374845  worked accounting years got masters computer i...
+10       40   7   0.300333  used quicken since ran dos 20 years good intui...
+11       44  73   0.288951  although software claims download bank account...

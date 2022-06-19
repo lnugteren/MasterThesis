@@ -1,0 +1,259 @@
+------- Category: Office_Products -------
+Found asin_id: B00000IGBF
+Shape:  (40, 7)
+
+
+Chosen product: B00000IGBF has 40 reviews - True, it has 40 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 100.0%
+
+step 1
+index added: 13
+percentage unclustered: 100.0%
+
+step 1
+index added: 14
+percentage unclustered: 100.0%
+
+step 1
+index added: 15
+percentage unclustered: 100.0%
+
+step 1
+index added: 16
+percentage unclustered: 92.5%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [1, 5, 16]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  16  3com great job creating palm line os since bir...   0.251124
+
+step 1
+index added: 17
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [1, 5, 16, 18]
+			old information: 30, gain: 0.9868305531167691
+
+   ind                                             review  relevance
+0  18  palm certainly revolutionize way arrange life ...   0.346420
+1  16  3com great job creating palm line os since bir...   0.251124
+
+step 1
+index added: 19
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [16, 17, 18, 21]
+			old information: 187, gain: 0.9925128122998078
+
+   ind                                             review  relevance
+0  21  big questions days organizer get assume readin...   0.493065
+1  18  palm certainly revolutionize way arrange life ...   0.346420
+2  16  3com great job creating palm line os since bir...   0.251124
+
+step 1
+index added: 22
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 77.5%
+
+	step 2
+
+		step 3
+		candidate index: 23 with core nodes: [16, 17, 18, 21]
+
+step 1
+index added: 24
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 82.5%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [16, 18, 21, 23]
+
+step 1
+index added: 31
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 65.0%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [10, 18, 21, 33]
+			old information: 47, gain: 0.8660968660968661
+
+   ind                                             review  relevance
+0  33  wanted say anyone like sure whether buy new fu...   0.525686
+1  21  big questions days organizer get assume readin...   0.493065
+2  18  palm certainly revolutionize way arrange life ...   0.346420
+3  16  3com great job creating palm line os since bir...   0.251124
+
+step 1
+index added: 34
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 65.0%
+
+	step 2
+
+--- 3.618621349334717 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 92.5, 92.5, 90.0, 82.5, 82.5, 80.0, 80.0, 77.5, 77.5, 85.0, 85.0, 85.0, 85.0, 85.0, 82.5, 82.5, 75.0, 65.0, 65.0, 65.0, 65.0, 65.0, 65.0, 65.0], mean: 86.1842
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0        7  33   0.525686  wanted say anyone like sure whether buy new fu...
+1        2  21   0.493065  big questions days organizer get assume readin...
+2       34  18   0.346420  palm certainly revolutionize way arrange life ...
+3       10  16   0.251124  3com great job creating palm line os since bir...
