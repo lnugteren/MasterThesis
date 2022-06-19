@@ -1,0 +1,784 @@
+------- Category: Movies_and_TV -------
+Found asin_id: B0007N1JC8
+Shape:  (100, 7)
+
+
+Chosen product: B0007N1JC8 has 100 reviews - True, it has 100 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 100.0%
+
+step 1
+index added: 13
+percentage unclustered: 97.0%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [4, 9, 13]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  13  one all time favorite movies frustrated got re...   0.309781
+
+step 1
+index added: 14
+percentage unclustered: 93.0%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [4, 7, 9, 10, 11, 13, 14]
+			old information: 412, gain: 0.9887385540522072
+
+   ind                                             review  relevance
+0  14  seldom review movies felt compelled review one...   0.495125
+1  13  one all time favorite movies frustrated got re...   0.309781
+
+step 1
+index added: 15
+percentage unclustered: 93.0%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 93.0%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 92.0%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [4, 7, 9, 10, 11, 13, 14]
+			old information: 27, gain: 0.9230769230769231
+
+   ind                                             review  relevance
+0  14  seldom review movies felt compelled review one...   0.495125
+1  13  one all time favorite movies frustrated got re...   0.309781
+2  17  primer wow movie changed life highly original ...   0.289627
+
+step 1
+index added: 18
+percentage unclustered: 97.0%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 97.0%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 97.0%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 97.0%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 97.0%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 97.0%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 97.0%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 97.0%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 94.0%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [0, 4, 8, 9]
+
+step 1
+index added: 27
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 89.0%
+
+	step 2
+
+		step 3
+		candidate index: 29 with core nodes: [0, 4, 7, 8, 9, 13, 14, 29]
+			old information: 515, gain: 0.970066841034583
+
+   ind                                             review  relevance
+0  14  seldom review movies felt compelled review one...   0.495125
+1  29  primer arguably slowest movie ever made far pr...   0.414460
+2  13  one all time favorite movies frustrated got re...   0.309781
+3  17  primer wow movie changed life highly original ...   0.289627
+
+step 1
+index added: 30
+percentage unclustered: 89.0%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [10, 13, 14, 30]
+			old information: 210, gain: 0.9282296650717703
+
+   ind                                             review  relevance
+0  14  seldom review movies felt compelled review one...   0.495125
+1  29  primer arguably slowest movie ever made far pr...   0.414460
+2  30  respect trying movie come fruition opinion def...   0.332329
+3  13  one all time favorite movies frustrated got re...   0.309781
+4  17  primer wow movie changed life highly original ...   0.289627
+
+step 1
+index added: 31
+percentage unclustered: 88.0%
+
+	step 2
+
+		step 3
+		candidate index: 31 with core nodes: [10, 13, 14, 30]
+			old information: 219, gain: 0.928919182083739
+
+   ind                                             review  relevance
+0  14  seldom review movies felt compelled review one...   0.495125
+1  31  despite lack special effects e g multi dimensi...   0.447214
+2  29  primer arguably slowest movie ever made far pr...   0.414460
+3  30  respect trying movie come fruition opinion def...   0.332329
+4  13  one all time favorite movies frustrated got re...   0.309781
+5  17  primer wow movie changed life highly original ...   0.289627
+
+step 1
+index added: 32
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 87.0%
+
+	step 2
+
+		step 3
+		candidate index: 44 with core nodes: [7, 8, 9, 10, 13, 14, 29, 30, 44]
+			old information: 649, gain: 0.9712552041810613
+
+   ind                                             review  relevance
+0  14  seldom review movies felt compelled review one...   0.495125
+1  44  primer one films starts unloading ton called i...   0.447442
+2  31  despite lack special effects e g multi dimensi...   0.447214
+3  29  primer arguably slowest movie ever made far pr...   0.414460
+4  30  respect trying movie come fruition opinion def...   0.332329
+5  13  one all time favorite movies frustrated got re...   0.309781
+6  17  primer wow movie changed life highly original ...   0.289627
+
+step 1
+index added: 45
+percentage unclustered: 86.0%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [8, 9, 45]
+			old information: 2015, gain: 0.9556665419902752
+
+   ind                                             review  relevance
+0  45  software engineer turned film director shane c...   0.540627
+1  14  seldom review movies felt compelled review one...   0.495125
+2  44  primer one films starts unloading ton called i...   0.447442
+3  31  despite lack special effects e g multi dimensi...   0.447214
+4  29  primer arguably slowest movie ever made far pr...   0.414460
+5  30  respect trying movie come fruition opinion def...   0.332329
+6  13  one all time favorite movies frustrated got re...   0.309781
+7  17  primer wow movie changed life highly original ...   0.289627
+
+step 1
+index added: 46
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [8, 9, 45]
+
+step 1
+index added: 48
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 50 with core nodes: [4, 7, 8, 9, 10, 14, 50]
+			old information: 1282, gain: 0.9641679244228297
+
+   ind                                             review  relevance
+0  50  primer truly say students cinema love art wond...   0.581307
+1  45  software engineer turned film director shane c...   0.540627
+2  14  seldom review movies felt compelled review one...   0.495125
+3  44  primer one films starts unloading ton called i...   0.447442
+4  31  despite lack special effects e g multi dimensi...   0.447214
+5  29  primer arguably slowest movie ever made far pr...   0.414460
+6  30  respect trying movie come fruition opinion def...   0.332329
+7  13  one all time favorite movies frustrated got re...   0.309781
+8  17  primer wow movie changed life highly original ...   0.289627
+
+step 1
+index added: 51
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 82.0%
+
+	step 2
+
+		step 3
+		candidate index: 52 with core nodes: [4, 7, 8, 9, 10, 14, 50]
+
+step 1
+index added: 53
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 54 with core nodes: [7, 8, 10, 13, 14, 41, 50, 54]
+			old information: 388, gain: 0.8707958707958708
+
+   ind                                             review  relevance
+0  50  primer truly say students cinema love art wond...   0.581307
+1  45  software engineer turned film director shane c...   0.540627
+2  54  boring movie totally drek complete waste time ...   0.514622
+3  14  seldom review movies felt compelled review one...   0.495125
+4  44  primer one films starts unloading ton called i...   0.447442
+5  31  despite lack special effects e g multi dimensi...   0.447214
+6  29  primer arguably slowest movie ever made far pr...   0.414460
+7  30  respect trying movie come fruition opinion def...   0.332329
+8  13  one all time favorite movies frustrated got re...   0.309781
+9  17  primer wow movie changed life highly original ...   0.289627
+
+step 1
+index added: 55
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 77.0%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 77.0%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 77.0%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 77.0%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 77.0%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 77.0%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 77.0%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 77.0%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 77.0%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 77.0%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 74.0%
+
+	step 2
+
+		step 3
+		candidate index: 66 with core nodes: [7, 8, 10, 13, 14, 41, 50, 54]
+
+step 1
+index added: 67
+percentage unclustered: 73.0%
+
+	step 2
+
+		step 3
+		candidate index: 67 with core nodes: [7, 8, 41]
+			old information: 616, gain: 0.9192237083661159
+
+    ind                                             review  relevance
+0   50  primer truly say students cinema love art wond...   0.581307
+1   67  primer easily best science fiction film seen d...   0.569235
+2   45  software engineer turned film director shane c...   0.540627
+3   54  boring movie totally drek complete waste time ...   0.514622
+4   14  seldom review movies felt compelled review one...   0.495125
+5   44  primer one films starts unloading ton called i...   0.447442
+6   31  despite lack special effects e g multi dimensi...   0.447214
+7   29  primer arguably slowest movie ever made far pr...   0.414460
+8   30  respect trying movie come fruition opinion def...   0.332329
+9   13  one all time favorite movies frustrated got re...   0.309781
+10  17  primer wow movie changed life highly original ...   0.289627
+
+step 1
+index added: 68
+percentage unclustered: 73.0%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 76.0%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 76.0%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 75.0%
+
+	step 2
+
+		step 3
+		candidate index: 71 with core nodes: [7, 8, 14, 41, 50, 54, 67]
+
+step 1
+index added: 72
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 76.0%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 76.0%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 72.0%
+
+	step 2
+
+		step 3
+		candidate index: 75 with core nodes: [7, 8, 41, 75]
+			old information: 2291, gain: 0.9378391578033427
+
+    ind                                             review  relevance
+0   75  aaron abe two brainiac engineers trying come n...   0.634393
+1   50  primer truly say students cinema love art wond...   0.581307
+2   67  primer easily best science fiction film seen d...   0.569235
+3   45  software engineer turned film director shane c...   0.540627
+4   54  boring movie totally drek complete waste time ...   0.514622
+5   14  seldom review movies felt compelled review one...   0.495125
+6   44  primer one films starts unloading ton called i...   0.447442
+7   31  despite lack special effects e g multi dimensi...   0.447214
+8   29  primer arguably slowest movie ever made far pr...   0.414460
+9   30  respect trying movie come fruition opinion def...   0.332329
+10  13  one all time favorite movies frustrated got re...   0.309781
+11  17  primer wow movie changed life highly original ...   0.289627
+
+step 1
+index added: 76
+percentage unclustered: 72.0%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 72.0%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 72.0%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 72.0%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 69.0%
+
+	step 2
+
+		step 3
+		candidate index: 80 with core nodes: [7, 8, 41, 75]
+
+step 1
+index added: 81
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 61.0%
+
+	step 2
+
+		step 3
+		candidate index: 93 with core nodes: [8, 41, 45, 75]
+
+step 1
+index added: 94
+percentage unclustered: 61.0%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 61.0%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 61.0%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 58.0%
+
+	step 2
+
+		step 3
+		candidate index: 97 with core nodes: [7, 41, 45, 75, 97]
+			old information: 1863, gain: 0.9475373827827996
+
+    ind                                             review  relevance
+0   75  aaron abe two brainiac engineers trying come n...   0.634393
+1   50  primer truly say students cinema love art wond...   0.581307
+2   67  primer easily best science fiction film seen d...   0.569235
+3   97  engineer turned filmmaker shane carruth debut ...   0.559077
+4   45  software engineer turned film director shane c...   0.540627
+5   54  boring movie totally drek complete waste time ...   0.514622
+6   14  seldom review movies felt compelled review one...   0.495125
+7   44  primer one films starts unloading ton called i...   0.447442
+8   31  despite lack special effects e g multi dimensi...   0.447214
+9   29  primer arguably slowest movie ever made far pr...   0.414460
+10  30  respect trying movie come fruition opinion def...   0.332329
+11  13  one all time favorite movies frustrated got re...   0.309781
+12  17  primer wow movie changed life highly original ...   0.289627
+
+step 1
+index added: 98
+percentage unclustered: 58.0%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 58.0%
+
+	step 2
+
+--- 156.2257480621338 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 97.0, 93.0, 93.0, 93.0, 92.0, 97.0, 97.0, 97.0, 97.0, 97.0, 97.0, 97.0, 97.0, 94.0, 94.0, 94.0, 89.0, 89.0, 88.0, 88.0, 88.0, 88.0, 88.0, 88.0, 88.0, 88.0, 88.0, 88.0, 88.0, 88.0, 88.0, 87.0, 86.0, 86.0, 85.0, 86.0, 86.0, 85.0, 85.0, 82.0, 82.0, 80.0, 80.0, 77.0, 77.0, 77.0, 77.0, 77.0, 77.0, 77.0, 77.0, 77.0, 77.0, 74.0, 73.0, 73.0, 76.0, 76.0, 75.0, 75.0, 76.0, 76.0, 72.0, 72.0, 72.0, 72.0, 72.0, 69.0, 66.0, 66.0, 66.0, 66.0, 66.0, 66.0, 66.0, 66.0, 64.0, 64.0, 64.0, 64.0, 61.0, 61.0, 61.0, 61.0, 58.0, 58.0, 58.0], mean: 81.9694
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0         6  75   0.634393  aaron abe two brainiac engineers trying come n...
+1        51  50   0.581307  primer truly say students cinema love art wond...
+2        44  67   0.569235  primer easily best science fiction film seen d...
+3         9  97   0.559077  engineer turned filmmaker shane carruth debut ...
+4        87  45   0.540627  software engineer turned film director shane c...
+5        91  54   0.514622  boring movie totally drek complete waste time ...
+6        39  14   0.495125  seldom review movies felt compelled review one...
+7        35  44   0.447442  primer one films starts unloading ton called i...
+8        58  31   0.447214  despite lack special effects e g multi dimensi...
+9        16  29   0.414460  primer arguably slowest movie ever made far pr...
+10       40  30   0.332329  respect trying movie come fruition opinion def...
+11       50  13   0.309781  one all time favorite movies frustrated got re...
+12       72  17   0.289627  primer wow movie changed life highly original ...

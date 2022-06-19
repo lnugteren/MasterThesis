@@ -1,0 +1,561 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 1559409002
+Shape:  (70, 7)
+
+
+Chosen product: 1559409002 has 70 reviews - True
+Duplicate reviewers?:  23    A1D2C0WDCSHUWZ
+25    A1D2C0WDCSHUWZ
+28      AZAR0EO6NGV7
+45    A11XKY4EIU2KNR
+46    A11XKY4EIU2KNR
+50    A2NJO6YE954DBH
+56    A2NJO6YE954DBH
+63     AKJOWY6V1EJPJ
+Name: reviewerID, dtype: object
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 94.2857%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [1, 5, 6, 7]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   7  nice blu ray transfer movie criterion outstand...   0.354342
+
+step 1
+index added: 8
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [1, 4, 5, 6, 7]
+
+step 1
+index added: 14
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 88.5714%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [1, 4, 5, 6, 7, 15]
+			old information: 4, gain: 0.9999458874458874
+
+   ind                                             review  relevance
+0   7  nice blu ray transfer movie criterion outstand...   0.354342
+1  15  warning spoilers ahead n nthis single carnival...   0.270974
+
+step 1
+index added: 16
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 85.7143%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [1, 4, 5, 6, 7, 15, 17]
+			old information: 539, gain: 0.9177726926010679
+
+   ind                                             review  relevance
+0  17  love movie saw film ago criterion collection e...   0.378973
+1   7  nice blu ray transfer movie criterion outstand...   0.354342
+2  15  warning spoilers ahead n nthis single carnival...   0.270974
+
+step 1
+index added: 18
+percentage unclustered: 84.2857%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [4, 6, 7, 15, 17, 18]
+			old information: 555, gain: 0.9859922768228969
+
+   ind                                             review  relevance
+0  18  get ready cause gon na get complicated real fa...   0.384660
+1  17  love movie saw film ago criterion collection e...   0.378973
+2   7  nice blu ray transfer movie criterion outstand...   0.354342
+3  15  warning spoilers ahead n nthis single carnival...   0.270974
+
+step 1
+index added: 19
+percentage unclustered: 84.2857%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 84.2857%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 84.2857%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 82.8571%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [4, 6, 7, 15, 17, 18]
+			old information: 262, gain: 0.8358395989974937
+
+   ind                                             review  relevance
+0  18  get ready cause gon na get complicated real fa...   0.384660
+1  17  love movie saw film ago criterion collection e...   0.378973
+2   7  nice blu ray transfer movie criterion outstand...   0.354342
+3  15  warning spoilers ahead n nthis single carnival...   0.270974
+4  22  m going movie m going tell ya company excellen...   0.229790
+
+step 1
+index added: 23
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 81.4286%
+
+	step 2
+
+		step 3
+		candidate index: 31 with core nodes: [4, 17, 18, 31]
+			old information: 386, gain: 0.9356130108423686
+
+   ind                                             review  relevance
+0  31  love film dark creepy characters believable es...   0.444771
+1  18  get ready cause gon na get complicated real fa...   0.384660
+2  17  love movie saw film ago criterion collection e...   0.378973
+3   7  nice blu ray transfer movie criterion outstand...   0.354342
+4  15  warning spoilers ahead n nthis single carnival...   0.270974
+5  22  m going movie m going tell ya company excellen...   0.229790
+
+step 1
+index added: 32
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 81.4286%
+
+	step 2
+
+		step 3
+		candidate index: 40 with core nodes: [4, 17, 18, 40]
+			old information: 2125, gain: 0.9392510005717553
+
+   ind                                             review  relevance
+0  40  carnival souls made shoe string budget industr...   0.495026
+1  31  love film dark creepy characters believable es...   0.444771
+2  18  get ready cause gon na get complicated real fa...   0.384660
+3  17  love movie saw film ago criterion collection e...   0.378973
+4   7  nice blu ray transfer movie criterion outstand...   0.354342
+5  15  warning spoilers ahead n nthis single carnival...   0.270974
+6  22  m going movie m going tell ya company excellen...   0.229790
+
+step 1
+index added: 41
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [4, 15, 17, 40, 49]
+			old information: 2232, gain: 0.9221757322175732
+
+   ind                                             review  relevance
+0  40  carnival souls made shoe string budget industr...   0.495026
+1  31  love film dark creepy characters believable es...   0.444771
+2  49  carnival souls theatrical film every directed ...   0.401156
+3  18  get ready cause gon na get complicated real fa...   0.384660
+4  17  love movie saw film ago criterion collection e...   0.378973
+5   7  nice blu ray transfer movie criterion outstand...   0.354342
+6  15  warning spoilers ahead n nthis single carnival...   0.270974
+7  22  m going movie m going tell ya company excellen...   0.229790
+
+step 1
+index added: 50
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 92.8571%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 94.2857%
+
+	step 2
+
+		step 3
+		candidate index: 52 with core nodes: [1, 6, 7, 52]
+			old information: 762, gain: 0.93089062216579
+
+   ind                                             review  relevance
+0  40  carnival souls made shoe string budget industr...   0.495026
+1  31  love film dark creepy characters believable es...   0.444771
+2  52  carnival souls may true film classic even dire...   0.418345
+3  49  carnival souls theatrical film every directed ...   0.401156
+4  18  get ready cause gon na get complicated real fa...   0.384660
+5  17  love movie saw film ago criterion collection e...   0.378973
+6   7  nice blu ray transfer movie criterion outstand...   0.354342
+7  15  warning spoilers ahead n nthis single carnival...   0.270974
+8  22  m going movie m going tell ya company excellen...   0.229790
+
+step 1
+index added: 53
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 91.4286%
+
+	step 2
+
+		step 3
+		candidate index: 59 with core nodes: [1, 6, 7, 49, 57]
+			old information: 474, gain: 0.9131868131868132
+
+   ind                                             review  relevance
+0  40  carnival souls made shoe string budget industr...   0.495026
+1  31  love film dark creepy characters believable es...   0.444771
+2  52  carnival souls may true film classic even dire...   0.418345
+3  49  carnival souls theatrical film every directed ...   0.401156
+4  18  get ready cause gon na get complicated real fa...   0.384660
+5  17  love movie saw film ago criterion collection e...   0.378973
+6   7  nice blu ray transfer movie criterion outstand...   0.354342
+7  15  warning spoilers ahead n nthis single carnival...   0.270974
+8  59  hesitate use word horror boris karloff pointed...   0.243007
+9  22  m going movie m going tell ya company excellen...   0.229790
+
+step 1
+index added: 60
+percentage unclustered: 91.4286%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 91.4286%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 91.4286%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 82.8571%
+
+	step 2
+
+		step 3
+		candidate index: 63 with core nodes: [21, 23, 49, 57]
+
+step 1
+index added: 64
+percentage unclustered: 81.4286%
+
+	step 2
+
+		step 3
+		candidate index: 64 with core nodes: [21, 23, 49, 57]
+
+step 1
+index added: 65
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 77.1429%
+
+	step 2
+
+		step 3
+		candidate index: 67 with core nodes: [20, 31, 36, 38]
+
+step 1
+index added: 68
+percentage unclustered: 77.1429%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 72.8571%
+
+	step 2
+
+		step 3
+		candidate index: 69 with core nodes: [21, 23, 49, 57]
+
+--- 71.72824907302856 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 94.2857, 94.2857, 94.2857, 94.2857, 94.2857, 94.2857, 90.0, 90.0, 88.5714, 88.5714, 85.7143, 84.2857, 84.2857, 84.2857, 84.2857, 82.8571, 82.8571, 82.8571, 82.8571, 82.8571, 82.8571, 82.8571, 82.8571, 82.8571, 81.4286, 81.4286, 81.4286, 81.4286, 81.4286, 81.4286, 81.4286, 82.8571, 82.8571, 81.4286, 81.4286, 81.4286, 81.4286, 81.4286, 81.4286, 81.4286, 81.4286, 81.4286, 80.0, 82.8571, 92.8571, 94.2857, 94.2857, 94.2857, 94.2857, 94.2857, 94.2857, 94.2857, 91.4286, 91.4286, 91.4286, 91.4286, 82.8571, 81.4286, 82.8571, 82.8571, 77.1429, 77.1429, 72.8571], mean: 86.7437
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0       45  40   0.495026  carnival souls made shoe string budget industr...
+1       23  31   0.444771  love film dark creepy characters believable es...
+2       58  52   0.418345  carnival souls may true film classic even dire...
+3       33  49   0.401156  carnival souls theatrical film every directed ...
+4       42  18   0.384660  get ready cause gon na get complicated real fa...
+5       54  17   0.378973  love movie saw film ago criterion collection e...
+6       14   7   0.354342  nice blu ray transfer movie criterion outstand...
+7       15  15   0.270974  warning spoilers ahead n nthis single carnival...
+8       66  59   0.243007  hesitate use word horror boris karloff pointed...
+9       49  22   0.229790  m going movie m going tell ya company excellen...

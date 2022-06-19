@@ -1,0 +1,382 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 6300249824
+Shape:  (50, 7)
+
+
+Chosen product: 6300249824 has 50 reviews - True
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 94.0%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [3, 6, 7]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   7  films usually interpretations great literature...   0.075544
+
+step 1
+index added: 8
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 92.0%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [3, 6, 7, 10]
+			old information: 3, gain: 0.9166666666666666
+
+   ind                                             review  relevance
+0  10  may oldie goodie truly enjoyed mansfield park ...   0.108837
+1   7  films usually interpretations great literature...   0.075544
+
+step 1
+index added: 11
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 86.0%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [3, 5, 6, 9]
+
+step 1
+index added: 16
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 84.0%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [3, 5, 9, 20]
+			old information: 49, gain: 0.9991497483949332
+
+   ind                                             review  relevance
+0  20  face one seems content adaptations thus far ja...   0.356175
+1  10  may oldie goodie truly enjoyed mansfield park ...   0.108837
+2   7  films usually interpretations great literature...   0.075544
+
+step 1
+index added: 21
+percentage unclustered: 78.0%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [3, 5, 9, 20]
+
+step 1
+index added: 22
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 78.0%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [3, 5, 9, 26]
+			old information: 666, gain: 0.9830706659888154
+
+   ind                                             review  relevance
+0  26  money best accurate dramatization jane austen ...   0.514447
+1  20  face one seems content adaptations thus far ja...   0.356175
+2  10  may oldie goodie truly enjoyed mansfield park ...   0.108837
+3   7  films usually interpretations great literature...   0.075544
+
+step 1
+index added: 27
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 76.0%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [3, 5, 9, 26]
+
+step 1
+index added: 33
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [3, 13, 26, 28]
+			old information: 170, gain: 0.897156684815487
+
+   ind                                             review  relevance
+0  26  money best accurate dramatization jane austen ...   0.514447
+1  20  face one seems content adaptations thus far ja...   0.356175
+2  33  think someone read mansfield park going bored ...   0.335746
+3  10  may oldie goodie truly enjoyed mansfield park ...   0.108837
+4   7  films usually interpretations great literature...   0.075544
+
+step 1
+index added: 34
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 72.0%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 72.0%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 72.0%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 72.0%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 72.0%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 78.0%
+
+	step 2
+
+		step 3
+		candidate index: 40 with core nodes: [15, 35, 40]
+			old information: 151, gain: 0.9425418569254186
+
+   ind                                             review  relevance
+0  26  money best accurate dramatization jane austen ...   0.514447
+1  20  face one seems content adaptations thus far ja...   0.356175
+2  33  think someone read mansfield park going bored ...   0.335746
+3  40  true storyline something really appreciated mo...   0.285350
+4  10  may oldie goodie truly enjoyed mansfield park ...   0.108837
+5   7  films usually interpretations great literature...   0.075544
+
+step 1
+index added: 41
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 78.0%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [3, 9, 26, 45]
+			old information: 601, gain: 0.9462192393736018
+
+   ind                                             review  relevance
+0  26  money best accurate dramatization jane austen ...   0.514447
+1  45  stylish well costumed soulless version great b...   0.488094
+2  20  face one seems content adaptations thus far ja...   0.356175
+3  33  think someone read mansfield park going bored ...   0.335746
+4  40  true storyline something really appreciated mo...   0.285350
+5  10  may oldie goodie truly enjoyed mansfield park ...   0.108837
+6   7  films usually interpretations great literature...   0.075544
+
+step 1
+index added: 46
+percentage unclustered: 72.0%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 72.0%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 72.0%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [3, 9, 26, 45]
+
+--- 19.5964195728302 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 94.0, 94.0, 94.0, 92.0, 92.0, 92.0, 92.0, 92.0, 86.0, 86.0, 86.0, 86.0, 86.0, 84.0, 78.0, 78.0, 78.0, 78.0, 80.0, 78.0, 78.0, 78.0, 78.0, 78.0, 78.0, 76.0, 70.0, 68.0, 72.0, 72.0, 72.0, 72.0, 72.0, 78.0, 78.0, 78.0, 78.0, 78.0, 78.0, 72.0, 72.0, 72.0, 70.0], mean: 82.1667
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0        9  26   0.514447  money best accurate dramatization jane austen ...
+1        8  45   0.488094  stylish well costumed soulless version great b...
+2       27  20   0.356175  face one seems content adaptations thus far ja...
+3        5  33   0.335746  think someone read mansfield park going bored ...
+4        2  40   0.285350  true storyline something really appreciated mo...
+5       39  10   0.108837  may oldie goodie truly enjoyed mansfield park ...
+6       36   7   0.075544  films usually interpretations great literature...

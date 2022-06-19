@@ -1,0 +1,233 @@
+------- Category: Home_and_Kitchen -------
+Found asin_id: B00004RHRD
+Shape:  (30, 7)
+
+
+Chosen product: B00004RHRD has 30 reviews - True, it has 30 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [1, 6, 7]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   7  re great coffee beans ground evenly big chunks...   0.174891
+
+step 1
+index added: 8
+percentage unclustered: 86.6667%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [1, 6, 7, 8]
+			old information: 0, gain: 1.0
+
+step 1
+index added: 9
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [1, 6, 7, 10]
+			old information: 10, gain: 0.999443052074631
+
+   ind                                             review  relevance
+0  10  company called coffee art true want coffee gri...   0.291791
+1   7  re great coffee beans ground evenly big chunks...   0.174891
+
+step 1
+index added: 11
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [1, 7, 10]
+			old information: 1, gain: 0.989010989010989
+
+   ind                                             review  relevance
+0  10  company called coffee art true want coffee gri...   0.291791
+1  12  bought several coffee grinders works best reas...   0.181969
+2   7  re great coffee beans ground evenly big chunks...   0.174891
+
+step 1
+index added: 13
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [1, 2, 6, 7, 8, 10, 16, 18]
+			old information: 12, gain: 0.9954337899543378
+
+   ind                                             review  relevance
+0  10  company called coffee art true want coffee gri...   0.291791
+1  18  first like fact looks like table mat rolls up ...   0.277391
+2  12  bought several coffee grinders works best reas...   0.181969
+3   7  re great coffee beans ground evenly big chunks...   0.174891
+
+step 1
+index added: 19
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 63.3333%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [1, 6, 7, 8, 10, 16, 18, 20]
+			old information: 20, gain: 0.9682539682539683
+
+   ind                                             review  relevance
+0  10  company called coffee art true want coffee gri...   0.291791
+1  18  first like fact looks like table mat rolls up ...   0.277391
+2  20  product amazing 12 00 really great buy nothing...   0.185187
+3  12  bought several coffee grinders works best reas...   0.181969
+4   7  re great coffee beans ground evenly big chunks...   0.174891
+
+step 1
+index added: 21
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 53.3333%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 50.0%
+
+	step 2
+
+		step 3
+		candidate index: 25 with core nodes: [16, 17, 18, 23]
+
+step 1
+index added: 26
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 46.6667%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [16, 17, 18, 23]
+
+step 1
+index added: 28
+percentage unclustered: 46.6667%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 46.6667%
+
+	step 2
+
+--- 2.669426918029785 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 90.0, 86.6667, 86.6667, 83.33330000000001, 83.33330000000001, 80.0, 80.0, 80.0, 80.0, 76.66669999999999, 76.66669999999999, 66.66669999999999, 66.66669999999999, 63.3333, 63.3333, 63.3333, 63.3333, 53.3333, 50.0, 50.0, 46.6667, 46.6667, 46.6667], mean: 74.4048
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0       10  10   0.291791  company called coffee art true want coffee gri...
+1       19  18   0.277391  first like fact looks like table mat rolls up ...
+2       29  20   0.185187  product amazing 12 00 really great buy nothing...
+3        9  12   0.181969  bought several coffee grinders works best reas...
+4        6   7   0.174891  re great coffee beans ground evenly big chunks...

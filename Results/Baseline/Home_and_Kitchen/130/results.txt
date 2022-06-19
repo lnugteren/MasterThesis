@@ -1,0 +1,1114 @@
+------- Category: Home_and_Kitchen -------
+Found asin_id: B0002OKDT2
+Shape:  (130, 7)
+
+
+Chosen product: B0002OKDT2 has 130 reviews - True, it has 130 reviews
+Duplicate reviewers?:  120    A2JHPH3AQMK7M3
+Name: reviewerID, dtype: object
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 97.6923%
+
+	step 2
+
+		step 3
+		candidate index: 5 with core nodes: [1, 4, 5]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   5  used acme centrifugal juicer thought would nev...   0.395794
+
+step 1
+index added: 6
+percentage unclustered: 97.6923%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 96.9231%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [1, 4, 5, 7]
+			old information: 213, gain: 0.9777916796997185
+
+   ind                                             review  relevance
+0   5  used acme centrifugal juicer thought would nev...   0.395794
+1   7  darn ordered juicer omega j8005 may 18 2015 re...   0.254187
+
+step 1
+index added: 8
+percentage unclustered: 96.9231%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 96.1538%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [1, 5, 7, 9]
+			old information: 199, gain: 0.955431131019037
+
+   ind                                             review  relevance
+0   9  buy blendtec blender instead save headache jui...   0.422249
+1   5  used acme centrifugal juicer thought would nev...   0.395794
+2   7  darn ordered juicer omega j8005 may 18 2015 re...   0.254187
+
+step 1
+index added: 10
+percentage unclustered: 96.1538%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 96.1538%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 95.3846%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [1, 5, 9, 12]
+			old information: 921, gain: 0.9862115427801482
+
+   ind                                             review  relevance
+0  12  oooooooooo mega j8005 five five five five nthe...   0.448830
+1   9  buy blendtec blender instead save headache jui...   0.422249
+2   5  used acme centrifugal juicer thought would nev...   0.395794
+3   7  darn ordered juicer omega j8005 may 18 2015 re...   0.254187
+
+step 1
+index added: 13
+percentage unclustered: 95.3846%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 95.3846%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 94.6154%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [1, 5, 9, 12, 15]
+			old information: 859, gain: 0.9697971238704687
+
+   ind                                             review  relevance
+0  12  oooooooooo mega j8005 five five five five nthe...   0.448830
+1   9  buy blendtec blender instead save headache jui...   0.422249
+2   5  used acme centrifugal juicer thought would nev...   0.395794
+3  15  excellent juicer green vegetable juice fruits ...   0.368989
+4   7  darn ordered juicer omega j8005 may 18 2015 re...   0.254187
+
+step 1
+index added: 16
+percentage unclustered: 94.6154%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 94.6154%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [5, 9, 12, 17]
+			old information: 1797, gain: 0.926745750275162
+
+   ind                                             review  relevance
+0  17  owned juicer year best juicer ever juicing lea...   0.542827
+1  12  oooooooooo mega j8005 five five five five nthe...   0.448830
+2   9  buy blendtec blender instead save headache jui...   0.422249
+3   5  used acme centrifugal juicer thought would nev...   0.395794
+4  15  excellent juicer green vegetable juice fruits ...   0.368989
+5   7  darn ordered juicer omega j8005 may 18 2015 re...   0.254187
+
+step 1
+index added: 18
+percentage unclustered: 92.3077%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 92.3077%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [5, 9, 12]
+
+step 1
+index added: 21
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 91.5385%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [5, 9, 12, 17]
+
+step 1
+index added: 23
+percentage unclustered: 91.5385%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 91.5385%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 90.7692%
+
+	step 2
+
+		step 3
+		candidate index: 25 with core nodes: [1, 17, 25]
+			old information: 1028, gain: 0.8987491381857579
+
+   ind                                             review  relevance
+0  17  owned juicer year best juicer ever juicing lea...   0.542827
+1  25  whoa skeptical buying new juicer sooooo many d...   0.496250
+2  12  oooooooooo mega j8005 five five five five nthe...   0.448830
+3   9  buy blendtec blender instead save headache jui...   0.422249
+4   5  used acme centrifugal juicer thought would nev...   0.395794
+5  15  excellent juicer green vegetable juice fruits ...   0.368989
+6   7  darn ordered juicer omega j8005 may 18 2015 re...   0.254187
+
+step 1
+index added: 26
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 89.2308%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 89.2308%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 89.2308%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 89.2308%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 86.9231%
+
+	step 2
+
+		step 3
+		candidate index: 42 with core nodes: [1, 17, 25]
+
+step 1
+index added: 43
+percentage unclustered: 86.1538%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [1, 17, 25, 43]
+			old information: 2800, gain: 0.9354317998385795
+
+   ind                                             review  relevance
+0  43  seen many reviews people put specific quantita...   0.578319
+1  17  owned juicer year best juicer ever juicing lea...   0.542827
+2  25  whoa skeptical buying new juicer sooooo many d...   0.496250
+3  12  oooooooooo mega j8005 five five five five nthe...   0.448830
+4   9  buy blendtec blender instead save headache jui...   0.422249
+5   5  used acme centrifugal juicer thought would nev...   0.395794
+6  15  excellent juicer green vegetable juice fruits ...   0.368989
+7   7  darn ordered juicer omega j8005 may 18 2015 re...   0.254187
+
+step 1
+index added: 44
+percentage unclustered: 86.1538%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 86.1538%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 85.3846%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [1, 25, 43]
+			old information: 1992, gain: 0.912597077793866
+
+   ind                                             review  relevance
+0  43  seen many reviews people put specific quantita...   0.578319
+1  46  past year used breville juicer served well big...   0.564414
+2  17  owned juicer year best juicer ever juicing lea...   0.542827
+3  25  whoa skeptical buying new juicer sooooo many d...   0.496250
+4  12  oooooooooo mega j8005 five five five five nthe...   0.448830
+5   9  buy blendtec blender instead save headache jui...   0.422249
+6   5  used acme centrifugal juicer thought would nev...   0.395794
+7  15  excellent juicer green vegetable juice fruits ...   0.368989
+8   7  darn ordered juicer omega j8005 may 18 2015 re...   0.254187
+
+step 1
+index added: 47
+percentage unclustered: 85.3846%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 85.3846%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 85.3846%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 85.3846%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 85.3846%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 85.3846%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 82.3077%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 81.5385%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 81.5385%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 81.5385%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 79.2308%
+
+	step 2
+
+		step 3
+		candidate index: 57 with core nodes: [1, 25, 57]
+			old information: 548, gain: 0.8427997705106138
+
+   ind                                             review  relevance
+0  43  seen many reviews people put specific quantita...   0.578319
+1  57  recently bought omega breville juicer getting ...   0.574521
+2  46  past year used breville juicer served well big...   0.564414
+3  17  owned juicer year best juicer ever juicing lea...   0.542827
+4  25  whoa skeptical buying new juicer sooooo many d...   0.496250
+5  12  oooooooooo mega j8005 five five five five nthe...   0.448830
+6   9  buy blendtec blender instead save headache jui...   0.422249
+7   5  used acme centrifugal juicer thought would nev...   0.395794
+8  15  excellent juicer green vegetable juice fruits ...   0.368989
+9   7  darn ordered juicer omega j8005 may 18 2015 re...   0.254187
+
+step 1
+index added: 58
+percentage unclustered: 77.6923%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 78.4615%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 78.4615%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 77.6923%
+
+	step 2
+
+		step 3
+		candidate index: 61 with core nodes: [5, 17, 61]
+			old information: 2358, gain: 0.8727331606217616
+
+    ind                                             review  relevance
+0   61  think really compare omega masticating auger j...   0.653520
+1   43  seen many reviews people put specific quantita...   0.578319
+2   57  recently bought omega breville juicer getting ...   0.574521
+3   46  past year used breville juicer served well big...   0.564414
+4   17  owned juicer year best juicer ever juicing lea...   0.542827
+5   25  whoa skeptical buying new juicer sooooo many d...   0.496250
+6   12  oooooooooo mega j8005 five five five five nthe...   0.448830
+7    9  buy blendtec blender instead save headache jui...   0.422249
+8    5  used acme centrifugal juicer thought would nev...   0.395794
+9   15  excellent juicer green vegetable juice fruits ...   0.368989
+10   7  darn ordered juicer omega j8005 may 18 2015 re...   0.254187
+
+step 1
+index added: 62
+percentage unclustered: 76.9231%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 74.6154%
+
+	step 2
+
+		step 3
+		candidate index: 63 with core nodes: [1, 25, 55, 57, 63]
+			old information: 191, gain: 0.8956284153005465
+
+    ind                                             review  relevance
+0   61  think really compare omega masticating auger j...   0.653520
+1   63  bought juicer months ago nadv n making juice c...   0.651444
+2   43  seen many reviews people put specific quantita...   0.578319
+3   57  recently bought omega breville juicer getting ...   0.574521
+4   46  past year used breville juicer served well big...   0.564414
+5   17  owned juicer year best juicer ever juicing lea...   0.542827
+6   25  whoa skeptical buying new juicer sooooo many d...   0.496250
+7   12  oooooooooo mega j8005 five five five five nthe...   0.448830
+8    9  buy blendtec blender instead save headache jui...   0.422249
+9    5  used acme centrifugal juicer thought would nev...   0.395794
+10  15  excellent juicer green vegetable juice fruits ...   0.368989
+11   7  darn ordered juicer omega j8005 may 18 2015 re...   0.254187
+
+step 1
+index added: 64
+percentage unclustered: 76.1538%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 76.1538%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 81.5385%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 81.5385%
+
+	step 2
+
+		step 3
+		candidate index: 67 with core nodes: [1, 25, 43, 46, 55, 63, 67]
+			old information: 4066, gain: 0.9172585010480048
+
+    ind                                             review  relevance
+0   61  think really compare omega masticating auger j...   0.653520
+1   63  bought juicer months ago nadv n making juice c...   0.651444
+2   67  used centrifugal juicers years used cleaning c...   0.601353
+3   43  seen many reviews people put specific quantita...   0.578319
+4   57  recently bought omega breville juicer getting ...   0.574521
+5   46  past year used breville juicer served well big...   0.564414
+6   17  owned juicer year best juicer ever juicing lea...   0.542827
+7   25  whoa skeptical buying new juicer sooooo many d...   0.496250
+8   12  oooooooooo mega j8005 five five five five nthe...   0.448830
+9    9  buy blendtec blender instead save headache jui...   0.422249
+10   5  used acme centrifugal juicer thought would nev...   0.395794
+11  15  excellent juicer green vegetable juice fruits ...   0.368989
+12   7  darn ordered juicer omega j8005 may 18 2015 re...   0.254187
+
+step 1
+index added: 68
+percentage unclustered: 80.7692%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 80.7692%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 77.6923%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 77.6923%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 76.9231%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 76.1538%
+
+	step 2
+
+		step 3
+		candidate index: 73 with core nodes: [25, 55, 63]
+
+step 1
+index added: 74
+percentage unclustered: 76.1538%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 75.3846%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 73.8462%
+
+	step 2
+
+		step 3
+		candidate index: 76 with core nodes: [5, 17, 61, 76]
+			old information: 8896, gain: 0.9501633025775477
+
+    ind                                             review  relevance
+0   61  think really compare omega masticating auger j...   0.653520
+1   63  bought juicer months ago nadv n making juice c...   0.651444
+2   67  used centrifugal juicers years used cleaning c...   0.601353
+3   76  first important understand couple different ty...   0.600716
+4   43  seen many reviews people put specific quantita...   0.578319
+5   57  recently bought omega breville juicer getting ...   0.574521
+6   46  past year used breville juicer served well big...   0.564414
+7   17  owned juicer year best juicer ever juicing lea...   0.542827
+8   25  whoa skeptical buying new juicer sooooo many d...   0.496250
+9   12  oooooooooo mega j8005 five five five five nthe...   0.448830
+10   9  buy blendtec blender instead save headache jui...   0.422249
+11   5  used acme centrifugal juicer thought would nev...   0.395794
+12  15  excellent juicer green vegetable juice fruits ...   0.368989
+13   7  darn ordered juicer omega j8005 may 18 2015 re...   0.254187
+
+step 1
+index added: 77
+percentage unclustered: 73.8462%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 75.3846%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 74.6154%
+
+	step 2
+
+		step 3
+		candidate index: 79 with core nodes: [5, 61, 79]
+			old information: 4128, gain: 0.8652213660702625
+
+    ind                                             review  relevance
+0   61  think really compare omega masticating auger j...   0.653520
+1   63  bought juicer months ago nadv n making juice c...   0.651444
+2   79  love juicer n nthe omega 8005 incredibly effic...   0.651104
+3   67  used centrifugal juicers years used cleaning c...   0.601353
+4   76  first important understand couple different ty...   0.600716
+5   43  seen many reviews people put specific quantita...   0.578319
+6   57  recently bought omega breville juicer getting ...   0.574521
+7   46  past year used breville juicer served well big...   0.564414
+8   17  owned juicer year best juicer ever juicing lea...   0.542827
+9   25  whoa skeptical buying new juicer sooooo many d...   0.496250
+10  12  oooooooooo mega j8005 five five five five nthe...   0.448830
+11   9  buy blendtec blender instead save headache jui...   0.422249
+12   5  used acme centrifugal juicer thought would nev...   0.395794
+13  15  excellent juicer green vegetable juice fruits ...   0.368989
+14   7  darn ordered juicer omega j8005 may 18 2015 re...   0.254187
+
+step 1
+index added: 80
+percentage unclustered: 73.8462%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 74.6154%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 71.5385%
+
+	step 2
+
+		step 3
+		candidate index: 82 with core nodes: [5, 46, 67, 72, 79]
+
+step 1
+index added: 83
+percentage unclustered: 71.5385%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 69.2308%
+
+	step 2
+
+		step 3
+		candidate index: 84 with core nodes: [5, 61, 79]
+
+step 1
+index added: 85
+percentage unclustered: 68.4615%
+
+	step 2
+
+		step 3
+		candidate index: 85 with core nodes: [5, 61, 79]
+
+step 1
+index added: 86
+percentage unclustered: 66.15379999999999%
+
+	step 2
+
+		step 3
+		candidate index: 86 with core nodes: [5, 61, 79]
+
+step 1
+index added: 87
+percentage unclustered: 65.3846%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 65.3846%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 63.8462%
+
+	step 2
+
+		step 3
+		candidate index: 89 with core nodes: [51, 55, 63]
+			old information: 778, gain: 0.7598765432098765
+
+    ind                                             review  relevance
+0   89  bought replacement juicman juicer ancient n ni...   0.655233
+1   61  think really compare omega masticating auger j...   0.653520
+2   63  bought juicer months ago nadv n making juice c...   0.651444
+3   79  love juicer n nthe omega 8005 incredibly effic...   0.651104
+4   67  used centrifugal juicers years used cleaning c...   0.601353
+5   76  first important understand couple different ty...   0.600716
+6   43  seen many reviews people put specific quantita...   0.578319
+7   57  recently bought omega breville juicer getting ...   0.574521
+8   46  past year used breville juicer served well big...   0.564414
+9   17  owned juicer year best juicer ever juicing lea...   0.542827
+10  25  whoa skeptical buying new juicer sooooo many d...   0.496250
+11  12  oooooooooo mega j8005 five five five five nthe...   0.448830
+12   9  buy blendtec blender instead save headache jui...   0.422249
+13   5  used acme centrifugal juicer thought would nev...   0.395794
+14  15  excellent juicer green vegetable juice fruits ...   0.368989
+15   7  darn ordered juicer omega j8005 may 18 2015 re...   0.254187
+
+step 1
+index added: 90
+percentage unclustered: 63.0769%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 63.0769%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 63.0769%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 62.3077%
+
+	step 2
+
+		step 3
+		candidate index: 93 with core nodes: [51, 55, 63]
+
+step 1
+index added: 94
+percentage unclustered: 62.3077%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 61.5385%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 61.5385%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 60.7692%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 60.7692%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 60.7692%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 59.2308%
+
+	step 2
+
+		step 3
+		candidate index: 101 with core nodes: [5, 61, 79]
+
+step 1
+index added: 102
+percentage unclustered: 59.2308%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 58.4615%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 58.4615%
+
+	step 2
+
+		step 3
+		candidate index: 104 with core nodes: [5, 79, 104]
+			old information: 3607, gain: 0.9049538866930171
+
+     ind                                             review  relevance
+0    89  bought replacement juicman juicer ancient n ni...   0.655233
+1    61  think really compare omega masticating auger j...   0.653520
+2    63  bought juicer months ago nadv n making juice c...   0.651444
+3    79  love juicer n nthe omega 8005 incredibly effic...   0.651104
+4    67  used centrifugal juicers years used cleaning c...   0.601353
+5    76  first important understand couple different ty...   0.600716
+6    43  seen many reviews people put specific quantita...   0.578319
+7    57  recently bought omega breville juicer getting ...   0.574521
+8    46  past year used breville juicer served well big...   0.564414
+9    17  owned juicer year best juicer ever juicing lea...   0.542827
+10  104  would buy omega 8005 juicer recently purchased...   0.530766
+11   25  whoa skeptical buying new juicer sooooo many d...   0.496250
+12   12  oooooooooo mega j8005 five five five five nthe...   0.448830
+13    9  buy blendtec blender instead save headache jui...   0.422249
+14    5  used acme centrifugal juicer thought would nev...   0.395794
+15   15  excellent juicer green vegetable juice fruits ...   0.368989
+16    7  darn ordered juicer omega j8005 may 18 2015 re...   0.254187
+
+step 1
+index added: 105
+percentage unclustered: 58.4615%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 58.4615%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 58.4615%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 57.6923%
+
+	step 2
+
+		step 3
+		candidate index: 108 with core nodes: [5, 79, 104]
+
+step 1
+index added: 109
+percentage unclustered: 57.6923%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 57.6923%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 56.9231%
+
+	step 2
+
+		step 3
+		candidate index: 111 with core nodes: [5, 79, 104]
+
+step 1
+index added: 112
+percentage unclustered: 56.9231%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 56.9231%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 56.1538%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 56.1538%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 56.1538%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 56.1538%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 55.3846%
+
+	step 2
+
+		step 3
+		candidate index: 118 with core nodes: [5, 79, 104]
+
+step 1
+index added: 119
+percentage unclustered: 55.3846%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 55.3846%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 55.3846%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 53.8462%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 53.0769%
+
+	step 2
+
+		step 3
+		candidate index: 123 with core nodes: [51, 55, 63, 123]
+			old information: 1517, gain: 0.8297609695881495
+
+     ind                                             review  relevance
+0   123  use juicer week best performed hard produce fr...   0.698092
+1    89  bought replacement juicman juicer ancient n ni...   0.655233
+2    61  think really compare omega masticating auger j...   0.653520
+3    63  bought juicer months ago nadv n making juice c...   0.651444
+4    79  love juicer n nthe omega 8005 incredibly effic...   0.651104
+5    67  used centrifugal juicers years used cleaning c...   0.601353
+6    76  first important understand couple different ty...   0.600716
+7    43  seen many reviews people put specific quantita...   0.578319
+8    57  recently bought omega breville juicer getting ...   0.574521
+9    46  past year used breville juicer served well big...   0.564414
+10   17  owned juicer year best juicer ever juicing lea...   0.542827
+11  104  would buy omega 8005 juicer recently purchased...   0.530766
+12   25  whoa skeptical buying new juicer sooooo many d...   0.496250
+13   12  oooooooooo mega j8005 five five five five nthe...   0.448830
+14    9  buy blendtec blender instead save headache jui...   0.422249
+15    5  used acme centrifugal juicer thought would nev...   0.395794
+16   15  excellent juicer green vegetable juice fruits ...   0.368989
+17    7  darn ordered juicer omega j8005 may 18 2015 re...   0.254187
+
+step 1
+index added: 124
+percentage unclustered: 53.0769%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 53.0769%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 50.7692%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 50.7692%
+
+	step 2
+
+step 1
+index added: 128
+percentage unclustered: 48.4615%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 48.4615%
+
+	step 2
+
+--- 523.6368310451508 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 97.6923, 97.6923, 96.9231, 96.9231, 96.1538, 96.1538, 96.1538, 95.3846, 95.3846, 95.3846, 94.6154, 94.6154, 94.6154, 92.3077, 92.3077, 90.0, 90.0, 91.5385, 91.5385, 91.5385, 90.7692, 90.0, 89.2308, 89.2308, 89.2308, 89.2308, 88.4615, 88.4615, 87.6923, 87.6923, 88.4615, 88.4615, 88.4615, 88.4615, 87.6923, 87.6923, 87.6923, 86.9231, 86.1538, 86.1538, 86.1538, 85.3846, 85.3846, 85.3846, 85.3846, 85.3846, 85.3846, 85.3846, 82.3077, 81.5385, 81.5385, 81.5385, 79.2308, 77.6923, 78.4615, 78.4615, 77.6923, 76.9231, 74.6154, 76.1538, 76.1538, 81.5385, 81.5385, 80.7692, 80.7692, 77.6923, 77.6923, 76.9231, 76.1538, 76.1538, 75.3846, 73.8462, 73.8462, 75.3846, 74.6154, 73.8462, 74.6154, 71.5385, 71.5385, 69.2308, 68.4615, 66.15379999999999, 65.3846, 65.3846, 63.8462, 63.0769, 63.0769, 63.0769, 62.3077, 62.3077, 61.5385, 61.5385, 60.7692, 60.7692, 60.7692, 60.0, 59.2308, 59.2308, 58.4615, 58.4615, 58.4615, 58.4615, 58.4615, 57.6923, 57.6923, 57.6923, 56.9231, 56.9231, 56.9231, 56.1538, 56.1538, 56.1538, 56.1538, 55.3846, 55.3846, 55.3846, 55.3846, 53.8462, 53.0769, 53.0769, 53.0769, 50.7692, 50.7692, 48.4615, 48.4615], mean: 75.9615
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0        13  123   0.698092  use juicer week best performed hard produce fr...
+1        30   89   0.655233  bought replacement juicman juicer ancient n ni...
+2        42   61   0.653520  think really compare omega masticating auger j...
+3        66   63   0.651444  bought juicer months ago nadv n making juice c...
+4        52   79   0.651104  love juicer n nthe omega 8005 incredibly effic...
+5        54   67   0.601353  used centrifugal juicers years used cleaning c...
+6        15   76   0.600716  first important understand couple different ty...
+7        75   43   0.578319  seen many reviews people put specific quantita...
+8        91   57   0.574521  recently bought omega breville juicer getting ...
+9        25   46   0.564414  past year used breville juicer served well big...
+10       56   17   0.542827  owned juicer year best juicer ever juicing lea...
+11        9  104   0.530766  would buy omega 8005 juicer recently purchased...
+12       57   25   0.496250  whoa skeptical buying new juicer sooooo many d...
+13       46   12   0.448830  oooooooooo mega j8005 five five five five nthe...
+14       84    9   0.422249  buy blendtec blender instead save headache jui...
+15        1    5   0.395794  used acme centrifugal juicer thought would nev...
+16       28   15   0.368989  excellent juicer green vegetable juice fruits ...
+17       17    7   0.254187  darn ordered juicer omega j8005 may 18 2015 re...

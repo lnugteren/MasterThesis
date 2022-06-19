@@ -1,0 +1,115 @@
+------- Category: Home_and_Kitchen -------
+Found asin_id: B00061MZVU
+Shape:  (20, 7)
+
+
+Chosen product: B00061MZVU has 20 reviews - True
+Duplicate reviewers?:  16    A3DSN5SQQ7C5D7
+Name: reviewerID, dtype: object
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 100.0%
+
+step 1
+index added: 13
+percentage unclustered: 100.0%
+
+step 1
+index added: 14
+percentage unclustered: 100.0%
+
+step 1
+index added: 15
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [0, 1, 15]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  15  wrote review clear acrylic version shaver copi...   0.258801
+
+step 1
+index added: 16
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [0, 1, 6, 8, 19]
+			old information: 22, gain: 0.9607843137254902
+
+   ind                                             review  relevance
+0  15  wrote review clear acrylic version shaver copi...   0.258801
+1  19  mill easy use gives even grindings nutmeg qual...   0.172953
+
+--- 2.1068339347839355 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 85.0, 85.0, 85.0, 85.0, 70.0], mean: 95.0
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0       10  15   0.258801  wrote review clear acrylic version shaver copi...
+1       14  19   0.172953  mill easy use gives even grindings nutmeg qual...
