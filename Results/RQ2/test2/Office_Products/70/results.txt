@@ -1,0 +1,355 @@
+------- Category: Office_Products -------
+Found asin_id: B0000A8VNU
+Shape:  (70, 7)
+Shape after:  (70, 7)
+
+
+Chosen product: B0000A8VNU has 70 reviews - True, it has 70 reviews
+
+Removed indexes: [2, 5, 10, 11, 16, 22, 31, 33, 44, 48, 54, 64, 65]
+New length of reviews: 57
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 100.0%
+
+step 1
+index added: 13
+percentage unclustered: 100.0%
+
+step 1
+index added: 14
+percentage unclustered: 94.7368%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 92.9825%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [3, 12, 14, 15]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  15  updated review originally experienced miscommu...     0.0795
+
+step 1
+index added: 16
+percentage unclustered: 92.9825%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 87.7193%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 87.7193%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 87.7193%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 87.7193%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 92.9825%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 92.9825%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 85.9649%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 92.9825%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 92.9825%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 92.9825%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 91.2281%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [3, 14, 15, 27]
+			old information: 10, gain: 0.9810606060606061
+
+   ind                                             review  relevance
+0  27  bought dictionary english major reading needed...   0.265239
+1  15  updated review originally experienced miscommu...   0.079500
+
+step 1
+index added: 28
+percentage unclustered: 91.2281%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 91.2281%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 85.9649%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [14, 27, 30]
+			old information: 12, gain: 0.9819819819819819
+
+   ind                                             review  relevance
+0  27  bought dictionary english major reading needed...   0.265239
+1  30  using franklin speaking dictionary three weeks...   0.226046
+2  15  updated review originally experienced miscommu...   0.079500
+
+step 1
+index added: 31
+percentage unclustered: 85.9649%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 80.70179999999999%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 78.9474%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 78.9474%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 77.193%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 77.193%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 77.193%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 77.193%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 77.193%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 64.9123%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 64.9123%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 63.1579%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 63.1579%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 63.1579%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 63.1579%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 63.1579%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 73.6842%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 70.1754%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 70.1754%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 68.4211%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 64.9123%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 64.9123%
+
+	step 2
+
+--- 6.801786422729492 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 94.7368, 92.9825, 92.9825, 87.7193, 87.7193, 87.7193, 87.7193, 92.9825, 92.9825, 85.9649, 92.9825, 92.9825, 92.9825, 91.2281, 91.2281, 91.2281, 85.9649, 85.9649, 80.70179999999999, 78.9474, 78.9474, 77.193, 77.193, 77.193, 77.193, 77.193, 66.66669999999999, 64.9123, 64.9123, 63.1579, 63.1579, 63.1579, 63.1579, 63.1579, 73.6842, 70.1754, 70.1754, 68.4211, 66.66669999999999, 66.66669999999999, 66.66669999999999, 64.9123, 64.9123], mean: 83.2217
+
+Final Ranking:
+   ranking  ...                                             review
+0       43  ...  bought dictionary english major reading needed...
+1       59  ...  using franklin speaking dictionary three weeks...
+2       52  ...  updated review originally experienced miscommu...
+
+[3 rows x 4 columns]

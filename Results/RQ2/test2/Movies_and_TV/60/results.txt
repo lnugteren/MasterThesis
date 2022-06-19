@@ -1,0 +1,236 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 6302320488
+Shape:  (60, 7)
+Shape after:  (60, 7)
+
+
+Chosen product: 6302320488 has 60 reviews - True, it has 60 reviews
+
+Removed indexes: [0, 1, 2, 3, 7, 9, 14, 17, 19, 20, 31, 34, 35, 36, 37, 48, 50, 53, 57, 59]
+New length of reviews: 40
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 57.5%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 57.5%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 57.5%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 47.5%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 47.5%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 47.5%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 45.0%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 42.5%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 40.0%
+
+	step 2
+
+--- 2.33573055267334 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 92.5, 92.5, 92.5, 90.0, 90.0, 90.0, 87.5, 87.5, 87.5, 87.5, 87.5, 87.5, 80.0, 80.0, 77.5, 77.5, 77.5, 77.5, 77.5, 77.5, 77.5, 57.5, 57.5, 57.5, 50.0, 47.5, 47.5, 47.5, 45.0, 42.5, 40.0], mean: 78.0921
+
+Final Ranking:
+Empty DataFrame
+Columns: [ranking, ind, relevance, review]
+Index: []

@@ -1,0 +1,515 @@
+------- Category: Office_Products -------
+Found asin_id: B000VG4AY0
+Shape:  (110, 7)
+Shape after:  (110, 7)
+
+
+Chosen product: B000VG4AY0 has 110 reviews - True, it has 110 reviews
+
+Removed indexes: [9, 10, 15, 19, 20, 21, 24, 25, 28, 33, 36, 38, 40, 47, 48, 49, 51, 53, 60, 68, 69, 74, 78, 79, 85, 94, 105, 107, 109]
+New length of reviews: 81
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 96.2963%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [1, 4, 6]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   6  purchased scanner primarily scan 1000 slides f...   0.301124
+
+step 1
+index added: 7
+percentage unclustered: 95.0617%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [1, 4, 6, 7]
+			old information: 94, gain: 0.9599317988064792
+
+   ind                                             review  relevance
+0   6  purchased scanner primarily scan 1000 slides f...   0.301124
+1   7  absolutely love scanner say enough good things...   0.240413
+
+step 1
+index added: 8
+percentage unclustered: 93.8272%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [1, 4, 6, 8]
+			old information: 227, gain: 0.9752723311546841
+
+   ind                                             review  relevance
+0   6  purchased scanner primarily scan 1000 slides f...   0.301124
+1   8  past 37 years shot thousands photographs print...   0.250451
+2   7  absolutely love scanner say enough good things...   0.240413
+
+step 1
+index added: 9
+percentage unclustered: 93.8272%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 93.8272%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 93.8272%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 93.8272%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 93.8272%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 93.8272%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 92.5926%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 92.5926%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 92.5926%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 92.5926%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 92.5926%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 92.5926%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 92.5926%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 91.358%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 91.358%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 91.358%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 91.358%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 90.1235%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 90.1235%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 90.1235%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 87.6543%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 86.4198%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 85.1852%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 81.4815%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 81.4815%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 81.4815%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 81.4815%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 80.2469%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 80.2469%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 79.0123%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 75.3086%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 75.3086%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 74.0741%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 72.8395%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 72.8395%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 72.8395%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 71.6049%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 71.6049%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 70.3704%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 70.3704%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 65.43209999999999%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 65.43209999999999%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 65.43209999999999%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 65.43209999999999%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 64.19749999999999%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 60.4938%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 59.2593%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 58.0247%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 58.0247%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 56.7901%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 56.7901%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 56.7901%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 51.8519%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 50.6173%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 50.6173%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 50.6173%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 50.6173%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 49.3827%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 49.3827%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 49.3827%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 49.3827%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 49.3827%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 48.1481%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 46.9136%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 45.679%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 45.679%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 45.679%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 44.4444%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 44.4444%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 40.7407%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 39.5062%
+
+	step 2
+
+--- 22.25801181793213 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 96.2963, 95.0617, 93.8272, 93.8272, 93.8272, 93.8272, 93.8272, 93.8272, 93.8272, 92.5926, 92.5926, 92.5926, 92.5926, 92.5926, 92.5926, 92.5926, 91.358, 91.358, 91.358, 91.358, 90.1235, 90.1235, 90.1235, 87.6543, 86.4198, 85.1852, 81.4815, 81.4815, 81.4815, 81.4815, 80.2469, 80.2469, 79.0123, 75.3086, 75.3086, 74.0741, 72.8395, 72.8395, 72.8395, 71.6049, 71.6049, 70.3704, 70.3704, 66.66669999999999, 65.43209999999999, 65.43209999999999, 65.43209999999999, 65.43209999999999, 64.19749999999999, 60.4938, 59.2593, 58.0247, 58.0247, 56.7901, 56.7901, 56.7901, 51.8519, 50.6173, 50.6173, 50.6173, 50.6173, 49.3827, 49.3827, 49.3827, 49.3827, 49.3827, 48.1481, 46.9136, 45.679, 45.679, 45.679, 44.4444, 44.4444, 40.7407, 39.5062], mean: 73.2302
+
+Final Ranking:
+   ranking  ...                                             review
+0        2  ...  purchased scanner primarily scan 1000 slides f...
+1       24  ...  past 37 years shot thousands photographs print...
+2        3  ...  absolutely love scanner say enough good things...
+
+[3 rows x 4 columns]

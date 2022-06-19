@@ -1,0 +1,333 @@
+------- Category: Office_Products -------
+Found asin_id: B00000J6JX
+Shape:  (60, 7)
+Shape after:  (60, 7)
+
+
+Chosen product: B00000J6JX has 60 reviews - True, it has 60 reviews
+
+Removed indexes: [5, 10, 19, 23, 24, 29, 34, 41, 44, 49]
+New length of reviews: 50
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 94.0%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [3, 6, 7]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   7  pretty good globe fair good gift child interes...    0.26523
+
+step 1
+index added: 8
+percentage unclustered: 92.0%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [3, 6, 7, 8]
+			old information: 57, gain: 0.9932021466905188
+
+   ind                                             review  relevance
+0   8  quite lot appropriate detail globe considering...   0.468399
+1   7  pretty good globe fair good gift child interes...   0.265230
+
+step 1
+index added: 9
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [3, 6, 7, 8]
+
+step 1
+index added: 15
+percentage unclustered: 88.0%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [3, 6, 7, 8]
+
+step 1
+index added: 16
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [6, 7, 14, 21]
+			old information: 2, gain: 0.9444444444444444
+
+   ind                                             review  relevance
+0   8  quite lot appropriate detail globe considering...   0.468399
+1   7  pretty good globe fair good gift child interes...   0.265230
+2  21     good quality found almost half price toys r us   0.118962
+
+step 1
+index added: 22
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 62.0%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 58.0%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 56.0%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 48.0%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 48.0%
+
+	step 2
+
+--- 6.709748268127441 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 94.0, 92.0, 92.0, 92.0, 92.0, 92.0, 92.0, 90.0, 88.0, 92.0, 92.0, 92.0, 92.0, 92.0, 90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 92.0, 92.0, 92.0, 92.0, 92.0, 92.0, 84.0, 68.0, 66.0, 66.0, 64.0, 64.0, 64.0, 62.0, 60.0, 60.0, 58.0, 56.0, 50.0, 48.0, 48.0], mean: 82.7917
+
+Final Ranking:
+   ranking  ...                                             review
+0        8  ...  quite lot appropriate detail globe considering...
+1        2  ...  pretty good globe fair good gift child interes...
+2        1  ...     good quality found almost half price toys r us
+
+[3 rows x 4 columns]

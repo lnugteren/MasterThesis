@@ -1,0 +1,90 @@
+------- Category: Office_Products -------
+Found asin_id: 0310821800
+Shape:  (20, 7)
+Shape after:  (20, 7)
+
+
+Chosen product: 0310821800 has 20 reviews - True, it has 20 reviews
+
+Removed indexes: [3, 6, 7, 9]
+New length of reviews: 16
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 81.25%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 81.25%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 62.5%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 62.5%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 62.5%
+
+	step 2
+
+--- 0.2374591827392578 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 81.25, 81.25, 75.0, 62.5, 62.5, 62.5], mean: 87.5
+
+Final Ranking:
+Empty DataFrame
+Columns: [ranking, ind, relevance, review]
+Index: []
