@@ -1,0 +1,1045 @@
+------- Category: Office_Products -------
+Found asin_id: B0007VMROE
+Shape:  (130, 7)
+Shape after:  (130, 7)
+
+
+Chosen product: B0007VMROE has 130 reviews - True, it has 130 reviews
+
+Nr of stopwords in review: ['112/250', '280/518', '14/52', '304/712', '287/584', '134/301', '95/290', '126/247', '241/454', '123/247', '38/72', '92/202', '54/93', '55/100', '196/354', '87/184', '88/183', '150/304', '35/77', '113/233', '282/524', '191/377', '74/161', '23/57', '45/97', '26/60', '78/152', '94/203', '93/154', '314/570', '47/104', '40/99', '73/149', '100/248', '56/137', '66/132', '63/117', '45/98', '20/44', '71/138', '77/148', '37/99', '75/145', '120/291', '66/137', '150/295', '98/175', '130/251', '45/105', '79/159', '15/32', '12/25', '111/253', '87/150', '98/183', '36/83', '135/250', '90/179', '51/93', '48/88', '52/101', '92/177', '91/214', '45/90', '21/47', '23/45', '269/585', '12/40', '226/424', '60/138', '71/144', '52/85', '82/170', '185/344', '48/100', '280/596', '110/214', '120/240', '269/522', '82/162', '458/943', '112/236', '65/129', '34/54', '68/137', '28/54', '40/73', '65/127', '381/802', '58/97', '91/157', '141/290', '257/553', '38/76', '70/126', '42/80', '110/235', '78/133', '258/508', '65/136', '29/59', '207/428', '325/653', '42/69', '35/72', '22/54', '26/53', '63/136', '58/125', '67/128', '111/235', '102/209', '126/287', '73/160', '206/487', '146/306', '55/102', '176/341', '16/60', '320/691', '143/305', '66/147', '156/329', '19/49', '55/108', '55/98', '56/95', '365/749', '21/44', '112/212'], on average: 0.4887
+Nr of stopwords in summary: ['0/2', '4/8', '2/4', '3/9', '9/13', '2/4', '0/4', '10/17', '7/10', '0/3', '0/2', '0/3', '4/7', '0/3', '2/7', '0/1', '0/2', '0/4', '2/4', '5/12', '2/9', '0/2', '3/6', '3/5', '0/5', '3/5', '2/8', '4/8', '0/1', '2/5', '3/6', '2/4', '5/9', '3/5', '2/7', '2/8', '0/4', '9/11', '0/3', '1/3', '0/3', '1/4', '2/6', '0/3', '4/11', '1/4', '0/2', '3/8', '2/5', '4/7', '0/3', '0/2', '3/6', '1/5', '3/9', '0/4', '4/8', '0/2', '0/2', '1/4', '2/7', '4/7', '2/7', '2/4', '0/5', '0/2', '2/9', '0/1', '0/2', '1/6', '2/3', '3/5', '5/10', '2/6', '1/4', '2/6', '1/2', '1/4', '7/9', '0/3', '6/11', '7/12', '6/12', '1/4', '4/7', '2/4', '6/8', '1/4', '0/2', '1/2', '2/7', '1/6', '0/2', '6/9', '3/5', '4/8', '5/9', '1/2', '1/5', '0/2', '2/4', '2/7', '6/10', '2/3', '0/4', '0/1', '0/4', '3/5', '10/20', '3/5', '0/2', '1/4', '0/8', '0/5', '0/4', '1/3', '0/3', '0/4', '5/11', '1/4', '2/7', '1/3', '0/3', '2/6', '3/5', '1/3', '0/2', '2/5', '2/5', '2/5'], on average: 0.3009
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 97.6923%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [2, 5, 7]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   7  certainly this device is outdated technology c...   0.658794
+
+step 1
+index added: 8
+percentage unclustered: 96.9231%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [2, 5, 7, 8]
+			old information: 1916, gain: 0.9813674864583637
+
+   ind                                             review  relevance
+0   7  certainly this device is outdated technology c...   0.658794
+1   8  i have had palm devices since they first came ...   0.645107
+
+step 1
+index added: 9
+percentage unclustered: 96.9231%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 96.9231%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 96.9231%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 96.9231%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 96.9231%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 94.6154%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [5, 7, 8, 14]
+			old information: 2389, gain: 0.9617643763704166
+
+   ind                                             review  relevance
+0  14  i just received my palm a few days ago ok actu...   0.775850
+1   7  certainly this device is outdated technology c...   0.658794
+2   8  i have had palm devices since they first came ...   0.645107
+
+step 1
+index added: 15
+percentage unclustered: 94.6154%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 94.6154%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 92.3077%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [4, 5, 7, 16, 17]
+			old information: 2197, gain: 0.9522972034045509
+
+   ind                                             review  relevance
+0  14  i just received my palm a few days ago ok actu...   0.775850
+1  17  i am a very busy facility manager and i need t...   0.739667
+2   7  certainly this device is outdated technology c...   0.658794
+3   8  i have had palm devices since they first came ...   0.645107
+
+step 1
+index added: 18
+percentage unclustered: 92.3077%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 91.5385%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [4, 5, 7, 17, 19]
+			old information: 2004, gain: 0.9258546692319076
+
+   ind                                             review  relevance
+0  19  i like the palm handhelds in general and have ...   0.785003
+1  14  i just received my palm a few days ago ok actu...   0.775850
+2  17  i am a very busy facility manager and i need t...   0.739667
+3   7  certainly this device is outdated technology c...   0.658794
+4   8  i have had palm devices since they first came ...   0.645107
+
+step 1
+index added: 20
+percentage unclustered: 91.5385%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 91.5385%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 89.2308%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 89.2308%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 88.4615%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [4, 5, 7, 19]
+
+step 1
+index added: 25
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 86.9231%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 86.9231%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 86.9231%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [4, 5, 7, 19]
+
+step 1
+index added: 31
+percentage unclustered: 84.6154%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 86.9231%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [4, 16, 17, 19, 29]
+
+step 1
+index added: 34
+percentage unclustered: 86.9231%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 86.9231%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 84.6154%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 84.6154%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 85.3846%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 84.6154%
+
+	step 2
+
+		step 3
+		candidate index: 39 with core nodes: [4, 16, 17, 19, 29]
+			old information: 1629, gain: 0.8276737543636941
+
+   ind                                             review  relevance
+0  19  i like the palm handhelds in general and have ...   0.785003
+1  14  i just received my palm a few days ago ok actu...   0.775850
+2  39  i bought the tungsten e2 to replace my frankli...   0.752533
+3  17  i am a very busy facility manager and i need t...   0.739667
+4   7  certainly this device is outdated technology c...   0.658794
+5   8  i have had palm devices since they first came ...   0.645107
+
+step 1
+index added: 40
+percentage unclustered: 83.8462%
+
+	step 2
+
+		step 3
+		candidate index: 40 with core nodes: [4, 16, 17, 19, 29]
+			old information: 1238, gain: 0.8861923147637434
+
+   ind                                             review  relevance
+0  19  i like the palm handhelds in general and have ...   0.785003
+1  14  i just received my palm a few days ago ok actu...   0.775850
+2  39  i bought the tungsten e2 to replace my frankli...   0.752533
+3  17  i am a very busy facility manager and i need t...   0.739667
+4  40  i use this handheld for nursing school and i v...   0.715881
+5   7  certainly this device is outdated technology c...   0.658794
+6   8  i have had palm devices since they first came ...   0.645107
+
+step 1
+index added: 41
+percentage unclustered: 86.1538%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [3, 4, 14, 36]
+
+step 1
+index added: 42
+percentage unclustered: 86.1538%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 86.1538%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 86.9231%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 87.6923%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [16, 17, 40, 45]
+			old information: 3166, gain: 0.9269918136746224
+
+   ind                                             review  relevance
+0  45  october 2006 my tungsten e which was very sati...   0.834890
+1  19  i like the palm handhelds in general and have ...   0.785003
+2  14  i just received my palm a few days ago ok actu...   0.775850
+3  39  i bought the tungsten e2 to replace my frankli...   0.752533
+4  17  i am a very busy facility manager and i need t...   0.739667
+5  40  i use this handheld for nursing school and i v...   0.715881
+6   7  certainly this device is outdated technology c...   0.658794
+7   8  i have had palm devices since they first came ...   0.645107
+
+step 1
+index added: 46
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 86.9231%
+
+	step 2
+
+		step 3
+		candidate index: 50 with core nodes: [16, 17, 40, 45]
+
+step 1
+index added: 51
+percentage unclustered: 86.9231%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 83.8462%
+
+	step 2
+
+		step 3
+		candidate index: 52 with core nodes: [4, 5, 45, 52]
+			old information: 2912, gain: 0.9086517347386912
+
+   ind                                             review  relevance
+0  45  october 2006 my tungsten e which was very sati...   0.834890
+1  19  i like the palm handhelds in general and have ...   0.785003
+2  14  i just received my palm a few days ago ok actu...   0.775850
+3  52  with none of the plasticky goodness of the z 2...   0.773747
+4  39  i bought the tungsten e2 to replace my frankli...   0.752533
+5  17  i am a very busy facility manager and i need t...   0.739667
+6  40  i use this handheld for nursing school and i v...   0.715881
+7   7  certainly this device is outdated technology c...   0.658794
+8   8  i have had palm devices since they first came ...   0.645107
+
+step 1
+index added: 53
+percentage unclustered: 83.8462%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 83.8462%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 83.8462%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 83.8462%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 83.8462%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 83.8462%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 83.8462%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 83.8462%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 83.8462%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 83.8462%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 83.8462%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 83.0769%
+
+	step 2
+
+		step 3
+		candidate index: 64 with core nodes: [16, 17, 40]
+
+step 1
+index added: 65
+percentage unclustered: 83.0769%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 82.3077%
+
+	step 2
+
+		step 3
+		candidate index: 66 with core nodes: [4, 5, 45, 66]
+			old information: 8219, gain: 0.9518850251726964
+
+   ind                                             review  relevance
+0  66  last year i purchased an e2 to replace my tung...   0.864676
+1  45  october 2006 my tungsten e which was very sati...   0.834890
+2  19  i like the palm handhelds in general and have ...   0.785003
+3  14  i just received my palm a few days ago ok actu...   0.775850
+4  52  with none of the plasticky goodness of the z 2...   0.773747
+5  39  i bought the tungsten e2 to replace my frankli...   0.752533
+6  17  i am a very busy facility manager and i need t...   0.739667
+7  40  i use this handheld for nursing school and i v...   0.715881
+8   7  certainly this device is outdated technology c...   0.658794
+9   8  i have had palm devices since they first came ...   0.645107
+
+step 1
+index added: 67
+percentage unclustered: 82.3077%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 83.8462%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 81.5385%
+
+	step 2
+
+		step 3
+		candidate index: 69 with core nodes: [4, 5, 45, 66]
+
+step 1
+index added: 70
+percentage unclustered: 79.2308%
+
+	step 2
+
+		step 3
+		candidate index: 70 with core nodes: [5, 45, 66]
+
+step 1
+index added: 71
+percentage unclustered: 79.2308%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 79.2308%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 79.2308%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 76.1538%
+
+	step 2
+
+		step 3
+		candidate index: 74 with core nodes: [17, 29, 68]
+
+step 1
+index added: 75
+percentage unclustered: 76.1538%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 76.1538%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 76.1538%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 73.8462%
+
+	step 2
+
+		step 3
+		candidate index: 78 with core nodes: [17, 54, 68, 78]
+			old information: 7369, gain: 0.9458086056140196
+
+    ind                                             review  relevance
+0   66  last year i purchased an e2 to replace my tung...   0.864676
+1   78  i have had absolutely not a single complaint a...   0.857993
+2   45  october 2006 my tungsten e which was very sati...   0.834890
+3   19  i like the palm handhelds in general and have ...   0.785003
+4   14  i just received my palm a few days ago ok actu...   0.775850
+5   52  with none of the plasticky goodness of the z 2...   0.773747
+6   39  i bought the tungsten e2 to replace my frankli...   0.752533
+7   17  i am a very busy facility manager and i need t...   0.739667
+8   40  i use this handheld for nursing school and i v...   0.715881
+9    7  certainly this device is outdated technology c...   0.658794
+10   8  i have had palm devices since they first came ...   0.645107
+
+step 1
+index added: 79
+percentage unclustered: 73.8462%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 74.6154%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 78.4615%
+
+	step 2
+
+		step 3
+		candidate index: 81 with core nodes: [5, 45, 66]
+			old information: 3695, gain: 0.8667508113956004
+
+    ind                                             review  relevance
+0   66  last year i purchased an e2 to replace my tung...   0.864676
+1   78  i have had absolutely not a single complaint a...   0.857993
+2   45  october 2006 my tungsten e which was very sati...   0.834890
+3   81  i ve had palms as long as i can remember and n...   0.817286
+4   19  i like the palm handhelds in general and have ...   0.785003
+5   14  i just received my palm a few days ago ok actu...   0.775850
+6   52  with none of the plasticky goodness of the z 2...   0.773747
+7   39  i bought the tungsten e2 to replace my frankli...   0.752533
+8   17  i am a very busy facility manager and i need t...   0.739667
+9   40  i use this handheld for nursing school and i v...   0.715881
+10   7  certainly this device is outdated technology c...   0.658794
+11   8  i have had palm devices since they first came ...   0.645107
+
+step 1
+index added: 82
+percentage unclustered: 78.4615%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 77.6923%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 76.9231%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 74.6154%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 74.6154%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 74.6154%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 74.6154%
+
+	step 2
+
+		step 3
+		candidate index: 88 with core nodes: [5, 45, 66, 68, 81, 88]
+			old information: 14900, gain: 0.953611601458277
+
+    ind                                             review  relevance
+0   88  update i installed the phone link updater from...   0.869164
+1   66  last year i purchased an e2 to replace my tung...   0.864676
+2   78  i have had absolutely not a single complaint a...   0.857993
+3   45  october 2006 my tungsten e which was very sati...   0.834890
+4   81  i ve had palms as long as i can remember and n...   0.817286
+5   19  i like the palm handhelds in general and have ...   0.785003
+6   14  i just received my palm a few days ago ok actu...   0.775850
+7   52  with none of the plasticky goodness of the z 2...   0.773747
+8   39  i bought the tungsten e2 to replace my frankli...   0.752533
+9   17  i am a very busy facility manager and i need t...   0.739667
+10  40  i use this handheld for nursing school and i v...   0.715881
+11   7  certainly this device is outdated technology c...   0.658794
+12   8  i have had palm devices since they first came ...   0.645107
+
+step 1
+index added: 89
+percentage unclustered: 74.6154%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 73.8462%
+
+	step 2
+
+		step 3
+		candidate index: 90 with core nodes: [5, 45, 66, 68, 81, 88]
+
+step 1
+index added: 91
+percentage unclustered: 73.8462%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 73.8462%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 73.8462%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 73.8462%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 73.8462%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 73.8462%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 73.8462%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 73.8462%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 69.2308%
+
+	step 2
+
+		step 3
+		candidate index: 99 with core nodes: [5, 20, 45, 66]
+
+step 1
+index added: 100
+percentage unclustered: 68.4615%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 70.7692%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 70.7692%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 70.7692%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 70.7692%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 70.7692%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 68.4615%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 68.4615%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 66.15379999999999%
+
+	step 2
+
+		step 3
+		candidate index: 108 with core nodes: [5, 20, 45, 66]
+
+step 1
+index added: 109
+percentage unclustered: 66.15379999999999%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 69.2308%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 68.4615%
+
+	step 2
+
+		step 3
+		candidate index: 111 with core nodes: [5, 20, 45, 66]
+
+step 1
+index added: 112
+percentage unclustered: 68.4615%
+
+	step 2
+
+		step 3
+		candidate index: 112 with core nodes: [5, 45, 52, 111]
+			old information: 4578, gain: 0.88845301040423
+
+     ind                                             review  relevance
+0    88  update i installed the phone link updater from...   0.869164
+1    66  last year i purchased an e2 to replace my tung...   0.864676
+2    78  i have had absolutely not a single complaint a...   0.857993
+3    45  october 2006 my tungsten e which was very sati...   0.834890
+4    81  i ve had palms as long as i can remember and n...   0.817286
+5    19  i like the palm handhelds in general and have ...   0.785003
+6    14  i just received my palm a few days ago ok actu...   0.775850
+7    52  with none of the plasticky goodness of the z 2...   0.773747
+8    39  i bought the tungsten e2 to replace my frankli...   0.752533
+9   112  two months ago i replaced my well loved t e wi...   0.747723
+10   17  i am a very busy facility manager and i need t...   0.739667
+11   40  i use this handheld for nursing school and i v...   0.715881
+12    7  certainly this device is outdated technology c...   0.658794
+13    8  i have had palm devices since they first came ...   0.645107
+
+step 1
+index added: 113
+percentage unclustered: 68.4615%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 68.4615%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 68.4615%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 67.6923%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 67.6923%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 67.6923%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 67.6923%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 67.6923%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 67.6923%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 67.6923%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 70.7692%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 67.6923%
+
+	step 2
+
+		step 3
+		candidate index: 124 with core nodes: [20, 45, 73, 112]
+
+step 1
+index added: 125
+percentage unclustered: 67.6923%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 66.9231%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 66.9231%
+
+	step 2
+
+step 1
+index added: 128
+percentage unclustered: 66.9231%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 64.6154%
+
+	step 2
+
+		step 3
+		candidate index: 129 with core nodes: [4, 20, 45, 73, 129]
+			old information: 3077, gain: 0.8624251095412679
+
+     ind                                             review  relevance
+0    88  update i installed the phone link updater from...   0.869164
+1    66  last year i purchased an e2 to replace my tung...   0.864676
+2    78  i have had absolutely not a single complaint a...   0.857993
+3   129  overall i find the e2 a joy to use the screen ...   0.847245
+4    45  october 2006 my tungsten e which was very sati...   0.834890
+5    81  i ve had palms as long as i can remember and n...   0.817286
+6    19  i like the palm handhelds in general and have ...   0.785003
+7    14  i just received my palm a few days ago ok actu...   0.775850
+8    52  with none of the plasticky goodness of the z 2...   0.773747
+9    39  i bought the tungsten e2 to replace my frankli...   0.752533
+10  112  two months ago i replaced my well loved t e wi...   0.747723
+11   17  i am a very busy facility manager and i need t...   0.739667
+12   40  i use this handheld for nursing school and i v...   0.715881
+13    7  certainly this device is outdated technology c...   0.658794
+14    8  i have had palm devices since they first came ...   0.645107
+
+--- 947.2774741649628 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 97.6923, 96.9231, 96.9231, 96.9231, 96.9231, 96.9231, 96.9231, 94.6154, 94.6154, 94.6154, 92.3077, 92.3077, 91.5385, 91.5385, 91.5385, 89.2308, 89.2308, 88.4615, 88.4615, 88.4615, 86.9231, 86.9231, 87.6923, 86.9231, 84.6154, 87.6923, 86.9231, 86.9231, 86.9231, 84.6154, 84.6154, 85.3846, 84.6154, 83.8462, 86.1538, 86.1538, 86.1538, 86.9231, 87.6923, 87.6923, 87.6923, 87.6923, 87.6923, 86.9231, 86.9231, 83.8462, 83.8462, 83.8462, 83.8462, 83.8462, 83.8462, 83.8462, 83.8462, 83.8462, 83.8462, 83.8462, 83.8462, 83.0769, 83.0769, 82.3077, 82.3077, 83.8462, 81.5385, 79.2308, 79.2308, 79.2308, 79.2308, 76.1538, 76.1538, 76.1538, 76.1538, 73.8462, 73.8462, 74.6154, 78.4615, 78.4615, 77.6923, 76.9231, 74.6154, 74.6154, 74.6154, 74.6154, 74.6154, 73.8462, 73.8462, 73.8462, 73.8462, 73.8462, 73.8462, 73.8462, 73.8462, 73.8462, 69.2308, 68.4615, 70.7692, 70.7692, 70.7692, 70.7692, 70.7692, 68.4615, 68.4615, 66.15379999999999, 66.15379999999999, 69.2308, 68.4615, 68.4615, 68.4615, 68.4615, 68.4615, 67.6923, 67.6923, 67.6923, 67.6923, 67.6923, 67.6923, 67.6923, 70.7692, 67.6923, 67.6923, 66.9231, 66.9231, 66.9231, 64.6154], mean: 80.7933
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0       104   88   0.869164  update i installed the phone link updater from...
+1        40   66   0.864676  last year i purchased an e2 to replace my tung...
+2        81   78   0.857993  i have had absolutely not a single complaint a...
+3        24  129   0.847245  overall i find the e2 a joy to use the screen ...
+4        73   45   0.834890  october 2006 my tungsten e which was very sati...
+5        41   81   0.817286  i ve had palms as long as i can remember and n...
+6        76   19   0.785003  i like the palm handhelds in general and have ...
+7       110   14   0.775850  i just received my palm a few days ago ok actu...
+8        30   52   0.773747  with none of the plasticky goodness of the z 2...
+9        98   39   0.752533  i bought the tungsten e2 to replace my frankli...
+10       38  112   0.747723  two months ago i replaced my well loved t e wi...
+11       86   17   0.739667  i am a very busy facility manager and i need t...
+12      124   40   0.715881  i use this handheld for nursing school and i v...
+13        2    7   0.658794  certainly this device is outdated technology c...
+14       71    8   0.645107  i have had palm devices since they first came ...

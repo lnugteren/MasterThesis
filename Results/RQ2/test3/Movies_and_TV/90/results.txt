@@ -1,0 +1,787 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 0767824571
+Shape:  (90, 7)
+Shape after:  (90, 7)
+
+
+Chosen product: 0767824571 has 90 reviews - True, it has 90 reviews
+
+Nr of stopwords in review: ['50/99', '30/59', '75/157', '193/366', '9/17', '36/63', '6/9', '7/22', '48/89', '141/306', '0/1', '75/136', '74/139', '311/636', '52/103', '60/125', '259/549', '269/712', '15/41', '78/156', '325/617', '72/123', '235/498', '50/86', '57/120', '227/460', '7/24', '43/82', '51/101', '30/55', '46/86', '17/28', '54/126', '57/121', '41/78', '16/43', '195/402', '207/437', '21/48', '54/125', '25/48', '174/356', '172/320', '101/195', '108/225', '163/332', '189/355', '307/663', '195/380', '145/251', '70/125', '60/112', '218/514', '182/372', '61/125', '134/282', '60/124', '194/416', '72/150', '99/200', '206/411', '156/353', '111/219', '61/106', '259/612', '180/334', '84/211', '165/334', '120/311', '173/382', '69/122', '36/75', '168/345', '59/108', '428/975', '44/80', '46/95', '75/198', '56/171', '127/266', '232/555', '33/73', '91/211', '129/241', '76/162', '60/103', '75/157', '69/124', '127/228', '63/145'], on average: 0.4837
+Nr of stopwords in summary: ['1/6', '5/9', '2/5', '4/7', '0/2', '2/7', '4/7', '1/6', '4/11', '0/3', '0/2', '5/10', '0/3', '1/4', '0/2', '3/6', '0/5', '5/13', '3/10', '6/15', '1/3', '2/5', '2/8', '0/2', '3/6', '4/7', '1/4', '3/7', '2/3', '3/8', '3/7', '2/4', '5/8', '2/2', '0/2', '4/6', '4/6', '3/6', '2/6', '5/12', '3/6', '6/10', '1/6', '2/5', '1/3', '3/6', '4/9', '4/12', '3/6', '2/5', '2/7', '3/8', '2/10', '4/6', '2/3', '3/7', '3/9', '3/9', '1/5', '1/6', '5/7', '5/10', '1/6', '8/14', '2/5', '2/3', '4/11', '4/9', '5/12', '3/3', '4/10', '4/9', '1/4', '0/2', '1/8', '1/6', '1/4', '2/5', '7/12', '5/10', '2/7', '4/9', '0/6', '2/6', '2/4', '3/6', '6/11', '1/2', '1/3', '1/5'], on average: 0.3796
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 96.6667%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [1, 2, 11]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  11  i purchased this in part to upgrade to blu ray...   0.569779
+
+step 1
+index added: 12
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 95.5556%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [1, 2, 11, 13]
+			old information: 921, gain: 0.9954390135195365
+
+   ind                                             review  relevance
+0  13  love the movie one of my favorites love the tr...   0.739866
+1  11  i purchased this in part to upgrade to blu ray...   0.569779
+
+step 1
+index added: 14
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 86.6667%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [3, 9, 13, 17]
+
+step 1
+index added: 19
+percentage unclustered: 84.4444%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [3, 9, 13, 17]
+			old information: 1003, gain: 0.9170388751033912
+
+   ind                                             review  relevance
+0  19  please be very careful if you order this editi...   0.751130
+1  13  love the movie one of my favorites love the tr...   0.739866
+2  11  i purchased this in part to upgrade to blu ray...   0.569779
+
+step 1
+index added: 20
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [2, 3, 19, 20]
+			old information: 3371, gain: 0.9822612557620661
+
+   ind                                             review  relevance
+0  20  disclaimer the reason i have chosen to review ...   0.775226
+1  19  please be very careful if you order this editi...   0.751130
+2  13  love the movie one of my favorites love the tr...   0.739866
+3  11  i purchased this in part to upgrade to blu ray...   0.569779
+
+		step 3
+		candidate index: 20 with core nodes: [2, 3, 13, 20]
+			old information: 33762, gain: 0.8223389252562673
+
+   ind                                             review  relevance
+0  20  disclaimer the reason i have chosen to review ...   0.864987
+1  20  disclaimer the reason i have chosen to review ...   0.775226
+2  19  please be very careful if you order this editi...   0.751130
+3  13  love the movie one of my favorites love the tr...   0.739866
+4  11  i purchased this in part to upgrade to blu ray...   0.569779
+
+step 1
+index added: 21
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 91.1111%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 87.7778%
+
+	step 2
+
+		step 3
+		candidate index: 23 with core nodes: [2, 3, 13, 16, 20, 22]
+
+step 1
+index added: 24
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [16, 17, 20, 22]
+
+step 1
+index added: 25
+percentage unclustered: 78.8889%
+
+	step 2
+
+		step 3
+		candidate index: 25 with core nodes: [16, 17, 22, 25]
+			old information: 4302, gain: 0.9592497868712703
+
+   ind                                             review  relevance
+0  20  disclaimer the reason i have chosen to review ...   0.864987
+1  25  king arthur and his knights of the round table...   0.849261
+2  20  disclaimer the reason i have chosen to review ...   0.775226
+3  19  please be very careful if you order this editi...   0.751130
+4  13  love the movie one of my favorites love the tr...   0.739866
+5  11  i purchased this in part to upgrade to blu ray...   0.569779
+
+step 1
+index added: 26
+percentage unclustered: 78.8889%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 87.7778%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [16, 20, 22]
+
+step 1
+index added: 29
+percentage unclustered: 82.2222%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 78.8889%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [16, 22, 25]
+
+step 1
+index added: 31
+percentage unclustered: 78.8889%
+
+	step 2
+
+		step 3
+		candidate index: 31 with core nodes: [12, 16, 20, 22]
+
+step 1
+index added: 32
+percentage unclustered: 78.8889%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [12, 16, 20, 22]
+
+step 1
+index added: 33
+percentage unclustered: 77.7778%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [12, 16, 20, 22]
+
+step 1
+index added: 34
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 72.2222%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 71.1111%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [16, 17, 22, 36]
+			old information: 3870, gain: 0.9519857073733576
+
+   ind                                             review  relevance
+0  20  disclaimer the reason i have chosen to review ...   0.864987
+1  25  king arthur and his knights of the round table...   0.849261
+2  36  as a teacher of medieval grail literature i ha...   0.830324
+3  20  disclaimer the reason i have chosen to review ...   0.775226
+4  19  please be very careful if you order this editi...   0.751130
+5  13  love the movie one of my favorites love the tr...   0.739866
+6  11  i purchased this in part to upgrade to blu ray...   0.569779
+
+step 1
+index added: 37
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [16, 17, 22, 37]
+			old information: 5987, gain: 0.9371549136103122
+
+   ind                                             review  relevance
+0  20  disclaimer the reason i have chosen to review ...   0.864987
+1  25  king arthur and his knights of the round table...   0.849261
+2  37  surprisingly i first watch monty python and th...   0.845506
+3  36  as a teacher of medieval grail literature i ha...   0.830324
+4  20  disclaimer the reason i have chosen to review ...   0.775226
+5  19  please be very careful if you order this editi...   0.751130
+6  13  love the movie one of my favorites love the tr...   0.739866
+7  11  i purchased this in part to upgrade to blu ray...   0.569779
+
+step 1
+index added: 38
+percentage unclustered: 68.8889%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [16, 17, 22, 37]
+
+step 1
+index added: 39
+percentage unclustered: 68.8889%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 68.8889%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [16, 17, 22, 41]
+			old information: 6098, gain: 0.9034973888273461
+
+   ind                                             review  relevance
+0  41  i had my first exposure to monty python as a v...   0.874110
+1  20  disclaimer the reason i have chosen to review ...   0.864987
+2  25  king arthur and his knights of the round table...   0.849261
+3  37  surprisingly i first watch monty python and th...   0.845506
+4  36  as a teacher of medieval grail literature i ha...   0.830324
+5  20  disclaimer the reason i have chosen to review ...   0.775226
+6  19  please be very careful if you order this editi...   0.751130
+7  13  love the movie one of my favorites love the tr...   0.739866
+8  11  i purchased this in part to upgrade to blu ray...   0.569779
+
+step 1
+index added: 42
+percentage unclustered: 68.8889%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 64.4444%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [16, 17, 22, 41]
+
+step 1
+index added: 44
+percentage unclustered: 63.3333%
+
+	step 2
+
+		step 3
+		candidate index: 44 with core nodes: [16, 17, 22, 41]
+			old information: 3277, gain: 0.8699603174603174
+
+   ind                                             review  relevance
+0  41  i had my first exposure to monty python as a v...   0.874110
+1  20  disclaimer the reason i have chosen to review ...   0.864987
+2  25  king arthur and his knights of the round table...   0.849261
+3  44  terry jones the co director of monty python an...   0.848281
+4  37  surprisingly i first watch monty python and th...   0.845506
+5  36  as a teacher of medieval grail literature i ha...   0.830324
+6  20  disclaimer the reason i have chosen to review ...   0.775226
+7  19  please be very careful if you order this editi...   0.751130
+8  13  love the movie one of my favorites love the tr...   0.739866
+9  11  i purchased this in part to upgrade to blu ray...   0.569779
+
+step 1
+index added: 45
+percentage unclustered: 64.4444%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [16, 17, 22, 41]
+			old information: 4795, gain: 0.9127325010009828
+
+    ind                                             review  relevance
+0   45  if you know and love this movie you should get...   0.876886
+1   41  i had my first exposure to monty python as a v...   0.874110
+2   20  disclaimer the reason i have chosen to review ...   0.864987
+3   25  king arthur and his knights of the round table...   0.849261
+4   44  terry jones the co director of monty python an...   0.848281
+5   37  surprisingly i first watch monty python and th...   0.845506
+6   36  as a teacher of medieval grail literature i ha...   0.830324
+7   20  disclaimer the reason i have chosen to review ...   0.775226
+8   19  please be very careful if you order this editi...   0.751130
+9   13  love the movie one of my favorites love the tr...   0.739866
+10  11  i purchased this in part to upgrade to blu ray...   0.569779
+
+step 1
+index added: 46
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 48 with core nodes: [16, 17, 22, 41]
+
+step 1
+index added: 49
+percentage unclustered: 65.5556%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 64.4444%
+
+	step 2
+
+		step 3
+		candidate index: 50 with core nodes: [16, 17, 22, 41]
+
+step 1
+index added: 51
+percentage unclustered: 64.4444%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 64.4444%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 65.5556%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 65.5556%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 64.4444%
+
+	step 2
+
+		step 3
+		candidate index: 55 with core nodes: [16, 17, 22, 55]
+			old information: 4339, gain: 0.8904873678099997
+
+    ind                                             review  relevance
+0   45  if you know and love this movie you should get...   0.876886
+1   41  i had my first exposure to monty python as a v...   0.874110
+2   20  disclaimer the reason i have chosen to review ...   0.864987
+3   25  king arthur and his knights of the round table...   0.849261
+4   44  terry jones the co director of monty python an...   0.848281
+5   37  surprisingly i first watch monty python and th...   0.845506
+6   36  as a teacher of medieval grail literature i ha...   0.830324
+7   55  what can you say about a film whose script has...   0.829571
+8   20  disclaimer the reason i have chosen to review ...   0.775226
+9   19  please be very careful if you order this editi...   0.751130
+10  13  love the movie one of my favorites love the tr...   0.739866
+11  11  i purchased this in part to upgrade to blu ray...   0.569779
+
+step 1
+index added: 56
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 62 with core nodes: [16, 22, 44, 55]
+			old information: 2692, gain: 0.8872271794227305
+
+    ind                                             review  relevance
+0   45  if you know and love this movie you should get...   0.876886
+1   41  i had my first exposure to monty python as a v...   0.874110
+2   20  disclaimer the reason i have chosen to review ...   0.864987
+3   25  king arthur and his knights of the round table...   0.849261
+4   44  terry jones the co director of monty python an...   0.848281
+5   37  surprisingly i first watch monty python and th...   0.845506
+6   36  as a teacher of medieval grail literature i ha...   0.830324
+7   55  what can you say about a film whose script has...   0.829571
+8   62  this review is about the collector s set speci...   0.805766
+9   20  disclaimer the reason i have chosen to review ...   0.775226
+10  19  please be very careful if you order this editi...   0.751130
+11  13  love the movie one of my favorites love the tr...   0.739866
+12  11  i purchased this in part to upgrade to blu ray...   0.569779
+
+step 1
+index added: 63
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 63 with core nodes: [16, 22, 44, 55]
+
+step 1
+index added: 64
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 68.8889%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 68.8889%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 64.4444%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 60.0%
+
+	step 2
+
+		step 3
+		candidate index: 77 with core nodes: [16, 17, 22, 48, 52, 69]
+
+step 1
+index added: 78
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 56.6667%
+
+	step 2
+
+		step 3
+		candidate index: 79 with core nodes: [16, 17, 22, 48, 52, 69]
+
+step 1
+index added: 80
+percentage unclustered: 55.5556%
+
+	step 2
+
+		step 3
+		candidate index: 80 with core nodes: [16, 22, 52, 80]
+			old information: 7743, gain: 0.949634110644941
+
+    ind                                             review  relevance
+0   80  the grand opus of monty python a goofy gang of...   0.878496
+1   45  if you know and love this movie you should get...   0.876886
+2   41  i had my first exposure to monty python as a v...   0.874110
+3   20  disclaimer the reason i have chosen to review ...   0.864987
+4   25  king arthur and his knights of the round table...   0.849261
+5   44  terry jones the co director of monty python an...   0.848281
+6   37  surprisingly i first watch monty python and th...   0.845506
+7   36  as a teacher of medieval grail literature i ha...   0.830324
+8   55  what can you say about a film whose script has...   0.829571
+9   62  this review is about the collector s set speci...   0.805766
+10  20  disclaimer the reason i have chosen to review ...   0.775226
+11  19  please be very careful if you order this editi...   0.751130
+12  13  love the movie one of my favorites love the tr...   0.739866
+13  11  i purchased this in part to upgrade to blu ray...   0.569779
+
+step 1
+index added: 81
+percentage unclustered: 55.5556%
+
+	step 2
+
+		step 3
+		candidate index: 81 with core nodes: [16, 22, 52, 80]
+
+step 1
+index added: 82
+percentage unclustered: 55.5556%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 54.4444%
+
+	step 2
+
+		step 3
+		candidate index: 83 with core nodes: [16, 22, 52, 80]
+
+step 1
+index added: 84
+percentage unclustered: 54.4444%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 54.4444%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 53.3333%
+
+	step 2
+
+		step 3
+		candidate index: 86 with core nodes: [16, 22, 52, 80]
+
+step 1
+index added: 87
+percentage unclustered: 54.4444%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 50.0%
+
+	step 2
+
+--- 1717.363275051117 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 96.6667, 96.6667, 95.5556, 95.5556, 95.5556, 95.5556, 95.5556, 86.6667, 84.4444, 90.0, 90.0, 91.1111, 87.7778, 80.0, 78.8889, 78.8889, 77.7778, 87.7778, 82.2222, 78.8889, 78.8889, 78.8889, 77.7778, 77.7778, 72.2222, 71.1111, 70.0, 68.8889, 68.8889, 70.0, 68.8889, 68.8889, 64.4444, 63.3333, 64.4444, 66.66669999999999, 66.66669999999999, 66.66669999999999, 65.5556, 64.4444, 64.4444, 64.4444, 65.5556, 65.5556, 64.4444, 74.4444, 74.4444, 80.0, 80.0, 80.0, 80.0, 80.0, 76.66669999999999, 76.66669999999999, 76.66669999999999, 76.66669999999999, 76.66669999999999, 76.66669999999999, 68.8889, 68.8889, 63.3333, 63.3333, 63.3333, 63.3333, 63.3333, 64.4444, 60.0, 60.0, 56.6667, 55.5556, 55.5556, 55.5556, 54.4444, 54.4444, 54.4444, 53.3333, 54.4444, 50.0, 50.0], mean: 75.303
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        18  80   0.878496  the grand opus of monty python a goofy gang of...
+1        63  45   0.876886  if you know and love this movie you should get...
+2        27  41   0.874110  i had my first exposure to monty python as a v...
+3        29  20   0.864987  disclaimer the reason i have chosen to review ...
+4        56  25   0.849261  king arthur and his knights of the round table...
+5        62  44   0.848281  terry jones the co director of monty python an...
+6        60  37   0.845506  surprisingly i first watch monty python and th...
+7        32  36   0.830324  as a teacher of medieval grail literature i ha...
+8        54  55   0.829571  what can you say about a film whose script has...
+9        58  62   0.805766  this review is about the collector s set speci...
+10       29  20   0.775226  disclaimer the reason i have chosen to review ...
+11       55  19   0.751130  please be very careful if you order this editi...
+12       21  13   0.739866  love the movie one of my favorites love the tr...
+13       31  11   0.569779  i purchased this in part to upgrade to blu ray...

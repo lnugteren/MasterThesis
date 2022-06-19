@@ -1,0 +1,1299 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 6303965415
+Shape:  (160, 7)
+Shape after:  (160, 7)
+
+
+Chosen product: 6303965415 has 160 reviews - True, it has 160 reviews
+
+Nr of stopwords in review: ['117/236', '96/199', '46/85', '73/155', '63/128', '81/155', '54/116', '161/320', '68/132', '25/46', '363/741', '29/75', '14/26', '92/197', '35/60', '25/50', '12/22', '41/86', '29/61', '117/202', '309/602', '169/345', '75/173', '65/136', '74/149', '170/318', '71/136', '13/23', '82/148', '28/54', '30/51', '86/182', '237/517', '14/25', '76/171', '43/82', '75/141', '123/294', '42/84', '66/166', '73/134', '69/174', '124/305', '21/38', '24/42', '18/33', '100/253', '76/165', '28/64', '16/34', '42/81', '18/35', '6/18', '327/616', '45/77', '105/192', '81/166', '130/260', '72/140', '34/76', '58/123', '115/220', '38/86', '164/350', '65/127', '63/130', '359/796', '28/61', '33/66', '101/207', '55/127', '111/215', '330/711', '239/507', '75/164', '28/57', '100/211', '34/71', '17/47', '111/243', '46/89', '65/153', '80/171', '83/162', '221/458', '118/225', '41/79', '288/601', '76/150', '124/246', '29/59', '40/69', '21/42', '64/116', '67/130', '80/165', '93/184', '60/142', '177/365', '31/62', '29/62', '169/327', '59/123', '55/104', '42/77', '102/225', '147/310', '129/290', '38/79', '273/569', '148/306', '188/368', '102/226', '312/562', '370/780', '231/582', '195/396', '215/413', '42/83', '131/278', '160/295', '120/233', '180/344', '142/329', '28/50', '410/801', '97/180', '153/297', '150/290', '83/141', '191/368', '117/233', '50/102', '313/642', '211/439', '276/529', '108/224', '37/91', '146/278', '272/521', '105/207', '47/91', '31/72', '150/286', '125/277', '155/280', '262/577', '203/400', '37/81', '42/85', '264/520', '73/148', '39/68', '215/464', '33/77', '110/202', '327/742', '54/104', '31/65', '38/78'], on average: 0.4935
+Nr of stopwords in summary: ['4/10', '0/3', '0/3', '3/11', '2/5', '9/16', '2/8', '4/6', '1/4', '2/5', '7/12', '2/4', '0/1', '9/16', '1/2', '0/1', '0/2', '4/9', '0/1', '0/1', '1/5', '8/14', '4/7', '4/8', '0/2', '4/7', '1/2', '0/1', '0/2', '4/6', '0/3', '0/2', '1/4', '0/1', '4/6', '0/3', '0/3', '2/7', '1/4', '0/2', '1/3', '8/12', '1/3', '0/2', '0/1', '0/2', '0/1', '4/9', '2/6', '1/4', '7/10', '0/2', '0/1', '6/9', '0/2', '0/3', '3/4', '1/3', '1/2', '1/3', '0/2', '3/5', '0/4', '1/4', '3/5', '2/4', '2/7', '1/3', '2/3', '2/8', '0/6', '2/4', '0/1', '1/3', '1/2', '1/4', '2/4', '1/4', '2/5', '0/3', '2/4', '2/6', '1/3', '0/2', '0/1', '0/7', '5/7', '2/9', '0/4', '2/3', '1/6', '1/3', '0/1', '0/2', '0/2', '0/1', '2/7', '2/5', '2/6', '0/4', '0/2', '3/5', '0/3', '4/7', '1/2', '3/7', '1/2', '1/4', '2/8', '3/8', '3/7', '1/3', '0/4', '2/5', '3/8', '3/7', '2/9', '3/9', '1/2', '4/9', '0/2', '1/3', '3/4', '2/5', '0/3', '0/2', '2/4', '1/3', '3/8', '1/5', '2/6', '1/7', '0/3', '2/8', '6/12', '3/6', '0/1', '3/8', '0/2', '2/8', '3/6', '0/4', '1/3', '0/7', '1/5', '2/6', '0/2', '3/9', '0/1', '0/2', '1/4', '2/8', '0/1', '5/9', '2/5', '0/3', '4/8', '1/3', '1/4', '2/4'], on average: 0.2744
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 97.5%
+
+	step 2
+
+		step 3
+		candidate index: 5 with core nodes: [0, 3, 4, 5]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   5  the reviewers who said his is the best austen ...   0.630653
+
+step 1
+index added: 6
+percentage unclustered: 97.5%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 97.5%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 97.5%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 97.5%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 97.5%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 97.5%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 97.5%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 97.5%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 97.5%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 97.5%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 100.0%
+
+step 1
+index added: 17
+percentage unclustered: 95.625%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [0, 3, 5, 13, 17]
+			old information: 146, gain: 0.9600547195622435
+
+   ind                                             review  relevance
+0  17  i love jane austen i love period movies ciaran...   0.710102
+1   5  the reviewers who said his is the best austen ...   0.630653
+
+step 1
+index added: 18
+percentage unclustered: 95.625%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 93.75%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [0, 3, 5, 13, 17, 19]
+			old information: 638, gain: 0.9685729767006551
+
+   ind                                             review  relevance
+0  19  i found this movie to be so disjointed very ha...   0.760881
+1  17  i love jane austen i love period movies ciaran...   0.710102
+2   5  the reviewers who said his is the best austen ...   0.630653
+
+step 1
+index added: 20
+percentage unclustered: 91.875%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [0, 3, 6, 8, 13, 20]
+			old information: 2628, gain: 0.9854727171215195
+
+   ind                                             review  relevance
+0  20  it s been a little while since i first and las...   0.835121
+1  19  i found this movie to be so disjointed very ha...   0.760881
+2  17  i love jane austen i love period movies ciaran...   0.710102
+3   5  the reviewers who said his is the best austen ...   0.630653
+
+step 1
+index added: 21
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 89.375%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 89.375%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 89.375%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 89.375%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 89.375%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 89.375%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 89.375%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 89.375%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 89.375%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 89.375%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 88.75%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [20, 21, 32]
+			old information: 3586, gain: 0.9731156193303645
+
+   ind                                             review  relevance
+0  32  amazon reviewers in noticeably large numbers a...   0.859991
+1  20  it s been a little while since i first and las...   0.835121
+2  19  i found this movie to be so disjointed very ha...   0.760881
+3  17  i love jane austen i love period movies ciaran...   0.710102
+4   5  the reviewers who said his is the best austen ...   0.630653
+
+step 1
+index added: 33
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 86.875%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [5, 19, 34]
+			old information: 2229, gain: 0.8466460268317854
+
+   ind                                             review  relevance
+0  32  amazon reviewers in noticeably large numbers a...   0.859991
+1  20  it s been a little while since i first and las...   0.835121
+2  19  i found this movie to be so disjointed very ha...   0.760881
+3  34  as i watched the 2008 masterpiece version of p...   0.757573
+4  17  i love jane austen i love period movies ciaran...   0.710102
+5   5  the reviewers who said his is the best austen ...   0.630653
+
+step 1
+index added: 35
+percentage unclustered: 86.875%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 86.25%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [20, 21, 32]
+
+step 1
+index added: 37
+percentage unclustered: 86.875%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 86.25%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [3, 20, 21, 32]
+
+step 1
+index added: 39
+percentage unclustered: 84.375%
+
+	step 2
+
+		step 3
+		candidate index: 39 with core nodes: [3, 20, 21, 32]
+
+step 1
+index added: 40
+percentage unclustered: 83.75%
+
+	step 2
+
+		step 3
+		candidate index: 40 with core nodes: [5, 19, 34]
+
+step 1
+index added: 41
+percentage unclustered: 82.5%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [19, 25, 28]
+
+step 1
+index added: 42
+percentage unclustered: 81.875%
+
+	step 2
+
+		step 3
+		candidate index: 42 with core nodes: [20, 21, 32, 42]
+			old information: 2265, gain: 0.9511432269197584
+
+   ind                                             review  relevance
+0  32  amazon reviewers in noticeably large numbers a...   0.859991
+1  42  persuasion together with northanger abbey were...   0.857120
+2  20  it s been a little while since i first and las...   0.835121
+3  19  i found this movie to be so disjointed very ha...   0.760881
+4  34  as i watched the 2008 masterpiece version of p...   0.757573
+5  17  i love jane austen i love period movies ciaran...   0.710102
+6   5  the reviewers who said his is the best austen ...   0.630653
+
+step 1
+index added: 43
+percentage unclustered: 81.875%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 81.25%
+
+	step 2
+
+		step 3
+		candidate index: 44 with core nodes: [19, 25, 28]
+
+step 1
+index added: 45
+percentage unclustered: 83.125%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 83.125%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 82.5%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [3, 21, 32, 42]
+
+step 1
+index added: 48
+percentage unclustered: 81.875%
+
+	step 2
+
+		step 3
+		candidate index: 48 with core nodes: [5, 19, 25, 28, 34]
+
+step 1
+index added: 49
+percentage unclustered: 81.875%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 83.125%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 83.125%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 83.125%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 83.125%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 80.625%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 80.625%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 80.625%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 78.75%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 78.75%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 79.375%
+
+	step 2
+
+		step 3
+		candidate index: 59 with core nodes: [32, 42, 59]
+			old information: 539, gain: 0.8108771929824561
+
+   ind                                             review  relevance
+0  32  amazon reviewers in noticeably large numbers a...   0.859991
+1  42  persuasion together with northanger abbey were...   0.857120
+2  20  it s been a little while since i first and las...   0.835121
+3  59  this is a beautiful adaptation of austen s boo...   0.777657
+4  19  i found this movie to be so disjointed very ha...   0.760881
+5  34  as i watched the 2008 masterpiece version of p...   0.757573
+6  17  i love jane austen i love period movies ciaran...   0.710102
+7   5  the reviewers who said his is the best austen ...   0.630653
+
+step 1
+index added: 60
+percentage unclustered: 78.75%
+
+	step 2
+
+		step 3
+		candidate index: 60 with core nodes: [7, 20, 53]
+
+step 1
+index added: 61
+percentage unclustered: 78.125%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 78.125%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 75.625%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 74.375%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 73.75%
+
+	step 2
+
+		step 3
+		candidate index: 66 with core nodes: [32, 42, 66]
+			old information: 9523, gain: 0.969902973989444
+
+   ind                                             review  relevance
+0  66  this is clearly one of the most polarising of ...   0.907645
+1  32  amazon reviewers in noticeably large numbers a...   0.859991
+2  42  persuasion together with northanger abbey were...   0.857120
+3  20  it s been a little while since i first and las...   0.835121
+4  59  this is a beautiful adaptation of austen s boo...   0.777657
+5  19  i found this movie to be so disjointed very ha...   0.760881
+6  34  as i watched the 2008 masterpiece version of p...   0.757573
+7  17  i love jane austen i love period movies ciaran...   0.710102
+8   5  the reviewers who said his is the best austen ...   0.630653
+
+step 1
+index added: 67
+percentage unclustered: 73.125%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 73.75%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 73.75%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 73.75%
+
+	step 2
+
+		step 3
+		candidate index: 70 with core nodes: [32, 42, 66]
+			old information: 1133, gain: 0.858392700912386
+
+   ind                                             review  relevance
+0  66  this is clearly one of the most polarising of ...   0.907645
+1  32  amazon reviewers in noticeably large numbers a...   0.859991
+2  42  persuasion together with northanger abbey were...   0.857120
+3  20  it s been a little while since i first and las...   0.835121
+4  70  persuasion may not have the wit of pride preju...   0.786435
+5  59  this is a beautiful adaptation of austen s boo...   0.777657
+6  19  i found this movie to be so disjointed very ha...   0.760881
+7  34  as i watched the 2008 masterpiece version of p...   0.757573
+8  17  i love jane austen i love period movies ciaran...   0.710102
+9   5  the reviewers who said his is the best austen ...   0.630653
+
+step 1
+index added: 71
+percentage unclustered: 71.875%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 71.25%
+
+	step 2
+
+		step 3
+		candidate index: 72 with core nodes: [32, 42, 66]
+			old information: 12783, gain: 0.9493552029476436
+
+    ind                                             review  relevance
+0   66  this is clearly one of the most polarising of ...   0.907645
+1   32  amazon reviewers in noticeably large numbers a...   0.859991
+2   42  persuasion together with northanger abbey were...   0.857120
+3   72  good company is always worth seeking n n my id...   0.851285
+4   20  it s been a little while since i first and las...   0.835121
+5   70  persuasion may not have the wit of pride preju...   0.786435
+6   59  this is a beautiful adaptation of austen s boo...   0.777657
+7   19  i found this movie to be so disjointed very ha...   0.760881
+8   34  as i watched the 2008 masterpiece version of p...   0.757573
+9   17  i love jane austen i love period movies ciaran...   0.710102
+10   5  the reviewers who said his is the best austen ...   0.630653
+
+step 1
+index added: 73
+percentage unclustered: 71.25%
+
+	step 2
+
+		step 3
+		candidate index: 73 with core nodes: [32, 42, 66]
+
+step 1
+index added: 74
+percentage unclustered: 71.25%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 70.625%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 69.375%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 68.75%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 68.75%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 68.125%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 68.75%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 68.125%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 68.125%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 68.125%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 68.125%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 68.75%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 68.75%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 71.875%
+
+	step 2
+
+		step 3
+		candidate index: 96 with core nodes: [10, 21, 42, 63, 73, 96]
+			old information: 1722, gain: 0.8977191732002852
+
+    ind                                             review  relevance
+0   66  this is clearly one of the most polarising of ...   0.907645
+1   32  amazon reviewers in noticeably large numbers a...   0.859991
+2   42  persuasion together with northanger abbey were...   0.857120
+3   72  good company is always worth seeking n n my id...   0.851285
+4   20  it s been a little while since i first and las...   0.835121
+5   96  equally the most underated and this seems to b...   0.815939
+6   70  persuasion may not have the wit of pride preju...   0.786435
+7   59  this is a beautiful adaptation of austen s boo...   0.777657
+8   19  i found this movie to be so disjointed very ha...   0.760881
+9   34  as i watched the 2008 masterpiece version of p...   0.757573
+10  17  i love jane austen i love period movies ciaran...   0.710102
+11   5  the reviewers who said his is the best austen ...   0.630653
+
+step 1
+index added: 97
+percentage unclustered: 71.25%
+
+	step 2
+
+		step 3
+		candidate index: 97 with core nodes: [10, 21, 42, 63, 73, 96]
+
+step 1
+index added: 98
+percentage unclustered: 71.25%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 71.25%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 71.25%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 71.25%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 71.25%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 73.125%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 71.25%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 71.875%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 71.875%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 71.875%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 71.875%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 69.375%
+
+	step 2
+
+		step 3
+		candidate index: 109 with core nodes: [10, 21, 98, 109]
+			old information: 12746, gain: 0.9211242852545856
+
+     ind                                             review  relevance
+0    66  this is clearly one of the most polarising of ...   0.907645
+1    32  amazon reviewers in noticeably large numbers a...   0.859991
+2    42  persuasion together with northanger abbey were...   0.857120
+3    72  good company is always worth seeking n n my id...   0.851285
+4   109  my copy of the novel persuasion refers to it a...   0.837785
+5    20  it s been a little while since i first and las...   0.835121
+6    96  equally the most underated and this seems to b...   0.815939
+7    70  persuasion may not have the wit of pride preju...   0.786435
+8    59  this is a beautiful adaptation of austen s boo...   0.777657
+9    19  i found this movie to be so disjointed very ha...   0.760881
+10   34  as i watched the 2008 masterpiece version of p...   0.757573
+11   17  i love jane austen i love period movies ciaran...   0.710102
+12    5  the reviewers who said his is the best austen ...   0.630653
+
+step 1
+index added: 110
+percentage unclustered: 66.875%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 63.75%
+
+	step 2
+
+		step 3
+		candidate index: 111 with core nodes: [10, 21, 98, 109]
+
+step 1
+index added: 112
+percentage unclustered: 63.75%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 63.75%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 63.125%
+
+	step 2
+
+		step 3
+		candidate index: 114 with core nodes: [10, 21, 114]
+			old information: 17248, gain: 0.9432276751917317
+
+     ind                                             review  relevance
+0    66  this is clearly one of the most polarising of ...   0.907645
+1   114  persuasion the film is a faithful adaptation o...   0.899797
+2    32  amazon reviewers in noticeably large numbers a...   0.859991
+3    42  persuasion together with northanger abbey were...   0.857120
+4    72  good company is always worth seeking n n my id...   0.851285
+5   109  my copy of the novel persuasion refers to it a...   0.837785
+6    20  it s been a little while since i first and las...   0.835121
+7    96  equally the most underated and this seems to b...   0.815939
+8    70  persuasion may not have the wit of pride preju...   0.786435
+9    59  this is a beautiful adaptation of austen s boo...   0.777657
+10   19  i found this movie to be so disjointed very ha...   0.760881
+11   34  as i watched the 2008 masterpiece version of p...   0.757573
+12   17  i love jane austen i love period movies ciaran...   0.710102
+13    5  the reviewers who said his is the best austen ...   0.630653
+
+step 1
+index added: 115
+percentage unclustered: 63.125%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 63.125%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 63.125%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 63.125%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 64.375%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 64.375%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 65.625%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 65.625%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 65.625%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 68.75%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 68.75%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 73.75%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 70.625%
+
+	step 2
+
+		step 3
+		candidate index: 127 with core nodes: [19, 55, 127]
+			old information: 5898, gain: 0.8658203658203658
+
+     ind                                             review  relevance
+0    66  this is clearly one of the most polarising of ...   0.907645
+1   114  persuasion the film is a faithful adaptation o...   0.899797
+2    32  amazon reviewers in noticeably large numbers a...   0.859991
+3    42  persuasion together with northanger abbey were...   0.857120
+4    72  good company is always worth seeking n n my id...   0.851285
+5   127  i ve seen my fair share of period romances and...   0.847340
+6   109  my copy of the novel persuasion refers to it a...   0.837785
+7    20  it s been a little while since i first and las...   0.835121
+8    96  equally the most underated and this seems to b...   0.815939
+9    70  persuasion may not have the wit of pride preju...   0.786435
+10   59  this is a beautiful adaptation of austen s boo...   0.777657
+11   19  i found this movie to be so disjointed very ha...   0.760881
+12   34  as i watched the 2008 masterpiece version of p...   0.757573
+13   17  i love jane austen i love period movies ciaran...   0.710102
+14    5  the reviewers who said his is the best austen ...   0.630653
+
+step 1
+index added: 128
+percentage unclustered: 70.625%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 70.625%
+
+	step 2
+
+step 1
+index added: 130
+percentage unclustered: 72.5%
+
+	step 2
+
+		step 3
+		candidate index: 130 with core nodes: [19, 55, 127, 130]
+			old information: 6540, gain: 0.9031512853927259
+
+     ind                                             review  relevance
+0    66  this is clearly one of the most polarising of ...   0.907645
+1   114  persuasion the film is a faithful adaptation o...   0.899797
+2    32  amazon reviewers in noticeably large numbers a...   0.859991
+3    42  persuasion together with northanger abbey were...   0.857120
+4    72  good company is always worth seeking n n my id...   0.851285
+5   130  do n t let my rating of 3 stars mislead anyone...   0.847373
+6   127  i ve seen my fair share of period romances and...   0.847340
+7   109  my copy of the novel persuasion refers to it a...   0.837785
+8    20  it s been a little while since i first and las...   0.835121
+9    96  equally the most underated and this seems to b...   0.815939
+10   70  persuasion may not have the wit of pride preju...   0.786435
+11   59  this is a beautiful adaptation of austen s boo...   0.777657
+12   19  i found this movie to be so disjointed very ha...   0.760881
+13   34  as i watched the 2008 masterpiece version of p...   0.757573
+14   17  i love jane austen i love period movies ciaran...   0.710102
+15    5  the reviewers who said his is the best austen ...   0.630653
+
+step 1
+index added: 131
+percentage unclustered: 72.5%
+
+	step 2
+
+		step 3
+		candidate index: 131 with core nodes: [19, 55, 127, 130]
+
+step 1
+index added: 132
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 133
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 134
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 135
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 136
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 137
+percentage unclustered: 63.125%
+
+	step 2
+
+step 1
+index added: 138
+percentage unclustered: 63.125%
+
+	step 2
+
+step 1
+index added: 139
+percentage unclustered: 62.5%
+
+	step 2
+
+step 1
+index added: 140
+percentage unclustered: 62.5%
+
+	step 2
+
+step 1
+index added: 141
+percentage unclustered: 61.875%
+
+	step 2
+
+step 1
+index added: 142
+percentage unclustered: 61.875%
+
+	step 2
+
+step 1
+index added: 143
+percentage unclustered: 61.875%
+
+	step 2
+
+step 1
+index added: 144
+percentage unclustered: 61.875%
+
+	step 2
+
+step 1
+index added: 145
+percentage unclustered: 60.0%
+
+	step 2
+
+		step 3
+		candidate index: 145 with core nodes: [117, 139, 145]
+			old information: 6434, gain: 0.835279057859703
+
+     ind                                             review  relevance
+0    66  this is clearly one of the most polarising of ...   0.907645
+1   114  persuasion the film is a faithful adaptation o...   0.899797
+2    32  amazon reviewers in noticeably large numbers a...   0.859991
+3    42  persuasion together with northanger abbey were...   0.857120
+4    72  good company is always worth seeking n n my id...   0.851285
+5   130  do n t let my rating of 3 stars mislead anyone...   0.847373
+6   127  i ve seen my fair share of period romances and...   0.847340
+7   109  my copy of the novel persuasion refers to it a...   0.837785
+8    20  it s been a little while since i first and las...   0.835121
+9    96  equally the most underated and this seems to b...   0.815939
+10  145  i am an austen fan having read all of her nove...   0.796536
+11   70  persuasion may not have the wit of pride preju...   0.786435
+12   59  this is a beautiful adaptation of austen s boo...   0.777657
+13   19  i found this movie to be so disjointed very ha...   0.760881
+14   34  as i watched the 2008 masterpiece version of p...   0.757573
+15   17  i love jane austen i love period movies ciaran...   0.710102
+16    5  the reviewers who said his is the best austen ...   0.630653
+
+step 1
+index added: 146
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 147
+percentage unclustered: 68.75%
+
+	step 2
+
+		step 3
+		candidate index: 147 with core nodes: [42, 98, 147]
+			old information: 10310, gain: 0.8708020050125314
+
+     ind                                             review  relevance
+0    66  this is clearly one of the most polarising of ...   0.907645
+1   114  persuasion the film is a faithful adaptation o...   0.899797
+2   147  although it does not compete with the elegance...   0.872338
+3    32  amazon reviewers in noticeably large numbers a...   0.859991
+4    42  persuasion together with northanger abbey were...   0.857120
+5    72  good company is always worth seeking n n my id...   0.851285
+6   130  do n t let my rating of 3 stars mislead anyone...   0.847373
+7   127  i ve seen my fair share of period romances and...   0.847340
+8   109  my copy of the novel persuasion refers to it a...   0.837785
+9    20  it s been a little while since i first and las...   0.835121
+10   96  equally the most underated and this seems to b...   0.815939
+11  145  i am an austen fan having read all of her nove...   0.796536
+12   70  persuasion may not have the wit of pride preju...   0.786435
+13   59  this is a beautiful adaptation of austen s boo...   0.777657
+14   19  i found this movie to be so disjointed very ha...   0.760881
+15   34  as i watched the 2008 masterpiece version of p...   0.757573
+16   17  i love jane austen i love period movies ciaran...   0.710102
+17    5  the reviewers who said his is the best austen ...   0.630653
+
+step 1
+index added: 148
+percentage unclustered: 68.75%
+
+	step 2
+
+step 1
+index added: 149
+percentage unclustered: 68.125%
+
+	step 2
+
+		step 3
+		candidate index: 149 with core nodes: [25, 55, 127, 130]
+
+step 1
+index added: 150
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 151
+percentage unclustered: 66.875%
+
+	step 2
+
+step 1
+index added: 152
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 153
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 154
+percentage unclustered: 62.5%
+
+	step 2
+
+step 1
+index added: 155
+percentage unclustered: 62.5%
+
+	step 2
+
+step 1
+index added: 156
+percentage unclustered: 62.5%
+
+	step 2
+
+step 1
+index added: 157
+percentage unclustered: 61.875%
+
+	step 2
+
+step 1
+index added: 158
+percentage unclustered: 61.875%
+
+	step 2
+
+step 1
+index added: 159
+percentage unclustered: 61.875%
+
+	step 2
+
+--- 2803.222185611725 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 97.5, 97.5, 97.5, 97.5, 97.5, 97.5, 97.5, 97.5, 97.5, 97.5, 97.5, 100.0, 95.625, 95.625, 93.75, 91.875, 90.625, 89.375, 89.375, 89.375, 89.375, 89.375, 89.375, 89.375, 89.375, 89.375, 89.375, 88.75, 88.75, 86.875, 86.875, 86.25, 86.875, 86.25, 84.375, 83.75, 82.5, 81.875, 81.875, 81.25, 83.125, 83.125, 82.5, 81.875, 81.875, 83.125, 83.125, 83.125, 83.125, 80.625, 80.625, 80.625, 78.75, 78.75, 79.375, 78.75, 78.125, 78.125, 75.625, 75.0, 74.375, 73.75, 73.125, 73.75, 73.75, 73.75, 71.875, 71.25, 71.25, 71.25, 70.625, 70.0, 69.375, 68.75, 68.75, 68.125, 68.75, 68.125, 68.125, 68.125, 68.125, 68.75, 68.75, 72.5, 72.5, 72.5, 72.5, 72.5, 72.5, 72.5, 72.5, 71.875, 71.25, 71.25, 71.25, 71.25, 71.25, 71.25, 73.125, 71.25, 71.875, 71.875, 71.875, 71.875, 69.375, 66.875, 63.75, 63.75, 63.75, 63.125, 63.125, 63.125, 63.125, 63.125, 64.375, 64.375, 65.625, 65.625, 65.625, 68.75, 68.75, 73.75, 70.625, 70.625, 70.625, 72.5, 72.5, 72.5, 72.5, 72.5, 72.5, 72.5, 63.125, 63.125, 62.5, 62.5, 61.875, 61.875, 61.875, 61.875, 60.0, 60.0, 68.75, 68.75, 68.125, 67.5, 66.875, 65.0, 65.0, 62.5, 62.5, 62.5, 61.875, 61.875, 61.875], mean: 76.2302
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0        12   66   0.907645  this is clearly one of the most polarising of ...
+1        26  114   0.899797  persuasion the film is a faithful adaptation o...
+2       128  147   0.872338  although it does not compete with the elegance...
+3       127   32   0.859991  amazon reviewers in noticeably large numbers a...
+4        34   42   0.857120  persuasion together with northanger abbey were...
+5       147   72   0.851285  good company is always worth seeking n n my id...
+6       121  130   0.847373  do n t let my rating of 3 stars mislead anyone...
+7        83  127   0.847340  i ve seen my fair share of period romances and...
+8         3  109   0.837785  my copy of the novel persuasion refers to it a...
+9        15   20   0.835121  it s been a little while since i first and las...
+10      126   96   0.815939  equally the most underated and this seems to b...
+11       35  145   0.796536  i am an austen fan having read all of her nove...
+12       71   70   0.786435  persuasion may not have the wit of pride preju...
+13       79   59   0.777657  this is a beautiful adaptation of austen s boo...
+14       96   19   0.760881  i found this movie to be so disjointed very ha...
+15      130   34   0.757573  as i watched the 2008 masterpiece version of p...
+16       20   17   0.710102  i love jane austen i love period movies ciaran...
+17        5    5   0.630653  the reviewers who said his is the best austen ...

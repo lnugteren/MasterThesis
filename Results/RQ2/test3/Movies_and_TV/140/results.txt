@@ -1,0 +1,1000 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 6303364438
+Shape:  (141, 7)
+Shape after:  (141, 7)
+
+
+Chosen product: 6303364438 has 141 reviews - False, it has 140 reviews
+
+Nr of stopwords in review: ['126/266', '179/354', '322/707', '146/349', '258/709', '133/292', '191/394', '113/239', '42/89', '488/991', '273/765', '89/173', '206/381', '68/121', '40/164', '10/22', '69/157', '33/70', '599/1184', '200/402', '84/168', '333/743', '51/96', '134/282', '299/722', '1047/2301', '465/1044', '347/648', '125/267', '255/470', '129/255', '66/127', '343/739', '86/174', '100/209', '54/152', '233/447', '139/281', '152/338', '347/708', '172/363', '67/140', '305/792', '132/247', '165/358', '57/123', '374/824', '0/6', '52/124', '82/170', '156/301', '503/1148', '37/92', '48/100', '54/107', '5/9', '83/171', '312/673', '123/268', '36/70', '98/216', '51/125', '52/107', '102/193', '56/110', '145/294', '49/82', '28/49', '147/291', '225/497', '83/195', '36/66', '165/336', '118/241', '13/34', '78/149', '182/453', '33/67', '398/841', '37/66', '137/277', '66/134', '20/34', '26/67', '24/51', '102/214', '83/155', '206/425', '429/901', '33/93', '346/718', '141/282', '114/287', '116/209', '59/107', '219/429', '74/148', '47/96', '95/172', '94/216', '58/99', '9/20', '12/20', '109/228', '42/76', '120/217', '53/111', '131/263', '209/483', '161/341', '126/249', '110/209', '38/74', '117/225', '36/88', '27/64', '13/38', '31/54', '71/131', '64/120', '21/55', '254/531', '11/27', '42/85', '22/47', '37/70', '198/439', '53/121', '66/152', '18/38', '52/104', '66/136', '131/272', '21/41', '144/295', '48/87', '108/213', '29/56', '69/147', '130/247'], on average: 0.4775
+Nr of stopwords in summary: ['6/14', '3/4', '6/12', '3/8', '1/3', '1/8', '0/2', '0/2', '0/3', '0/3', '1/3', '1/3', '2/5', '2/5', '0/2', '0/3', '6/14', '1/4', '2/7', '7/11', '3/5', '0/3', '0/3', '0/2', '1/5', '7/17', '0/2', '0/3', '3/5', '0/3', '1/3', '4/6', '3/6', '5/9', '11/14', '2/4', '3/5', '9/15', '1/6', '2/9', '2/3', '1/3', '4/12', '1/3', '2/4', '0/2', '2/4', '0/2', '1/3', '2/3', '2/5', '0/4', '0/2', '0/1', '0/1', '1/4', '0/4', '8/13', '5/11', '2/9', '2/5', '0/2', '0/4', '0/2', '0/1', '2/5', '0/1', '3/6', '3/9', '1/4', '2/6', '1/4', '0/4', '2/4', '1/4', '7/12', '0/2', '0/1', '2/6', '2/8', '0/5', '1/3', '2/4', '2/8', '5/12', '0/2', '1/5', '0/4', '3/7', '3/8', '3/7', '3/5', '2/7', '1/2', '0/1', '3/5', '2/6', '4/6', '3/10', '3/7', '4/6', '3/5', '0/1', '1/4', '6/10', '0/3', '1/4', '0/1', '1/4', '2/4', '0/3', '0/2', '1/2', '0/2', '1/3', '0/1', '1/3', '4/6', '1/8', '0/5', '5/8', '3/6', '0/1', '0/1', '4/6', '3/8', '4/6', '1/3', '2/5', '1/7', '1/5', '2/6', '3/8', '3/9', '1/5', '3/7', '1/5', '0/2', '5/9', '2/6'], on average: 0.2907
+
+Duplicate reviewers?:  10    A3KKM0T1KY42HA
+73    A1SHNOU2ODKIDG
+Name: reviewerID, dtype: object
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 97.1429%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [0, 2, 5, 12]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  12  i feel slightly embarrassed to tell people how...    0.75093
+
+step 1
+index added: 13
+percentage unclustered: 97.1429%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 97.1429%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 97.1429%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 95.7143%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [2, 3, 4, 12, 16]
+			old information: 717, gain: 0.9414502694757472
+
+   ind                                             review  relevance
+0  16  originally intended by its director to be a sa...   0.762678
+1  12  i feel slightly embarrassed to tell people how...   0.750930
+
+step 1
+index added: 17
+percentage unclustered: 95.7143%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 92.8571%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [2, 3, 18]
+			old information: 5534, gain: 0.9920980786365402
+
+   ind                                             review  relevance
+0  18  the caligula blu ray imperial edition is ident...   0.886621
+1  16  originally intended by its director to be a sa...   0.762678
+2  12  i feel slightly embarrassed to tell people how...   0.750930
+
+step 1
+index added: 19
+percentage unclustered: 92.1429%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [0, 12, 18, 19]
+			old information: 4785, gain: 0.9406334908996167
+
+   ind                                             review  relevance
+0  18  the caligula blu ray imperial edition is ident...   0.886621
+1  19  every fan of movies should be forced to watch ...   0.860425
+2  16  originally intended by its director to be a sa...   0.762678
+3  12  i feel slightly embarrassed to tell people how...   0.750930
+
+step 1
+index added: 20
+percentage unclustered: 94.2857%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [2, 3, 12, 16, 19]
+
+step 1
+index added: 21
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 92.1429%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [2, 18, 19]
+
+step 1
+index added: 31
+percentage unclustered: 92.1429%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 97.8571%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 97.8571%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 97.8571%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 95.7143%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [1, 13, 18, 30]
+
+step 1
+index added: 36
+percentage unclustered: 95.7143%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 97.8571%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 97.1429%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [17, 18, 30, 38]
+			old information: 4132, gain: 0.9274489491334961
+
+   ind                                             review  relevance
+0  18  the caligula blu ray imperial edition is ident...   0.886621
+1  19  every fan of movies should be forced to watch ...   0.860425
+2  38  tinto brass caligula is a film with balls both...   0.842534
+3  16  originally intended by its director to be a sa...   0.762678
+4  12  i feel slightly embarrassed to tell people how...   0.750930
+
+step 1
+index added: 39
+percentage unclustered: 88.5714%
+
+	step 2
+
+		step 3
+		candidate index: 39 with core nodes: [18, 19, 36, 39]
+			old information: 12358, gain: 0.9506229073270523
+
+   ind                                             review  relevance
+0  39  some describe caligulia as the most controvers...   0.887245
+1  18  the caligula blu ray imperial edition is ident...   0.886621
+2  19  every fan of movies should be forced to watch ...   0.860425
+3  38  tinto brass caligula is a film with balls both...   0.842534
+4  16  originally intended by its director to be a sa...   0.762678
+5  12  i feel slightly embarrassed to tell people how...   0.750930
+
+step 1
+index added: 40
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 87.8571%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [18, 19, 36, 39]
+
+step 1
+index added: 42
+percentage unclustered: 86.4286%
+
+	step 2
+
+		step 3
+		candidate index: 42 with core nodes: [18, 24, 32, 39]
+
+step 1
+index added: 43
+percentage unclustered: 95.7143%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 85.7143%
+
+	step 2
+
+		step 3
+		candidate index: 44 with core nodes: [18, 25, 39, 44]
+			old information: 5090, gain: 0.9203480274791481
+
+   ind                                             review  relevance
+0  44  this 1979 film is reminiscent of fellini satyr...   0.896345
+1  39  some describe caligulia as the most controvers...   0.887245
+2  18  the caligula blu ray imperial edition is ident...   0.886621
+3  19  every fan of movies should be forced to watch ...   0.860425
+4  38  tinto brass caligula is a film with balls both...   0.842534
+5  16  originally intended by its director to be a sa...   0.762678
+6  12  i feel slightly embarrassed to tell people how...   0.750930
+
+step 1
+index added: 45
+percentage unclustered: 85.7143%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 80.71430000000001%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [24, 25, 46]
+			old information: 18417, gain: 0.9456847432434027
+
+   ind                                             review  relevance
+0  46  any book or film purporting to examine the lif...   0.913748
+1  44  this 1979 film is reminiscent of fellini satyr...   0.896345
+2  39  some describe caligulia as the most controvers...   0.887245
+3  18  the caligula blu ray imperial edition is ident...   0.886621
+4  19  every fan of movies should be forced to watch ...   0.860425
+5  38  tinto brass caligula is a film with balls both...   0.842534
+6  16  originally intended by its director to be a sa...   0.762678
+7  12  i feel slightly embarrassed to tell people how...   0.750930
+
+step 1
+index added: 47
+percentage unclustered: 78.5714%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 78.5714%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 79.28569999999999%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 77.8571%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 77.8571%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 77.8571%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 77.1429%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 75.71430000000001%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 75.71430000000001%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 82.1429%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 82.1429%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 82.1429%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 82.1429%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 82.1429%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 82.1429%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 77.8571%
+
+	step 2
+
+		step 3
+		candidate index: 69 with core nodes: [18, 24, 32, 39, 46, 57]
+
+step 1
+index added: 70
+percentage unclustered: 75.0%
+
+	step 2
+
+		step 3
+		candidate index: 70 with core nodes: [18, 32, 39, 46, 57]
+
+step 1
+index added: 71
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 78.5714%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 78.5714%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 78.5714%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 77.8571%
+
+	step 2
+
+		step 3
+		candidate index: 76 with core nodes: [18, 32, 39, 46, 57]
+			old information: 10067, gain: 0.9016683271796675
+
+   ind                                             review  relevance
+0  46  any book or film purporting to examine the lif...   0.913748
+1  44  this 1979 film is reminiscent of fellini satyr...   0.896345
+2  39  some describe caligulia as the most controvers...   0.887245
+3  18  the caligula blu ray imperial edition is ident...   0.886621
+4  76  it s nearly 30 years since caligula was releas...   0.874163
+5  19  every fan of movies should be forced to watch ...   0.860425
+6  38  tinto brass caligula is a film with balls both...   0.842534
+7  16  originally intended by its director to be a sa...   0.762678
+8  12  i feel slightly embarrassed to tell people how...   0.750930
+
+step 1
+index added: 77
+percentage unclustered: 77.8571%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 77.8571%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 77.8571%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 77.8571%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 78.5714%
+
+	step 2
+
+		step 3
+		candidate index: 81 with core nodes: [18, 32, 46, 57]
+
+step 1
+index added: 82
+percentage unclustered: 78.5714%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 77.8571%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 77.8571%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 77.8571%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 77.8571%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 78.5714%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 78.5714%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 79.28569999999999%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 72.8571%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 67.8571%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 69.28569999999999%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 67.1429%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 67.8571%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 67.8571%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 67.8571%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 67.8571%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 67.8571%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 67.8571%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 67.1429%
+
+	step 2
+
+		step 3
+		candidate index: 107 with core nodes: [25, 32, 57, 90]
+
+step 1
+index added: 108
+percentage unclustered: 66.4286%
+
+	step 2
+
+		step 3
+		candidate index: 108 with core nodes: [25, 32, 57, 90]
+
+step 1
+index added: 109
+percentage unclustered: 66.4286%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 66.4286%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 66.4286%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 66.4286%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 66.4286%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 68.5714%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 68.5714%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 67.8571%
+
+	step 2
+
+		step 3
+		candidate index: 116 with core nodes: [25, 32, 46, 90]
+
+step 1
+index added: 117
+percentage unclustered: 72.1429%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 71.4286%
+
+	step 2
+
+		step 3
+		candidate index: 118 with core nodes: [25, 32, 46, 90]
+
+step 1
+index added: 119
+percentage unclustered: 71.4286%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 71.4286%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 69.28569999999999%
+
+	step 2
+
+		step 3
+		candidate index: 121 with core nodes: [25, 32, 46, 90]
+
+step 1
+index added: 122
+percentage unclustered: 69.28569999999999%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 69.28569999999999%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 68.5714%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 68.5714%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 67.8571%
+
+	step 2
+
+		step 3
+		candidate index: 126 with core nodes: [25, 32, 46, 90]
+			old information: 9027, gain: 0.9061066558492215
+
+    ind                                             review  relevance
+0   46  any book or film purporting to examine the lif...   0.913748
+1   44  this 1979 film is reminiscent of fellini satyr...   0.896345
+2   39  some describe caligulia as the most controvers...   0.887245
+3   18  the caligula blu ray imperial edition is ident...   0.886621
+4  126  maybe in your dreams gore vidal most of our dr...   0.876521
+5   76  it s nearly 30 years since caligula was releas...   0.874163
+6   19  every fan of movies should be forced to watch ...   0.860425
+7   38  tinto brass caligula is a film with balls both...   0.842534
+8   16  originally intended by its director to be a sa...   0.762678
+9   12  i feel slightly embarrassed to tell people how...   0.750930
+
+step 1
+index added: 127
+percentage unclustered: 67.8571%
+
+	step 2
+
+step 1
+index added: 128
+percentage unclustered: 72.1429%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 61.4286%
+
+	step 2
+
+step 1
+index added: 130
+percentage unclustered: 61.4286%
+
+	step 2
+
+step 1
+index added: 131
+percentage unclustered: 60.7143%
+
+	step 2
+
+		step 3
+		candidate index: 131 with core nodes: [18, 24, 25]
+
+step 1
+index added: 132
+percentage unclustered: 60.0%
+
+	step 2
+
+		step 3
+		candidate index: 132 with core nodes: [18, 24, 25]
+
+step 1
+index added: 133
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 134
+percentage unclustered: 59.2857%
+
+	step 2
+
+step 1
+index added: 135
+percentage unclustered: 59.2857%
+
+	step 2
+
+step 1
+index added: 136
+percentage unclustered: 59.2857%
+
+	step 2
+
+step 1
+index added: 137
+percentage unclustered: 59.2857%
+
+	step 2
+
+step 1
+index added: 138
+percentage unclustered: 59.2857%
+
+	step 2
+
+step 1
+index added: 139
+percentage unclustered: 58.5714%
+
+	step 2
+
+--- 1712.3502271175385 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 97.1429, 97.1429, 97.1429, 97.1429, 95.7143, 95.7143, 92.8571, 92.1429, 94.2857, 94.2857, 94.2857, 94.2857, 94.2857, 94.2857, 94.2857, 94.2857, 94.2857, 94.2857, 92.1429, 92.1429, 97.8571, 97.8571, 97.8571, 95.7143, 95.7143, 97.8571, 97.1429, 88.5714, 88.5714, 87.8571, 86.4286, 95.7143, 85.7143, 85.7143, 80.71430000000001, 78.5714, 78.5714, 79.28569999999999, 80.0, 80.0, 77.8571, 77.8571, 77.8571, 77.1429, 75.71430000000001, 75.71430000000001, 81.4286, 81.4286, 81.4286, 82.1429, 82.1429, 82.1429, 82.1429, 82.1429, 82.1429, 81.4286, 81.4286, 77.8571, 75.0, 75.0, 75.0, 78.5714, 78.5714, 78.5714, 77.8571, 77.8571, 77.8571, 77.8571, 77.8571, 78.5714, 78.5714, 80.0, 80.0, 80.0, 77.8571, 77.8571, 77.8571, 77.8571, 78.5714, 78.5714, 79.28569999999999, 75.0, 75.0, 75.0, 75.0, 72.8571, 67.8571, 69.28569999999999, 67.1429, 67.8571, 67.8571, 67.8571, 67.8571, 67.8571, 67.8571, 67.1429, 66.4286, 66.4286, 66.4286, 66.4286, 66.4286, 66.4286, 68.5714, 68.5714, 67.8571, 72.1429, 71.4286, 71.4286, 71.4286, 69.28569999999999, 69.28569999999999, 69.28569999999999, 68.5714, 68.5714, 67.8571, 67.8571, 72.1429, 61.4286, 61.4286, 60.7143, 60.0, 60.0, 59.2857, 59.2857, 59.2857, 59.2857, 59.2857, 58.5714], mean: 80.1139
+
+Final Ranking:
+   ranking  ind  relevance                                             review
+0       47   46   0.913748  any book or film purporting to examine the lif...
+1       45   44   0.896345  this 1979 film is reminiscent of fellini satyr...
+2       40   39   0.887245  some describe caligulia as the most controvers...
+3       19   18   0.886621  the caligula blu ray imperial edition is ident...
+4      127  126   0.876521  maybe in your dreams gore vidal most of our dr...
+5       77   76   0.874163  it s nearly 30 years since caligula was releas...
+6       20   19   0.860425  every fan of movies should be forced to watch ...
+7       39   38   0.842534  tinto brass caligula is a film with balls both...
+8       17   16   0.762678  originally intended by its director to be a sa...
+9       13   12   0.750930  i feel slightly embarrassed to tell people how...

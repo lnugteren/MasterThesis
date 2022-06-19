@@ -1,0 +1,1167 @@
+------- Category: Office_Products -------
+Found asin_id: B000GWE8TQ
+Shape:  (140, 7)
+Shape after:  (140, 7)
+
+
+Chosen product: B000GWE8TQ has 140 reviews - True, it has 140 reviews
+
+Nr of stopwords in review: ['113/220', '70/128', '144/306', '94/185', '120/251', '116/215', '532/1028', '8/13', '43/83', '32/67', '48/88', '215/423', '27/58', '19/37', '80/144', '57/108', '18/41', '26/57', '3/18', '46/79', '72/146', '45/73', '199/393', '18/35', '73/118', '70/145', '507/1082', '39/69', '66/115', '165/308', '35/72', '43/83', '136/335', '18/28', '45/80', '100/209', '56/110', '187/388', '45/85', '85/155', '28/60', '123/244', '45/88', '46/88', '5/10', '35/70', '31/57', '159/302', '4/10', '205/439', '92/167', '63/110', '9/17', '9/24', '74/148', '15/30', '21/51', '113/196', '74/137', '104/205', '16/38', '65/120', '14/32', '22/38', '56/117', '40/76', '22/44', '43/82', '18/35', '50/91', '68/162', '11/17', '7/14', '35/65', '56/102', '93/171', '8/20', '13/30', '6/17', '72/131', '57/114', '31/56', '125/252', '70/135', '178/375', '34/66', '51/102', '459/918', '12/23', '20/34', '43/81', '87/175', '34/60', '155/325', '6/20', '40/83', '16/28', '24/43', '26/44', '24/58', '35/84', '10/20', '39/74', '65/137', '163/315', '120/220', '34/174', '44/91', '183/381', '39/69', '25/49', '18/38', '53/123', '35/72', '78/159', '19/43', '33/58', '134/375', '100/276', '138/299', '71/127', '18/38', '129/265', '35/85', '94/224', '32/63', '14/27', '41/76', '92/176', '147/301', '78/150', '52/97', '41/75', '13/29', '77/138', '29/56', '46/91', '30/124', '14/31', '144/289'], on average: 0.4978
+Nr of stopwords in summary: ['3/9', '3/9', '2/8', '1/3', '2/6', '1/4', '5/14', '0/2', '3/5', '2/7', '4/10', '5/9', '1/3', '0/1', '1/2', '0/2', '0/2', '0/2', '0/5', '0/2', '1/3', '1/3', '1/4', '6/9', '8/10', '1/5', '2/5', '0/2', '3/9', '1/4', '0/4', '2/4', '1/4', '4/7', '3/7', '0/4', '0/2', '6/9', '2/8', '2/7', '1/5', '1/6', '3/5', '3/7', '0/1', '7/10', '1/4', '1/5', '2/4', '5/21', '6/12', '0/4', '0/2', '8/12', '3/7', '0/1', '3/8', '7/11', '5/10', '2/4', '3/6', '8/17', '2/5', '7/14', '4/12', '5/9', '1/2', '5/8', '3/6', '3/11', '5/10', '7/12', '5/8', '5/8', '1/2', '7/12', '0/4', '4/8', '0/2', '0/2', '0/3', '0/2', '0/2', '0/3', '2/7', '1/6', '0/2', '0/3', '2/6', '5/6', '0/4', '1/4', '0/2', '3/9', '0/1', '0/2', '0/3', '4/6', '0/2', '0/2', '4/8', '1/4', '1/3', '6/11', '3/6', '2/6', '3/5', '0/2', '3/7', '3/7', '0/4', '0/2', '0/2', '1/3', '2/5', '0/3', '0/2', '2/4', '0/2', '2/5', '2/8', '1/2', '2/9', '3/7', '0/1', '3/6', '1/2', '0/2', '1/4', '1/4', '1/3', '0/3', '0/2', '1/2', '2/4', '1/5', '0/1', '3/8', '0/1', '2/6'], on average: 0.2887
+
+Duplicate reviewers?:  139    A2E0TJ49NACDBA
+Name: reviewerID, dtype: object
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 97.8571%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [2, 4, 6]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   6  warning this is an in depth review i am writin...   0.710294
+
+step 1
+index added: 7
+percentage unclustered: 97.8571%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 97.8571%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 97.8571%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 97.1429%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [2, 4, 6, 10]
+			old information: 391, gain: 0.8978578892371996
+
+   ind                                             review  relevance
+0   6  warning this is an in depth review i am writin...   0.710294
+1  10  i m so happy that my hubby got these for me fo...   0.531766
+
+step 1
+index added: 11
+percentage unclustered: 97.8571%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [4, 5, 11]
+			old information: 5487, gain: 0.9385230748546267
+
+   ind                                             review  relevance
+0  11  i own the inktense blocks and got these becaus...   0.778190
+1   6  warning this is an in depth review i am writin...   0.710294
+2  10  i m so happy that my hubby got these for me fo...   0.531766
+
+step 1
+index added: 12
+percentage unclustered: 95.7143%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [2, 4, 5, 11]
+
+step 1
+index added: 13
+percentage unclustered: 95.7143%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 97.8571%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 95.0%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [2, 4, 6, 14]
+
+step 1
+index added: 16
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 94.2857%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [2, 4, 6, 14]
+			old information: 260, gain: 0.8370927318295739
+
+   ind                                             review  relevance
+0  11  i own the inktense blocks and got these becaus...   0.778190
+1   6  warning this is an in depth review i am writin...   0.710294
+2  17  these pencils are phenomenal wonderful rich pi...   0.640861
+3  10  i m so happy that my hubby got these for me fo...   0.531766
+
+step 1
+index added: 18
+percentage unclustered: 97.8571%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 97.1429%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [7, 12, 17, 19]
+			old information: 945, gain: 0.6932814021421616
+
+   ind                                             review  relevance
+0  11  i own the inktense blocks and got these becaus...   0.778190
+1   6  warning this is an in depth review i am writin...   0.710294
+2  19  i am so pleased with these pencils it takes a ...   0.696300
+3  17  these pencils are phenomenal wonderful rich pi...   0.640861
+4  10  i m so happy that my hubby got these for me fo...   0.531766
+
+step 1
+index added: 20
+percentage unclustered: 97.1429%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 97.1429%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 97.1429%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 97.1429%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 97.1429%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 87.1429%
+
+	step 2
+
+		step 3
+		candidate index: 25 with core nodes: [5, 11, 22]
+			old information: 1904, gain: 0.8176245210727969
+
+   ind                                             review  relevance
+0  11  i own the inktense blocks and got these becaus...   0.778190
+1  25  got these from amazon prime day for a good dea...   0.767001
+2   6  warning this is an in depth review i am writin...   0.710294
+3  19  i am so pleased with these pencils it takes a ...   0.696300
+4  17  these pencils are phenomenal wonderful rich pi...   0.640861
+5  10  i m so happy that my hubby got these for me fo...   0.531766
+
+step 1
+index added: 26
+percentage unclustered: 87.1429%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 94.2857%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [19, 22, 25]
+			old information: 924, gain: 0.6061381074168798
+
+   ind                                             review  relevance
+0  11  i own the inktense blocks and got these becaus...   0.778190
+1  25  got these from amazon prime day for a good dea...   0.767001
+2   6  warning this is an in depth review i am writin...   0.710294
+3  19  i am so pleased with these pencils it takes a ...   0.696300
+4  17  these pencils are phenomenal wonderful rich pi...   0.640861
+5  27  wow love these very intense colors i ve used o...   0.591222
+6  10  i m so happy that my hubby got these for me fo...   0.531766
+
+step 1
+index added: 28
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 94.2857%
+
+	step 2
+
+		step 3
+		candidate index: 29 with core nodes: [19, 22, 25, 29]
+			old information: 4265, gain: 0.9097889081602437
+
+   ind                                             review  relevance
+0  29  i am very new to coloring and using colored pe...   0.826956
+1  11  i own the inktense blocks and got these becaus...   0.778190
+2  25  got these from amazon prime day for a good dea...   0.767001
+3   6  warning this is an in depth review i am writin...   0.710294
+4  19  i am so pleased with these pencils it takes a ...   0.696300
+5  17  these pencils are phenomenal wonderful rich pi...   0.640861
+6  27  wow love these very intense colors i ve used o...   0.591222
+7  10  i m so happy that my hubby got these for me fo...   0.531766
+
+step 1
+index added: 30
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 92.1429%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [4, 25, 32]
+			old information: 3850, gain: 0.9311824112968093
+
+   ind                                             review  relevance
+0  29  i am very new to coloring and using colored pe...   0.826956
+1  11  i own the inktense blocks and got these becaus...   0.778190
+2  25  got these from amazon prime day for a good dea...   0.767001
+3  32  the derwent inktense 36 pencil set arrived in ...   0.761260
+4   6  warning this is an in depth review i am writin...   0.710294
+5  19  i am so pleased with these pencils it takes a ...   0.696300
+6  17  these pencils are phenomenal wonderful rich pi...   0.640861
+7  27  wow love these very intense colors i ve used o...   0.591222
+8  10  i m so happy that my hubby got these for me fo...   0.531766
+
+step 1
+index added: 33
+percentage unclustered: 92.1429%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 92.1429%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 91.4286%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [22, 29, 35]
+			old information: 3359, gain: 0.8454637467795363
+
+   ind                                             review  relevance
+0  29  i am very new to coloring and using colored pe...   0.826956
+1  11  i own the inktense blocks and got these becaus...   0.778190
+2  25  got these from amazon prime day for a good dea...   0.767001
+3  32  the derwent inktense 36 pencil set arrived in ...   0.761260
+4  35  i love these i got them for my daughter as a g...   0.745331
+5   6  warning this is an in depth review i am writin...   0.710294
+6  19  i am so pleased with these pencils it takes a ...   0.696300
+7  17  these pencils are phenomenal wonderful rich pi...   0.640861
+8  27  wow love these very intense colors i ve used o...   0.591222
+9  10  i m so happy that my hubby got these for me fo...   0.531766
+
+step 1
+index added: 36
+percentage unclustered: 91.4286%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 91.4286%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 88.5714%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [4, 25, 32, 38]
+			old information: 639, gain: 0.8210084033613445
+
+    ind                                             review  relevance
+0   29  i am very new to coloring and using colored pe...   0.826956
+1   11  i own the inktense blocks and got these becaus...   0.778190
+2   25  got these from amazon prime day for a good dea...   0.767001
+3   32  the derwent inktense 36 pencil set arrived in ...   0.761260
+4   35  i love these i got them for my daughter as a g...   0.745331
+5    6  warning this is an in depth review i am writin...   0.710294
+6   19  i am so pleased with these pencils it takes a ...   0.696300
+7   38  loving this beautiful coloring book for adults...   0.655155
+8   17  these pencils are phenomenal wonderful rich pi...   0.640861
+9   27  wow love these very intense colors i ve used o...   0.591222
+10  10  i m so happy that my hubby got these for me fo...   0.531766
+
+step 1
+index added: 39
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 87.1429%
+
+	step 2
+
+		step 3
+		candidate index: 40 with core nodes: [11, 22, 29, 35]
+
+step 1
+index added: 41
+percentage unclustered: 86.4286%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [4, 32, 41]
+			old information: 4219, gain: 0.8576873777238075
+
+    ind                                             review  relevance
+0   29  i am very new to coloring and using colored pe...   0.826956
+1   41  i bought these as an alternative to watercolor...   0.825867
+2   11  i own the inktense blocks and got these becaus...   0.778190
+3   25  got these from amazon prime day for a good dea...   0.767001
+4   32  the derwent inktense 36 pencil set arrived in ...   0.761260
+5   35  i love these i got them for my daughter as a g...   0.745331
+6    6  warning this is an in depth review i am writin...   0.710294
+7   19  i am so pleased with these pencils it takes a ...   0.696300
+8   38  loving this beautiful coloring book for adults...   0.655155
+9   17  these pencils are phenomenal wonderful rich pi...   0.640861
+10  27  wow love these very intense colors i ve used o...   0.591222
+11  10  i m so happy that my hubby got these for me fo...   0.531766
+
+step 1
+index added: 42
+percentage unclustered: 86.4286%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 87.1429%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 87.1429%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 87.1429%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 87.1429%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 87.1429%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 87.8571%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 87.8571%
+
+	step 2
+
+		step 3
+		candidate index: 51 with core nodes: [4, 25, 32, 41]
+
+step 1
+index added: 52
+percentage unclustered: 85.7143%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 85.7143%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 78.5714%
+
+	step 2
+
+		step 3
+		candidate index: 54 with core nodes: [22, 29, 37]
+
+step 1
+index added: 55
+percentage unclustered: 77.8571%
+
+	step 2
+
+		step 3
+		candidate index: 55 with core nodes: [6, 22, 29, 37]
+
+step 1
+index added: 56
+percentage unclustered: 77.8571%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 77.8571%
+
+	step 2
+
+		step 3
+		candidate index: 57 with core nodes: [6, 22, 29, 37]
+			old information: 2890, gain: 0.848770277341706
+
+    ind                                             review  relevance
+0   29  i am very new to coloring and using colored pe...   0.826956
+1   41  i bought these as an alternative to watercolor...   0.825867
+2   57  i like the pencils but i found that these penc...   0.786195
+3   11  i own the inktense blocks and got these becaus...   0.778190
+4   25  got these from amazon prime day for a good dea...   0.767001
+5   32  the derwent inktense 36 pencil set arrived in ...   0.761260
+6   35  i love these i got them for my daughter as a g...   0.745331
+7    6  warning this is an in depth review i am writin...   0.710294
+8   19  i am so pleased with these pencils it takes a ...   0.696300
+9   38  loving this beautiful coloring book for adults...   0.655155
+10  17  these pencils are phenomenal wonderful rich pi...   0.640861
+11  27  wow love these very intense colors i ve used o...   0.591222
+12  10  i m so happy that my hubby got these for me fo...   0.531766
+
+step 1
+index added: 58
+percentage unclustered: 77.8571%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 75.0%
+
+	step 2
+
+		step 3
+		candidate index: 59 with core nodes: [6, 22, 29, 37]
+
+step 1
+index added: 60
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 76.4286%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 76.4286%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 75.71430000000001%
+
+	step 2
+
+		step 3
+		candidate index: 64 with core nodes: [6, 22, 29, 37]
+
+step 1
+index added: 65
+percentage unclustered: 74.28569999999999%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 66 with core nodes: [6, 22, 29, 37]
+
+step 1
+index added: 67
+percentage unclustered: 79.28569999999999%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 79.28569999999999%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 79.28569999999999%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 82.1429%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 81.4286%
+
+	step 2
+
+		step 3
+		candidate index: 72 with core nodes: [14, 22, 29, 35, 37]
+
+step 1
+index added: 73
+percentage unclustered: 80.71430000000001%
+
+	step 2
+
+		step 3
+		candidate index: 73 with core nodes: [14, 22, 29, 35, 37]
+
+step 1
+index added: 74
+percentage unclustered: 80.71430000000001%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 80.71430000000001%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 80.71430000000001%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 80.71430000000001%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 80.71430000000001%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 79 with core nodes: [14, 22, 29, 35, 37]
+			old information: 1514, gain: 0.8221961244862008
+
+    ind                                             review  relevance
+0   29  i am very new to coloring and using colored pe...   0.826956
+1   41  i bought these as an alternative to watercolor...   0.825867
+2   57  i like the pencils but i found that these penc...   0.786195
+3   11  i own the inktense blocks and got these becaus...   0.778190
+4   25  got these from amazon prime day for a good dea...   0.767001
+5   32  the derwent inktense 36 pencil set arrived in ...   0.761260
+6   35  i love these i got them for my daughter as a g...   0.745331
+7    6  warning this is an in depth review i am writin...   0.710294
+8   19  i am so pleased with these pencils it takes a ...   0.696300
+9   79  i really like these pencils but they could be ...   0.665730
+10  38  loving this beautiful coloring book for adults...   0.655155
+11  17  these pencils are phenomenal wonderful rich pi...   0.640861
+12  27  wow love these very intense colors i ve used o...   0.591222
+13  10  i m so happy that my hubby got these for me fo...   0.531766
+
+step 1
+index added: 80
+percentage unclustered: 84.2857%
+
+	step 2
+
+		step 3
+		candidate index: 80 with core nodes: [15, 29, 80]
+			old information: 1383, gain: 0.7852817885421518
+
+    ind                                             review  relevance
+0   29  i am very new to coloring and using colored pe...   0.826956
+1   41  i bought these as an alternative to watercolor...   0.825867
+2   57  i like the pencils but i found that these penc...   0.786195
+3   11  i own the inktense blocks and got these becaus...   0.778190
+4   25  got these from amazon prime day for a good dea...   0.767001
+5   32  the derwent inktense 36 pencil set arrived in ...   0.761260
+6   35  i love these i got them for my daughter as a g...   0.745331
+7    6  warning this is an in depth review i am writin...   0.710294
+8   19  i am so pleased with these pencils it takes a ...   0.696300
+9   80  these watercolor pencils performed as advertis...   0.682820
+10  79  i really like these pencils but they could be ...   0.665730
+11  38  loving this beautiful coloring book for adults...   0.655155
+12  17  these pencils are phenomenal wonderful rich pi...   0.640861
+13  27  wow love these very intense colors i ve used o...   0.591222
+14  10  i m so happy that my hubby got these for me fo...   0.531766
+
+step 1
+index added: 81
+percentage unclustered: 84.2857%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 84.2857%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 84.2857%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 84.2857%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 83.5714%
+
+	step 2
+
+		step 3
+		candidate index: 85 with core nodes: [14, 37, 57]
+
+step 1
+index added: 86
+percentage unclustered: 83.5714%
+
+	step 2
+
+		step 3
+		candidate index: 86 with core nodes: [29, 37, 57, 86]
+			old information: 1398, gain: 0.7285963890506698
+
+    ind                                             review  relevance
+0   29  i am very new to coloring and using colored pe...   0.826956
+1   41  i bought these as an alternative to watercolor...   0.825867
+2   86  i really like this set as it introduces me to ...   0.791704
+3   57  i like the pencils but i found that these penc...   0.786195
+4   11  i own the inktense blocks and got these becaus...   0.778190
+5   25  got these from amazon prime day for a good dea...   0.767001
+6   32  the derwent inktense 36 pencil set arrived in ...   0.761260
+7   35  i love these i got them for my daughter as a g...   0.745331
+8    6  warning this is an in depth review i am writin...   0.710294
+9   19  i am so pleased with these pencils it takes a ...   0.696300
+10  80  these watercolor pencils performed as advertis...   0.682820
+11  79  i really like these pencils but they could be ...   0.665730
+12  38  loving this beautiful coloring book for adults...   0.655155
+13  17  these pencils are phenomenal wonderful rich pi...   0.640861
+14  27  wow love these very intense colors i ve used o...   0.591222
+15  10  i m so happy that my hubby got these for me fo...   0.531766
+
+step 1
+index added: 87
+percentage unclustered: 83.5714%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 83.5714%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 81.4286%
+
+	step 2
+
+		step 3
+		candidate index: 89 with core nodes: [29, 37, 57, 86]
+
+step 1
+index added: 90
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 82.1429%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 82.1429%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 82.1429%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 82.1429%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 82.1429%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 82.1429%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 82.1429%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 82.1429%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 82.1429%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 78.5714%
+
+	step 2
+
+		step 3
+		candidate index: 113 with core nodes: [29, 37, 57, 86, 104]
+
+step 1
+index added: 114
+percentage unclustered: 78.5714%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 78.5714%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 78.5714%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 76.4286%
+
+	step 2
+
+		step 3
+		candidate index: 117 with core nodes: [11, 29, 37, 104]
+
+step 1
+index added: 118
+percentage unclustered: 72.1429%
+
+	step 2
+
+		step 3
+		candidate index: 118 with core nodes: [11, 29, 37, 104]
+
+step 1
+index added: 119
+percentage unclustered: 71.4286%
+
+	step 2
+
+		step 3
+		candidate index: 119 with core nodes: [11, 29, 37, 104]
+
+step 1
+index added: 120
+percentage unclustered: 71.4286%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 71.4286%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 71.4286%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 71.4286%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 71.4286%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 71.4286%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 72.8571%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 72.8571%
+
+	step 2
+
+step 1
+index added: 128
+percentage unclustered: 72.8571%
+
+	step 2
+
+		step 3
+		candidate index: 128 with core nodes: [11, 29, 37, 104, 128]
+			old information: 3593, gain: 0.7666883116883116
+
+     ind                                             review  relevance
+0    29  i am very new to coloring and using colored pe...   0.826956
+1    41  i bought these as an alternative to watercolor...   0.825867
+2   128  the art rebel that i am i wanted to try someth...   0.817873
+3    86  i really like this set as it introduces me to ...   0.791704
+4    57  i like the pencils but i found that these penc...   0.786195
+5    11  i own the inktense blocks and got these becaus...   0.778190
+6    25  got these from amazon prime day for a good dea...   0.767001
+7    32  the derwent inktense 36 pencil set arrived in ...   0.761260
+8    35  i love these i got them for my daughter as a g...   0.745331
+9     6  warning this is an in depth review i am writin...   0.710294
+10   19  i am so pleased with these pencils it takes a ...   0.696300
+11   80  these watercolor pencils performed as advertis...   0.682820
+12   79  i really like these pencils but they could be ...   0.665730
+13   38  loving this beautiful coloring book for adults...   0.655155
+14   17  these pencils are phenomenal wonderful rich pi...   0.640861
+15   27  wow love these very intense colors i ve used o...   0.591222
+16   10  i m so happy that my hubby got these for me fo...   0.531766
+
+step 1
+index added: 129
+percentage unclustered: 72.1429%
+
+	step 2
+
+		step 3
+		candidate index: 129 with core nodes: [11, 29, 37, 104, 128]
+
+step 1
+index added: 130
+percentage unclustered: 74.28569999999999%
+
+	step 2
+
+step 1
+index added: 131
+percentage unclustered: 74.28569999999999%
+
+	step 2
+
+step 1
+index added: 132
+percentage unclustered: 73.5714%
+
+	step 2
+
+step 1
+index added: 133
+percentage unclustered: 72.8571%
+
+	step 2
+
+step 1
+index added: 134
+percentage unclustered: 72.1429%
+
+	step 2
+
+step 1
+index added: 135
+percentage unclustered: 72.1429%
+
+	step 2
+
+step 1
+index added: 136
+percentage unclustered: 69.28569999999999%
+
+	step 2
+
+step 1
+index added: 137
+percentage unclustered: 69.28569999999999%
+
+	step 2
+
+step 1
+index added: 138
+percentage unclustered: 68.5714%
+
+	step 2
+
+step 1
+index added: 139
+percentage unclustered: 67.8571%
+
+	step 2
+
+--- 337.8130705356598 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 97.8571, 97.8571, 97.8571, 97.8571, 97.1429, 97.8571, 95.7143, 95.7143, 97.8571, 95.0, 95.0, 94.2857, 97.8571, 97.1429, 97.1429, 97.1429, 97.1429, 97.1429, 97.1429, 87.1429, 87.1429, 94.2857, 94.2857, 94.2857, 94.2857, 94.2857, 92.1429, 92.1429, 92.1429, 91.4286, 91.4286, 91.4286, 88.5714, 88.5714, 87.1429, 86.4286, 86.4286, 87.1429, 87.1429, 87.1429, 87.1429, 87.1429, 87.8571, 88.5714, 88.5714, 87.8571, 85.7143, 85.7143, 78.5714, 77.8571, 77.8571, 77.8571, 77.8571, 75.0, 75.0, 75.0, 76.4286, 76.4286, 75.71430000000001, 74.28569999999999, 80.0, 79.28569999999999, 79.28569999999999, 79.28569999999999, 81.4286, 82.1429, 81.4286, 80.71430000000001, 80.71430000000001, 80.71430000000001, 80.71430000000001, 80.71430000000001, 80.71430000000001, 80.0, 84.2857, 84.2857, 84.2857, 84.2857, 84.2857, 83.5714, 83.5714, 83.5714, 83.5714, 81.4286, 81.4286, 81.4286, 81.4286, 81.4286, 81.4286, 81.4286, 81.4286, 81.4286, 81.4286, 81.4286, 81.4286, 81.4286, 81.4286, 81.4286, 82.1429, 82.1429, 82.1429, 82.1429, 82.1429, 82.1429, 82.1429, 82.1429, 82.1429, 78.5714, 78.5714, 78.5714, 78.5714, 76.4286, 72.1429, 71.4286, 71.4286, 71.4286, 71.4286, 71.4286, 71.4286, 71.4286, 72.8571, 72.8571, 72.8571, 72.1429, 74.28569999999999, 74.28569999999999, 73.5714, 72.8571, 72.1429, 72.1429, 69.28569999999999, 69.28569999999999, 68.5714, 67.8571], mean: 83.794
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0        19   29   0.826956  i am very new to coloring and using colored pe...
+1        22   41   0.825867  i bought these as an alternative to watercolor...
+2        40  128   0.817873  the art rebel that i am i wanted to try someth...
+3        88   86   0.791704  i really like this set as it introduces me to ...
+4        46   57   0.786195  i like the pencils but i found that these penc...
+5        16   11   0.778190  i own the inktense blocks and got these becaus...
+6        98   25   0.767001  got these from amazon prime day for a good dea...
+7         8   32   0.761260  the derwent inktense 36 pencil set arrived in ...
+8        79   35   0.745331  i love these i got them for my daughter as a g...
+9        21    6   0.710294  warning this is an in depth review i am writin...
+10       10   19   0.696300  i am so pleased with these pencils it takes a ...
+11      120   80   0.682820  these watercolor pencils performed as advertis...
+12       81   79   0.665730  i really like these pencils but they could be ...
+13       36   38   0.655155  loving this beautiful coloring book for adults...
+14       42   17   0.640861  these pencils are phenomenal wonderful rich pi...
+15       39   27   0.591222  wow love these very intense colors i ve used o...
+16       72   10   0.531766  i m so happy that my hubby got these for me fo...

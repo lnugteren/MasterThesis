@@ -1,0 +1,954 @@
+------- Category: Office_Products -------
+Found asin_id: B00450DVDY
+Shape:  (120, 7)
+Shape after:  (120, 7)
+
+
+Chosen product: B00450DVDY has 120 reviews - True, it has 120 reviews
+
+Nr of stopwords in review: ['940/2254', '227/497', '216/419', '66/116', '241/499', '83/167', '35/78', '162/346', '38/79', '6/47', '25/45', '15/28', '122/241', '36/73', '103/232', '113/253', '40/76', '183/352', '189/378', '16/36', '162/352', '45/87', '81/161', '21/57', '60/109', '107/235', '75/237', '474/1031', '71/137', '359/720', '56/118', '125/293', '88/191', '22/47', '165/348', '13/26', '32/63', '47/91', '63/139', '261/612', '183/371', '309/696', '89/177', '21/39', '21/44', '13/37', '28/53', '144/295', '91/188', '159/353', '222/515', '295/661', '155/720', '92/177', '456/923', '222/509', '57/106', '44/90', '53/107', '293/595', '45/97', '196/373', '494/1151', '184/545', '56/103', '439/919', '215/516', '217/466', '51/107', '47/94', '104/219', '27/50', '150/336', '117/214', '119/246', '101/210', '52/99', '65/133', '292/724', '30/51', '154/308', '14/40', '42/78', '120/223', '64/110', '100/217', '145/306', '94/196', '34/65', '142/288', '180/333', '100/224', '95/183', '100/198', '124/297', '69/150', '199/377', '48/99', '151/266', '19/37', '40/75', '98/204', '286/582', '23/111', '23/59', '124/248', '52/100', '417/860', '161/338', '121/271', '182/329', '538/1055', '125/240', '84/175', '31/81', '48/82', '33/63', '275/588', '142/336', '145/317'], on average: 0.4756
+Nr of stopwords in summary: ['1/5', '2/7', '2/6', '0/4', '5/9', '0/2', '5/10', '2/6', '0/2', '1/5', '1/5', '2/6', '2/6', '2/5', '2/14', '2/5', '4/9', '0/3', '0/4', '2/5', '11/23', '1/3', '1/3', '2/3', '0/2', '2/5', '2/8', '0/4', '2/7', '7/11', '4/10', '8/16', '0/2', '6/8', '1/5', '1/4', '0/4', '0/3', '0/6', '3/9', '2/7', '5/11', '1/4', '1/5', '3/4', '3/8', '2/6', '0/2', '2/8', '1/5', '0/5', '6/12', '2/8', '4/9', '2/6', '2/11', '3/6', '4/12', '3/9', '0/4', '2/4', '2/6', '1/10', '3/10', '1/3', '2/6', '0/4', '4/7', '2/7', '0/5', '2/4', '3/5', '5/12', '2/3', '1/6', '1/3', '1/3', '1/4', '9/17', '2/5', '3/5', '1/4', '2/7', '1/3', '5/9', '0/2', '1/4', '3/6', '0/1', '2/7', '5/10', '1/3', '1/3', '0/2', '1/3', '1/3', '2/5', '2/6', '1/4', '2/6', '0/2', '2/7', '0/7', '2/5', '0/5', '6/11', '3/8', '0/3', '2/7', '2/7', '2/8', '4/11', '3/8', '0/4', '2/4', '4/8', '1/6', '0/4', '0/2', '0/3'], on average: 0.2863
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 97.5%
+
+	step 2
+
+		step 3
+		candidate index: 3 with core nodes: [0, 2, 3]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   3  i bought this from the local staples because i...   0.704928
+
+step 1
+index added: 4
+percentage unclustered: 96.6667%
+
+	step 2
+
+		step 3
+		candidate index: 4 with core nodes: [0, 2, 3, 4]
+			old information: 834, gain: 0.9932877803800372
+
+   ind                                             review  relevance
+0   4  i bought this from a retail officedepot outlet...   0.778482
+1   3  i bought this from the local staples because i...   0.704928
+
+step 1
+index added: 5
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 6
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 95.8333%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [0, 2, 3, 4]
+
+step 1
+index added: 10
+percentage unclustered: 95.0%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [0, 2, 3, 4]
+
+step 1
+index added: 11
+percentage unclustered: 94.1667%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [0, 2, 3, 4]
+
+step 1
+index added: 12
+percentage unclustered: 92.5%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [0, 2, 4]
+			old information: 1468, gain: 0.9492392807745504
+
+   ind                                             review  relevance
+0   4  i bought this from a retail officedepot outlet...   0.778482
+1  12  my wife and i homeschool our children and we p...   0.718374
+2   3  i bought this from the local staples because i...   0.704928
+
+step 1
+index added: 13
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 97.5%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 97.5%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 97.5%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 97.5%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 97.5%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 97.5%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 97.5%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 94.1667%
+
+	step 2
+
+		step 3
+		candidate index: 23 with core nodes: [2, 12, 15, 21]
+
+step 1
+index added: 24
+percentage unclustered: 94.1667%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 94.1667%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 94.1667%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 91.6667%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [2, 15, 18, 27]
+			old information: 7385, gain: 0.9860913619541778
+
+   ind                                             review  relevance
+0  27  edited july 28 2013 to add nwell i ve googled ...   0.892860
+1   4  i bought this from a retail officedepot outlet...   0.778482
+2  12  my wife and i homeschool our children and we p...   0.718374
+3   3  i bought this from the local staples because i...   0.704928
+
+step 1
+index added: 28
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 88.3333%
+
+	step 2
+
+		step 3
+		candidate index: 29 with core nodes: [2, 18, 27, 29]
+			old information: 12226, gain: 0.9527661876062432
+
+   ind                                             review  relevance
+0  29  i just got my printer today it prints fantasti...   0.902766
+1  27  edited july 28 2013 to add nwell i ve googled ...   0.892860
+2   4  i bought this from a retail officedepot outlet...   0.778482
+3  12  my wife and i homeschool our children and we p...   0.718374
+4   3  i bought this from the local staples because i...   0.704928
+
+step 1
+index added: 30
+percentage unclustered: 88.3333%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [2, 18, 25, 27]
+
+step 1
+index added: 31
+percentage unclustered: 77.5%
+
+	step 2
+
+		step 3
+		candidate index: 31 with core nodes: [0, 2, 27, 29]
+
+step 1
+index added: 32
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 90.8333%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [2, 15, 18, 27]
+
+step 1
+index added: 34
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [2, 18, 27, 34]
+			old information: 6334, gain: 0.895094239623704
+
+   ind                                             review  relevance
+0  29  i just got my printer today it prints fantasti...   0.902766
+1  27  edited july 28 2013 to add nwell i ve googled ...   0.892860
+2  34  there are tons of negative reviews about his p...   0.853080
+3   4  i bought this from a retail officedepot outlet...   0.778482
+4  12  my wife and i homeschool our children and we p...   0.718374
+5   3  i bought this from the local staples because i...   0.704928
+
+step 1
+index added: 35
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 86.6667%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [0, 2, 18, 27]
+
+step 1
+index added: 37
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 85.8333%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [0, 2, 18, 27]
+
+step 1
+index added: 39
+percentage unclustered: 85.8333%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 40 with core nodes: [0, 2, 18, 27]
+
+step 1
+index added: 41
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [2, 18, 27, 34, 41]
+			old information: 16080, gain: 0.9335152567601092
+
+   ind                                             review  relevance
+0  29  i just got my printer today it prints fantasti...   0.902766
+1  27  edited july 28 2013 to add nwell i ve googled ...   0.892860
+2  41  after going through another 56 set of inks on ...   0.888365
+3  34  there are tons of negative reviews about his p...   0.853080
+4   4  i bought this from a retail officedepot outlet...   0.778482
+5  12  my wife and i homeschool our children and we p...   0.718374
+6   3  i bought this from the local staples because i...   0.704928
+
+step 1
+index added: 42
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 89.1667%
+
+	step 2
+
+		step 3
+		candidate index: 44 with core nodes: [2, 18, 27, 34, 41]
+
+step 1
+index added: 45
+percentage unclustered: 89.1667%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 89.1667%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [2, 18, 27, 34, 41]
+
+step 1
+index added: 47
+percentage unclustered: 89.1667%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 89.1667%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 89.1667%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 89.1667%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 51 with core nodes: [20, 31, 51]
+			old information: 9890, gain: 0.9546600650987943
+
+   ind                                             review  relevance
+0  29  i just got my printer today it prints fantasti...   0.902766
+1  27  edited july 28 2013 to add nwell i ve googled ...   0.892860
+2  41  after going through another 56 set of inks on ...   0.888365
+3  34  there are tons of negative reviews about his p...   0.853080
+4  51  bought this brother hl 2270dw less than 30 day...   0.852935
+5   4  i bought this from a retail officedepot outlet...   0.778482
+6  12  my wife and i homeschool our children and we p...   0.718374
+7   3  i bought this from the local staples because i...   0.704928
+
+step 1
+index added: 52
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 80.83330000000001%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 75.0%
+
+	step 2
+
+		step 3
+		candidate index: 59 with core nodes: [2, 27, 29, 41]
+			old information: 12421, gain: 0.9297116826528591
+
+   ind                                             review  relevance
+0  29  i just got my printer today it prints fantasti...   0.902766
+1  59  i have been using the brother hl 2270dw printe...   0.896595
+2  27  edited july 28 2013 to add nwell i ve googled ...   0.892860
+3  41  after going through another 56 set of inks on ...   0.888365
+4  34  there are tons of negative reviews about his p...   0.853080
+5  51  bought this brother hl 2270dw less than 30 day...   0.852935
+6   4  i bought this from a retail officedepot outlet...   0.778482
+7  12  my wife and i homeschool our children and we p...   0.718374
+8   3  i bought this from the local staples because i...   0.704928
+
+step 1
+index added: 60
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 68 with core nodes: [2, 18, 27, 41, 59]
+
+step 1
+index added: 69
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 74 with core nodes: [2, 18, 27, 41, 59]
+
+step 1
+index added: 75
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 79.16669999999999%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 80.83330000000001%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 80.83330000000001%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 85 with core nodes: [2, 18, 27, 41, 59]
+
+step 1
+index added: 86
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 84.1667%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 84.1667%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 84.1667%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 91 with core nodes: [1, 2, 18, 27, 59]
+
+step 1
+index added: 92
+percentage unclustered: 84.1667%
+
+	step 2
+
+		step 3
+		candidate index: 92 with core nodes: [1, 2, 18, 27, 59]
+
+step 1
+index added: 93
+percentage unclustered: 84.1667%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 84.1667%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 84.1667%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 88.3333%
+
+	step 2
+
+		step 3
+		candidate index: 96 with core nodes: [1, 2, 18, 27, 59]
+
+step 1
+index added: 97
+percentage unclustered: 88.3333%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 88.3333%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 71.66669999999999%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 67.5%
+
+	step 2
+
+		step 3
+		candidate index: 105 with core nodes: [2, 18, 27, 41, 59]
+
+step 1
+index added: 106
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 107 with core nodes: [2, 18, 27, 41, 59, 107]
+			old information: 17457, gain: 0.9527384465441157
+
+    ind                                             review  relevance
+0   29  i just got my printer today it prints fantasti...   0.902766
+1   59  i have been using the brother hl 2270dw printe...   0.896595
+2   27  edited july 28 2013 to add nwell i ve googled ...   0.892860
+3   41  after going through another 56 set of inks on ...   0.888365
+4  107  this is an excellent little printer clear fast...   0.883599
+5   34  there are tons of negative reviews about his p...   0.853080
+6   51  bought this brother hl 2270dw less than 30 day...   0.852935
+7    4  i bought this from a retail officedepot outlet...   0.778482
+8   12  my wife and i homeschool our children and we p...   0.718374
+9    3  i bought this from the local staples because i...   0.704928
+
+step 1
+index added: 108
+percentage unclustered: 65.83330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 108 with core nodes: [2, 18, 27, 41, 59, 107]
+
+step 1
+index added: 109
+percentage unclustered: 65.83330000000001%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 64.16669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 111 with core nodes: [54, 107, 111]
+			old information: 29567, gain: 0.9468205077475111
+
+     ind                                             review  relevance
+0   111  well there have already been a good number of ...   0.913787
+1    29  i just got my printer today it prints fantasti...   0.902766
+2    59  i have been using the brother hl 2270dw printe...   0.896595
+3    27  edited july 28 2013 to add nwell i ve googled ...   0.892860
+4    41  after going through another 56 set of inks on ...   0.888365
+5   107  this is an excellent little printer clear fast...   0.883599
+6    34  there are tons of negative reviews about his p...   0.853080
+7    51  bought this brother hl 2270dw less than 30 day...   0.852935
+8     4  i bought this from a retail officedepot outlet...   0.778482
+9    12  my wife and i homeschool our children and we p...   0.718374
+10    3  i bought this from the local staples because i...   0.704928
+
+step 1
+index added: 112
+percentage unclustered: 64.16669999999999%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 63.3333%
+
+	step 2
+
+		step 3
+		candidate index: 117 with core nodes: [41, 59, 117]
+			old information: 18810, gain: 0.8910058060702987
+
+     ind                                             review  relevance
+0   111  well there have already been a good number of ...   0.913787
+1    29  i just got my printer today it prints fantasti...   0.902766
+2    59  i have been using the brother hl 2270dw printe...   0.896595
+3    27  edited july 28 2013 to add nwell i ve googled ...   0.892860
+4    41  after going through another 56 set of inks on ...   0.888365
+5   107  this is an excellent little printer clear fast...   0.883599
+6   117  this is a nice compact laser printer with good...   0.879471
+7    34  there are tons of negative reviews about his p...   0.853080
+8    51  bought this brother hl 2270dw less than 30 day...   0.852935
+9     4  i bought this from a retail officedepot outlet...   0.778482
+10   12  my wife and i homeschool our children and we p...   0.718374
+11    3  i bought this from the local staples because i...   0.704928
+
+step 1
+index added: 118
+percentage unclustered: 63.3333%
+
+	step 2
+
+		step 3
+		candidate index: 118 with core nodes: [54, 107, 111]
+
+step 1
+index added: 119
+percentage unclustered: 60.8333%
+
+	step 2
+
+		step 3
+		candidate index: 119 with core nodes: [41, 59, 117]
+
+--- 3636.4048097133636 seconds ---
+
+
+ Unclustered percentages: [100.0, 97.5, 96.6667, 96.6667, 96.6667, 96.6667, 96.6667, 95.8333, 95.0, 94.1667, 92.5, 92.5, 92.5, 96.6667, 97.5, 97.5, 97.5, 97.5, 97.5, 97.5, 97.5, 94.1667, 94.1667, 94.1667, 94.1667, 91.6667, 91.6667, 88.3333, 88.3333, 77.5, 77.5, 90.8333, 90.0, 90.0, 86.6667, 86.6667, 85.8333, 85.8333, 83.33330000000001, 90.0, 90.0, 90.0, 89.1667, 89.1667, 89.1667, 89.1667, 89.1667, 89.1667, 89.1667, 83.33330000000001, 83.33330000000001, 80.0, 80.83330000000001, 82.5, 82.5, 82.5, 82.5, 75.0, 75.0, 75.0, 75.0, 73.33330000000001, 73.33330000000001, 78.33330000000001, 78.33330000000001, 78.33330000000001, 78.33330000000001, 78.33330000000001, 78.33330000000001, 78.33330000000001, 78.33330000000001, 78.33330000000001, 78.33330000000001, 78.33330000000001, 78.33330000000001, 78.33330000000001, 79.16669999999999, 80.0, 80.83330000000001, 80.83330000000001, 83.33330000000001, 83.33330000000001, 83.33330000000001, 83.33330000000001, 83.33330000000001, 84.1667, 84.1667, 84.1667, 82.5, 80.0, 84.1667, 84.1667, 84.1667, 84.1667, 88.3333, 88.3333, 88.3333, 72.5, 72.5, 72.5, 72.5, 72.5, 71.66669999999999, 67.5, 67.5, 66.66669999999999, 65.83330000000001, 65.83330000000001, 65.0, 64.16669999999999, 64.16669999999999, 63.3333, 66.66669999999999, 66.66669999999999, 66.66669999999999, 63.3333, 63.3333, 60.8333], mean: 83.0155
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0       120  111   0.913787  well there have already been a good number of ...
+1        42   29   0.902766  i just got my printer today it prints fantasti...
+2       110   59   0.896595  i have been using the brother hl 2270dw printe...
+3        44   27   0.892860  edited july 28 2013 to add nwell i ve googled ...
+4         4   41   0.888365  after going through another 56 set of inks on ...
+5        19  107   0.883599  this is an excellent little printer clear fast...
+6         5  117   0.879471  this is a nice compact laser printer with good...
+7         8   34   0.853080  there are tons of negative reviews about his p...
+8         3   51   0.852935  bought this brother hl 2270dw less than 30 day...
+9        14    4   0.778482  i bought this from a retail officedepot outlet...
+10       10   12   0.718374  my wife and i homeschool our children and we p...
+11       23    3   0.704928  i bought this from the local staples because i...

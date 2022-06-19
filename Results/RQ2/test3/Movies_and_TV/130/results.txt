@@ -1,0 +1,957 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 1569388431
+Shape:  (130, 7)
+Shape after:  (130, 7)
+
+
+Chosen product: 1569388431 has 130 reviews - True, it has 130 reviews
+
+Nr of stopwords in review: ['94/198', '176/301', '27/44', '84/209', '70/127', '33/87', '167/347', '103/226', '24/47', '210/408', '53/99', '48/113', '190/414', '165/333', '161/344', '11/27', '38/74', '158/330', '50/104', '80/160', '323/700', '234/456', '96/184', '178/333', '140/336', '93/229', '160/315', '17/31', '176/343', '44/101', '155/344', '25/45', '57/103', '51/98', '25/56', '72/131', '43/85', '184/418', '73/130', '72/143', '55/97', '58/117', '58/119', '89/175', '58/114', '163/283', '301/547', '121/228', '60/103', '85/177', '265/505', '33/67', '264/524', '65/123', '42/85', '103/189', '118/245', '22/50', '115/224', '181/324', '38/88', '84/178', '11/22', '202/382', '216/403', '63/119', '161/299', '156/336', '51/95', '43/88', '46/86', '14/30', '207/404', '240/459', '60/125', '65/125', '23/61', '109/205', '117/269', '51/97', '41/65', '58/104', '54/115', '30/67', '20/36', '21/39', '67/136', '51/110', '34/64', '43/85', '24/52', '14/29', '79/157', '44/74', '92/212', '9/23', '26/55', '60/129', '34/63', '132/270', '197/401', '165/302', '64/149', '9/20', '31/65', '65/146', '128/274', '62/112', '33/62', '13/29', '38/78', '17/45', '10/17', '59/119', '141/248', '19/36', '28/56', '48/97', '104/208', '4/19', '84/145', '60/134', '34/60', '30/71', '39/72', '23/43', '89/165', '23/43', '71/133', '199/373'], on average: 0.4987
+Nr of stopwords in summary: ['2/5', '2/5', '2/4', '2/5', '5/9', '1/4', '1/4', '4/10', '1/7', '4/9', '5/6', '1/2', '2/6', '5/8', '5/8', '2/4', '1/3', '1/3', '3/5', '1/2', '2/7', '2/8', '4/11', '3/4', '0/4', '4/9', '1/5', '2/5', '0/2', '7/11', '1/3', '0/2', '2/5', '1/3', '2/6', '6/14', '2/6', '0/2', '4/10', '1/4', '2/4', '5/6', '3/7', '5/10', '3/6', '2/4', '9/14', '5/9', '6/13', '2/4', '4/9', '2/3', '0/5', '3/5', '1/3', '0/3', '0/5', '2/5', '7/13', '2/6', '4/7', '7/10', '1/5', '3/6', '6/9', '4/8', '7/13', '2/5', '0/1', '3/7', '4/7', '1/3', '0/3', '2/5', '1/3', '5/9', '1/2', '2/4', '4/9', '2/5', '3/4', '1/3', '2/6', '5/8', '1/3', '0/1', '2/4', '2/8', '2/6', '0/2', '3/7', '5/9', '0/1', '3/7', '1/4', '0/1', '5/6', '3/7', '1/3', '0/3', '2/5', '2/7', '3/7', '2/5', '2/4', '3/5', '3/12', '1/3', '2/5', '1/3', '0/2', '0/1', '2/4', '3/6', '4/7', '1/3', '4/7', '0/1', '2/5', '3/4', '1/5', '4/10', '2/5', '3/8', '5/9', '0/2', '0/1', '1/5', '3/6', '5/7'], on average: 0.3844
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 97.6923%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [2, 4, 7]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   7  the subject of this documentary film is one jo...   0.502545
+
+step 1
+index added: 8
+percentage unclustered: 97.6923%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 95.3846%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [1, 4, 7, 9]
+			old information: 755, gain: 0.9909066820831527
+
+   ind                                             review  relevance
+0   9  i saw this film when it was in theatres and up...   0.758308
+1   7  the subject of this documentary film is one jo...   0.502545
+
+step 1
+index added: 10
+percentage unclustered: 94.6154%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [1, 7, 9, 10]
+			old information: 668, gain: 0.8622964337250052
+
+   ind                                             review  relevance
+0   9  i saw this film when it was in theatres and up...   0.758308
+1  10  see it if you have n t already ideally with a ...   0.704606
+2   7  the subject of this documentary film is one jo...   0.502545
+
+step 1
+index added: 11
+percentage unclustered: 93.8462%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [1, 7, 9, 10]
+			old information: 380, gain: 0.9399494310998736
+
+   ind                                             review  relevance
+0   9  i saw this film when it was in theatres and up...   0.758308
+1  10  see it if you have n t already ideally with a ...   0.704606
+2  11  not only is this rip off a poor production val...   0.685075
+3   7  the subject of this documentary film is one jo...   0.502545
+
+step 1
+index added: 12
+percentage unclustered: 93.0769%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [7, 11, 12]
+			old information: 2269, gain: 0.9734591945350972
+
+   ind                                             review  relevance
+0   9  i saw this film when it was in theatres and up...   0.758308
+1  12  my husband and i watched the aristocrats he wi...   0.753069
+2  10  see it if you have n t already ideally with a ...   0.704606
+3  11  not only is this rip off a poor production val...   0.685075
+4   7  the subject of this documentary film is one jo...   0.502545
+
+step 1
+index added: 13
+percentage unclustered: 93.0769%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 90.7692%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [6, 7, 12, 14]
+			old information: 3793, gain: 0.9357075055935996
+
+   ind                                             review  relevance
+0  14  this movie is not offensive at least not in th...   0.849265
+1   9  i saw this film when it was in theatres and up...   0.758308
+2  12  my husband and i watched the aristocrats he wi...   0.753069
+3  10  see it if you have n t already ideally with a ...   0.704606
+4  11  not only is this rip off a poor production val...   0.685075
+5   7  the subject of this documentary film is one jo...   0.502545
+
+step 1
+index added: 15
+percentage unclustered: 90.7692%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 90.7692%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [6, 7, 14, 17]
+			old information: 3390, gain: 0.9375518098922354
+
+   ind                                             review  relevance
+0  17  how is it possible for a group of filmmakers t...   0.864127
+1  14  this movie is not offensive at least not in th...   0.849265
+2   9  i saw this film when it was in theatres and up...   0.758308
+3  12  my husband and i watched the aristocrats he wi...   0.753069
+4  10  see it if you have n t already ideally with a ...   0.704606
+5  11  not only is this rip off a poor production val...   0.685075
+6   7  the subject of this documentary film is one jo...   0.502545
+
+step 1
+index added: 18
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 86.9231%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 86.1538%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [6, 14, 17, 20]
+			old information: 9509, gain: 0.9611322297159207
+
+   ind                                             review  relevance
+0  20  the aristocrats is a hilarious wildly irrevere...   0.882497
+1  17  how is it possible for a group of filmmakers t...   0.864127
+2  14  this movie is not offensive at least not in th...   0.849265
+3   9  i saw this film when it was in theatres and up...   0.758308
+4  12  my husband and i watched the aristocrats he wi...   0.753069
+5  10  see it if you have n t already ideally with a ...   0.704606
+6  11  not only is this rip off a poor production val...   0.685075
+7   7  the subject of this documentary film is one jo...   0.502545
+
+step 1
+index added: 21
+percentage unclustered: 85.3846%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [14, 20, 21]
+			old information: 5981, gain: 0.9423462502409871
+
+   ind                                             review  relevance
+0  20  the aristocrats is a hilarious wildly irrevere...   0.882497
+1  17  how is it possible for a group of filmmakers t...   0.864127
+2  21  nothing is further from the truth than the sub...   0.861197
+3  14  this movie is not offensive at least not in th...   0.849265
+4   9  i saw this film when it was in theatres and up...   0.758308
+5  12  my husband and i watched the aristocrats he wi...   0.753069
+6  10  see it if you have n t already ideally with a ...   0.704606
+7  11  not only is this rip off a poor production val...   0.685075
+8   7  the subject of this documentary film is one jo...   0.502545
+
+step 1
+index added: 22
+percentage unclustered: 84.6154%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 86.9231%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 86.9231%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 86.1538%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 86.1538%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 85.3846%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [14, 20, 21]
+
+step 1
+index added: 28
+percentage unclustered: 85.3846%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 85.3846%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 84.6154%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 84.6154%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 82.3077%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 81.5385%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 81.5385%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 81.5385%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 81.5385%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 81.5385%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 81.5385%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [6, 14, 17, 21]
+
+step 1
+index added: 42
+percentage unclustered: 79.2308%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 79.2308%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 79.2308%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 76.9231%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [9, 23, 45]
+			old information: 3981, gain: 0.9002330651830689
+
+   ind                                             review  relevance
+0  20  the aristocrats is a hilarious wildly irrevere...   0.882497
+1  17  how is it possible for a group of filmmakers t...   0.864127
+2  21  nothing is further from the truth than the sub...   0.861197
+3  14  this movie is not offensive at least not in th...   0.849265
+4  45  my advice is rent this movie before you buy it...   0.824304
+5   9  i saw this film when it was in theatres and up...   0.758308
+6  12  my husband and i watched the aristocrats he wi...   0.753069
+7  10  see it if you have n t already ideally with a ...   0.704606
+8  11  not only is this rip off a poor production val...   0.685075
+9   7  the subject of this documentary film is one jo...   0.502545
+
+step 1
+index added: 46
+percentage unclustered: 75.3846%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [9, 23, 45, 46]
+			old information: 8782, gain: 0.9411910453957986
+
+    ind                                             review  relevance
+0   20  the aristocrats is a hilarious wildly irrevere...   0.882497
+1   17  how is it possible for a group of filmmakers t...   0.864127
+2   21  nothing is further from the truth than the sub...   0.861197
+3   14  this movie is not offensive at least not in th...   0.849265
+4   45  my advice is rent this movie before you buy it...   0.824304
+5   46  i am staring this reviewing by saying i did no...   0.770538
+6    9  i saw this film when it was in theatres and up...   0.758308
+7   12  my husband and i watched the aristocrats he wi...   0.753069
+8   10  see it if you have n t already ideally with a ...   0.704606
+9   11  not only is this rip off a poor production val...   0.685075
+10   7  the subject of this documentary film is one jo...   0.502545
+
+step 1
+index added: 47
+percentage unclustered: 75.3846%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [6, 14, 17, 21]
+
+step 1
+index added: 48
+percentage unclustered: 76.1538%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 76.1538%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 76.1538%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 75.3846%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 75.3846%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 73.8462%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 73.0769%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 73.0769%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 72.3077%
+
+	step 2
+
+		step 3
+		candidate index: 56 with core nodes: [6, 14, 17, 21]
+
+step 1
+index added: 57
+percentage unclustered: 72.3077%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 72.3077%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 72.3077%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 71.5385%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 70.7692%
+
+	step 2
+
+		step 3
+		candidate index: 61 with core nodes: [14, 20, 21]
+
+step 1
+index added: 62
+percentage unclustered: 70.7692%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 70.7692%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 70.7692%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 70.7692%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 71.5385%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 71.5385%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 71.5385%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 71.5385%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 71.5385%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 72.3077%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 72.3077%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 71.5385%
+
+	step 2
+
+		step 3
+		candidate index: 73 with core nodes: [6, 14, 17, 20]
+
+step 1
+index added: 74
+percentage unclustered: 70.7692%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 70.7692%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 73.0769%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 69.2308%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 69.2308%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 68.4615%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 68.4615%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 68.4615%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 65.3846%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 65.3846%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 65.3846%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 65.3846%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 64.6154%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 63.8462%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 63.8462%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 63.0769%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 56.9231%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 56.9231%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 56.1538%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 55.3846%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 53.8462%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 53.0769%
+
+	step 2
+
+		step 3
+		candidate index: 96 with core nodes: [12, 20, 50]
+
+step 1
+index added: 97
+percentage unclustered: 56.1538%
+
+	step 2
+
+		step 3
+		candidate index: 97 with core nodes: [12, 20, 50]
+
+step 1
+index added: 98
+percentage unclustered: 55.3846%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 55.3846%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 56.9231%
+
+	step 2
+
+		step 3
+		candidate index: 100 with core nodes: [12, 17, 50, 59, 73]
+
+step 1
+index added: 101
+percentage unclustered: 56.1538%
+
+	step 2
+
+		step 3
+		candidate index: 101 with core nodes: [12, 17, 50, 59, 73]
+
+step 1
+index added: 102
+percentage unclustered: 56.1538%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 56.1538%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 53.8462%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 52.3077%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 51.5385%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 51.5385%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 51.5385%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 51.5385%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 51.5385%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 51.5385%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 50.7692%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 50.7692%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 50.7692%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 48.4615%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 48.4615%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 52.3077%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 52.3077%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 51.5385%
+
+	step 2
+
+		step 3
+		candidate index: 121 with core nodes: [45, 63, 66]
+
+step 1
+index added: 122
+percentage unclustered: 51.5385%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 52.3077%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 53.8462%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 53.8462%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 53.0769%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 53.0769%
+
+	step 2
+
+		step 3
+		candidate index: 127 with core nodes: [45, 63, 66]
+
+step 1
+index added: 128
+percentage unclustered: 52.3077%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 51.5385%
+
+	step 2
+
+--- 778.4047145843506 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 97.6923, 97.6923, 95.3846, 94.6154, 93.8462, 93.0769, 93.0769, 90.7692, 90.7692, 90.7692, 90.0, 87.6923, 86.9231, 86.1538, 85.3846, 84.6154, 86.9231, 86.9231, 86.1538, 86.1538, 85.3846, 85.3846, 85.3846, 84.6154, 84.6154, 82.3077, 81.5385, 81.5385, 81.5385, 81.5385, 81.5385, 81.5385, 80.0, 80.0, 80.0, 79.2308, 79.2308, 79.2308, 76.9231, 75.3846, 75.3846, 76.1538, 76.1538, 76.1538, 75.3846, 75.3846, 73.8462, 73.0769, 73.0769, 72.3077, 72.3077, 72.3077, 72.3077, 71.5385, 70.7692, 70.7692, 70.7692, 70.7692, 70.7692, 71.5385, 71.5385, 71.5385, 71.5385, 71.5385, 72.3077, 72.3077, 71.5385, 70.7692, 70.7692, 73.0769, 69.2308, 70.0, 69.2308, 68.4615, 68.4615, 68.4615, 65.3846, 65.3846, 65.3846, 65.3846, 64.6154, 63.8462, 63.8462, 63.0769, 56.9231, 56.9231, 56.1538, 55.3846, 53.8462, 53.0769, 56.1538, 55.3846, 55.3846, 56.9231, 56.1538, 56.1538, 56.1538, 53.8462, 52.3077, 51.5385, 51.5385, 51.5385, 51.5385, 51.5385, 51.5385, 50.7692, 50.7692, 50.7692, 50.0, 50.0, 48.4615, 48.4615, 52.3077, 52.3077, 51.5385, 51.5385, 52.3077, 53.8462, 53.8462, 53.0769, 53.0769, 52.3077, 51.5385], mean: 71.1478
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0       107  20   0.882497  the aristocrats is a hilarious wildly irrevere...
+1        46  17   0.864127  how is it possible for a group of filmmakers t...
+2       108  21   0.861197  nothing is further from the truth than the sub...
+3        45  14   0.849265  this movie is not offensive at least not in th...
+4        61  45   0.824304  my advice is rent this movie before you buy it...
+5        49  46   0.770538  i am staring this reviewing by saying i did no...
+6       103   9   0.758308  i saw this film when it was in theatres and up...
+7        57  12   0.753069  my husband and i watched the aristocrats he wi...
+8       104  10   0.704606  see it if you have n t already ideally with a ...
+9       105  11   0.685075  not only is this rip off a poor production val...
+10       33   7   0.502545  the subject of this documentary film is one jo...

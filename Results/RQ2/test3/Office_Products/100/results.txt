@@ -1,0 +1,784 @@
+------- Category: Office_Products -------
+Found asin_id: B00006IFI5
+Shape:  (100, 7)
+
+
+Chosen product: B00006IFI5 has 100 reviews - True, it has 100 reviews
+
+Nr of stopwords in review: ['24/48', '52/88', '93/176', '32/61', '151/391', '42/113', '37/63', '45/86', '53/100', '32/58', '28/57', '12/26', '149/316', '82/157', '36/61', '21/40', '174/354', '73/182', '93/192', '20/44', '43/92', '41/73', '54/95', '25/43', '70/171', '9/19', '22/43', '25/53', '64/113', '11/23', '31/65', '51/109', '28/58', '46/96', '43/89', '41/91', '56/116', '16/33', '11/21', '33/52', '88/163', '19/34', '22/45', '35/74', '6/22', '176/339', '47/88', '53/99', '52/103', '69/130', '14/27', '65/153', '17/31', '42/87', '23/45', '32/53', '15/30', '109/283', '21/33', '24/52', '76/178', '113/287', '110/223', '13/27', '11/23', '47/114', '44/89', '122/227', '112/229', '23/51', '81/170', '72/159', '91/195', '36/67', '13/24', '32/61', '47/98', '38/77', '15/27', '107/198', '80/158', '85/182', '42/77', '58/127', '34/68', '12/26', '34/77', '107/222', '93/264', '21/40', '18/41', '49/89', '23/44', '149/293', '20/38', '139/313', '16/29', '18/42', '162/340', '19/39'], on average: 0.4947
+Nr of stopwords in summary: ['1/4', '12/21', '3/11', '0/4', '4/9', '1/3', '1/3', '2/3', '0/1', '0/1', '4/7', '5/10', '7/13', '6/11', '0/2', '1/7', '2/9', '0/3', '5/8', '0/1', '5/9', '4/9', '0/1', '5/8', '1/9', '5/10', '2/5', '2/3', '0/2', '2/4', '2/3', '2/7', '3/8', '6/10', '4/12', '5/6', '0/5', '0/1', '2/5', '2/5', '1/3', '0/1', '0/8', '3/10', '2/7', '7/12', '0/1', '0/3', '1/3', '0/2', '1/3', '4/8', '0/2', '1/3', '0/3', '2/4', '5/8', '2/8', '1/4', '0/1', '6/13', '5/10', '3/4', '3/8', '4/6', '1/3', '1/3', '0/1', '6/10', '3/9', '1/4', '1/2', '1/7', '0/1', '0/2', '0/2', '1/4', '0/4', '2/4', '6/10', '6/11', '1/5', '5/10', '2/4', '0/4', '5/9', '1/3', '0/2', '2/5', '0/1', '0/2', '6/9', '0/2', '2/8', '0/2', '1/4', '2/4', '0/2', '5/9', '1/3'], on average: 0.3053
+
+Duplicate reviewers?:  68    A1X1CEGHTHMBL1
+Name: reviewerID, dtype: object
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 97.0%
+
+	step 2
+
+		step 3
+		candidate index: 3 with core nodes: [0, 2, 3]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   3  they are perfect for the goody bags i wanted t...   0.511204
+
+step 1
+index added: 4
+percentage unclustered: 97.0%
+
+	step 2
+
+step 1
+index added: 5
+percentage unclustered: 96.0%
+
+	step 2
+
+		step 3
+		candidate index: 5 with core nodes: [0, 2, 3, 5]
+			old information: 60, gain: 0.9905183312262958
+
+   ind                                             review  relevance
+0   5  i bought these to use in my coloring books the...   0.611350
+1   3  they are perfect for the goody bags i wanted t...   0.511204
+
+step 1
+index added: 6
+percentage unclustered: 95.0%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [2, 3, 5, 6]
+			old information: 261, gain: 0.8663594470046083
+
+   ind                                             review  relevance
+0   5  i bought these to use in my coloring books the...   0.611350
+1   6  i love these sharpie pens they are great with ...   0.605287
+2   3  they are perfect for the goody bags i wanted t...   0.511204
+
+step 1
+index added: 7
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 94.0%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [2, 3, 5, 6, 10]
+			old information: 149, gain: 0.906641604010025
+
+   ind                                             review  relevance
+0   5  i bought these to use in my coloring books the...   0.611350
+1   6  i love these sharpie pens they are great with ...   0.605287
+2  10  received these tonight i was hoping to be able...   0.566517
+3   3  they are perfect for the goody bags i wanted t...   0.511204
+
+step 1
+index added: 11
+percentage unclustered: 93.0%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [2, 3, 5, 6, 10]
+
+step 1
+index added: 12
+percentage unclustered: 93.0%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [2, 5, 6, 12]
+			old information: 944, gain: 0.9810327506530038
+
+   ind                                             review  relevance
+0  12  i am a sharpie devotee i use them for my artwo...   0.703115
+1   5  i bought these to use in my coloring books the...   0.611350
+2   6  i love these sharpie pens they are great with ...   0.605287
+3  10  received these tonight i was hoping to be able...   0.566517
+4   3  they are perfect for the goody bags i wanted t...   0.511204
+
+step 1
+index added: 13
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 93.0%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [2, 5, 6, 10]
+
+step 1
+index added: 18
+percentage unclustered: 93.0%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 93.0%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 89.0%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [2, 3, 4, 12, 17, 20]
+			old information: 401, gain: 0.9042044911610129
+
+   ind                                             review  relevance
+0  12  i am a sharpie devotee i use them for my artwo...   0.703115
+1   5  i bought these to use in my coloring books the...   0.611350
+2   6  i love these sharpie pens they are great with ...   0.605287
+3  10  received these tonight i was hoping to be able...   0.566517
+4  20  these are the best for writing on black plasti...   0.553258
+5   3  they are perfect for the goody bags i wanted t...   0.511204
+
+step 1
+index added: 21
+percentage unclustered: 91.0%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 91.0%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 91.0%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 87.0%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [2, 12, 13, 24]
+			old information: 1075, gain: 0.9260405916752666
+
+   ind                                             review  relevance
+0  12  i am a sharpie devotee i use them for my artwo...   0.703115
+1  24  i love me some black ultra fine point sharpies...   0.689114
+2   5  i bought these to use in my coloring books the...   0.611350
+3   6  i love these sharpie pens they are great with ...   0.605287
+4  10  received these tonight i was hoping to be able...   0.566517
+5  20  these are the best for writing on black plasti...   0.553258
+6   3  they are perfect for the goody bags i wanted t...   0.511204
+
+step 1
+index added: 25
+percentage unclustered: 86.0%
+
+	step 2
+
+		step 3
+		candidate index: 25 with core nodes: [2, 12, 13, 24]
+
+step 1
+index added: 26
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 89.0%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [2, 12, 28]
+			old information: 630, gain: 0.9004424778761062
+
+   ind                                             review  relevance
+0  12  i am a sharpie devotee i use them for my artwo...   0.703115
+1  24  i love me some black ultra fine point sharpies...   0.689114
+2  28  these markers come in very pretty colors i lik...   0.673656
+3   5  i bought these to use in my coloring books the...   0.611350
+4   6  i love these sharpie pens they are great with ...   0.605287
+5  10  received these tonight i was hoping to be able...   0.566517
+6  20  these are the best for writing on black plasti...   0.553258
+7   3  they are perfect for the goody bags i wanted t...   0.511204
+
+step 1
+index added: 29
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 83.0%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [16, 28, 31]
+
+step 1
+index added: 33
+percentage unclustered: 83.0%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 83.0%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 83.0%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 83.0%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 83.0%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 83.0%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 79.0%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 81.0%
+
+	step 2
+
+		step 3
+		candidate index: 57 with core nodes: [2, 16, 57]
+			old information: 3192, gain: 0.9200060145853696
+
+   ind                                             review  relevance
+0  12  i am a sharpie devotee i use them for my artwo...   0.703115
+1  57  i bought these on a whim at a brick and mortar...   0.701468
+2  24  i love me some black ultra fine point sharpies...   0.689114
+3  28  these markers come in very pretty colors i lik...   0.673656
+4   5  i bought these to use in my coloring books the...   0.611350
+5   6  i love these sharpie pens they are great with ...   0.605287
+6  10  received these tonight i was hoping to be able...   0.566517
+7  20  these are the best for writing on black plasti...   0.553258
+8   3  they are perfect for the goody bags i wanted t...   0.511204
+
+step 1
+index added: 58
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 79.0%
+
+	step 2
+
+		step 3
+		candidate index: 61 with core nodes: [2, 16, 57]
+
+step 1
+index added: 62
+percentage unclustered: 79.0%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 79.0%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 79.0%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 79.0%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 78.0%
+
+	step 2
+
+		step 3
+		candidate index: 66 with core nodes: [2, 16, 57]
+
+step 1
+index added: 67
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 67.0%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 74.0%
+
+	step 2
+
+		step 3
+		candidate index: 75 with core nodes: [2, 16, 57]
+
+step 1
+index added: 76
+percentage unclustered: 73.0%
+
+	step 2
+
+		step 3
+		candidate index: 76 with core nodes: [2, 16, 57]
+
+step 1
+index added: 77
+percentage unclustered: 72.0%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 71.0%
+
+	step 2
+
+		step 3
+		candidate index: 78 with core nodes: [2, 16, 57]
+
+step 1
+index added: 79
+percentage unclustered: 71.0%
+
+	step 2
+
+		step 3
+		candidate index: 79 with core nodes: [2, 16, 79]
+			old information: 1555, gain: 0.9202686766138543
+
+   ind                                             review  relevance
+0  79  i have so many black cables from various compu...   0.773578
+1  12  i am a sharpie devotee i use them for my artwo...   0.703115
+2  57  i bought these on a whim at a brick and mortar...   0.701468
+3  24  i love me some black ultra fine point sharpies...   0.689114
+4  28  these markers come in very pretty colors i lik...   0.673656
+5   5  i bought these to use in my coloring books the...   0.611350
+6   6  i love these sharpie pens they are great with ...   0.605287
+7  10  received these tonight i was hoping to be able...   0.566517
+8  20  these are the best for writing on black plasti...   0.553258
+9   3  they are perfect for the goody bags i wanted t...   0.511204
+
+step 1
+index added: 80
+percentage unclustered: 71.0%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 81 with core nodes: [2, 16, 79]
+
+step 1
+index added: 82
+percentage unclustered: 73.0%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 73.0%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 73.0%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 73.0%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 73.0%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 76.0%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 76.0%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 76.0%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 71.0%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 95 with core nodes: [2, 16, 79]
+
+step 1
+index added: 96
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 69.0%
+
+	step 2
+
+		step 3
+		candidate index: 98 with core nodes: [2, 16, 79]
+			old information: 3701, gain: 0.935779975707097
+
+    ind                                             review  relevance
+0   79  i have so many black cables from various compu...   0.773578
+1   98  when i first discovered the sharpie permanent ...   0.768222
+2   12  i am a sharpie devotee i use them for my artwo...   0.703115
+3   57  i bought these on a whim at a brick and mortar...   0.701468
+4   24  i love me some black ultra fine point sharpies...   0.689114
+5   28  these markers come in very pretty colors i lik...   0.673656
+6    5  i bought these to use in my coloring books the...   0.611350
+7    6  i love these sharpie pens they are great with ...   0.605287
+8   10  received these tonight i was hoping to be able...   0.566517
+9   20  these are the best for writing on black plasti...   0.553258
+10   3  they are perfect for the goody bags i wanted t...   0.511204
+
+step 1
+index added: 99
+percentage unclustered: 68.0%
+
+	step 2
+
+--- 75.56261157989502 seconds ---
+
+
+ Unclustered percentages: [100.0, 97.0, 97.0, 96.0, 95.0, 95.0, 95.0, 95.0, 94.0, 93.0, 93.0, 94.0, 94.0, 94.0, 94.0, 93.0, 93.0, 93.0, 89.0, 91.0, 91.0, 91.0, 87.0, 86.0, 90.0, 90.0, 89.0, 86.0, 85.0, 90.0, 83.0, 83.0, 83.0, 83.0, 83.0, 83.0, 83.0, 82.0, 82.0, 82.0, 82.0, 78.0, 82.0, 82.0, 82.0, 82.0, 82.0, 82.0, 82.0, 82.0, 79.0, 78.0, 78.0, 78.0, 78.0, 81.0, 80.0, 80.0, 80.0, 79.0, 79.0, 79.0, 79.0, 79.0, 78.0, 78.0, 78.0, 78.0, 66.0, 67.0, 78.0, 78.0, 75.0, 74.0, 73.0, 72.0, 71.0, 71.0, 71.0, 70.0, 73.0, 73.0, 73.0, 73.0, 73.0, 75.0, 75.0, 75.0, 75.0, 76.0, 76.0, 76.0, 71.0, 70.0, 70.0, 70.0, 69.0, 68.0], mean: 81.7245
+
+Final Ranking:
+    ranking  ...                                             review
+0        81  ...  i have so many black cables from various compu...
+1        25  ...  when i first discovered the sharpie permanent ...
+2        61  ...  i am a sharpie devotee i use them for my artwo...
+3         4  ...  i bought these on a whim at a brick and mortar...
+4        53  ...  i love me some black ultra fine point sharpies...
+5        65  ...  these markers come in very pretty colors i lik...
+6        18  ...  i bought these to use in my coloring books the...
+7        35  ...  i love these sharpie pens they are great with ...
+8        58  ...  received these tonight i was hoping to be able...
+9        74  ...  these are the best for writing on black plasti...
+10       21  ...  they are perfect for the goody bags i wanted t...
+
+[11 rows x 4 columns]

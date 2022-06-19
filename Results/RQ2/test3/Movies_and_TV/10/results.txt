@@ -1,0 +1,70 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 0767817648
+Shape:  (10, 7)
+Shape after:  (10, 7)
+
+
+Chosen product: 0767817648 has 10 reviews - True, it has 10 reviews
+
+Nr of stopwords in review: ['154/376', '150/350', '28/54', '669/1534', '80/198', '92/199', '39/94', '69/162', '30/75', '107/244'], on average: 0.4338
+Nr of stopwords in summary: ['1/6', '3/6', '0/3', '12/23', '1/4', '2/5', '1/4', '0/3', '4/7', '3/6'], on average: 0.316
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 5 with core nodes: [0, 4, 5]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   5  this special edition turned out to be not so s...   0.622507
+
+step 1
+index added: 6
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 70.0%
+
+	step 2
+
+--- 1.00600004196167 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 70.0, 70.0, 70.0, 70.0, 70.0], mean: 81.25
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0        2   5   0.622507  this special edition turned out to be not so s...

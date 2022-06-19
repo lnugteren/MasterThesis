@@ -1,0 +1,331 @@
+------- Category: Office_Products -------
+Found asin_id: B00000IGBF
+Shape:  (40, 7)
+
+
+Chosen product: B00000IGBF has 40 reviews - True, it has 40 reviews
+
+Nr of stopwords in review: ['73/143', '181/323', '67/125', '102/216', '15/31', '82/169', '79/147', '31/67', '192/365', '157/328', '170/358', '87/155', '44/94', '95/183', '44/102', '37/76', '49/103', '327/656', '77/146', '38/70', '78/161', '224/445', '48/85', '58/112', '62/128', '87/188', '28/49', '45/82', '62/127', '49/104', '14/31', '53/96', '73/125', '24/51', '45/100', '81/166', '62/117', '44/88', '131/235', '99/175'], on average: 0.5071
+Nr of stopwords in summary: ['5/10', '3/6', '1/3', '4/6', '1/3', '7/10', '6/12', '0/5', '0/5', '2/8', '3/6', '0/3', '2/7', '2/5', '0/2', '0/2', '2/6', '1/5', '0/3', '2/5', '2/5', '3/6', '5/8', '2/5', '6/13', '3/5', '4/5', '3/9', '2/5', '5/9', '1/6', '2/8', '1/2', '4/9', '0/1', '0/5', '1/4', '0/1', '5/10', '1/4'], on average: 0.3335
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 92.5%
+
+	step 2
+
+		step 3
+		candidate index: 5 with core nodes: [0, 3, 5]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   5  first i have to agree with the electronics fan...    0.62609
+
+step 1
+index added: 6
+percentage unclustered: 87.5%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [0, 1, 3, 6]
+			old information: 259, gain: 0.9758643183300717
+
+   ind                                             review  relevance
+0   6  it s a great machine and i m glad i purchaced ...   0.755299
+1   5  first i have to agree with the electronics fan...   0.626090
+
+step 1
+index added: 7
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [0, 1, 3, 6, 9]
+			old information: 1475, gain: 0.972495711195644
+
+   ind                                             review  relevance
+0   6  it s a great machine and i m glad i purchaced ...   0.755299
+1   9  it s been about a month since i got my palm ii...   0.748993
+2   5  first i have to agree with the electronics fan...   0.626090
+
+step 1
+index added: 10
+percentage unclustered: 82.5%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [1, 3, 6, 9, 10]
+			old information: 2904, gain: 0.954556124125628
+
+   ind                                             review  relevance
+0  10  as an obsessive compulsive middle management s...   0.827659
+1   6  it s a great machine and i m glad i purchaced ...   0.755299
+2   9  it s been about a month since i got my palm ii...   0.748993
+3   5  first i have to agree with the electronics fan...   0.626090
+
+step 1
+index added: 11
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [1, 3, 6, 9, 10]
+
+step 1
+index added: 13
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [0, 1, 3, 6]
+
+step 1
+index added: 17
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 75.0%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [1, 3, 6, 9, 10]
+
+step 1
+index added: 19
+percentage unclustered: 75.0%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [0, 1, 3, 6, 9]
+
+step 1
+index added: 20
+percentage unclustered: 75.0%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [1, 9, 10]
+
+step 1
+index added: 21
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 82.5%
+
+	step 2
+
+		step 3
+		candidate index: 23 with core nodes: [16, 21, 23]
+			old information: 1035, gain: 0.8334942084942085
+
+   ind                                             review  relevance
+0  10  as an obsessive compulsive middle management s...   0.827659
+1   6  it s a great machine and i m glad i purchaced ...   0.755299
+2   9  it s been about a month since i got my palm ii...   0.748993
+3  23  i bought palm iiix last semester it was very h...   0.682696
+4   5  first i have to agree with the electronics fan...   0.626090
+
+step 1
+index added: 24
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 67.5%
+
+	step 2
+
+		step 3
+		candidate index: 25 with core nodes: [1, 9, 25]
+			old information: 1407, gain: 0.9199567641369895
+
+   ind                                             review  relevance
+0  10  as an obsessive compulsive middle management s...   0.827659
+1  25  i have had a palm for the past two years and f...   0.789936
+2   6  it s a great machine and i m glad i purchaced ...   0.755299
+3   9  it s been about a month since i got my palm ii...   0.748993
+4  23  i bought palm iiix last semester it was very h...   0.682696
+5   5  first i have to agree with the electronics fan...   0.626090
+
+step 1
+index added: 26
+percentage unclustered: 65.0%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [17, 18, 21]
+
+step 1
+index added: 27
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 47.5%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [3, 6, 17, 18, 21]
+
+step 1
+index added: 31
+percentage unclustered: 47.5%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 40.0%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [10, 17, 21]
+
+step 1
+index added: 33
+percentage unclustered: 40.0%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 40.0%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 40.0%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 37.5%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [10, 17, 21]
+
+step 1
+index added: 37
+percentage unclustered: 37.5%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 35.0%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 35.0%
+
+	step 2
+
+--- 32.41240906715393 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 92.5, 87.5, 87.5, 87.5, 85.0, 82.5, 82.5, 80.0, 80.0, 80.0, 80.0, 85.0, 85.0, 75.0, 75.0, 75.0, 80.0, 85.0, 82.5, 82.5, 67.5, 65.0, 65.0, 60.0, 50.0, 47.5, 47.5, 40.0, 40.0, 40.0, 40.0, 37.5, 37.5, 35.0, 35.0], mean: 69.9342
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0        5  10   0.827659  as an obsessive compulsive middle management s...
+1       29  25   0.789936  i have had a palm for the past two years and f...
+2       14   6   0.755299  it s a great machine and i m glad i purchaced ...
+3       17   9   0.748993  it s been about a month since i got my palm ii...
+4       32  23   0.682696  i bought palm iiix last semester it was very h...
+5       20   5   0.626090  first i have to agree with the electronics fan...

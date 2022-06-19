@@ -1,0 +1,192 @@
+------- Category: Office_Products -------
+Found asin_id: 0310821800
+Shape:  (20, 7)
+
+
+Chosen product: 0310821800 has 20 reviews - True, it has 20 reviews
+
+Nr of stopwords in review: ['21/46', '12/29', '13/26', '30/59', '149/261', '7/13', '31/63', '75/189', '40/81', '39/77', '42/79', '20/40', '32/58', '11/27', '17/40', '20/37', '30/66', '35/63', '13/29', '36/69'], on average: 0.4907
+Nr of stopwords in summary: ['2/4', '0/2', '2/5', '7/12', '8/12', '0/2', '7/12', '7/14', '1/2', '5/11', '3/6', '7/10', '1/3', '0/3', '0/4', '0/2', '0/2', '0/3', '1/2', '0/1'], on average: 0.3111
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 4 with core nodes: [0, 2, 4]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   4  this bag will work just fine for what i wanted...   0.576198
+
+step 1
+index added: 5
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 6
+percentage unclustered: 75.0%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [0, 3, 4, 6]
+			old information: 335, gain: 0.8284690220174091
+
+   ind                                             review  relevance
+0   6  attractive looking carrier but i just bought i...   0.616387
+1   4  this bag will work just fine for what i wanted...   0.576198
+
+step 1
+index added: 7
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [3, 4, 6]
+			old information: 827, gain: 0.9534504108972194
+
+   ind                                             review  relevance
+0   6  attractive looking carrier but i just bought i...   0.616387
+1   4  this bag will work just fine for what i wanted...   0.576198
+2   7  note that this case nbsp a data hook product l...   0.562237
+
+step 1
+index added: 8
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 55.0%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [2, 4, 7, 9, 10, 11]
+			old information: 190, gain: 0.7564102564102564
+
+   ind                                             review  relevance
+0   6  attractive looking carrier but i just bought i...   0.616387
+1  11  i love it i have a large bible and had a hard ...   0.600495
+2   4  this bag will work just fine for what i wanted...   0.576198
+3   7  note that this case nbsp a data hook product l...   0.562237
+
+step 1
+index added: 12
+percentage unclustered: 55.0%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 50.0%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [2, 4, 7, 9, 10, 11]
+
+step 1
+index added: 14
+percentage unclustered: 45.0%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [2, 4, 7, 9, 10, 11]
+
+step 1
+index added: 15
+percentage unclustered: 55.0%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [9, 14, 16, 17]
+			old information: 302, gain: 0.8453661034306196
+
+   ind                                             review  relevance
+0  17  the cover is excellent and as advertised the l...   0.656403
+1   6  attractive looking carrier but i just bought i...   0.616387
+2  11  i love it i have a large bible and had a hard ...   0.600495
+3   4  this bag will work just fine for what i wanted...   0.576198
+4   7  note that this case nbsp a data hook product l...   0.562237
+
+step 1
+index added: 18
+percentage unclustered: 40.0%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [2, 7, 10, 11, 18]
+			old information: 145, gain: 0.6428571428571429
+
+   ind                                             review  relevance
+0  17  the cover is excellent and as advertised the l...   0.656403
+1   6  attractive looking carrier but i just bought i...   0.616387
+2  11  i love it i have a large bible and had a hard ...   0.600495
+3   4  this bag will work just fine for what i wanted...   0.576198
+4   7  note that this case nbsp a data hook product l...   0.562237
+5  18  it is made from very good material and very we...   0.487369
+
+step 1
+index added: 19
+percentage unclustered: 40.0%
+
+	step 2
+
+--- 4.384977579116821 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 85.0, 85.0, 75.0, 70.0, 70.0, 80.0, 60.0, 55.0, 55.0, 50.0, 45.0, 55.0, 85.0, 70.0, 40.0, 40.0], mean: 67.7778
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0       16  17   0.656403  the cover is excellent and as advertised the l...
+1       12   6   0.616387  attractive looking carrier but i just bought i...
+2       19  11   0.600495  i love it i have a large bible and had a hard ...
+3        1   4   0.576198  this bag will work just fine for what i wanted...
+4        7   7   0.562237  note that this case nbsp a data hook product l...
+5       10  18   0.487369  it is made from very good material and very we...

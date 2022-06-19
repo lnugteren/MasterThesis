@@ -1,0 +1,767 @@
+------- Category: Office_Products -------
+Found asin_id: B00M9GTHS4
+Shape:  (90, 7)
+
+
+Chosen product: B00M9GTHS4 has 90 reviews - True, it has 90 reviews
+
+Nr of stopwords in review: ['41/73', '148/313', '62/130', '67/136', '120/263', '51/95', '30/70', '55/111', '44/98', '46/124', '91/177', '68/152', '75/164', '166/313', '25/43', '174/417', '460/891', '23/47', '137/258', '388/820', '52/110', '92/200', '197/426', '94/174', '135/254', '77/184', '182/334', '95/200', '463/1081', '98/188', '45/88', '41/85', '200/374', '155/322', '156/314', '31/70', '42/81', '61/126', '48/80', '63/119', '73/182', '177/398', '154/312', '106/236', '65/140', '42/94', '206/413', '111/235', '215/450', '201/428', '27/68', '20/33', '36/61', '101/214', '103/190', '38/70', '63/129', '70/144', '92/225', '109/237', '35/77', '303/597', '19/41', '56/115', '98/197', '70/158', '40/86', '52/114', '35/65', '80/170', '23/48', '68/121', '25/66', '16/33', '44/103', '62/121', '72/124', '186/432', '258/512', '285/632', '60/120', '112/254', '36/74', '20/55', '79/140', '417/825', '14/30', '47/80', '212/420', '163/321'], on average: 0.4863
+Nr of stopwords in summary: ['0/2', '2/6', '1/3', '4/9', '0/7', '3/5', '1/6', '8/12', '0/3', '2/6', '4/7', '0/5', '3/7', '3/5', '7/10', '0/4', '1/5', '4/7', '3/8', '2/9', '2/4', '7/18', '6/17', '2/7', '1/4', '5/9', '2/5', '1/6', '4/11', '2/8', '0/2', '1/2', '6/14', '6/12', '1/7', '0/2', '2/7', '4/7', '9/16', '3/6', '1/3', '1/8', '0/7', '3/8', '0/3', '5/11', '4/13', '5/11', '3/9', '6/12', '3/7', '11/17', '1/2', '2/4', '2/7', '1/4', '3/6', '2/9', '3/8', '5/10', '0/6', '0/2', '0/4', '2/7', '6/18', '3/8', '3/9', '4/12', '1/2', '1/2', '0/1', '9/16', '11/21', '2/5', '1/3', '6/10', '3/5', '4/8', '1/2', '5/12', '4/6', '2/7', '0/1', '0/4', '13/23', '5/9', '0/1', '0/5', '5/9', '1/7'], on average: 0.339
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 96.6667%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [3, 6, 7]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   7  we have used quicken since it ran on dos 20 or...   0.522216
+
+step 1
+index added: 8
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 96.6667%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [3, 6, 10]
+			old information: 235, gain: 0.9849126861838726
+
+   ind                                             review  relevance
+0  10  this is a review sent to intuit for a download...   0.546572
+1   7  we have used quicken since it ran on dos 20 or...   0.522216
+
+step 1
+index added: 11
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 94.4444%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [2, 3, 10, 12]
+			old information: 793, gain: 0.9406703576238217
+
+   ind                                             review  relevance
+0  12  i worked in accounting for years then got my m...   0.658983
+1  10  this is a review sent to intuit for a download...   0.546572
+2   7  we have used quicken since it ran on dos 20 or...   0.522216
+
+step 1
+index added: 13
+percentage unclustered: 94.4444%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 93.3333%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [2, 3, 10, 12]
+			old information: 183, gain: 0.7973421926910299
+
+   ind                                             review  relevance
+0  12  i worked in accounting for years then got my m...   0.658983
+1  14  have been using it for decades but suddenly it...   0.580261
+2  10  this is a review sent to intuit for a download...   0.546572
+3   7  we have used quicken since it ran on dos 20 or...   0.522216
+
+step 1
+index added: 15
+percentage unclustered: 92.2222%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [3, 10, 12, 15]
+			old information: 2463, gain: 0.971603486441616
+
+   ind                                             review  relevance
+0  15  intuit recently informed me they will not supp...   0.747623
+1  12  i worked in accounting for years then got my m...   0.658983
+2  14  have been using it for decades but suddenly it...   0.580261
+3  10  this is a review sent to intuit for a download...   0.546572
+4   7  we have used quicken since it ran on dos 20 or...   0.522216
+
+step 1
+index added: 16
+percentage unclustered: 94.4444%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [6, 12, 15, 16]
+			old information: 6403, gain: 0.9838509943378857
+
+   ind                                             review  relevance
+0  16  this will probably be a lot longer than any of...   0.813371
+1  15  intuit recently informed me they will not supp...   0.747623
+2  12  i worked in accounting for years then got my m...   0.658983
+3  14  have been using it for decades but suddenly it...   0.580261
+4  10  this is a review sent to intuit for a download...   0.546572
+5   7  we have used quicken since it ran on dos 20 or...   0.522216
+
+step 1
+index added: 17
+percentage unclustered: 94.4444%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 94.4444%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 92.2222%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [12, 15, 16, 21]
+			old information: 2109, gain: 0.8940201005025126
+
+   ind                                             review  relevance
+0  16  this will probably be a lot longer than any of...   0.813371
+1  21  i have been using quicken for about 10 years u...   0.774054
+2  15  intuit recently informed me they will not supp...   0.747623
+3  12  i worked in accounting for years then got my m...   0.658983
+4  14  have been using it for decades but suddenly it...   0.580261
+5  10  this is a review sent to intuit for a download...   0.546572
+6   7  we have used quicken since it ran on dos 20 or...   0.522216
+
+step 1
+index added: 22
+percentage unclustered: 86.6667%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [13, 16, 19]
+			old information: 4724, gain: 0.947815520574427
+
+   ind                                             review  relevance
+0  16  this will probably be a lot longer than any of...   0.813371
+1  21  i have been using quicken for about 10 years u...   0.774054
+2  15  intuit recently informed me they will not supp...   0.747623
+3  22  i ve been using quicken since it originally wa...   0.731726
+4  12  i worked in accounting for years then got my m...   0.658983
+5  14  have been using it for decades but suddenly it...   0.580261
+6  10  this is a review sent to intuit for a download...   0.546572
+7   7  we have used quicken since it ran on dos 20 or...   0.522216
+
+step 1
+index added: 23
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 85.5556%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [13, 16, 19]
+
+step 1
+index added: 25
+percentage unclustered: 85.5556%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 82.2222%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [13, 16, 19, 26]
+			old information: 5236, gain: 0.9058459657262052
+
+   ind                                             review  relevance
+0  16  this will probably be a lot longer than any of...   0.813371
+1  26  away from this software you are better off usi...   0.787925
+2  21  i have been using quicken for about 10 years u...   0.774054
+3  15  intuit recently informed me they will not supp...   0.747623
+4  22  i ve been using quicken since it originally wa...   0.731726
+5  12  i worked in accounting for years then got my m...   0.658983
+6  14  have been using it for decades but suddenly it...   0.580261
+7  10  this is a review sent to intuit for a download...   0.546572
+8   7  we have used quicken since it ran on dos 20 or...   0.522216
+
+step 1
+index added: 27
+percentage unclustered: 82.2222%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 81.1111%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [13, 16, 19, 26]
+
+step 1
+index added: 29
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 78.8889%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [13, 16, 19, 32]
+			old information: 5086, gain: 0.9270834826740836
+
+   ind                                             review  relevance
+0  16  this will probably be a lot longer than any of...   0.813371
+1  32  a little about me so you do n t think i am inc...   0.807175
+2  26  away from this software you are better off usi...   0.787925
+3  21  i have been using quicken for about 10 years u...   0.774054
+4  15  intuit recently informed me they will not supp...   0.747623
+5  22  i ve been using quicken since it originally wa...   0.731726
+6  12  i worked in accounting for years then got my m...   0.658983
+7  14  have been using it for decades but suddenly it...   0.580261
+8  10  this is a review sent to intuit for a download...   0.546572
+9   7  we have used quicken since it ran on dos 20 or...   0.522216
+
+step 1
+index added: 33
+percentage unclustered: 87.7778%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 84.4444%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [15, 16, 26, 34]
+			old information: 5448, gain: 0.8891353452310697
+
+    ind                                             review  relevance
+0   16  this will probably be a lot longer than any of...   0.813371
+1   32  a little about me so you do n t think i am inc...   0.807175
+2   34  i rarely write reviews on amazon but i am so f...   0.801228
+3   26  away from this software you are better off usi...   0.787925
+4   21  i have been using quicken for about 10 years u...   0.774054
+5   15  intuit recently informed me they will not supp...   0.747623
+6   22  i ve been using quicken since it originally wa...   0.731726
+7   12  i worked in accounting for years then got my m...   0.658983
+8   14  have been using it for decades but suddenly it...   0.580261
+9   10  this is a review sent to intuit for a download...   0.546572
+10   7  we have used quicken since it ran on dos 20 or...   0.522216
+
+step 1
+index added: 35
+percentage unclustered: 85.5556%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [15, 16, 26, 34]
+
+step 1
+index added: 36
+percentage unclustered: 85.5556%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 85.5556%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [15, 26, 34]
+
+step 1
+index added: 39
+percentage unclustered: 82.2222%
+
+	step 2
+
+		step 3
+		candidate index: 39 with core nodes: [15, 26, 39]
+			old information: 1933, gain: 0.7246830935764136
+
+    ind                                             review  relevance
+0   16  this will probably be a lot longer than any of...   0.813371
+1   32  a little about me so you do n t think i am inc...   0.807175
+2   34  i rarely write reviews on amazon but i am so f...   0.801228
+3   26  away from this software you are better off usi...   0.787925
+4   21  i have been using quicken for about 10 years u...   0.774054
+5   15  intuit recently informed me they will not supp...   0.747623
+6   22  i ve been using quicken since it originally wa...   0.731726
+7   39  i wanted to get the new year off on the right ...   0.705556
+8   12  i worked in accounting for years then got my m...   0.658983
+9   14  have been using it for decades but suddenly it...   0.580261
+10  10  this is a review sent to intuit for a download...   0.546572
+11   7  we have used quicken since it ran on dos 20 or...   0.522216
+
+step 1
+index added: 40
+percentage unclustered: 82.2222%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 81.1111%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [5, 16, 21, 41]
+			old information: 7422, gain: 0.9060542004733998
+
+    ind                                             review  relevance
+0   41  i purchased quicken deluxe 2015 for windows fr...   0.819294
+1   16  this will probably be a lot longer than any of...   0.813371
+2   32  a little about me so you do n t think i am inc...   0.807175
+3   34  i rarely write reviews on amazon but i am so f...   0.801228
+4   26  away from this software you are better off usi...   0.787925
+5   21  i have been using quicken for about 10 years u...   0.774054
+6   15  intuit recently informed me they will not supp...   0.747623
+7   22  i ve been using quicken since it originally wa...   0.731726
+8   39  i wanted to get the new year off on the right ...   0.705556
+9   12  i worked in accounting for years then got my m...   0.658983
+10  14  have been using it for decades but suddenly it...   0.580261
+11  10  this is a review sent to intuit for a download...   0.546572
+12   7  we have used quicken since it ran on dos 20 or...   0.522216
+
+step 1
+index added: 42
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [5, 16, 21, 41]
+
+step 1
+index added: 48
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 75.5556%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [16, 41, 49]
+			old information: 7979, gain: 0.9126813893935083
+
+    ind                                             review  relevance
+0   49  i have been a quicken user since 1997 although...   0.832043
+1   41  i purchased quicken deluxe 2015 for windows fr...   0.819294
+2   16  this will probably be a lot longer than any of...   0.813371
+3   32  a little about me so you do n t think i am inc...   0.807175
+4   34  i rarely write reviews on amazon but i am so f...   0.801228
+5   26  away from this software you are better off usi...   0.787925
+6   21  i have been using quicken for about 10 years u...   0.774054
+7   15  intuit recently informed me they will not supp...   0.747623
+8   22  i ve been using quicken since it originally wa...   0.731726
+9   39  i wanted to get the new year off on the right ...   0.705556
+10  12  i worked in accounting for years then got my m...   0.658983
+11  14  have been using it for decades but suddenly it...   0.580261
+12  10  this is a review sent to intuit for a download...   0.546572
+13   7  we have used quicken since it ran on dos 20 or...   0.522216
+
+step 1
+index added: 50
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 82.2222%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 78.8889%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 78.8889%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 78.8889%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 55 with core nodes: [16, 19, 26, 32, 41, 48, 49]
+
+step 1
+index added: 56
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 78.8889%
+
+	step 2
+
+		step 3
+		candidate index: 57 with core nodes: [5, 16, 41, 49]
+
+step 1
+index added: 58
+percentage unclustered: 78.8889%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 78.8889%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 78.8889%
+
+	step 2
+
+		step 3
+		candidate index: 65 with core nodes: [5, 16, 41, 49]
+
+step 1
+index added: 66
+percentage unclustered: 78.8889%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 78.8889%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 78.8889%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 78.8889%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 78.8889%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 77.7778%
+
+	step 2
+
+		step 3
+		candidate index: 80 with core nodes: [5, 16, 41]
+
+step 1
+index added: 81
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 72.2222%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 74.4444%
+
+	step 2
+
+--- 612.8639454841614 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 96.6667, 96.6667, 100.0, 96.6667, 96.6667, 94.4444, 94.4444, 93.3333, 92.2222, 94.4444, 94.4444, 94.4444, 95.5556, 95.5556, 92.2222, 86.6667, 86.6667, 85.5556, 85.5556, 82.2222, 82.2222, 81.1111, 81.1111, 81.1111, 81.1111, 78.8889, 87.7778, 84.4444, 85.5556, 85.5556, 85.5556, 80.0, 82.2222, 82.2222, 81.1111, 81.1111, 81.1111, 81.1111, 81.1111, 81.1111, 80.0, 76.66669999999999, 75.5556, 70.0, 82.2222, 78.8889, 78.8889, 78.8889, 76.66669999999999, 80.0, 78.8889, 78.8889, 78.8889, 80.0, 80.0, 80.0, 80.0, 80.0, 78.8889, 78.8889, 78.8889, 78.8889, 78.8889, 78.8889, 80.0, 80.0, 80.0, 80.0, 80.0, 81.1111, 81.1111, 81.1111, 81.1111, 77.7778, 77.7778, 77.7778, 77.7778, 72.2222, 73.33330000000001, 73.33330000000001, 73.33330000000001, 74.4444, 74.4444], mean: 83.6869
+
+Final Ranking:
+    ranking  ...                                             review
+0        37  ...  i have been a quicken user since 1997 although...
+1        21  ...  i purchased quicken deluxe 2015 for windows fr...
+2        27  ...  this will probably be a lot longer than any of...
+3        61  ...  a little about me so you do n t think i am inc...
+4        25  ...  i rarely write reviews on amazon but i am so f...
+5        29  ...  away from this software you are better off usi...
+6        59  ...  i have been using quicken for about 10 years u...
+7        77  ...  intuit recently informed me they will not supp...
+8        51  ...  i ve been using quicken since it originally wa...
+9        64  ...  i wanted to get the new year off on the right ...
+10       45  ...  i worked in accounting for years then got my m...
+11       22  ...  have been using it for decades but suddenly it...
+12       62  ...  this is a review sent to intuit for a download...
+13       40  ...  we have used quicken since it ran on dos 20 or...
+
+[14 rows x 4 columns]

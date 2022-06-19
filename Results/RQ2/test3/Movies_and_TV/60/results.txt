@@ -1,0 +1,524 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 6302320488
+Shape:  (60, 7)
+Shape after:  (60, 7)
+
+
+Chosen product: 6302320488 has 60 reviews - True, it has 60 reviews
+
+Nr of stopwords in review: ['73/164', '65/129', '239/583', '43/101', '120/253', '65/111', '110/195', '98/195', '56/124', '246/457', '29/57', '22/43', '35/69', '27/61', '70/175', '202/371', '127/235', '50/99', '55/116', '339/715', '139/302', '68/133', '40/89', '15/29', '117/256', '85/179', '167/326', '72/145', '38/76', '318/658', '44/85', '90/187', '32/66', '15/36', '54/102', '93/177', '53/111', '254/564', '107/238', '55/123', '103/204', '27/45', '83/195', '317/637', '41/75', '64/145', '154/335', '509/1027', '43/77', '120/268', '172/359', '74/161', '97/187', '121/265', '60/146', '61/137', '126/243', '26/55', '26/56', '49/92'], on average: 0.4865
+Nr of stopwords in summary: ['2/8', '8/15', '5/21', '0/5', '4/6', '8/12', '1/3', '4/11', '2/4', '1/6', '3/6', '0/3', '1/4', '4/8', '4/11', '2/6', '1/4', '0/5', '1/2', '1/7', '4/16', '0/4', '1/4', '0/1', '2/3', '2/6', '0/2', '0/2', '1/4', '2/5', '2/4', '2/8', '0/1', '1/4', '5/9', '2/9', '2/7', '5/12', '1/4', '2/5', '4/8', '2/5', '0/2', '2/6', '0/2', '0/4', '3/5', '2/6', '0/5', '4/7', '1/6', '1/5', '2/3', '3/9', '2/5', '3/5', '6/8', '2/7', '0/4', '3/9'], on average: 0.3052
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 95.0%
+
+	step 2
+
+		step 3
+		candidate index: 2 with core nodes: [0, 1, 2]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   2  bottom line a daring change of pace role for t...   0.728022
+
+step 1
+index added: 3
+percentage unclustered: 93.3333%
+
+	step 2
+
+		step 3
+		candidate index: 3 with core nodes: [0, 1, 2, 3]
+			old information: 603, gain: 0.8805940594059406
+
+   ind                                             review  relevance
+0   2  bottom line a daring change of pace role for t...   0.728022
+1   3  this blu ray edition from olive films is amazi...   0.606876
+
+step 1
+index added: 4
+percentage unclustered: 93.3333%
+
+	step 2
+
+step 1
+index added: 5
+percentage unclustered: 91.6667%
+
+	step 2
+
+		step 3
+		candidate index: 5 with core nodes: [0, 1, 2, 3, 5]
+			old information: 960, gain: 0.8427518427518428
+
+   ind                                             review  relevance
+0   2  bottom line a daring change of pace role for t...   0.728022
+1   3  this blu ray edition from olive films is amazi...   0.606876
+2   5  this is a great movie to watch if you want to ...   0.553213
+
+step 1
+index added: 6
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [0, 2, 3, 6]
+			old information: 1893, gain: 0.8999206978588422
+
+   ind                                             review  relevance
+0   2  bottom line a daring change of pace role for t...   0.728022
+1   6  i have seen this film on dvd and this new blu ...   0.684608
+2   3  this blu ray edition from olive films is amazi...   0.606876
+3   5  this is a great movie to watch if you want to ...   0.553213
+
+step 1
+index added: 7
+percentage unclustered: 86.6667%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [0, 2, 4, 7]
+			old information: 1861, gain: 0.9016124768702088
+
+   ind                                             review  relevance
+0   7  the olivefilms bluray version of the quiet man...   0.817644
+1   2  bottom line a daring change of pace role for t...   0.728022
+2   6  i have seen this film on dvd and this new blu ...   0.684608
+3   3  this blu ray edition from olive films is amazi...   0.606876
+4   5  this is a great movie to watch if you want to ...   0.553213
+
+step 1
+index added: 8
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [0, 2, 4, 7]
+
+step 1
+index added: 9
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [2, 4, 7, 9]
+			old information: 4032, gain: 0.9613036968789589
+
+   ind                                             review  relevance
+0   9  i am not sure why amazon saw fit to lump all t...   0.835048
+1   7  the olivefilms bluray version of the quiet man...   0.817644
+2   2  bottom line a daring change of pace role for t...   0.728022
+3   6  i have seen this film on dvd and this new blu ...   0.684608
+4   3  this blu ray edition from olive films is amazi...   0.606876
+5   5  this is a great movie to watch if you want to ...   0.553213
+
+step 1
+index added: 10
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [2, 4, 7, 9]
+
+step 1
+index added: 11
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 91.6667%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [0, 7, 9, 12]
+			old information: 666, gain: 0.7161125319693095
+
+   ind                                             review  relevance
+0   9  i am not sure why amazon saw fit to lump all t...   0.835048
+1   7  the olivefilms bluray version of the quiet man...   0.817644
+2  12  all i will add to the other comments is that i...   0.751096
+3   2  bottom line a daring change of pace role for t...   0.728022
+4   6  i have seen this film on dvd and this new blu ...   0.684608
+5   3  this blu ray edition from olive films is amazi...   0.606876
+6   5  this is a great movie to watch if you want to ...   0.553213
+
+step 1
+index added: 13
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [0, 4, 7, 9, 12]
+
+step 1
+index added: 14
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [4, 7, 9, 16]
+			old information: 2839, gain: 0.8967448627023095
+
+   ind                                             review  relevance
+0   9  i am not sure why amazon saw fit to lump all t...   0.835048
+1  16  i am writing specifically about the quality of...   0.834817
+2   7  the olivefilms bluray version of the quiet man...   0.817644
+3  12  all i will add to the other comments is that i...   0.751096
+4   2  bottom line a daring change of pace role for t...   0.728022
+5   6  i have seen this film on dvd and this new blu ...   0.684608
+6   3  this blu ray edition from olive films is amazi...   0.606876
+7   5  this is a great movie to watch if you want to ...   0.553213
+
+step 1
+index added: 17
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [4, 7, 9, 16]
+
+step 1
+index added: 18
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [7, 9, 16, 19]
+			old information: 8560, gain: 0.9664649076413783
+
+   ind                                             review  relevance
+0  19  it s too bad amazon has lumped all of the quie...   0.851345
+1   9  i am not sure why amazon saw fit to lump all t...   0.835048
+2  16  i am writing specifically about the quality of...   0.834817
+3   7  the olivefilms bluray version of the quiet man...   0.817644
+4  12  all i will add to the other comments is that i...   0.751096
+5   2  bottom line a daring change of pace role for t...   0.728022
+6   6  i have seen this film on dvd and this new blu ...   0.684608
+7   3  this blu ray edition from olive films is amazi...   0.606876
+8   5  this is a great movie to watch if you want to ...   0.553213
+
+step 1
+index added: 20
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [7, 9, 16, 19]
+
+step 1
+index added: 21
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [7, 9, 16, 19]
+
+step 1
+index added: 23
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 25 with core nodes: [7, 9, 16, 19]
+
+step 1
+index added: 26
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 71.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [7, 9, 16, 19]
+
+step 1
+index added: 29
+percentage unclustered: 71.66669999999999%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 71.66669999999999%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 65.0%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [7, 9, 16, 19]
+
+step 1
+index added: 34
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 61.6667%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [7, 9, 16, 19]
+
+step 1
+index added: 39
+percentage unclustered: 61.6667%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 61.6667%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 60.0%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [7, 9, 16, 19]
+
+step 1
+index added: 42
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 60.0%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [7, 9, 16, 19]
+
+step 1
+index added: 47
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 58.3333%
+
+	step 2
+
+		step 3
+		candidate index: 52 with core nodes: [7, 9, 16, 19]
+
+step 1
+index added: 53
+percentage unclustered: 58.3333%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 58.3333%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 56.6667%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 56.6667%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 55.0%
+
+	step 2
+
+		step 3
+		candidate index: 57 with core nodes: [7, 9, 16]
+
+step 1
+index added: 58
+percentage unclustered: 48.3333%
+
+	step 2
+
+		step 3
+		candidate index: 58 with core nodes: [7, 9, 16]
+
+step 1
+index added: 59
+percentage unclustered: 48.3333%
+
+	step 2
+
+		step 3
+		candidate index: 59 with core nodes: [7, 9, 16]
+
+--- 238.79466104507446 seconds ---
+
+
+ Unclustered percentages: [95.0, 93.3333, 93.3333, 91.6667, 90.0, 86.6667, 85.0, 83.33330000000001, 81.66669999999999, 81.66669999999999, 91.6667, 85.0, 86.6667, 86.6667, 85.0, 83.33330000000001, 83.33330000000001, 81.66669999999999, 80.0, 80.0, 78.33330000000001, 78.33330000000001, 78.33330000000001, 76.66669999999999, 76.66669999999999, 76.66669999999999, 71.66669999999999, 71.66669999999999, 71.66669999999999, 70.0, 70.0, 65.0, 65.0, 65.0, 63.3333, 63.3333, 61.6667, 61.6667, 61.6667, 60.0, 60.0, 60.0, 60.0, 60.0, 60.0, 60.0, 60.0, 60.0, 60.0, 60.0, 58.3333, 58.3333, 58.3333, 56.6667, 56.6667, 55.0, 48.3333, 48.3333], mean: 71.5805
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0       21  19   0.851345  it s too bad amazon has lumped all of the quie...
+1       14   9   0.835048  i am not sure why amazon saw fit to lump all t...
+2       46  16   0.834817  i am writing specifically about the quality of...
+3       11   7   0.817644  the olivefilms bluray version of the quiet man...
+4       42  12   0.751096  all i will add to the other comments is that i...
+5       20   2   0.728022  bottom line a daring change of pace role for t...
+6       38   6   0.684608  i have seen this film on dvd and this new blu ...
+7        8   3   0.606876  this blu ray edition from olive films is amazi...
+8       13   5   0.553213  this is a great movie to watch if you want to ...

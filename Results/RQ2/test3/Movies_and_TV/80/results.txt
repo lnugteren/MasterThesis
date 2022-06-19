@@ -1,0 +1,906 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 6303212263
+Shape:  (80, 7)
+Shape after:  (80, 7)
+
+
+Chosen product: 6303212263 has 80 reviews - True, it has 80 reviews
+
+Nr of stopwords in review: ['185/374', '81/178', '18/47', '382/928', '248/540', '110/241', '16/38', '37/77', '74/157', '89/187', '35/64', '89/233', '92/192', '23/53', '15/38', '241/534', '15/35', '107/306', '79/153', '106/200', '79/179', '80/167', '150/300', '60/138', '56/112', '236/501', '297/605', '336/742', '189/412', '169/399', '48/122', '49/105', '43/96', '237/436', '4/16', '330/687', '28/58', '31/55', '73/160', '483/974', '54/106', '346/744', '32/61', '49/107', '144/283', '204/448', '92/188', '65/160', '361/866', '29/67', '352/817', '166/333', '127/299', '123/250', '46/90', '49/105', '81/193', '405/854', '135/235', '76/156', '135/316', '112/253', '216/447', '487/1090', '175/357', '436/858', '226/471', '147/322', '126/266', '144/336', '123/323', '59/140', '303/658', '68/152', '116/253', '259/540', '146/309', '67/140', '149/339', '89/197'], on average: 0.4603
+Nr of stopwords in summary: ['4/11', '4/16', '2/9', '1/9', '11/27', '1/4', '0/4', '0/3', '1/4', '1/6', '1/3', '3/8', '6/11', '6/12', '4/11', '2/5', '5/16', '4/15', '0/3', '1/9', '1/3', '1/4', '1/4', '3/10', '3/6', '2/6', '2/6', '5/13', '1/5', '2/10', '3/7', '2/7', '1/6', '3/8', '0/5', '1/5', '0/3', '2/3', '0/5', '6/10', '2/6', '4/10', '0/2', '0/1', '2/8', '3/5', '2/6', '0/3', '4/9', '1/4', '4/10', '4/10', '2/3', '3/5', '4/8', '1/4', '2/6', '3/8', '2/10', '4/7', '0/2', '6/8', '2/6', '0/1', '3/10', '9/13', '2/6', '3/7', '1/3', '1/4', '4/11', '3/7', '3/4', '1/6', '3/8', '2/5', '4/8', '1/6', '2/6', '3/5'], on average: 0.3181
+
+Duplicate reviewers?:  76    A31I3HXMD5H1EL
+Name: reviewerID, dtype: object
+
+step 1
+index added: 2
+percentage unclustered: 96.25%
+
+	step 2
+
+		step 3
+		candidate index: 2 with core nodes: [0, 1, 2]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   2  super greatness first time i ever watched the ...   0.447013
+
+step 1
+index added: 3
+percentage unclustered: 95.0%
+
+	step 2
+
+		step 3
+		candidate index: 3 with core nodes: [0, 1, 2, 3]
+			old information: 255, gain: 0.9994071532195068
+
+   ind                                             review  relevance
+0   3  firstly this review is for the superman the mo...   0.770599
+1   2  super greatness first time i ever watched the ...   0.447013
+
+step 1
+index added: 4
+percentage unclustered: 93.75%
+
+	step 2
+
+		step 3
+		candidate index: 4 with core nodes: [0, 1, 3, 4]
+			old information: 7281, gain: 0.9499690785405072
+
+   ind                                             review  relevance
+0   4  hat s off to warner archive for releasing this...   0.860746
+1   3  firstly this review is for the superman the mo...   0.770599
+2   2  super greatness first time i ever watched the ...   0.447013
+
+step 1
+index added: 5
+percentage unclustered: 92.5%
+
+	step 2
+
+		step 3
+		candidate index: 5 with core nodes: [0, 3, 4, 5]
+			old information: 4301, gain: 0.8512793914246196
+
+   ind                                             review  relevance
+0   4  hat s off to warner archive for releasing this...   0.860746
+1   3  firstly this review is for the superman the mo...   0.770599
+2   5  i think the year was 1980 or 81 after completi...   0.736006
+3   2  super greatness first time i ever watched the ...   0.447013
+
+step 1
+index added: 6
+percentage unclustered: 91.25%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [0, 3, 4, 5]
+
+step 1
+index added: 7
+percentage unclustered: 92.5%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [0, 1, 5, 7]
+			old information: 646, gain: 0.7792207792207793
+
+   ind                                             review  relevance
+0   4  hat s off to warner archive for releasing this...   0.860746
+1   3  firstly this review is for the superman the mo...   0.770599
+2   5  i think the year was 1980 or 81 after completi...   0.736006
+3   7  i just watched the 3 hour extended cut and lov...   0.655670
+4   2  super greatness first time i ever watched the ...   0.447013
+
+step 1
+index added: 8
+percentage unclustered: 88.75%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [0, 3, 4, 8]
+			old information: 1570, gain: 0.8717948717948718
+
+   ind                                             review  relevance
+0   4  hat s off to warner archive for releasing this...   0.860746
+1   3  firstly this review is for the superman the mo...   0.770599
+2   8  well i am surprised like everybody else that w...   0.754689
+3   5  i think the year was 1980 or 81 after completi...   0.736006
+4   7  i just watched the 3 hour extended cut and lov...   0.655670
+5   2  super greatness first time i ever watched the ...   0.447013
+
+step 1
+index added: 9
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 91.25%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [1, 4, 5, 8]
+			old information: 532, gain: 0.7361111111111112
+
+   ind                                             review  relevance
+0   4  hat s off to warner archive for releasing this...   0.860746
+1   3  firstly this review is for the superman the mo...   0.770599
+2   8  well i am surprised like everybody else that w...   0.754689
+3   5  i think the year was 1980 or 81 after completi...   0.736006
+4  10  i waited 35 years to watch this again nthis is...   0.656282
+5   7  i just watched the 3 hour extended cut and lov...   0.655670
+6   2  super greatness first time i ever watched the ...   0.447013
+
+step 1
+index added: 11
+percentage unclustered: 88.75%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [0, 4, 5, 8]
+
+step 1
+index added: 12
+percentage unclustered: 87.5%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [0, 4, 5, 8]
+			old information: 2470, gain: 0.8652923211169284
+
+   ind                                             review  relevance
+0   4  hat s off to warner archive for releasing this...   0.860746
+1   3  firstly this review is for the superman the mo...   0.770599
+2  12  the television cut is great to have not having...   0.755624
+3   8  well i am surprised like everybody else that w...   0.754689
+4   5  i think the year was 1980 or 81 after completi...   0.736006
+5  10  i waited 35 years to watch this again nthis is...   0.656282
+6   7  i just watched the 3 hour extended cut and lov...   0.655670
+7   2  super greatness first time i ever watched the ...   0.447013
+
+step 1
+index added: 13
+percentage unclustered: 86.25%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [0, 4, 5, 8]
+
+step 1
+index added: 14
+percentage unclustered: 88.75%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [1, 5, 7, 8]
+
+step 1
+index added: 15
+percentage unclustered: 87.5%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [1, 5, 8, 15]
+			old information: 8749, gain: 0.9385219694893578
+
+   ind                                             review  relevance
+0   4  hat s off to warner archive for releasing this...   0.860746
+1  15  george lucas is a convenient scapegoat for tho...   0.803577
+2   3  firstly this review is for the superman the mo...   0.770599
+3  12  the television cut is great to have not having...   0.755624
+4   8  well i am surprised like everybody else that w...   0.754689
+5   5  i think the year was 1980 or 81 after completi...   0.736006
+6  10  i waited 35 years to watch this again nthis is...   0.656282
+7   7  i just watched the 3 hour extended cut and lov...   0.655670
+8   2  super greatness first time i ever watched the ...   0.447013
+
+step 1
+index added: 16
+percentage unclustered: 86.25%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [1, 5, 8, 15]
+
+step 1
+index added: 17
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [5, 8, 15, 17]
+			old information: 4758, gain: 0.8980392156862745
+
+   ind                                             review  relevance
+0   4  hat s off to warner archive for releasing this...   0.860746
+1  15  george lucas is a convenient scapegoat for tho...   0.803577
+2   3  firstly this review is for the superman the mo...   0.770599
+3  12  the television cut is great to have not having...   0.755624
+4   8  well i am surprised like everybody else that w...   0.754689
+5   5  i think the year was 1980 or 81 after completi...   0.736006
+6  17  superman the movie the extended tv version is ...   0.729732
+7  10  i waited 35 years to watch this again nthis is...   0.656282
+8   7  i just watched the 3 hour extended cut and lov...   0.655670
+9   2  super greatness first time i ever watched the ...   0.447013
+
+step 1
+index added: 18
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [5, 8, 15, 19]
+			old information: 3599, gain: 0.8191457286432161
+
+    ind                                             review  relevance
+0    4  hat s off to warner archive for releasing this...   0.860746
+1   15  george lucas is a convenient scapegoat for tho...   0.803577
+2   19  i have seen the 3 hour television cut and the ...   0.772287
+3    3  firstly this review is for the superman the mo...   0.770599
+4   12  the television cut is great to have not having...   0.755624
+5    8  well i am surprised like everybody else that w...   0.754689
+6    5  i think the year was 1980 or 81 after completi...   0.736006
+7   17  superman the movie the extended tv version is ...   0.729732
+8   10  i waited 35 years to watch this again nthis is...   0.656282
+9    7  i just watched the 3 hour extended cut and lov...   0.655670
+10   2  super greatness first time i ever watched the ...   0.447013
+
+step 1
+index added: 20
+percentage unclustered: 88.75%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [5, 8, 10, 15, 20]
+			old information: 2338, gain: 0.8532421065846463
+
+    ind                                             review  relevance
+0    4  hat s off to warner archive for releasing this...   0.860746
+1   15  george lucas is a convenient scapegoat for tho...   0.803577
+2   19  i have seen the 3 hour television cut and the ...   0.772287
+3    3  firstly this review is for the superman the mo...   0.770599
+4   12  the television cut is great to have not having...   0.755624
+5    8  well i am surprised like everybody else that w...   0.754689
+6    5  i think the year was 1980 or 81 after completi...   0.736006
+7   17  superman the movie the extended tv version is ...   0.729732
+8   20  for me this will always be the definitive supe...   0.702390
+9   10  i waited 35 years to watch this again nthis is...   0.656282
+10   7  i just watched the 3 hour extended cut and lov...   0.655670
+11   2  super greatness first time i ever watched the ...   0.447013
+
+step 1
+index added: 21
+percentage unclustered: 87.5%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [5, 8, 15, 21]
+			old information: 1846, gain: 0.8668205757160378
+
+    ind                                             review  relevance
+0    4  hat s off to warner archive for releasing this...   0.860746
+1   15  george lucas is a convenient scapegoat for tho...   0.803577
+2   19  i have seen the 3 hour television cut and the ...   0.772287
+3    3  firstly this review is for the superman the mo...   0.770599
+4   12  the television cut is great to have not having...   0.755624
+5    8  well i am surprised like everybody else that w...   0.754689
+6    5  i think the year was 1980 or 81 after completi...   0.736006
+7   21  i m so grateful to christopher reeve for playi...   0.732645
+8   17  superman the movie the extended tv version is ...   0.729732
+9   20  for me this will always be the definitive supe...   0.702390
+10  10  i waited 35 years to watch this again nthis is...   0.656282
+11   7  i just watched the 3 hour extended cut and lov...   0.655670
+12   2  super greatness first time i ever watched the ...   0.447013
+
+step 1
+index added: 22
+percentage unclustered: 86.25%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [8, 15, 22]
+			old information: 4846, gain: 0.8919509476031215
+
+    ind                                             review  relevance
+0    4  hat s off to warner archive for releasing this...   0.860746
+1   22  i still have yet to get through all the extras...   0.830718
+2   15  george lucas is a convenient scapegoat for tho...   0.803577
+3   19  i have seen the 3 hour television cut and the ...   0.772287
+4    3  firstly this review is for the superman the mo...   0.770599
+5   12  the television cut is great to have not having...   0.755624
+6    8  well i am surprised like everybody else that w...   0.754689
+7    5  i think the year was 1980 or 81 after completi...   0.736006
+8   21  i m so grateful to christopher reeve for playi...   0.732645
+9   17  superman the movie the extended tv version is ...   0.729732
+10  20  for me this will always be the definitive supe...   0.702390
+11  10  i waited 35 years to watch this again nthis is...   0.656282
+12   7  i just watched the 3 hour extended cut and lov...   0.655670
+13   2  super greatness first time i ever watched the ...   0.447013
+
+step 1
+index added: 23
+percentage unclustered: 86.25%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 87.5%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [5, 8, 15, 22]
+
+step 1
+index added: 25
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 82.5%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [15, 22, 27, 28, 33]
+			old information: 7316, gain: 0.9228514183275335
+
+    ind                                             review  relevance
+0    4  hat s off to warner archive for releasing this...   0.860746
+1   33  i had such high expectations of this movie on ...   0.837658
+2   22  i still have yet to get through all the extras...   0.830718
+3   15  george lucas is a convenient scapegoat for tho...   0.803577
+4   19  i have seen the 3 hour television cut and the ...   0.772287
+5    3  firstly this review is for the superman the mo...   0.770599
+6   12  the television cut is great to have not having...   0.755624
+7    8  well i am surprised like everybody else that w...   0.754689
+8    5  i think the year was 1980 or 81 after completi...   0.736006
+9   21  i m so grateful to christopher reeve for playi...   0.732645
+10  17  superman the movie the extended tv version is ...   0.729732
+11  20  for me this will always be the definitive supe...   0.702390
+12  10  i waited 35 years to watch this again nthis is...   0.656282
+13   7  i just watched the 3 hour extended cut and lov...   0.655670
+14   2  super greatness first time i ever watched the ...   0.447013
+
+step 1
+index added: 34
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 81.25%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [15, 22, 27, 28, 33]
+
+step 1
+index added: 39
+percentage unclustered: 76.25%
+
+	step 2
+
+		step 3
+		candidate index: 39 with core nodes: [22, 27, 28, 39]
+			old information: 16742, gain: 0.9646682184906226
+
+    ind                                             review  relevance
+0   39  if you already own the 2001 dvd expanded versi...   0.893874
+1    4  hat s off to warner archive for releasing this...   0.860746
+2   33  i had such high expectations of this movie on ...   0.837658
+3   22  i still have yet to get through all the extras...   0.830718
+4   15  george lucas is a convenient scapegoat for tho...   0.803577
+5   19  i have seen the 3 hour television cut and the ...   0.772287
+6    3  firstly this review is for the superman the mo...   0.770599
+7   12  the television cut is great to have not having...   0.755624
+8    8  well i am surprised like everybody else that w...   0.754689
+9    5  i think the year was 1980 or 81 after completi...   0.736006
+10  21  i m so grateful to christopher reeve for playi...   0.732645
+11  17  superman the movie the extended tv version is ...   0.729732
+12  20  for me this will always be the definitive supe...   0.702390
+13  10  i waited 35 years to watch this again nthis is...   0.656282
+14   7  i just watched the 3 hour extended cut and lov...   0.655670
+15   2  super greatness first time i ever watched the ...   0.447013
+
+step 1
+index added: 40
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 76.25%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [22, 27, 28, 39, 41]
+			old information: 14466, gain: 0.9476620501020275
+
+    ind                                             review  relevance
+0   39  if you already own the 2001 dvd expanded versi...   0.893874
+1    4  hat s off to warner archive for releasing this...   0.860746
+2   41  what star wars did for science fiction and fan...   0.859663
+3   33  i had such high expectations of this movie on ...   0.837658
+4   22  i still have yet to get through all the extras...   0.830718
+5   15  george lucas is a convenient scapegoat for tho...   0.803577
+6   19  i have seen the 3 hour television cut and the ...   0.772287
+7    3  firstly this review is for the superman the mo...   0.770599
+8   12  the television cut is great to have not having...   0.755624
+9    8  well i am surprised like everybody else that w...   0.754689
+10   5  i think the year was 1980 or 81 after completi...   0.736006
+11  21  i m so grateful to christopher reeve for playi...   0.732645
+12  17  superman the movie the extended tv version is ...   0.729732
+13  20  for me this will always be the definitive supe...   0.702390
+14  10  i waited 35 years to watch this again nthis is...   0.656282
+15   7  i just watched the 3 hour extended cut and lov...   0.655670
+16   2  super greatness first time i ever watched the ...   0.447013
+
+step 1
+index added: 42
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 75.0%
+
+	step 2
+
+		step 3
+		candidate index: 44 with core nodes: [22, 27, 28, 39, 41]
+
+step 1
+index added: 45
+percentage unclustered: 82.5%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [22, 27, 28, 45]
+			old information: 11467, gain: 0.885476589964845
+
+    ind                                             review  relevance
+0   39  if you already own the 2001 dvd expanded versi...   0.893874
+1   45  i was born in 1976 so i spent most of my devel...   0.884943
+2    4  hat s off to warner archive for releasing this...   0.860746
+3   41  what star wars did for science fiction and fan...   0.859663
+4   33  i had such high expectations of this movie on ...   0.837658
+5   22  i still have yet to get through all the extras...   0.830718
+6   15  george lucas is a convenient scapegoat for tho...   0.803577
+7   19  i have seen the 3 hour television cut and the ...   0.772287
+8    3  firstly this review is for the superman the mo...   0.770599
+9   12  the television cut is great to have not having...   0.755624
+10   8  well i am surprised like everybody else that w...   0.754689
+11   5  i think the year was 1980 or 81 after completi...   0.736006
+12  21  i m so grateful to christopher reeve for playi...   0.732645
+13  17  superman the movie the extended tv version is ...   0.729732
+14  20  for me this will always be the definitive supe...   0.702390
+15  10  i waited 35 years to watch this again nthis is...   0.656282
+16   7  i just watched the 3 hour extended cut and lov...   0.655670
+17   2  super greatness first time i ever watched the ...   0.447013
+
+step 1
+index added: 46
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 81.25%
+
+	step 2
+
+		step 3
+		candidate index: 48 with core nodes: [27, 28, 45, 48]
+			old information: 21556, gain: 0.9424475029702706
+
+    ind                                             review  relevance
+0   39  if you already own the 2001 dvd expanded versi...   0.893874
+1   45  i was born in 1976 so i spent most of my devel...   0.884943
+2   48  in my anxiety to see superman returns i ve bee...   0.879940
+3    4  hat s off to warner archive for releasing this...   0.860746
+4   41  what star wars did for science fiction and fan...   0.859663
+5   33  i had such high expectations of this movie on ...   0.837658
+6   22  i still have yet to get through all the extras...   0.830718
+7   15  george lucas is a convenient scapegoat for tho...   0.803577
+8   19  i have seen the 3 hour television cut and the ...   0.772287
+9    3  firstly this review is for the superman the mo...   0.770599
+10  12  the television cut is great to have not having...   0.755624
+11   8  well i am surprised like everybody else that w...   0.754689
+12   5  i think the year was 1980 or 81 after completi...   0.736006
+13  21  i m so grateful to christopher reeve for playi...   0.732645
+14  17  superman the movie the extended tv version is ...   0.729732
+15  20  for me this will always be the definitive supe...   0.702390
+16  10  i waited 35 years to watch this again nthis is...   0.656282
+17   7  i just watched the 3 hour extended cut and lov...   0.655670
+18   2  super greatness first time i ever watched the ...   0.447013
+
+step 1
+index added: 49
+percentage unclustered: 81.25%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 76.25%
+
+	step 2
+
+		step 3
+		candidate index: 50 with core nodes: [27, 28, 45, 48, 50]
+			old information: 22918, gain: 0.9312465500275998
+
+    ind                                             review  relevance
+0   50  although the majority of fans seem to prefer t...   0.900320
+1   39  if you already own the 2001 dvd expanded versi...   0.893874
+2   45  i was born in 1976 so i spent most of my devel...   0.884943
+3   48  in my anxiety to see superman returns i ve bee...   0.879940
+4    4  hat s off to warner archive for releasing this...   0.860746
+5   41  what star wars did for science fiction and fan...   0.859663
+6   33  i had such high expectations of this movie on ...   0.837658
+7   22  i still have yet to get through all the extras...   0.830718
+8   15  george lucas is a convenient scapegoat for tho...   0.803577
+9   19  i have seen the 3 hour television cut and the ...   0.772287
+10   3  firstly this review is for the superman the mo...   0.770599
+11  12  the television cut is great to have not having...   0.755624
+12   8  well i am surprised like everybody else that w...   0.754689
+13   5  i think the year was 1980 or 81 after completi...   0.736006
+14  21  i m so grateful to christopher reeve for playi...   0.732645
+15  17  superman the movie the extended tv version is ...   0.729732
+16  20  for me this will always be the definitive supe...   0.702390
+17  10  i waited 35 years to watch this again nthis is...   0.656282
+18   7  i just watched the 3 hour extended cut and lov...   0.655670
+19   2  super greatness first time i ever watched the ...   0.447013
+
+step 1
+index added: 51
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 76.25%
+
+	step 2
+
+		step 3
+		candidate index: 54 with core nodes: [27, 28, 45, 48, 50]
+
+step 1
+index added: 55
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 75.0%
+
+	step 2
+
+		step 3
+		candidate index: 56 with core nodes: [27, 28, 45, 48, 50]
+
+step 1
+index added: 57
+percentage unclustered: 73.75%
+
+	step 2
+
+		step 3
+		candidate index: 57 with core nodes: [45, 48, 50, 57]
+			old information: 24707, gain: 0.9321666744456129
+
+    ind                                             review  relevance
+0   57  as soon as i heard that christopher reeve died...   0.919407
+1   50  although the majority of fans seem to prefer t...   0.900320
+2   39  if you already own the 2001 dvd expanded versi...   0.893874
+3   45  i was born in 1976 so i spent most of my devel...   0.884943
+4   48  in my anxiety to see superman returns i ve bee...   0.879940
+5    4  hat s off to warner archive for releasing this...   0.860746
+6   41  what star wars did for science fiction and fan...   0.859663
+7   33  i had such high expectations of this movie on ...   0.837658
+8   22  i still have yet to get through all the extras...   0.830718
+9   15  george lucas is a convenient scapegoat for tho...   0.803577
+10  19  i have seen the 3 hour television cut and the ...   0.772287
+11   3  firstly this review is for the superman the mo...   0.770599
+12  12  the television cut is great to have not having...   0.755624
+13   8  well i am surprised like everybody else that w...   0.754689
+14   5  i think the year was 1980 or 81 after completi...   0.736006
+15  21  i m so grateful to christopher reeve for playi...   0.732645
+16  17  superman the movie the extended tv version is ...   0.729732
+17  20  for me this will always be the definitive supe...   0.702390
+18  10  i waited 35 years to watch this again nthis is...   0.656282
+19   7  i just watched the 3 hour extended cut and lov...   0.655670
+20   2  super greatness first time i ever watched the ...   0.447013
+
+step 1
+index added: 58
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 71.25%
+
+	step 2
+
+		step 3
+		candidate index: 65 with core nodes: [27, 28, 45, 48, 50]
+
+step 1
+index added: 66
+percentage unclustered: 71.25%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 71.25%
+
+	step 2
+
+		step 3
+		candidate index: 67 with core nodes: [27, 28, 45, 48, 50]
+
+step 1
+index added: 68
+percentage unclustered: 71.25%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 71.25%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 70 with core nodes: [27, 28, 45, 48, 50]
+
+step 1
+index added: 71
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 71.25%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 71.25%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 71.25%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 72.5%
+
+	step 2
+
+--- 5717.406651496887 seconds ---
+
+
+ Unclustered percentages: [96.25, 95.0, 93.75, 92.5, 91.25, 92.5, 88.75, 88.75, 91.25, 88.75, 87.5, 86.25, 88.75, 87.5, 86.25, 85.0, 85.0, 85.0, 88.75, 87.5, 86.25, 86.25, 87.5, 87.5, 87.5, 87.5, 87.5, 87.5, 87.5, 87.5, 87.5, 82.5, 82.5, 82.5, 82.5, 82.5, 81.25, 76.25, 77.5, 76.25, 76.25, 76.25, 75.0, 82.5, 82.5, 82.5, 81.25, 81.25, 76.25, 77.5, 77.5, 77.5, 76.25, 76.25, 75.0, 73.75, 75.0, 75.0, 75.0, 75.0, 75.0, 75.0, 75.0, 71.25, 71.25, 71.25, 71.25, 71.25, 70.0, 70.0, 70.0, 71.25, 71.25, 71.25, 72.5, 72.5, 72.5, 72.5], mean: 80.9295
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        43  57   0.919407  as soon as i heard that christopher reeve died...
+1        51  50   0.900320  although the majority of fans seem to prefer t...
+2        53  39   0.893874  if you already own the 2001 dvd expanded versi...
+3        35  45   0.884943  i was born in 1976 so i spent most of my devel...
+4        50  48   0.879940  in my anxiety to see superman returns i ve bee...
+5        14   4   0.860746  hat s off to warner archive for releasing this...
+6        67  41   0.859663  what star wars did for science fiction and fan...
+7        25  33   0.837658  i had such high expectations of this movie on ...
+8        41  22   0.830718  i still have yet to get through all the extras...
+9         3  15   0.803577  george lucas is a convenient scapegoat for tho...
+10        2  19   0.772287  i have seen the 3 hour television cut and the ...
+11       21   3   0.770599  firstly this review is for the superman the mo...
+12       10  12   0.755624  the television cut is great to have not having...
+13       19   8   0.754689  well i am surprised like everybody else that w...
+14       15   5   0.736006  i think the year was 1980 or 81 after completi...
+15       33  21   0.732645  i m so grateful to christopher reeve for playi...
+16        4  17   0.729732  superman the movie the extended tv version is ...
+17       28  20   0.702390  for me this will always be the definitive supe...
+18       17  10   0.656282  i waited 35 years to watch this again nthis is...
+19        7   7   0.655670  i just watched the 3 hour extended cut and lov...
+20       20   2   0.447013  super greatness first time i ever watched the ...

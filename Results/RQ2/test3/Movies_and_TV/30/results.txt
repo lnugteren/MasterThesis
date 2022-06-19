@@ -1,0 +1,308 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 0615115187
+Shape:  (30, 7)
+Shape after:  (30, 7)
+
+
+Chosen product: 0615115187 has 30 reviews - True, it has 30 reviews
+
+Nr of stopwords in review: ['47/100', '32/66', '32/77', '261/562', '158/320', '31/71', '31/58', '7/17', '81/148', '26/54', '5/12', '36/67', '72/127', '82/169', '48/120', '43/75', '103/203', '46/82', '140/301', '31/58', '37/88', '39/70', '14/28', '78/144', '82/176', '58/112', '2/42', '100/180', '41/90', '32/75'], on average: 0.4759
+Nr of stopwords in summary: ['5/10', '4/9', '1/6', '2/4', '1/4', '2/5', '1/2', '2/6', '2/7', '1/5', '2/3', '2/4', '5/10', '3/7', '0/4', '0/1', '3/7', '1/3', '2/5', '3/5', '3/8', '0/1', '1/4', '3/7', '3/8', '3/7', '1/4', '5/8', '1/6', '4/7'], on average: 0.3636
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 2 with core nodes: [0, 1, 2]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   2  1967 film student george lucas has writer s bl...   0.425745
+
+step 1
+index added: 3
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 4
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 5
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 5 with core nodes: [1, 4, 5]
+			old information: 195, gain: 0.9215291750503019
+
+   ind                                             review  relevance
+0   5  i ve seen other star wars parodies and this on...   0.601446
+1   2  1967 film student george lucas has writer s bl...   0.425745
+
+step 1
+index added: 6
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [1, 4, 5, 8]
+			old information: 311, gain: 0.9714101856959
+
+   ind                                             review  relevance
+0   8  i remember clearly when hardware wars came out...   0.724560
+1   5  i ve seen other star wars parodies and this on...   0.601446
+2   2  1967 film student george lucas has writer s bl...   0.425745
+
+step 1
+index added: 9
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [1, 4, 5, 8]
+			old information: 173, gain: 0.8791055206149546
+
+   ind                                             review  relevance
+0   8  i remember clearly when hardware wars came out...   0.724560
+1   5  i ve seen other star wars parodies and this on...   0.601446
+2   9  i bought this for my husband for christmas and...   0.492183
+3   2  1967 film student george lucas has writer s bl...   0.425745
+
+step 1
+index added: 10
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [0, 4, 8, 12]
+			old information: 606, gain: 0.9242594675665542
+
+   ind                                             review  relevance
+0   8  i remember clearly when hardware wars came out...   0.724560
+1  12  this is a very enjoyable 9 minute movie and yo...   0.672088
+2   5  i ve seen other star wars parodies and this on...   0.601446
+3   9  i bought this for my husband for christmas and...   0.492183
+4   2  1967 film student george lucas has writer s bl...   0.425745
+
+step 1
+index added: 13
+percentage unclustered: 63.3333%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [0, 4, 8, 13]
+			old information: 891, gain: 0.937235841081995
+
+   ind                                             review  relevance
+0  13  reading many of these reviews after having see...   0.774933
+1   8  i remember clearly when hardware wars came out...   0.724560
+2  12  this is a very enjoyable 9 minute movie and yo...   0.672088
+3   5  i ve seen other star wars parodies and this on...   0.601446
+4   9  i bought this for my husband for christmas and...   0.492183
+5   2  1967 film student george lucas has writer s bl...   0.425745
+
+step 1
+index added: 14
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 60.0%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [0, 4, 8, 13]
+
+step 1
+index added: 17
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 56.6667%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [0, 4, 8, 13]
+			old information: 2099, gain: 0.9535105204872647
+
+   ind                                             review  relevance
+0  13  reading many of these reviews after having see...   0.774933
+1   8  i remember clearly when hardware wars came out...   0.724560
+2  18  several reviewers around here really seem to w...   0.723686
+3  12  this is a very enjoyable 9 minute movie and yo...   0.672088
+4   5  i ve seen other star wars parodies and this on...   0.601446
+5   9  i bought this for my husband for christmas and...   0.492183
+6   2  1967 film student george lucas has writer s bl...   0.425745
+
+step 1
+index added: 19
+percentage unclustered: 53.3333%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 53.3333%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 53.3333%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 53.3333%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 46.6667%
+
+	step 2
+
+		step 3
+		candidate index: 23 with core nodes: [4, 18, 23]
+			old information: 1107, gain: 0.8924825174825175
+
+   ind                                             review  relevance
+0  13  reading many of these reviews after having see...   0.774933
+1  23  as far as comic shorts go this one is a gem fo...   0.749337
+2   8  i remember clearly when hardware wars came out...   0.724560
+3  18  several reviewers around here really seem to w...   0.723686
+4  12  this is a very enjoyable 9 minute movie and yo...   0.672088
+5   5  i ve seen other star wars parodies and this on...   0.601446
+6   9  i bought this for my husband for christmas and...   0.492183
+7   2  1967 film student george lucas has writer s bl...   0.425745
+
+step 1
+index added: 24
+percentage unclustered: 50.0%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [0, 4, 8, 23]
+
+step 1
+index added: 25
+percentage unclustered: 50.0%
+
+	step 2
+
+		step 3
+		candidate index: 25 with core nodes: [4, 8, 23, 24]
+
+step 1
+index added: 26
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 46.6667%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [4, 8, 23, 24]
+
+step 1
+index added: 29
+percentage unclustered: 43.3333%
+
+	step 2
+
+		step 3
+		candidate index: 29 with core nodes: [8, 23, 24, 25, 29]
+			old information: 398, gain: 0.8565765765765766
+
+   ind                                             review  relevance
+0  13  reading many of these reviews after having see...   0.774933
+1  23  as far as comic shorts go this one is a gem fo...   0.749337
+2   8  i remember clearly when hardware wars came out...   0.724560
+3  18  several reviewers around here really seem to w...   0.723686
+4  12  this is a very enjoyable 9 minute movie and yo...   0.672088
+5  29  any fan of george lucas and of star wars i m a...   0.641000
+6   5  i ve seen other star wars parodies and this on...   0.601446
+7   9  i bought this for my husband for christmas and...   0.492183
+8   2  1967 film student george lucas has writer s bl...   0.425745
+
+--- 15.836510181427002 seconds ---
+
+
+ Unclustered percentages: [90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 83.33330000000001, 80.0, 70.0, 70.0, 66.66669999999999, 63.3333, 63.3333, 63.3333, 60.0, 60.0, 56.6667, 53.3333, 53.3333, 53.3333, 53.3333, 46.6667, 50.0, 50.0, 50.0, 50.0, 46.6667, 43.3333], mean: 65.2381
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0        4  13   0.774933  reading many of these reviews after having see...
+1       11  23   0.749337  as far as comic shorts go this one is a gem fo...
+2        8   8   0.724560  i remember clearly when hardware wars came out...
+3        3  18   0.723686  several reviewers around here really seem to w...
+4       14  12   0.672088  this is a very enjoyable 9 minute movie and yo...
+5        7  29   0.641000  any fan of george lucas and of star wars i m a...
+6       19   5   0.601446  i ve seen other star wars parodies and this on...
+7       23   9   0.492183  i bought this for my husband for christmas and...
+8       17   2   0.425745  1967 film student george lucas has writer s bl...

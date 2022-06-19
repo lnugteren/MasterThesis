@@ -1,0 +1,517 @@
+------- Category: Office_Products -------
+Found asin_id: B00000J6JX
+Shape:  (60, 7)
+
+
+Chosen product: B00000J6JX has 60 reviews - True, it has 60 reviews
+
+Nr of stopwords in review: ['20/34', '29/53', '34/56', '11/21', '23/42', '20/40', '51/102', '35/73', '69/137', '118/243', '4/11', '96/170', '36/57', '52/90', '23/43', '37/67', '37/81', '47/79', '22/45', '37/64', '37/77', '50/85', '22/44', '41/75', '28/67', '9/35', '4/13', '37/70', '13/21', '11/29', '11/21', '8/18', '6/16', '17/31', '30/51', '9/20', '25/46', '15/25', '16/39', '42/77', '13/30', '62/131', '17/29', '12/23', '57/101', '20/34', '47/89', '51/92', '33/69', '49/116', '24/35', '26/62', '23/42', '30/51', '19/35', '13/30', '85/168', '13/26', '37/76', '47/77'], on average: 0.5125
+Nr of stopwords in summary: ['1/2', '0/3', '1/5', '0/2', '0/2', '0/5', '4/7', '0/2', '3/6', '3/6', '3/9', '2/3', '2/4', '0/1', '0/3', '6/10', '2/4', '0/4', '1/3', '5/10', '3/4', '0/2', '2/6', '3/8', '2/7', '0/3', '1/3', '3/7', '2/4', '4/10', '1/2', '0/2', '0/2', '1/3', '3/9', '1/3', '0/2', '0/2', '1/4', '2/4', '0/3', '5/9', '0/4', '0/1', '0/6', '0/1', '0/3', '1/2', '0/3', '2/10', '1/2', '0/2', '1/5', '1/3', '0/3', '0/3', '1/4', '0/2', '3/5', '2/4'], on average: 0.25
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 95.0%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [3, 5, 7]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   7  really not much to say we re homeschoolers and...   0.321917
+
+step 1
+index added: 8
+percentage unclustered: 93.3333%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [3, 5, 7, 8]
+			old information: 176, gain: 0.9811077715757835
+
+   ind                                             review  relevance
+0   8  this is a pretty good globe to be fair it is a...   0.419501
+1   7  really not much to say we re homeschoolers and...   0.321917
+
+step 1
+index added: 9
+percentage unclustered: 91.6667%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [3, 7, 8, 9]
+			old information: 564, gain: 0.9808182838485868
+
+   ind                                             review  relevance
+0   9  there is quite a lot of appropriate detail on ...   0.712400
+1   8  this is a pretty good globe to be fair it is a...   0.419501
+2   7  really not much to say we re homeschoolers and...   0.321917
+
+step 1
+index added: 10
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [3, 7, 8, 9, 16]
+			old information: 385, gain: 0.8811728395061729
+
+   ind                                             review  relevance
+0   9  there is quite a lot of appropriate detail on ...   0.712400
+1  16  came well packaged and quality is pretty good ...   0.577271
+2   8  this is a pretty good globe to be fair it is a...   0.419501
+3   7  really not much to say we re homeschoolers and...   0.321917
+
+step 1
+index added: 17
+percentage unclustered: 88.3333%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [8, 9, 16, 17]
+			old information: 305, gain: 0.9010061668289516
+
+   ind                                             review  relevance
+0   9  there is quite a lot of appropriate detail on ...   0.712400
+1  16  came well packaged and quality is pretty good ...   0.577271
+2  17  l read some of the reviews before buying this ...   0.498606
+3   8  this is a pretty good globe to be fair it is a...   0.419501
+4   7  really not much to say we re homeschoolers and...   0.321917
+
+step 1
+index added: 18
+percentage unclustered: 88.3333%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 88.3333%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 86.6667%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [8, 9, 16, 20]
+			old information: 380, gain: 0.8701298701298701
+
+   ind                                             review  relevance
+0   9  there is quite a lot of appropriate detail on ...   0.712400
+1  20  the look of this globe is out of this world it...   0.637965
+2  16  came well packaged and quality is pretty good ...   0.577271
+3  17  l read some of the reviews before buying this ...   0.498606
+4   8  this is a pretty good globe to be fair it is a...   0.419501
+5   7  really not much to say we re homeschoolers and...   0.321917
+
+step 1
+index added: 21
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 86.6667%
+
+	step 2
+
+		step 3
+		candidate index: 23 with core nodes: [8, 9, 16, 23]
+			old information: 462, gain: 0.8335135135135135
+
+   ind                                             review  relevance
+0   9  there is quite a lot of appropriate detail on ...   0.712400
+1  23  this is a for the price review good amount of ...   0.642445
+2  20  the look of this globe is out of this world it...   0.637965
+3  16  came well packaged and quality is pretty good ...   0.577271
+4  17  l read some of the reviews before buying this ...   0.498606
+5   8  this is a pretty good globe to be fair it is a...   0.419501
+6   7  really not much to say we re homeschoolers and...   0.321917
+
+step 1
+index added: 24
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [8, 9, 16, 23]
+
+step 1
+index added: 25
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 25 with core nodes: [8, 9, 16, 23]
+
+step 1
+index added: 26
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [8, 9, 16, 23]
+
+step 1
+index added: 27
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [12, 17, 37]
+			old information: 114, gain: 0.62
+
+   ind                                             review  relevance
+0   9  there is quite a lot of appropriate detail on ...   0.712400
+1  23  this is a for the price review good amount of ...   0.642445
+2  20  the look of this globe is out of this world it...   0.637965
+3  16  came well packaged and quality is pretty good ...   0.577271
+4  37  it is a decent globe but does not meet my expe...   0.529605
+5  17  l read some of the reviews before buying this ...   0.498606
+6   8  this is a pretty good globe to be fair it is a...   0.419501
+7   7  really not much to say we re homeschoolers and...   0.321917
+
+step 1
+index added: 38
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 39 with core nodes: [8, 9, 11, 23]
+
+step 1
+index added: 40
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [3, 7, 45]
+			old information: 141, gain: 0.7486631016042781
+
+   ind                                             review  relevance
+0   9  there is quite a lot of appropriate detail on ...   0.712400
+1  23  this is a for the price review good amount of ...   0.642445
+2  20  the look of this globe is out of this world it...   0.637965
+3  16  came well packaged and quality is pretty good ...   0.577271
+4  45  very sturdy globe and easy to read names it s ...   0.564304
+5  37  it is a decent globe but does not meet my expe...   0.529605
+6  17  l read some of the reviews before buying this ...   0.498606
+7   8  this is a pretty good globe to be fair it is a...   0.419501
+8   7  really not much to say we re homeschoolers and...   0.321917
+
+step 1
+index added: 46
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [17, 45, 46]
+			old information: 601, gain: 0.8465270684371808
+
+   ind                                             review  relevance
+0   9  there is quite a lot of appropriate detail on ...   0.712400
+1  46  the relief on this globe was off by a good inc...   0.701288
+2  23  this is a for the price review good amount of ...   0.642445
+3  20  the look of this globe is out of this world it...   0.637965
+4  16  came well packaged and quality is pretty good ...   0.577271
+5  45  very sturdy globe and easy to read names it s ...   0.564304
+6  37  it is a decent globe but does not meet my expe...   0.529605
+7  17  l read some of the reviews before buying this ...   0.498606
+8   8  this is a pretty good globe to be fair it is a...   0.419501
+9   7  really not much to say we re homeschoolers and...   0.321917
+
+step 1
+index added: 47
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [8, 11, 47]
+			old information: 456, gain: 0.8910654562828476
+
+    ind                                             review  relevance
+0   47  the globe looks great but the stand does n t w...   0.726118
+1    9  there is quite a lot of appropriate detail on ...   0.712400
+2   46  the relief on this globe was off by a good inc...   0.701288
+3   23  this is a for the price review good amount of ...   0.642445
+4   20  the look of this globe is out of this world it...   0.637965
+5   16  came well packaged and quality is pretty good ...   0.577271
+6   45  very sturdy globe and easy to read names it s ...   0.564304
+7   37  it is a decent globe but does not meet my expe...   0.529605
+8   17  l read some of the reviews before buying this ...   0.498606
+9    8  this is a pretty good globe to be fair it is a...   0.419501
+10   7  really not much to say we re homeschoolers and...   0.321917
+
+step 1
+index added: 48
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 58.3333%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 58.3333%
+
+	step 2
+
+		step 3
+		candidate index: 57 with core nodes: [8, 11, 47]
+
+step 1
+index added: 58
+percentage unclustered: 58.3333%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 58.3333%
+
+	step 2
+
+--- 18.10277009010315 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 95.0, 93.3333, 91.6667, 91.6667, 91.6667, 91.6667, 91.6667, 91.6667, 91.6667, 90.0, 88.3333, 88.3333, 88.3333, 86.6667, 86.6667, 86.6667, 86.6667, 83.33330000000001, 85.0, 83.33330000000001, 83.33330000000001, 83.33330000000001, 83.33330000000001, 85.0, 85.0, 85.0, 85.0, 85.0, 85.0, 86.6667, 81.66669999999999, 81.66669999999999, 73.33330000000001, 73.33330000000001, 81.66669999999999, 81.66669999999999, 81.66669999999999, 81.66669999999999, 83.33330000000001, 83.33330000000001, 73.33330000000001, 73.33330000000001, 73.33330000000001, 73.33330000000001, 73.33330000000001, 73.33330000000001, 63.3333, 63.3333, 58.3333, 63.3333, 58.3333, 58.3333, 58.3333], mean: 82.7011
+
+Final Ranking:
+    ranking  ...                                             review
+0        17  ...  the globe looks great but the stand does n t w...
+1        22  ...  there is quite a lot of appropriate detail on ...
+2        28  ...  the relief on this globe was off by a good inc...
+3        49  ...  this is a for the price review good amount of ...
+4        16  ...  the look of this globe is out of this world it...
+5        34  ...  came well packaged and quality is pretty good ...
+6        47  ...  very sturdy globe and easy to read names it s ...
+7        37  ...  it is a decent globe but does not meet my expe...
+8        18  ...  l read some of the reviews before buying this ...
+9         8  ...  this is a pretty good globe to be fair it is a...
+10        2  ...  really not much to say we re homeschoolers and...
+
+[11 rows x 4 columns]

@@ -1,0 +1,1134 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 6303593666
+Shape:  (120, 7)
+Shape after:  (120, 7)
+
+
+Chosen product: 6303593666 has 120 reviews - True, it has 120 reviews
+
+Nr of stopwords in review: ['69/142', '64/138', '18/41', '48/122', '68/142', '194/405', '12/19', '31/62', '36/68', '111/214', '431/917', '16/30', '50/102', '116/245', '154/420', '22/39', '10/20', '45/109', '207/515', '129/285', '23/57', '92/247', '29/66', '129/257', '348/670', '111/219', '208/517', '90/201', '278/525', '134/256', '21/42', '80/180', '46/104', '73/135', '433/949', '64/126', '243/558', '377/765', '376/813', '57/123', '61/117', '64/130', '93/188', '257/533', '245/491', '245/491', '329/716', '303/734', '204/404', '54/113', '267/516', '42/81', '30/52', '137/284', '52/103', '23/52', '220/448', '140/284', '47/107', '129/240', '20/36', '20/34', '11/22', '78/169', '87/166', '44/86', '243/546', '57/112', '501/1044', '225/471', '23/46', '421/976', '174/313', '60/126', '80/157', '326/718', '25/45', '210/416', '270/524', '103/205', '39/90', '51/104', '133/243', '99/204', '324/708', '259/547', '128/249', '182/388', '24/47', '38/69', '330/773', '56/121', '33/74', '214/414', '228/445', '19/34', '147/327', '89/167', '35/76', '117/228', '91/172', '226/437', '110/211', '261/577', '193/411', '162/320', '73/144', '99/177', '120/241', '11/30', '103/240', '52/107', '95/194', '71/122', '180/377', '132/265', '44/88', '32/60', '102/218', '60/115'], on average: 0.4884
+Nr of stopwords in summary: ['0/3', '3/8', '1/7', '2/8', '8/21', '4/8', '7/10', '3/11', '0/3', '0/4', '4/10', '3/4', '0/3', '1/2', '5/7', '3/4', '1/4', '0/2', '2/7', '0/2', '0/5', '2/6', '2/7', '3/5', '0/2', '2/6', '2/11', '2/6', '1/3', '2/7', '0/2', '1/3', '3/4', '0/1', '0/3', '0/3', '3/6', '3/9', '3/7', '1/4', '0/2', '1/3', '1/4', '1/3', '6/11', '6/11', '2/4', '2/4', '0/2', '2/4', '2/4', '3/7', '0/2', '1/4', '1/3', '0/3', '3/6', '2/5', '0/2', '0/2', '0/1', '3/4', '0/1', '2/5', '1/4', '1/4', '3/7', '1/2', '6/9', '1/4', '0/3', '1/8', '4/11', '1/3', '3/6', '2/6', '1/5', '7/13', '4/8', '2/6', '4/8', '4/8', '0/1', '5/9', '2/5', '4/8', '0/3', '5/8', '2/4', '1/5', '1/4', '0/2', '4/6', '1/3', '5/7', '5/10', '4/8', '2/5', '0/2', '2/4', '1/3', '3/9', '3/8', '2/7', '0/1', '2/4', '1/5', '2/4', '2/8', '0/3', '1/4', '2/5', '0/2', '0/1', '2/5', '3/7', '4/8', '5/7', '0/2', '2/4'], on average: 0.3151
+
+Duplicate reviewers?:  45    A27FYYS44LH7KD
+66    A23IV3DK4EAXJH
+Name: reviewerID, dtype: object
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 97.5%
+
+	step 2
+
+		step 3
+		candidate index: 4 with core nodes: [1, 2, 4]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   4  this should have been a landmark title a histo...   0.534585
+
+step 1
+index added: 5
+percentage unclustered: 96.6667%
+
+	step 2
+
+		step 3
+		candidate index: 5 with core nodes: [1, 2, 4, 5]
+			old information: 717, gain: 0.9912357902456912
+
+   ind                                             review  relevance
+0   5  2015 blu ray review triumph of the will is a p...   0.782218
+1   4  this should have been a landmark title a histo...   0.534585
+
+step 1
+index added: 6
+percentage unclustered: 95.8333%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [1, 2, 4, 5]
+			old information: 32, gain: 0.8128654970760234
+
+   ind                                             review  relevance
+0   5  2015 blu ray review triumph of the will is a p...   0.782218
+1   4  this should have been a landmark title a histo...   0.534585
+2   6  it s a masterpiece it s a piece of history any...   0.301728
+
+step 1
+index added: 7
+percentage unclustered: 95.8333%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 95.8333%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 95.8333%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 94.1667%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [1, 5, 7, 10]
+			old information: 2597, gain: 0.993816460548685
+
+   ind                                             review  relevance
+0  10  leni riefenstahl 1902 2003 began her career as...   0.848102
+1   5  2015 blu ray review triumph of the will is a p...   0.782218
+2   4  this should have been a landmark title a histo...   0.534585
+3   6  it s a masterpiece it s a piece of history any...   0.301728
+
+step 1
+index added: 11
+percentage unclustered: 95.0%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [1, 4, 7, 10]
+
+step 1
+index added: 12
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 94.1667%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [1, 7, 10, 14]
+			old information: 1942, gain: 0.9779293101488805
+
+   ind                                             review  relevance
+0  10  leni riefenstahl 1902 2003 began her career as...   0.848102
+1   5  2015 blu ray review triumph of the will is a p...   0.782218
+2  14  propaganda today s movies newspapers tv shows ...   0.736699
+3   4  this should have been a landmark title a histo...   0.534585
+4   6  it s a masterpiece it s a piece of history any...   0.301728
+
+step 1
+index added: 15
+percentage unclustered: 95.0%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [1, 7, 10, 14]
+
+step 1
+index added: 16
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 94.1667%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [1, 10, 14, 21]
+			old information: 1662, gain: 0.9452947565912906
+
+   ind                                             review  relevance
+0  10  leni riefenstahl 1902 2003 began her career as...   0.848102
+1  21  as a big fan of film especially historical pro...   0.791259
+2   5  2015 blu ray review triumph of the will is a p...   0.782218
+3  14  propaganda today s movies newspapers tv shows ...   0.736699
+4   4  this should have been a landmark title a histo...   0.534585
+5   6  it s a masterpiece it s a piece of history any...   0.301728
+
+step 1
+index added: 22
+percentage unclustered: 93.3333%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [1, 10, 14, 21]
+
+step 1
+index added: 23
+percentage unclustered: 93.3333%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 93.3333%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 93.3333%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 93.3333%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 92.5%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [10, 14, 21, 27]
+			old information: 2365, gain: 0.8823383084577114
+
+   ind                                             review  relevance
+0  10  leni riefenstahl 1902 2003 began her career as...   0.848102
+1  27  reviews taken from the the imdb n n a legendar...   0.841455
+2  21  as a big fan of film especially historical pro...   0.791259
+3   5  2015 blu ray review triumph of the will is a p...   0.782218
+4  14  propaganda today s movies newspapers tv shows ...   0.736699
+5   4  this should have been a landmark title a histo...   0.534585
+6   6  it s a masterpiece it s a piece of history any...   0.301728
+
+step 1
+index added: 28
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 93.3333%
+
+	step 2
+
+		step 3
+		candidate index: 31 with core nodes: [10, 14, 21, 31]
+			old information: 1583, gain: 0.9017380509000621
+
+   ind                                             review  relevance
+0  10  leni riefenstahl 1902 2003 began her career as...   0.848102
+1  27  reviews taken from the the imdb n n a legendar...   0.841455
+2  31  hitler s propaganda minister infamously said i...   0.811060
+3  21  as a big fan of film especially historical pro...   0.791259
+4   5  2015 blu ray review triumph of the will is a p...   0.782218
+5  14  propaganda today s movies newspapers tv shows ...   0.736699
+6   4  this should have been a landmark title a histo...   0.534585
+7   6  it s a masterpiece it s a piece of history any...   0.301728
+
+step 1
+index added: 32
+percentage unclustered: 92.5%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [10, 14, 21, 31]
+			old information: 819, gain: 0.8470873786407767
+
+   ind                                             review  relevance
+0  10  leni riefenstahl 1902 2003 began her career as...   0.848102
+1  27  reviews taken from the the imdb n n a legendar...   0.841455
+2  31  hitler s propaganda minister infamously said i...   0.811060
+3  21  as a big fan of film especially historical pro...   0.791259
+4   5  2015 blu ray review triumph of the will is a p...   0.782218
+5  14  propaganda today s movies newspapers tv shows ...   0.736699
+6  32  accomplished through the offices of propaganda...   0.703763
+7   4  this should have been a landmark title a histo...   0.534585
+8   6  it s a masterpiece it s a piece of history any...   0.301728
+
+step 1
+index added: 33
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 91.6667%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [10, 21, 31, 36]
+			old information: 5059, gain: 0.9674459309022349
+
+   ind                                             review  relevance
+0  10  leni riefenstahl 1902 2003 began her career as...   0.848102
+1  36  it is far from easy to review such material i ...   0.848090
+2  27  reviews taken from the the imdb n n a legendar...   0.841455
+3  31  hitler s propaganda minister infamously said i...   0.811060
+4  21  as a big fan of film especially historical pro...   0.791259
+5   5  2015 blu ray review triumph of the will is a p...   0.782218
+6  14  propaganda today s movies newspapers tv shows ...   0.736699
+7  32  accomplished through the offices of propaganda...   0.703763
+8   4  this should have been a landmark title a histo...   0.534585
+9   6  it s a masterpiece it s a piece of history any...   0.301728
+
+step 1
+index added: 37
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 40 with core nodes: [5, 10, 18, 21, 31, 36]
+
+step 1
+index added: 41
+percentage unclustered: 80.83330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [5, 10, 18, 21, 31, 36]
+			old information: 1096, gain: 0.8692903995229576
+
+    ind                                             review  relevance
+0   10  leni riefenstahl 1902 2003 began her career as...   0.848102
+1   36  it is far from easy to review such material i ...   0.848090
+2   27  reviews taken from the the imdb n n a legendar...   0.841455
+3   41  although the star of this film is among the mo...   0.811801
+4   31  hitler s propaganda minister infamously said i...   0.811060
+5   21  as a big fan of film especially historical pro...   0.791259
+6    5  2015 blu ray review triumph of the will is a p...   0.782218
+7   14  propaganda today s movies newspapers tv shows ...   0.736699
+8   32  accomplished through the offices of propaganda...   0.703763
+9    4  this should have been a landmark title a histo...   0.534585
+10   6  it s a masterpiece it s a piece of history any...   0.301728
+
+step 1
+index added: 42
+percentage unclustered: 80.83330000000001%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 85.8333%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [10, 36, 43]
+			old information: 6163, gain: 0.9565306323971279
+
+    ind                                             review  relevance
+0   43  this is an important film in understanding a p...   0.869605
+1   10  leni riefenstahl 1902 2003 began her career as...   0.848102
+2   36  it is far from easy to review such material i ...   0.848090
+3   27  reviews taken from the the imdb n n a legendar...   0.841455
+4   41  although the star of this film is among the mo...   0.811801
+5   31  hitler s propaganda minister infamously said i...   0.811060
+6   21  as a big fan of film especially historical pro...   0.791259
+7    5  2015 blu ray review triumph of the will is a p...   0.782218
+8   14  propaganda today s movies newspapers tv shows ...   0.736699
+9   32  accomplished through the offices of propaganda...   0.703763
+10   4  this should have been a landmark title a histo...   0.534585
+11   6  it s a masterpiece it s a piece of history any...   0.301728
+
+step 1
+index added: 44
+percentage unclustered: 85.8333%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 85.8333%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [10, 36, 43, 46]
+			old information: 8386, gain: 0.9672383482439348
+
+    ind                                             review  relevance
+0   46  the aim of the rallies and parades described h...   0.899089
+1   43  this is an important film in understanding a p...   0.869605
+2   10  leni riefenstahl 1902 2003 began her career as...   0.848102
+3   36  it is far from easy to review such material i ...   0.848090
+4   27  reviews taken from the the imdb n n a legendar...   0.841455
+5   41  although the star of this film is among the mo...   0.811801
+6   31  hitler s propaganda minister infamously said i...   0.811060
+7   21  as a big fan of film especially historical pro...   0.791259
+8    5  2015 blu ray review triumph of the will is a p...   0.782218
+9   14  propaganda today s movies newspapers tv shows ...   0.736699
+10  32  accomplished through the offices of propaganda...   0.703763
+11   4  this should have been a landmark title a histo...   0.534585
+12   6  it s a masterpiece it s a piece of history any...   0.301728
+
+step 1
+index added: 47
+percentage unclustered: 84.1667%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [10, 43, 46, 47]
+			old information: 10803, gain: 0.959841790856136
+
+    ind                                             review  relevance
+0   46  the aim of the rallies and parades described h...   0.899089
+1   47  having seen the wonderful horrible life of len...   0.891103
+2   43  this is an important film in understanding a p...   0.869605
+3   10  leni riefenstahl 1902 2003 began her career as...   0.848102
+4   36  it is far from easy to review such material i ...   0.848090
+5   27  reviews taken from the the imdb n n a legendar...   0.841455
+6   41  although the star of this film is among the mo...   0.811801
+7   31  hitler s propaganda minister infamously said i...   0.811060
+8   21  as a big fan of film especially historical pro...   0.791259
+9    5  2015 blu ray review triumph of the will is a p...   0.782218
+10  14  propaganda today s movies newspapers tv shows ...   0.736699
+11  32  accomplished through the offices of propaganda...   0.703763
+12   4  this should have been a landmark title a histo...   0.534585
+13   6  it s a masterpiece it s a piece of history any...   0.301728
+
+step 1
+index added: 48
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 48 with core nodes: [10, 43, 46, 47]
+
+step 1
+index added: 49
+percentage unclustered: 88.3333%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 88.3333%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 88.3333%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 88.3333%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 88.3333%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 88.3333%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 55 with core nodes: [5, 10, 36, 46, 47]
+
+step 1
+index added: 56
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 56 with core nodes: [10, 44, 45, 46, 47, 56]
+			old information: 7375, gain: 0.9263442793224672
+
+    ind                                             review  relevance
+0   46  the aim of the rallies and parades described h...   0.899089
+1   47  having seen the wonderful horrible life of len...   0.891103
+2   43  this is an important film in understanding a p...   0.869605
+3   56  this movie is a masterpiece you do however hav...   0.856799
+4   10  leni riefenstahl 1902 2003 began her career as...   0.848102
+5   36  it is far from easy to review such material i ...   0.848090
+6   27  reviews taken from the the imdb n n a legendar...   0.841455
+7   41  although the star of this film is among the mo...   0.811801
+8   31  hitler s propaganda minister infamously said i...   0.811060
+9   21  as a big fan of film especially historical pro...   0.791259
+10   5  2015 blu ray review triumph of the will is a p...   0.782218
+11  14  propaganda today s movies newspapers tv shows ...   0.736699
+12  32  accomplished through the offices of propaganda...   0.703763
+13   4  this should have been a landmark title a histo...   0.534585
+14   6  it s a masterpiece it s a piece of history any...   0.301728
+
+step 1
+index added: 57
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 59 with core nodes: [10, 44, 45, 46, 47, 56]
+
+step 1
+index added: 60
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 77.5%
+
+	step 2
+
+		step 3
+		candidate index: 66 with core nodes: [10, 46, 47]
+			old information: 44624, gain: 0.7000772927378432
+
+    ind                                             review  relevance
+0   46  the aim of the rallies and parades described h...   0.899089
+1   66  it is far from easy to review such material i ...   0.896658
+2   47  having seen the wonderful horrible life of len...   0.891103
+3   43  this is an important film in understanding a p...   0.869605
+4   56  this movie is a masterpiece you do however hav...   0.856799
+5   10  leni riefenstahl 1902 2003 began her career as...   0.848102
+6   36  it is far from easy to review such material i ...   0.848090
+7   27  reviews taken from the the imdb n n a legendar...   0.841455
+8   41  although the star of this film is among the mo...   0.811801
+9   31  hitler s propaganda minister infamously said i...   0.811060
+10  21  as a big fan of film especially historical pro...   0.791259
+11   5  2015 blu ray review triumph of the will is a p...   0.782218
+12  14  propaganda today s movies newspapers tv shows ...   0.736699
+13  32  accomplished through the offices of propaganda...   0.703763
+14   4  this should have been a landmark title a histo...   0.534585
+15   6  it s a masterpiece it s a piece of history any...   0.301728
+
+step 1
+index added: 67
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 74.16669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 69 with core nodes: [10, 46, 47, 69]
+			old information: 11189, gain: 0.8989113249311108
+
+    ind                                             review  relevance
+0   69  important to see for many reasons triumph of t...   0.899464
+1   46  the aim of the rallies and parades described h...   0.899089
+2   66  it is far from easy to review such material i ...   0.896658
+3   47  having seen the wonderful horrible life of len...   0.891103
+4   43  this is an important film in understanding a p...   0.869605
+5   56  this movie is a masterpiece you do however hav...   0.856799
+6   10  leni riefenstahl 1902 2003 began her career as...   0.848102
+7   36  it is far from easy to review such material i ...   0.848090
+8   27  reviews taken from the the imdb n n a legendar...   0.841455
+9   41  although the star of this film is among the mo...   0.811801
+10  31  hitler s propaganda minister infamously said i...   0.811060
+11  21  as a big fan of film especially historical pro...   0.791259
+12   5  2015 blu ray review triumph of the will is a p...   0.782218
+13  14  propaganda today s movies newspapers tv shows ...   0.736699
+14  32  accomplished through the offices of propaganda...   0.703763
+15   4  this should have been a landmark title a histo...   0.534585
+16   6  it s a masterpiece it s a piece of history any...   0.301728
+
+step 1
+index added: 70
+percentage unclustered: 74.16669999999999%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 74.16669999999999%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 74.16669999999999%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 74.16669999999999%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 75.83330000000001%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 75.83330000000001%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 75.83330000000001%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 75.83330000000001%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 75.83330000000001%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 75.83330000000001%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 75.83330000000001%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 75.83330000000001%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 75.83330000000001%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 75.0%
+
+	step 2
+
+		step 3
+		candidate index: 85 with core nodes: [10, 47, 69, 85]
+			old information: 10364, gain: 0.9305971298658684
+
+    ind                                             review  relevance
+0   69  important to see for many reasons triumph of t...   0.899464
+1   46  the aim of the rallies and parades described h...   0.899089
+2   66  it is far from easy to review such material i ...   0.896658
+3   47  having seen the wonderful horrible life of len...   0.891103
+4   85  no the endless rows of troops and supporters a...   0.887884
+5   43  this is an important film in understanding a p...   0.869605
+6   56  this movie is a masterpiece you do however hav...   0.856799
+7   10  leni riefenstahl 1902 2003 began her career as...   0.848102
+8   36  it is far from easy to review such material i ...   0.848090
+9   27  reviews taken from the the imdb n n a legendar...   0.841455
+10  41  although the star of this film is among the mo...   0.811801
+11  31  hitler s propaganda minister infamously said i...   0.811060
+12  21  as a big fan of film especially historical pro...   0.791259
+13   5  2015 blu ray review triumph of the will is a p...   0.782218
+14  14  propaganda today s movies newspapers tv shows ...   0.736699
+15  32  accomplished through the offices of propaganda...   0.703763
+16   4  this should have been a landmark title a histo...   0.534585
+17   6  it s a masterpiece it s a piece of history any...   0.301728
+
+step 1
+index added: 86
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 74.16669999999999%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 74.16669999999999%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 74.16669999999999%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 71.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 94 with core nodes: [10, 47, 69]
+			old information: 8681, gain: 0.9121267334750481
+
+    ind                                             review  relevance
+0   69  important to see for many reasons triumph of t...   0.899464
+1   46  the aim of the rallies and parades described h...   0.899089
+2   66  it is far from easy to review such material i ...   0.896658
+3   47  having seen the wonderful horrible life of len...   0.891103
+4   85  no the endless rows of troops and supporters a...   0.887884
+5   94  it is so easy in hindsight to vilify leni rief...   0.874825
+6   43  this is an important film in understanding a p...   0.869605
+7   56  this movie is a masterpiece you do however hav...   0.856799
+8   10  leni riefenstahl 1902 2003 began her career as...   0.848102
+9   36  it is far from easy to review such material i ...   0.848090
+10  27  reviews taken from the the imdb n n a legendar...   0.841455
+11  41  although the star of this film is among the mo...   0.811801
+12  31  hitler s propaganda minister infamously said i...   0.811060
+13  21  as a big fan of film especially historical pro...   0.791259
+14   5  2015 blu ray review triumph of the will is a p...   0.782218
+15  14  propaganda today s movies newspapers tv shows ...   0.736699
+16  32  accomplished through the offices of propaganda...   0.703763
+17   4  this should have been a landmark title a histo...   0.534585
+18   6  it s a masterpiece it s a piece of history any...   0.301728
+
+step 1
+index added: 95
+percentage unclustered: 71.66669999999999%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 71.66669999999999%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 71.66669999999999%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 71.66669999999999%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 70.83330000000001%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 70.83330000000001%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 101 with core nodes: [10, 47, 69, 101]
+			old information: 9584, gain: 0.899397476539374
+
+     ind                                             review  relevance
+0   101  triumph of the will has long been viewed throu...   0.904348
+1    69  important to see for many reasons triumph of t...   0.899464
+2    46  the aim of the rallies and parades described h...   0.899089
+3    66  it is far from easy to review such material i ...   0.896658
+4    47  having seen the wonderful horrible life of len...   0.891103
+5    85  no the endless rows of troops and supporters a...   0.887884
+6    94  it is so easy in hindsight to vilify leni rief...   0.874825
+7    43  this is an important film in understanding a p...   0.869605
+8    56  this movie is a masterpiece you do however hav...   0.856799
+9    10  leni riefenstahl 1902 2003 began her career as...   0.848102
+10   36  it is far from easy to review such material i ...   0.848090
+11   27  reviews taken from the the imdb n n a legendar...   0.841455
+12   41  although the star of this film is among the mo...   0.811801
+13   31  hitler s propaganda minister infamously said i...   0.811060
+14   21  as a big fan of film especially historical pro...   0.791259
+15    5  2015 blu ray review triumph of the will is a p...   0.782218
+16   14  propaganda today s movies newspapers tv shows ...   0.736699
+17   32  accomplished through the offices of propaganda...   0.703763
+18    4  this should have been a landmark title a histo...   0.534585
+19    6  it s a masterpiece it s a piece of history any...   0.301728
+
+step 1
+index added: 102
+percentage unclustered: 69.16669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 102 with core nodes: [10, 47, 69, 101]
+
+step 1
+index added: 103
+percentage unclustered: 69.16669999999999%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 69.16669999999999%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 69.16669999999999%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 69.16669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 107 with core nodes: [10, 47, 69]
+			old information: 1887, gain: 0.8788520801232665
+
+     ind                                             review  relevance
+0   101  triumph of the will has long been viewed throu...   0.904348
+1    69  important to see for many reasons triumph of t...   0.899464
+2    46  the aim of the rallies and parades described h...   0.899089
+3    66  it is far from easy to review such material i ...   0.896658
+4    47  having seen the wonderful horrible life of len...   0.891103
+5    85  no the endless rows of troops and supporters a...   0.887884
+6    94  it is so easy in hindsight to vilify leni rief...   0.874825
+7    43  this is an important film in understanding a p...   0.869605
+8    56  this movie is a masterpiece you do however hav...   0.856799
+9    10  leni riefenstahl 1902 2003 began her career as...   0.848102
+10   36  it is far from easy to review such material i ...   0.848090
+11   27  reviews taken from the the imdb n n a legendar...   0.841455
+12  107  the first thing you will notice after triumph ...   0.820659
+13   41  although the star of this film is among the mo...   0.811801
+14   31  hitler s propaganda minister infamously said i...   0.811060
+15   21  as a big fan of film especially historical pro...   0.791259
+16    5  2015 blu ray review triumph of the will is a p...   0.782218
+17   14  propaganda today s movies newspapers tv shows ...   0.736699
+18   32  accomplished through the offices of propaganda...   0.703763
+19    4  this should have been a landmark title a histo...   0.534585
+20    6  it s a masterpiece it s a piece of history any...   0.301728
+
+step 1
+index added: 108
+percentage unclustered: 69.16669999999999%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 68.33330000000001%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 68.33330000000001%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 67.5%
+
+	step 2
+
+		step 3
+		candidate index: 111 with core nodes: [10, 47, 69]
+
+step 1
+index added: 112
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 65.83330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 119 with core nodes: [47, 66, 69, 85]
+
+--- 3962.986820459366 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 97.5, 96.6667, 95.8333, 95.8333, 95.8333, 95.8333, 94.1667, 95.0, 95.0, 95.0, 94.1667, 95.0, 95.0, 95.0, 95.0, 95.0, 95.0, 94.1667, 93.3333, 93.3333, 93.3333, 93.3333, 93.3333, 92.5, 92.5, 92.5, 92.5, 93.3333, 92.5, 92.5, 92.5, 92.5, 91.6667, 91.6667, 91.6667, 91.6667, 81.66669999999999, 80.83330000000001, 80.83330000000001, 85.8333, 85.8333, 85.8333, 85.0, 84.1667, 83.33330000000001, 88.3333, 88.3333, 88.3333, 88.3333, 88.3333, 88.3333, 85.0, 81.66669999999999, 81.66669999999999, 81.66669999999999, 78.33330000000001, 78.33330000000001, 77.5, 77.5, 77.5, 77.5, 77.5, 77.5, 76.66669999999999, 76.66669999999999, 74.16669999999999, 74.16669999999999, 74.16669999999999, 73.33330000000001, 74.16669999999999, 74.16669999999999, 75.0, 75.83330000000001, 75.83330000000001, 75.83330000000001, 75.83330000000001, 75.83330000000001, 75.83330000000001, 75.83330000000001, 75.83330000000001, 75.83330000000001, 75.0, 75.0, 75.0, 74.16669999999999, 74.16669999999999, 74.16669999999999, 72.5, 72.5, 72.5, 71.66669999999999, 71.66669999999999, 71.66669999999999, 71.66669999999999, 71.66669999999999, 70.83330000000001, 70.83330000000001, 70.0, 69.16669999999999, 69.16669999999999, 69.16669999999999, 69.16669999999999, 70.0, 69.16669999999999, 69.16669999999999, 68.33330000000001, 68.33330000000001, 67.5, 67.5, 67.5, 67.5, 70.0, 70.0, 70.0, 70.0, 65.83330000000001], mean: 81.7302
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0         2  101   0.904348  triumph of the will has long been viewed throu...
+1        69   69   0.899464  important to see for many reasons triumph of t...
+2        10   46   0.899089  the aim of the rallies and parades described h...
+3       104   66   0.896658  it is far from easy to review such material i ...
+4        42   47   0.891103  having seen the wonderful horrible life of len...
+5        61   85   0.887884  no the endless rows of troops and supporters a...
+6        19   94   0.874825  it is so easy in hindsight to vilify leni rief...
+7        54   43   0.869605  this is an important film in understanding a p...
+8        76   56   0.856799  this movie is a masterpiece you do however hav...
+9        60   10   0.848102  leni riefenstahl 1902 2003 began her career as...
+10       45   36   0.848090  it is far from easy to review such material i ...
+11       94   27   0.841455  reviews taken from the the imdb n n a legendar...
+12      110  107   0.820659  the first thing you will notice after triumph ...
+13       71   41   0.811801  although the star of this film is among the mo...
+14       97   31   0.811060  hitler s propaganda minister infamously said i...
+15       82   21   0.791259  as a big fan of film especially historical pro...
+16        1    5   0.782218  2015 blu ray review triumph of the will is a p...
+17       91   14   0.736699  propaganda today s movies newspapers tv shows ...
+18       98   32   0.703763  accomplished through the offices of propaganda...
+19        4    4   0.534585  this should have been a landmark title a histo...
+20       32    6   0.301728  it s a masterpiece it s a piece of history any...

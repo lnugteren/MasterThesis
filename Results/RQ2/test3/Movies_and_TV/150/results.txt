@@ -1,0 +1,1159 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 0510539610
+Shape:  (150, 7)
+Shape after:  (150, 7)
+
+
+Chosen product: 0510539610 has 150 reviews - True, it has 150 reviews
+
+Nr of stopwords in review: ['32/63', '94/172', '116/216', '63/127', '32/63', '72/149', '2/5', '12/27', '93/179', '16/36', '39/68', '7/17', '36/67', '61/124', '30/58', '29/67', '60/114', '13/33', '19/47', '3/7', '92/161', '41/74', '50/96', '33/55', '80/159', '30/56', '92/187', '20/43', '21/43', '81/127', '19/36', '61/109', '74/140', '62/104', '179/337', '23/49', '15/29', '13/29', '106/220', '42/78', '5/16', '27/45', '137/270', '7/11', '29/49', '38/67', '37/75', '13/29', '79/139', '56/109', '2/6', '41/81', '15/27', '13/25', '78/160', '38/66', '54/105', '26/48', '112/226', '27/49', '23/38', '210/386', '13/29', '17/32', '16/35', '3/10', '38/72', '35/54', '102/215', '4/16', '31/57', '43/84', '37/76', '9/21', '63/107', '17/33', '10/28', '97/203', '51/96', '33/63', '138/252', '18/36', '58/106', '50/113', '11/25', '53/101', '28/55', '126/227', '37/70', '28/44', '57/113', '55/115', '60/115', '69/122', '62/109', '36/73', '10/28', '34/70', '29/49', '42/92', '139/272', '21/40', '21/39', '53/95', '68/126', '40/72', '16/37', '30/59', '18/30', '41/74', '42/75', '45/76', '6/20', '22/40', '24/37', '54/101', '18/36', '88/176', '58/108', '55/100', '52/91', '28/54', '16/33', '80/147', '70/126', '45/81', '15/29', '56/101', '53/107', '18/35', '67/122', '36/66', '34/61', '80/138', '30/59', '96/165', '99/189', '36/66', '51/91', '57/117', '51/93', '43/87', '44/83', '77/160', '54/106', '48/81', '85/167', '143/271', '79/152', '84/165'], on average: 0.5138
+Nr of stopwords in summary: ['4/7', '1/3', '5/12', '5/10', '0/2', '5/11', '0/2', '5/11', '1/2', '2/5', '7/13', '5/10', '0/2', '4/9', '0/1', '3/6', '0/2', '1/2', '1/5', '0/2', '12/19', '2/6', '1/2', '5/7', '4/10', '7/13', '5/12', '5/10', '5/15', '0/2', '3/6', '1/4', '0/1', '6/12', '8/12', '0/2', '0/1', '5/9', '1/3', '1/3', '0/2', '6/9', '1/4', '3/5', '9/13', '2/5', '0/2', '4/12', '1/4', '6/11', '0/2', '2/5', '0/3', '0/2', '1/4', '5/9', '1/5', '5/11', '2/3', '1/2', '1/5', '5/10', '2/4', '0/2', '2/4', '0/2', '1/2', '7/13', '6/15', '1/7', '3/8', '0/2', '0/1', '0/3', '0/2', '1/5', '0/2', '1/5', '0/4', '3/8', '1/6', '1/2', '1/4', '2/6', '1/2', '0/4', '3/7', '2/5', '0/2', '0/2', '3/6', '0/1', '1/3', '3/7', '3/5', '0/2', '1/2', '1/5', '1/2', '1/3', '2/4', '2/4', '0/2', '1/5', '0/2', '0/1', '6/15', '0/2', '0/2', '0/4', '1/2', '0/1', '2/5', '1/3', '1/2', '2/5', '0/2', '0/3', '1/3', '0/3', '0/5', '0/3', '1/5', '2/4', '2/4', '1/8', '0/2', '3/4', '1/3', '3/6', '1/2', '3/4', '0/1', '2/6', '2/4', '2/9', '0/2', '3/9', '1/2', '0/1', '3/5', '0/3', '3/6', '2/6', '1/2', '2/6', '0/1', '8/15', '5/8', '1/2'], on average: 0.3002
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 98.0%
+
+	step 2
+
+		step 3
+		candidate index: 5 with core nodes: [0, 3, 5]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   5  i am 61 and recently had trouble with leakage ...   0.619768
+
+step 1
+index added: 6
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 97.3333%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [0, 3, 5, 8]
+			old information: 390, gain: 0.9755194275312284
+
+   ind                                             review  relevance
+0   8  this is an amazing pt workout after being diag...   0.648938
+1   5  i am 61 and recently had trouble with leakage ...   0.619768
+
+step 1
+index added: 9
+percentage unclustered: 98.0%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [3, 5, 9]
+			old information: 159, gain: 0.7476190476190476
+
+   ind                                             review  relevance
+0   8  this is an amazing pt workout after being diag...   0.648938
+1   5  i am 61 and recently had trouble with leakage ...   0.619768
+2   9  i ve started the first workout and feel how my...   0.582819
+
+step 1
+index added: 10
+percentage unclustered: 97.3333%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [3, 5, 9, 10]
+			old information: 199, gain: 0.9126426690079017
+
+   ind                                             review  relevance
+0   8  this is an amazing pt workout after being diag...   0.648938
+1   5  i am 61 and recently had trouble with leakage ...   0.619768
+2   9  i ve started the first workout and feel how my...   0.582819
+3  10  the material was probably good but the dvd cou...   0.481044
+
+step 1
+index added: 11
+percentage unclustered: 96.6667%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [3, 5, 9, 10]
+
+step 1
+index added: 12
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 94.0%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [0, 1, 3, 5, 8, 13]
+			old information: 677, gain: 0.9112247574088644
+
+   ind                                             review  relevance
+0  13  i was devastated when i experienced a bladder ...   0.688762
+1   8  this is an amazing pt workout after being diag...   0.648938
+2   5  i am 61 and recently had trouble with leakage ...   0.619768
+3   9  i ve started the first workout and feel how my...   0.582819
+4  10  the material was probably good but the dvd cou...   0.481044
+
+step 1
+index added: 14
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 94.0%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [0, 1, 3, 5, 8, 13]
+
+step 1
+index added: 19
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 91.3333%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 91.3333%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 94.6667%
+
+	step 2
+
+		step 3
+		candidate index: 23 with core nodes: [5, 8, 9, 13, 23]
+			old information: 254, gain: 0.828956228956229
+
+   ind                                             review  relevance
+0  13  i was devastated when i experienced a bladder ...   0.688762
+1   8  this is an amazing pt workout after being diag...   0.648938
+2  23  i ve been doing the workout for about a month ...   0.633323
+3   5  i am 61 and recently had trouble with leakage ...   0.619768
+4   9  i ve started the first workout and feel how my...   0.582819
+5  10  the material was probably good but the dvd cou...   0.481044
+
+step 1
+index added: 24
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [0, 3, 5, 13, 20]
+
+step 1
+index added: 25
+percentage unclustered: 94.6667%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 94.6667%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 94.6667%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 94.6667%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 94.6667%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 94.6667%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 92.6667%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 92.6667%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 92.6667%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 85.3333%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 81.33330000000001%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 90.6667%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [2, 34, 38]
+			old information: 1381, gain: 0.9426733084267331
+
+   ind                                             review  relevance
+0  38  fred s wife here so 4 weeks after having a bea...   0.739451
+1  13  i was devastated when i experienced a bladder ...   0.688762
+2   8  this is an amazing pt workout after being diag...   0.648938
+3  23  i ve been doing the workout for about a month ...   0.633323
+4   5  i am 61 and recently had trouble with leakage ...   0.619768
+5   9  i ve started the first workout and feel how my...   0.582819
+6  10  the material was probably good but the dvd cou...   0.481044
+
+step 1
+index added: 39
+percentage unclustered: 91.3333%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 91.3333%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 90.6667%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [2, 34, 38]
+
+step 1
+index added: 42
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 42 with core nodes: [2, 34, 38]
+			old information: 2126, gain: 0.9414566983340218
+
+   ind                                             review  relevance
+0  42  this was a lifesaver for me after the birth of...   0.773299
+1  38  fred s wife here so 4 weeks after having a bea...   0.739451
+2  13  i was devastated when i experienced a bladder ...   0.688762
+3   8  this is an amazing pt workout after being diag...   0.648938
+4  23  i ve been doing the workout for about a month ...   0.633323
+5   5  i am 61 and recently had trouble with leakage ...   0.619768
+6   9  i ve started the first workout and feel how my...   0.582819
+7  10  the material was probably good but the dvd cou...   0.481044
+
+step 1
+index added: 43
+percentage unclustered: 89.3333%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 89.3333%
+
+	step 2
+
+		step 3
+		candidate index: 44 with core nodes: [2, 34, 38]
+
+step 1
+index added: 45
+percentage unclustered: 89.3333%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 87.3333%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [2, 34, 38]
+
+step 1
+index added: 47
+percentage unclustered: 87.3333%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 87.3333%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 77.33330000000001%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 77.33330000000001%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 84.6667%
+
+	step 2
+
+		step 3
+		candidate index: 54 with core nodes: [2, 13, 42]
+
+step 1
+index added: 55
+percentage unclustered: 84.6667%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 84.6667%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 84.6667%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 84.6667%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 84.0%
+
+	step 2
+
+		step 3
+		candidate index: 59 with core nodes: [2, 13, 42]
+
+step 1
+index added: 60
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 61 with core nodes: [2, 34, 42, 61]
+			old information: 3425, gain: 0.9539061974295135
+
+   ind                                             review  relevance
+0  61  i m not even 30 but have had stress incontinen...   0.823515
+1  42  this was a lifesaver for me after the birth of...   0.773299
+2  38  fred s wife here so 4 weeks after having a bea...   0.739451
+3  13  i was devastated when i experienced a bladder ...   0.688762
+4   8  this is an amazing pt workout after being diag...   0.648938
+5  23  i ve been doing the workout for about a month ...   0.633323
+6   5  i am 61 and recently had trouble with leakage ...   0.619768
+7   9  i ve started the first workout and feel how my...   0.582819
+8  10  the material was probably good but the dvd cou...   0.481044
+
+step 1
+index added: 62
+percentage unclustered: 80.66669999999999%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 81.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 63 with core nodes: [2, 34, 61]
+
+step 1
+index added: 64
+percentage unclustered: 81.33330000000001%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 81.33330000000001%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 80.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 66 with core nodes: [2, 34, 61]
+
+step 1
+index added: 67
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 75.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 71 with core nodes: [2, 34, 61]
+
+step 1
+index added: 72
+percentage unclustered: 75.33330000000001%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 75.33330000000001%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 75.33330000000001%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 75.33330000000001%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 75.33330000000001%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 75.33330000000001%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 74.66669999999999%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 74.66669999999999%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 72.0%
+
+	step 2
+
+		step 3
+		candidate index: 80 with core nodes: [13, 42, 80]
+			old information: 2777, gain: 0.9121924998419022
+
+   ind                                             review  relevance
+0  61  i m not even 30 but have had stress incontinen...   0.823515
+1  80  i have used this now for a few months and have...   0.812578
+2  42  this was a lifesaver for me after the birth of...   0.773299
+3  38  fred s wife here so 4 weeks after having a bea...   0.739451
+4  13  i was devastated when i experienced a bladder ...   0.688762
+5   8  this is an amazing pt workout after being diag...   0.648938
+6  23  i ve been doing the workout for about a month ...   0.633323
+7   5  i am 61 and recently had trouble with leakage ...   0.619768
+8   9  i ve started the first workout and feel how my...   0.582819
+9  10  the material was probably good but the dvd cou...   0.481044
+
+step 1
+index added: 81
+percentage unclustered: 70.66669999999999%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 69.33330000000001%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 72.66669999999999%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 72.66669999999999%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 72.0%
+
+	step 2
+
+		step 3
+		candidate index: 86 with core nodes: [2, 34, 61]
+
+step 1
+index added: 87
+percentage unclustered: 72.0%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 72.0%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 72.0%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 72.0%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 71.33330000000001%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 69.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 92 with core nodes: [2, 13, 34, 42, 61, 80, 92]
+			old information: 1458, gain: 0.7775743707093822
+
+    ind                                             review  relevance
+0   61  i m not even 30 but have had stress incontinen...   0.823515
+1   92  the instructions and descriptions of the exerc...   0.821688
+2   80  i have used this now for a few months and have...   0.812578
+3   42  this was a lifesaver for me after the birth of...   0.773299
+4   38  fred s wife here so 4 weeks after having a bea...   0.739451
+5   13  i was devastated when i experienced a bladder ...   0.688762
+6    8  this is an amazing pt workout after being diag...   0.648938
+7   23  i ve been doing the workout for about a month ...   0.633323
+8    5  i am 61 and recently had trouble with leakage ...   0.619768
+9    9  i ve started the first workout and feel how my...   0.582819
+10  10  the material was probably good but the dvd cou...   0.481044
+
+step 1
+index added: 93
+percentage unclustered: 69.33330000000001%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 69.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 94 with core nodes: [2, 13, 34, 42, 80, 92]
+
+step 1
+index added: 95
+percentage unclustered: 69.33330000000001%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 96 with core nodes: [2, 34, 42, 80, 92]
+
+step 1
+index added: 97
+percentage unclustered: 69.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 97 with core nodes: [2, 34, 42, 80, 92]
+
+step 1
+index added: 98
+percentage unclustered: 68.66669999999999%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 68.66669999999999%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 68.66669999999999%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 68.66669999999999%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 68.66669999999999%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 67.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 104 with core nodes: [2, 34, 42, 80, 92]
+
+step 1
+index added: 105
+percentage unclustered: 67.33330000000001%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 67.33330000000001%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 110 with core nodes: [2, 34, 42, 80, 92]
+
+step 1
+index added: 111
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 62.6667%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 62.0%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 62.0%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 61.3333%
+
+	step 2
+
+		step 3
+		candidate index: 118 with core nodes: [8, 80, 92, 118]
+			old information: 911, gain: 0.8423329871928003
+
+     ind                                             review  relevance
+0    61  i m not even 30 but have had stress incontinen...   0.823515
+1    92  the instructions and descriptions of the exerc...   0.821688
+2    80  i have used this now for a few months and have...   0.812578
+3    42  this was a lifesaver for me after the birth of...   0.773299
+4   118  i developed prolapse after moving lots of boxe...   0.740977
+5    38  fred s wife here so 4 weeks after having a bea...   0.739451
+6    13  i was devastated when i experienced a bladder ...   0.688762
+7     8  this is an amazing pt workout after being diag...   0.648938
+8    23  i ve been doing the workout for about a month ...   0.633323
+9     5  i am 61 and recently had trouble with leakage ...   0.619768
+10    9  i ve started the first workout and feel how my...   0.582819
+11   10  the material was probably good but the dvd cou...   0.481044
+
+step 1
+index added: 119
+percentage unclustered: 61.3333%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 61.3333%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 61.3333%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 62.0%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 61.3333%
+
+	step 2
+
+		step 3
+		candidate index: 123 with core nodes: [8, 80, 92, 118]
+
+step 1
+index added: 124
+percentage unclustered: 61.3333%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 62.0%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 62.0%
+
+	step 2
+
+step 1
+index added: 128
+percentage unclustered: 60.0%
+
+	step 2
+
+		step 3
+		candidate index: 128 with core nodes: [80, 92, 118]
+			old information: 1007, gain: 0.822429906542056
+
+     ind                                             review  relevance
+0    61  i m not even 30 but have had stress incontinen...   0.823515
+1    92  the instructions and descriptions of the exerc...   0.821688
+2    80  i have used this now for a few months and have...   0.812578
+3    42  this was a lifesaver for me after the birth of...   0.773299
+4   118  i developed prolapse after moving lots of boxe...   0.740977
+5    38  fred s wife here so 4 weeks after having a bea...   0.739451
+6   128  after a rough delivery at about 3 weeks i diag...   0.730919
+7    13  i was devastated when i experienced a bladder ...   0.688762
+8     8  this is an amazing pt workout after being diag...   0.648938
+9    23  i ve been doing the workout for about a month ...   0.633323
+10    5  i am 61 and recently had trouble with leakage ...   0.619768
+11    9  i ve started the first workout and feel how my...   0.582819
+12   10  the material was probably good but the dvd cou...   0.481044
+
+step 1
+index added: 129
+percentage unclustered: 59.3333%
+
+	step 2
+
+step 1
+index added: 130
+percentage unclustered: 59.3333%
+
+	step 2
+
+step 1
+index added: 131
+percentage unclustered: 59.3333%
+
+	step 2
+
+step 1
+index added: 132
+percentage unclustered: 57.3333%
+
+	step 2
+
+step 1
+index added: 133
+percentage unclustered: 56.6667%
+
+	step 2
+
+step 1
+index added: 134
+percentage unclustered: 56.0%
+
+	step 2
+
+step 1
+index added: 135
+percentage unclustered: 56.0%
+
+	step 2
+
+step 1
+index added: 136
+percentage unclustered: 56.0%
+
+	step 2
+
+step 1
+index added: 137
+percentage unclustered: 55.3333%
+
+	step 2
+
+step 1
+index added: 138
+percentage unclustered: 54.6667%
+
+	step 2
+
+step 1
+index added: 139
+percentage unclustered: 54.6667%
+
+	step 2
+
+step 1
+index added: 140
+percentage unclustered: 54.6667%
+
+	step 2
+
+step 1
+index added: 141
+percentage unclustered: 54.0%
+
+	step 2
+
+step 1
+index added: 142
+percentage unclustered: 53.3333%
+
+	step 2
+
+step 1
+index added: 143
+percentage unclustered: 52.6667%
+
+	step 2
+
+step 1
+index added: 144
+percentage unclustered: 52.0%
+
+	step 2
+
+step 1
+index added: 145
+percentage unclustered: 51.3333%
+
+	step 2
+
+step 1
+index added: 146
+percentage unclustered: 51.3333%
+
+	step 2
+
+step 1
+index added: 147
+percentage unclustered: 51.3333%
+
+	step 2
+
+step 1
+index added: 148
+percentage unclustered: 50.6667%
+
+	step 2
+
+step 1
+index added: 149
+percentage unclustered: 50.0%
+
+	step 2
+
+		step 3
+		candidate index: 149 with core nodes: [32, 92, 128, 149]
+			old information: 2484, gain: 0.8164079822616408
+
+     ind                                             review  relevance
+0    61  i m not even 30 but have had stress incontinen...   0.823515
+1    92  the instructions and descriptions of the exerc...   0.821688
+2    80  i have used this now for a few months and have...   0.812578
+3   149  i can not recommend this dvd enough i m 34 and...   0.799679
+4    42  this was a lifesaver for me after the birth of...   0.773299
+5   118  i developed prolapse after moving lots of boxe...   0.740977
+6    38  fred s wife here so 4 weeks after having a bea...   0.739451
+7   128  after a rough delivery at about 3 weeks i diag...   0.730919
+8    13  i was devastated when i experienced a bladder ...   0.688762
+9     8  this is an amazing pt workout after being diag...   0.648938
+10   23  i ve been doing the workout for about a month ...   0.633323
+11    5  i am 61 and recently had trouble with leakage ...   0.619768
+12    9  i ve started the first workout and feel how my...   0.582819
+13   10  the material was probably good but the dvd cou...   0.481044
+
+--- 184.91798210144043 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 98.0, 98.0, 98.0, 97.3333, 98.0, 97.3333, 96.6667, 96.6667, 94.0, 94.0, 94.0, 94.0, 94.0, 94.0, 94.0, 94.0, 91.3333, 91.3333, 94.6667, 90.0, 94.6667, 94.6667, 94.6667, 94.6667, 94.6667, 94.6667, 92.6667, 92.6667, 92.6667, 85.3333, 82.0, 81.33330000000001, 84.0, 90.6667, 91.3333, 91.3333, 90.6667, 90.0, 89.3333, 89.3333, 89.3333, 87.3333, 87.3333, 87.3333, 80.0, 78.0, 77.33330000000001, 77.33330000000001, 76.66669999999999, 84.6667, 84.6667, 84.6667, 84.6667, 84.6667, 84.0, 84.0, 83.33330000000001, 80.66669999999999, 81.33330000000001, 81.33330000000001, 81.33330000000001, 80.66669999999999, 78.0, 78.0, 78.0, 78.0, 75.33330000000001, 75.33330000000001, 75.33330000000001, 75.33330000000001, 75.33330000000001, 75.33330000000001, 75.33330000000001, 74.66669999999999, 74.66669999999999, 72.0, 70.66669999999999, 70.0, 69.33330000000001, 72.66669999999999, 72.66669999999999, 72.0, 72.0, 72.0, 72.0, 72.0, 71.33330000000001, 69.33330000000001, 69.33330000000001, 69.33330000000001, 69.33330000000001, 70.0, 69.33330000000001, 68.66669999999999, 68.66669999999999, 68.66669999999999, 68.66669999999999, 68.66669999999999, 68.0, 67.33330000000001, 67.33330000000001, 67.33330000000001, 66.66669999999999, 66.66669999999999, 66.0, 66.66669999999999, 66.66669999999999, 66.66669999999999, 66.66669999999999, 66.0, 62.6667, 62.0, 62.0, 61.3333, 61.3333, 61.3333, 61.3333, 62.0, 61.3333, 61.3333, 64.0, 62.0, 62.0, 60.0, 59.3333, 59.3333, 59.3333, 57.3333, 56.6667, 56.0, 56.0, 56.0, 55.3333, 54.6667, 54.6667, 54.6667, 54.0, 53.3333, 52.6667, 52.0, 51.3333, 51.3333, 51.3333, 50.6667, 50.0], mean: 76.0225
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0        90   61   0.823515  i m not even 30 but have had stress incontinen...
+1        39   92   0.821688  the instructions and descriptions of the exerc...
+2        80   80   0.812578  i have used this now for a few months and have...
+3         2  149   0.799679  i can not recommend this dvd enough i m 34 and...
+4         5   42   0.773299  this was a lifesaver for me after the birth of...
+5        53  118   0.740977  i developed prolapse after moving lots of boxe...
+6        73   38   0.739451  fred s wife here so 4 weeks after having a bea...
+7        17  128   0.730919  after a rough delivery at about 3 weeks i diag...
+8        50   13   0.688762  i was devastated when i experienced a bladder ...
+9        45    8   0.648938  this is an amazing pt workout after being diag...
+10       40   23   0.633323  i ve been doing the workout for about a month ...
+11       76    5   0.619768  i am 61 and recently had trouble with leakage ...
+12      100    9   0.582819  i ve started the first workout and feel how my...
+13       46   10   0.481044  the material was probably good but the dvd cou...

@@ -1,0 +1,1177 @@
+------- Category: Office_Products -------
+Found asin_id: B001CQDOMM
+Shape:  (151, 7)
+Shape after:  (151, 7)
+
+
+Chosen product: B001CQDOMM has 151 reviews - False, it has 150 reviews
+
+Nr of stopwords in review: ['327/693', '183/403', '465/967', '58/124', '133/272', '300/543', '601/1328', '87/175', '53/121', '58/113', '57/142', '149/278', '205/449', '30/70', '167/327', '312/626', '110/204', '50/92', '115/247', '163/321', '84/191', '64/115', '41/94', '69/141', '176/329', '87/160', '75/166', '192/390', '99/238', '217/386', '165/365', '55/119', '95/203', '121/227', '21/38', '81/192', '339/864', '34/62', '236/465', '46/81', '190/322', '42/92', '80/134', '26/50', '54/97', '118/212', '64/137', '60/144', '66/183', '102/197', '99/223', '73/170', '343/706', '245/498', '31/61', '535/1013', '123/243', '150/286', '144/267', '69/133', '70/174', '276/626', '118/241', '42/87', '110/190', '191/360', '98/204', '94/168', '75/134', '64/137', '32/61', '117/239', '71/186', '244/470', '59/114', '215/422', '252/507', '124/233', '87/184', '69/153', '93/190', '28/53', '31/49', '134/247', '165/336', '37/79', '82/162', '61/125', '25/52', '155/333', '59/114', '29/54', '38/80', '110/218', '456/898', '310/765', '22/51', '46/106', '39/76', '151/307', '119/228', '62/118', '62/113', '71/171', '169/325', '56/122', '108/210', '41/84', '25/57', '85/163', '249/483', '62/124', '30/75', '57/122', '408/777', '236/474', '110/262', '28/61', '48/100', '31/81', '116/261', '123/252', '122/212', '173/312', '58/117', '39/90', '85/170', '58/122', '69/157', '41/83', '194/362', '9/17', '90/169', '26/60', '69/125', '111/237', '89/163', '54/98', '99/190', '132/283', '115/196', '25/47', '25/41', '77/136', '92/178', '11/31', '61/122', '81/157', '43/97', '59/98'], on average: 0.4947
+Nr of stopwords in summary: ['1/4', '5/10', '4/9', '3/4', '1/5', '1/4', '0/4', '3/7', '2/5', '1/4', '0/2', '3/6', '0/5', '7/14', '2/6', '4/7', '0/5', '2/8', '4/10', '1/4', '1/4', '2/6', '2/7', '2/3', '3/4', '2/5', '0/2', '0/2', '2/5', '4/6', '9/17', '3/6', '3/7', '2/3', '4/7', '1/3', '4/9', '0/3', '5/8', '0/2', '10/19', '4/9', '9/16', '2/4', '0/2', '0/1', '2/6', '0/1', '2/3', '0/2', '2/7', '0/5', '3/9', '6/11', '0/3', '6/12', '3/5', '2/6', '0/1', '6/10', '4/6', '0/4', '2/4', '6/11', '5/8', '6/13', '2/8', '0/2', '6/11', '1/6', '0/2', '0/5', '2/4', '1/2', '1/4', '5/10', '3/6', '8/16', '1/5', '0/4', '4/8', '3/8', '5/8', '2/7', '0/3', '3/6', '4/7', '1/7', '1/5', '2/8', '0/3', '3/4', '1/3', '0/4', '0/6', '0/9', '0/3', '0/2', '4/8', '4/8', '1/7', '3/5', '1/2', '0/7', '2/3', '4/8', '2/6', '3/4', '3/6', '3/6', '1/8', '1/3', '0/4', '0/2', '3/6', '3/8', '1/3', '1/3', '1/5', '0/8', '2/8', '0/1', '1/2', '4/7', '3/6', '2/4', '0/3', '6/10', '0/2', '0/1', '0/1', '0/2', '1/9', '4/9', '2/4', '3/6', '1/7', '0/1', '0/2', '4/8', '1/3', '3/5', '3/6', '6/11', '6/8', '0/1', '3/8', '2/5', '0/7', '3/5'], on average: 0.3235
+
+Duplicate reviewers?:  65     A349AG17F9M7O0
+120    A2EDGRA4DSZPS0
+Name: reviewerID, dtype: object
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 98.0%
+
+	step 2
+
+		step 3
+		candidate index: 3 with core nodes: [1, 2, 3]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   3  was using this product for a number of years o...   0.590718
+
+step 1
+index added: 4
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 96.6667%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [1, 2, 4, 8]
+			old information: 96, gain: 0.9867768595041322
+
+   ind                                             review  relevance
+0   8  i received an advance release of this product ...   0.665081
+1   3  was using this product for a number of years o...   0.590718
+
+step 1
+index added: 9
+percentage unclustered: 94.6667%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [0, 1, 2, 6]
+
+step 1
+index added: 10
+percentage unclustered: 94.6667%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 96.0%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 95.3333%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [0, 2, 4, 6]
+			old information: 853, gain: 0.9915188514158447
+
+   ind                                             review  relevance
+0  12  there is no way of disabling the annoying syst...   0.742464
+1   8  i received an advance release of this product ...   0.665081
+2   3  was using this product for a number of years o...   0.590718
+
+step 1
+index added: 13
+percentage unclustered: 95.3333%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 95.3333%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 94.6667%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [0, 2, 6, 15]
+			old information: 3922, gain: 0.9799514376996805
+
+   ind                                             review  relevance
+0  15  never ever ever use this product the software ...   0.792645
+1  12  there is no way of disabling the annoying syst...   0.742464
+2   8  i received an advance release of this product ...   0.665081
+3   3  was using this product for a number of years o...   0.590718
+
+step 1
+index added: 16
+percentage unclustered: 94.6667%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 94.6667%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 94.6667%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 96.6667%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [0, 6, 15, 19]
+			old information: 3289, gain: 0.9359618380062306
+
+   ind                                             review  relevance
+0  15  never ever ever use this product the software ...   0.792645
+1  12  there is no way of disabling the annoying syst...   0.742464
+2  19  i have been using neatreciepts for 4 years now...   0.741977
+3   8  i received an advance release of this product ...   0.665081
+4   3  was using this product for a number of years o...   0.590718
+
+step 1
+index added: 20
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 93.3333%
+
+	step 2
+
+		step 3
+		candidate index: 23 with core nodes: [0, 6, 14, 15]
+
+step 1
+index added: 24
+percentage unclustered: 92.6667%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [0, 6, 14, 15]
+			old information: 3747, gain: 0.9305545259100008
+
+   ind                                             review  relevance
+0  15  never ever ever use this product the software ...   0.792645
+1  12  there is no way of disabling the annoying syst...   0.742464
+2  19  i have been using neatreciepts for 4 years now...   0.741977
+3  24  i purchased mine at costco good choice since i...   0.735025
+4   8  i received an advance release of this product ...   0.665081
+5   3  was using this product for a number of years o...   0.590718
+
+step 1
+index added: 25
+percentage unclustered: 92.0%
+
+	step 2
+
+		step 3
+		candidate index: 25 with core nodes: [0, 6, 14, 15]
+
+step 1
+index added: 26
+percentage unclustered: 91.3333%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 91.3333%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 91.3333%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 88.0%
+
+	step 2
+
+		step 3
+		candidate index: 31 with core nodes: [0, 6, 14, 15]
+			old information: 1230, gain: 0.8248112804443811
+
+   ind                                             review  relevance
+0  15  never ever ever use this product the software ...   0.792645
+1  12  there is no way of disabling the annoying syst...   0.742464
+2  19  i have been using neatreciepts for 4 years now...   0.741977
+3  24  i purchased mine at costco good choice since i...   0.735025
+4   8  i received an advance release of this product ...   0.665081
+5  31  neat has done a good job of packaging and mark...   0.653003
+6   3  was using this product for a number of years o...   0.590718
+
+step 1
+index added: 32
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 87.3333%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 87.3333%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 87.3333%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 87.3333%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 88.6667%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 88.6667%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 85.3333%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 84.6667%
+
+	step 2
+
+		step 3
+		candidate index: 42 with core nodes: [0, 2, 6, 14, 15]
+
+step 1
+index added: 43
+percentage unclustered: 84.6667%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 82.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 44 with core nodes: [0, 2, 6, 14, 15]
+
+step 1
+index added: 45
+percentage unclustered: 82.66669999999999%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [29, 33, 46]
+			old information: 875, gain: 0.9060755689136969
+
+   ind                                             review  relevance
+0  15  never ever ever use this product the software ...   0.792645
+1  12  there is no way of disabling the annoying syst...   0.742464
+2  19  i have been using neatreciepts for 4 years now...   0.741977
+3  24  i purchased mine at costco good choice since i...   0.735025
+4  46  i really wanted to love this product i have be...   0.709345
+5   8  i received an advance release of this product ...   0.665081
+6  31  neat has done a good job of packaging and mark...   0.653003
+7   3  was using this product for a number of years o...   0.590718
+
+step 1
+index added: 47
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 81.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 48 with core nodes: [0, 2, 6, 14, 15]
+
+step 1
+index added: 49
+percentage unclustered: 81.33330000000001%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 81.33330000000001%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 81.33330000000001%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 80.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 52 with core nodes: [0, 2, 6, 52]
+			old information: 8987, gain: 0.9638880517549675
+
+   ind                                             review  relevance
+0  52  i inserted the cd and got an error that the ex...   0.897254
+1  15  never ever ever use this product the software ...   0.792645
+2  12  there is no way of disabling the annoying syst...   0.742464
+3  19  i have been using neatreciepts for 4 years now...   0.741977
+4  24  i purchased mine at costco good choice since i...   0.735025
+5  46  i really wanted to love this product i have be...   0.709345
+6   8  i received an advance release of this product ...   0.665081
+7  31  neat has done a good job of packaging and mark...   0.653003
+8   3  was using this product for a number of years o...   0.590718
+
+step 1
+index added: 53
+percentage unclustered: 80.66669999999999%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 80.66669999999999%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 80.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 55 with core nodes: [2, 15, 52, 55]
+			old information: 15761, gain: 0.9692515090386243
+
+   ind                                             review  relevance
+0  55  i rarely write reviews but this unit does not ...   0.901820
+1  52  i inserted the cd and got an error that the ex...   0.897254
+2  15  never ever ever use this product the software ...   0.792645
+3  12  there is no way of disabling the annoying syst...   0.742464
+4  19  i have been using neatreciepts for 4 years now...   0.741977
+5  24  i purchased mine at costco good choice since i...   0.735025
+6  46  i really wanted to love this product i have be...   0.709345
+7   8  i received an advance release of this product ...   0.665081
+8  31  neat has done a good job of packaging and mark...   0.653003
+9   3  was using this product for a number of years o...   0.590718
+
+step 1
+index added: 56
+percentage unclustered: 80.66669999999999%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 80.66669999999999%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 80.66669999999999%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 80.66669999999999%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 80.66669999999999%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 81.33330000000001%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 80.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 62 with core nodes: [2, 15, 52, 55]
+
+step 1
+index added: 63
+percentage unclustered: 78.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 63 with core nodes: [2, 15, 52, 55]
+
+step 1
+index added: 64
+percentage unclustered: 78.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 64 with core nodes: [6, 15, 52, 55]
+
+step 1
+index added: 65
+percentage unclustered: 78.66669999999999%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 78.66669999999999%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 78.0%
+
+	step 2
+
+		step 3
+		candidate index: 67 with core nodes: [6, 15, 52, 55]
+
+step 1
+index added: 68
+percentage unclustered: 78.66669999999999%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 69 with core nodes: [6, 15, 52, 55]
+
+step 1
+index added: 70
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 74.0%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 75 with core nodes: [15, 52, 55, 75]
+			old information: 8416, gain: 0.9052582994675282
+
+    ind                                             review  relevance
+0   55  i rarely write reviews but this unit does not ...   0.901820
+1   52  i inserted the cd and got an error that the ex...   0.897254
+2   75  smart tip for all users download the software ...   0.848709
+3   15  never ever ever use this product the software ...   0.792645
+4   12  there is no way of disabling the annoying syst...   0.742464
+5   19  i have been using neatreciepts for 4 years now...   0.741977
+6   24  i purchased mine at costco good choice since i...   0.735025
+7   46  i really wanted to love this product i have be...   0.709345
+8    8  i received an advance release of this product ...   0.665081
+9   31  neat has done a good job of packaging and mark...   0.653003
+10   3  was using this product for a number of years o...   0.590718
+
+step 1
+index added: 76
+percentage unclustered: 77.33330000000001%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 77 with core nodes: [6, 15, 52, 55]
+
+step 1
+index added: 78
+percentage unclustered: 79.33330000000001%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 75.33330000000001%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 75.33330000000001%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 77.33330000000001%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 75.33330000000001%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 74.66669999999999%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 74.0%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 74.66669999999999%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 76.0%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 76.0%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 76.0%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 78.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 93 with core nodes: [14, 52, 61, 93]
+			old information: 3370, gain: 0.857523358559168
+
+    ind                                             review  relevance
+0   55  i rarely write reviews but this unit does not ...   0.901820
+1   52  i inserted the cd and got an error that the ex...   0.897254
+2   75  smart tip for all users download the software ...   0.848709
+3   93  we have three of these and i use them on nearl...   0.834709
+4   15  never ever ever use this product the software ...   0.792645
+5   12  there is no way of disabling the annoying syst...   0.742464
+6   19  i have been using neatreciepts for 4 years now...   0.741977
+7   24  i purchased mine at costco good choice since i...   0.735025
+8   46  i really wanted to love this product i have be...   0.709345
+9    8  i received an advance release of this product ...   0.665081
+10  31  neat has done a good job of packaging and mark...   0.653003
+11   3  was using this product for a number of years o...   0.590718
+
+step 1
+index added: 94
+percentage unclustered: 78.0%
+
+	step 2
+
+		step 3
+		candidate index: 94 with core nodes: [52, 93, 94]
+			old information: 15963, gain: 0.960365285919658
+
+    ind                                             review  relevance
+0   94  i have had the portable scanner for several ye...   0.905365
+1   55  i rarely write reviews but this unit does not ...   0.901820
+2   52  i inserted the cd and got an error that the ex...   0.897254
+3   75  smart tip for all users download the software ...   0.848709
+4   93  we have three of these and i use them on nearl...   0.834709
+5   15  never ever ever use this product the software ...   0.792645
+6   12  there is no way of disabling the annoying syst...   0.742464
+7   19  i have been using neatreciepts for 4 years now...   0.741977
+8   24  i purchased mine at costco good choice since i...   0.735025
+9   46  i really wanted to love this product i have be...   0.709345
+10   8  i received an advance release of this product ...   0.665081
+11  31  neat has done a good job of packaging and mark...   0.653003
+12   3  was using this product for a number of years o...   0.590718
+
+step 1
+index added: 95
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 77.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 96 with core nodes: [52, 93, 94]
+
+step 1
+index added: 97
+percentage unclustered: 77.33330000000001%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 74.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 100 with core nodes: [52, 93, 94]
+
+step 1
+index added: 101
+percentage unclustered: 74.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 101 with core nodes: [52, 93, 94]
+
+step 1
+index added: 102
+percentage unclustered: 70.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 102 with core nodes: [2, 52, 73, 94]
+
+step 1
+index added: 103
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 72.0%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 72.0%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 72.0%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 71.33330000000001%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 71.33330000000001%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 68.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 109 with core nodes: [2, 52, 73, 94]
+
+step 1
+index added: 110
+percentage unclustered: 68.0%
+
+	step 2
+
+		step 3
+		candidate index: 110 with core nodes: [2, 52, 73, 94]
+
+step 1
+index added: 111
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 64.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 114 with core nodes: [2, 52, 94, 114]
+			old information: 15938, gain: 0.9471334368241585
+
+     ind                                             review  relevance
+0    94  i have had the portable scanner for several ye...   0.905365
+1    55  i rarely write reviews but this unit does not ...   0.901820
+2    52  i inserted the cd and got an error that the ex...   0.897254
+3   114  i have used the portable scanner for about 2 y...   0.888368
+4    75  smart tip for all users download the software ...   0.848709
+5    93  we have three of these and i use them on nearl...   0.834709
+6    15  never ever ever use this product the software ...   0.792645
+7    12  there is no way of disabling the annoying syst...   0.742464
+8    19  i have been using neatreciepts for 4 years now...   0.741977
+9    24  i purchased mine at costco good choice since i...   0.735025
+10   46  i really wanted to love this product i have be...   0.709345
+11    8  i received an advance release of this product ...   0.665081
+12   31  neat has done a good job of packaging and mark...   0.653003
+13    3  was using this product for a number of years o...   0.590718
+
+step 1
+index added: 115
+percentage unclustered: 64.66669999999999%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 64.66669999999999%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 64.66669999999999%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 62.0%
+
+	step 2
+
+		step 3
+		candidate index: 121 with core nodes: [2, 52, 94, 114]
+
+step 1
+index added: 122
+percentage unclustered: 62.0%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 58.0%
+
+	step 2
+
+		step 3
+		candidate index: 123 with core nodes: [2, 52, 94, 114]
+
+step 1
+index added: 124
+percentage unclustered: 58.0%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 57.3333%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 56.6667%
+
+	step 2
+
+		step 3
+		candidate index: 126 with core nodes: [2, 52, 94, 114]
+
+step 1
+index added: 127
+percentage unclustered: 56.0%
+
+	step 2
+
+step 1
+index added: 128
+percentage unclustered: 56.0%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 54.6667%
+
+	step 2
+
+		step 3
+		candidate index: 129 with core nodes: [2, 73, 94]
+
+step 1
+index added: 130
+percentage unclustered: 54.6667%
+
+	step 2
+
+step 1
+index added: 131
+percentage unclustered: 54.6667%
+
+	step 2
+
+step 1
+index added: 132
+percentage unclustered: 54.6667%
+
+	step 2
+
+step 1
+index added: 133
+percentage unclustered: 54.0%
+
+	step 2
+
+		step 3
+		candidate index: 133 with core nodes: [2, 73, 94]
+
+step 1
+index added: 134
+percentage unclustered: 54.0%
+
+	step 2
+
+step 1
+index added: 135
+percentage unclustered: 54.6667%
+
+	step 2
+
+step 1
+index added: 136
+percentage unclustered: 54.6667%
+
+	step 2
+
+step 1
+index added: 137
+percentage unclustered: 54.6667%
+
+	step 2
+
+step 1
+index added: 138
+percentage unclustered: 54.6667%
+
+	step 2
+
+step 1
+index added: 139
+percentage unclustered: 54.0%
+
+	step 2
+
+step 1
+index added: 140
+percentage unclustered: 54.0%
+
+	step 2
+
+step 1
+index added: 141
+percentage unclustered: 54.0%
+
+	step 2
+
+step 1
+index added: 142
+percentage unclustered: 58.0%
+
+	step 2
+
+step 1
+index added: 143
+percentage unclustered: 58.0%
+
+	step 2
+
+step 1
+index added: 144
+percentage unclustered: 58.0%
+
+	step 2
+
+step 1
+index added: 145
+percentage unclustered: 58.0%
+
+	step 2
+
+step 1
+index added: 146
+percentage unclustered: 56.0%
+
+	step 2
+
+step 1
+index added: 147
+percentage unclustered: 56.0%
+
+	step 2
+
+step 1
+index added: 148
+percentage unclustered: 55.3333%
+
+	step 2
+
+		step 3
+		candidate index: 148 with core nodes: [2, 73, 94]
+
+step 1
+index added: 149
+percentage unclustered: 53.3333%
+
+	step 2
+
+--- 2262.9933109283447 seconds ---
+
+
+ Unclustered percentages: [100.0, 98.0, 98.0, 100.0, 100.0, 100.0, 96.6667, 94.6667, 94.6667, 96.0, 95.3333, 95.3333, 95.3333, 94.6667, 94.6667, 94.6667, 94.6667, 96.6667, 94.0, 94.0, 94.0, 93.3333, 92.6667, 92.0, 91.3333, 91.3333, 91.3333, 90.0, 90.0, 88.0, 88.0, 88.0, 87.3333, 87.3333, 87.3333, 87.3333, 88.0, 88.6667, 88.6667, 85.3333, 84.6667, 84.6667, 82.66669999999999, 82.66669999999999, 83.33330000000001, 83.33330000000001, 81.33330000000001, 81.33330000000001, 81.33330000000001, 81.33330000000001, 80.66669999999999, 80.66669999999999, 80.66669999999999, 80.66669999999999, 80.66669999999999, 80.66669999999999, 80.66669999999999, 80.66669999999999, 80.66669999999999, 81.33330000000001, 80.66669999999999, 78.66669999999999, 78.66669999999999, 78.66669999999999, 78.66669999999999, 78.0, 78.66669999999999, 76.66669999999999, 76.66669999999999, 73.33330000000001, 73.33330000000001, 74.0, 76.66669999999999, 76.66669999999999, 77.33330000000001, 80.0, 79.33330000000001, 75.33330000000001, 75.33330000000001, 77.33330000000001, 76.66669999999999, 75.33330000000001, 74.66669999999999, 74.0, 73.33330000000001, 74.66669999999999, 76.0, 76.66669999999999, 76.66669999999999, 76.0, 76.0, 78.66669999999999, 78.0, 78.0, 77.33330000000001, 77.33330000000001, 76.66669999999999, 76.66669999999999, 74.66669999999999, 74.66669999999999, 70.66669999999999, 70.0, 72.0, 72.0, 72.0, 71.33330000000001, 71.33330000000001, 68.66669999999999, 68.0, 68.0, 68.0, 68.0, 64.66669999999999, 64.66669999999999, 64.66669999999999, 64.66669999999999, 64.0, 64.0, 64.0, 62.0, 62.0, 58.0, 58.0, 57.3333, 56.6667, 56.0, 56.0, 54.6667, 54.6667, 54.6667, 54.6667, 54.0, 54.0, 54.6667, 54.6667, 54.6667, 54.6667, 54.0, 54.0, 54.0, 58.0, 58.0, 58.0, 58.0, 56.0, 56.0, 55.3333, 53.3333], mean: 76.5811
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0        95   94   0.905365  i have had the portable scanner for several ye...
+1        56   55   0.901820  i rarely write reviews but this unit does not ...
+2        53   52   0.897254  i inserted the cd and got an error that the ex...
+3       115  114   0.888368  i have used the portable scanner for about 2 y...
+4        76   75   0.848709  smart tip for all users download the software ...
+5        94   93   0.834709  we have three of these and i use them on nearl...
+6        16   15   0.792645  never ever ever use this product the software ...
+7        13   12   0.742464  there is no way of disabling the annoying syst...
+8        20   19   0.741977  i have been using neatreciepts for 4 years now...
+9        25   24   0.735025  i purchased mine at costco good choice since i...
+10       47   46   0.709345  i really wanted to love this product i have be...
+11        9    8   0.665081  i received an advance release of this product ...
+12       32   31   0.653003  neat has done a good job of packaging and mark...
+13        4    3   0.590718  was using this product for a number of years o...

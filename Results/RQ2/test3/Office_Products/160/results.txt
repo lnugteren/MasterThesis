@@ -1,0 +1,1373 @@
+------- Category: Office_Products -------
+Found asin_id: B000V2QCQI
+Shape:  (160, 7)
+Shape after:  (160, 7)
+
+
+Chosen product: B000V2QCQI has 160 reviews - True, it has 160 reviews
+
+Nr of stopwords in review: ['46/92', '79/175', '88/191', '85/160', '85/201', '80/146', '130/269', '50/96', '19/45', '71/146', '101/197', '174/346', '60/117', '16/88', '94/183', '122/242', '94/172', '91/201', '172/389', '799/1546', '431/926', '143/302', '32/79', '105/209', '106/237', '296/605', '92/188', '35/63', '96/211', '64/112', '21/52', '79/197', '81/157', '67/152', '28/65', '166/335', '5/25', '35/79', '63/119', '39/79', '48/105', '296/686', '339/757', '107/208', '68/144', '278/672', '34/94', '118/231', '114/229', '98/251', '82/188', '173/338', '79/144', '11/31', '94/167', '46/89', '7/20', '30/105', '119/243', '294/601', '35/79', '28/57', '97/192', '71/168', '37/138', '28/56', '95/173', '97/194', '148/320', '67/135', '116/227', '78/196', '140/277', '46/89', '81/168', '107/236', '45/101', '63/116', '60/138', '192/355', '47/84', '199/447', '75/162', '43/112', '70/145', '101/196', '73/170', '139/297', '65/145', '161/314', '118/259', '34/68', '155/329', '79/191', '80/179', '255/581', '148/298', '49/103', '56/102', '176/377', '63/120', '48/122', '257/574', '62/118', '18/76', '70/130', '79/150', '111/244', '247/511', '86/170', '219/468', '83/164', '93/175', '14/21', '12/34', '38/75', '60/112', '147/346', '63/145', '51/119', '369/861', '256/504', '53/93', '44/84', '134/284', '68/161', '204/438', '41/84', '90/159', '5/18', '145/303', '361/765', '138/297', '29/70', '11/18', '85/156', '17/37', '23/44', '7/24', '22/39', '43/97', '59/123', '33/69', '62/122', '14/37', '203/398', '37/96', '59/133', '47/96', '86/218', '41/94', '33/78', '47/84', '119/264', '43/108', '230/463', '10/20', '118/228', '150/320', '73/139'], on average: 0.4686
+Nr of stopwords in summary: ['1/2', '2/6', '1/5', '2/4', '0/2', '0/2', '5/9', '2/5', '1/4', '5/10', '5/14', '4/8', '2/3', '1/7', '3/6', '1/5', '2/7', '7/11', '0/2', '5/8', '1/5', '2/4', '0/3', '1/4', '0/2', '0/2', '0/2', '2/3', '1/3', '7/13', '3/8', '6/15', '1/2', '0/4', '1/5', '1/3', '4/12', '0/6', '4/10', '2/6', '1/7', '5/12', '2/4', '0/2', '0/2', '0/7', '0/5', '2/6', '3/8', '1/7', '2/8', '2/6', '3/4', '0/1', '0/1', '1/4', '3/5', '0/2', '5/8', '0/2', '2/9', '4/10', '1/5', '0/3', '3/9', '0/3', '2/5', '0/2', '1/7', '3/8', '2/7', '2/8', '3/9', '1/3', '3/8', '2/4', '4/8', '0/1', '2/5', '10/18', '0/4', '0/2', '0/2', '0/2', '0/3', '2/5', '3/8', '1/3', '2/5', '1/3', '0/1', '3/6', '0/3', '2/6', '2/6', '0/2', '3/6', '1/5', '1/3', '2/7', '0/2', '1/4', '0/4', '0/2', '1/4', '0/2', '2/7', '1/4', '2/6', '0/5', '0/1', '0/2', '1/5', '2/3', '0/7', '1/6', '3/7', '0/5', '1/4', '0/5', '0/1', '1/3', '0/5', '1/3', '2/5', '3/6', '0/1', '2/9', '3/4', '0/2', '2/5', '0/3', '1/3', '0/2', '3/7', '2/3', '2/6', '0/2', '0/2', '1/2', '1/4', '1/5', '1/3', '0/5', '0/2', '6/12', '0/5', '1/5', '0/3', '4/9', '2/6', '2/5', '0/3', '1/5', '2/6', '2/8', '0/2', '2/7', '0/1', '2/3'], on average: 0.249
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 98.125%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [2, 4, 6]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   6  i needed a quality scanner to digitize 1700 sl...   0.734457
+
+step 1
+index added: 7
+percentage unclustered: 97.5%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [2, 4, 6, 7]
+			old information: 358, gain: 0.9214912280701755
+
+   ind                                             review  relevance
+0   6  i needed a quality scanner to digitize 1700 sl...   0.734457
+1   7  i have a macbookpro running os x 10 6 4 the so...   0.718431
+
+step 1
+index added: 8
+percentage unclustered: 97.5%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 97.5%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 96.25%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [1, 2, 6, 7]
+			old information: 1090, gain: 0.9435408681238993
+
+   ind                                             review  relevance
+0   6  i needed a quality scanner to digitize 1700 sl...   0.734457
+1   7  i have a macbookpro running os x 10 6 4 the so...   0.718431
+2  10  we have liked canon scanners in the past and t...   0.683058
+
+step 1
+index added: 11
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 94.375%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 92.5%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [2, 3, 6, 14]
+			old information: 983, gain: 0.9409715967093016
+
+   ind                                             review  relevance
+0  14  i purchased this scanner from amazon and recei...   0.767559
+1   6  i needed a quality scanner to digitize 1700 sl...   0.734457
+2   7  i have a macbookpro running os x 10 6 4 the so...   0.718431
+3  10  we have liked canon scanners in the past and t...   0.683058
+
+step 1
+index added: 15
+percentage unclustered: 91.875%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 91.875%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 91.25%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 91.25%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [6, 14, 15, 18]
+			old information: 2827, gain: 0.9625394217263403
+
+   ind                                             review  relevance
+0  14  i purchased this scanner from amazon and recei...   0.767559
+1  18  i m using this scanner primarily for archiving...   0.765360
+2   6  i needed a quality scanner to digitize 1700 sl...   0.734457
+3   7  i have a macbookpro running os x 10 6 4 the so...   0.718431
+4  10  we have liked canon scanners in the past and t...   0.683058
+
+step 1
+index added: 19
+percentage unclustered: 90.625%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [6, 15, 18, 19]
+			old information: 12178, gain: 0.9898031039492249
+
+   ind                                             review  relevance
+0  19  we decided to digitalize some of our old pictu...   0.888862
+1  14  i purchased this scanner from amazon and recei...   0.767559
+2  18  i m using this scanner primarily for archiving...   0.765360
+3   6  i needed a quality scanner to digitize 1700 sl...   0.734457
+4   7  i have a macbookpro running os x 10 6 4 the so...   0.718431
+5  10  we have liked canon scanners in the past and t...   0.683058
+
+step 1
+index added: 20
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 90.625%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [6, 15, 18, 19]
+
+step 1
+index added: 22
+percentage unclustered: 88.75%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [6, 15, 18, 19]
+
+step 1
+index added: 23
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 92.5%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [6, 14, 15, 18]
+
+step 1
+index added: 25
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 90.625%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [6, 14, 15, 18]
+
+step 1
+index added: 27
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 88.125%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 87.5%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [6, 11, 14]
+
+step 1
+index added: 34
+percentage unclustered: 87.5%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [2, 3, 28]
+
+step 1
+index added: 35
+percentage unclustered: 85.625%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [11, 15, 20, 35]
+			old information: 5299, gain: 0.9052819733666995
+
+   ind                                             review  relevance
+0  19  we decided to digitalize some of our old pictu...   0.888862
+1  35  if you want to finally get your old pictures o...   0.830790
+2  14  i purchased this scanner from amazon and recei...   0.767559
+3  18  i m using this scanner primarily for archiving...   0.765360
+4   6  i needed a quality scanner to digitize 1700 sl...   0.734457
+5   7  i have a macbookpro running os x 10 6 4 the so...   0.718431
+6  10  we have liked canon scanners in the past and t...   0.683058
+
+step 1
+index added: 36
+percentage unclustered: 85.625%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 85.625%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 85.625%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 89.375%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [11, 20, 35, 41]
+			old information: 9183, gain: 0.9609159200698006
+
+   ind                                             review  relevance
+0  19  we decided to digitalize some of our old pictu...   0.888862
+1  35  if you want to finally get your old pictures o...   0.830790
+2  14  i purchased this scanner from amazon and recei...   0.767559
+3  18  i m using this scanner primarily for archiving...   0.765360
+4  41  if you need a general all around scanner this ...   0.750520
+5   6  i needed a quality scanner to digitize 1700 sl...   0.734457
+6   7  i have a macbookpro running os x 10 6 4 the so...   0.718431
+7  10  we have liked canon scanners in the past and t...   0.683058
+
+step 1
+index added: 42
+percentage unclustered: 84.375%
+
+	step 2
+
+		step 3
+		candidate index: 42 with core nodes: [11, 20, 35, 42]
+			old information: 13392, gain: 0.9531987167390074
+
+   ind                                             review  relevance
+0  19  we decided to digitalize some of our old pictu...   0.888862
+1  42  i ve now had this canoscan 8800f nbsp a data h...   0.849535
+2  35  if you want to finally get your old pictures o...   0.830790
+3  14  i purchased this scanner from amazon and recei...   0.767559
+4  18  i m using this scanner primarily for archiving...   0.765360
+5  41  if you need a general all around scanner this ...   0.750520
+6   6  i needed a quality scanner to digitize 1700 sl...   0.734457
+7   7  i have a macbookpro running os x 10 6 4 the so...   0.718431
+8  10  we have liked canon scanners in the past and t...   0.683058
+
+step 1
+index added: 43
+percentage unclustered: 80.625%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 44 with core nodes: [11, 20, 35, 42]
+
+step 1
+index added: 45
+percentage unclustered: 79.375%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [11, 20, 35, 42]
+
+step 1
+index added: 46
+percentage unclustered: 78.75%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 78.125%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [14, 43, 47]
+			old information: 4398, gain: 0.8344438170525127
+
+   ind                                             review  relevance
+0  19  we decided to digitalize some of our old pictu...   0.888862
+1  42  i ve now had this canoscan 8800f nbsp a data h...   0.849535
+2  35  if you want to finally get your old pictures o...   0.830790
+3  14  i purchased this scanner from amazon and recei...   0.767559
+4  18  i m using this scanner primarily for archiving...   0.765360
+5  47  i had about twelve carousels of 35mm slides th...   0.758168
+6  41  if you need a general all around scanner this ...   0.750520
+7   6  i needed a quality scanner to digitize 1700 sl...   0.734457
+8   7  i have a macbookpro running os x 10 6 4 the so...   0.718431
+9  10  we have liked canon scanners in the past and t...   0.683058
+
+step 1
+index added: 48
+percentage unclustered: 78.125%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 76.875%
+
+	step 2
+
+		step 3
+		candidate index: 50 with core nodes: [1, 40, 50]
+			old information: 2215, gain: 0.8739902150415292
+
+    ind                                             review  relevance
+0   19  we decided to digitalize some of our old pictu...   0.888862
+1   42  i ve now had this canoscan 8800f nbsp a data h...   0.849535
+2   35  if you want to finally get your old pictures o...   0.830790
+3   14  i purchased this scanner from amazon and recei...   0.767559
+4   18  i m using this scanner primarily for archiving...   0.765360
+5   47  i had about twelve carousels of 35mm slides th...   0.758168
+6   41  if you need a general all around scanner this ...   0.750520
+7    6  i needed a quality scanner to digitize 1700 sl...   0.734457
+8   50  pros great image quality resolution quick and ...   0.721957
+9    7  i have a macbookpro running os x 10 6 4 the so...   0.718431
+10  10  we have liked canon scanners in the past and t...   0.683058
+
+step 1
+index added: 51
+percentage unclustered: 76.875%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 76.875%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 76.875%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 76.875%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 76.875%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 75.625%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 75.0%
+
+	step 2
+
+		step 3
+		candidate index: 59 with core nodes: [23, 47, 59]
+			old information: 11740, gain: 0.9348863006100943
+
+    ind                                             review  relevance
+0   19  we decided to digitalize some of our old pictu...   0.888862
+1   59  i have done some semi professional photography...   0.856028
+2   42  i ve now had this canoscan 8800f nbsp a data h...   0.849535
+3   35  if you want to finally get your old pictures o...   0.830790
+4   14  i purchased this scanner from amazon and recei...   0.767559
+5   18  i m using this scanner primarily for archiving...   0.765360
+6   47  i had about twelve carousels of 35mm slides th...   0.758168
+7   41  if you need a general all around scanner this ...   0.750520
+8    6  i needed a quality scanner to digitize 1700 sl...   0.734457
+9   50  pros great image quality resolution quick and ...   0.721957
+10   7  i have a macbookpro running os x 10 6 4 the so...   0.718431
+11  10  we have liked canon scanners in the past and t...   0.683058
+
+step 1
+index added: 60
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 81.875%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 81.25%
+
+	step 2
+
+		step 3
+		candidate index: 63 with core nodes: [43, 47, 59]
+
+step 1
+index added: 64
+percentage unclustered: 83.75%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 83.75%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 83.75%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 83.125%
+
+	step 2
+
+		step 3
+		candidate index: 67 with core nodes: [43, 47, 59]
+			old information: 3713, gain: 0.8016665776400833
+
+    ind                                             review  relevance
+0   19  we decided to digitalize some of our old pictu...   0.888862
+1   59  i have done some semi professional photography...   0.856028
+2   42  i ve now had this canoscan 8800f nbsp a data h...   0.849535
+3   35  if you want to finally get your old pictures o...   0.830790
+4   14  i purchased this scanner from amazon and recei...   0.767559
+5   18  i m using this scanner primarily for archiving...   0.765360
+6   47  i had about twelve carousels of 35mm slides th...   0.758168
+7   41  if you need a general all around scanner this ...   0.750520
+8   67  i placed the order on april 14th and received ...   0.743546
+9    6  i needed a quality scanner to digitize 1700 sl...   0.734457
+10  50  pros great image quality resolution quick and ...   0.721957
+11   7  i have a macbookpro running os x 10 6 4 the so...   0.718431
+12  10  we have liked canon scanners in the past and t...   0.683058
+
+step 1
+index added: 68
+percentage unclustered: 86.875%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 86.875%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 78.75%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 78.125%
+
+	step 2
+
+		step 3
+		candidate index: 71 with core nodes: [11, 20, 35]
+
+step 1
+index added: 72
+percentage unclustered: 78.125%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 78.125%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 78.125%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 78.125%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 77.5%
+
+	step 2
+
+		step 3
+		candidate index: 76 with core nodes: [11, 20, 35]
+
+step 1
+index added: 77
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 78.75%
+
+	step 2
+
+		step 3
+		candidate index: 78 with core nodes: [3, 28, 59]
+
+step 1
+index added: 79
+percentage unclustered: 81.875%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 81.25%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 80.625%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 79.375%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 79.375%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 78.75%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 78.75%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 82.5%
+
+	step 2
+
+		step 3
+		candidate index: 87 with core nodes: [20, 35, 45, 59, 79, 81, 87]
+			old information: 5685, gain: 0.8706661206661207
+
+    ind                                             review  relevance
+0   19  we decided to digitalize some of our old pictu...   0.888862
+1   59  i have done some semi professional photography...   0.856028
+2   42  i ve now had this canoscan 8800f nbsp a data h...   0.849535
+3   35  if you want to finally get your old pictures o...   0.830790
+4   87  first of all flatbed scanners are difficult to...   0.803031
+5   14  i purchased this scanner from amazon and recei...   0.767559
+6   18  i m using this scanner primarily for archiving...   0.765360
+7   47  i had about twelve carousels of 35mm slides th...   0.758168
+8   41  if you need a general all around scanner this ...   0.750520
+9   67  i placed the order on april 14th and received ...   0.743546
+10   6  i needed a quality scanner to digitize 1700 sl...   0.734457
+11  50  pros great image quality resolution quick and ...   0.721957
+12   7  i have a macbookpro running os x 10 6 4 the so...   0.718431
+13  10  we have liked canon scanners in the past and t...   0.683058
+
+step 1
+index added: 88
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 81.875%
+
+	step 2
+
+		step 3
+		candidate index: 89 with core nodes: [43, 59, 89]
+			old information: 6075, gain: 0.8763761421216499
+
+    ind                                             review  relevance
+0   19  we decided to digitalize some of our old pictu...   0.888862
+1   59  i have done some semi professional photography...   0.856028
+2   42  i ve now had this canoscan 8800f nbsp a data h...   0.849535
+3   35  if you want to finally get your old pictures o...   0.830790
+4   89  i ve worn out two flatbed scanners and one par...   0.822079
+5   87  first of all flatbed scanners are difficult to...   0.803031
+6   14  i purchased this scanner from amazon and recei...   0.767559
+7   18  i m using this scanner primarily for archiving...   0.765360
+8   47  i had about twelve carousels of 35mm slides th...   0.758168
+9   41  if you need a general all around scanner this ...   0.750520
+10  67  i placed the order on april 14th and received ...   0.743546
+11   6  i needed a quality scanner to digitize 1700 sl...   0.734457
+12  50  pros great image quality resolution quick and ...   0.721957
+13   7  i have a macbookpro running os x 10 6 4 the so...   0.718431
+14  10  we have liked canon scanners in the past and t...   0.683058
+
+step 1
+index added: 90
+percentage unclustered: 81.875%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 81.875%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 78.75%
+
+	step 2
+
+		step 3
+		candidate index: 92 with core nodes: [35, 79, 92]
+			old information: 6603, gain: 0.8776225072281117
+
+    ind                                             review  relevance
+0   19  we decided to digitalize some of our old pictu...   0.888862
+1   59  i have done some semi professional photography...   0.856028
+2   42  i ve now had this canoscan 8800f nbsp a data h...   0.849535
+3   35  if you want to finally get your old pictures o...   0.830790
+4   89  i ve worn out two flatbed scanners and one par...   0.822079
+5   87  first of all flatbed scanners are difficult to...   0.803031
+6   92  upgrading my system to vista i found out that ...   0.788460
+7   14  i purchased this scanner from amazon and recei...   0.767559
+8   18  i m using this scanner primarily for archiving...   0.765360
+9   47  i had about twelve carousels of 35mm slides th...   0.758168
+10  41  if you need a general all around scanner this ...   0.750520
+11  67  i placed the order on april 14th and received ...   0.743546
+12   6  i needed a quality scanner to digitize 1700 sl...   0.734457
+13  50  pros great image quality resolution quick and ...   0.721957
+14   7  i have a macbookpro running os x 10 6 4 the so...   0.718431
+15  10  we have liked canon scanners in the past and t...   0.683058
+
+step 1
+index added: 93
+percentage unclustered: 78.125%
+
+	step 2
+
+		step 3
+		candidate index: 93 with core nodes: [43, 59, 89]
+
+step 1
+index added: 94
+percentage unclustered: 74.375%
+
+	step 2
+
+		step 3
+		candidate index: 94 with core nodes: [20, 35, 42, 43, 59, 79, 81, 87, 89, 92]
+
+step 1
+index added: 95
+percentage unclustered: 73.75%
+
+	step 2
+
+		step 3
+		candidate index: 95 with core nodes: [20, 35, 42, 43, 59, 79, 81, 87, 89, 92, 95]
+			old information: 13612, gain: 0.9192118226600985
+
+    ind                                             review  relevance
+0   19  we decided to digitalize some of our old pictu...   0.888862
+1   59  i have done some semi professional photography...   0.856028
+2   42  i ve now had this canoscan 8800f nbsp a data h...   0.849535
+3   35  if you want to finally get your old pictures o...   0.830790
+4   89  i ve worn out two flatbed scanners and one par...   0.822079
+5   87  first of all flatbed scanners are difficult to...   0.803031
+6   95  updated 12 aug 08 i used this scanner for 14 h...   0.791297
+7   92  upgrading my system to vista i found out that ...   0.788460
+8   14  i purchased this scanner from amazon and recei...   0.767559
+9   18  i m using this scanner primarily for archiving...   0.765360
+10  47  i had about twelve carousels of 35mm slides th...   0.758168
+11  41  if you need a general all around scanner this ...   0.750520
+12  67  i placed the order on april 14th and received ...   0.743546
+13   6  i needed a quality scanner to digitize 1700 sl...   0.734457
+14  50  pros great image quality resolution quick and ...   0.721957
+15   7  i have a macbookpro running os x 10 6 4 the so...   0.718431
+16  10  we have liked canon scanners in the past and t...   0.683058
+
+step 1
+index added: 96
+percentage unclustered: 73.125%
+
+	step 2
+
+		step 3
+		candidate index: 96 with core nodes: [59, 87, 89, 96]
+			old information: 7522, gain: 0.830022823311414
+
+    ind                                             review  relevance
+0   19  we decided to digitalize some of our old pictu...   0.888862
+1   96  i was faced with the task of scanning about 16...   0.859763
+2   59  i have done some semi professional photography...   0.856028
+3   42  i ve now had this canoscan 8800f nbsp a data h...   0.849535
+4   35  if you want to finally get your old pictures o...   0.830790
+5   89  i ve worn out two flatbed scanners and one par...   0.822079
+6   87  first of all flatbed scanners are difficult to...   0.803031
+7   95  updated 12 aug 08 i used this scanner for 14 h...   0.791297
+8   92  upgrading my system to vista i found out that ...   0.788460
+9   14  i purchased this scanner from amazon and recei...   0.767559
+10  18  i m using this scanner primarily for archiving...   0.765360
+11  47  i had about twelve carousels of 35mm slides th...   0.758168
+12  41  if you need a general all around scanner this ...   0.750520
+13  67  i placed the order on april 14th and received ...   0.743546
+14   6  i needed a quality scanner to digitize 1700 sl...   0.734457
+15  50  pros great image quality resolution quick and ...   0.721957
+16   7  i have a macbookpro running os x 10 6 4 the so...   0.718431
+17  10  we have liked canon scanners in the past and t...   0.683058
+
+step 1
+index added: 97
+percentage unclustered: 73.125%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 73.75%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 73.75%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 73.125%
+
+	step 2
+
+		step 3
+		candidate index: 100 with core nodes: [20, 35, 42, 59, 79, 81, 87, 92, 95, 96]
+
+step 1
+index added: 101
+percentage unclustered: 76.875%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 78.125%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 78.125%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 78.125%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 76.25%
+
+	step 2
+
+		step 3
+		candidate index: 105 with core nodes: [87, 96, 99]
+
+step 1
+index added: 106
+percentage unclustered: 75.625%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 75.625%
+
+	step 2
+
+		step 3
+		candidate index: 111 with core nodes: [87, 96, 99]
+
+step 1
+index added: 112
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 74.375%
+
+	step 2
+
+		step 3
+		candidate index: 114 with core nodes: [87, 96, 99]
+
+step 1
+index added: 115
+percentage unclustered: 73.75%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 70.625%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 70.625%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 68.75%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 68.75%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 68.75%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 68.75%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 71.25%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 70.625%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 70.625%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 70.625%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 70.625%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 70.625%
+
+	step 2
+
+step 1
+index added: 128
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 130
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 131
+percentage unclustered: 70.625%
+
+	step 2
+
+		step 3
+		candidate index: 131 with core nodes: [59, 96, 131]
+			old information: 19277, gain: 0.9340348355747186
+
+     ind                                             review  relevance
+0   131  good news bad news i purchased this scanner ba...   0.898816
+1    19  we decided to digitalize some of our old pictu...   0.888862
+2    96  i was faced with the task of scanning about 16...   0.859763
+3    59  i have done some semi professional photography...   0.856028
+4    42  i ve now had this canoscan 8800f nbsp a data h...   0.849535
+5    35  if you want to finally get your old pictures o...   0.830790
+6    89  i ve worn out two flatbed scanners and one par...   0.822079
+7    87  first of all flatbed scanners are difficult to...   0.803031
+8    95  updated 12 aug 08 i used this scanner for 14 h...   0.791297
+9    92  upgrading my system to vista i found out that ...   0.788460
+10   14  i purchased this scanner from amazon and recei...   0.767559
+11   18  i m using this scanner primarily for archiving...   0.765360
+12   47  i had about twelve carousels of 35mm slides th...   0.758168
+13   41  if you need a general all around scanner this ...   0.750520
+14   67  i placed the order on april 14th and received ...   0.743546
+15    6  i needed a quality scanner to digitize 1700 sl...   0.734457
+16   50  pros great image quality resolution quick and ...   0.721957
+17    7  i have a macbookpro running os x 10 6 4 the so...   0.718431
+18   10  we have liked canon scanners in the past and t...   0.683058
+
+step 1
+index added: 132
+percentage unclustered: 70.625%
+
+	step 2
+
+		step 3
+		candidate index: 132 with core nodes: [96, 131, 132]
+			old information: 6958, gain: 0.8417053417053417
+
+     ind                                             review  relevance
+0   131  good news bad news i purchased this scanner ba...   0.898816
+1    19  we decided to digitalize some of our old pictu...   0.888862
+2    96  i was faced with the task of scanning about 16...   0.859763
+3    59  i have done some semi professional photography...   0.856028
+4    42  i ve now had this canoscan 8800f nbsp a data h...   0.849535
+5   132  i ve owned many scanners i recently purchased ...   0.849001
+6    35  if you want to finally get your old pictures o...   0.830790
+7    89  i ve worn out two flatbed scanners and one par...   0.822079
+8    87  first of all flatbed scanners are difficult to...   0.803031
+9    95  updated 12 aug 08 i used this scanner for 14 h...   0.791297
+10   92  upgrading my system to vista i found out that ...   0.788460
+11   14  i purchased this scanner from amazon and recei...   0.767559
+12   18  i m using this scanner primarily for archiving...   0.765360
+13   47  i had about twelve carousels of 35mm slides th...   0.758168
+14   41  if you need a general all around scanner this ...   0.750520
+15   67  i placed the order on april 14th and received ...   0.743546
+16    6  i needed a quality scanner to digitize 1700 sl...   0.734457
+17   50  pros great image quality resolution quick and ...   0.721957
+18    7  i have a macbookpro running os x 10 6 4 the so...   0.718431
+19   10  we have liked canon scanners in the past and t...   0.683058
+
+step 1
+index added: 133
+percentage unclustered: 70.625%
+
+	step 2
+
+step 1
+index added: 134
+percentage unclustered: 70.625%
+
+	step 2
+
+step 1
+index added: 135
+percentage unclustered: 71.25%
+
+	step 2
+
+step 1
+index added: 136
+percentage unclustered: 71.25%
+
+	step 2
+
+step 1
+index added: 137
+percentage unclustered: 65.625%
+
+	step 2
+
+step 1
+index added: 138
+percentage unclustered: 65.625%
+
+	step 2
+
+step 1
+index added: 139
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 140
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 141
+percentage unclustered: 64.375%
+
+	step 2
+
+step 1
+index added: 142
+percentage unclustered: 64.375%
+
+	step 2
+
+step 1
+index added: 143
+percentage unclustered: 63.75%
+
+	step 2
+
+		step 3
+		candidate index: 143 with core nodes: [96, 99, 102, 131]
+
+step 1
+index added: 144
+percentage unclustered: 60.625%
+
+	step 2
+
+step 1
+index added: 145
+percentage unclustered: 60.625%
+
+	step 2
+
+step 1
+index added: 146
+percentage unclustered: 60.625%
+
+	step 2
+
+step 1
+index added: 147
+percentage unclustered: 60.0%
+
+	step 2
+
+		step 3
+		candidate index: 147 with core nodes: [96, 99, 102, 131]
+
+step 1
+index added: 148
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 149
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 150
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 151
+percentage unclustered: 60.0%
+
+	step 2
+
+		step 3
+		candidate index: 151 with core nodes: [96, 99, 102, 131]
+
+step 1
+index added: 152
+percentage unclustered: 59.375%
+
+	step 2
+
+step 1
+index added: 153
+percentage unclustered: 59.375%
+
+	step 2
+
+step 1
+index added: 154
+percentage unclustered: 59.375%
+
+	step 2
+
+step 1
+index added: 155
+percentage unclustered: 59.375%
+
+	step 2
+
+step 1
+index added: 156
+percentage unclustered: 58.75%
+
+	step 2
+
+step 1
+index added: 157
+percentage unclustered: 58.75%
+
+	step 2
+
+step 1
+index added: 158
+percentage unclustered: 58.75%
+
+	step 2
+
+step 1
+index added: 159
+percentage unclustered: 58.75%
+
+	step 2
+
+--- 3464.0806093215942 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 98.125, 97.5, 97.5, 97.5, 96.25, 96.25, 96.25, 94.375, 92.5, 91.875, 91.875, 91.25, 91.25, 90.625, 90.625, 90.625, 88.75, 88.75, 92.5, 92.5, 90.625, 90.625, 92.5, 92.5, 92.5, 90.625, 88.125, 87.5, 87.5, 85.625, 85.625, 85.625, 85.625, 87.5, 89.375, 85.0, 84.375, 80.625, 80.0, 79.375, 78.75, 78.125, 78.125, 77.5, 76.875, 76.875, 76.875, 76.875, 76.875, 76.875, 76.25, 76.25, 75.625, 75.0, 77.5, 77.5, 81.875, 81.25, 83.75, 83.75, 83.75, 83.125, 86.875, 86.875, 78.75, 78.125, 78.125, 78.125, 78.125, 78.125, 77.5, 77.5, 78.75, 81.875, 81.25, 80.625, 80.0, 79.375, 79.375, 78.75, 78.75, 82.5, 82.5, 81.875, 81.875, 81.875, 78.75, 78.125, 74.375, 73.75, 73.125, 73.125, 73.75, 73.75, 73.125, 76.875, 78.125, 78.125, 78.125, 76.25, 75.625, 76.25, 76.25, 76.25, 76.25, 75.625, 75.0, 75.0, 74.375, 73.75, 70.625, 70.625, 68.75, 68.75, 68.75, 68.75, 71.25, 70.625, 70.625, 70.625, 70.625, 70.625, 70.0, 70.0, 70.0, 70.625, 70.625, 70.625, 70.625, 71.25, 71.25, 65.625, 65.625, 65.0, 65.0, 64.375, 64.375, 63.75, 60.625, 60.625, 60.625, 60.0, 60.0, 60.0, 60.0, 60.0, 59.375, 59.375, 59.375, 59.375, 58.75, 58.75, 58.75, 58.75], mean: 78.2437
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0         5  131   0.898816  good news bad news i purchased this scanner ba...
+1       102   19   0.888862  we decided to digitalize some of our old pictu...
+2        92   96   0.859763  i was faced with the task of scanning about 16...
+3        20   59   0.856028  i have done some semi professional photography...
+4        79   42   0.849535  i ve now had this canoscan 8800f nbsp a data h...
+5        15  132   0.849001  i ve owned many scanners i recently purchased ...
+6        33   35   0.830790  if you want to finally get your old pictures o...
+7       135   89   0.822079  i ve worn out two flatbed scanners and one par...
+8        24   87   0.803031  first of all flatbed scanners are difficult to...
+9        17   95   0.791297  updated 12 aug 08 i used this scanner for 14 h...
+10       90   92   0.788460  upgrading my system to vista i found out that ...
+11       50   14   0.767559  i purchased this scanner from amazon and recei...
+12       76   18   0.765360  i m using this scanner primarily for archiving...
+13      109   47   0.758168  i had about twelve carousels of 35mm slides th...
+14       16   41   0.750520  if you need a general all around scanner this ...
+15      143   67   0.743546  i placed the order on april 14th and received ...
+16       52    6   0.734457  i needed a quality scanner to digitize 1700 sl...
+17       29   50   0.721957  pros great image quality resolution quick and ...
+18       55    7   0.718431  i have a macbookpro running os x 10 6 4 the so...
+19       40   10   0.683058  we have liked canon scanners in the past and t...

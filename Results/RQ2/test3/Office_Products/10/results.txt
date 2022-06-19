@@ -1,0 +1,76 @@
+------- Category: Office_Products -------
+Found asin_id: 0310823706
+Shape:  (10, 7)
+
+
+Chosen product: 0310823706 has 10 reviews - True, it has 10 reviews
+
+Nr of stopwords in review: ['32/79', '55/120', '69/175', '72/126', '29/51', '16/31', '27/58', '18/35', '84/178', '15/33'], on average: 0.482
+Nr of stopwords in summary: ['2/4', '2/3', '0/2', '0/5', '4/9', '1/5', '7/14', '3/5', '4/6', '0/3'], on average: 0.3578
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 60.0%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [0, 3, 4, 6]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   6  fits a macarthur study bible great it just has...   0.321877
+
+step 1
+index added: 7
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 50.0%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [0, 3, 4, 9]
+			old information: 29, gain: 0.9450757575757576
+
+   ind                                             review  relevance
+0   9  this is a very nice cover i have a tyndale lif...   0.600185
+1   6  fits a macarthur study bible great it just has...   0.321877
+
+--- 0.08455157279968262 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 60.0, 60.0, 60.0, 50.0], mean: 78.75
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0        9   9   0.600185  this is a very nice cover i have a tyndale lif...
+1        8   6   0.321877  fits a macarthur study bible great it just has...
