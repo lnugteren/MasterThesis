@@ -1,0 +1,686 @@
+------- Category: Electronics -------
+Found asin_id: B00005N5WU
+Shape:  (70, 7)
+
+
+Chosen product: B00005N5WU has 70 reviews - True, it has 70 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 95.7143%
+
+	step 2
+
+		step 3
+		candidate index: 2 with core nodes: [0, 1, 2]
+		The relevance model has size: 2
+		1 reviews removed from the relevance model, indices: [0]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   2  installed radio 2009 wrangler 2 door love far ...   0.166293
+
+step 1
+index added: 3
+percentage unclustered: 95.7143%
+
+	step 2
+
+step 1
+index added: 4
+percentage unclustered: 95.7143%
+
+	step 2
+
+step 1
+index added: 5
+percentage unclustered: 95.7143%
+
+	step 2
+
+step 1
+index added: 6
+percentage unclustered: 95.7143%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 95.7143%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 92.8571%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [0, 1, 2, 5, 8]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [0, 1]. 
+		It now has size: 2
+			old information: 8, gain: 0.9919191919191919
+
+   ind                                             review  relevance
+0   8  cb radio works great simple install size singl...   0.236308
+1   2  installed radio 2009 wrangler 2 door love far ...   0.166293
+
+step 1
+index added: 9
+percentage unclustered: 91.4286%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [0, 5, 9]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [0, 2]. 
+		It now has size: 2
+			old information: 803, gain: 0.9924920292090919
+
+   ind                                             review  relevance
+0   9  radio good weather radio function talking some...   0.318108
+1   8  cb radio works great simple install size singl...   0.236308
+2   2  installed radio 2009 wrangler 2 door love far ...   0.166293
+
+step 1
+index added: 10
+percentage unclustered: 92.8571%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 91.4286%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [0, 1, 5, 8, 9]
+		The relevance model has size: 5
+		2 reviews removed from the relevance model, indices: [0, 5]. 
+		It now has size: 3
+			old information: 113, gain: 0.8954671600370028
+
+   ind                                             review  relevance
+0   9  radio good weather radio function talking some...   0.318108
+1   8  cb radio works great simple install size singl...   0.236308
+2   2  installed radio 2009 wrangler 2 door love far ...   0.166293
+3  11  great cb reception clarity superb feel plenty ...   0.141157
+
+step 1
+index added: 12
+percentage unclustered: 91.4286%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 91.4286%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 91.4286%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 92.8571%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [1, 2, 11, 15]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [1, 2, 8]. 
+		It now has size: 2
+			old information: 44, gain: 0.8746438746438746
+
+   ind                                             review  relevance
+0   9  radio good weather radio function talking some...   0.318108
+1   8  cb radio works great simple install size singl...   0.236308
+2   2  installed radio 2009 wrangler 2 door love far ...   0.166293
+3  11  great cb reception clarity superb feel plenty ...   0.141157
+4  15  supper easy install 2014 jk n nworks great eas...   0.093925
+
+step 1
+index added: 16
+percentage unclustered: 92.8571%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [1, 8, 15, 16]
+		The relevance model has size: 5
+		2 reviews removed from the relevance model, indices: [1, 9]. 
+		It now has size: 3
+			old information: 180, gain: 0.916083916083916
+
+   ind                                             review  relevance
+0   9  radio good weather radio function talking some...   0.318108
+1   8  cb radio works great simple install size singl...   0.236308
+2  16  paired following 2014 jeep jk n nfirestik ii f...   0.207385
+3   2  installed radio 2009 wrangler 2 door love far ...   0.166293
+4  11  great cb reception clarity superb feel plenty ...   0.141157
+5  15  supper easy install 2014 jk n nworks great eas...   0.093925
+
+step 1
+index added: 17
+percentage unclustered: 92.8571%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 92.8571%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 92.8571%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 92.8571%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 92.8571%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 91.4286%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [1, 8, 16, 22]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [1, 8, 11]. 
+		It now has size: 2
+			old information: 1352, gain: 0.9770831920808191
+
+   ind                                             review  relevance
+0  22  works great cb radio noaa weather radio car mi...   0.385817
+1   9  radio good weather radio function talking some...   0.318108
+2   8  cb radio works great simple install size singl...   0.236308
+3  16  paired following 2014 jeep jk n nfirestik ii f...   0.207385
+4   2  installed radio 2009 wrangler 2 door love far ...   0.166293
+5  11  great cb reception clarity superb feel plenty ...   0.141157
+6  15  supper easy install 2014 jk n nworks great eas...   0.093925
+
+step 1
+index added: 23
+percentage unclustered: 91.4286%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [1, 8, 22, 24]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [8, 15, 22]. 
+		It now has size: 2
+			old information: 727, gain: 0.917179311916154
+
+   ind                                             review  relevance
+0  22  works great cb radio noaa weather radio car mi...   0.385817
+1   9  radio good weather radio function talking some...   0.318108
+2   8  cb radio works great simple install size singl...   0.236308
+3  16  paired following 2014 jeep jk n nfirestik ii f...   0.207385
+4  24  works fine like features ve tried n t need mon...   0.194812
+5   2  installed radio 2009 wrangler 2 door love far ...   0.166293
+6  11  great cb reception clarity superb feel plenty ...   0.141157
+7  15  supper easy install 2014 jk n nworks great eas...   0.093925
+
+step 1
+index added: 25
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 87.1429%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [1, 27, 30]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [16, 24]. 
+		It now has size: 2
+			old information: 750, gain: 0.8084780388151175
+
+   ind                                             review  relevance
+0  22  works great cb radio noaa weather radio car mi...   0.385817
+1  30  installed every vehicle owned several years ho...   0.355623
+2   9  radio good weather radio function talking some...   0.318108
+3   8  cb radio works great simple install size singl...   0.236308
+4  16  paired following 2014 jeep jk n nfirestik ii f...   0.207385
+5  24  works fine like features ve tried n t need mon...   0.194812
+6   2  installed radio 2009 wrangler 2 door love far ...   0.166293
+7  11  great cb reception clarity superb feel plenty ...   0.141157
+8  15  supper easy install 2014 jk n nworks great eas...   0.093925
+
+step 1
+index added: 31
+percentage unclustered: 87.1429%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 87.1429%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 82.8571%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [1, 27, 30]
+
+step 1
+index added: 34
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 78.5714%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 75.71430000000001%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [19, 22, 24, 27]
+
+step 1
+index added: 39
+percentage unclustered: 74.28569999999999%
+
+	step 2
+
+		step 3
+		candidate index: 39 with core nodes: [1, 34, 37, 39]
+		The relevance model has size: 5
+		2 reviews removed from the relevance model, indices: [1, 30]. 
+		It now has size: 3
+			old information: 722, gain: 0.9021812762498307
+
+   ind                                             review  relevance
+0  39  using cb s 20 years cb perfect travelers looki...   0.481786
+1  22  works great cb radio noaa weather radio car mi...   0.385817
+2  30  installed every vehicle owned several years ho...   0.355623
+3   9  radio good weather radio function talking some...   0.318108
+4   8  cb radio works great simple install size singl...   0.236308
+5  16  paired following 2014 jeep jk n nfirestik ii f...   0.207385
+6  24  works fine like features ve tried n t need mon...   0.194812
+7   2  installed radio 2009 wrangler 2 door love far ...   0.166293
+8  11  great cb reception clarity superb feel plenty ...   0.141157
+9  15  supper easy install 2014 jk n nworks great eas...   0.093925
+
+step 1
+index added: 40
+percentage unclustered: 74.28569999999999%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 74.28569999999999%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 72.8571%
+
+	step 2
+
+		step 3
+		candidate index: 42 with core nodes: [19, 22, 24, 42]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [19, 24, 27, 37]. 
+		It now has size: 3
+			old information: 848, gain: 0.8972868217054264
+
+    ind                                             review  relevance
+0   39  using cb s 20 years cb perfect travelers looki...   0.481786
+1   42  pleased first installed unit liked size fit we...   0.471849
+2   22  works great cb radio noaa weather radio car mi...   0.385817
+3   30  installed every vehicle owned several years ho...   0.355623
+4    9  radio good weather radio function talking some...   0.318108
+5    8  cb radio works great simple install size singl...   0.236308
+6   16  paired following 2014 jeep jk n nfirestik ii f...   0.207385
+7   24  works fine like features ve tried n t need mon...   0.194812
+8    2  installed radio 2009 wrangler 2 door love far ...   0.166293
+9   11  great cb reception clarity superb feel plenty ...   0.141157
+10  15  supper easy install 2014 jk n nworks great eas...   0.093925
+
+step 1
+index added: 43
+percentage unclustered: 65.71430000000001%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [5, 19, 22, 43]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [5, 22, 34]. 
+		It now has size: 3
+			old information: 1991, gain: 0.9084008097165992
+
+    ind                                             review  relevance
+0   43  n ni considering purchasing form 2 way radio t...   0.637479
+1   39  using cb s 20 years cb perfect travelers looki...   0.481786
+2   42  pleased first installed unit liked size fit we...   0.471849
+3   22  works great cb radio noaa weather radio car mi...   0.385817
+4   30  installed every vehicle owned several years ho...   0.355623
+5    9  radio good weather radio function talking some...   0.318108
+6    8  cb radio works great simple install size singl...   0.236308
+7   16  paired following 2014 jeep jk n nfirestik ii f...   0.207385
+8   24  works fine like features ve tried n t need mon...   0.194812
+9    2  installed radio 2009 wrangler 2 door love far ...   0.166293
+10  11  great cb reception clarity superb feel plenty ...   0.141157
+11  15  supper easy install 2014 jk n nworks great eas...   0.093925
+
+step 1
+index added: 44
+percentage unclustered: 64.28569999999999%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 68.5714%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [5, 19, 43]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [5, 19, 39]. 
+		It now has size: 2
+			old information: 1245, gain: 0.8285123966942148
+
+    ind                                             review  relevance
+0   43  n ni considering purchasing form 2 way radio t...   0.637479
+1   39  using cb s 20 years cb perfect travelers looki...   0.481786
+2   42  pleased first installed unit liked size fit we...   0.471849
+3   45  drive jeep liberty lets say n t known extra le...   0.433910
+4   22  works great cb radio noaa weather radio car mi...   0.385817
+5   30  installed every vehicle owned several years ho...   0.355623
+6    9  radio good weather radio function talking some...   0.318108
+7    8  cb radio works great simple install size singl...   0.236308
+8   16  paired following 2014 jeep jk n nfirestik ii f...   0.207385
+9   24  works fine like features ve tried n t need mon...   0.194812
+10   2  installed radio 2009 wrangler 2 door love far ...   0.166293
+11  11  great cb reception clarity superb feel plenty ...   0.141157
+12  15  supper easy install 2014 jk n nworks great eas...   0.093925
+
+step 1
+index added: 46
+percentage unclustered: 64.28569999999999%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 64.28569999999999%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 57.1429%
+
+	step 2
+
+		step 3
+		candidate index: 48 with core nodes: [5, 19, 22, 43]
+
+step 1
+index added: 49
+percentage unclustered: 55.7143%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [5, 19, 22, 43]
+
+step 1
+index added: 50
+percentage unclustered: 55.7143%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 58.5714%
+
+	step 2
+
+		step 3
+		candidate index: 52 with core nodes: [5, 19, 29, 43]
+
+step 1
+index added: 53
+percentage unclustered: 57.1429%
+
+	step 2
+
+		step 3
+		candidate index: 53 with core nodes: [5, 19, 29, 43]
+
+step 1
+index added: 54
+percentage unclustered: 51.4286%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 52.8571%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 52.8571%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 51.4286%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 51.4286%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 51.4286%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 51.4286%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 51.4286%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 52.8571%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 51.4286%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 48.5714%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 47.1429%
+
+	step 2
+
+		step 3
+		candidate index: 67 with core nodes: [5, 13, 19, 67]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [13, 42, 45]. 
+		It now has size: 3
+			old information: 3858, gain: 0.9145514950166113
+
+    ind                                             review  relevance
+0   43  n ni considering purchasing form 2 way radio t...   0.637479
+1   67  original review written cobra 75wxst 40 channe...   0.636929
+2   39  using cb s 20 years cb perfect travelers looki...   0.481786
+3   42  pleased first installed unit liked size fit we...   0.471849
+4   45  drive jeep liberty lets say n t known extra le...   0.433910
+5   22  works great cb radio noaa weather radio car mi...   0.385817
+6   30  installed every vehicle owned several years ho...   0.355623
+7    9  radio good weather radio function talking some...   0.318108
+8    8  cb radio works great simple install size singl...   0.236308
+9   16  paired following 2014 jeep jk n nfirestik ii f...   0.207385
+10  24  works fine like features ve tried n t need mon...   0.194812
+11   2  installed radio 2009 wrangler 2 door love far ...   0.166293
+12  11  great cb reception clarity superb feel plenty ...   0.141157
+13  15  supper easy install 2014 jk n nworks great eas...   0.093925
+
+step 1
+index added: 68
+percentage unclustered: 47.1429%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 47.1429%
+
+	step 2
+
+--- 132.41316032409668 seconds ---
+
+
+ Unclustered percentages: [95.7143, 95.7143, 95.7143, 95.7143, 95.7143, 95.7143, 92.8571, 91.4286, 92.8571, 91.4286, 91.4286, 91.4286, 91.4286, 92.8571, 92.8571, 92.8571, 92.8571, 92.8571, 92.8571, 92.8571, 91.4286, 91.4286, 90.0, 88.5714, 88.5714, 88.5714, 88.5714, 88.5714, 87.1429, 87.1429, 87.1429, 82.8571, 82.8571, 82.8571, 82.8571, 78.5714, 75.71430000000001, 74.28569999999999, 74.28569999999999, 74.28569999999999, 72.8571, 65.71430000000001, 64.28569999999999, 68.5714, 64.28569999999999, 64.28569999999999, 57.1429, 55.7143, 55.7143, 60.0, 58.5714, 57.1429, 51.4286, 52.8571, 52.8571, 51.4286, 51.4286, 51.4286, 51.4286, 51.4286, 50.0, 50.0, 52.8571, 51.4286, 48.5714, 47.1429, 47.1429, 47.1429], mean: 75.084
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        32  43   0.637479  n ni considering purchasing form 2 way radio t...
+1         4  67   0.636929  original review written cobra 75wxst 40 channe...
+2        42  39   0.481786  using cb s 20 years cb perfect travelers looki...
+3        61  42   0.471849  pleased first installed unit liked size fit we...
+4        46  45   0.433910  drive jeep liberty lets say n t known extra le...
+5        51  22   0.385817  works great cb radio noaa weather radio car mi...
+6        52  30   0.355623  installed every vehicle owned several years ho...
+7        13   9   0.318108  radio good weather radio function talking some...
+8        22   8   0.236308  cb radio works great simple install size singl...
+9         5  16   0.207385  paired following 2014 jeep jk n nfirestik ii f...
+10       57  24   0.194812  works fine like features ve tried n t need mon...
+11       11   2   0.166293  installed radio 2009 wrangler 2 door love far ...
+12       27  11   0.141157  great cb reception clarity superb feel plenty ...
+13        8  15   0.093925  supper easy install 2014 jk n nworks great eas...

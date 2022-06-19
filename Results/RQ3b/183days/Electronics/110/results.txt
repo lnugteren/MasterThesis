@@ -1,0 +1,1034 @@
+------- Category: Electronics -------
+Found asin_id: B00002SWHH
+Shape:  (110, 7)
+
+
+Chosen product: B00002SWHH has 110 reviews - True, it has 110 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 97.2727%
+
+	step 2
+
+		step 3
+		candidate index: 2 with core nodes: [0, 1, 2]
+		The relevance model has size: 2
+		1 reviews removed from the relevance model, indices: [0]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   2  product performed flawlessly 9 months product ...   0.083577
+
+step 1
+index added: 3
+percentage unclustered: 97.2727%
+
+	step 2
+
+step 1
+index added: 4
+percentage unclustered: 97.2727%
+
+	step 2
+
+step 1
+index added: 5
+percentage unclustered: 97.2727%
+
+	step 2
+
+step 1
+index added: 6
+percentage unclustered: 97.2727%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 96.3636%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [0, 1, 2, 7]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [0, 1]. 
+		It now has size: 1
+			old information: 39, gain: 0.9953488372093023
+
+   ind                                             review  relevance
+0   7  let first start confessing addicted tivo servi...   0.190428
+1   2  product performed flawlessly 9 months product ...   0.083577
+
+step 1
+index added: 8
+percentage unclustered: 95.4545%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [0, 1, 7, 8]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [0, 2]. 
+		It now has size: 2
+			old information: 55, gain: 0.9874170670327156
+
+   ind                                             review  relevance
+0   8  loved tivo moment installed takes little s how...   0.271991
+1   7  let first start confessing addicted tivo servi...   0.190428
+2   2  product performed flawlessly 9 months product ...   0.083577
+
+step 1
+index added: 9
+percentage unclustered: 94.5455%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [0, 1, 8, 9]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [0, 1]. 
+		It now has size: 2
+			old information: 205, gain: 0.9838836477987422
+
+   ind                                             review  relevance
+0   9  early adopter tivo paid price 0 2 years ago im...   0.412168
+1   8  loved tivo moment installed takes little s how...   0.271991
+2   7  let first start confessing addicted tivo servi...   0.190428
+3   2  product performed flawlessly 9 months product ...   0.083577
+
+step 1
+index added: 10
+percentage unclustered: 94.5455%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 94.5455%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 94.5455%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 94.5455%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 94.5455%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 91.8182%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [0, 1, 8, 9]
+
+step 1
+index added: 16
+percentage unclustered: 90.9091%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [0, 8, 9]
+		The relevance model has size: 4
+		1 reviews removed from the relevance model, indices: [0]. 
+		It now has size: 3
+			old information: 344, gain: 0.8911392405063291
+
+   ind                                             review  relevance
+0  16  absolutely loved tivo great modem stopped work...   0.488062
+1   9  early adopter tivo paid price 0 2 years ago im...   0.412168
+2   8  loved tivo moment installed takes little s how...   0.271991
+3   7  let first start confessing addicted tivo servi...   0.190428
+4   2  product performed flawlessly 9 months product ...   0.083577
+
+step 1
+index added: 17
+percentage unclustered: 90.9091%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 90.9091%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 91.8182%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [0, 7, 8, 16, 19]
+		The relevance model has size: 5
+		2 reviews removed from the relevance model, indices: [0, 7]. 
+		It now has size: 3
+			old information: 225, gain: 0.9526614769619188
+
+   ind                                             review  relevance
+0  16  absolutely loved tivo great modem stopped work...   0.488062
+1   9  early adopter tivo paid price 0 2 years ago im...   0.412168
+2  19  unit took 5 10 minutes install course system s...   0.330262
+3   8  loved tivo moment installed takes little s how...   0.271991
+4   7  let first start confessing addicted tivo servi...   0.190428
+5   2  product performed flawlessly 9 months product ...   0.083577
+
+step 1
+index added: 20
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 88.1818%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [7, 16, 25, 26]
+
+step 1
+index added: 28
+percentage unclustered: 86.3636%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [0, 8, 18, 25, 26]
+		The relevance model has size: 8
+		3 reviews removed from the relevance model, indices: [0, 8, 16]. 
+		It now has size: 5
+			old information: 976, gain: 0.9629390544902221
+
+   ind                                             review  relevance
+0  16  absolutely loved tivo great modem stopped work...   0.488062
+1  28  knew moment heard concept tivo replay wanted o...   0.446026
+2   9  early adopter tivo paid price 0 2 years ago im...   0.412168
+3  19  unit took 5 10 minutes install course system s...   0.330262
+4   8  loved tivo moment installed takes little s how...   0.271991
+5   7  let first start confessing addicted tivo servi...   0.190428
+6   2  product performed flawlessly 9 months product ...   0.083577
+
+step 1
+index added: 29
+percentage unclustered: 86.3636%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 83.6364%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [1, 26, 30]
+		The relevance model has size: 7
+		2 reviews removed from the relevance model, indices: [1, 9]. 
+		It now has size: 5
+			old information: 988, gain: 0.967479674796748
+
+   ind                                             review  relevance
+0  30  think folks writing reviews product completely...   0.550321
+1  16  absolutely loved tivo great modem stopped work...   0.488062
+2  28  knew moment heard concept tivo replay wanted o...   0.446026
+3   9  early adopter tivo paid price 0 2 years ago im...   0.412168
+4  19  unit took 5 10 minutes install course system s...   0.330262
+5   8  loved tivo moment installed takes little s how...   0.271991
+6   7  let first start confessing addicted tivo servi...   0.190428
+7   2  product performed flawlessly 9 months product ...   0.083577
+
+step 1
+index added: 31
+percentage unclustered: 83.6364%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 82.7273%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [1, 17, 26, 30, 32]
+		The relevance model has size: 8
+		1 reviews removed from the relevance model, indices: [1]. 
+		It now has size: 7
+			old information: 3818, gain: 0.9726613965744401
+
+   ind                                             review  relevance
+0  32  ve tivo year n t know d watch tv without let a...   0.573367
+1  30  think folks writing reviews product completely...   0.550321
+2  16  absolutely loved tivo great modem stopped work...   0.488062
+3  28  knew moment heard concept tivo replay wanted o...   0.446026
+4   9  early adopter tivo paid price 0 2 years ago im...   0.412168
+5  19  unit took 5 10 minutes install course system s...   0.330262
+6   8  loved tivo moment installed takes little s how...   0.271991
+7   7  let first start confessing addicted tivo servi...   0.190428
+8   2  product performed flawlessly 9 months product ...   0.083577
+
+step 1
+index added: 33
+percentage unclustered: 81.8182%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [17, 32, 33]
+		The relevance model has size: 8
+		1 reviews removed from the relevance model, indices: [17]. 
+		It now has size: 7
+			old information: 20216, gain: 0.8800166181969257
+
+   ind                                             review  relevance
+0  33  anyone thinking purchasing tivo unit phillips ...   0.772795
+1  32  ve tivo year n t know d watch tv without let a...   0.573367
+2  30  think folks writing reviews product completely...   0.550321
+3  16  absolutely loved tivo great modem stopped work...   0.488062
+4  28  knew moment heard concept tivo replay wanted o...   0.446026
+5   9  early adopter tivo paid price 0 2 years ago im...   0.412168
+6  19  unit took 5 10 minutes install course system s...   0.330262
+7   8  loved tivo moment installed takes little s how...   0.271991
+8   7  let first start confessing addicted tivo servi...   0.190428
+9   2  product performed flawlessly 9 months product ...   0.083577
+
+step 1
+index added: 34
+percentage unclustered: 81.8182%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 81.8182%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 80.9091%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 80.9091%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 78.1818%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [17, 32, 33]
+
+step 1
+index added: 39
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 76.3636%
+
+	step 2
+
+		step 3
+		candidate index: 42 with core nodes: [26, 41, 42]
+		The relevance model has size: 9
+		2 reviews removed from the relevance model, indices: [19, 25]. 
+		It now has size: 7
+			old information: 2466, gain: 0.8722676888014089
+
+    ind                                             review  relevance
+0   33  anyone thinking purchasing tivo unit phillips ...   0.772795
+1   42  early adopter tivo completely changed way watc...   0.608725
+2   32  ve tivo year n t know d watch tv without let a...   0.573367
+3   30  think folks writing reviews product completely...   0.550321
+4   16  absolutely loved tivo great modem stopped work...   0.488062
+5   28  knew moment heard concept tivo replay wanted o...   0.446026
+6    9  early adopter tivo paid price 0 2 years ago im...   0.412168
+7   19  unit took 5 10 minutes install course system s...   0.330262
+8    8  loved tivo moment installed takes little s how...   0.271991
+9    7  let first start confessing addicted tivo servi...   0.190428
+10   2  product performed flawlessly 9 months product ...   0.083577
+
+step 1
+index added: 43
+percentage unclustered: 76.3636%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 76.3636%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 75.4545%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [17, 32, 33]
+
+step 1
+index added: 46
+percentage unclustered: 74.5455%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [26, 41, 42, 46]
+		The relevance model has size: 8
+		3 reviews removed from the relevance model, indices: [18, 28, 32]. 
+		It now has size: 5
+			old information: 747, gain: 0.809244126659857
+
+    ind                                             review  relevance
+0   33  anyone thinking purchasing tivo unit phillips ...   0.772795
+1   42  early adopter tivo completely changed way watc...   0.608725
+2   32  ve tivo year n t know d watch tv without let a...   0.573367
+3   46  found tivo everything hoped cable dish network...   0.561825
+4   30  think folks writing reviews product completely...   0.550321
+5   16  absolutely loved tivo great modem stopped work...   0.488062
+6   28  knew moment heard concept tivo replay wanted o...   0.446026
+7    9  early adopter tivo paid price 0 2 years ago im...   0.412168
+8   19  unit took 5 10 minutes install course system s...   0.330262
+9    8  loved tivo moment installed takes little s how...   0.271991
+10   7  let first start confessing addicted tivo servi...   0.190428
+11   2  product performed flawlessly 9 months product ...   0.083577
+
+step 1
+index added: 47
+percentage unclustered: 72.7273%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [26, 41, 42, 46]
+
+step 1
+index added: 48
+percentage unclustered: 71.8182%
+
+	step 2
+
+		step 3
+		candidate index: 48 with core nodes: [26, 41, 42, 46]
+
+step 1
+index added: 49
+percentage unclustered: 71.8182%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 69.0909%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 68.1818%
+
+	step 2
+
+		step 3
+		candidate index: 51 with core nodes: [26, 30, 41, 42]
+
+step 1
+index added: 52
+percentage unclustered: 67.2727%
+
+	step 2
+
+		step 3
+		candidate index: 52 with core nodes: [26, 30, 41, 42]
+
+step 1
+index added: 53
+percentage unclustered: 66.36359999999999%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 66.36359999999999%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 66.36359999999999%
+
+	step 2
+
+		step 3
+		candidate index: 55 with core nodes: [26, 30, 41, 42]
+
+step 1
+index added: 56
+percentage unclustered: 66.36359999999999%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 66.36359999999999%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 63.6364%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 62.7273%
+
+	step 2
+
+		step 3
+		candidate index: 59 with core nodes: [26, 30, 41, 42]
+
+step 1
+index added: 60
+percentage unclustered: 62.7273%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 61.8182%
+
+	step 2
+
+		step 3
+		candidate index: 61 with core nodes: [26, 30, 41, 42]
+
+step 1
+index added: 62
+percentage unclustered: 61.8182%
+
+	step 2
+
+		step 3
+		candidate index: 62 with core nodes: [26, 30, 41, 42]
+
+step 1
+index added: 63
+percentage unclustered: 61.8182%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 60.9091%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 60.9091%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 60.9091%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 60.9091%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 59.0909%
+
+	step 2
+
+		step 3
+		candidate index: 69 with core nodes: [26, 30, 41, 42]
+		The relevance model has size: 6
+		2 reviews removed from the relevance model, indices: [26, 33]. 
+		It now has size: 4
+			old information: 431, gain: 0.7644808743169399
+
+    ind                                             review  relevance
+0   33  anyone thinking purchasing tivo unit phillips ...   0.772795
+1   42  early adopter tivo completely changed way watc...   0.608725
+2   69  tivo really change way watch tv greatest produ...   0.607094
+3   32  ve tivo year n t know d watch tv without let a...   0.573367
+4   46  found tivo everything hoped cable dish network...   0.561825
+5   30  think folks writing reviews product completely...   0.550321
+6   16  absolutely loved tivo great modem stopped work...   0.488062
+7   28  knew moment heard concept tivo replay wanted o...   0.446026
+8    9  early adopter tivo paid price 0 2 years ago im...   0.412168
+9   19  unit took 5 10 minutes install course system s...   0.330262
+10   8  loved tivo moment installed takes little s how...   0.271991
+11   7  let first start confessing addicted tivo servi...   0.190428
+12   2  product performed flawlessly 9 months product ...   0.083577
+
+step 1
+index added: 70
+percentage unclustered: 59.0909%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 56.3636%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 56.3636%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 56.3636%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 56.3636%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 57.2727%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 55.4545%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 55.4545%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 54.5455%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 54.5455%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 53.6364%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 53.6364%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 53.6364%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 52.7273%
+
+	step 2
+
+		step 3
+		candidate index: 83 with core nodes: [26, 30, 41, 42, 83]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [26, 30, 42]. 
+		It now has size: 3
+			old information: 243, gain: 0.6351351351351351
+
+    ind                                             review  relevance
+0   33  anyone thinking purchasing tivo unit phillips ...   0.772795
+1   83  using tivo two months love tivo tivo always se...   0.634822
+2   42  early adopter tivo completely changed way watc...   0.608725
+3   69  tivo really change way watch tv greatest produ...   0.607094
+4   32  ve tivo year n t know d watch tv without let a...   0.573367
+5   46  found tivo everything hoped cable dish network...   0.561825
+6   30  think folks writing reviews product completely...   0.550321
+7   16  absolutely loved tivo great modem stopped work...   0.488062
+8   28  knew moment heard concept tivo replay wanted o...   0.446026
+9    9  early adopter tivo paid price 0 2 years ago im...   0.412168
+10  19  unit took 5 10 minutes install course system s...   0.330262
+11   8  loved tivo moment installed takes little s how...   0.271991
+12   7  let first start confessing addicted tivo servi...   0.190428
+13   2  product performed flawlessly 9 months product ...   0.083577
+
+step 1
+index added: 84
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 60.9091%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 60.9091%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 60.9091%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 55.4545%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 52.7273%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 52.7273%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 52.7273%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 51.8182%
+
+	step 2
+
+		step 3
+		candidate index: 96 with core nodes: [26, 30, 41, 42, 46, 83, 86]
+
+step 1
+index added: 97
+percentage unclustered: 50.9091%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 50.0%
+
+	step 2
+
+		step 3
+		candidate index: 98 with core nodes: [26, 30, 41, 42, 46, 83, 86]
+
+step 1
+index added: 99
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 49.0909%
+
+	step 2
+
+		step 3
+		candidate index: 100 with core nodes: [32, 33, 76, 100]
+		The relevance model has size: 7
+		2 reviews removed from the relevance model, indices: [32, 41]. 
+		It now has size: 5
+			old information: 1977, gain: 0.9081661092530657
+
+     ind                                             review  relevance
+0    33  anyone thinking purchasing tivo unit phillips ...   0.772795
+1    83  using tivo two months love tivo tivo always se...   0.634822
+2   100  bought tivo machine thought would fun toy anot...   0.622001
+3    42  early adopter tivo completely changed way watc...   0.608725
+4    69  tivo really change way watch tv greatest produ...   0.607094
+5    32  ve tivo year n t know d watch tv without let a...   0.573367
+6    46  found tivo everything hoped cable dish network...   0.561825
+7    30  think folks writing reviews product completely...   0.550321
+8    16  absolutely loved tivo great modem stopped work...   0.488062
+9    28  knew moment heard concept tivo replay wanted o...   0.446026
+10    9  early adopter tivo paid price 0 2 years ago im...   0.412168
+11   19  unit took 5 10 minutes install course system s...   0.330262
+12    8  loved tivo moment installed takes little s how...   0.271991
+13    7  let first start confessing addicted tivo servi...   0.190428
+14    2  product performed flawlessly 9 months product ...   0.083577
+
+step 1
+index added: 101
+percentage unclustered: 49.0909%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 48.1818%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 47.2727%
+
+	step 2
+
+		step 3
+		candidate index: 103 with core nodes: [32, 33, 76, 100]
+
+step 1
+index added: 104
+percentage unclustered: 47.2727%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 44.5455%
+
+	step 2
+
+		step 3
+		candidate index: 105 with core nodes: [26, 30, 41, 42, 46, 76, 83, 86, 100, 105]
+		The relevance model has size: 11
+		4 reviews removed from the relevance model, indices: [26, 33, 41, 46]. 
+		It now has size: 7
+			old information: 2277, gain: 0.874510884541196
+
+     ind                                             review  relevance
+0    33  anyone thinking purchasing tivo unit phillips ...   0.772795
+1    83  using tivo two months love tivo tivo always se...   0.634822
+2   100  bought tivo machine thought would fun toy anot...   0.622001
+3    42  early adopter tivo completely changed way watc...   0.608725
+4    69  tivo really change way watch tv greatest produ...   0.607094
+5   105  30 hour tivo unit purchased considering replay...   0.602444
+6    32  ve tivo year n t know d watch tv without let a...   0.573367
+7    46  found tivo everything hoped cable dish network...   0.561825
+8    30  think folks writing reviews product completely...   0.550321
+9    16  absolutely loved tivo great modem stopped work...   0.488062
+10   28  knew moment heard concept tivo replay wanted o...   0.446026
+11    9  early adopter tivo paid price 0 2 years ago im...   0.412168
+12   19  unit took 5 10 minutes install course system s...   0.330262
+13    8  loved tivo moment installed takes little s how...   0.271991
+14    7  let first start confessing addicted tivo servi...   0.190428
+15    2  product performed flawlessly 9 months product ...   0.083577
+
+step 1
+index added: 106
+percentage unclustered: 43.6364%
+
+	step 2
+
+		step 3
+		candidate index: 106 with core nodes: [32, 33, 37]
+
+step 1
+index added: 107
+percentage unclustered: 43.6364%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 42.7273%
+
+	step 2
+
+		step 3
+		candidate index: 108 with core nodes: [32, 33, 37, 108]
+		The relevance model has size: 11
+		4 reviews removed from the relevance model, indices: [30, 32, 37, 69]. 
+		It now has size: 7
+			old information: 2616, gain: 0.8339363930679871
+
+     ind                                             review  relevance
+0    33  anyone thinking purchasing tivo unit phillips ...   0.772795
+1    83  using tivo two months love tivo tivo always se...   0.634822
+2   108  thing well surface s digital vcr records progr...   0.633690
+3   100  bought tivo machine thought would fun toy anot...   0.622001
+4    42  early adopter tivo completely changed way watc...   0.608725
+5    69  tivo really change way watch tv greatest produ...   0.607094
+6   105  30 hour tivo unit purchased considering replay...   0.602444
+7    32  ve tivo year n t know d watch tv without let a...   0.573367
+8    46  found tivo everything hoped cable dish network...   0.561825
+9    30  think folks writing reviews product completely...   0.550321
+10   16  absolutely loved tivo great modem stopped work...   0.488062
+11   28  knew moment heard concept tivo replay wanted o...   0.446026
+12    9  early adopter tivo paid price 0 2 years ago im...   0.412168
+13   19  unit took 5 10 minutes install course system s...   0.330262
+14    8  loved tivo moment installed takes little s how...   0.271991
+15    7  let first start confessing addicted tivo servi...   0.190428
+16    2  product performed flawlessly 9 months product ...   0.083577
+
+step 1
+index added: 109
+percentage unclustered: 42.7273%
+
+	step 2
+
+--- 305.7376229763031 seconds ---
+
+
+ Unclustered percentages: [97.2727, 97.2727, 97.2727, 97.2727, 97.2727, 96.3636, 95.4545, 94.5455, 94.5455, 94.5455, 94.5455, 94.5455, 94.5455, 91.8182, 90.9091, 90.9091, 90.9091, 91.8182, 91.8182, 91.8182, 91.8182, 91.8182, 91.8182, 91.8182, 91.8182, 88.1818, 86.3636, 86.3636, 83.6364, 83.6364, 82.7273, 81.8182, 81.8182, 81.8182, 80.9091, 80.9091, 78.1818, 79.0909, 79.0909, 80.0, 76.3636, 76.3636, 76.3636, 75.4545, 74.5455, 72.7273, 71.8182, 71.8182, 69.0909, 68.1818, 67.2727, 66.36359999999999, 66.36359999999999, 66.36359999999999, 66.36359999999999, 66.36359999999999, 63.6364, 62.7273, 62.7273, 61.8182, 61.8182, 61.8182, 60.9091, 60.9091, 60.9091, 60.9091, 60.0, 59.0909, 59.0909, 56.3636, 56.3636, 56.3636, 56.3636, 57.2727, 55.4545, 55.4545, 54.5455, 54.5455, 53.6364, 53.6364, 53.6364, 52.7273, 60.0, 60.0, 60.0, 60.0, 60.0, 60.9091, 60.9091, 60.9091, 55.4545, 52.7273, 52.7273, 52.7273, 51.8182, 50.9091, 50.0, 50.0, 49.0909, 49.0909, 48.1818, 47.2727, 47.2727, 44.5455, 43.6364, 43.6364, 42.7273, 42.7273], mean: 70.1936
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0        30   33   0.772795  anyone thinking purchasing tivo unit phillips ...
+1       109   83   0.634822  using tivo two months love tivo tivo always se...
+2        14  108   0.633690  thing well surface s digital vcr records progr...
+3        42  100   0.622001  bought tivo machine thought would fun toy anot...
+4        16   42   0.608725  early adopter tivo completely changed way watc...
+5       103   69   0.607094  tivo really change way watch tv greatest produ...
+6        33  105   0.602444  30 hour tivo unit purchased considering replay...
+7        74   32   0.573367  ve tivo year n t know d watch tv without let a...
+8       100   46   0.561825  found tivo everything hoped cable dish network...
+9        95   30   0.550321  think folks writing reviews product completely...
+10       72   16   0.488062  absolutely loved tivo great modem stopped work...
+11       89   28   0.446026  knew moment heard concept tivo replay wanted o...
+12       45    9   0.412168  early adopter tivo paid price 0 2 years ago im...
+13       55   19   0.330262  unit took 5 10 minutes install course system s...
+14       39    8   0.271991  loved tivo moment installed takes little s how...
+15       59    7   0.190428  let first start confessing addicted tivo servi...
+16       58    2   0.083577  product performed flawlessly 9 months product ...
