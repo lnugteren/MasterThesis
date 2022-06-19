@@ -1,0 +1,906 @@
+------- Category: Sports_and_Outdoors -------
+Found asin_id: B005UGIMNQ
+Shape:  (100, 7)
+Shape after:  (100, 7)
+
+
+Chosen product: B005UGIMNQ has 100 reviews - True, it has 100 reviews
+
+Nr of stopwords in review: ['489/983', '25/42', '35/74', '58/129', '543/1117', '69/145', '294/628', '99/187', '19/47', '19/67', '47/97', '72/189', '83/191', '11/24', '137/290', '80/247', '215/395', '100/217', '249/510', '60/116', '83/155', '174/373', '45/94', '281/624', '223/465', '43/75', '137/267', '13/34', '47/87', '53/104', '51/104', '158/311', '149/319', '195/369', '106/181', '53/108', '19/48', '24/47', '27/83', '176/376', '31/58', '31/63', '64/110', '62/129', '12/27', '248/557', '117/201', '35/70', '69/138', '29/63', '3/9', '86/171', '47/104', '49/96', '154/334', '113/201', '32/57', '233/501', '92/160', '19/45', '58/104', '14/30', '14/31', '27/52', '61/109', '74/160', '133/253', '48/89', '32/64', '216/524', '27/75', '83/179', '123/279', '112/200', '70/203', '253/522', '10/74', '25/65', '53/102', '54/100', '62/106', '110/285', '25/58', '105/229', '8/27', '135/262', '30/67', '875/1884', '154/321', '65/115', '124/229', '303/626', '207/447', '433/905', '80/163', '49/122', '267/592', '128/359', '55/107', '96/204'], on average: 0.473
+Nr of stopwords in summary: ['2/3', '0/2', '1/4', '2/5', '5/10', '1/6', '5/18', '5/9', '0/2', '0/2', '6/12', '0/3', '0/2', '1/4', '0/3', '2/11', '4/8', '5/10', '0/3', '3/8', '0/2', '1/4', '6/11', '2/5', '4/6', '5/6', '0/4', '0/2', '0/4', '1/2', '0/2', '2/5', '0/5', '2/6', '1/4', '0/2', '3/5', '3/5', '0/2', '3/8', '2/6', '1/6', '9/20', '3/10', '3/6', '2/5', '0/4', '7/14', '1/3', '7/15', '2/4', '4/7', '4/11', '0/1', '0/3', '2/5', '1/4', '4/8', '0/2', '0/3', '5/6', '0/2', '1/3', '5/11', '0/2', '0/4', '2/6', '0/2', '0/2', '4/12', '2/5', '4/11', '0/2', '2/5', '0/7', '4/7', '7/12', '2/7', '1/5', '2/5', '0/5', '1/6', '0/4', '2/5', '4/8', '2/6', '2/6', '1/4', '3/7', '0/6', '0/1', '3/6', '2/5', '1/7', '1/2', '0/2', '3/5', '1/5', '4/7', '2/5'], on average: 0.2813
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 97.0%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [3, 4, 7]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   7  wow this scope is very nice it looks great on ...   0.680832
+
+step 1
+index added: 8
+percentage unclustered: 97.0%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 97.0%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 96.0%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [3, 4, 7, 10]
+			old information: 177, gain: 0.9619845360824743
+
+   ind                                             review  relevance
+0   7  wow this scope is very nice it looks great on ...   0.680832
+1  10  this is the perfect scope for a rugerr 10 22 t...   0.595044
+
+step 1
+index added: 11
+percentage unclustered: 96.0%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 95.0%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [3, 5, 7, 12]
+			old information: 814, gain: 0.9551391567925048
+
+   ind                                             review  relevance
+0  12  pretty good scope the illumination feature see...   0.780980
+1   7  wow this scope is very nice it looks great on ...   0.680832
+2  10  this is the perfect scope for a rugerr 10 22 t...   0.595044
+
+step 1
+index added: 13
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 93.0%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [4, 10, 12, 16]
+			old information: 1596, gain: 0.9794898155882542
+
+   ind                                             review  relevance
+0  16  this scope is amazing so amazing that i d rath...   0.833898
+1  12  pretty good scope the illumination feature see...   0.780980
+2   7  wow this scope is very nice it looks great on ...   0.680832
+3  10  this is the perfect scope for a rugerr 10 22 t...   0.595044
+
+step 1
+index added: 17
+percentage unclustered: 92.0%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [4, 12, 16, 17]
+			old information: 1114, gain: 0.9524662911759686
+
+   ind                                             review  relevance
+0  16  this scope is amazing so amazing that i d rath...   0.833898
+1  12  pretty good scope the illumination feature see...   0.780980
+2  17  i bought this scope to mount on a century c308...   0.741923
+3   7  wow this scope is very nice it looks great on ...   0.680832
+4  10  this is the perfect scope for a rugerr 10 22 t...   0.595044
+
+step 1
+index added: 18
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 91.0%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [4, 12, 16, 17]
+
+step 1
+index added: 20
+percentage unclustered: 91.0%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 93.0%
+
+	step 2
+
+		step 3
+		candidate index: 23 with core nodes: [4, 16, 17, 23]
+			old information: 4913, gain: 0.9747242457916615
+
+   ind                                             review  relevance
+0  23  div id video block r2p0uscpe9solt class a sect...   0.860108
+1  16  this scope is amazing so amazing that i d rath...   0.833898
+2  12  pretty good scope the illumination feature see...   0.780980
+3  17  i bought this scope to mount on a century c308...   0.741923
+4   7  wow this scope is very nice it looks great on ...   0.680832
+5  10  this is the perfect scope for a rugerr 10 22 t...   0.595044
+
+step 1
+index added: 24
+percentage unclustered: 93.0%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 93.0%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 94.0%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [10, 17, 23, 26]
+			old information: 2473, gain: 0.9303596068823745
+
+   ind                                             review  relevance
+0  23  div id video block r2p0uscpe9solt class a sect...   0.860108
+1  16  this scope is amazing so amazing that i d rath...   0.833898
+2  12  pretty good scope the illumination feature see...   0.780980
+3  26  fantastic scope for the money at this price it...   0.766061
+4  17  i bought this scope to mount on a century c308...   0.741923
+5   7  wow this scope is very nice it looks great on ...   0.680832
+6  10  this is the perfect scope for a rugerr 10 22 t...   0.595044
+
+step 1
+index added: 27
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [10, 12, 17, 23, 26]
+
+step 1
+index added: 28
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 89.0%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [10, 12, 17, 23, 26]
+
+step 1
+index added: 31
+percentage unclustered: 82.0%
+
+	step 2
+
+		step 3
+		candidate index: 31 with core nodes: [4, 16, 23, 31]
+			old information: 4746, gain: 0.9015454828337309
+
+   ind                                             review  relevance
+0  23  div id video block r2p0uscpe9solt class a sect...   0.860108
+1  31  some people have complained about a tilted ret...   0.859723
+2  16  this scope is amazing so amazing that i d rath...   0.833898
+3  12  pretty good scope the illumination feature see...   0.780980
+4  26  fantastic scope for the money at this price it...   0.766061
+5  17  i bought this scope to mount on a century c308...   0.741923
+6   7  wow this scope is very nice it looks great on ...   0.680832
+7  10  this is the perfect scope for a rugerr 10 22 t...   0.595044
+
+step 1
+index added: 32
+percentage unclustered: 81.0%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [4, 16, 23, 31]
+			old information: 3585, gain: 0.9293192168924115
+
+   ind                                             review  relevance
+0  23  div id video block r2p0uscpe9solt class a sect...   0.860108
+1  31  some people have complained about a tilted ret...   0.859723
+2  32  my expectations were low based on the price i ...   0.837669
+3  16  this scope is amazing so amazing that i d rath...   0.833898
+4  12  pretty good scope the illumination feature see...   0.780980
+5  26  fantastic scope for the money at this price it...   0.766061
+6  17  i bought this scope to mount on a century c308...   0.741923
+7   7  wow this scope is very nice it looks great on ...   0.680832
+8  10  this is the perfect scope for a rugerr 10 22 t...   0.595044
+
+step 1
+index added: 33
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [4, 16, 23, 31, 32, 33]
+			old information: 4979, gain: 0.9266672558029928
+
+   ind                                             review  relevance
+0  23  div id video block r2p0uscpe9solt class a sect...   0.860108
+1  31  some people have complained about a tilted ret...   0.859723
+2  33  i am at a loss as to why there are any positiv...   0.843078
+3  32  my expectations were low based on the price i ...   0.837669
+4  16  this scope is amazing so amazing that i d rath...   0.833898
+5  12  pretty good scope the illumination feature see...   0.780980
+6  26  fantastic scope for the money at this price it...   0.766061
+7  17  i bought this scope to mount on a century c308...   0.741923
+8   7  wow this scope is very nice it looks great on ...   0.680832
+9  10  this is the perfect scope for a rugerr 10 22 t...   0.595044
+
+step 1
+index added: 34
+percentage unclustered: 79.0%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [4, 16, 23, 31, 32, 33]
+
+step 1
+index added: 35
+percentage unclustered: 79.0%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 79.0%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 79.0%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 79.0%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 87.0%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 77.0%
+
+	step 2
+
+		step 3
+		candidate index: 40 with core nodes: [4, 16, 23, 31, 32, 33]
+
+step 1
+index added: 41
+percentage unclustered: 77.0%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 83.0%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [12, 23, 31, 32]
+			old information: 8848, gain: 0.9428593570386061
+
+    ind                                             review  relevance
+0   23  div id video block r2p0uscpe9solt class a sect...   0.860108
+1   31  some people have complained about a tilted ret...   0.859723
+2   33  i am at a loss as to why there are any positiv...   0.843078
+3   32  my expectations were low based on the price i ...   0.837669
+4   16  this scope is amazing so amazing that i d rath...   0.833898
+5   45  i received this scope yesterday it was immedia...   0.802585
+6   12  pretty good scope the illumination feature see...   0.780980
+7   26  fantastic scope for the money at this price it...   0.766061
+8   17  i bought this scope to mount on a century c308...   0.741923
+9    7  wow this scope is very nice it looks great on ...   0.680832
+10  10  this is the perfect scope for a rugerr 10 22 t...   0.595044
+
+step 1
+index added: 46
+percentage unclustered: 83.0%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 83.0%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 83.0%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 83.0%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 78.0%
+
+	step 2
+
+		step 3
+		candidate index: 52 with core nodes: [16, 23, 32, 33]
+
+step 1
+index added: 53
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 84.0%
+
+	step 2
+
+		step 3
+		candidate index: 54 with core nodes: [16, 33, 54]
+			old information: 5096, gain: 0.9083634532736329
+
+    ind                                             review  relevance
+0   23  div id video block r2p0uscpe9solt class a sect...   0.860108
+1   31  some people have complained about a tilted ret...   0.859723
+2   33  i am at a loss as to why there are any positiv...   0.843078
+3   32  my expectations were low based on the price i ...   0.837669
+4   16  this scope is amazing so amazing that i d rath...   0.833898
+5   54  pros nno this scope is not made in the usa but...   0.807288
+6   45  i received this scope yesterday it was immedia...   0.802585
+7   12  pretty good scope the illumination feature see...   0.780980
+8   26  fantastic scope for the money at this price it...   0.766061
+9   17  i bought this scope to mount on a century c308...   0.741923
+10   7  wow this scope is very nice it looks great on ...   0.680832
+11  10  this is the perfect scope for a rugerr 10 22 t...   0.595044
+
+step 1
+index added: 55
+percentage unclustered: 84.0%
+
+	step 2
+
+		step 3
+		candidate index: 55 with core nodes: [16, 23, 33, 54]
+			old information: 2909, gain: 0.855273631840796
+
+    ind                                             review  relevance
+0   23  div id video block r2p0uscpe9solt class a sect...   0.860108
+1   31  some people have complained about a tilted ret...   0.859723
+2   55  i searched for quite a while for a compact sco...   0.855330
+3   33  i am at a loss as to why there are any positiv...   0.843078
+4   32  my expectations were low based on the price i ...   0.837669
+5   16  this scope is amazing so amazing that i d rath...   0.833898
+6   54  pros nno this scope is not made in the usa but...   0.807288
+7   45  i received this scope yesterday it was immedia...   0.802585
+8   12  pretty good scope the illumination feature see...   0.780980
+9   26  fantastic scope for the money at this price it...   0.766061
+10  17  i bought this scope to mount on a century c308...   0.741923
+11   7  wow this scope is very nice it looks great on ...   0.680832
+12  10  this is the perfect scope for a rugerr 10 22 t...   0.595044
+
+step 1
+index added: 56
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 84.0%
+
+	step 2
+
+		step 3
+		candidate index: 57 with core nodes: [23, 33, 57]
+			old information: 8472, gain: 0.9323592814371258
+
+    ind                                             review  relevance
+0   57  i read quite a few of the 370 reviews of this ...   0.879146
+1   23  div id video block r2p0uscpe9solt class a sect...   0.860108
+2   31  some people have complained about a tilted ret...   0.859723
+3   55  i searched for quite a while for a compact sco...   0.855330
+4   33  i am at a loss as to why there are any positiv...   0.843078
+5   32  my expectations were low based on the price i ...   0.837669
+6   16  this scope is amazing so amazing that i d rath...   0.833898
+7   54  pros nno this scope is not made in the usa but...   0.807288
+8   45  i received this scope yesterday it was immedia...   0.802585
+9   12  pretty good scope the illumination feature see...   0.780980
+10  26  fantastic scope for the money at this price it...   0.766061
+11  17  i bought this scope to mount on a century c308...   0.741923
+12   7  wow this scope is very nice it looks great on ...   0.680832
+13  10  this is the perfect scope for a rugerr 10 22 t...   0.595044
+
+step 1
+index added: 58
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 58 with core nodes: [23, 33, 57]
+
+step 1
+index added: 59
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 81.0%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 74.0%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 74.0%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 74.0%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 74.0%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 74.0%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 73.0%
+
+	step 2
+
+		step 3
+		candidate index: 70 with core nodes: [0, 23, 57]
+
+step 1
+index added: 71
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 84.0%
+
+	step 2
+
+		step 3
+		candidate index: 74 with core nodes: [0, 23, 33, 57]
+
+step 1
+index added: 75
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 75 with core nodes: [0, 23, 57, 75]
+			old information: 10157, gain: 0.9253057412432619
+
+    ind                                             review  relevance
+0   75  picked this scope up for my ruger 10 22 with a...   0.895494
+1   57  i read quite a few of the 370 reviews of this ...   0.879146
+2   23  div id video block r2p0uscpe9solt class a sect...   0.860108
+3   31  some people have complained about a tilted ret...   0.859723
+4   55  i searched for quite a while for a compact sco...   0.855330
+5   33  i am at a loss as to why there are any positiv...   0.843078
+6   32  my expectations were low based on the price i ...   0.837669
+7   16  this scope is amazing so amazing that i d rath...   0.833898
+8   54  pros nno this scope is not made in the usa but...   0.807288
+9   45  i received this scope yesterday it was immedia...   0.802585
+10  12  pretty good scope the illumination feature see...   0.780980
+11  26  fantastic scope for the money at this price it...   0.766061
+12  17  i bought this scope to mount on a century c308...   0.741923
+13   7  wow this scope is very nice it looks great on ...   0.680832
+14  10  this is the perfect scope for a rugerr 10 22 t...   0.595044
+
+step 1
+index added: 76
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 77.0%
+
+	step 2
+
+		step 3
+		candidate index: 77 with core nodes: [0, 23, 57, 75]
+
+step 1
+index added: 78
+percentage unclustered: 77.0%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 74.0%
+
+	step 2
+
+		step 3
+		candidate index: 81 with core nodes: [0, 23, 57, 75]
+
+step 1
+index added: 82
+percentage unclustered: 74.0%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 77.0%
+
+	step 2
+
+		step 3
+		candidate index: 88 with core nodes: [0, 23, 33, 75, 88]
+			old information: 5011, gain: 0.902433800623053
+
+    ind                                             review  relevance
+0   75  picked this scope up for my ruger 10 22 with a...   0.895494
+1   57  i read quite a few of the 370 reviews of this ...   0.879146
+2   23  div id video block r2p0uscpe9solt class a sect...   0.860108
+3   31  some people have complained about a tilted ret...   0.859723
+4   55  i searched for quite a while for a compact sco...   0.855330
+5   33  i am at a loss as to why there are any positiv...   0.843078
+6   32  my expectations were low based on the price i ...   0.837669
+7   88  i did a lot of research on different scopes fo...   0.833997
+8   16  this scope is amazing so amazing that i d rath...   0.833898
+9   54  pros nno this scope is not made in the usa but...   0.807288
+10  45  i received this scope yesterday it was immedia...   0.802585
+11  12  pretty good scope the illumination feature see...   0.780980
+12  26  fantastic scope for the money at this price it...   0.766061
+13  17  i bought this scope to mount on a century c308...   0.741923
+14   7  wow this scope is very nice it looks great on ...   0.680832
+15  10  this is the perfect scope for a rugerr 10 22 t...   0.595044
+
+step 1
+index added: 89
+percentage unclustered: 77.0%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 77.0%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 77.0%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 81.0%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 81.0%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 81.0%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 81.0%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 78.0%
+
+	step 2
+
+		step 3
+		candidate index: 96 with core nodes: [0, 23, 33, 75, 96]
+			old information: 14816, gain: 0.9153061691132757
+
+    ind                                             review  relevance
+0   75  picked this scope up for my ruger 10 22 with a...   0.895494
+1   96  first impressions where really good until i un...   0.888420
+2   57  i read quite a few of the 370 reviews of this ...   0.879146
+3   23  div id video block r2p0uscpe9solt class a sect...   0.860108
+4   31  some people have complained about a tilted ret...   0.859723
+5   55  i searched for quite a while for a compact sco...   0.855330
+6   33  i am at a loss as to why there are any positiv...   0.843078
+7   32  my expectations were low based on the price i ...   0.837669
+8   88  i did a lot of research on different scopes fo...   0.833997
+9   16  this scope is amazing so amazing that i d rath...   0.833898
+10  54  pros nno this scope is not made in the usa but...   0.807288
+11  45  i received this scope yesterday it was immedia...   0.802585
+12  12  pretty good scope the illumination feature see...   0.780980
+13  26  fantastic scope for the money at this price it...   0.766061
+14  17  i bought this scope to mount on a century c308...   0.741923
+15   7  wow this scope is very nice it looks great on ...   0.680832
+16  10  this is the perfect scope for a rugerr 10 22 t...   0.595044
+
+step 1
+index added: 97
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 69.0%
+
+	step 2
+
+		step 3
+		candidate index: 98 with core nodes: [0, 31, 75, 96]
+
+step 1
+index added: 99
+percentage unclustered: 69.0%
+
+	step 2
+
+--- 1197.4636480808258 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 97.0, 97.0, 97.0, 96.0, 96.0, 95.0, 95.0, 95.0, 95.0, 93.0, 92.0, 92.0, 91.0, 91.0, 94.0, 94.0, 93.0, 93.0, 93.0, 94.0, 90.0, 90.0, 90.0, 89.0, 82.0, 81.0, 80.0, 79.0, 79.0, 79.0, 79.0, 79.0, 87.0, 77.0, 77.0, 80.0, 80.0, 85.0, 83.0, 83.0, 83.0, 83.0, 83.0, 82.0, 82.0, 78.0, 78.0, 84.0, 84.0, 84.0, 84.0, 80.0, 80.0, 80.0, 80.0, 81.0, 80.0, 80.0, 74.0, 74.0, 74.0, 74.0, 74.0, 73.0, 82.0, 82.0, 82.0, 84.0, 80.0, 80.0, 77.0, 77.0, 75.0, 75.0, 74.0, 74.0, 78.0, 78.0, 78.0, 78.0, 78.0, 77.0, 77.0, 77.0, 77.0, 81.0, 81.0, 81.0, 81.0, 78.0, 78.0, 69.0, 69.0], mean: 83.6633
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        76  75   0.895494  picked this scope up for my ruger 10 22 with a...
+1        99  96   0.888420  first impressions where really good until i un...
+2         7  57   0.879146  i read quite a few of the 370 reviews of this ...
+3         5  23   0.860108  div id video block r2p0uscpe9solt class a sect...
+4        20  31   0.859723  some people have complained about a tilted ret...
+5        89  55   0.855330  i searched for quite a while for a compact sco...
+6        59  33   0.843078  i am at a loss as to why there are any positiv...
+7        25  32   0.837669  my expectations were low based on the price i ...
+8        11  88   0.833997  i did a lot of research on different scopes fo...
+9        14  16   0.833898  this scope is amazing so amazing that i d rath...
+10       19  54   0.807288  pros nno this scope is not made in the usa but...
+11       79  45   0.802585  i received this scope yesterday it was immedia...
+12       34  12   0.780980  pretty good scope the illumination feature see...
+13       61  26   0.766061  fantastic scope for the money at this price it...
+14       54  17   0.741923  i bought this scope to mount on a century c308...
+15       36   7   0.680832  wow this scope is very nice it looks great on ...
+16       13  10   0.595044  this is the perfect scope for a rugerr 10 22 t...

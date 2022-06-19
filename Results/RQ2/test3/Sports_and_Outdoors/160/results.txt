@@ -1,0 +1,1355 @@
+------- Category: Sports_and_Outdoors -------
+Found asin_id: B019Z6HS86
+Shape:  (162, 7)
+Shape after:  (162, 7)
+
+
+Chosen product: B019Z6HS86 has 162 reviews - False, it has 160 reviews
+
+Nr of stopwords in review: ['330/687', '1635/3282', '212/436', '167/358', '171/432', '71/164', '13/30', '311/665', '86/161', '172/315', '155/300', '78/138', '106/200', '140/288', '95/198', '36/70', '276/560', '151/312', '98/178', '137/284', '63/134', '68/128', '88/178', '101/220', '670/1439', '325/583', '391/832', '53/104', '111/234', '267/517', '402/785', '230/490', '95/169', '214/443', '66/126', '17/29', '39/79', '28/66', '84/168', '6/18', '60/121', '172/310', '96/192', '85/197', '34/63', '23/48', '13/27', '208/425', '348/716', '49/85', '417/818', '67/152', '156/281', '698/1349', '529/1081', '67/125', '7/27', '518/920', '279/569', '141/275', '50/119', '130/257', '147/300', '53/101', '261/540', '216/435', '563/1078', '294/634', '15/28', '20/42', '537/1114', '202/422', '55/104', '79/157', '24/50', '283/646', '30/59', '121/229', '99/207', '58/127', '71/141', '129/279', '386/730', '105/225', '297/650', '58/107', '64/122', '379/738', '85/153', '6/10', '125/258', '12/31', '206/455', '225/440', '58/134', '172/332', '4/14', '72/138', '19/47', '24/46', '6/12', '403/781', '191/437', '93/180', '7/13', '179/330', '9/23', '45/142', '57/111', '63/123', '83/154', '49/99', '97/213', '111/228', '111/250', '46/85', '34/57', '113/232', '51/107', '20/35', '2/7', '46/102', '78/128', '98/238', '322/621', '50/95', '53/121', '132/270', '1045/2092', '14/29', '10/25', '53/111', '128/242', '134/283', '70/138', '5/12', '19/40', '135/268', '2/4', '28/56', '65/117', '51/89', '41/101', '172/322', '328/753', '62/108', '17/39', '48/92', '51/106', '167/319', '11/22', '10/20', '118/232', '65/126', '95/206', '53/95', '92/152', '60/107', '225/460', '190/375'], on average: 0.4918
+Nr of stopwords in summary: ['2/8', '7/15', '5/15', '7/9', '1/5', '8/15', '6/21', '1/4', '13/22', '5/9', '1/4', '1/6', '6/12', '3/9', '1/2', '3/7', '4/8', '5/9', '7/14', '0/4', '6/12', '4/8', '1/2', '2/7', '5/10', '3/6', '1/5', '1/4', '3/10', '3/7', '5/13', '0/2', '2/4', '1/6', '2/5', '5/8', '8/15', '2/6', '1/2', '0/1', '0/1', '7/14', '2/6', '6/15', '5/10', '1/3', '3/6', '1/5', '2/6', '10/21', '7/16', '8/12', '0/5', '10/21', '1/5', '2/3', '3/8', '6/13', '4/11', '0/2', '9/21', '4/11', '0/5', '10/23', '9/19', '5/10', '5/14', '9/19', '0/1', '1/6', '6/14', '0/3', '0/2', '6/12', '1/5', '0/5', '6/14', '4/7', '1/6', '3/9', '1/6', '7/14', '3/4', '3/10', '1/3', '8/12', '5/14', '11/20', '3/9', '1/5', '0/4', '4/9', '1/4', '2/6', '2/7', '5/8', '0/4', '3/6', '3/10', '1/3', '0/2', '5/8', '3/8', '8/14', '3/6', '7/19', '2/8', '1/4', '4/6', '0/4', '7/15', '1/3', '6/17', '1/3', '2/9', '2/7', '1/4', '1/5', '6/10', '4/9', '1/5', '1/1', '3/8', '2/5', '2/3', '5/10', '4/10', '0/1', '3/10', '4/11', '3/6', '0/1', '4/9', '5/11', '2/10', '1/2', '1/5', '1/4', '0/1', '0/4', '4/7', '4/8', '8/21', '5/8', '8/12', '2/3', '5/9', '9/14', '1/4', '2/8', '2/4', '0/2', '1/2', '1/3', '0/2', '7/13', '5/7', '1/3', '3/10', '7/14'], on average: 0.3646
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 98.125%
+
+	step 2
+
+		step 3
+		candidate index: 3 with core nodes: [1, 2, 3]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   3  edit i ve gotten a number of comments regardin...   0.745494
+
+step 1
+index added: 4
+percentage unclustered: 98.125%
+
+	step 2
+
+step 1
+index added: 5
+percentage unclustered: 97.5%
+
+	step 2
+
+		step 3
+		candidate index: 5 with core nodes: [1, 2, 3, 5]
+			old information: 446, gain: 0.9666317522070926
+
+   ind                                             review  relevance
+0   3  edit i ve gotten a number of comments regardin...   0.745494
+1   5  after few minutes of practice i can quickly ri...   0.689578
+
+step 1
+index added: 6
+percentage unclustered: 96.875%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [1, 2, 3, 5]
+
+step 1
+index added: 7
+percentage unclustered: 96.875%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 96.25%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [1, 2, 3, 5, 8]
+			old information: 680, gain: 0.9472049689440993
+
+   ind                                             review  relevance
+0   3  edit i ve gotten a number of comments regardin...   0.745494
+1   5  after few minutes of practice i can quickly ri...   0.689578
+2   8  today when i was testing driving minipro in th...   0.678337
+
+step 1
+index added: 9
+percentage unclustered: 95.625%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [1, 2, 3, 9]
+			old information: 1777, gain: 0.9640683449600647
+
+   ind                                             review  relevance
+0   9  corporation have been on the down slide since ...   0.774167
+1   3  edit i ve gotten a number of comments regardin...   0.745494
+2   5  after few minutes of practice i can quickly ri...   0.689578
+3   8  today when i was testing driving minipro in th...   0.678337
+
+step 1
+index added: 10
+percentage unclustered: 95.0%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [1, 2, 9]
+			old information: 2227, gain: 0.950345596432553
+
+   ind                                             review  relevance
+0   9  corporation have been on the down slide since ...   0.774167
+1   3  edit i ve gotten a number of comments regardin...   0.745494
+2  10  let me start by saying that i have never ridde...   0.699980
+3   5  after few minutes of practice i can quickly ri...   0.689578
+4   8  today when i was testing driving minipro in th...   0.678337
+
+step 1
+index added: 11
+percentage unclustered: 93.75%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [0, 1, 9]
+
+step 1
+index added: 12
+percentage unclustered: 93.125%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 92.5%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [0, 1, 9, 13]
+			old information: 2632, gain: 0.9363143631436315
+
+   ind                                             review  relevance
+0  13  i thought this item was the answer to all my s...   0.807068
+1   9  corporation have been on the down slide since ...   0.774167
+2   3  edit i ve gotten a number of comments regardin...   0.745494
+3  10  let me start by saying that i have never ridde...   0.699980
+4   5  after few minutes of practice i can quickly ri...   0.689578
+5   8  today when i was testing driving minipro in th...   0.678337
+
+step 1
+index added: 14
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 94.375%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 94.375%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 94.375%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 93.125%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [0, 1, 2, 18]
+			old information: 1843, gain: 0.883006411477179
+
+   ind                                             review  relevance
+0  13  i thought this item was the answer to all my s...   0.807068
+1   9  corporation have been on the down slide since ...   0.774167
+2  18  very impressed with this product we are in our...   0.767307
+3   3  edit i ve gotten a number of comments regardin...   0.745494
+4  10  let me start by saying that i have never ridde...   0.699980
+5   5  after few minutes of practice i can quickly ri...   0.689578
+6   8  today when i was testing driving minipro in th...   0.678337
+
+step 1
+index added: 19
+percentage unclustered: 93.125%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 93.125%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 90.625%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [0, 1, 9, 24]
+			old information: 14015, gain: 0.9864542387166176
+
+   ind                                             review  relevance
+0  24  div id video block r2na1f9cqjxi2e class a sect...   0.913699
+1  13  i thought this item was the answer to all my s...   0.807068
+2   9  corporation have been on the down slide since ...   0.774167
+3  18  very impressed with this product we are in our...   0.767307
+4   3  edit i ve gotten a number of comments regardin...   0.745494
+5  10  let me start by saying that i have never ridde...   0.699980
+6   5  after few minutes of practice i can quickly ri...   0.689578
+7   8  today when i was testing driving minipro in th...   0.678337
+
+step 1
+index added: 25
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [1, 19, 24, 26]
+			old information: 15131, gain: 0.9562303295380913
+
+   ind                                             review  relevance
+0  24  div id video block r2na1f9cqjxi2e class a sect...   0.913699
+1  26  a comparison between 2 options for personal mo...   0.880832
+2  13  i thought this item was the answer to all my s...   0.807068
+3   9  corporation have been on the down slide since ...   0.774167
+4  18  very impressed with this product we are in our...   0.767307
+5   3  edit i ve gotten a number of comments regardin...   0.745494
+6  10  let me start by saying that i have never ridde...   0.699980
+7   5  after few minutes of practice i can quickly ri...   0.689578
+8   8  today when i was testing driving minipro in th...   0.678337
+
+step 1
+index added: 27
+percentage unclustered: 89.375%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [1, 19, 24, 26]
+
+step 1
+index added: 28
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 91.875%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 86.875%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [1, 24, 26, 30]
+			old information: 18360, gain: 0.9403353698167165
+
+   ind                                             review  relevance
+0  24  div id video block r2na1f9cqjxi2e class a sect...   0.913699
+1  30  this is a really fun unit and i hate to do thi...   0.885977
+2  26  a comparison between 2 options for personal mo...   0.880832
+3  13  i thought this item was the answer to all my s...   0.807068
+4   9  corporation have been on the down slide since ...   0.774167
+5  18  very impressed with this product we are in our...   0.767307
+6   3  edit i ve gotten a number of comments regardin...   0.745494
+7  10  let me start by saying that i have never ridde...   0.699980
+8   5  after few minutes of practice i can quickly ri...   0.689578
+9   8  today when i was testing driving minipro in th...   0.678337
+
+step 1
+index added: 31
+percentage unclustered: 86.875%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 86.875%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 93.125%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [1, 9, 19, 24]
+
+step 1
+index added: 34
+percentage unclustered: 91.25%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [1, 19, 24, 26]
+
+step 1
+index added: 35
+percentage unclustered: 85.625%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [10, 12, 17]
+
+step 1
+index added: 36
+percentage unclustered: 88.75%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [7, 10, 26, 30]
+
+step 1
+index added: 37
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 87.5%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [7, 10, 26, 30]
+
+step 1
+index added: 39
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 93.125%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 93.125%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 79.375%
+
+	step 2
+
+		step 3
+		candidate index: 50 with core nodes: [1, 24, 30, 48]
+			old information: 12244, gain: 0.9633581024261342
+
+    ind                                             review  relevance
+0   24  div id video block r2na1f9cqjxi2e class a sect...   0.913699
+1   30  this is a really fun unit and i hate to do thi...   0.885977
+2   26  a comparison between 2 options for personal mo...   0.880832
+3   50  pardon the saga but i think it is important fo...   0.819963
+4   13  i thought this item was the answer to all my s...   0.807068
+5    9  corporation have been on the down slide since ...   0.774167
+6   18  very impressed with this product we are in our...   0.767307
+7    3  edit i ve gotten a number of comments regardin...   0.745494
+8   10  let me start by saying that i have never ridde...   0.699980
+9    5  after few minutes of practice i can quickly ri...   0.689578
+10   8  today when i was testing driving minipro in th...   0.678337
+
+step 1
+index added: 51
+percentage unclustered: 85.625%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 85.625%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 93.125%
+
+	step 2
+
+		step 3
+		candidate index: 53 with core nodes: [2, 4, 33, 53]
+			old information: 33391, gain: 0.9632753572819079
+
+    ind                                             review  relevance
+0   24  div id video block r2na1f9cqjxi2e class a sect...   0.913699
+1   53  very mixed experience here i rode a friend s o...   0.906059
+2   30  this is a really fun unit and i hate to do thi...   0.885977
+3   26  a comparison between 2 options for personal mo...   0.880832
+4   50  pardon the saga but i think it is important fo...   0.819963
+5   13  i thought this item was the answer to all my s...   0.807068
+6    9  corporation have been on the down slide since ...   0.774167
+7   18  very impressed with this product we are in our...   0.767307
+8    3  edit i ve gotten a number of comments regardin...   0.745494
+9   10  let me start by saying that i have never ridde...   0.699980
+10   5  after few minutes of practice i can quickly ri...   0.689578
+11   8  today when i was testing driving minipro in th...   0.678337
+
+step 1
+index added: 54
+percentage unclustered: 86.875%
+
+	step 2
+
+		step 3
+		candidate index: 54 with core nodes: [30, 48, 53, 54]
+			old information: 32563, gain: 0.9442166032822832
+
+    ind                                             review  relevance
+0   54  this is a long and complete review if you read...   0.930205
+1   24  div id video block r2na1f9cqjxi2e class a sect...   0.913699
+2   53  very mixed experience here i rode a friend s o...   0.906059
+3   30  this is a really fun unit and i hate to do thi...   0.885977
+4   26  a comparison between 2 options for personal mo...   0.880832
+5   50  pardon the saga but i think it is important fo...   0.819963
+6   13  i thought this item was the answer to all my s...   0.807068
+7    9  corporation have been on the down slide since ...   0.774167
+8   18  very impressed with this product we are in our...   0.767307
+9    3  edit i ve gotten a number of comments regardin...   0.745494
+10  10  let me start by saying that i have never ridde...   0.699980
+11   5  after few minutes of practice i can quickly ri...   0.689578
+12   8  today when i was testing driving minipro in th...   0.678337
+
+step 1
+index added: 55
+percentage unclustered: 86.875%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 85.625%
+
+	step 2
+
+		step 3
+		candidate index: 58 with core nodes: [24, 30, 53, 54]
+
+step 1
+index added: 59
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 59 with core nodes: [24, 30, 53, 54]
+
+step 1
+index added: 60
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 83.75%
+
+	step 2
+
+		step 3
+		candidate index: 61 with core nodes: [24, 30, 53, 54]
+
+step 1
+index added: 62
+percentage unclustered: 83.75%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 86.25%
+
+	step 2
+
+		step 3
+		candidate index: 71 with core nodes: [24, 53, 57]
+			old information: 11334, gain: 0.8724094066260653
+
+    ind                                             review  relevance
+0   54  this is a long and complete review if you read...   0.930205
+1   24  div id video block r2na1f9cqjxi2e class a sect...   0.913699
+2   53  very mixed experience here i rode a friend s o...   0.906059
+3   30  this is a really fun unit and i hate to do thi...   0.885977
+4   26  a comparison between 2 options for personal mo...   0.880832
+5   71  let me start by saying that i have been a prim...   0.853592
+6   50  pardon the saga but i think it is important fo...   0.819963
+7   13  i thought this item was the answer to all my s...   0.807068
+8    9  corporation have been on the down slide since ...   0.774167
+9   18  very impressed with this product we are in our...   0.767307
+10   3  edit i ve gotten a number of comments regardin...   0.745494
+11  10  let me start by saying that i have never ridde...   0.699980
+12   5  after few minutes of practice i can quickly ri...   0.689578
+13   8  today when i was testing driving minipro in th...   0.678337
+
+step 1
+index added: 72
+percentage unclustered: 84.375%
+
+	step 2
+
+		step 3
+		candidate index: 72 with core nodes: [24, 53, 57]
+
+step 1
+index added: 73
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 80.625%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 80.625%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 76 with core nodes: [24, 48, 57]
+
+step 1
+index added: 77
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 86.25%
+
+	step 2
+
+		step 3
+		candidate index: 81 with core nodes: [24, 48, 57]
+			old information: 6214, gain: 0.8397668961604909
+
+    ind                                             review  relevance
+0   54  this is a long and complete review if you read...   0.930205
+1   24  div id video block r2na1f9cqjxi2e class a sect...   0.913699
+2   53  very mixed experience here i rode a friend s o...   0.906059
+3   30  this is a really fun unit and i hate to do thi...   0.885977
+4   26  a comparison between 2 options for personal mo...   0.880832
+5   71  let me start by saying that i have been a prim...   0.853592
+6   50  pardon the saga but i think it is important fo...   0.819963
+7   13  i thought this item was the answer to all my s...   0.807068
+8   81  i received the minipro a few days ago and here...   0.802592
+9    9  corporation have been on the down slide since ...   0.774167
+10  18  very impressed with this product we are in our...   0.767307
+11   3  edit i ve gotten a number of comments regardin...   0.745494
+12  10  let me start by saying that i have never ridde...   0.699980
+13   5  after few minutes of practice i can quickly ri...   0.689578
+14   8  today when i was testing driving minipro in th...   0.678337
+
+step 1
+index added: 82
+percentage unclustered: 85.625%
+
+	step 2
+
+		step 3
+		candidate index: 82 with core nodes: [12, 57, 82]
+			old information: 20261, gain: 0.9238551590657121
+
+    ind                                             review  relevance
+0   54  this is a long and complete review if you read...   0.930205
+1   24  div id video block r2na1f9cqjxi2e class a sect...   0.913699
+2   53  very mixed experience here i rode a friend s o...   0.906059
+3   30  this is a really fun unit and i hate to do thi...   0.885977
+4   26  a comparison between 2 options for personal mo...   0.880832
+5   71  let me start by saying that i have been a prim...   0.853592
+6   82  i bought this for myself for christmas 2016 ma...   0.849807
+7   50  pardon the saga but i think it is important fo...   0.819963
+8   13  i thought this item was the answer to all my s...   0.807068
+9   81  i received the minipro a few days ago and here...   0.802592
+10   9  corporation have been on the down slide since ...   0.774167
+11  18  very impressed with this product we are in our...   0.767307
+12   3  edit i ve gotten a number of comments regardin...   0.745494
+13  10  let me start by saying that i have never ridde...   0.699980
+14   5  after few minutes of practice i can quickly ri...   0.689578
+15   8  today when i was testing driving minipro in th...   0.678337
+
+step 1
+index added: 83
+percentage unclustered: 85.625%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 86.875%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 84.375%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 84.375%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 85.625%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 85.625%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 85.625%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 83.75%
+
+	step 2
+
+		step 3
+		candidate index: 90 with core nodes: [57, 71, 82]
+
+step 1
+index added: 91
+percentage unclustered: 83.75%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 83.125%
+
+	step 2
+
+		step 3
+		candidate index: 92 with core nodes: [24, 57, 92]
+			old information: 13984, gain: 0.8646076390569782
+
+    ind                                             review  relevance
+0   54  this is a long and complete review if you read...   0.930205
+1   24  div id video block r2na1f9cqjxi2e class a sect...   0.913699
+2   53  very mixed experience here i rode a friend s o...   0.906059
+3   92  death machine beware years ago i did a tour on...   0.891447
+4   30  this is a really fun unit and i hate to do thi...   0.885977
+5   26  a comparison between 2 options for personal mo...   0.880832
+6   71  let me start by saying that i have been a prim...   0.853592
+7   82  i bought this for myself for christmas 2016 ma...   0.849807
+8   50  pardon the saga but i think it is important fo...   0.819963
+9   13  i thought this item was the answer to all my s...   0.807068
+10  81  i received the minipro a few days ago and here...   0.802592
+11   9  corporation have been on the down slide since ...   0.774167
+12  18  very impressed with this product we are in our...   0.767307
+13   3  edit i ve gotten a number of comments regardin...   0.745494
+14  10  let me start by saying that i have never ridde...   0.699980
+15   5  after few minutes of practice i can quickly ri...   0.689578
+16   8  today when i was testing driving minipro in th...   0.678337
+
+step 1
+index added: 93
+percentage unclustered: 83.125%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 83.125%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 86.875%
+
+	step 2
+
+		step 3
+		candidate index: 95 with core nodes: [12, 82, 95]
+			old information: 10308, gain: 0.8123976267608197
+
+    ind                                             review  relevance
+0   54  this is a long and complete review if you read...   0.930205
+1   24  div id video block r2na1f9cqjxi2e class a sect...   0.913699
+2   53  very mixed experience here i rode a friend s o...   0.906059
+3   92  death machine beware years ago i did a tour on...   0.891447
+4   30  this is a really fun unit and i hate to do thi...   0.885977
+5   26  a comparison between 2 options for personal mo...   0.880832
+6   71  let me start by saying that i have been a prim...   0.853592
+7   82  i bought this for myself for christmas 2016 ma...   0.849807
+8   50  pardon the saga but i think it is important fo...   0.819963
+9   13  i thought this item was the answer to all my s...   0.807068
+10  81  i received the minipro a few days ago and here...   0.802592
+11   9  corporation have been on the down slide since ...   0.774167
+12  18  very impressed with this product we are in our...   0.767307
+13  95  amazon suckered me into buying this while it w...   0.748783
+14   3  edit i ve gotten a number of comments regardin...   0.745494
+15  10  let me start by saying that i have never ridde...   0.699980
+16   5  after few minutes of practice i can quickly ri...   0.689578
+17   8  today when i was testing driving minipro in th...   0.678337
+
+step 1
+index added: 96
+percentage unclustered: 86.875%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 86.25%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 86.25%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 86.25%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 88.125%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 88.125%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 88.125%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 83.75%
+
+	step 2
+
+		step 3
+		candidate index: 103 with core nodes: [24, 57, 58, 84, 92]
+
+step 1
+index added: 104
+percentage unclustered: 83.75%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 83.75%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 80.625%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 80.625%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 78.125%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 77.5%
+
+	step 2
+
+		step 3
+		candidate index: 113 with core nodes: [24, 57, 58, 84, 92]
+
+step 1
+index added: 114
+percentage unclustered: 75.0%
+
+	step 2
+
+		step 3
+		candidate index: 114 with core nodes: [24, 57, 92, 93]
+
+step 1
+index added: 115
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 76.25%
+
+	step 2
+
+		step 3
+		candidate index: 117 with core nodes: [24, 58, 84, 92, 93]
+
+step 1
+index added: 118
+percentage unclustered: 75.625%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 75.625%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 78.75%
+
+	step 2
+
+		step 3
+		candidate index: 123 with core nodes: [10, 82, 95]
+
+step 1
+index added: 124
+percentage unclustered: 78.75%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 80.625%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 81.875%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 81.875%
+
+	step 2
+
+step 1
+index added: 128
+percentage unclustered: 81.875%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 81.875%
+
+	step 2
+
+step 1
+index added: 130
+percentage unclustered: 81.875%
+
+	step 2
+
+step 1
+index added: 131
+percentage unclustered: 81.875%
+
+	step 2
+
+step 1
+index added: 132
+percentage unclustered: 81.875%
+
+	step 2
+
+step 1
+index added: 133
+percentage unclustered: 81.25%
+
+	step 2
+
+step 1
+index added: 134
+percentage unclustered: 81.25%
+
+	step 2
+
+		step 3
+		candidate index: 134 with core nodes: [10, 12, 82, 95]
+
+step 1
+index added: 135
+percentage unclustered: 81.25%
+
+	step 2
+
+step 1
+index added: 136
+percentage unclustered: 81.875%
+
+	step 2
+
+step 1
+index added: 137
+percentage unclustered: 81.875%
+
+	step 2
+
+step 1
+index added: 138
+percentage unclustered: 81.875%
+
+	step 2
+
+step 1
+index added: 139
+percentage unclustered: 81.875%
+
+	step 2
+
+step 1
+index added: 140
+percentage unclustered: 81.875%
+
+	step 2
+
+step 1
+index added: 141
+percentage unclustered: 81.875%
+
+	step 2
+
+step 1
+index added: 142
+percentage unclustered: 75.625%
+
+	step 2
+
+		step 3
+		candidate index: 142 with core nodes: [24, 26, 48, 84]
+
+step 1
+index added: 143
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 144
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 145
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 146
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 147
+percentage unclustered: 73.75%
+
+	step 2
+
+		step 3
+		candidate index: 147 with core nodes: [24, 26, 48, 84]
+
+step 1
+index added: 148
+percentage unclustered: 73.75%
+
+	step 2
+
+step 1
+index added: 149
+percentage unclustered: 73.75%
+
+	step 2
+
+step 1
+index added: 150
+percentage unclustered: 73.75%
+
+	step 2
+
+step 1
+index added: 151
+percentage unclustered: 73.75%
+
+	step 2
+
+step 1
+index added: 152
+percentage unclustered: 80.625%
+
+	step 2
+
+step 1
+index added: 153
+percentage unclustered: 80.625%
+
+	step 2
+
+step 1
+index added: 154
+percentage unclustered: 80.625%
+
+	step 2
+
+step 1
+index added: 155
+percentage unclustered: 80.625%
+
+	step 2
+
+step 1
+index added: 156
+percentage unclustered: 80.625%
+
+	step 2
+
+step 1
+index added: 157
+percentage unclustered: 80.625%
+
+	step 2
+
+step 1
+index added: 158
+percentage unclustered: 80.625%
+
+	step 2
+
+step 1
+index added: 159
+percentage unclustered: 78.75%
+
+	step 2
+
+		step 3
+		candidate index: 159 with core nodes: [82, 124, 159]
+			old information: 10578, gain: 0.8491550802139037
+
+     ind                                             review  relevance
+0    54  this is a long and complete review if you read...   0.930205
+1    24  div id video block r2na1f9cqjxi2e class a sect...   0.913699
+2    53  very mixed experience here i rode a friend s o...   0.906059
+3    92  death machine beware years ago i did a tour on...   0.891447
+4    30  this is a really fun unit and i hate to do thi...   0.885977
+5    26  a comparison between 2 options for personal mo...   0.880832
+6    71  let me start by saying that i have been a prim...   0.853592
+7    82  i bought this for myself for christmas 2016 ma...   0.849807
+8   159  i will start by saying i am an over the road d...   0.846729
+9    50  pardon the saga but i think it is important fo...   0.819963
+10   13  i thought this item was the answer to all my s...   0.807068
+11   81  i received the minipro a few days ago and here...   0.802592
+12    9  corporation have been on the down slide since ...   0.774167
+13   18  very impressed with this product we are in our...   0.767307
+14   95  amazon suckered me into buying this while it w...   0.748783
+15    3  edit i ve gotten a number of comments regardin...   0.745494
+16   10  let me start by saying that i have never ridde...   0.699980
+17    5  after few minutes of practice i can quickly ri...   0.689578
+18    8  today when i was testing driving minipro in th...   0.678337
+
+--- 9533.68845796585 seconds ---
+
+
+ Unclustered percentages: [100.0, 98.125, 98.125, 97.5, 96.875, 96.875, 96.25, 95.625, 95.0, 93.75, 93.125, 92.5, 92.5, 94.375, 94.375, 94.375, 93.125, 93.125, 93.125, 92.5, 92.5, 92.5, 90.625, 90.625, 90.0, 89.375, 90.625, 91.875, 86.875, 86.875, 86.875, 93.125, 91.25, 85.625, 88.75, 88.75, 87.5, 87.5, 87.5, 93.125, 93.125, 96.25, 96.25, 90.0, 90.0, 90.0, 90.0, 90.625, 79.375, 85.625, 85.625, 93.125, 86.875, 86.875, 87.5, 87.5, 85.625, 85.0, 85.0, 83.75, 83.75, 88.75, 88.75, 90.625, 90.625, 90.625, 90.625, 90.625, 90.625, 86.25, 84.375, 85.0, 80.625, 80.625, 85.0, 85.0, 85.0, 85.0, 85.0, 86.25, 85.625, 85.625, 86.875, 84.375, 84.375, 85.625, 85.625, 85.625, 83.75, 83.75, 83.125, 83.125, 83.125, 86.875, 86.875, 86.25, 86.25, 86.25, 88.125, 88.125, 88.125, 83.75, 83.75, 83.75, 80.625, 80.625, 78.125, 77.5, 77.5, 77.5, 77.5, 77.5, 75.0, 75.0, 75.0, 76.25, 75.625, 75.625, 76.25, 76.25, 76.25, 78.75, 78.75, 80.625, 81.875, 81.875, 81.875, 81.875, 81.875, 81.875, 81.875, 81.25, 81.25, 81.25, 81.875, 81.875, 81.875, 81.875, 81.875, 81.875, 75.625, 75.0, 75.0, 75.0, 75.0, 73.75, 73.75, 73.75, 73.75, 73.75, 80.625, 80.625, 80.625, 80.625, 80.625, 80.625, 80.625, 78.75], mean: 85.3481
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0        55   54   0.930205  this is a long and complete review if you read...
+1        25   24   0.913699  div id video block r2na1f9cqjxi2e class a sect...
+2        54   53   0.906059  very mixed experience here i rode a friend s o...
+3        93   92   0.891447  death machine beware years ago i did a tour on...
+4        31   30   0.885977  this is a really fun unit and i hate to do thi...
+5        27   26   0.880832  a comparison between 2 options for personal mo...
+6        72   71   0.853592  let me start by saying that i have been a prim...
+7        83   82   0.849807  i bought this for myself for christmas 2016 ma...
+8       160  159   0.846729  i will start by saying i am an over the road d...
+9        51   50   0.819963  pardon the saga but i think it is important fo...
+10       14   13   0.807068  i thought this item was the answer to all my s...
+11       82   81   0.802592  i received the minipro a few days ago and here...
+12       10    9   0.774167  corporation have been on the down slide since ...
+13       19   18   0.767307  very impressed with this product we are in our...
+14       96   95   0.748783  amazon suckered me into buying this while it w...
+15        4    3   0.745494  edit i ve gotten a number of comments regardin...
+16       11   10   0.699980  let me start by saying that i have never ridde...
+17        6    5   0.689578  after few minutes of practice i can quickly ri...
+18        9    8   0.678337  today when i was testing driving minipro in th...

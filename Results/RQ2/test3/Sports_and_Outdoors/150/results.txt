@@ -1,0 +1,1178 @@
+------- Category: Sports_and_Outdoors -------
+Found asin_id: B01EM3IL06
+Shape:  (150, 7)
+Shape after:  (150, 7)
+
+
+Chosen product: B01EM3IL06 has 150 reviews - True, it has 150 reviews
+
+Nr of stopwords in review: ['39/68', '65/125', '6/11', '19/51', '72/162', '3/7', '46/121', '1/5', '12/26', '3/13', '1/10', '14/25', '4/6', '8/13', '11/22', '1/3', '0/2', '4/12', '11/22', '17/30', '11/26', '12/26', '18/32', '17/38', '25/41', '10/17', '8/14', '19/28', '3/9', '18/42', '14/30', '6/13', '10/16', '11/26', '0/2', '2/8', '23/41', '0/2', '7/17', '1/5', '13/22', '25/50', '28/57', '16/32', '4/6', '3/6', '3/9', '5/11', '1/4', '4/12', '86/182', '14/30', '46/93', '11/23', '17/41', '5/13', '36/72', '27/54', '2/4', '41/73', '0/1', '23/50', '24/61', '145/278', '0/2', '7/19', '39/74', '92/226', '6/11', '13/28', '56/103', '9/14', '2/6', '4/7', '64/124', '7/13', '10/19', '20/39', '25/48', '6/16', '13/22', '97/214', '11/23', '11/19', '18/41', '24/54', '100/196', '48/102', '40/84', '11/33', '28/61', '34/68', '10/23', '34/67', '21/47', '29/57', '24/85', '1/5', '70/137', '21/43', '230/507', '69/143', '27/47', '15/41', '31/59', '28/62', '19/37', '47/89', '15/29', '17/34', '5/11', '22/92', '15/36', '29/70', '43/91', '2/6', '11/24', '10/18', '29/49', '9/17', '39/84', '22/44', '0/1', '20/37', '12/25', '84/153', '114/245', '16/28', '3/8', '0/2', '24/45', '3/5', '14/23', '19/33', '33/54', '1/2', '1/3', '18/36', '13/21', '16/29', '11/17', '40/73', '25/47', '14/32', '75/189', '26/45', '15/28', '70/122', '17/39', '11/32'], on average: 0.4526
+Nr of stopwords in summary: ['3/6', '1/6', '3/7', '2/5', '4/9', '0/1', '3/6', '0/1', '0/2', '0/2', '0/6', '1/6', '0/2', '1/3', '0/2', '0/2', '0/2', '0/2', '2/3', '1/3', '0/2', '0/1', '2/4', '0/2', '3/4', '0/2', '1/4', '0/2', '0/2', '3/10', '5/9', '0/2', '0/2', '2/5', '0/2', '2/8', '0/2', '0/2', '0/2', '0/2', '6/9', '7/13', '0/1', '3/8', '0/2', '0/2', '0/2', '0/2', '1/2', '2/4', '1/5', '0/4', '3/6', '2/3', '3/7', '0/3', '4/8', '4/10', '0/2', '2/4', '0/2', '3/9', '2/5', '8/16', '0/2', '0/2', '3/5', '2/8', '3/7', '5/10', '0/1', '0/2', '0/2', '0/2', '0/2', '0/2', '0/2', '2/3', '1/3', '0/4', '10/18', '11/25', '9/17', '0/2', '2/5', '1/5', '0/2', '0/1', '4/11', '3/10', '2/3', '2/3', '3/6', '0/4', '6/10', '8/15', '0/4', '0/2', '0/2', '2/7', '10/16', '3/8', '4/8', '0/3', '8/14', '3/10', '3/5', '3/5', '2/4', '1/3', '0/2', '2/3', '6/13', '2/13', '4/6', '2/5', '0/1', '0/2', '10/18', '0/2', '0/1', '2/3', '0/2', '5/9', '5/11', '6/11', '4/6', '1/3', '0/3', '0/2', '2/5', '0/2', '6/9', '12/21', '3/6', '0/2', '0/2', '5/10', '3/7', '6/10', '0/2', '7/14', '1/3', '4/12', '0/4', '7/13', '1/5', '6/9', '5/10', '2/4'], on average: 0.2703
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 97.3333%
+
+	step 2
+
+		step 3
+		candidate index: 4 with core nodes: [0, 2, 3, 4]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   4  insanely awesome one of my neighbors said he h...   0.305991
+
+step 1
+index added: 5
+percentage unclustered: 97.3333%
+
+	step 2
+
+step 1
+index added: 6
+percentage unclustered: 97.3333%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 97.3333%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 98.0%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [3, 6, 8]
+			old information: 16, gain: 0.9507692307692308
+
+   ind                                             review  relevance
+0   8  this flashlight lights ups the whole room we h...   0.323730
+1   4  insanely awesome one of my neighbors said he h...   0.305991
+
+step 1
+index added: 9
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 97.3333%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [3, 6, 8, 14]
+			old information: 30, gain: 0.8701298701298701
+
+   ind                                             review  relevance
+0  14  i love it i actually ordered one for my uncle ...   0.369312
+1   8  this flashlight lights ups the whole room we h...   0.323730
+2   4  insanely awesome one of my neighbors said he h...   0.305991
+
+step 1
+index added: 15
+percentage unclustered: 95.3333%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 94.6667%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 94.6667%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 94.6667%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 94.6667%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 92.6667%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [6, 17, 19, 20]
+			old information: 59, gain: 0.8184615384615385
+
+   ind                                             review  relevance
+0  20  for the money this is a really good quality fl...   0.546598
+1  14  i love it i actually ordered one for my uncle ...   0.369312
+2   8  this flashlight lights ups the whole room we h...   0.323730
+3   4  insanely awesome one of my neighbors said he h...   0.305991
+
+step 1
+index added: 21
+percentage unclustered: 92.6667%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 92.6667%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 92.6667%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 90.6667%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [6, 20, 24]
+			old information: 99, gain: 0.8792682926829268
+
+   ind                                             review  relevance
+0  24  this flashlight is a very good deal it works v...   0.671619
+1  20  for the money this is a really good quality fl...   0.546598
+2  14  i love it i actually ordered one for my uncle ...   0.369312
+3   8  this flashlight lights ups the whole room we h...   0.323730
+4   4  insanely awesome one of my neighbors said he h...   0.305991
+
+step 1
+index added: 25
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 87.3333%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 86.6667%
+
+	step 2
+
+		step 3
+		candidate index: 29 with core nodes: [6, 20, 24]
+
+step 1
+index added: 30
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 85.3333%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 84.6667%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 82.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [6, 20, 24]
+
+step 1
+index added: 34
+percentage unclustered: 82.0%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [17, 19, 22, 23, 32, 34]
+			old information: 0, gain: 1.0
+
+step 1
+index added: 35
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 81.33330000000001%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 81.33330000000001%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 80.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 39 with core nodes: [17, 19, 22, 23, 32, 34]
+			old information: 1, gain: 0.9
+
+   ind                                             review  relevance
+0  24  this flashlight is a very good deal it works v...   0.671619
+1  20  for the money this is a really good quality fl...   0.546598
+2  14  i love it i actually ordered one for my uncle ...   0.369312
+3   8  this flashlight lights ups the whole room we h...   0.323730
+4   4  insanely awesome one of my neighbors said he h...   0.305991
+5  39            great flashlight beyond my expectations   0.213399
+
+step 1
+index added: 40
+percentage unclustered: 80.66669999999999%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [17, 19, 22, 23, 32, 34]
+			old information: 124, gain: 0.8987755102040816
+
+   ind                                             review  relevance
+0  24  this flashlight is a very good deal it works v...   0.671619
+1  20  for the money this is a really good quality fl...   0.546598
+2  41  i bought this for my sister who has vision iss...   0.494192
+3  14  i love it i actually ordered one for my uncle ...   0.369312
+4   8  this flashlight lights ups the whole room we h...   0.323730
+5   4  insanely awesome one of my neighbors said he h...   0.305991
+6  39            great flashlight beyond my expectations   0.213399
+
+step 1
+index added: 42
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 79.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 44 with core nodes: [34, 39, 44]
+			old information: 4, gain: 0.7333333333333333
+
+   ind                                             review  relevance
+0  24  this flashlight is a very good deal it works v...   0.671619
+1  20  for the money this is a really good quality fl...   0.546598
+2  41  i bought this for my sister who has vision iss...   0.494192
+3  14  i love it i actually ordered one for my uncle ...   0.369312
+4   8  this flashlight lights ups the whole room we h...   0.323730
+5   4  insanely awesome one of my neighbors said he h...   0.305991
+6  44                great flashlight all should have it   0.276967
+7  39            great flashlight beyond my expectations   0.213399
+
+step 1
+index added: 45
+percentage unclustered: 78.66669999999999%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 77.33330000000001%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 77.33330000000001%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 77.33330000000001%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 50 with core nodes: [6, 20, 24, 50]
+			old information: 268, gain: 0.9837289782041163
+
+   ind                                             review  relevance
+0  24  this flashlight is a very good deal it works v...   0.671619
+1  50  update 4 19 17 this light has had very light u...   0.649935
+2  20  for the money this is a really good quality fl...   0.546598
+3  41  i bought this for my sister who has vision iss...   0.494192
+4  14  i love it i actually ordered one for my uncle ...   0.369312
+5   8  this flashlight lights ups the whole room we h...   0.323730
+6   4  insanely awesome one of my neighbors said he h...   0.305991
+7  44                great flashlight all should have it   0.276967
+8  39            great flashlight beyond my expectations   0.213399
+
+step 1
+index added: 51
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 72.66669999999999%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 72.66669999999999%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 74.0%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 74.0%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 77.33330000000001%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 77.33330000000001%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 62 with core nodes: [6, 20, 24, 50]
+
+step 1
+index added: 63
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 74.66669999999999%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 74.0%
+
+	step 2
+
+		step 3
+		candidate index: 67 with core nodes: [50, 52, 66, 67]
+			old information: 957, gain: 0.9623598820058997
+
+   ind                                             review  relevance
+0  24  this flashlight is a very good deal it works v...   0.671619
+1  50  update 4 19 17 this light has had very light u...   0.649935
+2  67  fwiw first i believe all the 1 star amazon rev...   0.630424
+3  20  for the money this is a really good quality fl...   0.546598
+4  41  i bought this for my sister who has vision iss...   0.494192
+5  14  i love it i actually ordered one for my uncle ...   0.369312
+6   8  this flashlight lights ups the whole room we h...   0.323730
+7   4  insanely awesome one of my neighbors said he h...   0.305991
+8  44                great flashlight all should have it   0.276967
+9  39            great flashlight beyond my expectations   0.213399
+
+step 1
+index added: 68
+percentage unclustered: 74.0%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 74.0%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 74.0%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 72.66669999999999%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 70.66669999999999%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 70.66669999999999%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 69.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 76 with core nodes: [6, 20, 24]
+
+step 1
+index added: 77
+percentage unclustered: 69.33330000000001%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 68.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 78 with core nodes: [6, 20, 24, 50, 78]
+			old information: 279, gain: 0.7526595744680851
+
+    ind                                             review  relevance
+0   78  the flashlight worked fine when i received it ...   0.705308
+1   24  this flashlight is a very good deal it works v...   0.671619
+2   50  update 4 19 17 this light has had very light u...   0.649935
+3   67  fwiw first i believe all the 1 star amazon rev...   0.630424
+4   20  for the money this is a really good quality fl...   0.546598
+5   41  i bought this for my sister who has vision iss...   0.494192
+6   14  i love it i actually ordered one for my uncle ...   0.369312
+7    8  this flashlight lights ups the whole room we h...   0.323730
+8    4  insanely awesome one of my neighbors said he h...   0.305991
+9   44                great flashlight all should have it   0.276967
+10  39            great flashlight beyond my expectations   0.213399
+
+step 1
+index added: 79
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 67.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 81 with core nodes: [6, 20, 24, 66, 78]
+			old information: 1198, gain: 0.9474353911631784
+
+    ind                                             review  relevance
+0   78  the flashlight worked fine when i received it ...   0.705308
+1   24  this flashlight is a very good deal it works v...   0.671619
+2   50  update 4 19 17 this light has had very light u...   0.649935
+3   67  fwiw first i believe all the 1 star amazon rev...   0.630424
+4   81  these are pos my ten dollar head band light is...   0.619435
+5   20  for the money this is a really good quality fl...   0.546598
+6   41  i bought this for my sister who has vision iss...   0.494192
+7   14  i love it i actually ordered one for my uncle ...   0.369312
+8    8  this flashlight lights ups the whole room we h...   0.323730
+9    4  insanely awesome one of my neighbors said he h...   0.305991
+10  44                great flashlight all should have it   0.276967
+11  39            great flashlight beyond my expectations   0.213399
+
+step 1
+index added: 82
+percentage unclustered: 67.33330000000001%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 65.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 88 with core nodes: [6, 20, 24, 66, 78]
+
+step 1
+index added: 89
+percentage unclustered: 65.33330000000001%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 64.66669999999999%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 62.6667%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 62.6667%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 62.6667%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 64.0%
+
+	step 2
+
+		step 3
+		candidate index: 107 with core nodes: [50, 52, 66, 78, 107]
+			old information: 763, gain: 0.8051583248212462
+
+     ind                                             review  relevance
+0    78  the flashlight worked fine when i received it ...   0.705308
+1   107  i bought directly from shadowhawk for 30 bucks...   0.689509
+2    24  this flashlight is a very good deal it works v...   0.671619
+3    50  update 4 19 17 this light has had very light u...   0.649935
+4    67  fwiw first i believe all the 1 star amazon rev...   0.630424
+5    81  these are pos my ten dollar head band light is...   0.619435
+6    20  for the money this is a really good quality fl...   0.546598
+7    41  i bought this for my sister who has vision iss...   0.494192
+8    14  i love it i actually ordered one for my uncle ...   0.369312
+9     8  this flashlight lights ups the whole room we h...   0.323730
+10    4  insanely awesome one of my neighbors said he h...   0.305991
+11   44                great flashlight all should have it   0.276967
+12   39            great flashlight beyond my expectations   0.213399
+
+step 1
+index added: 108
+percentage unclustered: 63.3333%
+
+	step 2
+
+		step 3
+		candidate index: 108 with core nodes: [50, 52, 66, 78, 107]
+
+step 1
+index added: 109
+percentage unclustered: 61.3333%
+
+	step 2
+
+		step 3
+		candidate index: 109 with core nodes: [12, 83, 109]
+			old information: 254, gain: 0.5472370766488414
+
+     ind                                             review  relevance
+0    78  the flashlight worked fine when i received it ...   0.705308
+1   107  i bought directly from shadowhawk for 30 bucks...   0.689509
+2    24  this flashlight is a very good deal it works v...   0.671619
+3    50  update 4 19 17 this light has had very light u...   0.649935
+4    67  fwiw first i believe all the 1 star amazon rev...   0.630424
+5    81  these are pos my ten dollar head band light is...   0.619435
+6    20  for the money this is a really good quality fl...   0.546598
+7    41  i bought this for my sister who has vision iss...   0.494192
+8    14  i love it i actually ordered one for my uncle ...   0.369312
+9   109  light came in a box with no directions looks l...   0.334673
+10    8  this flashlight lights ups the whole room we h...   0.323730
+11    4  insanely awesome one of my neighbors said he h...   0.305991
+12   44                great flashlight all should have it   0.276967
+13   39            great flashlight beyond my expectations   0.213399
+
+step 1
+index added: 110
+percentage unclustered: 61.3333%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 60.6667%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 60.6667%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 59.3333%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 59.3333%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 58.6667%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 58.6667%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 58.6667%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 58.6667%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 58.6667%
+
+	step 2
+
+		step 3
+		candidate index: 126 with core nodes: [24, 50, 78, 101, 107, 126]
+			old information: 1250, gain: 0.9581799933087989
+
+     ind                                             review  relevance
+0   126  i do not have this flashlight light but just r...   0.706873
+1    78  the flashlight worked fine when i received it ...   0.705308
+2   107  i bought directly from shadowhawk for 30 bucks...   0.689509
+3    24  this flashlight is a very good deal it works v...   0.671619
+4    50  update 4 19 17 this light has had very light u...   0.649935
+5    67  fwiw first i believe all the 1 star amazon rev...   0.630424
+6    81  these are pos my ten dollar head band light is...   0.619435
+7    20  for the money this is a really good quality fl...   0.546598
+8    41  i bought this for my sister who has vision iss...   0.494192
+9    14  i love it i actually ordered one for my uncle ...   0.369312
+10  109  light came in a box with no directions looks l...   0.334673
+11    8  this flashlight lights ups the whole room we h...   0.323730
+12    4  insanely awesome one of my neighbors said he h...   0.305991
+13   44                great flashlight all should have it   0.276967
+14   39            great flashlight beyond my expectations   0.213399
+
+step 1
+index added: 127
+percentage unclustered: 58.6667%
+
+	step 2
+
+step 1
+index added: 128
+percentage unclustered: 56.6667%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 56.0%
+
+	step 2
+
+step 1
+index added: 130
+percentage unclustered: 57.3333%
+
+	step 2
+
+step 1
+index added: 131
+percentage unclustered: 58.0%
+
+	step 2
+
+step 1
+index added: 132
+percentage unclustered: 58.0%
+
+	step 2
+
+step 1
+index added: 133
+percentage unclustered: 58.0%
+
+	step 2
+
+step 1
+index added: 134
+percentage unclustered: 58.0%
+
+	step 2
+
+step 1
+index added: 135
+percentage unclustered: 57.3333%
+
+	step 2
+
+step 1
+index added: 136
+percentage unclustered: 56.6667%
+
+	step 2
+
+		step 3
+		candidate index: 136 with core nodes: [12, 15, 136]
+			old information: 0, gain: 1.0
+
+step 1
+index added: 137
+percentage unclustered: 56.0%
+
+	step 2
+
+step 1
+index added: 138
+percentage unclustered: 56.6667%
+
+	step 2
+
+step 1
+index added: 139
+percentage unclustered: 52.6667%
+
+	step 2
+
+step 1
+index added: 140
+percentage unclustered: 52.6667%
+
+	step 2
+
+step 1
+index added: 141
+percentage unclustered: 52.6667%
+
+	step 2
+
+step 1
+index added: 142
+percentage unclustered: 52.6667%
+
+	step 2
+
+step 1
+index added: 143
+percentage unclustered: 52.0%
+
+	step 2
+
+step 1
+index added: 144
+percentage unclustered: 52.0%
+
+	step 2
+
+step 1
+index added: 145
+percentage unclustered: 52.6667%
+
+	step 2
+
+step 1
+index added: 146
+percentage unclustered: 52.6667%
+
+	step 2
+
+step 1
+index added: 147
+percentage unclustered: 50.6667%
+
+	step 2
+
+		step 3
+		candidate index: 147 with core nodes: [50, 78, 107, 147]
+			old information: 692, gain: 0.9062457661563473
+
+     ind                                             review  relevance
+0   147  on the strength of the advertising i bought 5 ...   0.736345
+1   126  i do not have this flashlight light but just r...   0.706873
+2    78  the flashlight worked fine when i received it ...   0.705308
+3   107  i bought directly from shadowhawk for 30 bucks...   0.689509
+4    24  this flashlight is a very good deal it works v...   0.671619
+5    50  update 4 19 17 this light has had very light u...   0.649935
+6    67  fwiw first i believe all the 1 star amazon rev...   0.630424
+7    81  these are pos my ten dollar head band light is...   0.619435
+8    20  for the money this is a really good quality fl...   0.546598
+9    41  i bought this for my sister who has vision iss...   0.494192
+10   14  i love it i actually ordered one for my uncle ...   0.369312
+11  109  light came in a box with no directions looks l...   0.334673
+12    8  this flashlight lights ups the whole room we h...   0.323730
+13    4  insanely awesome one of my neighbors said he h...   0.305991
+14   44                great flashlight all should have it   0.276967
+15   39            great flashlight beyond my expectations   0.213399
+
+step 1
+index added: 148
+percentage unclustered: 50.6667%
+
+	step 2
+
+step 1
+index added: 149
+percentage unclustered: 50.6667%
+
+	step 2
+
+--- 145.22372460365295 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 97.3333, 97.3333, 97.3333, 97.3333, 98.0, 98.0, 98.0, 98.0, 98.0, 98.0, 97.3333, 95.3333, 94.6667, 94.6667, 94.6667, 94.6667, 92.6667, 92.6667, 92.6667, 92.6667, 90.6667, 90.0, 90.0, 88.0, 87.3333, 86.6667, 86.0, 85.3333, 84.6667, 82.66669999999999, 82.0, 82.0, 82.0, 81.33330000000001, 81.33330000000001, 80.66669999999999, 80.66669999999999, 80.0, 80.0, 80.0, 79.33330000000001, 78.66669999999999, 78.0, 77.33330000000001, 77.33330000000001, 77.33330000000001, 76.66669999999999, 76.66669999999999, 76.66669999999999, 72.66669999999999, 72.66669999999999, 73.33330000000001, 74.0, 74.0, 73.33330000000001, 78.0, 77.33330000000001, 77.33330000000001, 76.66669999999999, 76.66669999999999, 68.0, 68.0, 74.66669999999999, 74.0, 74.0, 74.0, 74.0, 73.33330000000001, 72.66669999999999, 70.66669999999999, 70.66669999999999, 70.0, 69.33330000000001, 69.33330000000001, 68.66669999999999, 68.0, 68.0, 67.33330000000001, 67.33330000000001, 66.66669999999999, 66.0, 66.0, 66.0, 66.0, 65.33330000000001, 65.33330000000001, 64.66669999999999, 64.0, 63.3333, 63.3333, 63.3333, 64.0, 63.3333, 62.6667, 62.6667, 62.6667, 63.3333, 66.66669999999999, 66.66669999999999, 66.66669999999999, 66.66669999999999, 66.66669999999999, 66.66669999999999, 64.0, 63.3333, 61.3333, 61.3333, 60.6667, 60.6667, 60.0, 60.0, 60.0, 60.0, 60.0, 60.0, 59.3333, 60.0, 59.3333, 58.6667, 58.6667, 58.6667, 58.6667, 58.6667, 58.6667, 56.6667, 56.0, 57.3333, 58.0, 58.0, 58.0, 58.0, 57.3333, 56.6667, 56.0, 56.6667, 52.6667, 52.6667, 52.6667, 52.6667, 52.0, 52.0, 52.6667, 52.6667, 50.6667, 50.6667, 50.6667], mean: 72.2162
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0         1  147   0.736345  on the strength of the advertising i bought 5 ...
+1        41  126   0.706873  i do not have this flashlight light but just r...
+2        46   78   0.705308  the flashlight worked fine when i received it ...
+3        59  107   0.689509  i bought directly from shadowhawk for 30 bucks...
+4        77   24   0.671619  this flashlight is a very good deal it works v...
+5        65   50   0.649935  update 4 19 17 this light has had very light u...
+6        78   67   0.630424  fwiw first i believe all the 1 star amazon rev...
+7        42   81   0.619435  these are pos my ten dollar head band light is...
+8        98   20   0.546598  for the money this is a really good quality fl...
+9        19   41   0.494192  i bought this for my sister who has vision iss...
+10       84   14   0.369312  i love it i actually ordered one for my uncle ...
+11       43  109   0.334673  light came in a box with no directions looks l...
+12       47    8   0.323730  this flashlight lights ups the whole room we h...
+13       10    4   0.305991  insanely awesome one of my neighbors said he h...
+14       26   44   0.276967                great flashlight all should have it
+15       22   39   0.213399            great flashlight beyond my expectations

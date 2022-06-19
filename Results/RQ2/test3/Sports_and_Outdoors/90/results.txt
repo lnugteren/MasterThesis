@@ -1,0 +1,856 @@
+------- Category: Sports_and_Outdoors -------
+Found asin_id: B001IDZHF6
+Shape:  (90, 7)
+Shape after:  (90, 7)
+
+
+Chosen product: B001IDZHF6 has 90 reviews - True, it has 90 reviews
+
+Nr of stopwords in review: ['38/68', '25/49', '81/146', '32/67', '92/155', '64/123', '38/96', '22/45', '10/19', '35/69', '33/79', '33/65', '57/105', '77/151', '213/437', '76/138', '80/146', '137/253', '61/110', '27/48', '19/35', '81/142', '37/66', '30/67', '79/127', '34/67', '72/134', '13/27', '105/203', '17/33', '37/66', '15/28', '26/59', '5/12', '27/47', '55/111', '70/141', '114/230', '119/225', '33/68', '38/68', '38/98', '31/67', '112/201', '6/19', '45/85', '34/75', '207/373', '96/171', '103/189', '507/948', '122/236', '310/611', '141/265', '12/21', '28/52', '51/89', '24/53', '26/58', '200/379', '112/208', '86/195', '14/38', '26/49', '10/21', '24/46', '60/144', '100/185', '57/114', '121/222', '220/372', '35/69', '64/116', '195/356', '86/188', '91/201', '128/233', '76/152', '24/52', '42/88', '75/134', '94/174', '28/47', '12/26', '50/108', '145/251', '261/479', '65/131', '93/178', '27/47'], on average: 0.5125
+Nr of stopwords in summary: ['5/8', '4/6', '1/6', '4/8', '4/6', '0/1', '1/3', '2/6', '0/3', '2/5', '1/3', '2/4', '4/11', '1/5', '7/13', '1/4', '3/7', '5/10', '0/2', '0/2', '2/4', '5/9', '3/7', '2/7', '3/6', '5/9', '0/2', '2/5', '0/3', '3/5', '4/7', '5/9', '3/5', '1/6', '8/11', '1/2', '1/6', '0/3', '0/2', '4/7', '8/15', '8/16', '0/4', '1/4', '0/2', '6/12', '1/4', '9/17', '0/1', '0/2', '3/11', '1/3', '0/2', '1/3', '2/3', '2/3', '4/7', '0/2', '0/2', '0/3', '0/2', '6/10', '1/3', '1/4', '2/5', '1/4', '0/2', '0/2', '0/2', '0/5', '7/9', '1/3', '2/3', '0/1', '0/1', '0/2', '1/4', '1/3', '0/2', '0/3', '0/2', '0/2', '1/2', '0/2', '1/4', '6/10', '2/3', '2/4', '2/5', '2/4'], on average: 0.3056
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 96.6667%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [0, 1, 10]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  10  this definitely served its purpose got a great...    0.52641
+
+step 1
+index added: 11
+percentage unclustered: 95.5556%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [0, 1, 10, 11]
+			old information: 138, gain: 0.9336538461538462
+
+   ind                                             review  relevance
+0  10  this definitely served its purpose got a great...   0.526410
+1  11  i have had this for about 2 months now i have ...   0.447631
+
+step 1
+index added: 12
+percentage unclustered: 92.2222%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [0, 1, 2, 10, 12]
+			old information: 242, gain: 0.9556776556776557
+
+   ind                                             review  relevance
+0  12  i really enjoy working out with step machines ...   0.740811
+1  10  this definitely served its purpose got a great...   0.526410
+2  11  i have had this for about 2 months now i have ...   0.447631
+
+step 1
+index added: 13
+percentage unclustered: 92.2222%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 92.2222%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [0, 2, 12, 14]
+			old information: 1121, gain: 0.9882329477463103
+
+   ind                                             review  relevance
+0  14  i loved this thing when it arrived it is true ...   0.832191
+1  12  i really enjoy working out with step machines ...   0.740811
+2  10  this definitely served its purpose got a great...   0.526410
+3  11  i have had this for about 2 months now i have ...   0.447631
+
+step 1
+index added: 15
+percentage unclustered: 87.7778%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [0, 2, 12, 14, 15]
+			old information: 840, gain: 0.9111393208505236
+
+   ind                                             review  relevance
+0  14  i loved this thing when it arrived it is true ...   0.832191
+1  12  i really enjoy working out with step machines ...   0.740811
+2  15  totally love this stepper the hubby and i live...   0.732844
+3  10  this definitely served its purpose got a great...   0.526410
+4  11  i have had this for about 2 months now i have ...   0.447631
+
+step 1
+index added: 16
+percentage unclustered: 88.8889%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [2, 12, 14, 15]
+			old information: 1010, gain: 0.9045819555975437
+
+   ind                                             review  relevance
+0  14  i loved this thing when it arrived it is true ...   0.832191
+1  12  i really enjoy working out with step machines ...   0.740811
+2  15  totally love this stepper the hubby and i live...   0.732844
+3  16  we wanted a stair stepper but did n t have spa...   0.615892
+4  10  this definitely served its purpose got a great...   0.526410
+5  11  i have had this for about 2 months now i have ...   0.447631
+
+step 1
+index added: 17
+percentage unclustered: 88.8889%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [0, 12, 14, 15, 17]
+			old information: 2428, gain: 0.9238346194867934
+
+   ind                                             review  relevance
+0  17  i was so excited when i got this stepper and s...   0.856262
+1  14  i loved this thing when it arrived it is true ...   0.832191
+2  12  i really enjoy working out with step machines ...   0.740811
+3  15  totally love this stepper the hubby and i live...   0.732844
+4  16  we wanted a stair stepper but did n t have spa...   0.615892
+5  10  this definitely served its purpose got a great...   0.526410
+6  11  i have had this for about 2 months now i have ...   0.447631
+
+step 1
+index added: 18
+percentage unclustered: 86.6667%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [0, 14, 15, 17]
+			old information: 877, gain: 0.8537114261884904
+
+   ind                                             review  relevance
+0  17  i was so excited when i got this stepper and s...   0.856262
+1  14  i loved this thing when it arrived it is true ...   0.832191
+2  18  i ve just put the sunny stepper together witho...   0.756859
+3  12  i really enjoy working out with step machines ...   0.740811
+4  15  totally love this stepper the hubby and i live...   0.732844
+5  16  we wanted a stair stepper but did n t have spa...   0.615892
+6  10  this definitely served its purpose got a great...   0.526410
+7  11  i have had this for about 2 months now i have ...   0.447631
+
+step 1
+index added: 19
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [2, 14, 17, 18]
+
+step 1
+index added: 20
+percentage unclustered: 82.2222%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [2, 14, 17, 18]
+
+step 1
+index added: 21
+percentage unclustered: 87.7778%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [0, 14, 15, 17]
+
+step 1
+index added: 22
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [0, 14, 15, 17]
+
+step 1
+index added: 23
+percentage unclustered: 82.2222%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 82.2222%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 81.1111%
+
+	step 2
+
+		step 3
+		candidate index: 25 with core nodes: [0, 14, 15, 17]
+
+step 1
+index added: 26
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [0, 2, 12, 15, 17, 18]
+			old information: 2326, gain: 0.8865531873384382
+
+   ind                                             review  relevance
+0  17  i was so excited when i got this stepper and s...   0.856262
+1  14  i loved this thing when it arrived it is true ...   0.832191
+2  18  i ve just put the sunny stepper together witho...   0.756859
+3  12  i really enjoy working out with step machines ...   0.740811
+4  15  totally love this stepper the hubby and i live...   0.732844
+5  28  this is a great compact stair stepper we were ...   0.720083
+6  16  we wanted a stair stepper but did n t have spa...   0.615892
+7  10  this definitely served its purpose got a great...   0.526410
+8  11  i have had this for about 2 months now i have ...   0.447631
+
+step 1
+index added: 29
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 29 with core nodes: [0, 12, 17]
+
+step 1
+index added: 30
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 85.5556%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 85.5556%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 85.5556%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 85.5556%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 82.2222%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [0, 2, 12, 13, 18, 28, 35]
+			old information: 975, gain: 0.8402948402948403
+
+   ind                                             review  relevance
+0  17  i was so excited when i got this stepper and s...   0.856262
+1  14  i loved this thing when it arrived it is true ...   0.832191
+2  18  i ve just put the sunny stepper together witho...   0.756859
+3  12  i really enjoy working out with step machines ...   0.740811
+4  15  totally love this stepper the hubby and i live...   0.732844
+5  28  this is a great compact stair stepper we were ...   0.720083
+6  35  i have an original straight up and down pedal ...   0.702626
+7  16  we wanted a stair stepper but did n t have spa...   0.615892
+8  10  this definitely served its purpose got a great...   0.526410
+9  11  i have had this for about 2 months now i have ...   0.447631
+
+step 1
+index added: 36
+percentage unclustered: 82.2222%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 81.1111%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [2, 18, 28, 37]
+			old information: 2578, gain: 0.9021074615530663
+
+    ind                                             review  relevance
+0   17  i was so excited when i got this stepper and s...   0.856262
+1   14  i loved this thing when it arrived it is true ...   0.832191
+2   37  this thing is awesome mine gets used daily and...   0.794979
+3   18  i ve just put the sunny stepper together witho...   0.756859
+4   12  i really enjoy working out with step machines ...   0.740811
+5   15  totally love this stepper the hubby and i live...   0.732844
+6   28  this is a great compact stair stepper we were ...   0.720083
+7   35  i have an original straight up and down pedal ...   0.702626
+8   16  we wanted a stair stepper but did n t have spa...   0.615892
+9   10  this definitely served its purpose got a great...   0.526410
+10  11  i have had this for about 2 months now i have ...   0.447631
+
+step 1
+index added: 38
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 82.2222%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 82.2222%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 82.2222%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 52 with core nodes: [2, 18, 28, 37, 52]
+			old information: 6520, gain: 0.9650130127981541
+
+    ind                                             review  relevance
+0   17  i was so excited when i got this stepper and s...   0.856262
+1   14  i loved this thing when it arrived it is true ...   0.832191
+2   52  i am around 163 pounds n27 years old n5 4 and ...   0.816952
+3   37  this thing is awesome mine gets used daily and...   0.794979
+4   18  i ve just put the sunny stepper together witho...   0.756859
+5   12  i really enjoy working out with step machines ...   0.740811
+6   15  totally love this stepper the hubby and i live...   0.732844
+7   28  this is a great compact stair stepper we were ...   0.720083
+8   35  i have an original straight up and down pedal ...   0.702626
+9   16  we wanted a stair stepper but did n t have spa...   0.615892
+10  10  this definitely served its purpose got a great...   0.526410
+11  11  i have had this for about 2 months now i have ...   0.447631
+
+step 1
+index added: 53
+percentage unclustered: 78.8889%
+
+	step 2
+
+		step 3
+		candidate index: 53 with core nodes: [2, 28, 52, 53]
+			old information: 4687, gain: 0.8660091480846198
+
+    ind                                             review  relevance
+0   17  i was so excited when i got this stepper and s...   0.856262
+1   14  i loved this thing when it arrived it is true ...   0.832191
+2   52  i am around 163 pounds n27 years old n5 4 and ...   0.816952
+3   37  this thing is awesome mine gets used daily and...   0.794979
+4   53  it took me less than a half an hour to put thi...   0.791290
+5   18  i ve just put the sunny stepper together witho...   0.756859
+6   12  i really enjoy working out with step machines ...   0.740811
+7   15  totally love this stepper the hubby and i live...   0.732844
+8   28  this is a great compact stair stepper we were ...   0.720083
+9   35  i have an original straight up and down pedal ...   0.702626
+10  16  we wanted a stair stepper but did n t have spa...   0.615892
+11  10  this definitely served its purpose got a great...   0.526410
+12  11  i have had this for about 2 months now i have ...   0.447631
+
+step 1
+index added: 54
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 75.5556%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 75.5556%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 74.4444%
+
+	step 2
+
+		step 3
+		candidate index: 60 with core nodes: [2, 26, 28, 52, 53, 60]
+			old information: 2510, gain: 0.8834076551467855
+
+    ind                                             review  relevance
+0   17  i was so excited when i got this stepper and s...   0.856262
+1   14  i loved this thing when it arrived it is true ...   0.832191
+2   52  i am around 163 pounds n27 years old n5 4 and ...   0.816952
+3   60  i m an exercise professional and bought this f...   0.809840
+4   37  this thing is awesome mine gets used daily and...   0.794979
+5   53  it took me less than a half an hour to put thi...   0.791290
+6   18  i ve just put the sunny stepper together witho...   0.756859
+7   12  i really enjoy working out with step machines ...   0.740811
+8   15  totally love this stepper the hubby and i live...   0.732844
+9   28  this is a great compact stair stepper we were ...   0.720083
+10  35  i have an original straight up and down pedal ...   0.702626
+11  16  we wanted a stair stepper but did n t have spa...   0.615892
+12  10  this definitely served its purpose got a great...   0.526410
+13  11  i have had this for about 2 months now i have ...   0.447631
+
+step 1
+index added: 61
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 75.5556%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 75.5556%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 75.5556%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 71.1111%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 71.1111%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 68.8889%
+
+	step 2
+
+		step 3
+		candidate index: 69 with core nodes: [24, 67, 69]
+			old information: 2929, gain: 0.8806000570706453
+
+    ind                                             review  relevance
+0   17  i was so excited when i got this stepper and s...   0.856262
+1   69  i was n t expecting a whole lot for the small ...   0.849320
+2   14  i loved this thing when it arrived it is true ...   0.832191
+3   52  i am around 163 pounds n27 years old n5 4 and ...   0.816952
+4   60  i m an exercise professional and bought this f...   0.809840
+5   37  this thing is awesome mine gets used daily and...   0.794979
+6   53  it took me less than a half an hour to put thi...   0.791290
+7   18  i ve just put the sunny stepper together witho...   0.756859
+8   12  i really enjoy working out with step machines ...   0.740811
+9   15  totally love this stepper the hubby and i live...   0.732844
+10  28  this is a great compact stair stepper we were ...   0.720083
+11  35  i have an original straight up and down pedal ...   0.702626
+12  16  we wanted a stair stepper but did n t have spa...   0.615892
+13  10  this definitely served its purpose got a great...   0.526410
+14  11  i have had this for about 2 months now i have ...   0.447631
+
+step 1
+index added: 70
+percentage unclustered: 67.7778%
+
+	step 2
+
+		step 3
+		candidate index: 70 with core nodes: [52, 67, 69, 70]
+			old information: 5331, gain: 0.9227458481871141
+
+    ind                                             review  relevance
+0   70  i m pretty lazy when it comes to working out i...   0.857542
+1   17  i was so excited when i got this stepper and s...   0.856262
+2   69  i was n t expecting a whole lot for the small ...   0.849320
+3   14  i loved this thing when it arrived it is true ...   0.832191
+4   52  i am around 163 pounds n27 years old n5 4 and ...   0.816952
+5   60  i m an exercise professional and bought this f...   0.809840
+6   37  this thing is awesome mine gets used daily and...   0.794979
+7   53  it took me less than a half an hour to put thi...   0.791290
+8   18  i ve just put the sunny stepper together witho...   0.756859
+9   12  i really enjoy working out with step machines ...   0.740811
+10  15  totally love this stepper the hubby and i live...   0.732844
+11  28  this is a great compact stair stepper we were ...   0.720083
+12  35  i have an original straight up and down pedal ...   0.702626
+13  16  we wanted a stair stepper but did n t have spa...   0.615892
+14  10  this definitely served its purpose got a great...   0.526410
+15  11  i have had this for about 2 months now i have ...   0.447631
+
+step 1
+index added: 71
+percentage unclustered: 67.7778%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 72 with core nodes: [2, 47, 60]
+
+step 1
+index added: 73
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 64.4444%
+
+	step 2
+
+		step 3
+		candidate index: 76 with core nodes: [17, 47, 52, 70, 76]
+			old information: 3943, gain: 0.854114251886932
+
+    ind                                             review  relevance
+0   76  i ve only had it a week so my opinion may chan...   0.857654
+1   70  i m pretty lazy when it comes to working out i...   0.857542
+2   17  i was so excited when i got this stepper and s...   0.856262
+3   69  i was n t expecting a whole lot for the small ...   0.849320
+4   14  i loved this thing when it arrived it is true ...   0.832191
+5   52  i am around 163 pounds n27 years old n5 4 and ...   0.816952
+6   60  i m an exercise professional and bought this f...   0.809840
+7   37  this thing is awesome mine gets used daily and...   0.794979
+8   53  it took me less than a half an hour to put thi...   0.791290
+9   18  i ve just put the sunny stepper together witho...   0.756859
+10  12  i really enjoy working out with step machines ...   0.740811
+11  15  totally love this stepper the hubby and i live...   0.732844
+12  28  this is a great compact stair stepper we were ...   0.720083
+13  35  i have an original straight up and down pedal ...   0.702626
+14  16  we wanted a stair stepper but did n t have spa...   0.615892
+15  10  this definitely served its purpose got a great...   0.526410
+16  11  i have had this for about 2 months now i have ...   0.447631
+
+step 1
+index added: 77
+percentage unclustered: 63.3333%
+
+	step 2
+
+		step 3
+		candidate index: 77 with core nodes: [17, 47, 52, 70, 76]
+
+step 1
+index added: 78
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 64.4444%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 64.4444%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 63.3333%
+
+	step 2
+
+		step 3
+		candidate index: 81 with core nodes: [47, 52, 70, 76]
+
+step 1
+index added: 82
+percentage unclustered: 62.2222%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 55.5556%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 55.5556%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 53.3333%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 53.3333%
+
+	step 2
+
+		step 3
+		candidate index: 86 with core nodes: [52, 70, 76, 86]
+			old information: 8576, gain: 0.9250880058699696
+
+    ind                                             review  relevance
+0   76  i ve only had it a week so my opinion may chan...   0.857654
+1   70  i m pretty lazy when it comes to working out i...   0.857542
+2   17  i was so excited when i got this stepper and s...   0.856262
+3   69  i was n t expecting a whole lot for the small ...   0.849320
+4   86  this just arrived so it s too soon to say but ...   0.835688
+5   14  i loved this thing when it arrived it is true ...   0.832191
+6   52  i am around 163 pounds n27 years old n5 4 and ...   0.816952
+7   60  i m an exercise professional and bought this f...   0.809840
+8   37  this thing is awesome mine gets used daily and...   0.794979
+9   53  it took me less than a half an hour to put thi...   0.791290
+10  18  i ve just put the sunny stepper together witho...   0.756859
+11  12  i really enjoy working out with step machines ...   0.740811
+12  15  totally love this stepper the hubby and i live...   0.732844
+13  28  this is a great compact stair stepper we were ...   0.720083
+14  35  i have an original straight up and down pedal ...   0.702626
+15  16  we wanted a stair stepper but did n t have spa...   0.615892
+16  10  this definitely served its purpose got a great...   0.526410
+17  11  i have had this for about 2 months now i have ...   0.447631
+
+step 1
+index added: 87
+percentage unclustered: 54.4444%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 58.8889%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 58.8889%
+
+	step 2
+
+--- 454.73544812202454 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 96.6667, 95.5556, 92.2222, 92.2222, 92.2222, 87.7778, 88.8889, 88.8889, 86.6667, 83.33330000000001, 82.2222, 87.7778, 83.33330000000001, 82.2222, 82.2222, 81.1111, 81.1111, 80.0, 83.33330000000001, 83.33330000000001, 83.33330000000001, 85.5556, 85.5556, 85.5556, 85.5556, 82.2222, 82.2222, 81.1111, 81.1111, 81.1111, 81.1111, 81.1111, 81.1111, 81.1111, 81.1111, 81.1111, 81.1111, 82.2222, 82.2222, 82.2222, 83.33330000000001, 83.33330000000001, 80.0, 78.8889, 76.66669999999999, 76.66669999999999, 75.5556, 75.5556, 76.66669999999999, 76.66669999999999, 74.4444, 74.4444, 74.4444, 74.4444, 75.5556, 75.5556, 75.5556, 71.1111, 71.1111, 68.8889, 67.7778, 67.7778, 66.66669999999999, 66.66669999999999, 66.66669999999999, 66.66669999999999, 64.4444, 63.3333, 63.3333, 64.4444, 64.4444, 63.3333, 62.2222, 55.5556, 55.5556, 53.3333, 53.3333, 54.4444, 58.8889, 58.8889], mean: 78.8131
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        53  76   0.857654  i ve only had it a week so my opinion may chan...
+1        73  70   0.857542  i m pretty lazy when it comes to working out i...
+2        30  17   0.856262  i was so excited when i got this stepper and s...
+3        54  69   0.849320  i was n t expecting a whole lot for the small ...
+4         9  86   0.835688  this just arrived so it s too soon to say but ...
+5        22  14   0.832191  i loved this thing when it arrived it is true ...
+6         8  52   0.816952  i am around 163 pounds n27 years old n5 4 and ...
+7         6  60   0.809840  i m an exercise professional and bought this f...
+8        68  37   0.794979  this thing is awesome mine gets used daily and...
+9        74  53   0.791290  it took me less than a half an hour to put thi...
+10       45  18   0.756859  i ve just put the sunny stepper together witho...
+11       47  12   0.740811  i really enjoy working out with step machines ...
+12       28  15   0.732844  totally love this stepper the hubby and i live...
+13       58  28   0.720083  this is a great compact stair stepper we were ...
+14       43  35   0.702626  i have an original straight up and down pedal ...
+15        7  16   0.615892  we wanted a stair stepper but did n t have spa...
+16       29  10   0.526410  this definitely served its purpose got a great...
+17       46  11   0.447631  i have had this for about 2 months now i have ...

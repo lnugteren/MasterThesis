@@ -1,0 +1,1019 @@
+------- Category: Sports_and_Outdoors -------
+Found asin_id: B00AE1TWE0
+Shape:  (143, 7)
+Shape after:  (143, 7)
+
+
+Chosen product: B00AE1TWE0 has 143 reviews - False, it has 140 reviews
+
+Nr of stopwords in review: ['920/1855', '355/679', '179/344', '237/481', '276/602', '788/1567', '217/416', '222/445', '350/646', '115/210', '32/68', '260/527', '110/206', '118/232', '73/160', '73/142', '103/191', '236/478', '34/80', '72/157', '225/498', '705/1345', '270/521', '26/51', '588/1182', '81/163', '43/87', '42/88', '234/469', '33/74', '11/25', '117/261', '225/458', '352/684', '206/411', '342/670', '88/182', '57/117', '42/84', '103/196', '13/24', '0/1', '135/285', '19/41', '144/290', '161/286', '900/1712', '180/355', '126/244', '337/668', '74/142', '414/834', '178/383', '121/260', '39/77', '94/187', '116/273', '78/136', '98/200', '52/102', '24/54', '823/1585', '174/357', '56/109', '297/576', '103/240', '28/55', '11/27', '167/369', '49/100', '53/108', '154/303', '99/184', '120/234', '436/898', '146/289', '239/476', '31/62', '108/198', '193/365', '348/721', '101/202', '117/236', '29/57', '27/58', '129/231', '245/448', '151/327', '29/57', '138/271', '59/118', '510/1109', '98/193', '244/461', '49/89', '19/35', '35/69', '37/67', '246/510', '304/596', '14/21', '59/119', '58/102', '331/667', '33/67', '921/1903', '24/53', '151/281', '264/493', '41/76', '118/221', '19/37', '65/124', '31/62', '26/54', '17/31', '35/74', '126/235', '47/95', '102/188', '64/126', '666/1206', '44/82', '114/259', '126/248', '386/725', '88/152', '35/56', '134/290', '174/347', '57/92', '62/110', '100/220', '48/97', '51/109', '116/212', '220/393', '22/45', '48/93', '10/26'], on average: 0.5013
+Nr of stopwords in summary: ['3/8', '8/10', '3/7', '2/4', '1/7', '6/7', '2/6', '2/5', '3/7', '2/7', '1/5', '4/13', '3/8', '0/5', '1/4', '3/5', '2/6', '1/9', '3/7', '1/4', '2/5', '3/8', '2/7', '0/8', '13/18', '0/2', '6/10', '6/13', '3/8', '3/4', '3/5', '5/8', '0/4', '7/17', '3/7', '6/11', '0/7', '3/8', '0/1', '2/5', '3/5', '0/2', '1/4', '5/8', '8/20', '0/2', '9/19', '1/7', '1/3', '1/4', '3/9', '2/7', '4/8', '5/7', '2/3', '8/17', '2/6', '4/8', '1/4', '3/8', '2/6', '8/13', '4/12', '5/10', '4/7', '0/5', '1/6', '0/2', '1/5', '1/4', '2/4', '2/4', '0/2', '2/4', '3/8', '0/4', '0/3', '0/2', '0/2', '5/9', '3/7', '1/3', '2/8', '1/2', '3/8', '1/7', '3/5', '2/4', '2/3', '3/11', '3/7', '1/7', '3/7', '2/4', '7/13', '1/4', '3/5', '0/2', '3/18', '4/8', '1/2', '3/6', '5/15', '2/8', '4/9', '1/10', '1/3', '5/10', '2/6', '2/6', '7/16', '1/2', '4/8', '1/4', '3/6', '3/8', '0/3', '3/5', '1/5', '2/4', '2/7', '1/3', '1/2', '2/5', '4/6', '5/8', '1/4', '5/11', '6/11', '5/9', '0/1', '1/3', '0/4', '6/12', '3/8', '0/6', '2/4', '0/1', '1/3', '0/2'], on average: 0.3531
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 95.7143%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [0, 4, 8]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   8  i have never felt a need to write a negative r...   0.856191
+
+step 1
+index added: 9
+percentage unclustered: 95.0%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [0, 4, 8]
+
+step 1
+index added: 10
+percentage unclustered: 94.2857%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [0, 4, 8]
+
+step 1
+index added: 11
+percentage unclustered: 93.5714%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [0, 3, 8, 11]
+			old information: 3524, gain: 0.9745744980194948
+
+   ind                                             review  relevance
+0  11  final update read below to get full context n ...   0.858584
+1   8  i have never felt a need to write a negative r...   0.856191
+
+step 1
+index added: 12
+percentage unclustered: 92.8571%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 92.8571%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 92.8571%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 94.2857%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [4, 6, 8, 11]
+
+step 1
+index added: 16
+percentage unclustered: 95.0%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [0, 6, 11]
+
+step 1
+index added: 17
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 93.5714%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [0, 6, 11]
+
+step 1
+index added: 19
+percentage unclustered: 93.5714%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 90.7143%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [0, 5, 8, 11]
+
+step 1
+index added: 21
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [0, 5, 8, 21]
+			old information: 12018, gain: 0.9867033988316516
+
+   ind                                             review  relevance
+0  21  update n nmy second jawbone up has stopped wor...   0.900636
+1  11  final update read below to get full context n ...   0.858584
+2   8  i have never felt a need to write a negative r...   0.856191
+
+step 1
+index added: 22
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 91.4286%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [1, 5, 21, 24]
+			old information: 19358, gain: 0.9722653233443797
+
+   ind                                             review  relevance
+0  21  update n nmy second jawbone up has stopped wor...   0.900636
+1  24  div id video block r37f6awtn9pey7 class a sect...   0.880176
+2  11  final update read below to get full context n ...   0.858584
+3   8  i have never felt a need to write a negative r...   0.856191
+
+step 1
+index added: 25
+percentage unclustered: 91.4286%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 90.7143%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 90.7143%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [5, 21, 28]
+			old information: 8414, gain: 0.9233320576604158
+
+   ind                                             review  relevance
+0  21  update n nmy second jawbone up has stopped wor...   0.900636
+1  24  div id video block r37f6awtn9pey7 class a sect...   0.880176
+2  11  final update read below to get full context n ...   0.858584
+3  28  i had the first generation up band by jawbone ...   0.856476
+4   8  i have never felt a need to write a negative r...   0.856191
+
+step 1
+index added: 29
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 29 with core nodes: [5, 21, 24, 28]
+
+step 1
+index added: 30
+percentage unclustered: 87.1429%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 87.1429%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 87.1429%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 87.8571%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [5, 8, 21, 24]
+
+step 1
+index added: 35
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [5, 21, 24, 35]
+			old information: 18078, gain: 0.9193360551502576
+
+   ind                                             review  relevance
+0  35  edited review since my first review earlier in...   0.901384
+1  21  update n nmy second jawbone up has stopped wor...   0.900636
+2  24  div id video block r37f6awtn9pey7 class a sect...   0.880176
+3  11  final update read below to get full context n ...   0.858584
+4  28  i had the first generation up band by jawbone ...   0.856476
+5   8  i have never felt a need to write a negative r...   0.856191
+
+step 1
+index added: 36
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 82.8571%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [5, 21, 24, 35]
+
+step 1
+index added: 38
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 82.1429%
+
+	step 2
+
+		step 3
+		candidate index: 44 with core nodes: [5, 21, 24, 35]
+
+step 1
+index added: 45
+percentage unclustered: 82.1429%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 82.1429%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [5, 21, 33, 46]
+			old information: 38414, gain: 0.9737719648016955
+
+   ind                                             review  relevance
+0  46  i used the jawbone up for two months before it...   0.934260
+1  35  edited review since my first review earlier in...   0.901384
+2  21  update n nmy second jawbone up has stopped wor...   0.900636
+3  24  div id video block r37f6awtn9pey7 class a sect...   0.880176
+4  11  final update read below to get full context n ...   0.858584
+5  28  i had the first generation up band by jawbone ...   0.856476
+6   8  i have never felt a need to write a negative r...   0.856191
+
+step 1
+index added: 47
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 82.1429%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 82.1429%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 82.1429%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 85.7143%
+
+	step 2
+
+		step 3
+		candidate index: 53 with core nodes: [5, 21, 33, 46]
+
+step 1
+index added: 54
+percentage unclustered: 85.7143%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 55 with core nodes: [5, 21, 33, 46]
+
+step 1
+index added: 56
+percentage unclustered: 84.2857%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 84.2857%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 58 with core nodes: [5, 21, 46, 51]
+
+step 1
+index added: 59
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 79.28569999999999%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 79.28569999999999%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 79.28569999999999%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 78.5714%
+
+	step 2
+
+		step 3
+		candidate index: 63 with core nodes: [5, 21, 46, 51]
+
+step 1
+index added: 64
+percentage unclustered: 77.1429%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 77.1429%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 76.4286%
+
+	step 2
+
+		step 3
+		candidate index: 66 with core nodes: [5, 21, 46, 51]
+
+step 1
+index added: 67
+percentage unclustered: 74.28569999999999%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 74.28569999999999%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 74.28569999999999%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 73.5714%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 73.5714%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 73.5714%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 73.5714%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 72.8571%
+
+	step 2
+
+		step 3
+		candidate index: 74 with core nodes: [5, 21, 46, 51]
+
+step 1
+index added: 75
+percentage unclustered: 72.8571%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 69.28569999999999%
+
+	step 2
+
+		step 3
+		candidate index: 76 with core nodes: [5, 21, 46, 51]
+
+step 1
+index added: 77
+percentage unclustered: 69.28569999999999%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 69.28569999999999%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 74.28569999999999%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 71.4286%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 71.4286%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 71.4286%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 73.5714%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 74.28569999999999%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 74.28569999999999%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 73.5714%
+
+	step 2
+
+		step 3
+		candidate index: 86 with core nodes: [21, 35, 80]
+
+step 1
+index added: 87
+percentage unclustered: 72.8571%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 72.1429%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 72.1429%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 71.4286%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 70.71430000000001%
+
+	step 2
+
+		step 3
+		candidate index: 91 with core nodes: [5, 21, 51, 91]
+			old information: 34164, gain: 0.9443932641694309
+
+   ind                                             review  relevance
+0  46  i used the jawbone up for two months before it...   0.934260
+1  91  i have been wearing my up since before christm...   0.919828
+2  35  edited review since my first review earlier in...   0.901384
+3  21  update n nmy second jawbone up has stopped wor...   0.900636
+4  24  div id video block r37f6awtn9pey7 class a sect...   0.880176
+5  11  final update read below to get full context n ...   0.858584
+6  28  i had the first generation up band by jawbone ...   0.856476
+7   8  i have never felt a need to write a negative r...   0.856191
+
+step 1
+index added: 92
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 68.5714%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 72.1429%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 71.4286%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 72.8571%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 70.71430000000001%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 69.28569999999999%
+
+	step 2
+
+		step 3
+		candidate index: 103 with core nodes: [21, 35, 103]
+			old information: 17440, gain: 0.921480701090896
+
+    ind                                             review  relevance
+0   46  i used the jawbone up for two months before it...   0.934260
+1   91  i have been wearing my up since before christm...   0.919828
+2   35  edited review since my first review earlier in...   0.901384
+3   21  update n nmy second jawbone up has stopped wor...   0.900636
+4  103  somebody said along the lines the best technol...   0.889034
+5   24  div id video block r37f6awtn9pey7 class a sect...   0.880176
+6   11  final update read below to get full context n ...   0.858584
+7   28  i had the first generation up band by jawbone ...   0.856476
+8    8  i have never felt a need to write a negative r...   0.856191
+
+step 1
+index added: 104
+percentage unclustered: 69.28569999999999%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 69.28569999999999%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 69.28569999999999%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 69.28569999999999%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 69.28569999999999%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 69.28569999999999%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 68.5714%
+
+	step 2
+
+		step 3
+		candidate index: 110 with core nodes: [5, 11, 33]
+
+step 1
+index added: 111
+percentage unclustered: 68.5714%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 67.8571%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 67.8571%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 64.28569999999999%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 63.5714%
+
+	step 2
+
+		step 3
+		candidate index: 115 with core nodes: [21, 35, 103]
+
+step 1
+index added: 116
+percentage unclustered: 63.5714%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 62.8571%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 62.1429%
+
+	step 2
+
+		step 3
+		candidate index: 118 with core nodes: [21, 35, 103]
+
+step 1
+index added: 119
+percentage unclustered: 62.1429%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 61.4286%
+
+	step 2
+
+		step 3
+		candidate index: 120 with core nodes: [21, 35, 103]
+
+step 1
+index added: 121
+percentage unclustered: 61.4286%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 62.1429%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 62.8571%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 64.28569999999999%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 72.8571%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 72.8571%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 72.1429%
+
+	step 2
+
+step 1
+index added: 128
+percentage unclustered: 71.4286%
+
+	step 2
+
+		step 3
+		candidate index: 128 with core nodes: [5, 8, 76, 79]
+
+step 1
+index added: 129
+percentage unclustered: 70.71430000000001%
+
+	step 2
+
+		step 3
+		candidate index: 129 with core nodes: [5, 8, 76, 79]
+
+step 1
+index added: 130
+percentage unclustered: 70.71430000000001%
+
+	step 2
+
+step 1
+index added: 131
+percentage unclustered: 70.71430000000001%
+
+	step 2
+
+step 1
+index added: 132
+percentage unclustered: 71.4286%
+
+	step 2
+
+step 1
+index added: 133
+percentage unclustered: 70.71430000000001%
+
+	step 2
+
+		step 3
+		candidate index: 133 with core nodes: [5, 8, 76, 79]
+
+step 1
+index added: 134
+percentage unclustered: 61.4286%
+
+	step 2
+
+step 1
+index added: 135
+percentage unclustered: 61.4286%
+
+	step 2
+
+step 1
+index added: 136
+percentage unclustered: 61.4286%
+
+	step 2
+
+step 1
+index added: 137
+percentage unclustered: 67.8571%
+
+	step 2
+
+step 1
+index added: 138
+percentage unclustered: 67.8571%
+
+	step 2
+
+step 1
+index added: 139
+percentage unclustered: 67.8571%
+
+	step 2
+
+--- 12284.619466781616 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 95.7143, 95.0, 94.2857, 93.5714, 92.8571, 92.8571, 92.8571, 94.2857, 95.0, 95.0, 93.5714, 93.5714, 90.7143, 90.0, 90.0, 90.0, 91.4286, 91.4286, 90.7143, 90.7143, 90.0, 90.0, 87.1429, 87.1429, 87.1429, 88.5714, 87.8571, 85.0, 85.0, 82.8571, 82.8571, 82.8571, 82.8571, 82.8571, 82.8571, 82.8571, 82.1429, 82.1429, 82.1429, 81.4286, 82.1429, 82.1429, 82.1429, 82.8571, 82.8571, 85.7143, 85.7143, 85.0, 84.2857, 84.2857, 80.0, 80.0, 79.28569999999999, 79.28569999999999, 79.28569999999999, 78.5714, 77.1429, 77.1429, 76.4286, 74.28569999999999, 74.28569999999999, 74.28569999999999, 73.5714, 73.5714, 73.5714, 73.5714, 72.8571, 72.8571, 69.28569999999999, 69.28569999999999, 69.28569999999999, 74.28569999999999, 71.4286, 71.4286, 71.4286, 73.5714, 74.28569999999999, 74.28569999999999, 73.5714, 72.8571, 72.1429, 72.1429, 71.4286, 70.71430000000001, 70.0, 70.0, 70.0, 70.0, 68.5714, 72.1429, 71.4286, 72.8571, 70.71430000000001, 70.0, 70.0, 69.28569999999999, 69.28569999999999, 69.28569999999999, 69.28569999999999, 69.28569999999999, 69.28569999999999, 69.28569999999999, 68.5714, 68.5714, 67.8571, 67.8571, 64.28569999999999, 63.5714, 63.5714, 62.8571, 62.1429, 62.1429, 61.4286, 61.4286, 62.1429, 62.8571, 64.28569999999999, 72.8571, 72.8571, 72.1429, 71.4286, 70.71430000000001, 70.71430000000001, 70.71430000000001, 71.4286, 70.71430000000001, 61.4286, 61.4286, 61.4286, 67.8571, 67.8571, 67.8571], mean: 77.9969
+
+Final Ranking:
+   ranking  ind  relevance                                             review
+0       47   46   0.934260  i used the jawbone up for two months before it...
+1       92   91   0.919828  i have been wearing my up since before christm...
+2       36   35   0.901384  edited review since my first review earlier in...
+3       22   21   0.900636  update n nmy second jawbone up has stopped wor...
+4      104  103   0.889034  somebody said along the lines the best technol...
+5       25   24   0.880176  div id video block r37f6awtn9pey7 class a sect...
+6       12   11   0.858584  final update read below to get full context n ...
+7       29   28   0.856476  i had the first generation up band by jawbone ...
+8        9    8   0.856191  i have never felt a need to write a negative r...

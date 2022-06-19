@@ -1,0 +1,1063 @@
+------- Category: Sports_and_Outdoors -------
+Found asin_id: B0073PZ6O0
+Shape:  (120, 7)
+Shape after:  (120, 7)
+
+
+Chosen product: B0073PZ6O0 has 120 reviews - True, it has 120 reviews
+
+Nr of stopwords in review: ['183/365', '42/91', '26/75', '39/64', '21/51', '108/230', '65/135', '22/49', '31/69', '196/357', '293/606', '104/208', '44/76', '59/129', '388/787', '81/179', '18/32', '12/29', '2/5', '24/39', '81/150', '121/212', '10/27', '40/83', '13/30', '4/11', '18/44', '29/59', '63/137', '19/47', '73/149', '293/634', '311/593', '24/58', '154/354', '161/325', '32/59', '48/89', '58/104', '96/208', '201/416', '148/326', '36/84', '39/103', '105/189', '42/79', '150/293', '165/345', '252/556', '134/306', '109/214', '45/94', '69/157', '126/276', '63/146', '185/378', '37/83', '42/82', '42/97', '46/87', '83/164', '52/95', '62/120', '81/174', '34/72', '202/430', '336/657', '204/390', '81/227', '93/174', '244/640', '19/50', '20/75', '115/242', '248/473', '63/138', '42/91', '175/382', '46/90', '230/533', '22/41', '24/68', '86/173', '272/579', '192/492', '196/411', '62/112', '155/310', '75/172', '140/256', '162/326', '188/391', '104/205', '277/604', '34/67', '217/452', '189/344', '188/399', '80/163', '72/164', '117/239', '87/154', '71/143', '52/95', '36/73', '17/34', '138/294', '82/163', '440/809', '34/54', '431/826', '166/310', '84/173', '143/272', '152/296', '102/200', '654/1378', '31/64', '169/360', '82/164'], on average: 0.481
+Nr of stopwords in summary: ['0/6', '4/6', '6/13', '1/4', '1/6', '2/10', '2/3', '2/6', '0/3', '1/3', '2/5', '4/10', '4/5', '2/9', '3/5', '7/18', '8/15', '0/2', '0/2', '6/9', '6/11', '8/13', '3/5', '4/14', '5/11', '0/2', '4/9', '2/9', '1/4', '1/5', '3/9', '8/19', '3/11', '1/5', '2/7', '1/6', '1/4', '0/4', '2/5', '2/7', '8/17', '2/7', '1/5', '2/5', '13/22', '2/7', '5/13', '4/10', '8/17', '1/6', '0/1', '0/3', '0/2', '3/11', '0/3', '2/5', '0/6', '1/9', '0/6', '2/6', '1/8', '8/18', '4/10', '5/8', '6/11', '1/4', '1/3', '2/6', '0/6', '2/7', '3/10', '0/2', '0/3', '1/6', '4/11', '1/3', '0/1', '1/4', '3/8', '0/5', '1/4', '0/2', '1/3', '2/5', '6/14', '1/8', '2/4', '1/6', '3/8', '0/2', '2/4', '5/17', '2/6', '2/3', '3/6', '1/7', '4/6', '1/6', '2/6', '1/7', '0/1', '0/3', '1/3', '1/3', '7/14', '2/3', '2/5', '1/5', '1/6', '2/6', '4/8', '1/7', '0/2', '2/3', '2/8', '0/4', '2/8', '1/7', '2/4', '2/6'], on average: 0.2939
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 97.5%
+
+	step 2
+
+		step 3
+		candidate index: 5 with core nodes: [0, 2, 5]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   5  so far a five the only thing that keeps it fro...   0.649834
+
+step 1
+index added: 6
+percentage unclustered: 97.5%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 95.0%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [0, 2, 5, 6]
+
+step 1
+index added: 8
+percentage unclustered: 94.1667%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [0, 2, 5, 6, 8]
+			old information: 286, gain: 0.8780903665814151
+
+   ind                                             review  relevance
+0   5  so far a five the only thing that keeps it fro...   0.649834
+1   8  do n t buy this after less than a month of use...   0.604872
+
+step 1
+index added: 9
+percentage unclustered: 94.1667%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 93.3333%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [0, 5, 6, 8, 10]
+			old information: 1427, gain: 0.9922155851948832
+
+   ind                                             review  relevance
+0  10  some have complained their filters do not last...   0.788552
+1   5  so far a five the only thing that keeps it fro...   0.649834
+2   8  do n t buy this after less than a month of use...   0.604872
+
+step 1
+index added: 11
+percentage unclustered: 91.6667%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [0, 6, 10, 11]
+			old information: 1146, gain: 0.9467670011148273
+
+   ind                                             review  relevance
+0  11  put in a brand new filter in the pitcher early...   0.802980
+1  10  some have complained their filters do not last...   0.788552
+2   5  so far a five the only thing that keeps it fro...   0.649834
+3   8  do n t buy this after less than a month of use...   0.604872
+
+step 1
+index added: 12
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 90.8333%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [6, 10, 11]
+			old information: 1231, gain: 0.8508963178294574
+
+   ind                                             review  relevance
+0  11  put in a brand new filter in the pitcher early...   0.802980
+1  10  some have complained their filters do not last...   0.788552
+2  13  i ve owned this one as well as the 8 cup versi...   0.675496
+3   5  so far a five the only thing that keeps it fro...   0.649834
+4   8  do n t buy this after less than a month of use...   0.604872
+
+step 1
+index added: 14
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [6, 10, 11, 14]
+			old information: 5774, gain: 0.9813314968751111
+
+   ind                                             review  relevance
+0  14  sorry for the super long review here is a shor...   0.905737
+1  11  put in a brand new filter in the pitcher early...   0.802980
+2  10  some have complained their filters do not last...   0.788552
+3  13  i ve owned this one as well as the 8 cup versi...   0.675496
+4   5  so far a five the only thing that keeps it fro...   0.649834
+5   8  do n t buy this after less than a month of use...   0.604872
+
+step 1
+index added: 15
+percentage unclustered: 89.1667%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [6, 10, 11, 14]
+
+step 1
+index added: 16
+percentage unclustered: 88.3333%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 87.5%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [6, 10, 11, 14]
+
+step 1
+index added: 18
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 86.6667%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [6, 10, 11, 14]
+
+step 1
+index added: 20
+percentage unclustered: 86.6667%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [6, 10, 11, 14]
+			old information: 1632, gain: 0.8539597315436241
+
+   ind                                             review  relevance
+0  14  sorry for the super long review here is a shor...   0.905737
+1  11  put in a brand new filter in the pitcher early...   0.802980
+2  10  some have complained their filters do not last...   0.788552
+3  20  purchased this after much research was concern...   0.720840
+4  13  i ve owned this one as well as the 8 cup versi...   0.675496
+5   5  so far a five the only thing that keeps it fro...   0.649834
+6   8  do n t buy this after less than a month of use...   0.604872
+
+step 1
+index added: 21
+percentage unclustered: 87.5%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [6, 10, 11, 21]
+			old information: 2777, gain: 0.8758383260305821
+
+   ind                                             review  relevance
+0  14  sorry for the super long review here is a shor...   0.905737
+1  11  put in a brand new filter in the pitcher early...   0.802980
+2  21  i m certain most users feel this way but i fig...   0.799382
+3  10  some have complained their filters do not last...   0.788552
+4  20  purchased this after much research was concern...   0.720840
+5  13  i ve owned this one as well as the 8 cup versi...   0.675496
+6   5  so far a five the only thing that keeps it fro...   0.649834
+7   8  do n t buy this after less than a month of use...   0.604872
+
+step 1
+index added: 22
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 85.8333%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 85.8333%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 85.8333%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [6, 10, 11, 21]
+
+step 1
+index added: 27
+percentage unclustered: 84.1667%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [6, 10, 11, 21]
+
+step 1
+index added: 28
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [10, 11, 14, 21]
+
+step 1
+index added: 29
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 29 with core nodes: [10, 11, 14, 21]
+
+step 1
+index added: 30
+percentage unclustered: 77.5%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [10, 11, 14, 21]
+
+step 1
+index added: 31
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 75.83330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [10, 11, 14, 32]
+			old information: 7472, gain: 0.9574312930130805
+
+   ind                                             review  relevance
+0  14  sorry for the super long review here is a shor...   0.905737
+1  32  i bought this based off the stellar reviews i ...   0.882811
+2  11  put in a brand new filter in the pitcher early...   0.802980
+3  21  i m certain most users feel this way but i fig...   0.799382
+4  10  some have complained their filters do not last...   0.788552
+5  20  purchased this after much research was concern...   0.720840
+6  13  i ve owned this one as well as the 8 cup versi...   0.675496
+7   5  so far a five the only thing that keeps it fro...   0.649834
+8   8  do n t buy this after less than a month of use...   0.604872
+
+step 1
+index added: 33
+percentage unclustered: 75.0%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [10, 11, 14, 32]
+
+step 1
+index added: 34
+percentage unclustered: 74.16669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [10, 11, 14, 32]
+
+step 1
+index added: 35
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [10, 11, 14, 32]
+
+step 1
+index added: 36
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 72.5%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [10, 11, 14, 32]
+
+step 1
+index added: 38
+percentage unclustered: 75.0%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [10, 11, 21, 32, 35]
+
+step 1
+index added: 39
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 75.83330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [10, 11, 41]
+			old information: 5632, gain: 0.8936857008022652
+
+   ind                                             review  relevance
+0  14  sorry for the super long review here is a shor...   0.905737
+1  32  i bought this based off the stellar reviews i ...   0.882811
+2  41  review update bought on november nov 19 today ...   0.840365
+3  11  put in a brand new filter in the pitcher early...   0.802980
+4  21  i m certain most users feel this way but i fig...   0.799382
+5  10  some have complained their filters do not last...   0.788552
+6  20  purchased this after much research was concern...   0.720840
+7  13  i ve owned this one as well as the 8 cup versi...   0.675496
+8   5  so far a five the only thing that keeps it fro...   0.649834
+9   8  do n t buy this after less than a month of use...   0.604872
+
+step 1
+index added: 42
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 79.16669999999999%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [10, 39, 47]
+			old information: 5245, gain: 0.9116110549376475
+
+    ind                                             review  relevance
+0   14  sorry for the super long review here is a shor...   0.905737
+1   32  i bought this based off the stellar reviews i ...   0.882811
+2   47  my experience with zerowater filtration system...   0.876373
+3   41  review update bought on november nov 19 today ...   0.840365
+4   11  put in a brand new filter in the pitcher early...   0.802980
+5   21  i m certain most users feel this way but i fig...   0.799382
+6   10  some have complained their filters do not last...   0.788552
+7   20  purchased this after much research was concern...   0.720840
+8   13  i ve owned this one as well as the 8 cup versi...   0.675496
+9    5  so far a five the only thing that keeps it fro...   0.649834
+10   8  do n t buy this after less than a month of use...   0.604872
+
+step 1
+index added: 48
+percentage unclustered: 75.0%
+
+	step 2
+
+		step 3
+		candidate index: 48 with core nodes: [10, 39, 47]
+
+step 1
+index added: 49
+percentage unclustered: 74.16669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [10, 39, 47]
+			old information: 3926, gain: 0.9158684238722812
+
+    ind                                             review  relevance
+0   14  sorry for the super long review here is a shor...   0.905737
+1   32  i bought this based off the stellar reviews i ...   0.882811
+2   47  my experience with zerowater filtration system...   0.876373
+3   41  review update bought on november nov 19 today ...   0.840365
+4   11  put in a brand new filter in the pitcher early...   0.802980
+5   21  i m certain most users feel this way but i fig...   0.799382
+6   10  some have complained their filters do not last...   0.788552
+7   49  i have various concerns with this pitcher n nf...   0.761569
+8   20  purchased this after much research was concern...   0.720840
+9   13  i ve owned this one as well as the 8 cup versi...   0.675496
+10   5  so far a five the only thing that keeps it fro...   0.649834
+11   8  do n t buy this after less than a month of use...   0.604872
+
+step 1
+index added: 50
+percentage unclustered: 74.16669999999999%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 74.16669999999999%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 74.16669999999999%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 75.0%
+
+	step 2
+
+		step 3
+		candidate index: 53 with core nodes: [10, 14, 47]
+
+step 1
+index added: 54
+percentage unclustered: 84.1667%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 55 with core nodes: [10, 47, 55]
+			old information: 6355, gain: 0.9108107728797384
+
+    ind                                             review  relevance
+0   14  sorry for the super long review here is a shor...   0.905737
+1   55  i know that the water in my neighbourhood is n...   0.893526
+2   32  i bought this based off the stellar reviews i ...   0.882811
+3   47  my experience with zerowater filtration system...   0.876373
+4   41  review update bought on november nov 19 today ...   0.840365
+5   11  put in a brand new filter in the pitcher early...   0.802980
+6   21  i m certain most users feel this way but i fig...   0.799382
+7   10  some have complained their filters do not last...   0.788552
+8   49  i have various concerns with this pitcher n nf...   0.761569
+9   20  purchased this after much research was concern...   0.720840
+10  13  i ve owned this one as well as the 8 cup versi...   0.675496
+11   5  so far a five the only thing that keeps it fro...   0.649834
+12   8  do n t buy this after less than a month of use...   0.604872
+
+step 1
+index added: 56
+percentage unclustered: 80.83330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 56 with core nodes: [10, 47, 55]
+
+step 1
+index added: 57
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 80.83330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 59 with core nodes: [10, 47, 55]
+
+step 1
+index added: 60
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 85.8333%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 82.5%
+
+	step 2
+
+		step 3
+		candidate index: 70 with core nodes: [10, 11, 31, 47]
+
+step 1
+index added: 71
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 73 with core nodes: [10, 11, 31, 47]
+			old information: 2888, gain: 0.9009636157882103
+
+    ind                                             review  relevance
+0   14  sorry for the super long review here is a shor...   0.905737
+1   55  i know that the water in my neighbourhood is n...   0.893526
+2   32  i bought this based off the stellar reviews i ...   0.882811
+3   47  my experience with zerowater filtration system...   0.876373
+4   41  review update bought on november nov 19 today ...   0.840365
+5   11  put in a brand new filter in the pitcher early...   0.802980
+6   21  i m certain most users feel this way but i fig...   0.799382
+7   10  some have complained their filters do not last...   0.788552
+8   49  i have various concerns with this pitcher n nf...   0.761569
+9   73  we ordered this unit to get good tasting clean...   0.750765
+10  20  purchased this after much research was concern...   0.720840
+11  13  i ve owned this one as well as the 8 cup versi...   0.675496
+12   5  so far a five the only thing that keeps it fro...   0.649834
+13   8  do n t buy this after less than a month of use...   0.604872
+
+step 1
+index added: 74
+percentage unclustered: 75.83330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 74 with core nodes: [10, 31, 47, 74]
+			old information: 8534, gain: 0.9235496470419609
+
+    ind                                             review  relevance
+0   14  sorry for the super long review here is a shor...   0.905737
+1   55  i know that the water in my neighbourhood is n...   0.893526
+2   74  i was excited about this product as a replacem...   0.893374
+3   32  i bought this based off the stellar reviews i ...   0.882811
+4   47  my experience with zerowater filtration system...   0.876373
+5   41  review update bought on november nov 19 today ...   0.840365
+6   11  put in a brand new filter in the pitcher early...   0.802980
+7   21  i m certain most users feel this way but i fig...   0.799382
+8   10  some have complained their filters do not last...   0.788552
+9   49  i have various concerns with this pitcher n nf...   0.761569
+10  73  we ordered this unit to get good tasting clean...   0.750765
+11  20  purchased this after much research was concern...   0.720840
+12  13  i ve owned this one as well as the 8 cup versi...   0.675496
+13   5  so far a five the only thing that keeps it fro...   0.649834
+14   8  do n t buy this after less than a month of use...   0.604872
+
+step 1
+index added: 75
+percentage unclustered: 75.83330000000001%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 75.83330000000001%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 75.83330000000001%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 75.83330000000001%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 75.83330000000001%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 75.83330000000001%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 80.83330000000001%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 80.83330000000001%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 80.83330000000001%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 86 with core nodes: [11, 31, 46]
+
+step 1
+index added: 87
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 79.16669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 88 with core nodes: [11, 31, 46]
+
+step 1
+index added: 89
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 80.83330000000001%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 80.83330000000001%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 80.83330000000001%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 80.83330000000001%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 101 with core nodes: [31, 44, 47, 48, 101]
+			old information: 2822, gain: 0.7604617604617605
+
+     ind                                             review  relevance
+0    14  sorry for the super long review here is a shor...   0.905737
+1    55  i know that the water in my neighbourhood is n...   0.893526
+2    74  i was excited about this product as a replacem...   0.893374
+3    32  i bought this based off the stellar reviews i ...   0.882811
+4    47  my experience with zerowater filtration system...   0.876373
+5    41  review update bought on november nov 19 today ...   0.840365
+6   101  i ve tried all of the other brands known by mo...   0.809048
+7    11  put in a brand new filter in the pitcher early...   0.802980
+8    21  i m certain most users feel this way but i fig...   0.799382
+9    10  some have complained their filters do not last...   0.788552
+10   49  i have various concerns with this pitcher n nf...   0.761569
+11   73  we ordered this unit to get good tasting clean...   0.750765
+12   20  purchased this after much research was concern...   0.720840
+13   13  i ve owned this one as well as the 8 cup versi...   0.675496
+14    5  so far a five the only thing that keeps it fro...   0.649834
+15    8  do n t buy this after less than a month of use...   0.604872
+
+step 1
+index added: 102
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 75.0%
+
+	step 2
+
+		step 3
+		candidate index: 107 with core nodes: [14, 31, 47]
+
+step 1
+index added: 108
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 75.0%
+
+	step 2
+
+		step 3
+		candidate index: 110 with core nodes: [14, 31, 47, 95, 110]
+			old information: 12683, gain: 0.9627764326069411
+
+     ind                                             review  relevance
+0    14  sorry for the super long review here is a shor...   0.905737
+1    55  i know that the water in my neighbourhood is n...   0.893526
+2    74  i was excited about this product as a replacem...   0.893374
+3   110  this is a great filter a neat device is the td...   0.888024
+4    32  i bought this based off the stellar reviews i ...   0.882811
+5    47  my experience with zerowater filtration system...   0.876373
+6    41  review update bought on november nov 19 today ...   0.840365
+7   101  i ve tried all of the other brands known by mo...   0.809048
+8    11  put in a brand new filter in the pitcher early...   0.802980
+9    21  i m certain most users feel this way but i fig...   0.799382
+10   10  some have complained their filters do not last...   0.788552
+11   49  i have various concerns with this pitcher n nf...   0.761569
+12   73  we ordered this unit to get good tasting clean...   0.750765
+13   20  purchased this after much research was concern...   0.720840
+14   13  i ve owned this one as well as the 8 cup versi...   0.675496
+15    5  so far a five the only thing that keeps it fro...   0.649834
+16    8  do n t buy this after less than a month of use...   0.604872
+
+step 1
+index added: 111
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 74.16669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 117 with core nodes: [14, 31, 47, 95, 110]
+
+step 1
+index added: 118
+percentage unclustered: 74.16669999999999%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 75.83330000000001%
+
+	step 2
+
+--- 1316.0204701423645 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 97.5, 97.5, 95.0, 94.1667, 94.1667, 93.3333, 91.6667, 91.6667, 90.8333, 90.0, 89.1667, 88.3333, 87.5, 87.5, 86.6667, 86.6667, 87.5, 86.6667, 86.6667, 85.8333, 85.8333, 85.8333, 84.1667, 80.0, 80.0, 77.5, 77.5, 75.83330000000001, 75.0, 74.16669999999999, 73.33330000000001, 73.33330000000001, 72.5, 75.0, 76.66669999999999, 76.66669999999999, 75.83330000000001, 75.0, 78.33330000000001, 79.16669999999999, 78.33330000000001, 78.33330000000001, 76.66669999999999, 75.0, 74.16669999999999, 74.16669999999999, 74.16669999999999, 74.16669999999999, 75.0, 84.1667, 81.66669999999999, 80.83330000000001, 85.0, 85.0, 80.83330000000001, 81.66669999999999, 81.66669999999999, 85.8333, 85.0, 85.0, 85.0, 85.0, 85.0, 85.0, 85.0, 82.5, 82.5, 81.66669999999999, 76.66669999999999, 75.83330000000001, 75.83330000000001, 75.83330000000001, 75.83330000000001, 75.83330000000001, 75.83330000000001, 75.83330000000001, 81.66669999999999, 81.66669999999999, 80.83330000000001, 80.83330000000001, 80.83330000000001, 80.0, 80.0, 79.16669999999999, 81.66669999999999, 81.66669999999999, 80.0, 80.0, 80.83330000000001, 80.83330000000001, 80.83330000000001, 80.83330000000001, 80.0, 80.0, 80.0, 80.0, 81.66669999999999, 81.66669999999999, 81.66669999999999, 81.66669999999999, 78.33330000000001, 78.33330000000001, 75.0, 75.0, 75.0, 75.0, 75.0, 75.0, 75.0, 75.0, 75.0, 75.0, 74.16669999999999, 74.16669999999999, 75.83330000000001], mean: 81.3983
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0        34   14   0.905737  sorry for the super long review here is a shor...
+1        86   55   0.893526  i know that the water in my neighbourhood is n...
+2         3   74   0.893374  i was excited about this product as a replacem...
+3        10  110   0.888024  this is a great filter a neat device is the td...
+4        32   32   0.882811  i bought this based off the stellar reviews i ...
+5        82   47   0.876373  my experience with zerowater filtration system...
+6         8   41   0.840365  review update bought on november nov 19 today ...
+7        94  101   0.809048  i ve tried all of the other brands known by mo...
+8        48   11   0.802980  put in a brand new filter in the pitcher early...
+9        64   21   0.799382  i m certain most users feel this way but i fig...
+10        9   10   0.788552  some have complained their filters do not last...
+11        6   49   0.761569  i have various concerns with this pitcher n nf...
+12       29   73   0.750765  we ordered this unit to get good tasting clean...
+13       21   20   0.720840  purchased this after much research was concern...
+14       28   13   0.675496  i ve owned this one as well as the 8 cup versi...
+15       50    5   0.649834  so far a five the only thing that keeps it fro...
+16       42    8   0.604872  do n t buy this after less than a month of use...

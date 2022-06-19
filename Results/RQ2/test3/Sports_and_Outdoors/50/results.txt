@@ -1,0 +1,457 @@
+------- Category: Sports_and_Outdoors -------
+Found asin_id: B0007IS74G
+Shape:  (50, 7)
+Shape after:  (50, 7)
+
+
+Chosen product: B0007IS74G has 50 reviews - True, it has 50 reviews
+
+Nr of stopwords in review: ['36/69', '44/87', '51/105', '59/119', '38/78', '128/262', '39/75', '43/78', '111/192', '68/152', '19/42', '3/10', '59/123', '13/31', '50/93', '156/300', '12/34', '35/73', '156/315', '35/64', '89/158', '39/72', '65/121', '35/64', '72/146', '6/20', '47/103', '138/262', '679/1324', '39/80', '81/186', '89/162', '83/169', '32/54', '250/503', '137/253', '96/205', '59/107', '47/84', '107/205', '460/892', '108/232', '91/183', '54/100', '66/127', '9/17', '19/44', '82/157', '40/80', '25/56'], on average: 0.4961
+Nr of stopwords in summary: ['0/1', '0/3', '4/7', '6/9', '3/8', '0/8', '1/5', '7/11', '6/8', '0/4', '6/17', '1/3', '4/9', '0/2', '3/6', '0/2', '0/2', '3/6', '1/6', '8/11', '0/3', '1/2', '6/12', '4/8', '1/5', '1/4', '1/3', '4/7', '1/3', '0/2', '0/2', '3/5', '4/11', '0/2', '3/10', '3/7', '1/2', '8/14', '3/9', '0/1', '1/4', '3/7', '0/5', '4/11', '1/4', '1/3', '2/7', '3/4', '0/2', '0/1'], on average: 0.3034
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [2, 3, 4, 8]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   8  it s a wheel with a stick in the middle and ha...   0.666738
+
+step 1
+index added: 9
+percentage unclustered: 88.0%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [3, 7, 8, 9]
+			old information: 419, gain: 0.9634890205646567
+
+   ind                                             review  relevance
+0   8  it s a wheel with a stick in the middle and ha...   0.666738
+1   9  i ordered this ab wheel to add to my daily rot...   0.586869
+
+step 1
+index added: 10
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 86.0%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [3, 7, 8, 9]
+
+step 1
+index added: 12
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [2, 3, 8, 9, 12]
+			old information: 327, gain: 0.9564174330267893
+
+   ind                                             review  relevance
+0   8  it s a wheel with a stick in the middle and ha...   0.666738
+1  12  you would think it would be a simple enough th...   0.627436
+2   9  i ordered this ab wheel to add to my daily rot...   0.586869
+
+step 1
+index added: 13
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 84.0%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [3, 8, 12]
+			old information: 305, gain: 0.8839421613394216
+
+   ind                                             review  relevance
+0   8  it s a wheel with a stick in the middle and ha...   0.666738
+1  12  you would think it would be a simple enough th...   0.627436
+2  17  the ab wheel works fine but i hate the smell o...   0.591713
+3   9  i ordered this ab wheel to add to my daily rot...   0.586869
+
+step 1
+index added: 18
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [3, 7, 8, 19]
+			old information: 323, gain: 0.839781746031746
+
+   ind                                             review  relevance
+0   8  it s a wheel with a stick in the middle and ha...   0.666738
+1  12  you would think it would be a simple enough th...   0.627436
+2  19  the handle smells like human waste and after u...   0.605170
+3  17  the ab wheel works fine but i hate the smell o...   0.591713
+4   9  i ordered this ab wheel to add to my daily rot...   0.586869
+
+step 1
+index added: 20
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 88.0%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [3, 8, 19, 24]
+			old information: 556, gain: 0.9474728389230043
+
+   ind                                             review  relevance
+0   8  it s a wheel with a stick in the middle and ha...   0.666738
+1  12  you would think it would be a simple enough th...   0.627436
+2  19  the handle smells like human waste and after u...   0.605170
+3  24  this is really all anyone needs to get a treme...   0.601211
+4  17  the ab wheel works fine but i hate the smell o...   0.591713
+5   9  i ordered this ab wheel to add to my daily rot...   0.586869
+
+step 1
+index added: 25
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [8, 15, 22, 27]
+			old information: 1724, gain: 0.9495773741627914
+
+   ind                                             review  relevance
+0  27  i ve been using it for a couple weeks now and ...   0.774910
+1   8  it s a wheel with a stick in the middle and ha...   0.666738
+2  12  you would think it would be a simple enough th...   0.627436
+3  19  the handle smells like human waste and after u...   0.605170
+4  24  this is really all anyone needs to get a treme...   0.601211
+5  17  the ab wheel works fine but i hate the smell o...   0.591713
+6   9  i ordered this ab wheel to add to my daily rot...   0.586869
+
+step 1
+index added: 28
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [14, 15, 27, 28]
+			old information: 6659, gain: 0.992396891620025
+
+   ind                                             review  relevance
+0  28  let me start this off with my conclusion the v...   0.883701
+1  27  i ve been using it for a couple weeks now and ...   0.774910
+2   8  it s a wheel with a stick in the middle and ha...   0.666738
+3  12  you would think it would be a simple enough th...   0.627436
+4  19  the handle smells like human waste and after u...   0.605170
+5  24  this is really all anyone needs to get a treme...   0.601211
+6  17  the ab wheel works fine but i hate the smell o...   0.591713
+7   9  i ordered this ab wheel to add to my daily rot...   0.586869
+
+step 1
+index added: 29
+percentage unclustered: 62.0%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 62.0%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 62.0%
+
+	step 2
+
+		step 3
+		candidate index: 31 with core nodes: [5, 15, 18, 28]
+
+step 1
+index added: 32
+percentage unclustered: 60.0%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [5, 15, 18, 28]
+
+step 1
+index added: 33
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [5, 18, 28, 34]
+			old information: 9132, gain: 0.927669045488028
+
+   ind                                             review  relevance
+0  28  let me start this off with my conclusion the v...   0.883701
+1  34  first i read the review complaining about the ...   0.850810
+2  27  i ve been using it for a couple weeks now and ...   0.774910
+3   8  it s a wheel with a stick in the middle and ha...   0.666738
+4  12  you would think it would be a simple enough th...   0.627436
+5  19  the handle smells like human waste and after u...   0.605170
+6  24  this is really all anyone needs to get a treme...   0.601211
+7  17  the ab wheel works fine but i hate the smell o...   0.591713
+8   9  i ordered this ab wheel to add to my daily rot...   0.586869
+
+step 1
+index added: 35
+percentage unclustered: 66.0%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [5, 18, 28, 34]
+			old information: 4221, gain: 0.8675889328063241
+
+   ind                                             review  relevance
+0  28  let me start this off with my conclusion the v...   0.883701
+1  34  first i read the review complaining about the ...   0.850810
+2  27  i ve been using it for a couple weeks now and ...   0.774910
+3  35  at first i thought how can this work you just ...   0.733506
+4   8  it s a wheel with a stick in the middle and ha...   0.666738
+5  12  you would think it would be a simple enough th...   0.627436
+6  19  the handle smells like human waste and after u...   0.605170
+7  24  this is really all anyone needs to get a treme...   0.601211
+8  17  the ab wheel works fine but i hate the smell o...   0.591713
+9   9  i ordered this ab wheel to add to my daily rot...   0.586869
+
+step 1
+index added: 36
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [5, 14, 18, 28]
+			old information: 3800, gain: 0.8182687709230033
+
+    ind                                             review  relevance
+0   28  let me start this off with my conclusion the v...   0.883701
+1   34  first i read the review complaining about the ...   0.850810
+2   27  i ve been using it for a couple weeks now and ...   0.774910
+3   36  i am actually one of the many people that advo...   0.737422
+4   35  at first i thought how can this work you just ...   0.733506
+5    8  it s a wheel with a stick in the middle and ha...   0.666738
+6   12  you would think it would be a simple enough th...   0.627436
+7   19  the handle smells like human waste and after u...   0.605170
+8   24  this is really all anyone needs to get a treme...   0.601211
+9   17  the ab wheel works fine but i hate the smell o...   0.591713
+10   9  i ordered this ab wheel to add to my daily rot...   0.586869
+
+step 1
+index added: 37
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 68.0%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [5, 14, 18, 28]
+
+step 1
+index added: 42
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 62.0%
+
+	step 2
+
+		step 3
+		candidate index: 44 with core nodes: [5, 18, 28, 42]
+
+step 1
+index added: 45
+percentage unclustered: 62.0%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 48.0%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 48.0%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 56.0%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 64.0%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [5, 18, 34, 39]
+
+--- 438.3559949398041 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 90.0, 88.0, 88.0, 86.0, 80.0, 80.0, 86.0, 86.0, 86.0, 84.0, 84.0, 90.0, 90.0, 90.0, 90.0, 90.0, 88.0, 88.0, 90.0, 80.0, 70.0, 62.0, 62.0, 62.0, 60.0, 60.0, 70.0, 66.0, 70.0, 70.0, 70.0, 70.0, 70.0, 68.0, 68.0, 68.0, 62.0, 62.0, 48.0, 48.0, 56.0, 64.0], mean: 77.9167
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0         3  28   0.883701  let me start this off with my conclusion the v...
+1        49  34   0.850810  first i read the review complaining about the ...
+2        42  27   0.774910  i ve been using it for a couple weeks now and ...
+3        40  36   0.737422  i am actually one of the many people that advo...
+4        17  35   0.733506  at first i thought how can this work you just ...
+5        19   8   0.666738  it s a wheel with a stick in the middle and ha...
+6         6  12   0.627436  you would think it would be a simple enough th...
+7        23  19   0.605170  the handle smells like human waste and after u...
+8        39  24   0.601211  this is really all anyone needs to get a treme...
+9        20  17   0.591713  the ab wheel works fine but i hate the smell o...
+10        7   9   0.586869  i ordered this ab wheel to add to my daily rot...
