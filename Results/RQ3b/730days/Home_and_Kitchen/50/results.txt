@@ -1,0 +1,474 @@
+------- Category: Home_and_Kitchen -------
+Found asin_id: B00005B5Z0
+Shape:  (50, 7)
+
+
+Chosen product: B00005B5Z0 has 50 reviews - True, it has 50 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 94.0%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [2, 4, 6]
+		The relevance model has size: 2
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 2
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   6  pan lighter weight 1 5 oz older one older one ...   0.276202
+
+step 1
+index added: 7
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 92.0%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [2, 4, 6, 9]
+		The relevance model has size: 3
+		1 reviews removed from the relevance model, indices: [2]. 
+		It now has size: 2
+			old information: 94, gain: 0.9866115937900584
+
+   ind                                             review  relevance
+0   9  saucepan functions well reviewers n t like lig...   0.309447
+1   6  pan lighter weight 1 5 oz older one older one ...   0.276202
+
+step 1
+index added: 10
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 88.0%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [2, 3, 4, 6, 11]
+		The relevance model has size: 5
+		2 reviews removed from the relevance model, indices: [2, 4]. 
+		It now has size: 3
+			old information: 263, gain: 0.9576898326898327
+
+   ind                                             review  relevance
+0  11  n t bought revere ware copper bottom pans 30 y...   0.475048
+1   9  saucepan functions well reviewers n t like lig...   0.309447
+2   6  pan lighter weight 1 5 oz older one older one ...   0.276202
+
+step 1
+index added: 12
+percentage unclustered: 86.0%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [2, 3, 12]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [2, 3, 6]. 
+		It now has size: 2
+			old information: 122, gain: 0.9178451178451178
+
+   ind                                             review  relevance
+0  11  n t bought revere ware copper bottom pans 30 y...   0.475048
+1   9  saucepan functions well reviewers n t like lig...   0.309447
+2   6  pan lighter weight 1 5 oz older one older one ...   0.276202
+3  12  old set oh 30 years old made usa made heavy me...   0.204680
+
+step 1
+index added: 13
+percentage unclustered: 84.0%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [6, 11, 13]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [6, 9]. 
+		It now has size: 2
+			old information: 254, gain: 0.9560401523018346
+
+   ind                                             review  relevance
+0  11  n t bought revere ware copper bottom pans 30 y...   0.475048
+1  13  great many reviewers grew revere pots pans hou...   0.343189
+2   9  saucepan functions well reviewers n t like lig...   0.309447
+3   6  pan lighter weight 1 5 oz older one older one ...   0.276202
+4  12  old set oh 30 years old made usa made heavy me...   0.204680
+
+step 1
+index added: 14
+percentage unclustered: 82.0%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [4, 6, 11, 13, 14]
+		The relevance model has size: 5
+		1 reviews removed from the relevance model, indices: [4]. 
+		It now has size: 4
+			old information: 471, gain: 0.9605362379555928
+
+   ind                                             review  relevance
+0  11  n t bought revere ware copper bottom pans 30 y...   0.475048
+1  14  first revere ware 3 quart sauce pan still perf...   0.387128
+2  13  great many reviewers grew revere pots pans hou...   0.343189
+3   9  saucepan functions well reviewers n t like lig...   0.309447
+4   6  pan lighter weight 1 5 oz older one older one ...   0.276202
+5  12  old set oh 30 years old made usa made heavy me...   0.204680
+
+step 1
+index added: 15
+percentage unclustered: 78.0%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [4, 6, 9, 11, 14, 15]
+		The relevance model has size: 7
+		2 reviews removed from the relevance model, indices: [4, 6]. 
+		It now has size: 5
+			old information: 192, gain: 0.8658280922431866
+
+   ind                                             review  relevance
+0  11  n t bought revere ware copper bottom pans 30 y...   0.475048
+1  14  first revere ware 3 quart sauce pan still perf...   0.387128
+2  15  new old stove moment old saucepan busy boiling...   0.383896
+3  13  great many reviewers grew revere pots pans hou...   0.343189
+4   9  saucepan functions well reviewers n t like lig...   0.309447
+5   6  pan lighter weight 1 5 oz older one older one ...   0.276202
+6  12  old set oh 30 years old made usa made heavy me...   0.204680
+
+step 1
+index added: 16
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 82.0%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [6, 14, 15, 26]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [6, 9, 11, 13]. 
+		It now has size: 3
+			old information: 235, gain: 0.8081632653061225
+
+   ind                                             review  relevance
+0  26  seller quick purchase arrived excellent shape ...   0.519805
+1  11  n t bought revere ware copper bottom pans 30 y...   0.475048
+2  14  first revere ware 3 quart sauce pan still perf...   0.387128
+3  15  new old stove moment old saucepan busy boiling...   0.383896
+4  13  great many reviewers grew revere pots pans hou...   0.343189
+5   9  saucepan functions well reviewers n t like lig...   0.309447
+6   6  pan lighter weight 1 5 oz older one older one ...   0.276202
+7  12  old set oh 30 years old made usa made heavy me...   0.204680
+
+step 1
+index added: 27
+percentage unclustered: 76.0%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [3, 6, 11, 13, 14, 15, 17, 26]
+
+step 1
+index added: 28
+percentage unclustered: 76.0%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 78.0%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [11, 13, 21, 33]
+		The relevance model has size: 7
+		3 reviews removed from the relevance model, indices: [11, 12, 15]. 
+		It now has size: 4
+			old information: 124, gain: 0.7789661319073083
+
+   ind                                             review  relevance
+0  26  seller quick purchase arrived excellent shape ...   0.519805
+1  11  n t bought revere ware copper bottom pans 30 y...   0.475048
+2  14  first revere ware 3 quart sauce pan still perf...   0.387128
+3  15  new old stove moment old saucepan busy boiling...   0.383896
+4  13  great many reviewers grew revere pots pans hou...   0.343189
+5  33  older revereware pans great part reason re gre...   0.320695
+6   9  saucepan functions well reviewers n t like lig...   0.309447
+7   6  pan lighter weight 1 5 oz older one older one ...   0.276202
+8  12  old set oh 30 years old made usa made heavy me...   0.204680
+
+step 1
+index added: 34
+percentage unclustered: 76.0%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [11, 13, 33, 34]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [11, 13, 14]. 
+		It now has size: 3
+			old information: 103, gain: 0.9504807692307692
+
+   ind                                             review  relevance
+0  26  seller quick purchase arrived excellent shape ...   0.519805
+1  11  n t bought revere ware copper bottom pans 30 y...   0.475048
+2  14  first revere ware 3 quart sauce pan still perf...   0.387128
+3  15  new old stove moment old saucepan busy boiling...   0.383896
+4  34  least one reviews referred heat conductivity c...   0.346597
+5  13  great many reviewers grew revere pots pans hou...   0.343189
+6  33  older revereware pans great part reason re gre...   0.320695
+7   9  saucepan functions well reviewers n t like lig...   0.309447
+8   6  pan lighter weight 1 5 oz older one older one ...   0.276202
+9  12  old set oh 30 years old made usa made heavy me...   0.204680
+
+step 1
+index added: 35
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 58.0%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [21, 41, 43]
+		The relevance model has size: 5
+		2 reviews removed from the relevance model, indices: [26, 33]. 
+		It now has size: 3
+			old information: 100, gain: 0.8412698412698413
+
+    ind                                             review  relevance
+0   26  seller quick purchase arrived excellent shape ...   0.519805
+1   11  n t bought revere ware copper bottom pans 30 y...   0.475048
+2   14  first revere ware 3 quart sauce pan still perf...   0.387128
+3   15  new old stove moment old saucepan busy boiling...   0.383896
+4   34  least one reviews referred heat conductivity c...   0.346597
+5   13  great many reviewers grew revere pots pans hou...   0.343189
+6   43  ordered pan beacuse liked old revereware pan w...   0.332653
+7   33  older revereware pans great part reason re gre...   0.320695
+8    9  saucepan functions well reviewers n t like lig...   0.309447
+9    6  pan lighter weight 1 5 oz older one older one ...   0.276202
+10  12  old set oh 30 years old made usa made heavy me...   0.204680
+
+step 1
+index added: 44
+percentage unclustered: 58.0%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 58.0%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 58.0%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 52.0%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 52.0%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 52.0%
+
+	step 2
+
+--- 7.078450918197632 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 94.0, 94.0, 94.0, 92.0, 94.0, 88.0, 86.0, 84.0, 82.0, 78.0, 78.0, 78.0, 78.0, 80.0, 80.0, 80.0, 80.0, 80.0, 80.0, 80.0, 82.0, 76.0, 76.0, 78.0, 78.0, 84.0, 84.0, 78.0, 76.0, 70.0, 68.0, 68.0, 68.0, 68.0, 68.0, 66.0, 64.0, 58.0, 58.0, 58.0, 58.0, 52.0, 52.0, 52.0], mean: 77.5
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        39  26   0.519805  seller quick purchase arrived excellent shape ...
+1        36  11   0.475048  n t bought revere ware copper bottom pans 30 y...
+2        26  14   0.387128  first revere ware 3 quart sauce pan still perf...
+3        40  15   0.383896  new old stove moment old saucepan busy boiling...
+4        46  34   0.346597  least one reviews referred heat conductivity c...
+5        22  13   0.343189  great many reviewers grew revere pots pans hou...
+6         4  43   0.332653  ordered pan beacuse liked old revereware pan w...
+7        19  33   0.320695  older revereware pans great part reason re gre...
+8        32   9   0.309447  saucepan functions well reviewers n t like lig...
+9        30   6   0.276202  pan lighter weight 1 5 oz older one older one ...
+10       31  12   0.204680  old set oh 30 years old made usa made heavy me...

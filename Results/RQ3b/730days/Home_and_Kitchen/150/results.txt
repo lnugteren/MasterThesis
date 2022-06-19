@@ -1,0 +1,1287 @@
+------- Category: Home_and_Kitchen -------
+Found asin_id: B0153NEBPI
+Shape:  (150, 7)
+
+
+Chosen product: B0153NEBPI has 150 reviews - True, it has 150 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 98.0%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [2, 8, 9]
+		The relevance model has size: 2
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 2
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   9  really great mat kitchen elsewhere really comf...   0.297674
+
+step 1
+index added: 10
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 98.0%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 97.3333%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [2, 8, 9, 21]
+		The relevance model has size: 3
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 3
+			old information: 1, gain: 0.9952380952380953
+
+   ind                                             review  relevance
+0   9  really great mat kitchen elsewhere really comf...   0.297674
+1  21  mat great standing smells horrible like old mu...   0.210136
+
+step 1
+index added: 22
+percentage unclustered: 97.3333%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 97.3333%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 96.6667%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [2, 8, 9, 24]
+		The relevance model has size: 4
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 4
+			old information: 7, gain: 0.9590643274853801
+
+   ind                                             review  relevance
+0  24  sturdy mat comfortable stand liked much ended ...   0.316605
+1   9  really great mat kitchen elsewhere really comf...   0.297674
+2  21  mat great standing smells horrible like old mu...   0.210136
+
+step 1
+index added: 25
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 91.3333%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [11, 29, 32]
+		The relevance model has size: 7
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 7
+			old information: 3, gain: 0.975
+
+   ind                                             review  relevance
+0  24  sturdy mat comfortable stand liked much ended ...   0.316605
+1   9  really great mat kitchen elsewhere really comf...   0.297674
+2  32  put rug front kitchen sink works great s lot e...   0.222900
+3  21  mat great standing smells horrible like old mu...   0.210136
+
+step 1
+index added: 33
+percentage unclustered: 91.3333%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 91.3333%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 91.3333%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 91.3333%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 91.3333%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 91.3333%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 91.3333%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 90.6667%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 90.6667%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 90.6667%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 88.6667%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 88.6667%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 88.6667%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 88.6667%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 88.0%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [8, 28, 47]
+		The relevance model has size: 9
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 9
+			old information: 9, gain: 0.9945553539019963
+
+   ind                                             review  relevance
+0  47  looking anti fatigue mat kitchen looked many s...   0.411853
+1  24  sturdy mat comfortable stand liked much ended ...   0.316605
+2   9  really great mat kitchen elsewhere really comf...   0.297674
+3  32  put rug front kitchen sink works great s lot e...   0.222900
+4  21  mat great standing smells horrible like old mu...   0.210136
+
+step 1
+index added: 48
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 87.3333%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [11, 29, 32]
+
+step 1
+index added: 50
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 89.3333%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 92.0%
+
+	step 2
+
+		step 3
+		candidate index: 55 with core nodes: [8, 47, 55]
+		The relevance model has size: 10
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 10
+			old information: 13, gain: 0.9380952380952381
+
+   ind                                             review  relevance
+0  47  looking anti fatigue mat kitchen looked many s...   0.411853
+1  55  mat christmas gift daughter loves comfortable ...   0.366552
+2  24  sturdy mat comfortable stand liked much ended ...   0.316605
+3   9  really great mat kitchen elsewhere really comf...   0.297674
+4  32  put rug front kitchen sink works great s lot e...   0.222900
+5  21  mat great standing smells horrible like old mu...   0.210136
+
+step 1
+index added: 56
+percentage unclustered: 91.3333%
+
+	step 2
+
+		step 3
+		candidate index: 56 with core nodes: [8, 47, 55]
+
+step 1
+index added: 57
+percentage unclustered: 91.3333%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 91.3333%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 87.3333%
+
+	step 2
+
+		step 3
+		candidate index: 59 with core nodes: [43, 54, 59]
+		The relevance model has size: 13
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 13
+			old information: 3, gain: 0.9615384615384616
+
+   ind                                             review  relevance
+0  47  looking anti fatigue mat kitchen looked many s...   0.411853
+1  55  mat christmas gift daughter loves comfortable ...   0.366552
+2  24  sturdy mat comfortable stand liked much ended ...   0.316605
+3   9  really great mat kitchen elsewhere really comf...   0.297674
+4  59  comfortable durable love color stand spiky hee...   0.226219
+5  32  put rug front kitchen sink works great s lot e...   0.222900
+6  21  mat great standing smells horrible like old mu...   0.210136
+
+step 1
+index added: 60
+percentage unclustered: 87.3333%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 84.6667%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 84.0%
+
+	step 2
+
+		step 3
+		candidate index: 66 with core nodes: [3, 8, 24, 47, 49, 55, 66]
+		The relevance model has size: 16
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 16
+			old information: 15, gain: 0.8076923076923077
+
+   ind                                             review  relevance
+0  47  looking anti fatigue mat kitchen looked many s...   0.411853
+1  55  mat christmas gift daughter loves comfortable ...   0.366552
+2  66  really good quality mat provides cushion feet ...   0.362587
+3  24  sturdy mat comfortable stand liked much ended ...   0.316605
+4   9  really great mat kitchen elsewhere really comf...   0.297674
+5  59  comfortable durable love color stand spiky hee...   0.226219
+6  32  put rug front kitchen sink works great s lot e...   0.222900
+7  21  mat great standing smells horrible like old mu...   0.210136
+
+step 1
+index added: 67
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 82.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 75 with core nodes: [3, 8, 24, 47, 49, 55, 66]
+
+step 1
+index added: 76
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 81.33330000000001%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 80.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 79 with core nodes: [3, 8, 24, 47, 49, 55, 66]
+		The relevance model has size: 17
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 17
+			old information: 19, gain: 0.9177489177489178
+
+   ind                                             review  relevance
+0  47  looking anti fatigue mat kitchen looked many s...   0.411853
+1  55  mat christmas gift daughter loves comfortable ...   0.366552
+2  66  really good quality mat provides cushion feet ...   0.362587
+3  24  sturdy mat comfortable stand liked much ended ...   0.316605
+4   9  really great mat kitchen elsewhere really comf...   0.297674
+5  79  love stays put n t slide around tile floor s c...   0.271571
+6  59  comfortable durable love color stand spiky hee...   0.226219
+7  32  put rug front kitchen sink works great s lot e...   0.222900
+8  21  mat great standing smells horrible like old mu...   0.210136
+
+step 1
+index added: 80
+percentage unclustered: 84.6667%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 82.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 81 with core nodes: [2, 8, 9, 47, 66]
+
+step 1
+index added: 82
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 81.33330000000001%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 81.33330000000001%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 79.33330000000001%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 78.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 86 with core nodes: [3, 8, 24, 47, 49, 55, 66, 68, 79, 86]
+		The relevance model has size: 19
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 19
+			old information: 1, gain: 0.6666666666666666
+
+   ind                                             review  relevance
+0  47  looking anti fatigue mat kitchen looked many s...   0.411853
+1  55  mat christmas gift daughter loves comfortable ...   0.366552
+2  66  really good quality mat provides cushion feet ...   0.362587
+3  24  sturdy mat comfortable stand liked much ended ...   0.316605
+4   9  really great mat kitchen elsewhere really comf...   0.297674
+5  79  love stays put n t slide around tile floor s c...   0.271571
+6  59  comfortable durable love color stand spiky hee...   0.226219
+7  32  put rug front kitchen sink works great s lot e...   0.222900
+8  21  mat great standing smells horrible like old mu...   0.210136
+9  86                                    soft easy clean   0.134287
+
+		step 3
+		candidate index: 86 with core nodes: [2, 3, 8, 9, 24, 49, 55, 66, 68, 79, 86]
+		The relevance model has size: 20
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 20
+			old information: 3, gain: 0.0
+
+step 1
+index added: 87
+percentage unclustered: 78.0%
+
+	step 2
+
+		step 3
+		candidate index: 87 with core nodes: [8, 47, 49, 55, 66, 86, 87]
+		The relevance model has size: 21
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 21
+			old information: 5, gain: 0.8214285714285714
+
+    ind                                             review  relevance
+0   47  looking anti fatigue mat kitchen looked many s...   0.411853
+1   55  mat christmas gift daughter loves comfortable ...   0.366552
+2   66  really good quality mat provides cushion feet ...   0.362587
+3   24  sturdy mat comfortable stand liked much ended ...   0.316605
+4    9  really great mat kitchen elsewhere really comf...   0.297674
+5   79  love stays put n t slide around tile floor s c...   0.271571
+6   87    feet happy thick easy clean mats heavenly soles   0.238598
+7   59  comfortable durable love color stand spiky hee...   0.226219
+8   32  put rug front kitchen sink works great s lot e...   0.222900
+9   21  mat great standing smells horrible like old mu...   0.210136
+10  86                                    soft easy clean   0.134287
+
+		step 3
+		candidate index: 87 with core nodes: [2, 8, 9, 49, 55, 66, 86, 87]
+		The relevance model has size: 22
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 22
+			old information: 28, gain: 0.0
+
+step 1
+index added: 88
+percentage unclustered: 77.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 88 with core nodes: [2, 8, 9, 47, 66]
+
+		step 3
+		candidate index: 88 with core nodes: [8, 47, 49, 55, 66, 86, 87]
+
+step 1
+index added: 89
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 76.0%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 76.0%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 76.0%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 74.0%
+
+	step 2
+
+		step 3
+		candidate index: 94 with core nodes: [34, 43, 54]
+
+step 1
+index added: 95
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 95 with core nodes: [39, 43, 61, 95]
+		The relevance model has size: 25
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 25
+			old information: 1, gain: 0.6666666666666666
+
+    ind                                             review  relevance
+0   47  looking anti fatigue mat kitchen looked many s...   0.411853
+1   55  mat christmas gift daughter loves comfortable ...   0.366552
+2   66  really good quality mat provides cushion feet ...   0.362587
+3   24  sturdy mat comfortable stand liked much ended ...   0.316605
+4    9  really great mat kitchen elsewhere really comf...   0.297674
+5   95                                    great legs feet   0.283273
+6   79  love stays put n t slide around tile floor s c...   0.271571
+7   87    feet happy thick easy clean mats heavenly soles   0.238598
+8   59  comfortable durable love color stand spiky hee...   0.226219
+9   32  put rug front kitchen sink works great s lot e...   0.222900
+10  21  mat great standing smells horrible like old mu...   0.210136
+11  86                                    soft easy clean   0.134287
+
+step 1
+index added: 96
+percentage unclustered: 72.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 96 with core nodes: [49, 60, 86, 87, 96]
+		The relevance model has size: 27
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 27
+			old information: 0, gain: 1.0
+
+step 1
+index added: 97
+percentage unclustered: 72.0%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 72.0%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 71.33330000000001%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 69.33330000000001%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 69.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 102 with core nodes: [39, 43, 61, 95]
+
+step 1
+index added: 103
+percentage unclustered: 68.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 103 with core nodes: [43, 54, 61, 103]
+		The relevance model has size: 28
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 28
+			old information: 4, gain: 0.3333333333333333
+
+     ind                                             review  relevance
+0    47  looking anti fatigue mat kitchen looked many s...   0.411853
+1    55  mat christmas gift daughter loves comfortable ...   0.366552
+2    66  really good quality mat provides cushion feet ...   0.362587
+3    24  sturdy mat comfortable stand liked much ended ...   0.316605
+4     9  really great mat kitchen elsewhere really comf...   0.297674
+5    95                                    great legs feet   0.283273
+6    79  love stays put n t slide around tile floor s c...   0.271571
+7   103                        comfortable mats great size   0.264433
+8    87    feet happy thick easy clean mats heavenly soles   0.238598
+9    59  comfortable durable love color stand spiky hee...   0.226219
+10   32  put rug front kitchen sink works great s lot e...   0.222900
+11   21  mat great standing smells horrible like old mu...   0.210136
+12   86                                    soft easy clean   0.134287
+
+step 1
+index added: 104
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 69.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 105 with core nodes: [8, 47, 104, 105]
+		The relevance model has size: 30
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 30
+			old information: 14, gain: 0.9084967320261438
+
+     ind                                             review  relevance
+0   105  using mat kitchen stand sink dishes cut meats ...   0.417231
+1    47  looking anti fatigue mat kitchen looked many s...   0.411853
+2    55  mat christmas gift daughter loves comfortable ...   0.366552
+3    66  really good quality mat provides cushion feet ...   0.362587
+4    24  sturdy mat comfortable stand liked much ended ...   0.316605
+5     9  really great mat kitchen elsewhere really comf...   0.297674
+6    95                                    great legs feet   0.283273
+7    79  love stays put n t slide around tile floor s c...   0.271571
+8   103                        comfortable mats great size   0.264433
+9    87    feet happy thick easy clean mats heavenly soles   0.238598
+10   59  comfortable durable love color stand spiky hee...   0.226219
+11   32  put rug front kitchen sink works great s lot e...   0.222900
+12   21  mat great standing smells horrible like old mu...   0.210136
+13   86                                    soft easy clean   0.134287
+
+step 1
+index added: 106
+percentage unclustered: 68.66669999999999%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 68.66669999999999%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 68.66669999999999%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 67.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 110 with core nodes: [90, 100, 110]
+		The relevance model has size: 33
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 33
+			old information: 23, gain: 0.8654970760233918
+
+     ind                                             review  relevance
+0   105  using mat kitchen stand sink dishes cut meats ...   0.417231
+1    47  looking anti fatigue mat kitchen looked many s...   0.411853
+2    55  mat christmas gift daughter loves comfortable ...   0.366552
+3    66  really good quality mat provides cushion feet ...   0.362587
+4   110  received last night far good comfortable stand...   0.349723
+5    24  sturdy mat comfortable stand liked much ended ...   0.316605
+6     9  really great mat kitchen elsewhere really comf...   0.297674
+7    95                                    great legs feet   0.283273
+8    79  love stays put n t slide around tile floor s c...   0.271571
+9   103                        comfortable mats great size   0.264433
+10   87    feet happy thick easy clean mats heavenly soles   0.238598
+11   59  comfortable durable love color stand spiky hee...   0.226219
+12   32  put rug front kitchen sink works great s lot e...   0.222900
+13   21  mat great standing smells horrible like old mu...   0.210136
+14   86                                    soft easy clean   0.134287
+
+step 1
+index added: 111
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 111 with core nodes: [8, 47, 104, 105]
+
+step 1
+index added: 112
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 65.33330000000001%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 64.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 114 with core nodes: [49, 86, 96]
+		The relevance model has size: 34
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 34
+			old information: 2, gain: 0.9869281045751634
+
+     ind                                             review  relevance
+0   105  using mat kitchen stand sink dishes cut meats ...   0.417231
+1    47  looking anti fatigue mat kitchen looked many s...   0.411853
+2    55  mat christmas gift daughter loves comfortable ...   0.366552
+3    66  really good quality mat provides cushion feet ...   0.362587
+4   110  received last night far good comfortable stand...   0.349723
+5    24  sturdy mat comfortable stand liked much ended ...   0.316605
+6     9  really great mat kitchen elsewhere really comf...   0.297674
+7    95                                    great legs feet   0.283273
+8    79  love stays put n t slide around tile floor s c...   0.271571
+9   103                        comfortable mats great size   0.264433
+10   87    feet happy thick easy clean mats heavenly soles   0.238598
+11   59  comfortable durable love color stand spiky hee...   0.226219
+12   32  put rug front kitchen sink works great s lot e...   0.222900
+13   21  mat great standing smells horrible like old mu...   0.210136
+14   86                                    soft easy clean   0.134287
+15  114  soft foamy come expect mats found bed bath bey...   0.083361
+
+step 1
+index added: 115
+percentage unclustered: 64.66669999999999%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 64.66669999999999%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 64.66669999999999%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 63.3333%
+
+	step 2
+
+		step 3
+		candidate index: 119 with core nodes: [56, 88, 119]
+		The relevance model has size: 37
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 37
+			old information: 0, gain: 1.0
+
+step 1
+index added: 120
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 62.6667%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 62.6667%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 62.0%
+
+	step 2
+
+		step 3
+		candidate index: 123 with core nodes: [61, 95, 123]
+		The relevance model has size: 38
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 38
+			old information: 1, gain: 0.0
+
+step 1
+index added: 124
+percentage unclustered: 61.3333%
+
+	step 2
+
+		step 3
+		candidate index: 124 with core nodes: [43, 54, 103, 124]
+		The relevance model has size: 39
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 39
+			old information: 0, gain: 1.0
+
+step 1
+index added: 125
+percentage unclustered: 61.3333%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 61.3333%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 61.3333%
+
+	step 2
+
+step 1
+index added: 128
+percentage unclustered: 60.6667%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 62.0%
+
+	step 2
+
+step 1
+index added: 130
+percentage unclustered: 62.0%
+
+	step 2
+
+step 1
+index added: 131
+percentage unclustered: 62.0%
+
+	step 2
+
+step 1
+index added: 132
+percentage unclustered: 62.0%
+
+	step 2
+
+step 1
+index added: 133
+percentage unclustered: 62.0%
+
+	step 2
+
+step 1
+index added: 134
+percentage unclustered: 62.0%
+
+	step 2
+
+step 1
+index added: 135
+percentage unclustered: 61.3333%
+
+	step 2
+
+		step 3
+		candidate index: 135 with core nodes: [49, 86, 96]
+
+step 1
+index added: 136
+percentage unclustered: 61.3333%
+
+	step 2
+
+step 1
+index added: 137
+percentage unclustered: 60.6667%
+
+	step 2
+
+step 1
+index added: 138
+percentage unclustered: 58.6667%
+
+	step 2
+
+		step 3
+		candidate index: 138 with core nodes: [61, 95, 123]
+
+step 1
+index added: 139
+percentage unclustered: 62.6667%
+
+	step 2
+
+		step 3
+		candidate index: 139 with core nodes: [68, 79, 139]
+		The relevance model has size: 40
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 40
+			old information: 29, gain: 0.6813186813186813
+
+     ind                                             review  relevance
+0   139  great mat s soft easy clean move little bit ho...   0.437122
+1   105  using mat kitchen stand sink dishes cut meats ...   0.417231
+2    47  looking anti fatigue mat kitchen looked many s...   0.411853
+3    55  mat christmas gift daughter loves comfortable ...   0.366552
+4    66  really good quality mat provides cushion feet ...   0.362587
+5   110  received last night far good comfortable stand...   0.349723
+6    24  sturdy mat comfortable stand liked much ended ...   0.316605
+7     9  really great mat kitchen elsewhere really comf...   0.297674
+8    95                                    great legs feet   0.283273
+9    79  love stays put n t slide around tile floor s c...   0.271571
+10  103                        comfortable mats great size   0.264433
+11   87    feet happy thick easy clean mats heavenly soles   0.238598
+12   59  comfortable durable love color stand spiky hee...   0.226219
+13   32  put rug front kitchen sink works great s lot e...   0.222900
+14   21  mat great standing smells horrible like old mu...   0.210136
+15   86                                    soft easy clean   0.134287
+16  114  soft foamy come expect mats found bed bath bey...   0.083361
+
+step 1
+index added: 140
+percentage unclustered: 62.0%
+
+	step 2
+
+step 1
+index added: 141
+percentage unclustered: 61.3333%
+
+	step 2
+
+step 1
+index added: 142
+percentage unclustered: 59.3333%
+
+	step 2
+
+step 1
+index added: 143
+percentage unclustered: 59.3333%
+
+	step 2
+
+step 1
+index added: 144
+percentage unclustered: 59.3333%
+
+	step 2
+
+step 1
+index added: 145
+percentage unclustered: 59.3333%
+
+	step 2
+
+step 1
+index added: 146
+percentage unclustered: 59.3333%
+
+	step 2
+
+step 1
+index added: 147
+percentage unclustered: 56.6667%
+
+	step 2
+
+step 1
+index added: 148
+percentage unclustered: 59.3333%
+
+	step 2
+
+step 1
+index added: 149
+percentage unclustered: 58.6667%
+
+	step 2
+
+--- 68.83803272247314 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 98.0, 98.0, 98.0, 98.0, 98.0, 98.0, 98.0, 98.0, 98.0, 98.0, 98.0, 98.0, 97.3333, 97.3333, 97.3333, 96.6667, 96.6667, 96.6667, 96.6667, 96.6667, 94.0, 92.0, 92.0, 91.3333, 91.3333, 91.3333, 91.3333, 91.3333, 91.3333, 91.3333, 91.3333, 90.6667, 90.6667, 90.6667, 88.6667, 88.6667, 88.6667, 88.6667, 88.0, 88.0, 87.3333, 90.0, 90.0, 90.0, 90.0, 89.3333, 92.0, 91.3333, 91.3333, 91.3333, 87.3333, 87.3333, 86.6667, 86.6667, 86.6667, 86.6667, 84.6667, 84.0, 84.0, 84.0, 84.0, 84.0, 84.0, 83.33330000000001, 83.33330000000001, 83.33330000000001, 82.66669999999999, 82.0, 82.0, 81.33330000000001, 80.66669999999999, 84.6667, 82.66669999999999, 82.0, 81.33330000000001, 81.33330000000001, 79.33330000000001, 78.66669999999999, 78.0, 77.33330000000001, 78.0, 76.66669999999999, 76.0, 76.0, 76.0, 74.0, 73.33330000000001, 72.66669999999999, 72.0, 72.0, 71.33330000000001, 69.33330000000001, 70.0, 69.33330000000001, 68.66669999999999, 68.0, 69.33330000000001, 68.66669999999999, 68.66669999999999, 68.66669999999999, 68.0, 67.33330000000001, 66.66669999999999, 66.0, 65.33330000000001, 64.66669999999999, 64.66669999999999, 64.66669999999999, 64.66669999999999, 64.0, 63.3333, 63.3333, 62.6667, 62.6667, 62.0, 61.3333, 61.3333, 61.3333, 61.3333, 60.6667, 62.0, 62.0, 62.0, 62.0, 62.0, 62.0, 61.3333, 61.3333, 60.6667, 58.6667, 62.6667, 62.0, 61.3333, 59.3333, 59.3333, 59.3333, 59.3333, 59.3333, 56.6667, 59.3333, 58.6667], mean: 80.036
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0       139  139   0.437122  great mat s soft easy clean move little bit ho...
+1       126  105   0.417231  using mat kitchen stand sink dishes cut meats ...
+2        92   47   0.411853  looking anti fatigue mat kitchen looked many s...
+3        24   55   0.366552  mat christmas gift daughter loves comfortable ...
+4        36   66   0.362587  really good quality mat provides cushion feet ...
+5       128  110   0.349723  received last night far good comfortable stand...
+6       131   24   0.316605  sturdy mat comfortable stand liked much ended ...
+7        19    9   0.297674  really great mat kitchen elsewhere really comf...
+8        98   95   0.283273                                    great legs feet
+9       120   79   0.271571  love stays put n t slide around tile floor s c...
+10      100  103   0.264433                        comfortable mats great size
+11       84   87   0.238598    feet happy thick easy clean mats heavenly soles
+12       74   59   0.226219  comfortable durable love color stand spiky hee...
+13       16   32   0.222900  put rug front kitchen sink works great s lot e...
+14      114   21   0.210136  mat great standing smells horrible like old mu...
+15       83   86   0.134287                                    soft easy clean
+16       71  114   0.083361  soft foamy come expect mats found bed bath bey...

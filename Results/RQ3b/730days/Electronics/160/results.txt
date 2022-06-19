@@ -1,0 +1,1303 @@
+------- Category: Electronics -------
+Found asin_id: B000062VUQ
+Shape:  (160, 7)
+
+
+Chosen product: B000062VUQ has 160 reviews - True, it has 160 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 98.125%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [2, 6, 7]
+		The relevance model has size: 2
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 2
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   7  expected good sound got great sound sound cris...   0.264887
+
+step 1
+index added: 8
+percentage unclustered: 98.125%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 98.125%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 100.0%
+
+step 1
+index added: 13
+percentage unclustered: 98.125%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [7, 8, 13]
+		The relevance model has size: 4
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 4
+			old information: 4, gain: 0.9997544505831799
+
+   ind                                             review  relevance
+0   7  expected good sound got great sound sound cris...   0.264887
+1  13  amazing speakers hearing immediately understoo...   0.220370
+
+step 1
+index added: 14
+percentage unclustered: 98.125%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 98.125%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 98.125%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 98.125%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 95.625%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [11, 12, 13, 18]
+		The relevance model has size: 7
+		1 reviews removed from the relevance model, indices: [2]. 
+		It now has size: 6
+			old information: 39, gain: 0.8458498023715415
+
+   ind                                             review  relevance
+0  18  musician really pay attention quality detail s...   0.350435
+1   7  expected good sound got great sound sound cris...   0.264887
+2  13  amazing speakers hearing immediately understoo...   0.220370
+
+step 1
+index added: 19
+percentage unclustered: 95.0%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [11, 12, 13, 18, 19]
+		The relevance model has size: 7
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 7
+			old information: 485, gain: 0.9758706467661692
+
+   ind                                             review  relevance
+0  19  bought set one workstation liked much purchase...   0.398571
+1  18  musician really pay attention quality detail s...   0.350435
+2   7  expected good sound got great sound sound cris...   0.264887
+3  13  amazing speakers hearing immediately understoo...   0.220370
+
+step 1
+index added: 20
+percentage unclustered: 93.75%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [11, 12, 13, 18, 19]
+
+step 1
+index added: 21
+percentage unclustered: 91.875%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [0, 12, 13, 19]
+		The relevance model has size: 9
+		1 reviews removed from the relevance model, indices: [0]. 
+		It now has size: 8
+			old information: 220, gain: 0.9770618287978313
+
+   ind                                             review  relevance
+0  19  bought set one workstation liked much purchase...   0.398571
+1  18  musician really pay attention quality detail s...   0.350435
+2  21  edit m updating 5 stars innards cheaper lighte...   0.310680
+3   7  expected good sound got great sound sound cris...   0.264887
+4  13  amazing speakers hearing immediately understoo...   0.220370
+
+step 1
+index added: 22
+percentage unclustered: 91.25%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [0, 12, 13, 19]
+		The relevance model has size: 10
+		1 reviews removed from the relevance model, indices: [0]. 
+		It now has size: 9
+			old information: 1035, gain: 0.9860709238947581
+
+   ind                                             review  relevance
+0  19  bought set one workstation liked much purchase...   0.398571
+1  22  klipsch promedia 2 1 vs logitech z623 n nthis ...   0.393664
+2  18  musician really pay attention quality detail s...   0.350435
+3  21  edit m updating 5 stars innards cheaper lighte...   0.310680
+4   7  expected good sound got great sound sound cris...   0.264887
+5  13  amazing speakers hearing immediately understoo...   0.220370
+
+step 1
+index added: 23
+percentage unclustered: 91.25%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 89.375%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [2, 7, 18, 24]
+		The relevance model has size: 11
+		1 reviews removed from the relevance model, indices: [2]. 
+		It now has size: 10
+			old information: 804, gain: 0.9412924424972617
+
+   ind                                             review  relevance
+0  24  unusual review really hated give 2 stars klips...   0.465159
+1  19  bought set one workstation liked much purchase...   0.398571
+2  22  klipsch promedia 2 1 vs logitech z623 n nthis ...   0.393664
+3  18  musician really pay attention quality detail s...   0.350435
+4  21  edit m updating 5 stars innards cheaper lighte...   0.310680
+5   7  expected good sound got great sound sound cris...   0.264887
+6  13  amazing speakers hearing immediately understoo...   0.220370
+
+step 1
+index added: 25
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 25 with core nodes: [2, 7, 18, 24]
+
+step 1
+index added: 26
+percentage unclustered: 89.375%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 91.25%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 91.25%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 91.25%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 90.625%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [2, 7, 11, 13, 18, 22, 24]
+
+step 1
+index added: 31
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 93.75%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 93.125%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [2, 7, 11, 12, 13, 18, 19, 22, 41]
+		The relevance model has size: 12
+		4 reviews removed from the relevance model, indices: [2, 6, 8, 11]. 
+		It now has size: 8
+			old information: 372, gain: 0.8982216142270861
+
+   ind                                             review  relevance
+0  24  unusual review really hated give 2 stars klips...   0.465159
+1  19  bought set one workstation liked much purchase...   0.398571
+2  22  klipsch promedia 2 1 vs logitech z623 n nthis ...   0.393664
+3  18  musician really pay attention quality detail s...   0.350435
+4  41  ve speakers years sound absolutely great excel...   0.347047
+5  21  edit m updating 5 stars innards cheaper lighte...   0.310680
+6   7  expected good sound got great sound sound cris...   0.264887
+7  13  amazing speakers hearing immediately understoo...   0.220370
+
+step 1
+index added: 42
+percentage unclustered: 93.125%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 91.25%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [13, 31, 32, 43]
+		The relevance model has size: 11
+		4 reviews removed from the relevance model, indices: [7, 12, 19, 22]. 
+		It now has size: 7
+			old information: 8376, gain: 0.9849348453645332
+
+   ind                                             review  relevance
+0  43  m big fuss comes sound quality requirements mu...   0.664048
+1  24  unusual review really hated give 2 stars klips...   0.465159
+2  19  bought set one workstation liked much purchase...   0.398571
+3  22  klipsch promedia 2 1 vs logitech z623 n nthis ...   0.393664
+4  18  musician really pay attention quality detail s...   0.350435
+5  41  ve speakers years sound absolutely great excel...   0.347047
+6  21  edit m updating 5 stars innards cheaper lighte...   0.310680
+7   7  expected good sound got great sound sound cris...   0.264887
+8  13  amazing speakers hearing immediately understoo...   0.220370
+
+step 1
+index added: 44
+percentage unclustered: 89.375%
+
+	step 2
+
+		step 3
+		candidate index: 44 with core nodes: [13, 31, 43, 44]
+		The relevance model has size: 8
+		2 reviews removed from the relevance model, indices: [13, 21]. 
+		It now has size: 6
+			old information: 1728, gain: 0.8198310916484204
+
+   ind                                             review  relevance
+0  43  m big fuss comes sound quality requirements mu...   0.664048
+1  44  initially impressed good reviews bought withou...   0.523773
+2  24  unusual review really hated give 2 stars klips...   0.465159
+3  19  bought set one workstation liked much purchase...   0.398571
+4  22  klipsch promedia 2 1 vs logitech z623 n nthis ...   0.393664
+5  18  musician really pay attention quality detail s...   0.350435
+6  41  ve speakers years sound absolutely great excel...   0.347047
+7  21  edit m updating 5 stars innards cheaper lighte...   0.310680
+8   7  expected good sound got great sound sound cris...   0.264887
+9  13  amazing speakers hearing immediately understoo...   0.220370
+
+step 1
+index added: 45
+percentage unclustered: 85.625%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [13, 31, 43, 44]
+
+step 1
+index added: 46
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [13, 31, 43, 44]
+		The relevance model has size: 8
+		2 reviews removed from the relevance model, indices: [13, 18]. 
+		It now has size: 6
+			old information: 583, gain: 0.758592132505176
+
+    ind                                             review  relevance
+0   43  m big fuss comes sound quality requirements mu...   0.664048
+1   46  really love speakers ve bought 3 sets them n n...   0.552994
+2   44  initially impressed good reviews bought withou...   0.523773
+3   24  unusual review really hated give 2 stars klips...   0.465159
+4   19  bought set one workstation liked much purchase...   0.398571
+5   22  klipsch promedia 2 1 vs logitech z623 n nthis ...   0.393664
+6   18  musician really pay attention quality detail s...   0.350435
+7   41  ve speakers years sound absolutely great excel...   0.347047
+8   21  edit m updating 5 stars innards cheaper lighte...   0.310680
+9    7  expected good sound got great sound sound cris...   0.264887
+10  13  amazing speakers hearing immediately understoo...   0.220370
+
+step 1
+index added: 47
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 83.125%
+
+	step 2
+
+		step 3
+		candidate index: 48 with core nodes: [13, 40, 43, 44, 46]
+
+step 1
+index added: 49
+percentage unclustered: 83.125%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 88.125%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 88.125%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 86.25%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 86.25%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 86.25%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 86.25%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 86.25%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 85.625%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 85.625%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 59 with core nodes: [40, 43, 46, 59]
+		The relevance model has size: 8
+		4 reviews removed from the relevance model, indices: [24, 31, 40, 43]. 
+		It now has size: 4
+			old information: 8142, gain: 0.927061310782241
+
+    ind                                             review  relevance
+0   43  m big fuss comes sound quality requirements mu...   0.664048
+1   59  promedia 2 1 klipsch since 2002 still selling ...   0.575781
+2   46  really love speakers ve bought 3 sets them n n...   0.552994
+3   44  initially impressed good reviews bought withou...   0.523773
+4   24  unusual review really hated give 2 stars klips...   0.465159
+5   19  bought set one workstation liked much purchase...   0.398571
+6   22  klipsch promedia 2 1 vs logitech z623 n nthis ...   0.393664
+7   18  musician really pay attention quality detail s...   0.350435
+8   41  ve speakers years sound absolutely great excel...   0.347047
+9   21  edit m updating 5 stars innards cheaper lighte...   0.310680
+10   7  expected good sound got great sound sound cris...   0.264887
+11  13  amazing speakers hearing immediately understoo...   0.220370
+
+step 1
+index added: 60
+percentage unclustered: 85.625%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 85.625%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 89.375%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 89.375%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 85.625%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 85.625%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 83.125%
+
+	step 2
+
+		step 3
+		candidate index: 66 with core nodes: [0, 43, 46, 59]
+		The relevance model has size: 7
+		3 reviews removed from the relevance model, indices: [0, 41, 44]. 
+		It now has size: 4
+			old information: 146, gain: 0.6860215053763441
+
+    ind                                             review  relevance
+0   43  m big fuss comes sound quality requirements mu...   0.664048
+1   59  promedia 2 1 klipsch since 2002 still selling ...   0.575781
+2   46  really love speakers ve bought 3 sets them n n...   0.552994
+3   44  initially impressed good reviews bought withou...   0.523773
+4   66  sounded great till n t lasted 6 months poof no...   0.506628
+5   24  unusual review really hated give 2 stars klips...   0.465159
+6   19  bought set one workstation liked much purchase...   0.398571
+7   22  klipsch promedia 2 1 vs logitech z623 n nthis ...   0.393664
+8   18  musician really pay attention quality detail s...   0.350435
+9   41  ve speakers years sound absolutely great excel...   0.347047
+10  21  edit m updating 5 stars innards cheaper lighte...   0.310680
+11   7  expected good sound got great sound sound cris...   0.264887
+12  13  amazing speakers hearing immediately understoo...   0.220370
+
+step 1
+index added: 67
+percentage unclustered: 81.25%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 80.625%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 79.375%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 79.375%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 79.375%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 79.375%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 78.125%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 78.125%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 78.125%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 77.5%
+
+	step 2
+
+		step 3
+		candidate index: 82 with core nodes: [13, 43, 44, 59]
+
+step 1
+index added: 83
+percentage unclustered: 76.875%
+
+	step 2
+
+		step 3
+		candidate index: 83 with core nodes: [43, 44, 59, 83]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [32, 59, 66]. 
+		It now has size: 3
+			old information: 15456, gain: 0.9595789473684211
+
+    ind                                             review  relevance
+0   83  blew ridiculous amount time listening store re...   0.666023
+1   43  m big fuss comes sound quality requirements mu...   0.664048
+2   59  promedia 2 1 klipsch since 2002 still selling ...   0.575781
+3   46  really love speakers ve bought 3 sets them n n...   0.552994
+4   44  initially impressed good reviews bought withou...   0.523773
+5   66  sounded great till n t lasted 6 months poof no...   0.506628
+6   24  unusual review really hated give 2 stars klips...   0.465159
+7   19  bought set one workstation liked much purchase...   0.398571
+8   22  klipsch promedia 2 1 vs logitech z623 n nthis ...   0.393664
+9   18  musician really pay attention quality detail s...   0.350435
+10  41  ve speakers years sound absolutely great excel...   0.347047
+11  21  edit m updating 5 stars innards cheaper lighte...   0.310680
+12   7  expected good sound got great sound sound cris...   0.264887
+13  13  amazing speakers hearing immediately understoo...   0.220370
+
+step 1
+index added: 84
+percentage unclustered: 76.875%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 76.875%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 76.875%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 76.875%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 76.875%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 76.875%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 76.875%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 76.875%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 76.875%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 76.875%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 76.875%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 76.875%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 75.625%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 75.0%
+
+	step 2
+
+		step 3
+		candidate index: 97 with core nodes: [43, 44, 59, 83]
+
+step 1
+index added: 98
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 79.375%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 79.375%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 79.375%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 79.375%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 78.75%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 78.75%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 79.375%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 79.375%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 79.375%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 76.875%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 75.0%
+
+	step 2
+
+		step 3
+		candidate index: 114 with core nodes: [24, 64, 114]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [24, 44, 46]. 
+		It now has size: 3
+			old information: 638, gain: 0.7700900900900901
+
+     ind                                             review  relevance
+0    83  blew ridiculous amount time listening store re...   0.666023
+1    43  m big fuss comes sound quality requirements mu...   0.664048
+2    59  promedia 2 1 klipsch since 2002 still selling ...   0.575781
+3    46  really love speakers ve bought 3 sets them n n...   0.552994
+4    44  initially impressed good reviews bought withou...   0.523773
+5    66  sounded great till n t lasted 6 months poof no...   0.506628
+6    24  unusual review really hated give 2 stars klips...   0.465159
+7    19  bought set one workstation liked much purchase...   0.398571
+8    22  klipsch promedia 2 1 vs logitech z623 n nthis ...   0.393664
+9   114  bought best buy looking speakers best buy circ...   0.356323
+10   18  musician really pay attention quality detail s...   0.350435
+11   41  ve speakers years sound absolutely great excel...   0.347047
+12   21  edit m updating 5 stars innards cheaper lighte...   0.310680
+13    7  expected good sound got great sound sound cris...   0.264887
+14   13  amazing speakers hearing immediately understoo...   0.220370
+
+step 1
+index added: 115
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 74.375%
+
+	step 2
+
+		step 3
+		candidate index: 116 with core nodes: [43, 83, 110, 116]
+		The relevance model has size: 5
+		2 reviews removed from the relevance model, indices: [43, 64]. 
+		It now has size: 3
+			old information: 404, gain: 0.8721518987341772
+
+     ind                                             review  relevance
+0    83  blew ridiculous amount time listening store re...   0.666023
+1    43  m big fuss comes sound quality requirements mu...   0.664048
+2   116  3 pairs klipsch flooring standing speakers ksf...   0.650255
+3    59  promedia 2 1 klipsch since 2002 still selling ...   0.575781
+4    46  really love speakers ve bought 3 sets them n n...   0.552994
+5    44  initially impressed good reviews bought withou...   0.523773
+6    66  sounded great till n t lasted 6 months poof no...   0.506628
+7    24  unusual review really hated give 2 stars klips...   0.465159
+8    19  bought set one workstation liked much purchase...   0.398571
+9    22  klipsch promedia 2 1 vs logitech z623 n nthis ...   0.393664
+10  114  bought best buy looking speakers best buy circ...   0.356323
+11   18  musician really pay attention quality detail s...   0.350435
+12   41  ve speakers years sound absolutely great excel...   0.347047
+13   21  edit m updating 5 stars innards cheaper lighte...   0.310680
+14    7  expected good sound got great sound sound cris...   0.264887
+15   13  amazing speakers hearing immediately understoo...   0.220370
+
+step 1
+index added: 117
+percentage unclustered: 75.625%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 75.625%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 71.875%
+
+	step 2
+
+		step 3
+		candidate index: 119 with core nodes: [43, 83, 110, 116]
+
+step 1
+index added: 120
+percentage unclustered: 71.875%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 69.375%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 66.25%
+
+	step 2
+
+		step 3
+		candidate index: 122 with core nodes: [43, 59, 83, 110, 116, 122]
+		The relevance model has size: 6
+		1 reviews removed from the relevance model, indices: [43]. 
+		It now has size: 5
+			old information: 20709, gain: 0.9650431453573165
+
+     ind                                             review  relevance
+0    83  blew ridiculous amount time listening store re...   0.666023
+1    43  m big fuss comes sound quality requirements mu...   0.664048
+2   116  3 pairs klipsch flooring standing speakers ksf...   0.650255
+3   122  since moved ve suffer s exaggeration listening...   0.630917
+4    59  promedia 2 1 klipsch since 2002 still selling ...   0.575781
+5    46  really love speakers ve bought 3 sets them n n...   0.552994
+6    44  initially impressed good reviews bought withou...   0.523773
+7    66  sounded great till n t lasted 6 months poof no...   0.506628
+8    24  unusual review really hated give 2 stars klips...   0.465159
+9    19  bought set one workstation liked much purchase...   0.398571
+10   22  klipsch promedia 2 1 vs logitech z623 n nthis ...   0.393664
+11  114  bought best buy looking speakers best buy circ...   0.356323
+12   18  musician really pay attention quality detail s...   0.350435
+13   41  ve speakers years sound absolutely great excel...   0.347047
+14   21  edit m updating 5 stars innards cheaper lighte...   0.310680
+15    7  expected good sound got great sound sound cris...   0.264887
+16   13  amazing speakers hearing immediately understoo...   0.220370
+
+step 1
+index added: 123
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 64.375%
+
+	step 2
+
+step 1
+index added: 128
+percentage unclustered: 66.875%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 66.875%
+
+	step 2
+
+step 1
+index added: 130
+percentage unclustered: 66.875%
+
+	step 2
+
+step 1
+index added: 131
+percentage unclustered: 66.875%
+
+	step 2
+
+step 1
+index added: 132
+percentage unclustered: 66.875%
+
+	step 2
+
+step 1
+index added: 133
+percentage unclustered: 66.875%
+
+	step 2
+
+step 1
+index added: 134
+percentage unclustered: 66.875%
+
+	step 2
+
+step 1
+index added: 135
+percentage unclustered: 66.875%
+
+	step 2
+
+step 1
+index added: 136
+percentage unclustered: 66.875%
+
+	step 2
+
+step 1
+index added: 137
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 138
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 139
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 140
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 141
+percentage unclustered: 68.75%
+
+	step 2
+
+step 1
+index added: 142
+percentage unclustered: 64.375%
+
+	step 2
+
+step 1
+index added: 143
+percentage unclustered: 63.75%
+
+	step 2
+
+		step 3
+		candidate index: 143 with core nodes: [43, 59, 83, 110, 116, 122]
+
+step 1
+index added: 144
+percentage unclustered: 63.75%
+
+	step 2
+
+step 1
+index added: 145
+percentage unclustered: 63.75%
+
+	step 2
+
+step 1
+index added: 146
+percentage unclustered: 64.375%
+
+	step 2
+
+step 1
+index added: 147
+percentage unclustered: 64.375%
+
+	step 2
+
+step 1
+index added: 148
+percentage unclustered: 64.375%
+
+	step 2
+
+step 1
+index added: 149
+percentage unclustered: 67.5%
+
+	step 2
+
+		step 3
+		candidate index: 149 with core nodes: [59, 83, 110, 116, 122]
+
+step 1
+index added: 150
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 151
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 152
+percentage unclustered: 65.0%
+
+	step 2
+
+		step 3
+		candidate index: 152 with core nodes: [59, 83, 110, 116, 122]
+
+step 1
+index added: 153
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 154
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 155
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 156
+percentage unclustered: 61.25%
+
+	step 2
+
+step 1
+index added: 157
+percentage unclustered: 60.625%
+
+	step 2
+
+step 1
+index added: 158
+percentage unclustered: 60.625%
+
+	step 2
+
+step 1
+index added: 159
+percentage unclustered: 60.625%
+
+	step 2
+
+--- 3220.222527742386 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 98.125, 98.125, 98.125, 100.0, 100.0, 100.0, 98.125, 98.125, 98.125, 98.125, 98.125, 95.625, 95.0, 93.75, 91.875, 91.25, 91.25, 89.375, 90.0, 89.375, 91.25, 91.25, 91.25, 90.625, 90.625, 90.625, 90.625, 90.625, 90.625, 90.625, 90.625, 90.625, 90.625, 93.75, 93.125, 93.125, 91.25, 89.375, 85.625, 85.0, 85.0, 83.125, 83.125, 88.125, 88.125, 86.25, 86.25, 86.25, 86.25, 86.25, 85.625, 85.625, 85.0, 85.625, 85.625, 89.375, 89.375, 85.625, 85.625, 83.125, 81.25, 80.625, 80.0, 80.0, 80.0, 80.0, 79.375, 79.375, 79.375, 79.375, 80.0, 80.0, 78.125, 78.125, 78.125, 77.5, 76.875, 76.875, 76.875, 76.875, 76.875, 76.875, 76.875, 76.875, 76.875, 76.875, 76.875, 76.875, 76.875, 75.625, 75.0, 76.25, 76.25, 76.25, 76.25, 76.25, 76.25, 79.375, 79.375, 79.375, 79.375, 78.75, 78.75, 79.375, 79.375, 79.375, 76.875, 75.0, 75.0, 74.375, 75.625, 75.625, 71.875, 71.875, 69.375, 66.25, 66.25, 66.25, 65.0, 65.0, 64.375, 66.875, 66.875, 66.875, 66.875, 66.875, 66.875, 66.875, 66.875, 66.875, 66.25, 66.25, 66.25, 66.25, 68.75, 64.375, 63.75, 63.75, 63.75, 64.375, 64.375, 64.375, 67.5, 67.5, 67.5, 65.0, 65.0, 65.0, 65.0, 61.25, 60.625, 60.625, 60.625], mean: 80.2769
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0        13   83   0.666023  blew ridiculous amount time listening store re...
+1       111   43   0.664048  m big fuss comes sound quality requirements mu...
+2       151  116   0.650255  3 pairs klipsch flooring standing speakers ksf...
+3        24  122   0.630917  since moved ve suffer s exaggeration listening...
+4       128   59   0.575781  promedia 2 1 klipsch since 2002 still selling ...
+5        68   46   0.552994  really love speakers ve bought 3 sets them n n...
+6        18   44   0.523773  initially impressed good reviews bought withou...
+7        31   66   0.506628  sounded great till n t lasted 6 months poof no...
+8        65   24   0.465159  unusual review really hated give 2 stars klips...
+9        53   19   0.398571  bought set one workstation liked much purchase...
+10       61   22   0.393664  klipsch promedia 2 1 vs logitech z623 n nthis ...
+11       90  114   0.356323  bought best buy looking speakers best buy circ...
+12       59   18   0.350435  musician really pay attention quality detail s...
+13      109   41   0.347047  ve speakers years sound absolutely great excel...
+14        4   21   0.310680  edit m updating 5 stars innards cheaper lighte...
+15       55    7   0.264887  expected good sound got great sound sound cris...
+16       72   13   0.220370  amazing speakers hearing immediately understoo...

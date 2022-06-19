@@ -1,0 +1,450 @@
+------- Category: Electronics -------
+Found asin_id: B00003G1RG
+Shape:  (50, 7)
+
+
+Chosen product: B00003G1RG has 50 reviews - True, it has 50 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [0, 5, 6, 7]
+		The relevance model has size: 3
+		1 reviews removed from the relevance model, indices: [0]. 
+		It now has size: 2
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   7  bought card nikon coolpix 2500 heard cards wor...   0.379253
+
+step 1
+index added: 8
+percentage unclustered: 88.0%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [0, 5, 6, 7]
+
+step 1
+index added: 9
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [2, 6, 7, 8, 9]
+		The relevance model has size: 5
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 5
+			old information: 0, gain: 1.0
+
+step 1
+index added: 10
+percentage unclustered: 88.0%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [2, 6, 7, 10]
+		The relevance model has size: 6
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 6
+			old information: 16, gain: 0.9896103896103896
+
+   ind                                             review  relevance
+0  10  bought card camera manufacturers pretty darn c...   0.382952
+1   7  bought card nikon coolpix 2500 heard cards wor...   0.379253
+
+step 1
+index added: 11
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 86.0%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [6, 7, 10, 12]
+		The relevance model has size: 7
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 7
+			old information: 38, gain: 0.9911173445535297
+
+   ind                                             review  relevance
+0  12  m happy owner nikon s new addition advanced am...   0.482879
+1  10  bought card camera manufacturers pretty darn c...   0.382952
+2   7  bought card nikon coolpix 2500 heard cards wor...   0.379253
+
+step 1
+index added: 13
+percentage unclustered: 82.0%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [5, 7, 12, 13]
+		The relevance model has size: 8
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 8
+			old information: 104, gain: 0.9653679653679653
+
+   ind                                             review  relevance
+0  13  great card bought s200 elph knew included 8meg...   0.574941
+1  12  m happy owner nikon s new addition advanced am...   0.482879
+2  10  bought card camera manufacturers pretty darn c...   0.382952
+3   7  bought card nikon coolpix 2500 heard cards wor...   0.379253
+
+step 1
+index added: 14
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 78.0%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [5, 7, 13, 24]
+		The relevance model has size: 9
+		1 reviews removed from the relevance model, indices: [2]. 
+		It now has size: 8
+			old information: 127, gain: 0.9503129890453834
+
+   ind                                             review  relevance
+0  24  viking 128 mb compact flash card tremedous val...   0.600163
+1  13  great card bought s200 elph knew included 8meg...   0.574941
+2  12  m happy owner nikon s new addition advanced am...   0.482879
+3  10  bought card camera manufacturers pretty darn c...   0.382952
+4   7  bought card nikon coolpix 2500 heard cards wor...   0.379253
+
+step 1
+index added: 25
+percentage unclustered: 76.0%
+
+	step 2
+
+		step 3
+		candidate index: 25 with core nodes: [5, 7, 13, 24]
+
+step 1
+index added: 26
+percentage unclustered: 74.0%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [5, 13, 24]
+		The relevance model has size: 9
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 9
+			old information: 87, gain: 0.9792164357381749
+
+   ind                                             review  relevance
+0  24  viking 128 mb compact flash card tremedous val...   0.600163
+1  13  great card bought s200 elph knew included 8meg...   0.574941
+2  12  m happy owner nikon s new addition advanced am...   0.482879
+3  26  get one add on digital camera let one ni took ...   0.454212
+4  10  bought card camera manufacturers pretty darn c...   0.382952
+5   7  bought card nikon coolpix 2500 heard cards wor...   0.379253
+
+step 1
+index added: 27
+percentage unclustered: 72.0%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 72.0%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 64.0%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [0, 5, 12, 13, 24]
+
+step 1
+index added: 33
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 64.0%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [0, 5, 12, 13, 24]
+
+step 1
+index added: 35
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 62.0%
+
+	step 2
+
+		step 3
+		candidate index: 39 with core nodes: [0, 5, 12, 13, 24]
+
+step 1
+index added: 40
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 58.0%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 58.0%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 56.0%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [5, 13, 24]
+		The relevance model has size: 10
+		1 reviews removed from the relevance model, indices: [5]. 
+		It now has size: 9
+			old information: 102, gain: 0.92
+
+   ind                                             review  relevance
+0  24  viking 128 mb compact flash card tremedous val...   0.600163
+1  13  great card bought s200 elph knew included 8meg...   0.574941
+2  43  bought kodak dc4800 3 1 megapixel camera high ...   0.531572
+3  12  m happy owner nikon s new addition advanced am...   0.482879
+4  26  get one add on digital camera let one ni took ...   0.454212
+5  10  bought card camera manufacturers pretty darn c...   0.382952
+6   7  bought card nikon coolpix 2500 heard cards wor...   0.379253
+
+step 1
+index added: 44
+percentage unclustered: 52.0%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 50.0%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [5, 13, 24, 45]
+		The relevance model has size: 11
+		2 reviews removed from the relevance model, indices: [5, 6]. 
+		It now has size: 9
+			old information: 251, gain: 0.9359039836567926
+
+   ind                                             review  relevance
+0  24  viking 128 mb compact flash card tremedous val...   0.600163
+1  45  great price great flash card needed one flash ...   0.576325
+2  13  great card bought s200 elph knew included 8meg...   0.574941
+3  43  bought kodak dc4800 3 1 megapixel camera high ...   0.531572
+4  12  m happy owner nikon s new addition advanced am...   0.482879
+5  26  get one add on digital camera let one ni took ...   0.454212
+6  10  bought card camera manufacturers pretty darn c...   0.382952
+7   7  bought card nikon coolpix 2500 heard cards wor...   0.379253
+
+step 1
+index added: 46
+percentage unclustered: 48.0%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [5, 13, 24, 45, 46]
+		The relevance model has size: 11
+		1 reviews removed from the relevance model, indices: [5]. 
+		It now has size: 10
+			old information: 490, gain: 0.9377777777777778
+
+   ind                                             review  relevance
+0  46  three compact flash card including one 8 meg c...   0.678776
+1  24  viking 128 mb compact flash card tremedous val...   0.600163
+2  45  great price great flash card needed one flash ...   0.576325
+3  13  great card bought s200 elph knew included 8meg...   0.574941
+4  43  bought kodak dc4800 3 1 megapixel camera high ...   0.531572
+5  12  m happy owner nikon s new addition advanced am...   0.482879
+6  26  get one add on digital camera let one ni took ...   0.454212
+7  10  bought card camera manufacturers pretty darn c...   0.382952
+8   7  bought card nikon coolpix 2500 heard cards wor...   0.379253
+
+step 1
+index added: 47
+percentage unclustered: 48.0%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 56.0%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 56.0%
+
+	step 2
+
+--- 11.824890613555908 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 90.0, 88.0, 90.0, 88.0, 88.0, 86.0, 82.0, 82.0, 82.0, 82.0, 82.0, 82.0, 82.0, 80.0, 80.0, 80.0, 80.0, 78.0, 76.0, 74.0, 72.0, 72.0, 70.0, 70.0, 70.0, 64.0, 64.0, 64.0, 64.0, 64.0, 64.0, 64.0, 62.0, 60.0, 58.0, 58.0, 56.0, 52.0, 50.0, 48.0, 48.0, 56.0, 56.0], mean: 74.125
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0        5  46   0.678776  three compact flash card including one 8 meg c...
+1       45  24   0.600163  viking 128 mb compact flash card tremedous val...
+2        4  45   0.576325  great price great flash card needed one flash ...
+3       18  13   0.574941  great card bought s200 elph knew included 8meg...
+4        6  43   0.531572  bought kodak dc4800 3 1 megapixel camera high ...
+5        8  12   0.482879  m happy owner nikon s new addition advanced am...
+6       41  26   0.454212  get one add on digital camera let one ni took ...
+7       13  10   0.382952  bought card camera manufacturers pretty darn c...
+8       27   7   0.379253  bought card nikon coolpix 2500 heard cards wor...
