@@ -1,0 +1,578 @@
+------- Category: Office_Products -------
+Found asin_id: B0000A8VNU
+Shape:  (70, 7)
+
+
+Chosen product: B0000A8VNU has 70 reviews - True, it has 70 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 95.7143%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [4, 8, 11]
+		The relevance model has size: 2
+		1 reviews removed from the relevance model, indices: [4]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  11  full time college student could live without w...   0.131438
+
+step 1
+index added: 12
+percentage unclustered: 95.7143%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 95.7143%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 95.7143%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 94.2857%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [4, 8, 11, 15]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [4, 8]. 
+		It now has size: 1
+			old information: 16, gain: 0.9978322720498577
+
+   ind                                             review  relevance
+0  11  full time college student could live without w...   0.131438
+1  15  franklin speaking 11th collegiate dictionary p...   0.113961
+
+step 1
+index added: 16
+percentage unclustered: 95.7143%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 94.2857%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [1, 14, 16, 17]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [1, 11, 16]. 
+		It now has size: 2
+			old information: 13, gain: 0.9874396135265701
+
+   ind                                             review  relevance
+0  17  updated review originally experienced miscommu...   0.144088
+1  11  full time college student could live without w...   0.131438
+2  15  franklin speaking 11th collegiate dictionary p...   0.113961
+
+step 1
+index added: 18
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [0, 1, 16, 20]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [1, 15, 17]. 
+		It now has size: 3
+			old information: 35, gain: 0.9772727272727273
+
+   ind                                             review  relevance
+0  20  bought one son christmas 03 18 still says best...   0.256032
+1  17  updated review originally experienced miscommu...   0.144088
+2  11  full time college student could live without w...   0.131438
+3  15  franklin speaking 11th collegiate dictionary p...   0.113961
+
+step 1
+index added: 21
+percentage unclustered: 84.2857%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [0, 8, 15, 20, 21]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [8, 14, 16]. 
+		It now has size: 3
+			old information: 97, gain: 0.9392230576441103
+
+   ind                                             review  relevance
+0  21  dictionary year use daily use features diction...   0.314777
+1  20  bought one son christmas 03 18 still says best...   0.256032
+2  17  updated review originally experienced miscommu...   0.144088
+3  11  full time college student could live without w...   0.131438
+4  15  franklin speaking 11th collegiate dictionary p...   0.113961
+
+step 1
+index added: 22
+percentage unclustered: 84.2857%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 84.2857%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 87.1429%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [8, 15, 21, 32]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [0, 8, 15]. 
+		It now has size: 2
+			old information: 41, gain: 0.9223484848484849
+
+   ind                                             review  relevance
+0  32  bought dictionary english major reading needed...   0.318944
+1  21  dictionary year use daily use features diction...   0.314777
+2  20  bought one son christmas 03 18 still says best...   0.256032
+3  17  updated review originally experienced miscommu...   0.144088
+4  11  full time college student could live without w...   0.131438
+5  15  franklin speaking 11th collegiate dictionary p...   0.113961
+
+step 1
+index added: 33
+percentage unclustered: 87.1429%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 87.1429%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 82.8571%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [8, 15, 21, 29, 32]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [15, 20, 32]. 
+		It now has size: 3
+			old information: 40, gain: 0.93993993993994
+
+   ind                                             review  relevance
+0  32  bought dictionary english major reading needed...   0.318944
+1  21  dictionary year use daily use features diction...   0.314777
+2  20  bought one son christmas 03 18 still says best...   0.256032
+3  35  using franklin speaking dictionary three weeks...   0.201402
+4  17  updated review originally experienced miscommu...   0.144088
+5  11  full time college student could live without w...   0.131438
+6  15  franklin speaking 11th collegiate dictionary p...   0.113961
+
+step 1
+index added: 36
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 78.5714%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [8, 15, 37]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [15, 21, 29]. 
+		It now has size: 2
+			old information: 204, gain: 0.9688787185354691
+
+   ind                                             review  relevance
+0  37  franklin speaking 11th collegiate dictionary p...   0.357073
+1  32  bought dictionary english major reading needed...   0.318944
+2  21  dictionary year use daily use features diction...   0.314777
+3  20  bought one son christmas 03 18 still says best...   0.256032
+4  35  using franklin speaking dictionary three weeks...   0.201402
+5  17  updated review originally experienced miscommu...   0.144088
+6  11  full time college student could live without w...   0.131438
+7  15  franklin speaking 11th collegiate dictionary p...   0.113961
+
+step 1
+index added: 38
+percentage unclustered: 77.1429%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 77.1429%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 75.71430000000001%
+
+	step 2
+
+		step 3
+		candidate index: 40 with core nodes: [8, 15, 37, 40]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [8, 37]. 
+		It now has size: 2
+			old information: 1547, gain: 0.9810903312553477
+
+   ind                                             review  relevance
+0  40  s long time since last took sat increasingly f...   0.509642
+1  37  franklin speaking 11th collegiate dictionary p...   0.357073
+2  32  bought dictionary english major reading needed...   0.318944
+3  21  dictionary year use daily use features diction...   0.314777
+4  20  bought one son christmas 03 18 still says best...   0.256032
+5  35  using franklin speaking dictionary three weeks...   0.201402
+6  17  updated review originally experienced miscommu...   0.144088
+7  11  full time college student could live without w...   0.131438
+8  15  franklin speaking 11th collegiate dictionary p...   0.113961
+
+step 1
+index added: 41
+percentage unclustered: 75.71430000000001%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 75.71430000000001%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 75.71430000000001%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 75.71430000000001%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 75.71430000000001%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 74.28569999999999%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [8, 15, 37, 40]
+
+step 1
+index added: 47
+percentage unclustered: 74.28569999999999%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 72.8571%
+
+	step 2
+
+		step 3
+		candidate index: 48 with core nodes: [8, 15, 37, 40]
+
+step 1
+index added: 49
+percentage unclustered: 72.8571%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 71.4286%
+
+	step 2
+
+		step 3
+		candidate index: 50 with core nodes: [8, 15, 37, 40]
+
+step 1
+index added: 51
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 51 with core nodes: [8, 15, 37, 40]
+
+step 1
+index added: 52
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 67.1429%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 67.1429%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 67.1429%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 65.71430000000001%
+
+	step 2
+
+		step 3
+		candidate index: 60 with core nodes: [8, 15, 37, 40]
+
+step 1
+index added: 61
+percentage unclustered: 65.71430000000001%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 65.71430000000001%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 65.71430000000001%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 65.71430000000001%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 64.28569999999999%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 64.28569999999999%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 67.1429%
+
+	step 2
+
+		step 3
+		candidate index: 67 with core nodes: [8, 15, 40, 67]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [35, 40]. 
+		It now has size: 2
+			old information: 212, gain: 0.8120567375886525
+
+   ind                                             review  relevance
+0  40  s long time since last took sat increasingly f...   0.509642
+1  67  ca n t say enought good things electronic dict...   0.398148
+2  37  franklin speaking 11th collegiate dictionary p...   0.357073
+3  32  bought dictionary english major reading needed...   0.318944
+4  21  dictionary year use daily use features diction...   0.314777
+5  20  bought one son christmas 03 18 still says best...   0.256032
+6  35  using franklin speaking dictionary three weeks...   0.201402
+7  17  updated review originally experienced miscommu...   0.144088
+8  11  full time college student could live without w...   0.131438
+9  15  franklin speaking 11th collegiate dictionary p...   0.113961
+
+step 1
+index added: 68
+percentage unclustered: 62.8571%
+
+	step 2
+
+		step 3
+		candidate index: 68 with core nodes: [8, 15, 40, 67]
+
+step 1
+index added: 69
+percentage unclustered: 62.8571%
+
+	step 2
+
+--- 30.88405704498291 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 95.7143, 95.7143, 95.7143, 95.7143, 94.2857, 95.7143, 94.2857, 94.2857, 94.2857, 90.0, 84.2857, 84.2857, 84.2857, 88.5714, 88.5714, 88.5714, 88.5714, 88.5714, 88.5714, 88.5714, 88.5714, 87.1429, 87.1429, 87.1429, 82.8571, 82.8571, 78.5714, 77.1429, 77.1429, 75.71430000000001, 75.71430000000001, 75.71430000000001, 75.71430000000001, 75.71430000000001, 75.71430000000001, 74.28569999999999, 74.28569999999999, 72.8571, 72.8571, 71.4286, 70.0, 70.0, 70.0, 70.0, 70.0, 70.0, 67.1429, 67.1429, 67.1429, 65.71430000000001, 65.71430000000001, 65.71430000000001, 65.71430000000001, 65.71430000000001, 64.28569999999999, 64.28569999999999, 67.1429, 62.8571, 62.8571], mean: 81.7437
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0        5  40   0.509642  s long time since last took sat increasingly f...
+1       48  67   0.398148  ca n t say enought good things electronic dict...
+2       25  37   0.357073  franklin speaking 11th collegiate dictionary p...
+3       19  32   0.318944  bought dictionary english major reading needed...
+4       57  21   0.314777  dictionary year use daily use features diction...
+5       42  20   0.256032  bought one son christmas 03 18 still says best...
+6       20  35   0.201402  using franklin speaking dictionary three weeks...
+7       10  17   0.144088  updated review originally experienced miscommu...
+8       33  11   0.131438  full time college student could live without w...
+9        6  15   0.113961  franklin speaking 11th collegiate dictionary p...
