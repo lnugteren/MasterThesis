@@ -1,0 +1,33 @@
+------- Category: Office_Products -------
+Found asin_id: 0310821800
+Shape:  (20, 7)
+
+Readability scores: [51.63630434782611, 43.20689655172416, 82.82961538461541, 89.61157894736843, -152.11649805447468, 109.04000000000002, 29.285645161290347, -65.62523255813952, 30.62000000000002, 40.78389610389614, 22.457307692307722, 56.255000000000024, 38.56844827586209, 69.81423076923079, 58.37000000000003, 54.9556756756757, 25.76318181818185, 31.432857142857173, 54.87586206896553, 38.28558823529413], on average: 35.5025
+Readability scores after: [43.20689655172416, -152.11649805447468, 29.285645161290347, -65.62523255813952, 30.62000000000002, 40.78389610389614, 22.457307692307722, 38.56844827586209, 25.76318181818185, 31.432857142857173, 38.28558823529413], on average after: 7.5147
+Shape after:  (11, 8)
+
+
+Chosen product: 0310821800 has 20 reviews - False, it has 11 reviews
+
+Nr of stopwords in review: ['12/29', '149/261', '31/63', '75/189', '40/81', '39/77', '42/79', '32/58', '30/66', '35/63', '36/69'], on average: 0.499
+Nr of stopwords in summary: ['0/2', '8/12', '7/12', '7/14', '1/2', '5/11', '3/6', '1/3', '0/2', '0/3', '0/1'], on average: 0.3216
+
+
+Removed indexes: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+New length of reviews: 1
+
+
+Removed indexes: []
+New length of reviews: 1
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+--- 0.0015196800231933594 seconds ---
+
+
+ Unclustered percentages: [], mean: nan
+
+Final Ranking:
+Empty DataFrame
+Columns: [ranking, ind, relevance, review]
+Index: []

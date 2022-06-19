@@ -1,0 +1,33 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 0767817648
+Shape:  (10, 7)
+
+Readability scores: [-298.81608108108105, -257.3660869565217, 54.89166666666669, -1440.578968935889, -115.51086294416241, -98.3895454545454, 6.445000000000007, -62.02924528301884, 4.374000000000024, -160.2920331950207], on average: -236.7272
+Readability scores after: [-298.81608108108105, -257.3660869565217, -1440.578968935889, -115.51086294416241, -98.3895454545454, 6.445000000000007, -62.02924528301884, 4.374000000000024, -160.2920331950207], on average after: -269.1293
+Shape after:  (9, 8)
+
+
+Chosen product: 0767817648 has 10 reviews - False, it has 9 reviews
+
+Nr of stopwords in review: ['154/376', '150/350', '669/1534', '80/198', '92/199', '39/94', '69/162', '30/75', '107/244'], on average: 0.4244
+Nr of stopwords in summary: ['1/6', '3/6', '12/23', '1/4', '2/5', '1/4', '0/3', '4/7', '3/6'], on average: 0.3511
+
+
+Removed indexes: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+New length of reviews: 0
+
+
+Removed indexes: []
+New length of reviews: 0
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+--- 0.010771036148071289 seconds ---
+
+
+ Unclustered percentages: [], mean: nan
+
+Final Ranking:
+Empty DataFrame
+Columns: [ranking, ind, relevance, review]
+Index: []
