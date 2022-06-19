@@ -1,0 +1,22 @@
+------- Category: Sports_and_Outdoors -------
+Found asin_id: 7245456321
+Shape:  (10, 7)
+Shape after:  (10, 7)
+
+
+Chosen product: 7245456321 has 10 reviews - True, it has 10 reviews
+
+Removed indexes: [0, 2, 3, 4, 5, 6, 7, 8]
+New length of reviews: 2
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+--- 0.0013990402221679688 seconds ---
+
+
+ Unclustered percentages: [], mean: nan
+
+Final Ranking:
+Empty DataFrame
+Columns: [ranking, ind, relevance, review]
+Index: []

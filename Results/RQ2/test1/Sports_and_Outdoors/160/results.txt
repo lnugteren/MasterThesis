@@ -1,0 +1,192 @@
+------- Category: Sports_and_Outdoors -------
+Found asin_id: B019Z6HS86
+Shape:  (162, 7)
+Shape after:  (162, 7)
+
+
+Chosen product: B019Z6HS86 has 162 reviews - False, it has 160 reviews
+
+Removed indexes: [0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 38, 40, 41, 42, 43, 47, 48, 50, 51, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 70, 71, 72, 73, 75, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 90, 92, 93, 94, 95, 97, 101, 102, 103, 105, 107, 108, 109, 110, 111, 112, 113, 114, 117, 118, 121, 122, 123, 124, 125, 126, 127, 128, 131, 132, 133, 134, 137, 140, 142, 143, 144, 145, 147, 148, 149, 152, 153, 154, 155, 156, 157, 158, 159]
+New length of reviews: 37
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 100.0%
+
+step 1
+index added: 13
+percentage unclustered: 100.0%
+
+step 1
+index added: 14
+percentage unclustered: 100.0%
+
+step 1
+index added: 15
+percentage unclustered: 100.0%
+
+step 1
+index added: 16
+percentage unclustered: 100.0%
+
+step 1
+index added: 17
+percentage unclustered: 100.0%
+
+step 1
+index added: 18
+percentage unclustered: 100.0%
+
+step 1
+index added: 19
+percentage unclustered: 100.0%
+
+step 1
+index added: 20
+percentage unclustered: 100.0%
+
+step 1
+index added: 21
+percentage unclustered: 100.0%
+
+step 1
+index added: 22
+percentage unclustered: 89.1892%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 89.1892%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 89.1892%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 89.1892%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 81.08109999999999%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 81.08109999999999%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 81.08109999999999%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 81.08109999999999%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 72.973%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 72.973%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 72.973%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 72.973%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 64.8649%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 64.8649%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 64.8649%
+
+	step 2
+
+--- 1.5972530841827393 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 89.1892, 89.1892, 89.1892, 89.1892, 81.08109999999999, 81.08109999999999, 81.08109999999999, 81.08109999999999, 72.973, 72.973, 72.973, 72.973, 64.8649, 64.8649, 64.8649], mean: 90.5019
+
+Final Ranking:
+Empty DataFrame
+Columns: [ranking, ind, relevance, review]
+Index: []

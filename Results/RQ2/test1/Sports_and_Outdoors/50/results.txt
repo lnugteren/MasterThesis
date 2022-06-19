@@ -1,0 +1,136 @@
+------- Category: Sports_and_Outdoors -------
+Found asin_id: B0007IS74G
+Shape:  (50, 7)
+Shape after:  (50, 7)
+
+
+Chosen product: B0007IS74G has 50 reviews - True, it has 50 reviews
+
+Removed indexes: [2, 3, 5, 8, 9, 12, 15, 18, 20, 22, 24, 26, 27, 28, 30, 31, 32, 34, 35, 36, 37, 39, 40, 41, 42, 43, 44, 47]
+New length of reviews: 22
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 86.3636%
+
+	step 2
+
+step 1
+index added: 6
+percentage unclustered: 86.3636%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 86.3636%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 86.3636%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 86.3636%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 86.3636%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 86.3636%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 86.3636%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 86.3636%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 86.3636%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 86.3636%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 86.3636%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 86.3636%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 86.3636%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 72.7273%
+
+	step 2
+
+--- 0.5135519504547119 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 86.3636, 86.3636, 86.3636, 86.3636, 86.3636, 86.3636, 86.3636, 86.3636, 86.3636, 86.3636, 86.3636, 86.3636, 86.3636, 86.3636, 72.7273, 72.7273, 72.7273], mean: 86.3636
+
+Final Ranking:
+Empty DataFrame
+Columns: [ranking, ind, relevance, review]
+Index: []
