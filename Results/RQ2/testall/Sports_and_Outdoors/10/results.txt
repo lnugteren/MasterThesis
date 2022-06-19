@@ -1,0 +1,33 @@
+------- Category: Sports_and_Outdoors -------
+Found asin_id: 7245456321
+Shape:  (10, 7)
+
+Readability scores: [4.642772277227763, 67.46538461538464, -36.930588235294096, -122.69923766816139, -70.5438372093023, 25.8964285714286, -35.58837209302321, 4.333707865168563, 12.206263736263764, 35.35606557377051], on average: -11.5861
+Readability scores after: [4.642772277227763, -36.930588235294096, -122.69923766816139, -70.5438372093023, 25.8964285714286, -35.58837209302321, 4.333707865168563, 12.206263736263764, 35.35606557377051], on average after: -20.3696
+Shape after:  (9, 8)
+
+
+Chosen product: 7245456321 has 10 reviews - False, it has 9 reviews
+
+Nr of stopwords in review: ['53/101', '85/156', '120/231', '89/172', '40/84', '58/132', '39/90', '44/93', '31/61'], on average: 0.493
+Nr of stopwords in summary: ['2/5', '0/1', '3/5', '0/2', '0/1', '2/5', '1/2', '0/3', '0/2'], on average: 0.2111
+
+
+Removed indexes: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+New length of reviews: 0
+
+
+Removed indexes: []
+New length of reviews: 0
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+--- 0.07898116111755371 seconds ---
+
+
+ Unclustered percentages: [], mean: nan
+
+Final Ranking:
+Empty DataFrame
+Columns: [ranking, ind, relevance, review]
+Index: []
