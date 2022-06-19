@@ -1,0 +1,435 @@
+------- Category: Home_and_Kitchen -------
+Found asin_id: B000ET9TXQ
+Shape:  (50, 7)
+
+
+Chosen product: B000ET9TXQ has 50 reviews - True
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 94.0%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [3, 6, 9]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   9  love pillow n ni wavy cervical memory foam pil...   0.247443
+
+step 1
+index added: 10
+percentage unclustered: 92.0%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [3, 6, 9, 10]
+			old information: 195, gain: 0.9909420289855072
+
+   ind                                             review  relevance
+0  10  wary buying another pillow years able tolerate...   0.531398
+1   9  love pillow n ni wavy cervical memory foam pil...   0.247443
+
+step 1
+index added: 11
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [3, 9, 10, 12]
+			old information: 37, gain: 0.8398268398268398
+
+   ind                                             review  relevance
+0  10  wary buying another pillow years able tolerate...   0.531398
+1  12  d like say love pillow cat given chance use gu...   0.345307
+2   9  love pillow n ni wavy cervical memory foam pil...   0.247443
+
+step 1
+index added: 13
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 88.0%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [3, 9, 10, 12]
+			old information: 164, gain: 0.8895622895622896
+
+   ind                                             review  relevance
+0  10  wary buying another pillow years able tolerate...   0.531398
+1  12  d like say love pillow cat given chance use gu...   0.345307
+2  14  waited write review sure effective time defini...   0.344021
+3   9  love pillow n ni wavy cervical memory foam pil...   0.247443
+
+step 1
+index added: 15
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 86.0%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [3, 9, 10, 18]
+			old information: 309, gain: 0.946521287642783
+
+   ind                                             review  relevance
+0  18  severe problems cervical vertebrae constant ne...   0.578094
+1  10  wary buying another pillow years able tolerate...   0.531398
+2  12  d like say love pillow cat given chance use gu...   0.345307
+3  14  waited write review sure effective time defini...   0.344021
+4   9  love pillow n ni wavy cervical memory foam pil...   0.247443
+
+step 1
+index added: 19
+percentage unclustered: 84.0%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [9, 10, 18, 19]
+			old information: 2224, gain: 0.9768673094725455
+
+   ind                                             review  relevance
+0  19  let guess bad neck sleeping probably brought y...   0.654690
+1  18  severe problems cervical vertebrae constant ne...   0.578094
+2  10  wary buying another pillow years able tolerate...   0.531398
+3  12  d like say love pillow cat given chance use gu...   0.345307
+4  14  waited write review sure effective time defini...   0.344021
+5   9  love pillow n ni wavy cervical memory foam pil...   0.247443
+
+step 1
+index added: 20
+percentage unclustered: 82.0%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [9, 10, 18, 19]
+
+step 1
+index added: 21
+percentage unclustered: 76.0%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [9, 10, 18, 19]
+
+step 1
+index added: 22
+percentage unclustered: 76.0%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 23 with core nodes: [2, 11, 18]
+
+step 1
+index added: 24
+percentage unclustered: 68.0%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [9, 10, 19]
+
+step 1
+index added: 25
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 62.0%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [2, 11, 18]
+			old information: 775, gain: 0.9117110959216222
+
+   ind                                             review  relevance
+0  19  let guess bad neck sleeping probably brought y...   0.654690
+1  30  purchased pillow replacement old chiroflow wat...   0.610888
+2  18  severe problems cervical vertebrae constant ne...   0.578094
+3  10  wary buying another pillow years able tolerate...   0.531398
+4  12  d like say love pillow cat given chance use gu...   0.345307
+5  14  waited write review sure effective time defini...   0.344021
+6   9  love pillow n ni wavy cervical memory foam pil...   0.247443
+
+step 1
+index added: 31
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 58.0%
+
+	step 2
+
+		step 3
+		candidate index: 40 with core nodes: [10, 11, 18, 19, 31, 40]
+			old information: 855, gain: 0.9082224130528124
+
+   ind                                             review  relevance
+0  19  let guess bad neck sleeping probably brought y...   0.654690
+1  40  tried many orthopedic pillows since neck injur...   0.627581
+2  30  purchased pillow replacement old chiroflow wat...   0.610888
+3  18  severe problems cervical vertebrae constant ne...   0.578094
+4  10  wary buying another pillow years able tolerate...   0.531398
+5  12  d like say love pillow cat given chance use gu...   0.345307
+6  14  waited write review sure effective time defini...   0.344021
+7   9  love pillow n ni wavy cervical memory foam pil...   0.247443
+
+step 1
+index added: 41
+percentage unclustered: 56.0%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [10, 18, 19, 40, 41]
+			old information: 1355, gain: 0.9245335561125034
+
+   ind                                             review  relevance
+0  19  let guess bad neck sleeping probably brought y...   0.654690
+1  40  tried many orthopedic pillows since neck injur...   0.627581
+2  41  purchased one tri core pillows great deal skep...   0.626333
+3  30  purchased pillow replacement old chiroflow wat...   0.610888
+4  18  severe problems cervical vertebrae constant ne...   0.578094
+5  10  wary buying another pillow years able tolerate...   0.531398
+6  12  d like say love pillow cat given chance use gu...   0.345307
+7  14  waited write review sure effective time defini...   0.344021
+8   9  love pillow n ni wavy cervical memory foam pil...   0.247443
+
+step 1
+index added: 42
+percentage unclustered: 54.0%
+
+	step 2
+
+		step 3
+		candidate index: 42 with core nodes: [10, 18, 19, 40, 41]
+
+step 1
+index added: 43
+percentage unclustered: 52.0%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [10, 18, 19, 40, 41]
+
+step 1
+index added: 44
+percentage unclustered: 52.0%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 50.0%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [10, 18, 19, 40, 41]
+
+step 1
+index added: 46
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 68.0%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [11, 30, 47]
+			old information: 656, gain: 0.8619819061645276
+
+   ind                                             review  relevance
+0  19  let guess bad neck sleeping probably brought y...   0.654690
+1  40  tried many orthopedic pillows since neck injur...   0.627581
+2  41  purchased one tri core pillows great deal skep...   0.626333
+3  30  purchased pillow replacement old chiroflow wat...   0.610888
+4  47  3 whiplash injuries many years pain problems f...   0.604375
+5  18  severe problems cervical vertebrae constant ne...   0.578094
+6  10  wary buying another pillow years able tolerate...   0.531398
+7  12  d like say love pillow cat given chance use gu...   0.345307
+8  14  waited write review sure effective time defini...   0.344021
+9   9  love pillow n ni wavy cervical memory foam pil...   0.247443
+
+step 1
+index added: 48
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 44.0%
+
+	step 2
+
+--- 46.406383752822876 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 94.0, 92.0, 92.0, 90.0, 90.0, 88.0, 88.0, 88.0, 88.0, 86.0, 84.0, 82.0, 76.0, 76.0, 70.0, 68.0, 68.0, 68.0, 68.0, 66.0, 64.0, 62.0, 60.0, 60.0, 60.0, 60.0, 60.0, 60.0, 60.0, 60.0, 60.0, 58.0, 56.0, 54.0, 52.0, 52.0, 50.0, 50.0, 68.0, 68.0, 44.0], mean: 73.75
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0        2  19   0.654690  let guess bad neck sleeping probably brought y...
+1        1  40   0.627581  tried many orthopedic pillows since neck injur...
+2        5  41   0.626333  purchased one tri core pillows great deal skep...
+3       10  30   0.610888  purchased pillow replacement old chiroflow wat...
+4       15  47   0.604375  3 whiplash injuries many years pain problems f...
+5        6  18   0.578094  severe problems cervical vertebrae constant ne...
+6       32  10   0.531398  wary buying another pillow years able tolerate...
+7       16  12   0.345307  d like say love pillow cat given chance use gu...
+8       12  14   0.344021  waited write review sure effective time defini...
+9       17   9   0.247443  love pillow n ni wavy cervical memory foam pil...

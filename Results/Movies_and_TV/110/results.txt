@@ -1,0 +1,1003 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 6302548748
+Shape:  (110, 7)
+
+
+Chosen product: 6302548748 has 110 reviews - True, it has 110 reviews
+Duplicate reviewers?:  106    APYCNRS112N2B
+Name: reviewerID, dtype: object
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 97.2727%
+
+	step 2
+
+		step 3
+		candidate index: 3 with core nodes: [1, 2, 3]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   3  really love movie one favorite civil war movie...   0.326615
+
+step 1
+index added: 4
+percentage unclustered: 97.2727%
+
+	step 2
+
+step 1
+index added: 5
+percentage unclustered: 97.2727%
+
+	step 2
+
+step 1
+index added: 6
+percentage unclustered: 96.3636%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [1, 2, 3, 6]
+			old information: 93, gain: 0.9995684374651965
+
+   ind                                             review  relevance
+0   6  saw gettysburg first time 8 years ago rental d...   0.385892
+1   3  really love movie one favorite civil war movie...   0.326615
+
+step 1
+index added: 7
+percentage unclustered: 96.3636%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 96.3636%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 96.3636%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 96.3636%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 96.3636%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 96.3636%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 96.3636%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 96.3636%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 93.6364%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [10, 13, 15]
+			old information: 657, gain: 0.9838792786161207
+
+   ind                                             review  relevance
+0   6  saw gettysburg first time 8 years ago rental d...   0.385892
+1   3  really love movie one favorite civil war movie...   0.326615
+2  15  child 1990s first encountered gettysburg one m...   0.313780
+
+step 1
+index added: 16
+percentage unclustered: 92.7273%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [10, 15, 16]
+			old information: 55, gain: 0.8433048433048433
+
+   ind                                             review  relevance
+0   6  saw gettysburg first time 8 years ago rental d...   0.385892
+1   3  really love movie one favorite civil war movie...   0.326615
+2  15  child 1990s first encountered gettysburg one m...   0.313780
+3  16  one favorite films time finally wonderful copy...   0.184324
+
+step 1
+index added: 17
+percentage unclustered: 91.8182%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [10, 15, 17]
+			old information: 299, gain: 0.9285714285714286
+
+   ind                                             review  relevance
+0   6  saw gettysburg first time 8 years ago rental d...   0.385892
+1  17  waited blu ray release gettysburg years finall...   0.354249
+2   3  really love movie one favorite civil war movie...   0.326615
+3  15  child 1990s first encountered gettysburg one m...   0.313780
+4  16  one favorite films time finally wonderful copy...   0.184324
+
+step 1
+index added: 18
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 90.9091%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [1, 2, 6, 30]
+			old information: 590, gain: 0.8959619114794569
+
+   ind                                             review  relevance
+0  30  1993 movie based michael shaara book killer an...   0.401491
+1   6  saw gettysburg first time 8 years ago rental d...   0.385892
+2  17  waited blu ray release gettysburg years finall...   0.354249
+3   3  really love movie one favorite civil war movie...   0.326615
+4  15  child 1990s first encountered gettysburg one m...   0.313780
+5  16  one favorite films time finally wonderful copy...   0.184324
+
+step 1
+index added: 31
+percentage unclustered: 90.9091%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 88.1818%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [1, 2, 6, 27, 30]
+			old information: 1510, gain: 0.8923581408611349
+
+   ind                                             review  relevance
+0  32  four hours plus one longest movies well made w...   0.468397
+1  30  1993 movie based michael shaara book killer an...   0.401491
+2   6  saw gettysburg first time 8 years ago rental d...   0.385892
+3  17  waited blu ray release gettysburg years finall...   0.354249
+4   3  really love movie one favorite civil war movie...   0.326615
+5  15  child 1990s first encountered gettysburg one m...   0.313780
+6  16  one favorite films time finally wonderful copy...   0.184324
+
+step 1
+index added: 33
+percentage unclustered: 88.1818%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 91.8182%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [15, 17, 20, 27, 32, 34]
+			old information: 2115, gain: 0.9292405486784878
+
+   ind                                             review  relevance
+0  34  recommend movie deserves four stars n ni one t...   0.479981
+1  32  four hours plus one longest movies well made w...   0.468397
+2  30  1993 movie based michael shaara book killer an...   0.401491
+3   6  saw gettysburg first time 8 years ago rental d...   0.385892
+4  17  waited blu ray release gettysburg years finall...   0.354249
+5   3  really love movie one favorite civil war movie...   0.326615
+6  15  child 1990s first encountered gettysburg one m...   0.313780
+7  16  one favorite films time finally wonderful copy...   0.184324
+
+step 1
+index added: 35
+percentage unclustered: 91.8182%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 90.9091%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [20, 27, 32, 34, 36]
+			old information: 4789, gain: 0.9447864785095
+
+   ind                                             review  relevance
+0  36  gettysburg excellent film well acted excellent...   0.511452
+1  34  recommend movie deserves four stars n ni one t...   0.479981
+2  32  four hours plus one longest movies well made w...   0.468397
+3  30  1993 movie based michael shaara book killer an...   0.401491
+4   6  saw gettysburg first time 8 years ago rental d...   0.385892
+5  17  waited blu ray release gettysburg years finall...   0.354249
+6   3  really love movie one favorite civil war movie...   0.326615
+7  15  child 1990s first encountered gettysburg one m...   0.313780
+8  16  one favorite films time finally wonderful copy...   0.184324
+
+step 1
+index added: 37
+percentage unclustered: 90.9091%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 90.9091%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 39 with core nodes: [20, 27, 32, 34, 36, 39]
+			old information: 3546, gain: 0.9204058270296963
+
+   ind                                             review  relevance
+0  39  based late author michael shaara pulitzer priz...   0.603044
+1  36  gettysburg excellent film well acted excellent...   0.511452
+2  34  recommend movie deserves four stars n ni one t...   0.479981
+3  32  four hours plus one longest movies well made w...   0.468397
+4  30  1993 movie based michael shaara book killer an...   0.401491
+5   6  saw gettysburg first time 8 years ago rental d...   0.385892
+6  17  waited blu ray release gettysburg years finall...   0.354249
+7   3  really love movie one favorite civil war movie...   0.326615
+8  15  child 1990s first encountered gettysburg one m...   0.313780
+9  16  one favorite films time finally wonderful copy...   0.184324
+
+step 1
+index added: 40
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 89.0909%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [20, 27, 32, 34, 39, 46]
+			old information: 1487, gain: 0.8859750019170309
+
+    ind                                             review  relevance
+0   39  based late author michael shaara pulitzer priz...   0.603044
+1   46  gettysburg excellent movie revolving around ci...   0.578061
+2   36  gettysburg excellent film well acted excellent...   0.511452
+3   34  recommend movie deserves four stars n ni one t...   0.479981
+4   32  four hours plus one longest movies well made w...   0.468397
+5   30  1993 movie based michael shaara book killer an...   0.401491
+6    6  saw gettysburg first time 8 years ago rental d...   0.385892
+7   17  waited blu ray release gettysburg years finall...   0.354249
+8    3  really love movie one favorite civil war movie...   0.326615
+9   15  child 1990s first encountered gettysburg one m...   0.313780
+10  16  one favorite films time finally wonderful copy...   0.184324
+
+step 1
+index added: 47
+percentage unclustered: 86.3636%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [15, 20, 25, 47]
+			old information: 4060, gain: 0.9364662065943696
+
+    ind                                             review  relevance
+0   39  based late author michael shaara pulitzer priz...   0.603044
+1   46  gettysburg excellent movie revolving around ci...   0.578061
+2   36  gettysburg excellent film well acted excellent...   0.511452
+3   34  recommend movie deserves four stars n ni one t...   0.479981
+4   32  four hours plus one longest movies well made w...   0.468397
+5   47  hard session exams wanted grab film would pull...   0.444122
+6   30  1993 movie based michael shaara book killer an...   0.401491
+7    6  saw gettysburg first time 8 years ago rental d...   0.385892
+8   17  waited blu ray release gettysburg years finall...   0.354249
+9    3  really love movie one favorite civil war movie...   0.326615
+10  15  child 1990s first encountered gettysburg one m...   0.313780
+11  16  one favorite films time finally wonderful copy...   0.184324
+
+step 1
+index added: 48
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 78.1818%
+
+	step 2
+
+		step 3
+		candidate index: 68 with core nodes: [30, 34, 46]
+
+step 1
+index added: 69
+percentage unclustered: 75.4545%
+
+	step 2
+
+		step 3
+		candidate index: 69 with core nodes: [27, 39, 46, 69]
+			old information: 4225, gain: 0.803743961352657
+
+    ind                                             review  relevance
+0   39  based late author michael shaara pulitzer priz...   0.603044
+1   69  movie gettysburg 4 hours length one hell long ...   0.593794
+2   46  gettysburg excellent movie revolving around ci...   0.578061
+3   36  gettysburg excellent film well acted excellent...   0.511452
+4   34  recommend movie deserves four stars n ni one t...   0.479981
+5   32  four hours plus one longest movies well made w...   0.468397
+6   47  hard session exams wanted grab film would pull...   0.444122
+7   30  1993 movie based michael shaara book killer an...   0.401491
+8    6  saw gettysburg first time 8 years ago rental d...   0.385892
+9   17  waited blu ray release gettysburg years finall...   0.354249
+10   3  really love movie one favorite civil war movie...   0.326615
+11  15  child 1990s first encountered gettysburg one m...   0.313780
+12  16  one favorite films time finally wonderful copy...   0.184324
+
+step 1
+index added: 70
+percentage unclustered: 76.3636%
+
+	step 2
+
+		step 3
+		candidate index: 70 with core nodes: [30, 34, 51]
+
+step 1
+index added: 71
+percentage unclustered: 79.0909%
+
+	step 2
+
+		step 3
+		candidate index: 71 with core nodes: [15, 25, 47]
+
+step 1
+index added: 72
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 75.4545%
+
+	step 2
+
+		step 3
+		candidate index: 73 with core nodes: [6, 24, 30, 36, 39, 51, 69]
+
+step 1
+index added: 74
+percentage unclustered: 75.4545%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 74.5455%
+
+	step 2
+
+		step 3
+		candidate index: 75 with core nodes: [6, 24, 30, 36, 39, 51, 69]
+
+step 1
+index added: 76
+percentage unclustered: 74.5455%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 74.5455%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 74.5455%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 74.5455%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 74.5455%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 81.8182%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 80.9091%
+
+	step 2
+
+		step 3
+		candidate index: 82 with core nodes: [24, 36, 39, 51, 69, 70]
+			old information: 4693, gain: 0.799752517494453
+
+    ind                                             review  relevance
+0   39  based late author michael shaara pulitzer priz...   0.603044
+1   69  movie gettysburg 4 hours length one hell long ...   0.593794
+2   46  gettysburg excellent movie revolving around ci...   0.578061
+3   36  gettysburg excellent film well acted excellent...   0.511452
+4   34  recommend movie deserves four stars n ni one t...   0.479981
+5   32  four hours plus one longest movies well made w...   0.468397
+6   82  ronald maxwell gettysburg nothing short master...   0.447542
+7   47  hard session exams wanted grab film would pull...   0.444122
+8   30  1993 movie based michael shaara book killer an...   0.401491
+9    6  saw gettysburg first time 8 years ago rental d...   0.385892
+10  17  waited blu ray release gettysburg years finall...   0.354249
+11   3  really love movie one favorite civil war movie...   0.326615
+12  15  child 1990s first encountered gettysburg one m...   0.313780
+13  16  one favorite films time finally wonderful copy...   0.184324
+
+step 1
+index added: 83
+percentage unclustered: 76.3636%
+
+	step 2
+
+		step 3
+		candidate index: 83 with core nodes: [24, 36, 39, 53, 69]
+			old information: 432, gain: 0.884522854851644
+
+    ind                                             review  relevance
+0   39  based late author michael shaara pulitzer priz...   0.603044
+1   69  movie gettysburg 4 hours length one hell long ...   0.593794
+2   46  gettysburg excellent movie revolving around ci...   0.578061
+3   36  gettysburg excellent film well acted excellent...   0.511452
+4   34  recommend movie deserves four stars n ni one t...   0.479981
+5   32  four hours plus one longest movies well made w...   0.468397
+6   82  ronald maxwell gettysburg nothing short master...   0.447542
+7   47  hard session exams wanted grab film would pull...   0.444122
+8   30  1993 movie based michael shaara book killer an...   0.401491
+9   83  martin sheen shows general lee tortured human ...   0.389028
+10   6  saw gettysburg first time 8 years ago rental d...   0.385892
+11  17  waited blu ray release gettysburg years finall...   0.354249
+12   3  really love movie one favorite civil war movie...   0.326615
+13  15  child 1990s first encountered gettysburg one m...   0.313780
+14  16  one favorite films time finally wonderful copy...   0.184324
+
+step 1
+index added: 84
+percentage unclustered: 76.3636%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 76.3636%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 73.6364%
+
+	step 2
+
+		step 3
+		candidate index: 86 with core nodes: [24, 39, 53, 69, 86]
+			old information: 2179, gain: 0.8446678072426576
+
+    ind                                             review  relevance
+0   39  based late author michael shaara pulitzer priz...   0.603044
+1   69  movie gettysburg 4 hours length one hell long ...   0.593794
+2   46  gettysburg excellent movie revolving around ci...   0.578061
+3   86  one used viewing historical movies knowledge s...   0.538139
+4   36  gettysburg excellent film well acted excellent...   0.511452
+5   34  recommend movie deserves four stars n ni one t...   0.479981
+6   32  four hours plus one longest movies well made w...   0.468397
+7   82  ronald maxwell gettysburg nothing short master...   0.447542
+8   47  hard session exams wanted grab film would pull...   0.444122
+9   30  1993 movie based michael shaara book killer an...   0.401491
+10  83  martin sheen shows general lee tortured human ...   0.389028
+11   6  saw gettysburg first time 8 years ago rental d...   0.385892
+12  17  waited blu ray release gettysburg years finall...   0.354249
+13   3  really love movie one favorite civil war movie...   0.326615
+14  15  child 1990s first encountered gettysburg one m...   0.313780
+15  16  one favorite films time finally wonderful copy...   0.184324
+
+step 1
+index added: 87
+percentage unclustered: 72.7273%
+
+	step 2
+
+		step 3
+		candidate index: 87 with core nodes: [24, 39, 53, 69, 86]
+			old information: 1670, gain: 0.8525386313465784
+
+    ind                                             review  relevance
+0   39  based late author michael shaara pulitzer priz...   0.603044
+1   69  movie gettysburg 4 hours length one hell long ...   0.593794
+2   46  gettysburg excellent movie revolving around ci...   0.578061
+3   86  one used viewing historical movies knowledge s...   0.538139
+4   36  gettysburg excellent film well acted excellent...   0.511452
+5   34  recommend movie deserves four stars n ni one t...   0.479981
+6   32  four hours plus one longest movies well made w...   0.468397
+7   82  ronald maxwell gettysburg nothing short master...   0.447542
+8   47  hard session exams wanted grab film would pull...   0.444122
+9   87  biggest problem movie hence two stars unlike m...   0.420481
+10  30  1993 movie based michael shaara book killer an...   0.401491
+11  83  martin sheen shows general lee tortured human ...   0.389028
+12   6  saw gettysburg first time 8 years ago rental d...   0.385892
+13  17  waited blu ray release gettysburg years finall...   0.354249
+14   3  really love movie one favorite civil war movie...   0.326615
+15  15  child 1990s first encountered gettysburg one m...   0.313780
+16  16  one favorite films time finally wonderful copy...   0.184324
+
+step 1
+index added: 88
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 90 with core nodes: [15, 25, 47, 90]
+			old information: 7863, gain: 0.9009710205161144
+
+    ind                                             review  relevance
+0   39  based late author michael shaara pulitzer priz...   0.603044
+1   69  movie gettysburg 4 hours length one hell long ...   0.593794
+2   46  gettysburg excellent movie revolving around ci...   0.578061
+3   86  one used viewing historical movies knowledge s...   0.538139
+4   36  gettysburg excellent film well acted excellent...   0.511452
+5   34  recommend movie deserves four stars n ni one t...   0.479981
+6   32  four hours plus one longest movies well made w...   0.468397
+7   90  give gettysburg 5 stars n 1 one films really s...   0.454879
+8   82  ronald maxwell gettysburg nothing short master...   0.447542
+9   47  hard session exams wanted grab film would pull...   0.444122
+10  87  biggest problem movie hence two stars unlike m...   0.420481
+11  30  1993 movie based michael shaara book killer an...   0.401491
+12  83  martin sheen shows general lee tortured human ...   0.389028
+13   6  saw gettysburg first time 8 years ago rental d...   0.385892
+14  17  waited blu ray release gettysburg years finall...   0.354249
+15   3  really love movie one favorite civil war movie...   0.326615
+16  15  child 1990s first encountered gettysburg one m...   0.313780
+17  16  one favorite films time finally wonderful copy...   0.184324
+
+step 1
+index added: 91
+percentage unclustered: 67.2727%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 67.2727%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 67.2727%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 63.6364%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 62.7273%
+
+	step 2
+
+		step 3
+		candidate index: 95 with core nodes: [39, 69, 86]
+
+step 1
+index added: 96
+percentage unclustered: 60.0%
+
+	step 2
+
+		step 3
+		candidate index: 96 with core nodes: [21, 70, 96]
+			old information: 139, gain: 0.8460686600221484
+
+    ind                                             review  relevance
+0   39  based late author michael shaara pulitzer priz...   0.603044
+1   69  movie gettysburg 4 hours length one hell long ...   0.593794
+2   46  gettysburg excellent movie revolving around ci...   0.578061
+3   86  one used viewing historical movies knowledge s...   0.538139
+4   36  gettysburg excellent film well acted excellent...   0.511452
+5   34  recommend movie deserves four stars n ni one t...   0.479981
+6   32  four hours plus one longest movies well made w...   0.468397
+7   90  give gettysburg 5 stars n 1 one films really s...   0.454879
+8   82  ronald maxwell gettysburg nothing short master...   0.447542
+9   47  hard session exams wanted grab film would pull...   0.444122
+10  87  biggest problem movie hence two stars unlike m...   0.420481
+11  30  1993 movie based michael shaara book killer an...   0.401491
+12  96  ever read book watched movie disappointed movi...   0.389503
+13  83  martin sheen shows general lee tortured human ...   0.389028
+14   6  saw gettysburg first time 8 years ago rental d...   0.385892
+15  17  waited blu ray release gettysburg years finall...   0.354249
+16   3  really love movie one favorite civil war movie...   0.326615
+17  15  child 1990s first encountered gettysburg one m...   0.313780
+18  16  one favorite films time finally wonderful copy...   0.184324
+
+step 1
+index added: 97
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 57.2727%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 57.2727%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 57.2727%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 57.2727%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 57.2727%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 57.2727%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 57.2727%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 54.5455%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 54.5455%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 54.5455%
+
+	step 2
+
+--- 660.7518954277039 seconds ---
+
+
+ Unclustered percentages: [100.0, 97.2727, 97.2727, 97.2727, 96.3636, 96.3636, 96.3636, 96.3636, 96.3636, 96.3636, 96.3636, 96.3636, 96.3636, 93.6364, 92.7273, 91.8182, 91.8182, 91.8182, 91.8182, 91.8182, 91.8182, 91.8182, 91.8182, 91.8182, 91.8182, 91.8182, 91.8182, 91.8182, 90.9091, 90.9091, 88.1818, 88.1818, 91.8182, 91.8182, 90.9091, 90.9091, 90.9091, 90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 89.0909, 86.3636, 80.0, 79.0909, 79.0909, 79.0909, 79.0909, 79.0909, 79.0909, 79.0909, 79.0909, 79.0909, 79.0909, 79.0909, 79.0909, 79.0909, 79.0909, 79.0909, 79.0909, 79.0909, 79.0909, 79.0909, 78.1818, 75.4545, 76.3636, 79.0909, 79.0909, 75.4545, 75.4545, 74.5455, 74.5455, 74.5455, 74.5455, 74.5455, 74.5455, 81.8182, 80.9091, 76.3636, 76.3636, 76.3636, 73.6364, 72.7273, 72.7273, 72.7273, 70.0, 67.2727, 67.2727, 67.2727, 63.6364, 62.7273, 60.0, 60.0, 60.0, 60.0, 57.2727, 57.2727, 57.2727, 57.2727, 57.2727, 57.2727, 57.2727, 54.5455, 54.5455, 54.5455], mean: 80.6902
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        47  39   0.603044  based late author michael shaara pulitzer priz...
+1        46  69   0.593794  movie gettysburg 4 hours length one hell long ...
+2        94  46   0.578061  gettysburg excellent movie revolving around ci...
+3        43  86   0.538139  one used viewing historical movies knowledge s...
+4        64  36   0.511452  gettysburg excellent film well acted excellent...
+5        25  34   0.479981  recommend movie deserves four stars n ni one t...
+6        92  32   0.468397  four hours plus one longest movies well made w...
+7        82  90   0.454879  give gettysburg 5 stars n 1 one films really s...
+8        27  82   0.447542  ronald maxwell gettysburg nothing short master...
+9        40  47   0.444122  hard session exams wanted grab film would pull...
+10       33  87   0.420481  biggest problem movie hence two stars unlike m...
+11       63  30   0.401491  1993 movie based michael shaara book killer an...
+12       69  96   0.389503  ever read book watched movie disappointed movi...
+13      107  83   0.389028  martin sheen shows general lee tortured human ...
+14       45   6   0.385892  saw gettysburg first time 8 years ago rental d...
+15       30  17   0.354249  waited blu ray release gettysburg years finall...
+16        9   3   0.326615  really love movie one favorite civil war movie...
+17       20  15   0.313780  child 1990s first encountered gettysburg one m...
+18       65  16   0.184324  one favorite films time finally wonderful copy...

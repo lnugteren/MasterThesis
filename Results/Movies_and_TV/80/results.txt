@@ -1,0 +1,638 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 6303212263
+Shape:  (80, 7)
+
+
+Chosen product: 6303212263 has 80 reviews - True
+Duplicate reviewers?:  76    A31I3HXMD5H1EL
+Name: reviewerID, dtype: object
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 95.0%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [0, 1, 5, 6]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   6  like watching whole new superman movie expecti...   0.226854
+
+step 1
+index added: 7
+percentage unclustered: 93.75%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [0, 1, 5, 6]
+			old information: 0, gain: 1.0
+
+step 1
+index added: 8
+percentage unclustered: 93.75%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [1, 5, 6, 8]
+			old information: 2, gain: 0.9994122832794593
+
+   ind                                             review  relevance
+0   8  well surprised like everybody else warner brot...   0.492976
+1   6  like watching whole new superman movie expecti...   0.226854
+
+step 1
+index added: 9
+percentage unclustered: 93.75%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 93.75%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 93.75%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 93.75%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 92.5%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [1, 5, 6, 8]
+			old information: 3, gain: 0.993103448275862
+
+   ind                                             review  relevance
+0   8  well surprised like everybody else warner brot...   0.492976
+1   6  like watching whole new superman movie expecti...   0.226854
+2  13  guys correct information fluke discovery worka...   0.129658
+
+step 1
+index added: 14
+percentage unclustered: 91.25%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [1, 5, 6, 8]
+			old information: 8, gain: 0.9710144927536232
+
+   ind                                             review  relevance
+0   8  well surprised like everybody else warner brot...   0.492976
+1  14  greatest superman actor greatest superman movi...   0.238373
+2   6  like watching whole new superman movie expecti...   0.226854
+3  13  guys correct information fluke discovery worka...   0.129658
+
+step 1
+index added: 15
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [1, 5, 8, 15]
+			old information: 332, gain: 0.9924469924469924
+
+   ind                                             review  relevance
+0   8  well surprised like everybody else warner brot...   0.492976
+1  15  george lucas convenient scapegoat looking cast...   0.463262
+2  14  greatest superman actor greatest superman movi...   0.238373
+3   6  like watching whole new superman movie expecti...   0.226854
+4  13  guys correct information fluke discovery worka...   0.129658
+
+step 1
+index added: 16
+percentage unclustered: 88.75%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [1, 5, 8, 15]
+
+step 1
+index added: 17
+percentage unclustered: 87.5%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [5, 8, 15, 17]
+			old information: 482, gain: 0.9760199004975124
+
+   ind                                             review  relevance
+0   8  well surprised like everybody else warner brot...   0.492976
+1  15  george lucas convenient scapegoat looking cast...   0.463262
+2  17  superman movie extended tv version finally off...   0.438681
+3  14  greatest superman actor greatest superman movi...   0.238373
+4   6  like watching whole new superman movie expecti...   0.226854
+5  13  guys correct information fluke discovery worka...   0.129658
+
+step 1
+index added: 18
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 88.75%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [6, 14, 20]
+			old information: 254, gain: 0.9486868686868687
+
+   ind                                             review  relevance
+0   8  well surprised like everybody else warner brot...   0.492976
+1  15  george lucas convenient scapegoat looking cast...   0.463262
+2  17  superman movie extended tv version finally off...   0.438681
+3  20  always definitive superman movie christopher r...   0.309148
+4  14  greatest superman actor greatest superman movi...   0.238373
+5   6  like watching whole new superman movie expecti...   0.226854
+6  13  guys correct information fluke discovery worka...   0.129658
+
+step 1
+index added: 21
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 88.75%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [5, 8, 15, 22]
+			old information: 385, gain: 0.9660044150110375
+
+   ind                                             review  relevance
+0   8  well surprised like everybody else warner brot...   0.492976
+1  15  george lucas convenient scapegoat looking cast...   0.463262
+2  17  superman movie extended tv version finally off...   0.438681
+3  22  still yet get extras watch extended version in...   0.339407
+4  20  always definitive superman movie christopher r...   0.309148
+5  14  greatest superman actor greatest superman movi...   0.238373
+6   6  like watching whole new superman movie expecti...   0.226854
+7  13  guys correct information fluke discovery worka...   0.129658
+
+step 1
+index added: 23
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 83.75%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 83.75%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 83.75%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 78.75%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 78.75%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 72.5%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [3, 5, 8, 15]
+
+step 1
+index added: 50
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 71.25%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 57 with core nodes: [45, 56, 57]
+			old information: 2069, gain: 0.9797009595196515
+
+   ind                                             review  relevance
+0  57  soon heard christopher reeve died first thing ...   0.555122
+1   8  well surprised like everybody else warner brot...   0.492976
+2  15  george lucas convenient scapegoat looking cast...   0.463262
+3  17  superman movie extended tv version finally off...   0.438681
+4  22  still yet get extras watch extended version in...   0.339407
+5  20  always definitive superman movie christopher r...   0.309148
+6  14  greatest superman actor greatest superman movi...   0.238373
+7   6  like watching whole new superman movie expecti...   0.226854
+8  13  guys correct information fluke discovery worka...   0.129658
+
+step 1
+index added: 58
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 66.25%
+
+	step 2
+
+		step 3
+		candidate index: 61 with core nodes: [3, 5, 8, 15]
+
+step 1
+index added: 62
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 65.0%
+
+	step 2
+
+		step 3
+		candidate index: 67 with core nodes: [3, 8, 15, 67]
+			old information: 1341, gain: 0.9119211822660098
+
+   ind                                             review  relevance
+0  57  soon heard christopher reeve died first thing ...   0.555122
+1   8  well surprised like everybody else warner brot...   0.492976
+2  67  last superman presented way meant master print...   0.473913
+3  15  george lucas convenient scapegoat looking cast...   0.463262
+4  17  superman movie extended tv version finally off...   0.438681
+5  22  still yet get extras watch extended version in...   0.339407
+6  20  always definitive superman movie christopher r...   0.309148
+7  14  greatest superman actor greatest superman movi...   0.238373
+8   6  like watching whole new superman movie expecti...   0.226854
+9  13  guys correct information fluke discovery worka...   0.129658
+
+step 1
+index added: 68
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 65.0%
+
+	step 2
+
+		step 3
+		candidate index: 72 with core nodes: [8, 45, 57, 72]
+			old information: 3223, gain: 0.9492808359298776
+
+    ind                                             review  relevance
+0   72  movies based superheroes usually entertaining ...   0.574196
+1   57  soon heard christopher reeve died first thing ...   0.555122
+2    8  well surprised like everybody else warner brot...   0.492976
+3   67  last superman presented way meant master print...   0.473913
+4   15  george lucas convenient scapegoat looking cast...   0.463262
+5   17  superman movie extended tv version finally off...   0.438681
+6   22  still yet get extras watch extended version in...   0.339407
+7   20  always definitive superman movie christopher r...   0.309148
+8   14  greatest superman actor greatest superman movi...   0.238373
+9    6  like watching whole new superman movie expecti...   0.226854
+10  13  guys correct information fluke discovery worka...   0.129658
+
+step 1
+index added: 73
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 60.0%
+
+	step 2
+
+		step 3
+		candidate index: 74 with core nodes: [3, 8, 15, 67]
+
+step 1
+index added: 75
+percentage unclustered: 58.75%
+
+	step 2
+
+		step 3
+		candidate index: 75 with core nodes: [45, 57, 72]
+
+step 1
+index added: 76
+percentage unclustered: 58.75%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 58.75%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 58.75%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 63.75%
+
+	step 2
+
+--- 113.7187728881836 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 95.0, 93.75, 93.75, 93.75, 93.75, 93.75, 93.75, 92.5, 91.25, 90.0, 88.75, 87.5, 87.5, 87.5, 88.75, 88.75, 88.75, 88.75, 88.75, 88.75, 88.75, 88.75, 88.75, 88.75, 88.75, 88.75, 83.75, 83.75, 83.75, 80.0, 80.0, 80.0, 78.75, 78.75, 77.5, 77.5, 77.5, 77.5, 77.5, 76.25, 76.25, 76.25, 77.5, 72.5, 72.5, 72.5, 72.5, 72.5, 72.5, 72.5, 71.25, 70.0, 70.0, 70.0, 70.0, 66.25, 66.25, 66.25, 66.25, 66.25, 66.25, 65.0, 65.0, 66.25, 66.25, 66.25, 65.0, 65.0, 60.0, 58.75, 58.75, 58.75, 58.75, 63.75], mean: 79.0224
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        47  72   0.574196  movies based superheroes usually entertaining ...
+1        43  57   0.555122  soon heard christopher reeve died first thing ...
+2        19   8   0.492976  well surprised like everybody else warner brot...
+3         6  67   0.473913  last superman presented way meant master print...
+4         3  15   0.463262  george lucas convenient scapegoat looking cast...
+5         4  17   0.438681  superman movie extended tv version finally off...
+6        41  22   0.339407  still yet get extras watch extended version in...
+7        28  20   0.309148  always definitive superman movie christopher r...
+8        18  14   0.238373  greatest superman actor greatest superman movi...
+9        16   6   0.226854  like watching whole new superman movie expecti...
+10       23  13   0.129658  guys correct information fluke discovery worka...

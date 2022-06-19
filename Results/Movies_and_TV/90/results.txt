@@ -1,0 +1,721 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 0767824571
+Shape:  (90, 7)
+
+
+Chosen product: 0767824571 has 90 reviews - True, it has 90 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 100.0%
+
+step 1
+index added: 13
+percentage unclustered: 100.0%
+
+step 1
+index added: 14
+percentage unclustered: 100.0%
+
+step 1
+index added: 15
+percentage unclustered: 100.0%
+
+step 1
+index added: 16
+percentage unclustered: 100.0%
+
+step 1
+index added: 17
+percentage unclustered: 100.0%
+
+step 1
+index added: 18
+percentage unclustered: 100.0%
+
+step 1
+index added: 19
+percentage unclustered: 95.5556%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [9, 18, 19]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  19  please careful order edition classic monty pyt...   0.257723
+
+step 1
+index added: 20
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 93.3333%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [8, 9, 19, 21]
+			old information: 5, gain: 0.9957482993197279
+
+   ind                                             review  relevance
+0  21  enjoying set movie quality great extras disc g...   0.338641
+1  19  please careful order edition classic monty pyt...   0.257723
+
+step 1
+index added: 22
+percentage unclustered: 93.3333%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 23 with core nodes: [16, 22, 23]
+			old information: 24, gain: 0.9619047619047619
+
+   ind                                             review  relevance
+0  21  enjoying set movie quality great extras disc g...   0.338641
+1  23  well monty python holy grail gem edition quite...   0.323207
+2  19  please careful order edition classic monty pyt...   0.257723
+
+step 1
+index added: 24
+percentage unclustered: 88.8889%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 88.8889%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 88.8889%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 88.8889%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 88.8889%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 87.7778%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 84.4444%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 31 with core nodes: [9, 16, 19, 21, 27, 28, 30, 31]
+			old information: 1, gain: 0.9818181818181818
+
+   ind                                             review  relevance
+0  21  enjoying set movie quality great extras disc g...   0.338641
+1  23  well monty python holy grail gem edition quite...   0.323207
+2  19  please careful order edition classic monty pyt...   0.257723
+3  31  dvd umd version psp n nthe dvd pictured dvd cl...   0.252688
+
+step 1
+index added: 32
+percentage unclustered: 81.1111%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [9, 16, 19, 21, 27, 28, 30, 31]
+
+step 1
+index added: 33
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [9, 16, 19, 21, 27, 28, 30, 31]
+
+step 1
+index added: 39
+percentage unclustered: 78.8889%
+
+	step 2
+
+		step 3
+		candidate index: 39 with core nodes: [9, 16, 19, 21, 27, 28, 30, 31]
+			old information: 41, gain: 0.9830227743271222
+
+   ind                                             review  relevance
+0  39  monty python holy grail without doubt essental...   0.401270
+1  21  enjoying set movie quality great extras disc g...   0.338641
+2  23  well monty python holy grail gem edition quite...   0.323207
+3  19  please careful order edition classic monty pyt...   0.257723
+4  31  dvd umd version psp n nthe dvd pictured dvd cl...   0.252688
+
+step 1
+index added: 40
+percentage unclustered: 78.8889%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 78.8889%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 78.8889%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 78.8889%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 75.5556%
+
+	step 2
+
+		step 3
+		candidate index: 44 with core nodes: [22, 39, 42, 43, 44]
+			old information: 101, gain: 0.985116416150899
+
+   ind                                             review  relevance
+0  44  terry jones co director monty python holy grai...   0.408215
+1  39  monty python holy grail without doubt essental...   0.401270
+2  21  enjoying set movie quality great extras disc g...   0.338641
+3  23  well monty python holy grail gem edition quite...   0.323207
+4  19  please careful order edition classic monty pyt...   0.257723
+5  31  dvd umd version psp n nthe dvd pictured dvd cl...   0.252688
+
+step 1
+index added: 45
+percentage unclustered: 74.4444%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [12, 16, 30, 31, 45]
+			old information: 198, gain: 0.986216498433693
+
+   ind                                             review  relevance
+0  44  terry jones co director monty python holy grai...   0.408215
+1  39  monty python holy grail without doubt essental...   0.401270
+2  21  enjoying set movie quality great extras disc g...   0.338641
+3  23  well monty python holy grail gem edition quite...   0.323207
+4  45  know love movie get collector edition asap ext...   0.319450
+5  19  please careful order edition classic monty pyt...   0.257723
+6  31  dvd umd version psp n nthe dvd pictured dvd cl...   0.252688
+
+step 1
+index added: 46
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 55 with core nodes: [9, 16, 22, 39, 42, 43, 44, 55]
+			old information: 148, gain: 0.98710352039038
+
+   ind                                             review  relevance
+0  44  terry jones co director monty python holy grai...   0.408215
+1  39  monty python holy grail without doubt essental...   0.401270
+2  55  say film whose script virtually memorized legi...   0.373262
+3  21  enjoying set movie quality great extras disc g...   0.338641
+4  23  well monty python holy grail gem edition quite...   0.323207
+5  45  know love movie get collector edition asap ext...   0.319450
+6  19  please careful order edition classic monty pyt...   0.257723
+7  31  dvd umd version psp n nthe dvd pictured dvd cl...   0.252688
+
+step 1
+index added: 56
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 56 with core nodes: [16, 55, 56]
+			old information: 38, gain: 0.9817307692307692
+
+   ind                                             review  relevance
+0  44  terry jones co director monty python holy grai...   0.408215
+1  39  monty python holy grail without doubt essental...   0.401270
+2  55  say film whose script virtually memorized legi...   0.373262
+3  21  enjoying set movie quality great extras disc g...   0.338641
+4  23  well monty python holy grail gem edition quite...   0.323207
+5  45  know love movie get collector edition asap ext...   0.319450
+6  56  nothing say film simply word warning box set a...   0.318711
+7  19  please careful order edition classic monty pyt...   0.257723
+8  31  dvd umd version psp n nthe dvd pictured dvd cl...   0.252688
+
+step 1
+index added: 57
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 72.2222%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 72.2222%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 72.2222%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 72.2222%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 71.1111%
+
+	step 2
+
+		step 3
+		candidate index: 62 with core nodes: [9, 16, 19, 21, 22, 28, 31, 39, 42, 43, 44, 45, 55, 56, 62]
+			old information: 280, gain: 0.9515403253721011
+
+   ind                                             review  relevance
+0  44  terry jones co director monty python holy grai...   0.408215
+1  39  monty python holy grail without doubt essental...   0.401270
+2  55  say film whose script virtually memorized legi...   0.373262
+3  21  enjoying set movie quality great extras disc g...   0.338641
+4  23  well monty python holy grail gem edition quite...   0.323207
+5  45  know love movie get collector edition asap ext...   0.319450
+6  56  nothing say film simply word warning box set a...   0.318711
+7  62  review collector set specifically already spec...   0.271214
+8  19  please careful order edition classic monty pyt...   0.257723
+9  31  dvd umd version psp n nthe dvd pictured dvd cl...   0.252688
+
+step 1
+index added: 63
+percentage unclustered: 71.1111%
+
+	step 2
+
+		step 3
+		candidate index: 63 with core nodes: [9, 16, 19, 21, 22, 28, 31, 39, 42, 43, 44, 45, 55, 56, 62]
+			old information: 211, gain: 0.7868686868686868
+
+    ind                                             review  relevance
+0   44  terry jones co director monty python holy grai...   0.408215
+1   39  monty python holy grail without doubt essental...   0.401270
+2   55  say film whose script virtually memorized legi...   0.373262
+3   21  enjoying set movie quality great extras disc g...   0.338641
+4   63  monty python holy grail one greatest comedies ...   0.331557
+5   23  well monty python holy grail gem edition quite...   0.323207
+6   45  know love movie get collector edition asap ext...   0.319450
+7   56  nothing say film simply word warning box set a...   0.318711
+8   62  review collector set specifically already spec...   0.271214
+9   19  please careful order edition classic monty pyt...   0.257723
+10  31  dvd umd version psp n nthe dvd pictured dvd cl...   0.252688
+
+step 1
+index added: 64
+percentage unclustered: 71.1111%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 67.7778%
+
+	step 2
+
+		step 3
+		candidate index: 65 with core nodes: [9, 39, 44, 65]
+			old information: 208, gain: 0.9813870246085011
+
+    ind                                             review  relevance
+0   44  terry jones co director monty python holy grai...   0.408215
+1   39  monty python holy grail without doubt essental...   0.401270
+2   55  say film whose script virtually memorized legi...   0.373262
+3   21  enjoying set movie quality great extras disc g...   0.338641
+4   63  monty python holy grail one greatest comedies ...   0.331557
+5   23  well monty python holy grail gem edition quite...   0.323207
+6   45  know love movie get collector edition asap ext...   0.319450
+7   56  nothing say film simply word warning box set a...   0.318711
+8   65  m sure like movie seems something balance appa...   0.308323
+9   62  review collector set specifically already spec...   0.271214
+10  19  please careful order edition classic monty pyt...   0.257723
+11  31  dvd umd version psp n nthe dvd pictured dvd cl...   0.252688
+
+step 1
+index added: 66
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 75.5556%
+
+	step 2
+
+		step 3
+		candidate index: 70 with core nodes: [16, 22, 30, 31, 42, 43, 44, 45, 55, 56, 61, 62, 65, 70]
+			old information: 67, gain: 0.951378809869376
+
+    ind                                             review  relevance
+0   44  terry jones co director monty python holy grai...   0.408215
+1   39  monty python holy grail without doubt essental...   0.401270
+2   55  say film whose script virtually memorized legi...   0.373262
+3   21  enjoying set movie quality great extras disc g...   0.338641
+4   63  monty python holy grail one greatest comedies ...   0.331557
+5   23  well monty python holy grail gem edition quite...   0.323207
+6   45  know love movie get collector edition asap ext...   0.319450
+7   56  nothing say film simply word warning box set a...   0.318711
+8   65  m sure like movie seems something balance appa...   0.308323
+9   70  excellent movie dvd edition awful numerous def...   0.307313
+10  62  review collector set specifically already spec...   0.271214
+11  19  please careful order edition classic monty pyt...   0.257723
+12  31  dvd umd version psp n nthe dvd pictured dvd cl...   0.252688
+
+step 1
+index added: 71
+percentage unclustered: 75.5556%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 75.5556%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 74.4444%
+
+	step 2
+
+		step 3
+		candidate index: 73 with core nodes: [16, 22, 31, 42, 43, 44, 45, 55, 56, 61, 62, 65, 70]
+			old information: 21, gain: 0.9821428571428571
+
+    ind                                             review  relevance
+0   44  terry jones co director monty python holy grai...   0.408215
+1   39  monty python holy grail without doubt essental...   0.401270
+2   55  say film whose script virtually memorized legi...   0.373262
+3   21  enjoying set movie quality great extras disc g...   0.338641
+4   63  monty python holy grail one greatest comedies ...   0.331557
+5   23  well monty python holy grail gem edition quite...   0.323207
+6   45  know love movie get collector edition asap ext...   0.319450
+7   56  nothing say film simply word warning box set a...   0.318711
+8   65  m sure like movie seems something balance appa...   0.308323
+9   70  excellent movie dvd edition awful numerous def...   0.307313
+10  62  review collector set specifically already spec...   0.271214
+11  19  please careful order edition classic monty pyt...   0.257723
+12  31  dvd umd version psp n nthe dvd pictured dvd cl...   0.252688
+13  73  disc experience following problem captioning a...   0.136155
+
+step 1
+index added: 74
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 62.2222%
+
+	step 2
+
+		step 3
+		candidate index: 80 with core nodes: [52, 66, 68, 77]
+
+step 1
+index added: 81
+percentage unclustered: 61.1111%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 61.1111%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 61.1111%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 60.0%
+
+	step 2
+
+--- 35.13785982131958 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 95.5556, 95.5556, 93.3333, 93.3333, 90.0, 88.8889, 88.8889, 88.8889, 88.8889, 88.8889, 87.7778, 84.4444, 83.33330000000001, 81.1111, 81.1111, 81.1111, 81.1111, 81.1111, 81.1111, 80.0, 78.8889, 78.8889, 78.8889, 78.8889, 78.8889, 75.5556, 74.4444, 74.4444, 74.4444, 74.4444, 74.4444, 74.4444, 74.4444, 74.4444, 74.4444, 74.4444, 73.33330000000001, 73.33330000000001, 73.33330000000001, 72.2222, 72.2222, 72.2222, 72.2222, 71.1111, 71.1111, 71.1111, 67.7778, 70.0, 70.0, 74.4444, 74.4444, 75.5556, 75.5556, 75.5556, 74.4444, 74.4444, 74.4444, 74.4444, 70.0, 70.0, 70.0, 62.2222, 61.1111, 61.1111, 61.1111, 60.0, 60.0, 60.0, 60.0, 60.0, 60.0], mean: 80.3156
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        62  44   0.408215  terry jones co director monty python holy grai...
+1        76  39   0.401270  monty python holy grail without doubt essental...
+2        54  55   0.373262  say film whose script virtually memorized legi...
+3        69  21   0.338641  enjoying set movie quality great extras disc g...
+4        14  63   0.331557  monty python holy grail one greatest comedies ...
+5        34  23   0.323207  well monty python holy grail gem edition quite...
+6        63  45   0.319450  know love movie get collector edition asap ext...
+7        33  56   0.318711  nothing say film simply word warning box set a...
+8        85  65   0.308323  m sure like movie seems something balance appa...
+9        37  70   0.307313  excellent movie dvd edition awful numerous def...
+10       58  62   0.271214  review collector set specifically already spec...
+11       55  19   0.257723  please careful order edition classic monty pyt...
+12       23  31   0.252688  dvd umd version psp n nthe dvd pictured dvd cl...
+13       46  73   0.136155  disc experience following problem captioning a...
