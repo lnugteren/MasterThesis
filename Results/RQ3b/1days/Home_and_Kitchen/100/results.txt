@@ -1,0 +1,997 @@
+------- Category: Home_and_Kitchen -------
+Found asin_id: B00004YNX2
+Shape:  (100, 7)
+
+
+Chosen product: B00004YNX2 has 100 reviews - True, it has 100 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 97.0%
+
+	step 2
+
+		step 3
+		candidate index: 3 with core nodes: [0, 1, 3]
+		The relevance model has size: 2
+		1 reviews removed from the relevance model, indices: [0]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   3  produces intense heat quickly m sure heating e...   0.165897
+
+step 1
+index added: 4
+percentage unclustered: 97.0%
+
+	step 2
+
+step 1
+index added: 5
+percentage unclustered: 96.0%
+
+	step 2
+
+		step 3
+		candidate index: 5 with core nodes: [0, 1, 3, 5]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [0, 1]. 
+		It now has size: 1
+			old information: 29, gain: 0.8853754940711462
+
+   ind                                             review  relevance
+0   5  oven used baking toasting warming much quicker...   0.345162
+1   3  produces intense heat quickly m sure heating e...   0.165897
+
+step 1
+index added: 6
+percentage unclustered: 96.0%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 96.0%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 95.0%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [0, 3, 5, 8]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [0, 3]. 
+		It now has size: 1
+			old information: 1143, gain: 0.9745150501672241
+
+   ind                                             review  relevance
+0   5  oven used baking toasting warming much quicker...   0.345162
+1   8  cuisinart convection oven exact heat one fines...   0.311494
+2   3  produces intense heat quickly m sure heating e...   0.165897
+
+step 1
+index added: 9
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 94.0%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [0, 3, 5, 8]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [0, 5]. 
+		It now has size: 2
+			old information: 183, gain: 0.8721174004192872
+
+   ind                                             review  relevance
+0   5  oven used baking toasting warming much quicker...   0.345162
+1   8  cuisinart convection oven exact heat one fines...   0.311494
+2  10  5 ovens period years either died perfomed badl...   0.205860
+3   3  produces intense heat quickly m sure heating e...   0.165897
+
+step 1
+index added: 11
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 95.0%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [0, 3, 10, 13]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [8, 10]. 
+		It now has size: 2
+			old information: 207, gain: 0.9190140845070423
+
+   ind                                             review  relevance
+0  13  purchased item based rating consumer reports t...   0.364173
+1   5  oven used baking toasting warming much quicker...   0.345162
+2   8  cuisinart convection oven exact heat one fines...   0.311494
+3  10  5 ovens period years either died perfomed badl...   0.205860
+4   3  produces intense heat quickly m sure heating e...   0.165897
+
+step 1
+index added: 14
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 92.0%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [0, 3, 13, 15]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [3, 13]. 
+		It now has size: 1
+			old information: 1099, gain: 0.9649721115537848
+
+   ind                                             review  relevance
+0  13  purchased item based rating consumer reports t...   0.364173
+1   5  oven used baking toasting warming much quicker...   0.345162
+2  15  love toast make lot sandwiches premium breads ...   0.337084
+3   8  cuisinart convection oven exact heat one fines...   0.311494
+4  10  5 ovens period years either died perfomed badl...   0.205860
+5   3  produces intense heat quickly m sure heating e...   0.165897
+
+step 1
+index added: 16
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 91.0%
+
+	step 2
+
+		step 3
+		candidate index: 23 with core nodes: [3, 5, 23]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [0, 3]. 
+		It now has size: 2
+			old information: 54, gain: 0.7428571428571429
+
+   ind                                             review  relevance
+0  13  purchased item based rating consumer reports t...   0.364173
+1   5  oven used baking toasting warming much quicker...   0.345162
+2  15  love toast make lot sandwiches premium breads ...   0.337084
+3   8  cuisinart convection oven exact heat one fines...   0.311494
+4  23  toaster oven fantastic appliance kitchen makes...   0.286829
+5  10  5 ovens period years either died perfomed badl...   0.205860
+6   3  produces intense heat quickly m sure heating e...   0.165897
+
+step 1
+index added: 24
+percentage unclustered: 92.0%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [0, 13, 15, 24]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [13, 15, 23]. 
+		It now has size: 2
+			old information: 2885, gain: 0.9397640672303998
+
+   ind                                             review  relevance
+0  24  previously delonghi toaster oven really liked ...   0.385515
+1  13  purchased item based rating consumer reports t...   0.364173
+2   5  oven used baking toasting warming much quicker...   0.345162
+3  15  love toast make lot sandwiches premium breads ...   0.337084
+4   8  cuisinart convection oven exact heat one fines...   0.311494
+5  23  toaster oven fantastic appliance kitchen makes...   0.286829
+6  10  5 ovens period years either died perfomed badl...   0.205860
+7   3  produces intense heat quickly m sure heating e...   0.165897
+
+step 1
+index added: 25
+percentage unclustered: 91.0%
+
+	step 2
+
+		step 3
+		candidate index: 25 with core nodes: [0, 15, 24, 25]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [5, 24]. 
+		It now has size: 2
+			old information: 256, gain: 0.6878048780487804
+
+   ind                                             review  relevance
+0  25  bit hesitant buying hundred dollar plus toaste...   0.482470
+1  24  previously delonghi toaster oven really liked ...   0.385515
+2  13  purchased item based rating consumer reports t...   0.364173
+3   5  oven used baking toasting warming much quicker...   0.345162
+4  15  love toast make lot sandwiches premium breads ...   0.337084
+5   8  cuisinart convection oven exact heat one fines...   0.311494
+6  23  toaster oven fantastic appliance kitchen makes...   0.286829
+7  10  5 ovens period years either died perfomed badl...   0.205860
+8   3  produces intense heat quickly m sure heating e...   0.165897
+
+step 1
+index added: 26
+percentage unclustered: 89.0%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [3, 5, 23]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [0, 5, 25]. 
+		It now has size: 3
+			old information: 169, gain: 0.7462462462462462
+
+   ind                                             review  relevance
+0  25  bit hesitant buying hundred dollar plus toaste...   0.482470
+1  24  previously delonghi toaster oven really liked ...   0.385515
+2  13  purchased item based rating consumer reports t...   0.364173
+3   5  oven used baking toasting warming much quicker...   0.345162
+4  15  love toast make lot sandwiches premium breads ...   0.337084
+5   8  cuisinart convection oven exact heat one fines...   0.311494
+6  23  toaster oven fantastic appliance kitchen makes...   0.286829
+7  26  handiest product ve bought long time toast gre...   0.238221
+8  10  5 ovens period years either died perfomed badl...   0.205860
+9   3  produces intense heat quickly m sure heating e...   0.165897
+
+step 1
+index added: 27
+percentage unclustered: 89.0%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 89.0%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 88.0%
+
+	step 2
+
+		step 3
+		candidate index: 29 with core nodes: [3, 5, 23]
+
+step 1
+index added: 30
+percentage unclustered: 87.0%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [0, 15, 24, 25]
+
+step 1
+index added: 31
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [13, 15, 24, 25]
+
+step 1
+index added: 33
+percentage unclustered: 84.0%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [0, 15, 24, 25]
+
+step 1
+index added: 34
+percentage unclustered: 83.0%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [0, 15, 24, 25]
+
+step 1
+index added: 35
+percentage unclustered: 83.0%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 77.0%
+
+	step 2
+
+		step 3
+		candidate index: 39 with core nodes: [3, 22, 23]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [15, 22, 23]. 
+		It now has size: 2
+			old information: 120, gain: 0.7727272727272727
+
+    ind                                             review  relevance
+0   25  bit hesitant buying hundred dollar plus toaste...   0.482470
+1   24  previously delonghi toaster oven really liked ...   0.385515
+2   13  purchased item based rating consumer reports t...   0.364173
+3    5  oven used baking toasting warming much quicker...   0.345162
+4   15  love toast make lot sandwiches premium breads ...   0.337084
+5    8  cuisinart convection oven exact heat one fines...   0.311494
+6   39  purchased cuisinart convectiontoaster oven bro...   0.308425
+7   23  toaster oven fantastic appliance kitchen makes...   0.286829
+8   26  handiest product ve bought long time toast gre...   0.238221
+9   10  5 ovens period years either died perfomed badl...   0.205860
+10   3  produces intense heat quickly m sure heating e...   0.165897
+
+step 1
+index added: 40
+percentage unclustered: 76.0%
+
+	step 2
+
+		step 3
+		candidate index: 40 with core nodes: [15, 24, 25]
+
+step 1
+index added: 41
+percentage unclustered: 76.0%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 75.0%
+
+	step 2
+
+		step 3
+		candidate index: 42 with core nodes: [15, 24, 25]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [3, 24, 39]. 
+		It now has size: 3
+			old information: 236, gain: 0.6456456456456456
+
+    ind                                             review  relevance
+0   25  bit hesitant buying hundred dollar plus toaste...   0.482470
+1   24  previously delonghi toaster oven really liked ...   0.385515
+2   42  looking toaster oven could toast second set to...   0.376144
+3   13  purchased item based rating consumer reports t...   0.364173
+4    5  oven used baking toasting warming much quicker...   0.345162
+5   15  love toast make lot sandwiches premium breads ...   0.337084
+6    8  cuisinart convection oven exact heat one fines...   0.311494
+7   39  purchased cuisinart convectiontoaster oven bro...   0.308425
+8   23  toaster oven fantastic appliance kitchen makes...   0.286829
+9   26  handiest product ve bought long time toast gre...   0.238221
+10  10  5 ovens period years either died perfomed badl...   0.205860
+11   3  produces intense heat quickly m sure heating e...   0.165897
+
+step 1
+index added: 43
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 74.0%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [3, 22, 23]
+
+step 1
+index added: 47
+percentage unclustered: 74.0%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 73.0%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 73.0%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 73.0%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 72.0%
+
+	step 2
+
+		step 3
+		candidate index: 51 with core nodes: [0, 25, 51]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [0, 25, 26]. 
+		It now has size: 2
+			old information: 121, gain: 0.5966666666666667
+
+    ind                                             review  relevance
+0   25  bit hesitant buying hundred dollar plus toaste...   0.482470
+1   51  finally found toaster toast sides toaster love...   0.405047
+2   24  previously delonghi toaster oven really liked ...   0.385515
+3   42  looking toaster oven could toast second set to...   0.376144
+4   13  purchased item based rating consumer reports t...   0.364173
+5    5  oven used baking toasting warming much quicker...   0.345162
+6   15  love toast make lot sandwiches premium breads ...   0.337084
+7    8  cuisinart convection oven exact heat one fines...   0.311494
+8   39  purchased cuisinart convectiontoaster oven bro...   0.308425
+9   23  toaster oven fantastic appliance kitchen makes...   0.286829
+10  26  handiest product ve bought long time toast gre...   0.238221
+11  10  5 ovens period years either died perfomed badl...   0.205860
+12   3  produces intense heat quickly m sure heating e...   0.165897
+
+step 1
+index added: 52
+percentage unclustered: 69.0%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 69.0%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 71.0%
+
+	step 2
+
+		step 3
+		candidate index: 55 with core nodes: [15, 24, 25]
+
+step 1
+index added: 56
+percentage unclustered: 71.0%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 57 with core nodes: [15, 24, 25, 57]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [15, 25, 51]. 
+		It now has size: 2
+			old information: 2012, gain: 0.9018680193142466
+
+    ind                                             review  relevance
+0   25  bit hesitant buying hundred dollar plus toaste...   0.482470
+1   57  well say personally love toaster oven listen n...   0.448543
+2   51  finally found toaster toast sides toaster love...   0.405047
+3   24  previously delonghi toaster oven really liked ...   0.385515
+4   42  looking toaster oven could toast second set to...   0.376144
+5   13  purchased item based rating consumer reports t...   0.364173
+6    5  oven used baking toasting warming much quicker...   0.345162
+7   15  love toast make lot sandwiches premium breads ...   0.337084
+8    8  cuisinart convection oven exact heat one fines...   0.311494
+9   39  purchased cuisinart convectiontoaster oven bro...   0.308425
+10  23  toaster oven fantastic appliance kitchen makes...   0.286829
+11  26  handiest product ve bought long time toast gre...   0.238221
+12  10  5 ovens period years either died perfomed badl...   0.205860
+13   3  produces intense heat quickly m sure heating e...   0.165897
+
+step 1
+index added: 58
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 69.0%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 68.0%
+
+	step 2
+
+		step 3
+		candidate index: 61 with core nodes: [38, 53, 61]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [42, 53, 57]. 
+		It now has size: 2
+			old information: 1983, gain: 0.9392463235294117
+
+    ind                                             review  relevance
+0   61  updated end review november 28 2009 november 8...   0.535432
+1   25  bit hesitant buying hundred dollar plus toaste...   0.482470
+2   57  well say personally love toaster oven listen n...   0.448543
+3   51  finally found toaster toast sides toaster love...   0.405047
+4   24  previously delonghi toaster oven really liked ...   0.385515
+5   42  looking toaster oven could toast second set to...   0.376144
+6   13  purchased item based rating consumer reports t...   0.364173
+7    5  oven used baking toasting warming much quicker...   0.345162
+8   15  love toast make lot sandwiches premium breads ...   0.337084
+9    8  cuisinart convection oven exact heat one fines...   0.311494
+10  39  purchased cuisinart convectiontoaster oven bro...   0.308425
+11  23  toaster oven fantastic appliance kitchen makes...   0.286829
+12  26  handiest product ve bought long time toast gre...   0.238221
+13  10  5 ovens period years either died perfomed badl...   0.205860
+14   3  produces intense heat quickly m sure heating e...   0.165897
+
+step 1
+index added: 62
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 62.0%
+
+	step 2
+
+		step 3
+		candidate index: 67 with core nodes: [22, 23, 67]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [23, 24, 61]. 
+		It now has size: 2
+			old information: 1345, gain: 0.8780155994921096
+
+    ind                                             review  relevance
+0   61  updated end review november 28 2009 november 8...   0.535432
+1   25  bit hesitant buying hundred dollar plus toaste...   0.482470
+2   57  well say personally love toaster oven listen n...   0.448543
+3   51  finally found toaster toast sides toaster love...   0.405047
+4   24  previously delonghi toaster oven really liked ...   0.385515
+5   42  looking toaster oven could toast second set to...   0.376144
+6   13  purchased item based rating consumer reports t...   0.364173
+7    5  oven used baking toasting warming much quicker...   0.345162
+8   15  love toast make lot sandwiches premium breads ...   0.337084
+9   67  reading yes reviews cuisinart tob 165 convecti...   0.330771
+10   8  cuisinart convection oven exact heat one fines...   0.311494
+11  39  purchased cuisinart convectiontoaster oven bro...   0.308425
+12  23  toaster oven fantastic appliance kitchen makes...   0.286829
+13  26  handiest product ve bought long time toast gre...   0.238221
+14  10  5 ovens period years either died perfomed badl...   0.205860
+15   3  produces intense heat quickly m sure heating e...   0.165897
+
+step 1
+index added: 68
+percentage unclustered: 62.0%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 62.0%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 63.0%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 63.0%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 62.0%
+
+	step 2
+
+		step 3
+		candidate index: 72 with core nodes: [3, 24, 53, 57, 61, 66]
+
+step 1
+index added: 73
+percentage unclustered: 62.0%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 62.0%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 62.0%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 61.0%
+
+	step 2
+
+		step 3
+		candidate index: 76 with core nodes: [3, 24, 53, 57, 61, 66]
+
+step 1
+index added: 77
+percentage unclustered: 60.0%
+
+	step 2
+
+		step 3
+		candidate index: 77 with core nodes: [3, 24, 53, 57, 61, 66]
+
+step 1
+index added: 78
+percentage unclustered: 61.0%
+
+	step 2
+
+		step 3
+		candidate index: 78 with core nodes: [3, 24, 61, 66, 78]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [24, 38, 66, 67]. 
+		It now has size: 3
+			old information: 3586, gain: 0.8551286712721691
+
+    ind                                             review  relevance
+0   78  m big fan lot cooking toaster oven since singl...   0.653431
+1   61  updated end review november 28 2009 november 8...   0.535432
+2   25  bit hesitant buying hundred dollar plus toaste...   0.482470
+3   57  well say personally love toaster oven listen n...   0.448543
+4   51  finally found toaster toast sides toaster love...   0.405047
+5   24  previously delonghi toaster oven really liked ...   0.385515
+6   42  looking toaster oven could toast second set to...   0.376144
+7   13  purchased item based rating consumer reports t...   0.364173
+8    5  oven used baking toasting warming much quicker...   0.345162
+9   15  love toast make lot sandwiches premium breads ...   0.337084
+10  67  reading yes reviews cuisinart tob 165 convecti...   0.330771
+11   8  cuisinart convection oven exact heat one fines...   0.311494
+12  39  purchased cuisinart convectiontoaster oven bro...   0.308425
+13  23  toaster oven fantastic appliance kitchen makes...   0.286829
+14  26  handiest product ve bought long time toast gre...   0.238221
+15  10  5 ovens period years either died perfomed badl...   0.205860
+16   3  produces intense heat quickly m sure heating e...   0.165897
+
+step 1
+index added: 79
+percentage unclustered: 60.0%
+
+	step 2
+
+		step 3
+		candidate index: 79 with core nodes: [3, 61, 78, 79]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [22, 61]. 
+		It now has size: 2
+			old information: 1509, gain: 0.7988804478208716
+
+    ind                                             review  relevance
+0   78  m big fan lot cooking toaster oven since singl...   0.653431
+1   61  updated end review november 28 2009 november 8...   0.535432
+2   79  ve owned least 10 different toaster ovens year...   0.533125
+3   25  bit hesitant buying hundred dollar plus toaste...   0.482470
+4   57  well say personally love toaster oven listen n...   0.448543
+5   51  finally found toaster toast sides toaster love...   0.405047
+6   24  previously delonghi toaster oven really liked ...   0.385515
+7   42  looking toaster oven could toast second set to...   0.376144
+8   13  purchased item based rating consumer reports t...   0.364173
+9    5  oven used baking toasting warming much quicker...   0.345162
+10  15  love toast make lot sandwiches premium breads ...   0.337084
+11  67  reading yes reviews cuisinart tob 165 convecti...   0.330771
+12   8  cuisinart convection oven exact heat one fines...   0.311494
+13  39  purchased cuisinart convectiontoaster oven bro...   0.308425
+14  23  toaster oven fantastic appliance kitchen makes...   0.286829
+15  26  handiest product ve bought long time toast gre...   0.238221
+16  10  5 ovens period years either died perfomed badl...   0.205860
+17   3  produces intense heat quickly m sure heating e...   0.165897
+
+step 1
+index added: 80
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 55.0%
+
+	step 2
+
+		step 3
+		candidate index: 82 with core nodes: [3, 61, 78, 79]
+
+step 1
+index added: 83
+percentage unclustered: 55.0%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 55.0%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 55.0%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 54.0%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 54.0%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 54.0%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 53.0%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 53.0%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 58.0%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 58.0%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 58.0%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 58.0%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 57.0%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 56.0%
+
+	step 2
+
+		step 3
+		candidate index: 96 with core nodes: [3, 61, 78, 79]
+
+step 1
+index added: 97
+percentage unclustered: 55.0%
+
+	step 2
+
+		step 3
+		candidate index: 97 with core nodes: [3, 61, 78, 79]
+
+step 1
+index added: 98
+percentage unclustered: 54.0%
+
+	step 2
+
+		step 3
+		candidate index: 98 with core nodes: [3, 61, 78, 79]
+
+step 1
+index added: 99
+percentage unclustered: 54.0%
+
+	step 2
+
+--- 236.62170839309692 seconds ---
+
+
+ Unclustered percentages: [100.0, 97.0, 97.0, 96.0, 96.0, 96.0, 95.0, 95.0, 94.0, 94.0, 94.0, 95.0, 95.0, 92.0, 92.0, 92.0, 92.0, 92.0, 92.0, 92.0, 92.0, 91.0, 92.0, 91.0, 89.0, 89.0, 89.0, 88.0, 87.0, 88.0, 85.0, 84.0, 83.0, 83.0, 80.0, 80.0, 80.0, 77.0, 76.0, 76.0, 75.0, 75.0, 75.0, 75.0, 74.0, 74.0, 73.0, 73.0, 73.0, 72.0, 69.0, 69.0, 68.0, 71.0, 71.0, 70.0, 70.0, 70.0, 69.0, 68.0, 68.0, 68.0, 68.0, 68.0, 68.0, 62.0, 62.0, 62.0, 63.0, 63.0, 62.0, 62.0, 62.0, 62.0, 61.0, 60.0, 61.0, 60.0, 60.0, 60.0, 55.0, 55.0, 55.0, 55.0, 54.0, 54.0, 54.0, 53.0, 53.0, 58.0, 58.0, 58.0, 58.0, 57.0, 56.0, 55.0, 54.0, 54.0], mean: 74.2857
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        30  78   0.653431  m big fan lot cooking toaster oven since singl...
+1        48  61   0.535432  updated end review november 28 2009 november 8...
+2         9  79   0.533125  ve owned least 10 different toaster ovens year...
+3        72  25   0.482470  bit hesitant buying hundred dollar plus toaste...
+4        51  57   0.448543  well say personally love toaster oven listen n...
+5        98  51   0.405047  finally found toaster toast sides toaster love...
+6         6  24   0.385515  previously delonghi toaster oven really liked ...
+7        96  42   0.376144  looking toaster oven could toast second set to...
+8        32  13   0.364173  purchased item based rating consumer reports t...
+9        77   5   0.345162  oven used baking toasting warming much quicker...
+10       81  15   0.337084  love toast make lot sandwiches premium breads ...
+11       31  67   0.330771  reading yes reviews cuisinart tob 165 convecti...
+12       17   8   0.311494  cuisinart convection oven exact heat one fines...
+13       90  39   0.308425  purchased cuisinart convectiontoaster oven bro...
+14       85  23   0.286829  toaster oven fantastic appliance kitchen makes...
+15       87  26   0.238221  handiest product ve bought long time toast gre...
+16       80  10   0.205860  5 ovens period years either died perfomed badl...
+17       40   3   0.165897  produces intense heat quickly m sure heating e...

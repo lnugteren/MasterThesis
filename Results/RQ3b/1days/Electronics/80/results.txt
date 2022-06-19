@@ -1,0 +1,691 @@
+------- Category: Electronics -------
+Found asin_id: B0000EI9VR
+Shape:  (80, 7)
+
+
+Chosen product: B0000EI9VR has 80 reviews - True, it has 80 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 96.25%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [1, 3, 6]
+		The relevance model has size: 2
+		1 reviews removed from the relevance model, indices: [1]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   6  read reviews specs technical stuff opinion one...   0.099449
+
+step 1
+index added: 7
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 93.75%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [1, 2, 3, 13]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [1, 3]. 
+		It now has size: 2
+			old information: 55, gain: 0.9985817797375003
+
+   ind                                             review  relevance
+0  13  ok first let s get straight look options one n...   0.402961
+1   6  read reviews specs technical stuff opinion one...   0.099449
+
+step 1
+index added: 14
+percentage unclustered: 93.75%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [8, 12, 15]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [6, 12, 13]. 
+		It now has size: 2
+			old information: 569, gain: 0.9563683766582317
+
+   ind                                             review  relevance
+0  13  ok first let s get straight look options one n...   0.402961
+1  15  purchased unit july year 04 love thing use fil...   0.209289
+2   6  read reviews specs technical stuff opinion one...   0.099449
+
+step 1
+index added: 16
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 88.75%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [1, 2, 13, 18]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [2, 13, 15]. 
+		It now has size: 2
+			old information: 2209, gain: 0.9585561246505694
+
+   ind                                             review  relevance
+0  13  ok first let s get straight look options one n...   0.402961
+1  18  month endless research online cnet reviews ama...   0.339605
+2  15  purchased unit july year 04 love thing use fil...   0.209289
+3   6  read reviews specs technical stuff opinion one...   0.099449
+
+step 1
+index added: 19
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [13, 14, 18, 20]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [8, 14, 18]. 
+		It now has size: 2
+			old information: 2762, gain: 0.939231260038283
+
+   ind                                             review  relevance
+0  20  ll admit ihp 120 n t first hdd player bought o...   0.602482
+1  13  ok first let s get straight look options one n...   0.402961
+2  18  month endless research online cnet reviews ama...   0.339605
+3  15  purchased unit july year 04 love thing use fil...   0.209289
+4   6  read reviews specs technical stuff opinion one...   0.099449
+
+step 1
+index added: 21
+percentage unclustered: 83.75%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [13, 14, 18, 20]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [1, 18, 20]. 
+		It now has size: 2
+			old information: 1697, gain: 0.906475613116561
+
+   ind                                             review  relevance
+0  20  ll admit ihp 120 n t first hdd player bought o...   0.602482
+1  13  ok first let s get straight look options one n...   0.402961
+2  21  six months ago bought ihp 120 lot research con...   0.398790
+3  18  month endless research online cnet reviews ama...   0.339605
+4  15  purchased unit july year 04 love thing use fil...   0.209289
+5   6  read reviews specs technical stuff opinion one...   0.099449
+
+step 1
+index added: 22
+percentage unclustered: 83.75%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 87.5%
+
+	step 2
+
+		step 3
+		candidate index: 23 with core nodes: [13, 18, 20, 23]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [13, 20, 21]. 
+		It now has size: 2
+			old information: 1221, gain: 0.8762917933130699
+
+   ind                                             review  relevance
+0  20  ll admit ihp 120 n t first hdd player bought o...   0.602482
+1  23  never really considered ipod n t many features...   0.501080
+2  13  ok first let s get straight look options one n...   0.402961
+3  21  six months ago bought ihp 120 lot research con...   0.398790
+4  18  month endless research online cnet reviews ama...   0.339605
+5  15  purchased unit july year 04 love thing use fil...   0.209289
+6   6  read reviews specs technical stuff opinion one...   0.099449
+
+step 1
+index added: 24
+percentage unclustered: 86.25%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [13, 20, 23, 24]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [14, 20, 23]. 
+		It now has size: 2
+			old information: 4095, gain: 0.980160172090522
+
+   ind                                             review  relevance
+0  20  ll admit ihp 120 n t first hdd player bought o...   0.602482
+1  23  never really considered ipod n t many features...   0.501080
+2  24  since amazon wo n t let update previous review...   0.454135
+3  13  ok first let s get straight look options one n...   0.402961
+4  21  six months ago bought ihp 120 lot research con...   0.398790
+5  18  month endless research online cnet reviews ama...   0.339605
+6  15  purchased unit july year 04 love thing use fil...   0.209289
+7   6  read reviews specs technical stuff opinion one...   0.099449
+
+step 1
+index added: 25
+percentage unclustered: 86.25%
+
+	step 2
+
+		step 3
+		candidate index: 25 with core nodes: [13, 20, 25]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [18, 24]. 
+		It now has size: 2
+			old information: 8352, gain: 0.9462558637864134
+
+   ind                                             review  relevance
+0  25  buying apple ipod trying weeks returned purcha...   0.786752
+1  20  ll admit ihp 120 n t first hdd player bought o...   0.602482
+2  23  never really considered ipod n t many features...   0.501080
+3  24  since amazon wo n t let update previous review...   0.454135
+4  13  ok first let s get straight look options one n...   0.402961
+5  21  six months ago bought ihp 120 lot research con...   0.398790
+6  18  month endless research online cnet reviews ama...   0.339605
+7  15  purchased unit july year 04 love thing use fil...   0.209289
+8   6  read reviews specs technical stuff opinion one...   0.099449
+
+step 1
+index added: 26
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [13, 20, 25]
+
+step 1
+index added: 27
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [13, 20, 25]
+
+step 1
+index added: 34
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 88.75%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [20, 23, 25, 33]
+
+step 1
+index added: 44
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 83.75%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 83.75%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 83.75%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 83.75%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 77.5%
+
+	step 2
+
+		step 3
+		candidate index: 51 with core nodes: [13, 20, 25]
+
+step 1
+index added: 52
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 73.75%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 72.5%
+
+	step 2
+
+		step 3
+		candidate index: 59 with core nodes: [20, 23, 25, 59]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [13, 25]. 
+		It now has size: 2
+			old information: 2707, gain: 0.8242207792207792
+
+   ind                                             review  relevance
+0  25  buying apple ipod trying weeks returned purcha...   0.786752
+1  59  positives n slick lcd remote control every fun...   0.725958
+2  20  ll admit ihp 120 n t first hdd player bought o...   0.602482
+3  23  never really considered ipod n t many features...   0.501080
+4  24  since amazon wo n t let update previous review...   0.454135
+5  13  ok first let s get straight look options one n...   0.402961
+6  21  six months ago bought ihp 120 lot research con...   0.398790
+7  18  month endless research online cnet reviews ama...   0.339605
+8  15  purchased unit july year 04 love thing use fil...   0.209289
+9   6  read reviews specs technical stuff opinion one...   0.099449
+
+step 1
+index added: 60
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 68.75%
+
+	step 2
+
+		step 3
+		candidate index: 62 with core nodes: [18, 22, 55, 56]
+
+step 1
+index added: 63
+percentage unclustered: 68.75%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 68.75%
+
+	step 2
+
+		step 3
+		candidate index: 65 with core nodes: [20, 25, 59, 65]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [20, 59]. 
+		It now has size: 2
+			old information: 2473, gain: 0.7954507857733664
+
+    ind                                             review  relevance
+0   25  buying apple ipod trying weeks returned purcha...   0.786752
+1   59  positives n slick lcd remote control every fun...   0.725958
+2   65  player month truly player players definitely i...   0.647899
+3   20  ll admit ihp 120 n t first hdd player bought o...   0.602482
+4   23  never really considered ipod n t many features...   0.501080
+5   24  since amazon wo n t let update previous review...   0.454135
+6   13  ok first let s get straight look options one n...   0.402961
+7   21  six months ago bought ihp 120 lot research con...   0.398790
+8   18  month endless research online cnet reviews ama...   0.339605
+9   15  purchased unit july year 04 love thing use fil...   0.209289
+10   6  read reviews specs technical stuff opinion one...   0.099449
+
+step 1
+index added: 66
+percentage unclustered: 68.75%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 68.75%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 68.75%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 67.5%
+
+	step 2
+
+		step 3
+		candidate index: 69 with core nodes: [22, 55, 56]
+
+step 1
+index added: 70
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 65.0%
+
+	step 2
+
+		step 3
+		candidate index: 73 with core nodes: [13, 25, 73]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [23, 65]. 
+		It now has size: 2
+			old information: 3473, gain: 0.8085974097547534
+
+    ind                                             review  relevance
+0   25  buying apple ipod trying weeks returned purcha...   0.786752
+1   73  dont get wrong ipod great far best design mark...   0.730747
+2   59  positives n slick lcd remote control every fun...   0.725958
+3   65  player month truly player players definitely i...   0.647899
+4   20  ll admit ihp 120 n t first hdd player bought o...   0.602482
+5   23  never really considered ipod n t many features...   0.501080
+6   24  since amazon wo n t let update previous review...   0.454135
+7   13  ok first let s get straight look options one n...   0.402961
+8   21  six months ago bought ihp 120 lot research con...   0.398790
+9   18  month endless research online cnet reviews ama...   0.339605
+10  15  purchased unit july year 04 love thing use fil...   0.209289
+11   6  read reviews specs technical stuff opinion one...   0.099449
+
+step 1
+index added: 74
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 65.0%
+
+	step 2
+
+--- 480.59821367263794 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 96.25, 96.25, 96.25, 96.25, 96.25, 96.25, 96.25, 93.75, 93.75, 90.0, 90.0, 90.0, 88.75, 88.75, 85.0, 83.75, 83.75, 87.5, 86.25, 86.25, 85.0, 85.0, 88.75, 88.75, 88.75, 88.75, 88.75, 85.0, 85.0, 85.0, 85.0, 85.0, 90.0, 90.0, 90.0, 90.0, 90.0, 88.75, 88.75, 87.5, 87.5, 83.75, 83.75, 83.75, 83.75, 77.5, 77.5, 77.5, 77.5, 76.25, 75.0, 75.0, 73.75, 72.5, 72.5, 72.5, 68.75, 68.75, 70.0, 68.75, 68.75, 68.75, 68.75, 67.5, 67.5, 66.25, 66.25, 65.0, 65.0, 65.0, 65.0, 65.0, 65.0, 65.0], mean: 82.4359
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        10  25   0.786752  buying apple ipod trying weeks returned purcha...
+1         2  73   0.730747  dont get wrong ipod great far best design mark...
+2        75  59   0.725958  positives n slick lcd remote control every fun...
+3        35  65   0.647899  player month truly player players definitely i...
+4        26  20   0.602482  ll admit ihp 120 n t first hdd player bought o...
+5        69  23   0.501080  never really considered ipod n t many features...
+6        18  24   0.454135  since amazon wo n t let update previous review...
+7        64  13   0.402961  ok first let s get straight look options one n...
+8        17  21   0.398790  six months ago bought ihp 120 lot research con...
+9        43  18   0.339605  month endless research online cnet reviews ama...
+10       66  15   0.209289  purchased unit july year 04 love thing use fil...
+11       44   6   0.099449  read reviews specs technical stuff opinion one...

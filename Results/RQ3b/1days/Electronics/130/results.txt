@@ -1,0 +1,1198 @@
+------- Category: Electronics -------
+Found asin_id: B00AEMGGU2
+Shape:  (130, 7)
+
+
+Chosen product: B00AEMGGU2 has 130 reviews - True, it has 130 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 97.6923%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [4, 9, 10]
+		The relevance model has size: 2
+		1 reviews removed from the relevance model, indices: [4]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  10  bought everyone rated high set super easy easi...   0.086347
+
+step 1
+index added: 11
+percentage unclustered: 96.9231%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [4, 9, 10, 11]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [4, 9]. 
+		It now has size: 1
+			old information: 21, gain: 0.9797101449275363
+
+   ind                                             review  relevance
+0  11  bought play 1 play 3 playbar set 3 different r...   0.162483
+1  10  bought everyone rated high set super easy easi...   0.086347
+
+step 1
+index added: 12
+percentage unclustered: 96.9231%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 96.9231%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 96.9231%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 96.9231%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 95.3846%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [7, 9, 11, 16]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [7, 10]. 
+		It now has size: 2
+			old information: 27, gain: 0.8932806324110671
+
+   ind                                             review  relevance
+0  16  much harder sync play advertised 4 sonos zones...   0.265684
+1  11  bought play 1 play 3 playbar set 3 different r...   0.162483
+2  10  bought everyone rated high set super easy easi...   0.086347
+
+step 1
+index added: 17
+percentage unclustered: 95.3846%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 94.6154%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [4, 7, 9, 10, 11, 16, 18]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [7, 11, 16]. 
+		It now has size: 3
+			old information: 60, gain: 0.9938335046248715
+
+   ind                                             review  relevance
+0  18  s sonos sucks n nrestriction number one reason...   0.328121
+1  16  much harder sync play advertised 4 sonos zones...   0.265684
+2  11  bought play 1 play 3 playbar set 3 different r...   0.162483
+3  10  bought everyone rated high set super easy easi...   0.086347
+
+step 1
+index added: 19
+percentage unclustered: 94.6154%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 93.8462%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [1, 9, 11, 16, 18]
+
+step 1
+index added: 21
+percentage unclustered: 91.5385%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [1, 6, 7, 9, 11, 18, 21]
+		The relevance model has size: 8
+		4 reviews removed from the relevance model, indices: [1, 7, 9, 10]. 
+		It now has size: 4
+			old information: 34, gain: 0.977922077922078
+
+   ind                                             review  relevance
+0  21  samsung un55ks9500 curved 55 inch 4k ultra hd ...   0.386449
+1  18  s sonos sucks n nrestriction number one reason...   0.328121
+2  16  much harder sync play advertised 4 sonos zones...   0.265684
+3  11  bought play 1 play 3 playbar set 3 different r...   0.162483
+4  10  bought everyone rated high set super easy easi...   0.086347
+
+step 1
+index added: 22
+percentage unclustered: 91.5385%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 91.5385%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 91.5385%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 91.5385%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 91.5385%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [18, 21, 27]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [4, 6, 21]. 
+		It now has size: 2
+			old information: 100, gain: 0.9886078833447255
+
+   ind                                             review  relevance
+0  21  samsung un55ks9500 curved 55 inch 4k ultra hd ...   0.386449
+1  18  s sonos sucks n nrestriction number one reason...   0.328121
+2  27  ve player controller two half years satisfied ...   0.317512
+3  16  much harder sync play advertised 4 sonos zones...   0.265684
+4  11  bought play 1 play 3 playbar set 3 different r...   0.162483
+5  10  bought everyone rated high set super easy easi...   0.086347
+
+step 1
+index added: 28
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 87.6923%
+
+	step 2
+
+		step 3
+		candidate index: 29 with core nodes: [14, 18, 21, 23]
+
+step 1
+index added: 30
+percentage unclustered: 89.2308%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 89.2308%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 88.4615%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [14, 21, 23, 32]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [18, 21, 27]. 
+		It now has size: 3
+			old information: 427, gain: 0.9728940519266172
+
+   ind                                             review  relevance
+0  32  ll admit sonos playbar cheap probably best val...   0.548967
+1  21  samsung un55ks9500 curved 55 inch 4k ultra hd ...   0.386449
+2  18  s sonos sucks n nrestriction number one reason...   0.328121
+3  27  ve player controller two half years satisfied ...   0.317512
+4  16  much harder sync play advertised 4 sonos zones...   0.265684
+5  11  bought play 1 play 3 playbar set 3 different r...   0.162483
+6  10  bought everyone rated high set super easy easi...   0.086347
+
+step 1
+index added: 33
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 87.6923%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [14, 21, 23, 32]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [11, 21, 23]. 
+		It now has size: 2
+			old information: 147, gain: 0.9497607655502392
+
+   ind                                             review  relevance
+0  32  ll admit sonos playbar cheap probably best val...   0.548967
+1  37  disappointing soundbar thought would great pur...   0.420137
+2  21  samsung un55ks9500 curved 55 inch 4k ultra hd ...   0.386449
+3  18  s sonos sucks n nrestriction number one reason...   0.328121
+4  27  ve player controller two half years satisfied ...   0.317512
+5  16  much harder sync play advertised 4 sonos zones...   0.265684
+6  11  bought play 1 play 3 playbar set 3 different r...   0.162483
+7  10  bought everyone rated high set super easy easi...   0.086347
+
+step 1
+index added: 38
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [10, 14, 18, 21, 27, 37, 46]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [14, 18, 27, 37]. 
+		It now has size: 3
+			old information: 1017, gain: 0.9793044504588836
+
+   ind                                             review  relevance
+0  32  ll admit sonos playbar cheap probably best val...   0.548967
+1  46  first let s address elephant room price tag th...   0.487156
+2  37  disappointing soundbar thought would great pur...   0.420137
+3  21  samsung un55ks9500 curved 55 inch 4k ultra hd ...   0.386449
+4  18  s sonos sucks n nrestriction number one reason...   0.328121
+5  27  ve player controller two half years satisfied ...   0.317512
+6  16  much harder sync play advertised 4 sonos zones...   0.265684
+7  11  bought play 1 play 3 playbar set 3 different r...   0.162483
+8  10  bought everyone rated high set super easy easi...   0.086347
+
+step 1
+index added: 47
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 88.4615%
+
+	step 2
+
+		step 3
+		candidate index: 48 with core nodes: [10, 14, 18, 21, 27, 37, 46]
+		The relevance model has size: 8
+		4 reviews removed from the relevance model, indices: [14, 21, 27, 32]. 
+		It now has size: 4
+			old information: 268, gain: 0.9059649122807018
+
+   ind                                             review  relevance
+0  32  ll admit sonos playbar cheap probably best val...   0.548967
+1  46  first let s address elephant room price tag th...   0.487156
+2  37  disappointing soundbar thought would great pur...   0.420137
+3  21  samsung un55ks9500 curved 55 inch 4k ultra hd ...   0.386449
+4  48  spending couple hours trying make sound come p...   0.350834
+5  18  s sonos sucks n nrestriction number one reason...   0.328121
+6  27  ve player controller two half years satisfied ...   0.317512
+7  16  much harder sync play advertised 4 sonos zones...   0.265684
+8  11  bought play 1 play 3 playbar set 3 different r...   0.162483
+9  10  bought everyone rated high set super easy easi...   0.086347
+
+step 1
+index added: 49
+percentage unclustered: 87.6923%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [10, 14, 18, 21, 27, 37, 46]
+		The relevance model has size: 8
+		4 reviews removed from the relevance model, indices: [10, 18, 21, 48]. 
+		It now has size: 4
+			old information: 509, gain: 0.9102451066831246
+
+    ind                                             review  relevance
+0   32  ll admit sonos playbar cheap probably best val...   0.548967
+1   46  first let s address elephant room price tag th...   0.487156
+2   37  disappointing soundbar thought would great pur...   0.420137
+3   21  samsung un55ks9500 curved 55 inch 4k ultra hd ...   0.386449
+4   49  great soundbar want use sonos ecosystem love c...   0.352193
+5   48  spending couple hours trying make sound come p...   0.350834
+6   18  s sonos sucks n nrestriction number one reason...   0.328121
+7   27  ve player controller two half years satisfied ...   0.317512
+8   16  much harder sync play advertised 4 sonos zones...   0.265684
+9   11  bought play 1 play 3 playbar set 3 different r...   0.162483
+10  10  bought everyone rated high set super easy easi...   0.086347
+
+step 1
+index added: 50
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 86.9231%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 86.9231%
+
+	step 2
+
+		step 3
+		candidate index: 52 with core nodes: [14, 18, 21, 27, 37, 46]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [14, 21, 46, 49]. 
+		It now has size: 3
+			old information: 87, gain: 0.7521367521367521
+
+    ind                                             review  relevance
+0   32  ll admit sonos playbar cheap probably best val...   0.548967
+1   46  first let s address elephant room price tag th...   0.487156
+2   37  disappointing soundbar thought would great pur...   0.420137
+3   21  samsung un55ks9500 curved 55 inch 4k ultra hd ...   0.386449
+4   49  great soundbar want use sonos ecosystem love c...   0.352193
+5   48  spending couple hours trying make sound come p...   0.350834
+6   18  s sonos sucks n nrestriction number one reason...   0.328121
+7   27  ve player controller two half years satisfied ...   0.317512
+8   52  come remote using ipad connects ca n t find fi...   0.296230
+9   16  much harder sync play advertised 4 sonos zones...   0.265684
+10  11  bought play 1 play 3 playbar set 3 different r...   0.162483
+11  10  bought everyone rated high set super easy easi...   0.086347
+
+step 1
+index added: 53
+percentage unclustered: 86.1538%
+
+	step 2
+
+		step 3
+		candidate index: 53 with core nodes: [37, 49, 53]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [18, 37, 49]. 
+		It now has size: 2
+			old information: 5939, gain: 0.9967795635953497
+
+    ind                                             review  relevance
+0   32  ll admit sonos playbar cheap probably best val...   0.548967
+1   46  first let s address elephant room price tag th...   0.487156
+2   37  disappointing soundbar thought would great pur...   0.420137
+3   21  samsung un55ks9500 curved 55 inch 4k ultra hd ...   0.386449
+4   49  great soundbar want use sonos ecosystem love c...   0.352193
+5   48  spending couple hours trying make sound come p...   0.350834
+6   18  s sonos sucks n nrestriction number one reason...   0.328121
+7   27  ve player controller two half years satisfied ...   0.317512
+8   52  come remote using ipad connects ca n t find fi...   0.296230
+9   16  much harder sync play advertised 4 sonos zones...   0.265684
+10  53  wrote review new heos sound bar realized yet w...   0.257657
+11  11  bought play 1 play 3 playbar set 3 different r...   0.162483
+12  10  bought everyone rated high set super easy easi...   0.086347
+
+step 1
+index added: 54
+percentage unclustered: 86.1538%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 85.3846%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 85.3846%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 83.0769%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 82.3077%
+
+	step 2
+
+		step 3
+		candidate index: 58 with core nodes: [49, 53, 57, 58]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [27, 53, 57]. 
+		It now has size: 2
+			old information: 7608, gain: 0.9591746934614043
+
+    ind                                             review  relevance
+0   32  ll admit sonos playbar cheap probably best val...   0.548967
+1   58  sonos legendary good reason really produce com...   0.548859
+2   46  first let s address elephant room price tag th...   0.487156
+3   37  disappointing soundbar thought would great pur...   0.420137
+4   21  samsung un55ks9500 curved 55 inch 4k ultra hd ...   0.386449
+5   49  great soundbar want use sonos ecosystem love c...   0.352193
+6   48  spending couple hours trying make sound come p...   0.350834
+7   18  s sonos sucks n nrestriction number one reason...   0.328121
+8   27  ve player controller two half years satisfied ...   0.317512
+9   52  come remote using ipad connects ca n t find fi...   0.296230
+10  16  much harder sync play advertised 4 sonos zones...   0.265684
+11  53  wrote review new heos sound bar realized yet w...   0.257657
+12  11  bought play 1 play 3 playbar set 3 different r...   0.162483
+13  10  bought everyone rated high set super easy easi...   0.086347
+
+step 1
+index added: 59
+percentage unclustered: 82.3077%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 89.2308%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 89.2308%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 94.6154%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 94.6154%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 94.6154%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 74 with core nodes: [7, 21, 46, 52, 57]
+
+step 1
+index added: 75
+percentage unclustered: 87.6923%
+
+	step 2
+
+		step 3
+		candidate index: 75 with core nodes: [7, 21, 46, 52, 57, 75]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [21, 52, 57, 58]. 
+		It now has size: 3
+			old information: 7974, gain: 0.9790983509872845
+
+    ind                                             review  relevance
+0   32  ll admit sonos playbar cheap probably best val...   0.548967
+1   58  sonos legendary good reason really produce com...   0.548859
+2   46  first let s address elephant room price tag th...   0.487156
+3   75  sonos best feature also biggest flaw regards d...   0.421916
+4   37  disappointing soundbar thought would great pur...   0.420137
+5   21  samsung un55ks9500 curved 55 inch 4k ultra hd ...   0.386449
+6   49  great soundbar want use sonos ecosystem love c...   0.352193
+7   48  spending couple hours trying make sound come p...   0.350834
+8   18  s sonos sucks n nrestriction number one reason...   0.328121
+9   27  ve player controller two half years satisfied ...   0.317512
+10  52  come remote using ipad connects ca n t find fi...   0.296230
+11  16  much harder sync play advertised 4 sonos zones...   0.265684
+12  53  wrote review new heos sound bar realized yet w...   0.257657
+13  11  bought play 1 play 3 playbar set 3 different r...   0.162483
+14  10  bought everyone rated high set super easy easi...   0.086347
+
+step 1
+index added: 76
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 86.9231%
+
+	step 2
+
+		step 3
+		candidate index: 77 with core nodes: [7, 46, 57, 75, 77]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [46, 49, 57]. 
+		It now has size: 2
+			old information: 3870, gain: 0.8901971910909349
+
+    ind                                             review  relevance
+0   77  first big sonos fan toyed idea purchasing play...   0.549738
+1   32  ll admit sonos playbar cheap probably best val...   0.548967
+2   58  sonos legendary good reason really produce com...   0.548859
+3   46  first let s address elephant room price tag th...   0.487156
+4   75  sonos best feature also biggest flaw regards d...   0.421916
+5   37  disappointing soundbar thought would great pur...   0.420137
+6   21  samsung un55ks9500 curved 55 inch 4k ultra hd ...   0.386449
+7   49  great soundbar want use sonos ecosystem love c...   0.352193
+8   48  spending couple hours trying make sound come p...   0.350834
+9   18  s sonos sucks n nrestriction number one reason...   0.328121
+10  27  ve player controller two half years satisfied ...   0.317512
+11  52  come remote using ipad connects ca n t find fi...   0.296230
+12  16  much harder sync play advertised 4 sonos zones...   0.265684
+13  53  wrote review new heos sound bar realized yet w...   0.257657
+14  11  bought play 1 play 3 playbar set 3 different r...   0.162483
+15  10  bought everyone rated high set super easy easi...   0.086347
+
+step 1
+index added: 78
+percentage unclustered: 86.9231%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 88.4615%
+
+	step 2
+
+		step 3
+		candidate index: 79 with core nodes: [7, 46, 57, 75, 77]
+
+step 1
+index added: 80
+percentage unclustered: 89.2308%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 89.2308%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 89.2308%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 89.2308%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 86.9231%
+
+	step 2
+
+		step 3
+		candidate index: 84 with core nodes: [46, 57, 75, 77]
+
+step 1
+index added: 85
+percentage unclustered: 86.9231%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 84.6154%
+
+	step 2
+
+		step 3
+		candidate index: 86 with core nodes: [75, 77, 86]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [7, 77]. 
+		It now has size: 1
+			old information: 1026, gain: 0.8757267441860465
+
+    ind                                             review  relevance
+0   77  first big sonos fan toyed idea purchasing play...   0.549738
+1   32  ll admit sonos playbar cheap probably best val...   0.548967
+2   58  sonos legendary good reason really produce com...   0.548859
+3   46  first let s address elephant room price tag th...   0.487156
+4   86  regular reviewer amazon d like take issue revi...   0.464783
+5   75  sonos best feature also biggest flaw regards d...   0.421916
+6   37  disappointing soundbar thought would great pur...   0.420137
+7   21  samsung un55ks9500 curved 55 inch 4k ultra hd ...   0.386449
+8   49  great soundbar want use sonos ecosystem love c...   0.352193
+9   48  spending couple hours trying make sound come p...   0.350834
+10  18  s sonos sucks n nrestriction number one reason...   0.328121
+11  27  ve player controller two half years satisfied ...   0.317512
+12  52  come remote using ipad connects ca n t find fi...   0.296230
+13  16  much harder sync play advertised 4 sonos zones...   0.265684
+14  53  wrote review new heos sound bar realized yet w...   0.257657
+15  11  bought play 1 play 3 playbar set 3 different r...   0.162483
+16  10  bought everyone rated high set super easy easi...   0.086347
+
+step 1
+index added: 87
+percentage unclustered: 83.8462%
+
+	step 2
+
+		step 3
+		candidate index: 87 with core nodes: [75, 77, 87]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [75, 77]. 
+		It now has size: 1
+			old information: 5651, gain: 0.9277458125559391
+
+    ind                                             review  relevance
+0   77  first big sonos fan toyed idea purchasing play...   0.549738
+1   32  ll admit sonos playbar cheap probably best val...   0.548967
+2   58  sonos legendary good reason really produce com...   0.548859
+3   46  first let s address elephant room price tag th...   0.487156
+4   86  regular reviewer amazon d like take issue revi...   0.464783
+5   87  bought sonos soundbar sonos subwoofer two play...   0.434709
+6   75  sonos best feature also biggest flaw regards d...   0.421916
+7   37  disappointing soundbar thought would great pur...   0.420137
+8   21  samsung un55ks9500 curved 55 inch 4k ultra hd ...   0.386449
+9   49  great soundbar want use sonos ecosystem love c...   0.352193
+10  48  spending couple hours trying make sound come p...   0.350834
+11  18  s sonos sucks n nrestriction number one reason...   0.328121
+12  27  ve player controller two half years satisfied ...   0.317512
+13  52  come remote using ipad connects ca n t find fi...   0.296230
+14  16  much harder sync play advertised 4 sonos zones...   0.265684
+15  53  wrote review new heos sound bar realized yet w...   0.257657
+16  11  bought play 1 play 3 playbar set 3 different r...   0.162483
+17  10  bought everyone rated high set super easy easi...   0.086347
+
+step 1
+index added: 88
+percentage unclustered: 83.8462%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 85.3846%
+
+	step 2
+
+		step 3
+		candidate index: 89 with core nodes: [57, 75, 86]
+
+step 1
+index added: 90
+percentage unclustered: 83.8462%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 85.3846%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 85.3846%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 85.3846%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 85.3846%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 85.3846%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 85.3846%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 85.3846%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 85.3846%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 85.3846%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 84.6154%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 111 with core nodes: [58, 67, 76, 86]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [58, 76, 86]. 
+		It now has size: 2
+			old information: 13908, gain: 0.9571289860209916
+
+     ind                                             review  relevance
+0    77  first big sonos fan toyed idea purchasing play...   0.549738
+1    32  ll admit sonos playbar cheap probably best val...   0.548967
+2    58  sonos legendary good reason really produce com...   0.548859
+3    46  first let s address elephant room price tag th...   0.487156
+4   111  update jan 2015 playbar remains useful used de...   0.468897
+5    86  regular reviewer amazon d like take issue revi...   0.464783
+6    87  bought sonos soundbar sonos subwoofer two play...   0.434709
+7    75  sonos best feature also biggest flaw regards d...   0.421916
+8    37  disappointing soundbar thought would great pur...   0.420137
+9    21  samsung un55ks9500 curved 55 inch 4k ultra hd ...   0.386449
+10   49  great soundbar want use sonos ecosystem love c...   0.352193
+11   48  spending couple hours trying make sound come p...   0.350834
+12   18  s sonos sucks n nrestriction number one reason...   0.328121
+13   27  ve player controller two half years satisfied ...   0.317512
+14   52  come remote using ipad connects ca n t find fi...   0.296230
+15   16  much harder sync play advertised 4 sonos zones...   0.265684
+16   53  wrote review new heos sound bar realized yet w...   0.257657
+17   11  bought play 1 play 3 playbar set 3 different r...   0.162483
+18   10  bought everyone rated high set super easy easi...   0.086347
+
+step 1
+index added: 112
+percentage unclustered: 79.2308%
+
+	step 2
+
+		step 3
+		candidate index: 112 with core nodes: [30, 58, 67, 76, 86, 111]
+
+step 1
+index added: 113
+percentage unclustered: 79.2308%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 79.2308%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 79.2308%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 81.5385%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 79.2308%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 81.5385%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 81.5385%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 80.7692%
+
+	step 2
+
+		step 3
+		candidate index: 120 with core nodes: [30, 58, 67, 76, 86, 111]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [58, 86, 87, 111]. 
+		It now has size: 3
+			old information: 6309, gain: 0.8961071040411026
+
+     ind                                             review  relevance
+0    77  first big sonos fan toyed idea purchasing play...   0.549738
+1    32  ll admit sonos playbar cheap probably best val...   0.548967
+2    58  sonos legendary good reason really produce com...   0.548859
+3    46  first let s address elephant room price tag th...   0.487156
+4   120  sonos playbar major improvement tv room audio ...   0.469513
+5   111  update jan 2015 playbar remains useful used de...   0.468897
+6    86  regular reviewer amazon d like take issue revi...   0.464783
+7    87  bought sonos soundbar sonos subwoofer two play...   0.434709
+8    75  sonos best feature also biggest flaw regards d...   0.421916
+9    37  disappointing soundbar thought would great pur...   0.420137
+10   21  samsung un55ks9500 curved 55 inch 4k ultra hd ...   0.386449
+11   49  great soundbar want use sonos ecosystem love c...   0.352193
+12   48  spending couple hours trying make sound come p...   0.350834
+13   18  s sonos sucks n nrestriction number one reason...   0.328121
+14   27  ve player controller two half years satisfied ...   0.317512
+15   52  come remote using ipad connects ca n t find fi...   0.296230
+16   16  much harder sync play advertised 4 sonos zones...   0.265684
+17   53  wrote review new heos sound bar realized yet w...   0.257657
+18   11  bought play 1 play 3 playbar set 3 different r...   0.162483
+19   10  bought everyone rated high set super easy easi...   0.086347
+
+step 1
+index added: 121
+percentage unclustered: 80.7692%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 80.7692%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 80.7692%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 80.7692%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 80.7692%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 80.7692%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 80.7692%
+
+	step 2
+
+step 1
+index added: 128
+percentage unclustered: 80.7692%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 80.7692%
+
+	step 2
+
+--- 3649.092969894409 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 97.6923, 96.9231, 96.9231, 96.9231, 96.9231, 96.9231, 95.3846, 95.3846, 94.6154, 94.6154, 93.8462, 91.5385, 91.5385, 91.5385, 91.5385, 91.5385, 91.5385, 90.0, 90.0, 87.6923, 89.2308, 89.2308, 88.4615, 88.4615, 88.4615, 88.4615, 88.4615, 87.6923, 87.6923, 87.6923, 87.6923, 87.6923, 87.6923, 88.4615, 88.4615, 88.4615, 90.0, 90.0, 88.4615, 87.6923, 87.6923, 86.9231, 86.9231, 86.1538, 86.1538, 85.3846, 85.3846, 83.0769, 82.3077, 82.3077, 89.2308, 89.2308, 88.4615, 88.4615, 88.4615, 88.4615, 88.4615, 88.4615, 88.4615, 88.4615, 88.4615, 94.6154, 94.6154, 94.6154, 90.0, 87.6923, 87.6923, 86.9231, 86.9231, 88.4615, 89.2308, 89.2308, 89.2308, 89.2308, 86.9231, 86.9231, 84.6154, 83.8462, 83.8462, 85.3846, 83.8462, 88.4615, 88.4615, 88.4615, 88.4615, 88.4615, 87.6923, 85.3846, 85.3846, 85.3846, 85.3846, 85.3846, 85.3846, 85.3846, 85.3846, 85.3846, 84.6154, 87.6923, 87.6923, 87.6923, 87.6923, 80.0, 79.2308, 79.2308, 79.2308, 79.2308, 81.5385, 79.2308, 81.5385, 81.5385, 80.7692, 80.7692, 80.7692, 80.7692, 80.7692, 80.7692, 80.7692, 80.7692, 80.7692, 80.7692], mean: 88.2392
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0        73   77   0.549738  first big sonos fan toyed idea purchasing play...
+1        65   32   0.548967  ll admit sonos playbar cheap probably best val...
+2        45   58   0.548859  sonos legendary good reason really produce com...
+3       106   46   0.487156  first let s address elephant room price tag th...
+4       129  120   0.469513  sonos playbar major improvement tv room audio ...
+5        87  111   0.468897  update jan 2015 playbar remains useful used de...
+6        89   86   0.464783  regular reviewer amazon d like take issue revi...
+7        25   87   0.434709  bought sonos soundbar sonos subwoofer two play...
+8        78   75   0.421916  sonos best feature also biggest flaw regards d...
+9        13   37   0.420137  disappointing soundbar thought would great pur...
+10       64   21   0.386449  samsung un55ks9500 curved 55 inch 4k ultra hd ...
+11       95   49   0.352193  great soundbar want use sonos ecosystem love c...
+12       57   48   0.350834  spending couple hours trying make sound come p...
+13       55   18   0.328121  s sonos sucks n nrestriction number one reason...
+14       77   27   0.317512  ve player controller two half years satisfied ...
+15       48   52   0.296230  come remote using ipad connects ca n t find fi...
+16       67   16   0.265684  much harder sync play advertised 4 sonos zones...
+17       80   53   0.257657  wrote review new heos sound bar realized yet w...
+18       38   11   0.162483  bought play 1 play 3 playbar set 3 different r...
+19       51   10   0.086347  bought everyone rated high set super easy easi...
