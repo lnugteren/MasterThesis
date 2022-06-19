@@ -1,0 +1,1128 @@
+------- Category: Sports_and_Outdoors -------
+Found asin_id: B00AE1TWE0
+Shape:  (143, 7)
+
+
+Chosen product: B00AE1TWE0 has 143 reviews - False, it has 140 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 97.8571%
+
+	step 2
+
+		step 3
+		candidate index: 2 with core nodes: [0, 1, 2]
+		The relevance model has size: 2
+		1 reviews removed from the relevance model, indices: [0]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   2  s thing n ni love jawbone gave serious thought...   0.182818
+
+step 1
+index added: 3
+percentage unclustered: 97.8571%
+
+	step 2
+
+step 1
+index added: 4
+percentage unclustered: 97.8571%
+
+	step 2
+
+step 1
+index added: 5
+percentage unclustered: 97.8571%
+
+	step 2
+
+step 1
+index added: 6
+percentage unclustered: 97.8571%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 97.8571%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 97.8571%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 97.8571%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 97.8571%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 97.8571%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 97.8571%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 94.2857%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [2, 9, 10, 13]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [1, 9]. 
+		It now has size: 2
+			old information: 56, gain: 0.9058823529411765
+
+   ind                                             review  relevance
+0  13  give negative five stars product suffers serio...   0.270581
+1   2  s thing n ni love jawbone gave serious thought...   0.182818
+
+		step 3
+		candidate index: 13 with core nodes: [2, 7, 8, 10, 13]
+		The relevance model has size: 5
+		2 reviews removed from the relevance model, indices: [2, 7]. 
+		It now has size: 3
+			old information: 499, gain: 0.16134453781512606
+
+step 1
+index added: 14
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 96.4286%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [7, 8, 13, 16]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [7, 8, 10]. 
+		It now has size: 2
+			old information: 319, gain: 0.9804174340085943
+
+   ind                                             review  relevance
+0  13  give negative five stars product suffers serio...   0.270581
+1   2  s thing n ni love jawbone gave serious thought...   0.182818
+2  16  first purchased band last may 2013 instantly l...   0.138607
+
+step 1
+index added: 17
+percentage unclustered: 96.4286%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 96.4286%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 96.4286%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 96.4286%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 96.4286%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 96.4286%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 96.4286%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 94.2857%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [6, 8, 16, 19]
+
+step 1
+index added: 25
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 92.1429%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [5, 16, 19, 26]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [13, 16, 19]. 
+		It now has size: 3
+			old information: 218, gain: 0.8808743169398907
+
+   ind                                             review  relevance
+0  27  currently 4th jawbone band band ve owned died ...   0.273770
+1  13  give negative five stars product suffers serio...   0.270581
+2   2  s thing n ni love jawbone gave serious thought...   0.182818
+3  16  first purchased band last may 2013 instantly l...   0.138607
+
+step 1
+index added: 28
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 94.2857%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 31 with core nodes: [9, 16, 17, 23]
+
+step 1
+index added: 32
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [9, 16, 17]
+
+step 1
+index added: 34
+percentage unclustered: 87.8571%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [2, 17, 18]
+
+step 1
+index added: 35
+percentage unclustered: 87.8571%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 87.8571%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [2, 9, 17, 18, 23]
+
+step 1
+index added: 37
+percentage unclustered: 87.8571%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 87.8571%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 87.8571%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 87.8571%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 87.8571%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [9, 16, 17, 18, 23]
+
+step 1
+index added: 42
+percentage unclustered: 87.8571%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 87.8571%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 85.7143%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [18, 23, 45]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [13, 18, 26]. 
+		It now has size: 3
+			old information: 797, gain: 0.964700150589069
+
+   ind                                             review  relevance
+0  45  even though may reading amazon s site buy prod...   0.556156
+1  27  currently 4th jawbone band band ve owned died ...   0.273770
+2  13  give negative five stars product suffers serio...   0.270581
+3   2  s thing n ni love jawbone gave serious thought...   0.182818
+4  16  first purchased band last may 2013 instantly l...   0.138607
+
+step 1
+index added: 46
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 87.1429%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [18, 44, 45]
+
+step 1
+index added: 50
+percentage unclustered: 87.1429%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 80.71430000000001%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 81.4286%
+
+	step 2
+
+		step 3
+		candidate index: 55 with core nodes: [2, 17, 18, 45]
+
+step 1
+index added: 56
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 83.5714%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 82.8571%
+
+	step 2
+
+		step 3
+		candidate index: 59 with core nodes: [2, 17, 18, 45]
+
+step 1
+index added: 60
+percentage unclustered: 83.5714%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 82.1429%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 82.1429%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 80.71430000000001%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 66 with core nodes: [2, 18, 45, 66]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [2, 5, 23]. 
+		It now has size: 3
+			old information: 1116, gain: 0.9241126070991432
+
+   ind                                             review  relevance
+0  66  cool premise everything supposed appealed me n...   0.599840
+1  45  even though may reading amazon s site buy prod...   0.556156
+2  27  currently 4th jawbone band band ve owned died ...   0.273770
+3  13  give negative five stars product suffers serio...   0.270581
+4   2  s thing n ni love jawbone gave serious thought...   0.182818
+5  16  first purchased band last may 2013 instantly l...   0.138607
+
+step 1
+index added: 67
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 80.71430000000001%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 80.71430000000001%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 80.71430000000001%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 78.5714%
+
+	step 2
+
+		step 3
+		candidate index: 74 with core nodes: [37, 42, 74]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [18, 27, 37]. 
+		It now has size: 3
+			old information: 1672, gain: 0.9552953129595465
+
+   ind                                             review  relevance
+0  66  cool premise everything supposed appealed me n...   0.599840
+1  74  bought band november 2012 loved first 2 months...   0.597201
+2  45  even though may reading amazon s site buy prod...   0.556156
+3  27  currently 4th jawbone band band ve owned died ...   0.273770
+4  13  give negative five stars product suffers serio...   0.270581
+5   2  s thing n ni love jawbone gave serious thought...   0.182818
+6  16  first purchased band last may 2013 instantly l...   0.138607
+
+step 1
+index added: 75
+percentage unclustered: 76.4286%
+
+	step 2
+
+		step 3
+		candidate index: 75 with core nodes: [37, 42, 74]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [37, 42, 45]. 
+		It now has size: 2
+			old information: 288, gain: 0.831677381648159
+
+   ind                                             review  relevance
+0  66  cool premise everything supposed appealed me n...   0.599840
+1  74  bought band november 2012 loved first 2 months...   0.597201
+2  45  even though may reading amazon s site buy prod...   0.556156
+3  75  received jawbone band christmas lasted 3 month...   0.454917
+4  27  currently 4th jawbone band band ve owned died ...   0.273770
+5  13  give negative five stars product suffers serio...   0.270581
+6   2  s thing n ni love jawbone gave serious thought...   0.182818
+7  16  first purchased band last may 2013 instantly l...   0.138607
+
+step 1
+index added: 76
+percentage unclustered: 76.4286%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 75.71430000000001%
+
+	step 2
+
+		step 3
+		candidate index: 77 with core nodes: [18, 45, 66, 77]
+		The relevance model has size: 5
+		2 reviews removed from the relevance model, indices: [18, 66]. 
+		It now has size: 3
+			old information: 7087, gain: 0.9794003517084018
+
+   ind                                             review  relevance
+0  66  cool premise everything supposed appealed me n...   0.599840
+1  74  bought band november 2012 loved first 2 months...   0.597201
+2  77  used jawbone two months finally died period we...   0.573556
+3  45  even though may reading amazon s site buy prod...   0.556156
+4  75  received jawbone band christmas lasted 3 month...   0.454917
+5  27  currently 4th jawbone band band ve owned died ...   0.273770
+6  13  give negative five stars product suffers serio...   0.270581
+7   2  s thing n ni love jawbone gave serious thought...   0.182818
+8  16  first purchased band last may 2013 instantly l...   0.138607
+
+step 1
+index added: 78
+percentage unclustered: 74.28569999999999%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 73.5714%
+
+	step 2
+
+		step 3
+		candidate index: 79 with core nodes: [37, 42, 74, 79]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [37, 45, 74]. 
+		It now has size: 3
+			old information: 2181, gain: 0.8925668686271612
+
+   ind                                             review  relevance
+0  66  cool premise everything supposed appealed me n...   0.599840
+1  74  bought band november 2012 loved first 2 months...   0.597201
+2  77  used jawbone two months finally died period we...   0.573556
+3  79  purchased jawbone february 27 2013 read review...   0.560666
+4  45  even though may reading amazon s site buy prod...   0.556156
+5  75  received jawbone band christmas lasted 3 month...   0.454917
+6  27  currently 4th jawbone band band ve owned died ...   0.273770
+7  13  give negative five stars product suffers serio...   0.270581
+8   2  s thing n ni love jawbone gave serious thought...   0.182818
+9  16  first purchased band last may 2013 instantly l...   0.138607
+
+step 1
+index added: 80
+percentage unclustered: 72.8571%
+
+	step 2
+
+		step 3
+		candidate index: 80 with core nodes: [18, 72, 77, 80]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [18, 42, 75]. 
+		It now has size: 3
+			old information: 5002, gain: 0.9044069869663265
+
+    ind                                             review  relevance
+0   80  never felt need write negative review product ...   0.732168
+1   66  cool premise everything supposed appealed me n...   0.599840
+2   74  bought band november 2012 loved first 2 months...   0.597201
+3   77  used jawbone two months finally died period we...   0.573556
+4   79  purchased jawbone february 27 2013 read review...   0.560666
+5   45  even though may reading amazon s site buy prod...   0.556156
+6   75  received jawbone band christmas lasted 3 month...   0.454917
+7   27  currently 4th jawbone band band ve owned died ...   0.273770
+8   13  give negative five stars product suffers serio...   0.270581
+9    2  s thing n ni love jawbone gave serious thought...   0.182818
+10  16  first purchased band last may 2013 instantly l...   0.138607
+
+step 1
+index added: 81
+percentage unclustered: 72.1429%
+
+	step 2
+
+		step 3
+		candidate index: 81 with core nodes: [18, 72, 77, 80]
+
+step 1
+index added: 82
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 82 with core nodes: [18, 77, 80, 82]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [18, 72, 77]. 
+		It now has size: 2
+			old information: 719, gain: 0.8423245614035088
+
+    ind                                             review  relevance
+0   80  never felt need write negative review product ...   0.732168
+1   82  positives n n good tracking meaningful informa...   0.653459
+2   66  cool premise everything supposed appealed me n...   0.599840
+3   74  bought band november 2012 loved first 2 months...   0.597201
+4   77  used jawbone two months finally died period we...   0.573556
+5   79  purchased jawbone february 27 2013 read review...   0.560666
+6   45  even though may reading amazon s site buy prod...   0.556156
+7   75  received jawbone band christmas lasted 3 month...   0.454917
+8   27  currently 4th jawbone band band ve owned died ...   0.273770
+9   13  give negative five stars product suffers serio...   0.270581
+10   2  s thing n ni love jawbone gave serious thought...   0.182818
+11  16  first purchased band last may 2013 instantly l...   0.138607
+
+step 1
+index added: 83
+percentage unclustered: 68.5714%
+
+	step 2
+
+		step 3
+		candidate index: 83 with core nodes: [18, 56, 77, 80, 82]
+
+step 1
+index added: 84
+percentage unclustered: 68.5714%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 68.5714%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 68.5714%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 68.5714%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 67.8571%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 69.28569999999999%
+
+	step 2
+
+		step 3
+		candidate index: 89 with core nodes: [37, 74, 79]
+
+step 1
+index added: 90
+percentage unclustered: 69.28569999999999%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 67.1429%
+
+	step 2
+
+		step 3
+		candidate index: 98 with core nodes: [37, 74, 79, 98]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [74, 79, 82]. 
+		It now has size: 2
+			old information: 736, gain: 0.8120531154239019
+
+    ind                                             review  relevance
+0   80  never felt need write negative review product ...   0.732168
+1   82  positives n n good tracking meaningful informa...   0.653459
+2   66  cool premise everything supposed appealed me n...   0.599840
+3   74  bought band november 2012 loved first 2 months...   0.597201
+4   77  used jawbone two months finally died period we...   0.573556
+5   79  purchased jawbone february 27 2013 read review...   0.560666
+6   45  even though may reading amazon s site buy prod...   0.556156
+7   75  received jawbone band christmas lasted 3 month...   0.454917
+8   98  band simply flawed first band stopped working ...   0.439610
+9   27  currently 4th jawbone band band ve owned died ...   0.273770
+10  13  give negative five stars product suffers serio...   0.270581
+11   2  s thing n ni love jawbone gave serious thought...   0.182818
+12  16  first purchased band last may 2013 instantly l...   0.138607
+
+step 1
+index added: 99
+percentage unclustered: 67.1429%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 67.1429%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 67.1429%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 67.8571%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 67.1429%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 67.1429%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 64.28569999999999%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 63.5714%
+
+	step 2
+
+		step 3
+		candidate index: 106 with core nodes: [77, 80, 84]
+
+step 1
+index added: 107
+percentage unclustered: 62.8571%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 62.8571%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 59.2857%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 59.2857%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 59.2857%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 59.2857%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 59.2857%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 58.5714%
+
+	step 2
+
+		step 3
+		candidate index: 114 with core nodes: [18, 56, 82]
+
+step 1
+index added: 115
+percentage unclustered: 59.2857%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 59.2857%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 58.5714%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 57.8571%
+
+	step 2
+
+		step 3
+		candidate index: 118 with core nodes: [56, 77, 80]
+
+step 1
+index added: 119
+percentage unclustered: 57.8571%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 57.1429%
+
+	step 2
+
+		step 3
+		candidate index: 120 with core nodes: [56, 77, 80]
+
+step 1
+index added: 121
+percentage unclustered: 56.4286%
+
+	step 2
+
+		step 3
+		candidate index: 121 with core nodes: [56, 77, 80]
+
+step 1
+index added: 122
+percentage unclustered: 56.4286%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 55.7143%
+
+	step 2
+
+		step 3
+		candidate index: 123 with core nodes: [56, 77, 80]
+
+step 1
+index added: 124
+percentage unclustered: 55.7143%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 55.7143%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 55.7143%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 55.7143%
+
+	step 2
+
+step 1
+index added: 128
+percentage unclustered: 55.7143%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 55.0%
+
+	step 2
+
+		step 3
+		candidate index: 129 with core nodes: [56, 77, 80]
+
+step 1
+index added: 130
+percentage unclustered: 55.0%
+
+	step 2
+
+step 1
+index added: 131
+percentage unclustered: 55.0%
+
+	step 2
+
+step 1
+index added: 132
+percentage unclustered: 54.2857%
+
+	step 2
+
+step 1
+index added: 133
+percentage unclustered: 54.2857%
+
+	step 2
+
+step 1
+index added: 134
+percentage unclustered: 54.2857%
+
+	step 2
+
+step 1
+index added: 135
+percentage unclustered: 54.2857%
+
+	step 2
+
+step 1
+index added: 136
+percentage unclustered: 54.2857%
+
+	step 2
+
+step 1
+index added: 137
+percentage unclustered: 54.2857%
+
+	step 2
+
+step 1
+index added: 138
+percentage unclustered: 54.2857%
+
+	step 2
+
+step 1
+index added: 139
+percentage unclustered: 54.2857%
+
+	step 2
+
+--- 358.3431408405304 seconds ---
+
+
+ Unclustered percentages: [97.8571, 97.8571, 97.8571, 97.8571, 97.8571, 97.8571, 97.8571, 97.8571, 97.8571, 97.8571, 97.8571, 94.2857, 94.2857, 94.2857, 96.4286, 96.4286, 96.4286, 96.4286, 96.4286, 96.4286, 96.4286, 96.4286, 94.2857, 94.2857, 94.2857, 92.1429, 94.2857, 94.2857, 94.2857, 90.0, 90.0, 90.0, 87.8571, 87.8571, 87.8571, 87.8571, 87.8571, 87.8571, 87.8571, 87.8571, 87.8571, 87.8571, 85.7143, 85.0, 85.0, 85.0, 85.0, 87.1429, 87.1429, 85.0, 81.4286, 81.4286, 80.71430000000001, 81.4286, 81.4286, 81.4286, 83.5714, 82.8571, 83.5714, 82.8571, 82.8571, 82.1429, 82.1429, 80.71430000000001, 80.0, 80.0, 80.0, 80.0, 80.0, 80.71430000000001, 80.71430000000001, 80.71430000000001, 78.5714, 76.4286, 76.4286, 75.71430000000001, 74.28569999999999, 73.5714, 72.8571, 72.1429, 70.0, 68.5714, 68.5714, 68.5714, 68.5714, 68.5714, 67.8571, 69.28569999999999, 69.28569999999999, 70.0, 70.0, 70.0, 70.0, 70.0, 70.0, 70.0, 67.1429, 67.1429, 67.1429, 67.1429, 67.8571, 67.1429, 67.1429, 64.28569999999999, 63.5714, 62.8571, 62.8571, 59.2857, 59.2857, 59.2857, 59.2857, 59.2857, 58.5714, 59.2857, 59.2857, 58.5714, 57.8571, 57.8571, 57.1429, 56.4286, 56.4286, 55.7143, 55.7143, 55.7143, 55.7143, 55.7143, 55.7143, 55.0, 55.0, 55.0, 54.2857, 54.2857, 54.2857, 54.2857, 54.2857, 54.2857, 54.2857, 54.2857], mean: 76.7961
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0         9  80   0.732168  never felt need write negative review product ...
+1        37  82   0.653459  positives n n good tracking meaningful informa...
+2         3  66   0.599840  cool premise everything supposed appealed me n...
+3        21  74   0.597201  bought band november 2012 loved first 2 months...
+4        47  77   0.573556  used jawbone two months finally died period we...
+5         7  79   0.560666  purchased jawbone february 27 2013 read review...
+6        35  45   0.556156  even though may reading amazon s site buy prod...
+7       135  75   0.454917  received jawbone band christmas lasted 3 month...
+8        15  98   0.439610  band simply flawed first band stopped working ...
+9        91  27   0.273770  currently 4th jawbone band band ve owned died ...
+10       97  13   0.270581  give negative five stars product suffers serio...
+11       80   2   0.182818  s thing n ni love jawbone gave serious thought...
+12       88  16   0.138607  first purchased band last may 2013 instantly l...

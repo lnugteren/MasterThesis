@@ -1,0 +1,808 @@
+------- Category: Sports_and_Outdoors -------
+Found asin_id: B001IDZHF6
+Shape:  (90, 7)
+
+
+Chosen product: B001IDZHF6 has 90 reviews - True, it has 90 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 96.6667%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [4, 8, 9]
+		The relevance model has size: 2
+		1 reviews removed from the relevance model, indices: [4]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   9  really enjoy working step machines belonged gy...   0.045431
+
+step 1
+index added: 10
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 95.5556%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [4, 11, 12, 15]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [4, 8, 12]. 
+		It now has size: 2
+			old information: 10, gain: 0.9927431059506531
+
+   ind                                             review  relevance
+0  15  ve put sunny stepper together without hitch lo...   0.158358
+1   9  really enjoy working step machines belonged gy...   0.045431
+
+step 1
+index added: 16
+percentage unclustered: 95.5556%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [4, 8, 9, 16]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [8, 9, 15]. 
+		It now has size: 2
+			old information: 3, gain: 0.9857142857142858
+
+   ind                                             review  relevance
+0  15  ve put sunny stepper together without hitch lo...   0.158358
+1  16  compact well constructed receive mine days go ...   0.100871
+2   9  really enjoy working step machines belonged gy...   0.045431
+
+step 1
+index added: 17
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 87.7778%
+
+	step 2
+
+		step 3
+		candidate index: 23 with core nodes: [10, 11, 13, 23]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [11, 13, 16]. 
+		It now has size: 2
+			old information: 52, gain: 0.9757575757575757
+
+   ind                                             review  relevance
+0  23  ll honest felt like stepped 1987 bought lookin...   0.233737
+1  15  ve put sunny stepper together without hitch lo...   0.158358
+2  16  compact well constructed receive mine days go ...   0.100871
+3   9  really enjoy working step machines belonged gy...   0.045431
+
+step 1
+index added: 24
+percentage unclustered: 87.7778%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 88.8889%
+
+	step 2
+
+		step 3
+		candidate index: 25 with core nodes: [9, 13, 23, 25]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [4, 13, 23]. 
+		It now has size: 2
+			old information: 157, gain: 0.9682828282828283
+
+   ind                                             review  relevance
+0  23  ll honest felt like stepped 1987 bought lookin...   0.233737
+1  25  great compact stair stepper looking something ...   0.232311
+2  15  ve put sunny stepper together without hitch lo...   0.158358
+3  16  compact well constructed receive mine days go ...   0.100871
+4   9  really enjoy working step machines belonged gy...   0.045431
+
+		step 3
+		candidate index: 25 with core nodes: [9, 12, 23, 25]
+		The relevance model has size: 5
+		2 reviews removed from the relevance model, indices: [10, 12]. 
+		It now has size: 3
+			old information: 3925, gain: 0.20707070707070707
+
+		step 3
+		candidate index: 25 with core nodes: [12, 13, 23, 25]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [9, 12, 23]. 
+		It now has size: 3
+			old information: 3925, gain: 0.20707070707070707
+
+step 1
+index added: 26
+percentage unclustered: 87.7778%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [12, 13, 25, 26]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [12, 13, 25]. 
+		It now has size: 2
+			old information: 22, gain: 0.8166666666666667
+
+   ind                                             review  relevance
+0  23  ll honest felt like stepped 1987 bought lookin...   0.233737
+1  25  great compact stair stepper looking something ...   0.232311
+2  26  last stepper broke one replacement love item u...   0.200446
+3  15  ve put sunny stepper together without hitch lo...   0.158358
+4  16  compact well constructed receive mine days go ...   0.100871
+5   9  really enjoy working step machines belonged gy...   0.045431
+
+step 1
+index added: 27
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 85.5556%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [10, 13, 23, 25, 26, 32]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [13, 25, 26]. 
+		It now has size: 3
+			old information: 65, gain: 0.963276836158192
+
+   ind                                             review  relevance
+0  23  ll honest felt like stepped 1987 bought lookin...   0.233737
+1  25  great compact stair stepper looking something ...   0.232311
+2  32  original straight up and down pedal step movem...   0.207691
+3  26  last stepper broke one replacement love item u...   0.200446
+4  15  ve put sunny stepper together without hitch lo...   0.158358
+5  16  compact well constructed receive mine days go ...   0.100871
+6   9  really enjoy working step machines belonged gy...   0.045431
+
+step 1
+index added: 33
+percentage unclustered: 85.5556%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 84.4444%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [10, 13, 23, 26, 32]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [13, 23, 25]. 
+		It now has size: 3
+			old information: 248, gain: 0.9628185907046477
+
+   ind                                             review  relevance
+0  23  ll honest felt like stepped 1987 bought lookin...   0.233737
+1  25  great compact stair stepper looking something ...   0.232311
+2  32  original straight up and down pedal step movem...   0.207691
+3  26  last stepper broke one replacement love item u...   0.200446
+4  34  thing awesome mine gets used daily two years s...   0.194737
+5  15  ve put sunny stepper together without hitch lo...   0.158358
+6  16  compact well constructed receive mine days go ...   0.100871
+7   9  really enjoy working step machines belonged gy...   0.045431
+
+		step 3
+		candidate index: 34 with core nodes: [10, 13, 23, 25, 34]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [10, 13, 25, 26]. 
+		It now has size: 3
+			old information: 5064, gain: 0.24077961019490254
+
+		step 3
+		candidate index: 34 with core nodes: [10, 13, 25, 26, 32, 34]
+		The relevance model has size: 8
+		4 reviews removed from the relevance model, indices: [10, 23, 25, 32]. 
+		It now has size: 4
+			old information: 5064, gain: 0.24077961019490254
+
+step 1
+index added: 35
+percentage unclustered: 84.4444%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 81.1111%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [10, 13, 23, 26, 31, 32, 36]
+		The relevance model has size: 9
+		5 reviews removed from the relevance model, indices: [13, 23, 32, 34, 34]. 
+		It now has size: 4
+			old information: 29, gain: 0.9564564564564565
+
+   ind                                             review  relevance
+0  36  second time ordered product first stepper brok...   0.265607
+1  23  ll honest felt like stepped 1987 bought lookin...   0.233737
+2  25  great compact stair stepper looking something ...   0.232311
+3  32  original straight up and down pedal step movem...   0.207691
+4  26  last stepper broke one replacement love item u...   0.200446
+5  34  thing awesome mine gets used daily two years s...   0.194737
+6  15  ve put sunny stepper together without hitch lo...   0.158358
+7  16  compact well constructed receive mine days go ...   0.100871
+8   9  really enjoy working step machines belonged gy...   0.045431
+
+step 1
+index added: 37
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 44 with core nodes: [14, 23, 44]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [10, 23, 26, 36]. 
+		It now has size: 3
+			old information: 568, gain: 0.9618228256486087
+
+   ind                                             review  relevance
+0  44  thought price compact little stair stepper mig...   0.388668
+1  36  second time ordered product first stepper brok...   0.265607
+2  23  ll honest felt like stepped 1987 bought lookin...   0.233737
+3  25  great compact stair stepper looking something ...   0.232311
+4  32  original straight up and down pedal step movem...   0.207691
+5  26  last stepper broke one replacement love item u...   0.200446
+6  34  thing awesome mine gets used daily two years s...   0.194737
+7  15  ve put sunny stepper together without hitch lo...   0.158358
+8  16  compact well constructed receive mine days go ...   0.100871
+9   9  really enjoy working step machines belonged gy...   0.045431
+
+step 1
+index added: 45
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 78.8889%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [13, 23, 44, 49]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [13, 14, 34]. 
+		It now has size: 3
+			old information: 1194, gain: 0.9771815158812063
+
+    ind                                             review  relevance
+0   49  around 163 pounds n27 years old n5 4 little th...   0.537812
+1   44  thought price compact little stair stepper mig...   0.388668
+2   36  second time ordered product first stepper brok...   0.265607
+3   23  ll honest felt like stepped 1987 bought lookin...   0.233737
+4   25  great compact stair stepper looking something ...   0.232311
+5   32  original straight up and down pedal step movem...   0.207691
+6   26  last stepper broke one replacement love item u...   0.200446
+7   34  thing awesome mine gets used daily two years s...   0.194737
+8   15  ve put sunny stepper together without hitch lo...   0.158358
+9   16  compact well constructed receive mine days go ...   0.100871
+10   9  really enjoy working step machines belonged gy...   0.045431
+
+step 1
+index added: 50
+percentage unclustered: 78.8889%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 57 with core nodes: [13, 23, 44, 49]
+
+step 1
+index added: 58
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 75.5556%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 72.2222%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 72.2222%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 68.8889%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 68.8889%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 68.8889%
+
+	step 2
+
+		step 3
+		candidate index: 73 with core nodes: [23, 44, 49, 73]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [23, 31]. 
+		It now has size: 2
+			old information: 769, gain: 0.8904714428144139
+
+    ind                                             review  relevance
+0   49  around 163 pounds n27 years old n5 4 little th...   0.537812
+1   73  ve week opinion may change longer usage easy a...   0.493261
+2   44  thought price compact little stair stepper mig...   0.388668
+3   36  second time ordered product first stepper brok...   0.265607
+4   23  ll honest felt like stepped 1987 bought lookin...   0.233737
+5   25  great compact stair stepper looking something ...   0.232311
+6   32  original straight up and down pedal step movem...   0.207691
+7   26  last stepper broke one replacement love item u...   0.200446
+8   34  thing awesome mine gets used daily two years s...   0.194737
+9   15  ve put sunny stepper together without hitch lo...   0.158358
+10  16  compact well constructed receive mine days go ...   0.100871
+11   9  really enjoy working step machines belonged gy...   0.045431
+
+step 1
+index added: 74
+percentage unclustered: 67.7778%
+
+	step 2
+
+		step 3
+		candidate index: 74 with core nodes: [23, 44, 49, 73, 74]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [44, 73]. 
+		It now has size: 2
+			old information: 318, gain: 0.9018518518518519
+
+    ind                                             review  relevance
+0   49  around 163 pounds n27 years old n5 4 little th...   0.537812
+1   73  ve week opinion may change longer usage easy a...   0.493261
+2   74  heart rate really gets going compact little st...   0.451813
+3   44  thought price compact little stair stepper mig...   0.388668
+4   36  second time ordered product first stepper brok...   0.265607
+5   23  ll honest felt like stepped 1987 bought lookin...   0.233737
+6   25  great compact stair stepper looking something ...   0.232311
+7   32  original straight up and down pedal step movem...   0.207691
+8   26  last stepper broke one replacement love item u...   0.200446
+9   34  thing awesome mine gets used daily two years s...   0.194737
+10  15  ve put sunny stepper together without hitch lo...   0.158358
+11  16  compact well constructed receive mine days go ...   0.100871
+12   9  really enjoy working step machines belonged gy...   0.045431
+
+step 1
+index added: 75
+percentage unclustered: 67.7778%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 62.2222%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 61.1111%
+
+	step 2
+
+		step 3
+		candidate index: 79 with core nodes: [30, 76, 79]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [49, 74, 76]. 
+		It now has size: 2
+			old information: 51, gain: 0.7017543859649122
+
+    ind                                             review  relevance
+0   49  around 163 pounds n27 years old n5 4 little th...   0.537812
+1   73  ve week opinion may change longer usage easy a...   0.493261
+2   74  heart rate really gets going compact little st...   0.451813
+3   44  thought price compact little stair stepper mig...   0.388668
+4   36  second time ordered product first stepper brok...   0.265607
+5   23  ll honest felt like stepped 1987 bought lookin...   0.233737
+6   25  great compact stair stepper looking something ...   0.232311
+7   32  original straight up and down pedal step movem...   0.207691
+8   26  last stepper broke one replacement love item u...   0.200446
+9   34  thing awesome mine gets used daily two years s...   0.194737
+10  79  shipping fast item recently bought treadmill w...   0.163903
+11  15  ve put sunny stepper together without hitch lo...   0.158358
+12  16  compact well constructed receive mine days go ...   0.100871
+13   9  really enjoy working step machines belonged gy...   0.045431
+
+step 1
+index added: 80
+percentage unclustered: 61.1111%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 57.7778%
+
+	step 2
+
+		step 3
+		candidate index: 81 with core nodes: [44, 49, 58, 73]
+
+step 1
+index added: 82
+percentage unclustered: 57.7778%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 57.7778%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 57.7778%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 62.2222%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 62.2222%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 62.2222%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 62.2222%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 62.2222%
+
+	step 2
+
+--- 34.45628595352173 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 96.6667, 96.6667, 96.6667, 96.6667, 96.6667, 96.6667, 95.5556, 95.5556, 95.5556, 95.5556, 95.5556, 95.5556, 95.5556, 95.5556, 87.7778, 87.7778, 88.8889, 87.7778, 90.0, 90.0, 90.0, 90.0, 90.0, 85.5556, 85.5556, 84.4444, 84.4444, 81.1111, 81.1111, 81.1111, 77.7778, 77.7778, 77.7778, 77.7778, 77.7778, 76.66669999999999, 76.66669999999999, 80.0, 80.0, 80.0, 78.8889, 78.8889, 77.7778, 77.7778, 77.7778, 77.7778, 76.66669999999999, 76.66669999999999, 76.66669999999999, 76.66669999999999, 76.66669999999999, 76.66669999999999, 75.5556, 72.2222, 72.2222, 68.8889, 68.8889, 70.0, 70.0, 70.0, 70.0, 70.0, 70.0, 70.0, 68.8889, 67.7778, 67.7778, 63.3333, 63.3333, 62.2222, 61.1111, 61.1111, 57.7778, 57.7778, 57.7778, 57.7778, 62.2222, 62.2222, 62.2222, 62.2222, 62.2222], mean: 80.0758
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0         8  49   0.537812  around 163 pounds n27 years old n5 4 little th...
+1        53  73   0.493261  ve week opinion may change longer usage easy a...
+2        23  74   0.451813  heart rate really gets going compact little st...
+3        25  44   0.388668  thought price compact little stair stepper mig...
+4        79  36   0.265607  second time ordered product first stepper brok...
+5        66  23   0.233737  ll honest felt like stepped 1987 bought lookin...
+6        58  25   0.232311  great compact stair stepper looking something ...
+7        43  32   0.207691  original straight up and down pedal step movem...
+8        70  26   0.200446  last stepper broke one replacement love item u...
+9        68  34   0.194737  thing awesome mine gets used daily two years s...
+10       89  79   0.163903  shipping fast item recently bought treadmill w...
+11       45  15   0.158358  ve put sunny stepper together without hitch lo...
+12       56  16   0.100871  compact well constructed receive mine days go ...
+13       47   9   0.045431  really enjoy working step machines belonged gy...
