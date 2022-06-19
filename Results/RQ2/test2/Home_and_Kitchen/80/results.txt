@@ -1,0 +1,381 @@
+------- Category: Home_and_Kitchen -------
+Found asin_id: B009I2AL8W
+Shape:  (80, 7)
+Shape after:  (80, 7)
+
+
+Chosen product: B009I2AL8W has 80 reviews - True, it has 80 reviews
+
+Removed indexes: [6, 11, 12, 17, 24, 26, 27, 38, 39, 40, 46, 48, 50, 54, 60, 62, 63, 71, 75]
+New length of reviews: 61
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 95.082%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [0, 4, 8]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   8  great desk favor hanging go home depot couple ...    0.05922
+
+step 1
+index added: 9
+percentage unclustered: 95.082%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 93.4426%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [0, 4, 8, 10]
+			old information: 10, gain: 0.9927431059506531
+
+   ind                                             review  relevance
+0  10  seeing pics desk apple imacs decided purchase ...   0.267285
+1   8  great desk favor hanging go home depot couple ...   0.059220
+
+step 1
+index added: 11
+percentage unclustered: 90.1639%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 88.52459999999999%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 88.52459999999999%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 95.082%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 95.082%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 95.082%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 95.082%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 95.082%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 95.082%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 95.082%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 93.4426%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 81.96719999999999%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 81.96719999999999%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 80.3279%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 80.3279%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 78.6885%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 80.3279%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 80.3279%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 75.4098%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 75.4098%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 73.7705%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 72.1311%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 72.1311%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 67.2131%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 68.85249999999999%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 63.9344%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 62.2951%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 62.2951%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 62.2951%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 62.2951%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 62.2951%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 63.9344%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 62.2951%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 62.2951%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 60.6557%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 60.6557%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 60.6557%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 55.7377%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 54.0984%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 54.0984%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 54.0984%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 52.459%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 50.8197%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 50.8197%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 49.1803%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 49.1803%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 47.541%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 47.541%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 47.541%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 47.541%
+
+	step 2
+
+--- 9.521238327026367 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 95.082, 95.082, 93.4426, 90.1639, 88.52459999999999, 88.52459999999999, 95.082, 95.082, 95.082, 95.082, 95.082, 95.082, 95.082, 93.4426, 81.96719999999999, 81.96719999999999, 80.3279, 80.3279, 78.6885, 80.3279, 80.3279, 75.4098, 75.4098, 73.7705, 72.1311, 72.1311, 67.2131, 68.85249999999999, 63.9344, 62.2951, 62.2951, 62.2951, 62.2951, 62.2951, 63.9344, 62.2951, 62.2951, 60.6557, 60.6557, 60.6557, 55.7377, 54.0984, 54.0984, 54.0984, 52.459, 50.8197, 50.8197, 49.1803, 49.1803, 47.541, 47.541, 47.541, 47.541], mean: 74.3262
+
+Final Ranking:
+   ranking  ...                                             review
+0       52  ...  seeing pics desk apple imacs decided purchase ...
+1       47  ...  great desk favor hanging go home depot couple ...
+
+[2 rows x 4 columns]

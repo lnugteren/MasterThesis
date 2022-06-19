@@ -1,0 +1,262 @@
+------- Category: Home_and_Kitchen -------
+Found asin_id: B00004RHQA
+Shape:  (60, 7)
+Shape after:  (60, 7)
+
+
+Chosen product: B00004RHQA has 60 reviews - True, it has 60 reviews
+
+Removed indexes: [1, 2, 6, 9, 10, 17, 18, 19, 27, 38, 39, 40, 41, 47, 52, 54, 55]
+New length of reviews: 43
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 93.0233%
+
+	step 2
+
+step 1
+index added: 6
+percentage unclustered: 93.0233%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 93.0233%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 93.0233%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 93.0233%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 93.0233%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 86.0465%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 86.0465%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 86.0465%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 86.0465%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 86.0465%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 88.3721%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 88.3721%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 81.39529999999999%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 79.0698%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 76.7442%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 74.4186%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 74.4186%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 72.093%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 72.093%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 72.093%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 72.093%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 69.7674%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 62.7907%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 74.4186%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 74.4186%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 74.4186%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 74.4186%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 74.4186%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 60.4651%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 60.4651%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 60.4651%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 60.4651%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 58.1395%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 58.1395%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 65.1163%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 65.1163%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 62.7907%
+
+	step 2
+
+--- 3.296830654144287 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 93.0233, 93.0233, 93.0233, 93.0233, 93.0233, 93.0233, 86.0465, 86.0465, 86.0465, 86.0465, 86.0465, 88.3721, 88.3721, 81.39529999999999, 79.0698, 76.7442, 74.4186, 74.4186, 72.093, 72.093, 72.093, 72.093, 69.7674, 62.7907, 74.4186, 74.4186, 74.4186, 74.4186, 74.4186, 60.4651, 60.4651, 60.4651, 60.4651, 58.1395, 58.1395, 65.1163, 65.1163, 62.7907], mean: 77.9353
+
+Final Ranking:
+Empty DataFrame
+Columns: [ranking, ind, relevance, review]
+Index: []

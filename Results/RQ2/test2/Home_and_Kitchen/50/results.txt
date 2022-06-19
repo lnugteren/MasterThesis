@@ -1,0 +1,212 @@
+------- Category: Home_and_Kitchen -------
+Found asin_id: B00005B5Z0
+Shape:  (50, 7)
+Shape after:  (50, 7)
+
+
+Chosen product: B00005B5Z0 has 50 reviews - True, it has 50 reviews
+
+Removed indexes: [9, 11, 13, 14, 19, 21, 28, 30, 31, 35, 36, 44]
+New length of reviews: 38
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 100.0%
+
+step 1
+index added: 13
+percentage unclustered: 100.0%
+
+step 1
+index added: 14
+percentage unclustered: 100.0%
+
+step 1
+index added: 15
+percentage unclustered: 92.1053%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 92.1053%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 92.1053%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 92.1053%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 92.1053%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 92.1053%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 92.1053%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 92.1053%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 92.1053%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 89.4737%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 81.5789%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 81.5789%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 81.5789%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 73.6842%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 73.6842%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 71.0526%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 71.0526%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 68.4211%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 68.4211%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 68.4211%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 68.4211%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 65.7895%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 65.7895%
+
+	step 2
+
+--- 2.3740553855895996 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 92.1053, 92.1053, 92.1053, 92.1053, 92.1053, 92.1053, 92.1053, 92.1053, 92.1053, 89.4737, 81.5789, 81.5789, 81.5789, 73.6842, 73.6842, 71.0526, 71.0526, 68.4211, 68.4211, 68.4211, 68.4211, 65.7895, 65.7895], mean: 87.7193
+
+Final Ranking:
+Empty DataFrame
+Columns: [ranking, ind, relevance, review]
+Index: []

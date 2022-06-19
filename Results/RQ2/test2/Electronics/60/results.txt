@@ -1,0 +1,286 @@
+------- Category: Electronics -------
+Found asin_id: B00004THD0
+Shape:  (60, 7)
+Shape after:  (60, 7)
+
+
+Chosen product: B00004THD0 has 60 reviews - True, it has 60 reviews
+
+Removed indexes: [5, 6, 9, 15, 17, 19, 26, 31, 33, 36, 40, 42, 48]
+New length of reviews: 47
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 93.617%
+
+	step 2
+
+step 1
+index added: 6
+percentage unclustered: 91.4894%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 91.4894%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 91.4894%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 89.3617%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 89.3617%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 89.3617%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 89.3617%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 89.3617%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 87.234%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 85.10640000000001%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 78.7234%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 80.8511%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 80.8511%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 80.8511%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 80.8511%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 80.8511%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 78.7234%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 70.2128%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 68.0851%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 65.9574%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 63.8298%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 61.7021%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 59.5745%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 59.5745%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 59.5745%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 57.4468%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 57.4468%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 55.3191%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 55.3191%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 55.3191%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 53.1915%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 55.3191%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 53.1915%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 51.0638%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 51.0638%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 48.9362%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 42.5532%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 40.4255%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 40.4255%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 40.4255%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 48.9362%
+
+	step 2
+
+--- 3.931417465209961 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 93.617, 91.4894, 91.4894, 91.4894, 89.3617, 89.3617, 89.3617, 89.3617, 89.3617, 87.234, 85.10640000000001, 78.7234, 80.8511, 80.8511, 80.8511, 80.8511, 80.8511, 78.7234, 70.2128, 68.0851, 65.9574, 63.8298, 61.7021, 59.5745, 59.5745, 59.5745, 57.4468, 57.4468, 55.3191, 55.3191, 55.3191, 53.1915, 55.3191, 53.1915, 51.0638, 51.0638, 48.9362, 42.5532, 40.4255, 40.4255, 40.4255, 48.9362], mean: 70.3073
+
+Final Ranking:
+Empty DataFrame
+Columns: [ranking, ind, relevance, review]
+Index: []
