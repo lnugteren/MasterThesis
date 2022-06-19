@@ -1,0 +1,803 @@
+------- Category: Home_and_Kitchen -------
+Found asin_id: B0002HDWNS
+Shape:  (70, 7)
+
+
+Chosen product: B0002HDWNS has 70 reviews - True, it has 70 reviews
+Duplicate reviewers?:  63    A2OR94VN7XQCUO
+Name: reviewerID, dtype: object
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 95.7143%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [3, 6, 10]
+		The relevance model has size: 2
+		1 reviews removed from the relevance model, indices: [3]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  10  oven spacious big enough couple 12 pizza pans ...   0.253175
+
+step 1
+index added: 11
+percentage unclustered: 95.7143%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 91.4286%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [6, 8, 9, 12]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [6, 8]. 
+		It now has size: 2
+			old information: 106, gain: 0.9762597984322509
+
+   ind                                             review  relevance
+0  12  bought oven 18 months ago n t pretty could use...   0.355267
+1  10  oven spacious big enough couple 12 pizza pans ...   0.253175
+
+step 1
+index added: 13
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [6, 8, 9, 12]
+		The relevance model has size: 5
+		1 reviews removed from the relevance model, indices: [6]. 
+		It now has size: 4
+			old information: 48, gain: 0.9638009049773756
+
+   ind                                             review  relevance
+0  13  absolutely love oven wanted something small ec...   0.372238
+1  12  bought oven 18 months ago n t pretty could use...   0.355267
+2  10  oven spacious big enough couple 12 pizza pans ...   0.253175
+
+step 1
+index added: 14
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 88.5714%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [6, 8, 12, 18]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [10, 12, 13]. 
+		It now has size: 3
+			old information: 155, gain: 0.9667096219931272
+
+   ind                                             review  relevance
+0  18  n t toaster oven awhile years listening compla...   0.557775
+1  13  absolutely love oven wanted something small ec...   0.372238
+2  12  bought oven 18 months ago n t pretty could use...   0.355267
+3  10  oven spacious big enough couple 12 pizza pans ...   0.253175
+
+step 1
+index added: 19
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 87.1429%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [6, 8, 12, 18]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [6, 9, 12]. 
+		It now has size: 2
+			old information: 422, gain: 0.9858815657410506
+
+   ind                                             review  relevance
+0  18  n t toaster oven awhile years listening compla...   0.557775
+1  13  absolutely love oven wanted something small ec...   0.372238
+2  20  could n t help notice whole exterior quickly g...   0.358153
+3  12  bought oven 18 months ago n t pretty could use...   0.355267
+4  10  oven spacious big enough couple 12 pizza pans ...   0.253175
+
+step 1
+index added: 21
+percentage unclustered: 91.4286%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [9, 12, 13, 18, 21]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [8, 9, 13]. 
+		It now has size: 3
+			old information: 134, gain: 0.8989441930618401
+
+   ind                                             review  relevance
+0  18  n t toaster oven awhile years listening compla...   0.557775
+1  13  absolutely love oven wanted something small ec...   0.372238
+2  20  could n t help notice whole exterior quickly g...   0.358153
+3  21  handy oven works summer time n t want run big ...   0.356286
+4  12  bought oven 18 months ago n t pretty could use...   0.355267
+5  10  oven spacious big enough couple 12 pizza pans ...   0.253175
+
+step 1
+index added: 22
+percentage unclustered: 91.4286%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 23 with core nodes: [12, 18, 23]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [12, 18]. 
+		It now has size: 2
+			old information: 1232, gain: 0.9634095634095634
+
+   ind                                             review  relevance
+0  18  n t toaster oven awhile years listening compla...   0.557775
+1  23  great oven due s proportions allow larger item...   0.443077
+2  13  absolutely love oven wanted something small ec...   0.372238
+3  20  could n t help notice whole exterior quickly g...   0.358153
+4  21  handy oven works summer time n t want run big ...   0.356286
+5  12  bought oven 18 months ago n t pretty could use...   0.355267
+6  10  oven spacious big enough couple 12 pizza pans ...   0.253175
+
+step 1
+index added: 24
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 84.2857%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [12, 23, 27]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [20, 23]. 
+		It now has size: 2
+			old information: 1409, gain: 0.9163102874792112
+
+   ind                                             review  relevance
+0  18  n t toaster oven awhile years listening compla...   0.557775
+1  27  oven months s higher typical toaster oven fits...   0.462549
+2  23  great oven due s proportions allow larger item...   0.443077
+3  13  absolutely love oven wanted something small ec...   0.372238
+4  20  could n t help notice whole exterior quickly g...   0.358153
+5  21  handy oven works summer time n t want run big ...   0.356286
+6  12  bought oven 18 months ago n t pretty could use...   0.355267
+7  10  oven spacious big enough couple 12 pizza pans ...   0.253175
+
+step 1
+index added: 28
+percentage unclustered: 84.2857%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 84.2857%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 82.8571%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [12, 23, 27]
+
+step 1
+index added: 31
+percentage unclustered: 81.4286%
+
+	step 2
+
+		step 3
+		candidate index: 31 with core nodes: [12, 23, 27]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [21, 27]. 
+		It now has size: 2
+			old information: 322, gain: 0.8240437158469945
+
+   ind                                             review  relevance
+0  18  n t toaster oven awhile years listening compla...   0.557775
+1  27  oven months s higher typical toaster oven fits...   0.462549
+2  23  great oven due s proportions allow larger item...   0.443077
+3  31  good baking takes slightly longer regular oven...   0.383988
+4  13  absolutely love oven wanted something small ec...   0.372238
+5  20  could n t help notice whole exterior quickly g...   0.358153
+6  21  handy oven works summer time n t want run big ...   0.356286
+7  12  bought oven 18 months ago n t pretty could use...   0.355267
+8  10  oven spacious big enough couple 12 pizza pans ...   0.253175
+
+step 1
+index added: 32
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 75.71430000000001%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [6, 8, 18, 23, 27]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [8, 12, 27, 31]. 
+		It now has size: 3
+			old information: 1005, gain: 0.8819729888432178
+
+   ind                                             review  relevance
+0  18  n t toaster oven awhile years listening compla...   0.557775
+1  33  knew price reasonable prepared pay expensive n...   0.474069
+2  27  oven months s higher typical toaster oven fits...   0.462549
+3  23  great oven due s proportions allow larger item...   0.443077
+4  31  good baking takes slightly longer regular oven...   0.383988
+5  13  absolutely love oven wanted something small ec...   0.372238
+6  20  could n t help notice whole exterior quickly g...   0.358153
+7  21  handy oven works summer time n t want run big ...   0.356286
+8  12  bought oven 18 months ago n t pretty could use...   0.355267
+9  10  oven spacious big enough couple 12 pizza pans ...   0.253175
+
+step 1
+index added: 34
+percentage unclustered: 75.71430000000001%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 75.71430000000001%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 74.28569999999999%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [6, 23, 27]
+
+step 1
+index added: 37
+percentage unclustered: 72.8571%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [6, 18, 23, 27, 37]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [18, 23, 27]. 
+		It now has size: 2
+			old information: 1136, gain: 0.9180434312098694
+
+    ind                                             review  relevance
+0   18  n t toaster oven awhile years listening compla...   0.557775
+1   33  knew price reasonable prepared pay expensive n...   0.474069
+2   27  oven months s higher typical toaster oven fits...   0.462549
+3   23  great oven due s proportions allow larger item...   0.443077
+4   37  bought oven little month ago walmart com site ...   0.442024
+5   31  good baking takes slightly longer regular oven...   0.383988
+6   13  absolutely love oven wanted something small ec...   0.372238
+7   20  could n t help notice whole exterior quickly g...   0.358153
+8   21  handy oven works summer time n t want run big ...   0.356286
+9   12  bought oven 18 months ago n t pretty could use...   0.355267
+10  10  oven spacious big enough couple 12 pizza pans ...   0.253175
+
+step 1
+index added: 38
+percentage unclustered: 72.8571%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 72.8571%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 78.5714%
+
+	step 2
+
+		step 3
+		candidate index: 40 with core nodes: [6, 18, 40]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [6, 37]. 
+		It now has size: 2
+			old information: 431, gain: 0.7481005260081823
+
+    ind                                             review  relevance
+0   18  n t toaster oven awhile years listening compla...   0.557775
+1   33  knew price reasonable prepared pay expensive n...   0.474069
+2   27  oven months s higher typical toaster oven fits...   0.462549
+3   23  great oven due s proportions allow larger item...   0.443077
+4   37  bought oven little month ago walmart com site ...   0.442024
+5   40  ve oven two years probably used thing kitchen ...   0.407423
+6   31  good baking takes slightly longer regular oven...   0.383988
+7   13  absolutely love oven wanted something small ec...   0.372238
+8   20  could n t help notice whole exterior quickly g...   0.358153
+9   21  handy oven works summer time n t want run big ...   0.356286
+10  12  bought oven 18 months ago n t pretty could use...   0.355267
+11  10  oven spacious big enough couple 12 pizza pans ...   0.253175
+
+step 1
+index added: 41
+percentage unclustered: 78.5714%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [6, 18, 40]
+
+step 1
+index added: 42
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 75.71430000000001%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 75.71430000000001%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 71.4286%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [6, 18, 23, 27, 37]
+
+step 1
+index added: 48
+percentage unclustered: 71.4286%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 71.4286%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 72.8571%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 72.8571%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 72.8571%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 72.8571%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 72.8571%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 72.8571%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 71.4286%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 71.4286%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 71.4286%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 71.4286%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 71.4286%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 61 with core nodes: [6, 23, 27]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [23, 33, 40]. 
+		It now has size: 3
+			old information: 1136, gain: 0.8408963585434174
+
+    ind                                             review  relevance
+0   18  n t toaster oven awhile years listening compla...   0.557775
+1   61  approach summer fact temperature reached 90 de...   0.518392
+2   33  knew price reasonable prepared pay expensive n...   0.474069
+3   27  oven months s higher typical toaster oven fits...   0.462549
+4   23  great oven due s proportions allow larger item...   0.443077
+5   37  bought oven little month ago walmart com site ...   0.442024
+6   40  ve oven two years probably used thing kitchen ...   0.407423
+7   31  good baking takes slightly longer regular oven...   0.383988
+8   13  absolutely love oven wanted something small ec...   0.372238
+9   20  could n t help notice whole exterior quickly g...   0.358153
+10  21  handy oven works summer time n t want run big ...   0.356286
+11  12  bought oven 18 months ago n t pretty could use...   0.355267
+12  10  oven spacious big enough couple 12 pizza pans ...   0.253175
+
+step 1
+index added: 62
+percentage unclustered: 68.5714%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 68.5714%
+
+	step 2
+
+		step 3
+		candidate index: 64 with core nodes: [6, 23, 27, 64]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [18, 23, 27]. 
+		It now has size: 2
+			old information: 3882, gain: 0.928920626201593
+
+    ind                                             review  relevance
+0   18  n t toaster oven awhile years listening compla...   0.557775
+1   64  actual rating 4 1 2 stars half point deduction...   0.556240
+2   61  approach summer fact temperature reached 90 de...   0.518392
+3   33  knew price reasonable prepared pay expensive n...   0.474069
+4   27  oven months s higher typical toaster oven fits...   0.462549
+5   23  great oven due s proportions allow larger item...   0.443077
+6   37  bought oven little month ago walmart com site ...   0.442024
+7   40  ve oven two years probably used thing kitchen ...   0.407423
+8   31  good baking takes slightly longer regular oven...   0.383988
+9   13  absolutely love oven wanted something small ec...   0.372238
+10  20  could n t help notice whole exterior quickly g...   0.358153
+11  21  handy oven works summer time n t want run big ...   0.356286
+12  12  bought oven 18 months ago n t pretty could use...   0.355267
+13  10  oven spacious big enough couple 12 pizza pans ...   0.253175
+
+step 1
+index added: 65
+percentage unclustered: 68.5714%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 68.5714%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 64.28569999999999%
+
+	step 2
+
+		step 3
+		candidate index: 67 with core nodes: [6, 27, 64, 67]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [6, 64]. 
+		It now has size: 2
+			old information: 2637, gain: 0.884296432802422
+
+    ind                                             review  relevance
+0   67  pros oven serves quite well baking broiling ne...   0.626995
+1   18  n t toaster oven awhile years listening compla...   0.557775
+2   64  actual rating 4 1 2 stars half point deduction...   0.556240
+3   61  approach summer fact temperature reached 90 de...   0.518392
+4   33  knew price reasonable prepared pay expensive n...   0.474069
+5   27  oven months s higher typical toaster oven fits...   0.462549
+6   23  great oven due s proportions allow larger item...   0.443077
+7   37  bought oven little month ago walmart com site ...   0.442024
+8   40  ve oven two years probably used thing kitchen ...   0.407423
+9   31  good baking takes slightly longer regular oven...   0.383988
+10  13  absolutely love oven wanted something small ec...   0.372238
+11  20  could n t help notice whole exterior quickly g...   0.358153
+12  21  handy oven works summer time n t want run big ...   0.356286
+13  12  bought oven 18 months ago n t pretty could use...   0.355267
+14  10  oven spacious big enough couple 12 pizza pans ...   0.253175
+
+		step 3
+		candidate index: 67 with core nodes: [6, 23, 64, 67]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [6, 61, 64]. 
+		It now has size: 3
+			old information: 12122, gain: 0.4681233820367689
+
+    ind                                             review  relevance
+0   67  pros oven serves quite well baking broiling ne...   0.827057
+1   67  pros oven serves quite well baking broiling ne...   0.626995
+2   18  n t toaster oven awhile years listening compla...   0.557775
+3   64  actual rating 4 1 2 stars half point deduction...   0.556240
+4   61  approach summer fact temperature reached 90 de...   0.518392
+5   33  knew price reasonable prepared pay expensive n...   0.474069
+6   27  oven months s higher typical toaster oven fits...   0.462549
+7   23  great oven due s proportions allow larger item...   0.443077
+8   37  bought oven little month ago walmart com site ...   0.442024
+9   40  ve oven two years probably used thing kitchen ...   0.407423
+10  31  good baking takes slightly longer regular oven...   0.383988
+11  13  absolutely love oven wanted something small ec...   0.372238
+12  20  could n t help notice whole exterior quickly g...   0.358153
+13  21  handy oven works summer time n t want run big ...   0.356286
+14  12  bought oven 18 months ago n t pretty could use...   0.355267
+15  10  oven spacious big enough couple 12 pizza pans ...   0.253175
+
+		step 3
+		candidate index: 67 with core nodes: [6, 23, 27, 64]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [6, 23, 27]. 
+		It now has size: 3
+			old information: 12122, gain: 0.4681233820367689
+
+    ind                                             review  relevance
+0   67  pros oven serves quite well baking broiling ne...   0.925572
+1   67  pros oven serves quite well baking broiling ne...   0.827057
+2   67  pros oven serves quite well baking broiling ne...   0.626995
+3   18  n t toaster oven awhile years listening compla...   0.557775
+4   64  actual rating 4 1 2 stars half point deduction...   0.556240
+5   61  approach summer fact temperature reached 90 de...   0.518392
+6   33  knew price reasonable prepared pay expensive n...   0.474069
+7   27  oven months s higher typical toaster oven fits...   0.462549
+8   23  great oven due s proportions allow larger item...   0.443077
+9   37  bought oven little month ago walmart com site ...   0.442024
+10  40  ve oven two years probably used thing kitchen ...   0.407423
+11  31  good baking takes slightly longer regular oven...   0.383988
+12  13  absolutely love oven wanted something small ec...   0.372238
+13  20  could n t help notice whole exterior quickly g...   0.358153
+14  21  handy oven works summer time n t want run big ...   0.356286
+15  12  bought oven 18 months ago n t pretty could use...   0.355267
+16  10  oven spacious big enough couple 12 pizza pans ...   0.253175
+
+step 1
+index added: 68
+percentage unclustered: 62.8571%
+
+	step 2
+
+		step 3
+		candidate index: 68 with core nodes: [6, 27, 64, 67]
+
+		step 3
+		candidate index: 68 with core nodes: [6, 23, 64, 67]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [6, 64, 67]. 
+		It now has size: 3
+			old information: 855, gain: 0.8624517374517374
+
+    ind                                             review  relevance
+0   67  pros oven serves quite well baking broiling ne...   0.925572
+1   67  pros oven serves quite well baking broiling ne...   0.827057
+2   67  pros oven serves quite well baking broiling ne...   0.626995
+3   18  n t toaster oven awhile years listening compla...   0.557775
+4   64  actual rating 4 1 2 stars half point deduction...   0.556240
+5   61  approach summer fact temperature reached 90 de...   0.518392
+6   68  500 cuisinart s 500 found mine macy s thirty p...   0.499152
+7   33  knew price reasonable prepared pay expensive n...   0.474069
+8   27  oven months s higher typical toaster oven fits...   0.462549
+9   23  great oven due s proportions allow larger item...   0.443077
+10  37  bought oven little month ago walmart com site ...   0.442024
+11  40  ve oven two years probably used thing kitchen ...   0.407423
+12  31  good baking takes slightly longer regular oven...   0.383988
+13  13  absolutely love oven wanted something small ec...   0.372238
+14  20  could n t help notice whole exterior quickly g...   0.358153
+15  21  handy oven works summer time n t want run big ...   0.356286
+16  12  bought oven 18 months ago n t pretty could use...   0.355267
+17  10  oven spacious big enough couple 12 pizza pans ...   0.253175
+
+		step 3
+		candidate index: 68 with core nodes: [6, 23, 27, 64]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [6, 23, 64, 67]. 
+		It now has size: 3
+			old information: 3839, gain: 0.3824002574002574
+
+    ind                                             review  relevance
+0   67  pros oven serves quite well baking broiling ne...   0.925572
+1   67  pros oven serves quite well baking broiling ne...   0.827057
+2   68  500 cuisinart s 500 found mine macy s thirty p...   0.703503
+3   67  pros oven serves quite well baking broiling ne...   0.626995
+4   18  n t toaster oven awhile years listening compla...   0.557775
+5   64  actual rating 4 1 2 stars half point deduction...   0.556240
+6   61  approach summer fact temperature reached 90 de...   0.518392
+7   68  500 cuisinart s 500 found mine macy s thirty p...   0.499152
+8   33  knew price reasonable prepared pay expensive n...   0.474069
+9   27  oven months s higher typical toaster oven fits...   0.462549
+10  23  great oven due s proportions allow larger item...   0.443077
+11  37  bought oven little month ago walmart com site ...   0.442024
+12  40  ve oven two years probably used thing kitchen ...   0.407423
+13  31  good baking takes slightly longer regular oven...   0.383988
+14  13  absolutely love oven wanted something small ec...   0.372238
+15  20  could n t help notice whole exterior quickly g...   0.358153
+16  21  handy oven works summer time n t want run big ...   0.356286
+17  12  bought oven 18 months ago n t pretty could use...   0.355267
+18  10  oven spacious big enough couple 12 pizza pans ...   0.253175
+
+step 1
+index added: 69
+percentage unclustered: 62.8571%
+
+	step 2
+
+--- 120.34115529060364 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 95.7143, 95.7143, 91.4286, 90.0, 90.0, 90.0, 90.0, 90.0, 88.5714, 88.5714, 87.1429, 91.4286, 91.4286, 90.0, 88.5714, 88.5714, 88.5714, 84.2857, 84.2857, 84.2857, 82.8571, 81.4286, 80.0, 75.71430000000001, 75.71430000000001, 75.71430000000001, 74.28569999999999, 72.8571, 72.8571, 72.8571, 78.5714, 78.5714, 81.4286, 81.4286, 81.4286, 75.71430000000001, 75.71430000000001, 71.4286, 71.4286, 71.4286, 72.8571, 72.8571, 72.8571, 72.8571, 72.8571, 72.8571, 71.4286, 71.4286, 71.4286, 71.4286, 71.4286, 70.0, 68.5714, 70.0, 68.5714, 68.5714, 68.5714, 64.28569999999999, 62.8571, 62.8571], mean: 81.1555
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0         5  67   0.925572  pros oven serves quite well baking broiling ne...
+1         5  67   0.827057  pros oven serves quite well baking broiling ne...
+2         4  68   0.703503  500 cuisinart s 500 found mine macy s thirty p...
+3         5  67   0.626995  pros oven serves quite well baking broiling ne...
+4        54  18   0.557775  n t toaster oven awhile years listening compla...
+5         3  64   0.556240  actual rating 4 1 2 stars half point deduction...
+6        11  61   0.518392  approach summer fact temperature reached 90 de...
+7         4  68   0.499152  500 cuisinart s 500 found mine macy s thirty p...
+8        15  33   0.474069  knew price reasonable prepared pay expensive n...
+9        58  27   0.462549  oven months s higher typical toaster oven fits...
+10       25  23   0.443077  great oven due s proportions allow larger item...
+11       47  37   0.442024  bought oven little month ago walmart com site ...
+12       68  40   0.407423  ve oven two years probably used thing kitchen ...
+13       42  31   0.383988  good baking takes slightly longer regular oven...
+14       61  13   0.372238  absolutely love oven wanted something small ec...
+15       13  20   0.358153  could n t help notice whole exterior quickly g...
+16       55  21   0.356286  handy oven works summer time n t want run big ...
+17       29  12   0.355267  bought oven 18 months ago n t pretty could use...
+18       40  10   0.253175  oven spacious big enough couple 12 pizza pans ...

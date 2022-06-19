@@ -1,0 +1,485 @@
+------- Category: Home_and_Kitchen -------
+Found asin_id: B00004RHQA
+Shape:  (60, 7)
+
+
+Chosen product: B00004RHQA has 60 reviews - True, it has 60 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 100.0%
+
+step 1
+index added: 13
+percentage unclustered: 95.0%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [2, 12, 13]
+		The relevance model has size: 2
+		1 reviews removed from the relevance model, indices: [2]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  13  knew purchased machine would dream come true c...   0.193545
+
+step 1
+index added: 14
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [0, 2, 8, 12, 13, 16]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [0, 8, 12]. 
+		It now has size: 2
+			old information: 91, gain: 0.9921740626074992
+
+   ind                                             review  relevance
+0  16  found worked okay first six months although ev...   0.319857
+1  13  knew purchased machine would dream come true c...   0.193545
+
+step 1
+index added: 17
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [0, 2, 3, 16, 19]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [3, 13, 16]. 
+		It now has size: 2
+			old information: 278, gain: 0.9568390001552554
+
+   ind                                             review  relevance
+0  19  chamonix turned 18 months still functions like...   0.328775
+1  16  found worked okay first six months although ev...   0.319857
+2  13  knew purchased machine would dream come true c...   0.193545
+
+step 1
+index added: 20
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [8, 13, 18]
+
+step 1
+index added: 21
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [0, 2, 3, 16]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [2, 16, 19]. 
+		It now has size: 2
+			old information: 47, gain: 0.9479512735326688
+
+   ind                                             review  relevance
+0  19  chamonix turned 18 months still functions like...   0.328775
+1  21  fourth espresso machine third pump last machin...   0.320436
+2  16  found worked okay first six months although ev...   0.319857
+3  13  knew purchased machine would dream come true c...   0.193545
+
+step 1
+index added: 22
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 88.3333%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [8, 12, 13, 16, 20]
+		The relevance model has size: 8
+		4 reviews removed from the relevance model, indices: [0, 12, 16, 21]. 
+		It now has size: 4
+			old information: 97, gain: 0.9752298263534218
+
+   ind                                             review  relevance
+0  19  chamonix turned 18 months still functions like...   0.328775
+1  21  fourth espresso machine third pump last machin...   0.320436
+2  16  found worked okay first six months although ev...   0.319857
+3  28  reading information reviews unit looked forwar...   0.212834
+4  13  knew purchased machine would dream come true c...   0.193545
+
+step 1
+index added: 29
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [0, 2, 16, 33]
+		The relevance model has size: 8
+		4 reviews removed from the relevance model, indices: [2, 3, 13, 28]. 
+		It now has size: 4
+			old information: 87, gain: 0.8884615384615384
+
+   ind                                             review  relevance
+0  33  solidly made attractive difficult understand t...   0.356696
+1  19  chamonix turned 18 months still functions like...   0.328775
+2  21  fourth espresso machine third pump last machin...   0.320436
+3  16  found worked okay first six months although ev...   0.319857
+4  28  reading information reviews unit looked forwar...   0.212834
+5  13  knew purchased machine would dream come true c...   0.193545
+
+step 1
+index added: 34
+percentage unclustered: 75.0%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [0, 21, 27, 34]
+		The relevance model has size: 7
+		3 reviews removed from the relevance model, indices: [0, 8, 21]. 
+		It now has size: 4
+			old information: 221, gain: 0.8831306187202538
+
+   ind                                             review  relevance
+0  34  given machine gift months begging espresso mac...   0.416787
+1  33  solidly made attractive difficult understand t...   0.356696
+2  19  chamonix turned 18 months still functions like...   0.328775
+3  21  fourth espresso machine third pump last machin...   0.320436
+4  16  found worked okay first six months although ev...   0.319857
+5  28  reading information reviews unit looked forwar...   0.212834
+6  13  knew purchased machine would dream come true c...   0.193545
+
+step 1
+index added: 35
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 39 with core nodes: [0, 34, 39]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [20, 33, 34]. 
+		It now has size: 3
+			old information: 461, gain: 0.9441618217054264
+
+   ind                                             review  relevance
+0  39  first bought machine thought best ever owned 3...   0.463677
+1  34  given machine gift months begging espresso mac...   0.416787
+2  33  solidly made attractive difficult understand t...   0.356696
+3  19  chamonix turned 18 months still functions like...   0.328775
+4  21  fourth espresso machine third pump last machin...   0.320436
+5  16  found worked okay first six months although ev...   0.319857
+6  28  reading information reviews unit looked forwar...   0.212834
+7  13  knew purchased machine would dream come true c...   0.193545
+
+step 1
+index added: 40
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 48 with core nodes: [0, 2, 39, 47]
+
+step 1
+index added: 49
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 55 with core nodes: [0, 2, 39, 47]
+
+step 1
+index added: 56
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 68.33330000000001%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 59 with core nodes: [0, 2, 39, 47]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [0, 2, 16]. 
+		It now has size: 3
+			old information: 249, gain: 0.9391941391941392
+
+   ind                                             review  relevance
+0  39  first bought machine thought best ever owned 3...   0.463677
+1  34  given machine gift months begging espresso mac...   0.416787
+2  59  perfect espresso first time every time virtual...   0.378280
+3  33  solidly made attractive difficult understand t...   0.356696
+4  19  chamonix turned 18 months still functions like...   0.328775
+5  21  fourth espresso machine third pump last machin...   0.320436
+6  16  found worked okay first six months although ev...   0.319857
+7  28  reading information reviews unit looked forwar...   0.212834
+8  13  knew purchased machine would dream come true c...   0.193545
+
+--- 8.909378051757812 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 95.0, 95.0, 95.0, 90.0, 90.0, 90.0, 85.0, 83.33330000000001, 80.0, 78.33330000000001, 78.33330000000001, 90.0, 90.0, 90.0, 90.0, 88.3333, 83.33330000000001, 83.33330000000001, 83.33330000000001, 83.33330000000001, 81.66669999999999, 75.0, 75.0, 75.0, 75.0, 75.0, 70.0, 70.0, 76.66669999999999, 76.66669999999999, 76.66669999999999, 76.66669999999999, 76.66669999999999, 76.66669999999999, 76.66669999999999, 80.0, 80.0, 80.0, 80.0, 80.0, 80.0, 80.0, 78.33330000000001, 78.33330000000001, 78.33330000000001, 68.33330000000001, 73.33330000000001], mean: 84.6839
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0       37  39   0.463677  first bought machine thought best ever owned 3...
+1       34  34   0.416787  given machine gift months begging espresso mac...
+2        2  59   0.378280  perfect espresso first time every time virtual...
+3       28  33   0.356696  solidly made attractive difficult understand t...
+4       49  19   0.328775  chamonix turned 18 months still functions like...
+5       41  21   0.320436  fourth espresso machine third pump last machin...
+6       26  16   0.319857  found worked okay first six months although ev...
+7       42  28   0.212834  reading information reviews unit looked forwar...
+8       32  13   0.193545  knew purchased machine would dream come true c...
