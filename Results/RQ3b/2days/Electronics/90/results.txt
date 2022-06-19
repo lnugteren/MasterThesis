@@ -1,0 +1,746 @@
+------- Category: Electronics -------
+Found asin_id: B000TEVQVO
+Shape:  (90, 7)
+
+
+Chosen product: B000TEVQVO has 90 reviews - True, it has 90 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 96.6667%
+
+	step 2
+
+		step 3
+		candidate index: 2 with core nodes: [0, 1, 2]
+		The relevance model has size: 2
+		1 reviews removed from the relevance model, indices: [0]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   2  bought november 2017 finally replace ge supera...   0.471514
+
+step 1
+index added: 3
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 4
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 5
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 6
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 95.5556%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [0, 1, 2, 11]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [0, 1]. 
+		It now has size: 1
+			old information: 109, gain: 0.9830771619313771
+
+   ind                                             review  relevance
+0   2  bought november 2017 finally replace ge supera...   0.471514
+1  11  m engineer avid radio listener becoming endang...   0.307212
+
+step 1
+index added: 12
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 94.4444%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [1, 2, 11, 13]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [1, 2]. 
+		It now has size: 1
+			old information: 702, gain: 0.9776254980079682
+
+   ind                                             review  relevance
+0   2  bought november 2017 finally replace ge supera...   0.471514
+1  13  perfect every way every aspect machine intelli...   0.317019
+2  11  m engineer avid radio listener becoming endang...   0.307212
+
+step 1
+index added: 14
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 94.4444%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [1, 2, 11, 18]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [1, 11]. 
+		It now has size: 2
+			old information: 157, gain: 0.8768627450980392
+
+   ind                                             review  relevance
+0   2  bought november 2017 finally replace ge supera...   0.471514
+1  13  perfect every way every aspect machine intelli...   0.317019
+2  11  m engineer avid radio listener becoming endang...   0.307212
+3  18  okay technologically challenged perhaps expect...   0.253812
+
+step 1
+index added: 19
+percentage unclustered: 94.4444%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 86.6667%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [1, 2, 5, 11, 20]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [5, 13, 18]. 
+		It now has size: 3
+			old information: 2412, gain: 0.9853840327223148
+
+   ind                                             review  relevance
+0  20  reading reviews pr d5 wonder whether talking p...   0.669775
+1   2  bought november 2017 finally replace ge supera...   0.471514
+2  13  perfect every way every aspect machine intelli...   0.317019
+3  11  m engineer avid radio listener becoming endang...   0.307212
+4  18  okay technologically challenged perhaps expect...   0.253812
+
+step 1
+index added: 21
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [1, 2, 20, 26]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [2, 11]. 
+		It now has size: 2
+			old information: 1576, gain: 0.9103424735464786
+
+   ind                                             review  relevance
+0  20  reading reviews pr d5 wonder whether talking p...   0.669775
+1  26  started good radio s used house fm transmitter...   0.613922
+2   2  bought november 2017 finally replace ge supera...   0.471514
+3  13  perfect every way every aspect machine intelli...   0.317019
+4  11  m engineer avid radio listener becoming endang...   0.307212
+5  18  okay technologically challenged perhaps expect...   0.253812
+
+step 1
+index added: 27
+percentage unclustered: 82.2222%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 82.2222%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 82.2222%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 82.2222%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 82.2222%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 82.2222%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 82.2222%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 81.1111%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [1, 2, 20, 26]
+
+step 1
+index added: 35
+percentage unclustered: 84.4444%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [1, 11, 20, 26]
+
+step 1
+index added: 36
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [1, 20, 26, 36]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [1, 26]. 
+		It now has size: 1
+			old information: 1585, gain: 0.9117237538290169
+
+   ind                                             review  relevance
+0  20  reading reviews pr d5 wonder whether talking p...   0.669775
+1  26  started good radio s used house fm transmitter...   0.613922
+2  36  little radio awesome size great sitting desk m...   0.527557
+3   2  bought november 2017 finally replace ge supera...   0.471514
+4  13  perfect every way every aspect machine intelli...   0.317019
+5  11  m engineer avid radio listener becoming endang...   0.307212
+6  18  okay technologically challenged perhaps expect...   0.253812
+
+step 1
+index added: 37
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 87.7778%
+
+	step 2
+
+		step 3
+		candidate index: 39 with core nodes: [7, 26, 27, 34, 35, 36]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [7, 20, 27, 35]. 
+		It now has size: 3
+			old information: 123, gain: 0.6746031746031746
+
+   ind                                             review  relevance
+0  20  reading reviews pr d5 wonder whether talking p...   0.669775
+1  26  started good radio s used house fm transmitter...   0.613922
+2  36  little radio awesome size great sitting desk m...   0.527557
+3   2  bought november 2017 finally replace ge supera...   0.471514
+4  13  perfect every way every aspect machine intelli...   0.317019
+5  11  m engineer avid radio listener becoming endang...   0.307212
+6  18  okay technologically challenged perhaps expect...   0.253812
+7  39  looked quality clock radio finally saw amazon ...   0.205643
+
+step 1
+index added: 40
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 75.5556%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [1, 20, 26]
+
+step 1
+index added: 42
+percentage unclustered: 75.5556%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 74.4444%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [1, 20, 26]
+
+step 1
+index added: 44
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 75.5556%
+
+	step 2
+
+		step 3
+		candidate index: 48 with core nodes: [1, 20, 26, 48]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [1, 34, 36]. 
+		It now has size: 3
+			old information: 4344, gain: 0.9479361426722278
+
+   ind                                             review  relevance
+0  20  reading reviews pr d5 wonder whether talking p...   0.669775
+1  48  bought bathroom radio electricity n t ask n ns...   0.626222
+2  26  started good radio s used house fm transmitter...   0.613922
+3  36  little radio awesome size great sitting desk m...   0.527557
+4   2  bought november 2017 finally replace ge supera...   0.471514
+5  13  perfect every way every aspect machine intelli...   0.317019
+6  11  m engineer avid radio listener becoming endang...   0.307212
+7  18  okay technologically challenged perhaps expect...   0.253812
+8  39  looked quality clock radio finally saw amazon ...   0.205643
+
+step 1
+index added: 49
+percentage unclustered: 74.4444%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [1, 20, 26, 48]
+
+step 1
+index added: 50
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 50 with core nodes: [1, 20, 26, 48]
+
+step 1
+index added: 51
+percentage unclustered: 72.2222%
+
+	step 2
+
+		step 3
+		candidate index: 51 with core nodes: [1, 20, 26, 48]
+
+step 1
+index added: 52
+percentage unclustered: 72.2222%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 72.2222%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 72.2222%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 72.2222%
+
+	step 2
+
+		step 3
+		candidate index: 56 with core nodes: [1, 20, 26]
+
+step 1
+index added: 57
+percentage unclustered: 71.1111%
+
+	step 2
+
+		step 3
+		candidate index: 57 with core nodes: [1, 20, 26]
+
+step 1
+index added: 58
+percentage unclustered: 71.1111%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 71.1111%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 71.1111%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 71.1111%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 62 with core nodes: [1, 20, 26, 59]
+
+step 1
+index added: 63
+percentage unclustered: 65.5556%
+
+	step 2
+
+		step 3
+		candidate index: 63 with core nodes: [1, 20, 63]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [1, 20, 26]. 
+		It now has size: 2
+			old information: 3882, gain: 0.9258112601765852
+
+   ind                                             review  relevance
+0  20  reading reviews pr d5 wonder whether talking p...   0.669775
+1  48  bought bathroom radio electricity n t ask n ns...   0.626222
+2  26  started good radio s used house fm transmitter...   0.613922
+3  36  little radio awesome size great sitting desk m...   0.527557
+4  63  s two months since little radio arrived doorst...   0.497081
+5   2  bought november 2017 finally replace ge supera...   0.471514
+6  13  perfect every way every aspect machine intelli...   0.317019
+7  11  m engineer avid radio listener becoming endang...   0.307212
+8  18  okay technologically challenged perhaps expect...   0.253812
+9  39  looked quality clock radio finally saw amazon ...   0.205643
+
+step 1
+index added: 64
+percentage unclustered: 64.4444%
+
+	step 2
+
+		step 3
+		candidate index: 64 with core nodes: [1, 20, 63]
+
+step 1
+index added: 65
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 65.5556%
+
+	step 2
+
+		step 3
+		candidate index: 69 with core nodes: [1, 20, 63]
+
+step 1
+index added: 70
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 72 with core nodes: [1, 20, 32, 63]
+
+step 1
+index added: 73
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 65.5556%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 65.5556%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 64.4444%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 64.4444%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 64.4444%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 64.4444%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 62.2222%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 62.2222%
+
+	step 2
+
+		step 3
+		candidate index: 82 with core nodes: [1, 20, 26, 59]
+
+step 1
+index added: 83
+percentage unclustered: 62.2222%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 61.1111%
+
+	step 2
+
+		step 3
+		candidate index: 84 with core nodes: [1, 20, 26, 59]
+
+step 1
+index added: 85
+percentage unclustered: 61.1111%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 61.1111%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 61.1111%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 61.1111%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 60.0%
+
+	step 2
+
+		step 3
+		candidate index: 89 with core nodes: [1, 20, 26, 59]
+
+--- 204.5452916622162 seconds ---
+
+
+ Unclustered percentages: [96.6667, 96.6667, 96.6667, 96.6667, 96.6667, 96.6667, 96.6667, 96.6667, 96.6667, 95.5556, 95.5556, 94.4444, 95.5556, 95.5556, 95.5556, 95.5556, 94.4444, 94.4444, 86.6667, 86.6667, 86.6667, 86.6667, 86.6667, 86.6667, 83.33330000000001, 82.2222, 82.2222, 82.2222, 82.2222, 82.2222, 82.2222, 82.2222, 81.1111, 84.4444, 83.33330000000001, 83.33330000000001, 83.33330000000001, 87.7778, 80.0, 75.5556, 75.5556, 74.4444, 76.66669999999999, 76.66669999999999, 77.7778, 77.7778, 75.5556, 74.4444, 73.33330000000001, 72.2222, 72.2222, 72.2222, 72.2222, 73.33330000000001, 72.2222, 71.1111, 71.1111, 71.1111, 71.1111, 71.1111, 66.66669999999999, 65.5556, 64.4444, 66.66669999999999, 66.66669999999999, 66.66669999999999, 66.66669999999999, 65.5556, 66.66669999999999, 66.66669999999999, 66.66669999999999, 66.66669999999999, 66.66669999999999, 65.5556, 65.5556, 64.4444, 64.4444, 64.4444, 64.4444, 62.2222, 62.2222, 62.2222, 61.1111, 61.1111, 61.1111, 61.1111, 61.1111, 60.0], mean: 77.7273
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0       39  20   0.669775  reading reviews pr d5 wonder whether talking p...
+1       81  48   0.626222  bought bathroom radio electricity n t ask n ns...
+2       19  26   0.613922  started good radio s used house fm transmitter...
+3       36  36   0.527557  little radio awesome size great sitting desk m...
+4       15  63   0.497081  s two months since little radio arrived doorst...
+5        6   2   0.471514  bought november 2017 finally replace ge supera...
+6       61  13   0.317019  perfect every way every aspect machine intelli...
+7       10  11   0.307212  m engineer avid radio listener becoming endang...
+8       70  18   0.253812  okay technologically challenged perhaps expect...
+9       25  39   0.205643  looked quality clock radio finally saw amazon ...

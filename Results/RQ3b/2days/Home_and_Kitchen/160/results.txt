@@ -1,0 +1,1408 @@
+------- Category: Home_and_Kitchen -------
+Found asin_id: B000246GSE
+Shape:  (160, 7)
+
+
+Chosen product: B000246GSE has 160 reviews - True, it has 160 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 100.0%
+
+step 1
+index added: 13
+percentage unclustered: 100.0%
+
+step 1
+index added: 14
+percentage unclustered: 100.0%
+
+step 1
+index added: 15
+percentage unclustered: 100.0%
+
+step 1
+index added: 16
+percentage unclustered: 100.0%
+
+step 1
+index added: 17
+percentage unclustered: 100.0%
+
+step 1
+index added: 18
+percentage unclustered: 100.0%
+
+step 1
+index added: 19
+percentage unclustered: 98.125%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [0, 3, 19]
+		The relevance model has size: 2
+		1 reviews removed from the relevance model, indices: [0]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  19  lunch jar two days discovered one containers l...   0.057735
+
+step 1
+index added: 20
+percentage unclustered: 96.25%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [0, 1, 10, 20]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [0, 3, 10]. 
+		It now has size: 2
+			old information: 6, gain: 0.9926829268292683
+
+   ind                                             review  relevance
+0  20  daughter 12 year old shocking see new zojirush...   0.105031
+1  19  lunch jar two days discovered one containers l...   0.057735
+
+step 1
+index added: 21
+percentage unclustered: 95.625%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [0, 10, 19, 21]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [10, 19, 20]. 
+		It now has size: 2
+			old information: 49, gain: 0.992779251399941
+
+   ind                                             review  relevance
+0  21  started new job found place heat reheat food b...   0.299701
+1  20  daughter 12 year old shocking see new zojirush...   0.105031
+2  19  lunch jar two days discovered one containers l...   0.057735
+
+step 1
+index added: 22
+percentage unclustered: 95.625%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 93.75%
+
+	step 2
+
+		step 3
+		candidate index: 23 with core nodes: [0, 19, 23]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [1, 21]. 
+		It now has size: 2
+			old information: 607, gain: 0.9880325703357583
+
+   ind                                             review  relevance
+0  23  started diet decided best nutritionally well c...   0.586337
+1  21  started new job found place heat reheat food b...   0.299701
+2  20  daughter 12 year old shocking see new zojirush...   0.105031
+3  19  lunch jar two days discovered one containers l...   0.057735
+
+step 1
+index added: 24
+percentage unclustered: 93.75%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 93.75%
+
+	step 2
+
+		step 3
+		candidate index: 25 with core nodes: [0, 21, 23, 25]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [0, 23]. 
+		It now has size: 2
+			old information: 586, gain: 0.9509007121910348
+
+   ind                                             review  relevance
+0  23  started diet decided best nutritionally well c...   0.586337
+1  21  started new job found place heat reheat food b...   0.299701
+2  25  received mr bento week ago using daily love mr...   0.266691
+3  20  daughter 12 year old shocking see new zojirush...   0.105031
+4  19  lunch jar two days discovered one containers l...   0.057735
+
+step 1
+index added: 26
+percentage unclustered: 93.75%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 93.125%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [0, 23, 25, 27]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [19, 23, 25]. 
+		It now has size: 2
+			old information: 2162, gain: 0.9821005745699005
+
+   ind                                             review  relevance
+0  27  okay people seems like lot folks giving low ra...   0.595888
+1  23  started diet decided best nutritionally well c...   0.586337
+2  21  started new job found place heat reheat food b...   0.299701
+3  25  received mr bento week ago using daily love mr...   0.266691
+4  20  daughter 12 year old shocking see new zojirush...   0.105031
+5  19  lunch jar two days discovered one containers l...   0.057735
+
+step 1
+index added: 28
+percentage unclustered: 93.125%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 93.125%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 93.125%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 93.125%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 93.125%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [6, 23, 27, 32]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [21, 23, 27]. 
+		It now has size: 2
+			old information: 9494, gain: 0.979245637736476
+
+   ind                                             review  relevance
+0  32  time review ve finished first lunch feel incli...   0.715626
+1  27  okay people seems like lot folks giving low ra...   0.595888
+2  23  started diet decided best nutritionally well c...   0.586337
+3  21  started new job found place heat reheat food b...   0.299701
+4  25  received mr bento week ago using daily love mr...   0.266691
+5  20  daughter 12 year old shocking see new zojirush...   0.105031
+6  19  lunch jar two days discovered one containers l...   0.057735
+
+step 1
+index added: 33
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 98.125%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 96.25%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [1, 7, 10, 13, 20, 35]
+		The relevance model has size: 8
+		4 reviews removed from the relevance model, indices: [0, 7, 13, 32]. 
+		It now has size: 4
+			old information: 626, gain: 0.9151876439506842
+
+   ind                                             review  relevance
+0  32  time review ve finished first lunch feel incli...   0.715626
+1  27  okay people seems like lot folks giving low ra...   0.595888
+2  23  started diet decided best nutritionally well c...   0.586337
+3  21  started new job found place heat reheat food b...   0.299701
+4  25  received mr bento week ago using daily love mr...   0.266691
+5  35  purchased bento box based good reviews amazon ...   0.207970
+6  20  daughter 12 year old shocking see new zojirush...   0.105031
+7  19  lunch jar two days discovered one containers l...   0.057735
+
+step 1
+index added: 36
+percentage unclustered: 94.375%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [10, 13, 20, 23, 36]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [6, 10, 23, 35]. 
+		It now has size: 3
+			old information: 783, gain: 0.874034749034749
+
+   ind                                             review  relevance
+0  32  time review ve finished first lunch feel incli...   0.715626
+1  27  okay people seems like lot folks giving low ra...   0.595888
+2  23  started diet decided best nutritionally well c...   0.586337
+3  21  started new job found place heat reheat food b...   0.299701
+4  25  received mr bento week ago using daily love mr...   0.266691
+5  36  bought hopes would encourage start bringing lu...   0.247385
+6  35  purchased bento box based good reviews amazon ...   0.207970
+7  20  daughter 12 year old shocking see new zojirush...   0.105031
+8  19  lunch jar two days discovered one containers l...   0.057735
+
+step 1
+index added: 37
+percentage unclustered: 91.25%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [6, 23, 27, 32]
+
+step 1
+index added: 38
+percentage unclustered: 91.25%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 91.875%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 92.5%
+
+	step 2
+
+		step 3
+		candidate index: 40 with core nodes: [6, 23, 27, 32]
+
+step 1
+index added: 41
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 91.875%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [23, 27, 32, 43]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [1, 13, 23, 32]. 
+		It now has size: 3
+			old information: 1540, gain: 0.8394328015848191
+
+   ind                                             review  relevance
+0  32  time review ve finished first lunch feel incli...   0.715626
+1  27  okay people seems like lot folks giving low ra...   0.595888
+2  23  started diet decided best nutritionally well c...   0.586337
+3  43  beware buy please realize may end hating bento...   0.528302
+4  21  started new job found place heat reheat food b...   0.299701
+5  25  received mr bento week ago using daily love mr...   0.266691
+6  36  bought hopes would encourage start bringing lu...   0.247385
+7  35  purchased bento box based good reviews amazon ...   0.207970
+8  20  daughter 12 year old shocking see new zojirush...   0.105031
+9  19  lunch jar two days discovered one containers l...   0.057735
+
+step 1
+index added: 44
+percentage unclustered: 91.25%
+
+	step 2
+
+		step 3
+		candidate index: 44 with core nodes: [23, 27, 32, 43]
+
+step 1
+index added: 45
+percentage unclustered: 91.25%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 91.25%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 91.25%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [23, 27, 32, 43]
+
+step 1
+index added: 48
+percentage unclustered: 91.25%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 91.25%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 90.625%
+
+	step 2
+
+		step 3
+		candidate index: 50 with core nodes: [23, 27, 32, 43]
+
+step 1
+index added: 51
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 51 with core nodes: [23, 27, 32, 43]
+
+step 1
+index added: 52
+percentage unclustered: 89.375%
+
+	step 2
+
+		step 3
+		candidate index: 52 with core nodes: [23, 27, 32]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [20, 23, 27]. 
+		It now has size: 3
+			old information: 6231, gain: 0.9008355216042014
+
+    ind                                             review  relevance
+0   32  time review ve finished first lunch feel incli...   0.715626
+1   52  ordered mr bento lunch jar tired eating lunch ...   0.603879
+2   27  okay people seems like lot folks giving low ra...   0.595888
+3   23  started diet decided best nutritionally well c...   0.586337
+4   43  beware buy please realize may end hating bento...   0.528302
+5   21  started new job found place heat reheat food b...   0.299701
+6   25  received mr bento week ago using daily love mr...   0.266691
+7   36  bought hopes would encourage start bringing lu...   0.247385
+8   35  purchased bento box based good reviews amazon ...   0.207970
+9   20  daughter 12 year old shocking see new zojirush...   0.105031
+10  19  lunch jar two days discovered one containers l...   0.057735
+
+step 1
+index added: 53
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 56 with core nodes: [0, 23, 27, 32]
+
+step 1
+index added: 57
+percentage unclustered: 89.375%
+
+	step 2
+
+		step 3
+		candidate index: 57 with core nodes: [0, 27, 32, 57]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [0, 32, 36]. 
+		It now has size: 3
+			old information: 5801, gain: 0.8841792117557801
+
+    ind                                             review  relevance
+0   32  time review ve finished first lunch feel incli...   0.715626
+1   57  unsure would big small reviewers said way smal...   0.690653
+2   52  ordered mr bento lunch jar tired eating lunch ...   0.603879
+3   27  okay people seems like lot folks giving low ra...   0.595888
+4   23  started diet decided best nutritionally well c...   0.586337
+5   43  beware buy please realize may end hating bento...   0.528302
+6   21  started new job found place heat reheat food b...   0.299701
+7   25  received mr bento week ago using daily love mr...   0.266691
+8   36  bought hopes would encourage start bringing lu...   0.247385
+9   35  purchased bento box based good reviews amazon ...   0.207970
+10  20  daughter 12 year old shocking see new zojirush...   0.105031
+11  19  lunch jar two days discovered one containers l...   0.057735
+
+step 1
+index added: 58
+percentage unclustered: 89.375%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 89.375%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 91.25%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 89.375%
+
+	step 2
+
+		step 3
+		candidate index: 65 with core nodes: [23, 27, 32, 51, 65]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [23, 27, 43, 51]. 
+		It now has size: 3
+			old information: 4014, gain: 0.8392857142857143
+
+    ind                                             review  relevance
+0   32  time review ve finished first lunch feel incli...   0.715626
+1   57  unsure would big small reviewers said way smal...   0.690653
+2   52  ordered mr bento lunch jar tired eating lunch ...   0.603879
+3   27  okay people seems like lot folks giving low ra...   0.595888
+4   23  started diet decided best nutritionally well c...   0.586337
+5   43  beware buy please realize may end hating bento...   0.528302
+6   65  purchased two years ago son likes hot lunch sc...   0.515387
+7   21  started new job found place heat reheat food b...   0.299701
+8   25  received mr bento week ago using daily love mr...   0.266691
+9   36  bought hopes would encourage start bringing lu...   0.247385
+10  35  purchased bento box based good reviews amazon ...   0.207970
+11  20  daughter 12 year old shocking see new zojirush...   0.105031
+12  19  lunch jar two days discovered one containers l...   0.057735
+
+step 1
+index added: 66
+percentage unclustered: 89.375%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 89.375%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 88.75%
+
+	step 2
+
+		step 3
+		candidate index: 68 with core nodes: [23, 27, 32, 51, 65, 68]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [23, 32, 51, 52]. 
+		It now has size: 3
+			old information: 10463, gain: 0.9338634539168031
+
+    ind                                             review  relevance
+0   32  time review ve finished first lunch feel incli...   0.715626
+1   57  unsure would big small reviewers said way smal...   0.690653
+2   68  n t know lunch without mr bento take back know...   0.621956
+3   52  ordered mr bento lunch jar tired eating lunch ...   0.603879
+4   27  okay people seems like lot folks giving low ra...   0.595888
+5   23  started diet decided best nutritionally well c...   0.586337
+6   43  beware buy please realize may end hating bento...   0.528302
+7   65  purchased two years ago son likes hot lunch sc...   0.515387
+8   21  started new job found place heat reheat food b...   0.299701
+9   25  received mr bento week ago using daily love mr...   0.266691
+10  36  bought hopes would encourage start bringing lu...   0.247385
+11  35  purchased bento box based good reviews amazon ...   0.207970
+12  20  daughter 12 year old shocking see new zojirush...   0.105031
+13  19  lunch jar two days discovered one containers l...   0.057735
+
+step 1
+index added: 69
+percentage unclustered: 88.125%
+
+	step 2
+
+		step 3
+		candidate index: 69 with core nodes: [51, 65, 68]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [27, 51, 57]. 
+		It now has size: 2
+			old information: 1704, gain: 0.827355623100304
+
+    ind                                             review  relevance
+0   32  time review ve finished first lunch feel incli...   0.715626
+1   57  unsure would big small reviewers said way smal...   0.690653
+2   68  n t know lunch without mr bento take back know...   0.621956
+3   52  ordered mr bento lunch jar tired eating lunch ...   0.603879
+4   69  sick little food containers rattling around bo...   0.599138
+5   27  okay people seems like lot folks giving low ra...   0.595888
+6   23  started diet decided best nutritionally well c...   0.586337
+7   43  beware buy please realize may end hating bento...   0.528302
+8   65  purchased two years ago son likes hot lunch sc...   0.515387
+9   21  started new job found place heat reheat food b...   0.299701
+10  25  received mr bento week ago using daily love mr...   0.266691
+11  36  bought hopes would encourage start bringing lu...   0.247385
+12  35  purchased bento box based good reviews amazon ...   0.207970
+13  20  daughter 12 year old shocking see new zojirush...   0.105031
+14  19  lunch jar two days discovered one containers l...   0.057735
+
+step 1
+index added: 70
+percentage unclustered: 88.125%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 75 with core nodes: [23, 27, 32]
+
+step 1
+index added: 76
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 76 with core nodes: [65, 68, 76]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [65, 69]. 
+		It now has size: 1
+			old information: 6855, gain: 0.8681806818837374
+
+    ind                                             review  relevance
+0   32  time review ve finished first lunch feel incli...   0.715626
+1   57  unsure would big small reviewers said way smal...   0.690653
+2   68  n t know lunch without mr bento take back know...   0.621956
+3   52  ordered mr bento lunch jar tired eating lunch ...   0.603879
+4   69  sick little food containers rattling around bo...   0.599138
+5   27  okay people seems like lot folks giving low ra...   0.595888
+6   23  started diet decided best nutritionally well c...   0.586337
+7   76  buying mr bento ve searched lunch boxes offere...   0.579881
+8   43  beware buy please realize may end hating bento...   0.528302
+9   65  purchased two years ago son likes hot lunch sc...   0.515387
+10  21  started new job found place heat reheat food b...   0.299701
+11  25  received mr bento week ago using daily love mr...   0.266691
+12  36  bought hopes would encourage start bringing lu...   0.247385
+13  35  purchased bento box based good reviews amazon ...   0.207970
+14  20  daughter 12 year old shocking see new zojirush...   0.105031
+15  19  lunch jar two days discovered one containers l...   0.057735
+
+step 1
+index added: 77
+percentage unclustered: 82.5%
+
+	step 2
+
+		step 3
+		candidate index: 77 with core nodes: [0, 23, 27, 32]
+
+step 1
+index added: 78
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 81.875%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 81.25%
+
+	step 2
+
+		step 3
+		candidate index: 81 with core nodes: [65, 68, 76]
+
+step 1
+index added: 82
+percentage unclustered: 81.875%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 81.875%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 81.25%
+
+	step 2
+
+		step 3
+		candidate index: 84 with core nodes: [25, 51, 68, 69]
+
+step 1
+index added: 85
+percentage unclustered: 81.25%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 81.25%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 80.625%
+
+	step 2
+
+		step 3
+		candidate index: 87 with core nodes: [0, 23, 27, 32]
+
+step 1
+index added: 88
+percentage unclustered: 80.625%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 80.625%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 76.875%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 76.25%
+
+	step 2
+
+		step 3
+		candidate index: 91 with core nodes: [0, 27, 32, 57]
+
+step 1
+index added: 92
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 73.75%
+
+	step 2
+
+		step 3
+		candidate index: 93 with core nodes: [0, 27, 32, 57]
+
+step 1
+index added: 94
+percentage unclustered: 73.75%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 73.75%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 73.75%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 73.75%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 74.375%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 71.25%
+
+	step 2
+
+		step 3
+		candidate index: 99 with core nodes: [0, 27, 32, 57]
+
+step 1
+index added: 100
+percentage unclustered: 70.625%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 70.625%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 102 with core nodes: [25, 51, 68, 69]
+
+step 1
+index added: 103
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 68.125%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 68.125%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 67.5%
+
+	step 2
+
+		step 3
+		candidate index: 107 with core nodes: [25, 51, 68, 69]
+
+step 1
+index added: 108
+percentage unclustered: 66.875%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 66.875%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 66.25%
+
+	step 2
+
+		step 3
+		candidate index: 110 with core nodes: [25, 51, 68, 69]
+
+step 1
+index added: 111
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 65.625%
+
+	step 2
+
+		step 3
+		candidate index: 112 with core nodes: [0, 27, 32, 57]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [0, 32, 68]. 
+		It now has size: 3
+			old information: 2235, gain: 0.7635671215487146
+
+     ind                                             review  relevance
+0    32  time review ve finished first lunch feel incli...   0.715626
+1    57  unsure would big small reviewers said way smal...   0.690653
+2   112  love mine course going take prep work idea n t...   0.634044
+3    68  n t know lunch without mr bento take back know...   0.621956
+4    52  ordered mr bento lunch jar tired eating lunch ...   0.603879
+5    69  sick little food containers rattling around bo...   0.599138
+6    27  okay people seems like lot folks giving low ra...   0.595888
+7    23  started diet decided best nutritionally well c...   0.586337
+8    76  buying mr bento ve searched lunch boxes offere...   0.579881
+9    43  beware buy please realize may end hating bento...   0.528302
+10   65  purchased two years ago son likes hot lunch sc...   0.515387
+11   21  started new job found place heat reheat food b...   0.299701
+12   25  received mr bento week ago using daily love mr...   0.266691
+13   36  bought hopes would encourage start bringing lu...   0.247385
+14   35  purchased bento box based good reviews amazon ...   0.207970
+15   20  daughter 12 year old shocking see new zojirush...   0.105031
+16   19  lunch jar two days discovered one containers l...   0.057735
+
+step 1
+index added: 113
+percentage unclustered: 65.625%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 65.625%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 65.0%
+
+	step 2
+
+		step 3
+		candidate index: 115 with core nodes: [0, 27, 32, 57, 115]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [0, 57, 76]. 
+		It now has size: 3
+			old information: 4703, gain: 0.8198498429479814
+
+     ind                                             review  relevance
+0   115  good n n large lunch small package n n easy cl...   0.722120
+1    32  time review ve finished first lunch feel incli...   0.715626
+2    57  unsure would big small reviewers said way smal...   0.690653
+3   112  love mine course going take prep work idea n t...   0.634044
+4    68  n t know lunch without mr bento take back know...   0.621956
+5    52  ordered mr bento lunch jar tired eating lunch ...   0.603879
+6    69  sick little food containers rattling around bo...   0.599138
+7    27  okay people seems like lot folks giving low ra...   0.595888
+8    23  started diet decided best nutritionally well c...   0.586337
+9    76  buying mr bento ve searched lunch boxes offere...   0.579881
+10   43  beware buy please realize may end hating bento...   0.528302
+11   65  purchased two years ago son likes hot lunch sc...   0.515387
+12   21  started new job found place heat reheat food b...   0.299701
+13   25  received mr bento week ago using daily love mr...   0.266691
+14   36  bought hopes would encourage start bringing lu...   0.247385
+15   35  purchased bento box based good reviews amazon ...   0.207970
+16   20  daughter 12 year old shocking see new zojirush...   0.105031
+17   19  lunch jar two days discovered one containers l...   0.057735
+
+step 1
+index added: 116
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 65.625%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 65.625%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 65.625%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 64.375%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 64.375%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 64.375%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 64.375%
+
+	step 2
+
+step 1
+index added: 128
+percentage unclustered: 64.375%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 61.875%
+
+	step 2
+
+step 1
+index added: 130
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 131
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 132
+percentage unclustered: 59.375%
+
+	step 2
+
+step 1
+index added: 133
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 134
+percentage unclustered: 56.25%
+
+	step 2
+
+step 1
+index added: 135
+percentage unclustered: 55.625%
+
+	step 2
+
+step 1
+index added: 136
+percentage unclustered: 55.625%
+
+	step 2
+
+step 1
+index added: 137
+percentage unclustered: 55.0%
+
+	step 2
+
+		step 3
+		candidate index: 137 with core nodes: [0, 27, 32, 57, 115]
+
+step 1
+index added: 138
+percentage unclustered: 55.0%
+
+	step 2
+
+step 1
+index added: 139
+percentage unclustered: 54.375%
+
+	step 2
+
+		step 3
+		candidate index: 139 with core nodes: [0, 27, 32, 57, 115]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [0, 27, 32]. 
+		It now has size: 3
+			old information: 1442, gain: 0.7457238582260625
+
+     ind                                             review  relevance
+0   115  good n n large lunch small package n n easy cl...   0.722120
+1    32  time review ve finished first lunch feel incli...   0.715626
+2    57  unsure would big small reviewers said way smal...   0.690653
+3   139  nothing beats hot soup winter parking lot need...   0.643606
+4   112  love mine course going take prep work idea n t...   0.634044
+5    68  n t know lunch without mr bento take back know...   0.621956
+6    52  ordered mr bento lunch jar tired eating lunch ...   0.603879
+7    69  sick little food containers rattling around bo...   0.599138
+8    27  okay people seems like lot folks giving low ra...   0.595888
+9    23  started diet decided best nutritionally well c...   0.586337
+10   76  buying mr bento ve searched lunch boxes offere...   0.579881
+11   43  beware buy please realize may end hating bento...   0.528302
+12   65  purchased two years ago son likes hot lunch sc...   0.515387
+13   21  started new job found place heat reheat food b...   0.299701
+14   25  received mr bento week ago using daily love mr...   0.266691
+15   36  bought hopes would encourage start bringing lu...   0.247385
+16   35  purchased bento box based good reviews amazon ...   0.207970
+17   20  daughter 12 year old shocking see new zojirush...   0.105031
+18   19  lunch jar two days discovered one containers l...   0.057735
+
+step 1
+index added: 140
+percentage unclustered: 53.75%
+
+	step 2
+
+step 1
+index added: 141
+percentage unclustered: 53.75%
+
+	step 2
+
+step 1
+index added: 142
+percentage unclustered: 53.125%
+
+	step 2
+
+		step 3
+		candidate index: 142 with core nodes: [65, 68, 76]
+
+step 1
+index added: 143
+percentage unclustered: 52.5%
+
+	step 2
+
+		step 3
+		candidate index: 143 with core nodes: [65, 68, 76]
+
+step 1
+index added: 144
+percentage unclustered: 52.5%
+
+	step 2
+
+step 1
+index added: 145
+percentage unclustered: 52.5%
+
+	step 2
+
+step 1
+index added: 146
+percentage unclustered: 52.5%
+
+	step 2
+
+step 1
+index added: 147
+percentage unclustered: 52.5%
+
+	step 2
+
+step 1
+index added: 148
+percentage unclustered: 51.875%
+
+	step 2
+
+		step 3
+		candidate index: 148 with core nodes: [0, 32, 115]
+
+step 1
+index added: 149
+percentage unclustered: 51.25%
+
+	step 2
+
+		step 3
+		candidate index: 149 with core nodes: [65, 68, 76]
+
+step 1
+index added: 150
+percentage unclustered: 55.625%
+
+	step 2
+
+step 1
+index added: 151
+percentage unclustered: 55.625%
+
+	step 2
+
+step 1
+index added: 152
+percentage unclustered: 55.625%
+
+	step 2
+
+step 1
+index added: 153
+percentage unclustered: 55.0%
+
+	step 2
+
+step 1
+index added: 154
+percentage unclustered: 55.0%
+
+	step 2
+
+step 1
+index added: 155
+percentage unclustered: 55.0%
+
+	step 2
+
+step 1
+index added: 156
+percentage unclustered: 55.0%
+
+	step 2
+
+step 1
+index added: 157
+percentage unclustered: 55.0%
+
+	step 2
+
+step 1
+index added: 158
+percentage unclustered: 56.875%
+
+	step 2
+
+step 1
+index added: 159
+percentage unclustered: 56.25%
+
+	step 2
+
+		step 3
+		candidate index: 159 with core nodes: [65, 68, 76, 159]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [57, 65, 76, 112]. 
+		It now has size: 3
+			old information: 1257, gain: 0.6214995483288166
+
+     ind                                             review  relevance
+0   115  good n n large lunch small package n n easy cl...   0.722120
+1    32  time review ve finished first lunch feel incli...   0.715626
+2    57  unsure would big small reviewers said way smal...   0.690653
+3   139  nothing beats hot soup winter parking lot need...   0.643606
+4   112  love mine course going take prep work idea n t...   0.634044
+5    68  n t know lunch without mr bento take back know...   0.621956
+6    52  ordered mr bento lunch jar tired eating lunch ...   0.603879
+7    69  sick little food containers rattling around bo...   0.599138
+8    27  okay people seems like lot folks giving low ra...   0.595888
+9    23  started diet decided best nutritionally well c...   0.586337
+10   76  buying mr bento ve searched lunch boxes offere...   0.579881
+11   43  beware buy please realize may end hating bento...   0.528302
+12   65  purchased two years ago son likes hot lunch sc...   0.515387
+13  159  son likes hot food lunch 9 little hard unless ...   0.463048
+14   21  started new job found place heat reheat food b...   0.299701
+15   25  received mr bento week ago using daily love mr...   0.266691
+16   36  bought hopes would encourage start bringing lu...   0.247385
+17   35  purchased bento box based good reviews amazon ...   0.207970
+18   20  daughter 12 year old shocking see new zojirush...   0.105031
+19   19  lunch jar two days discovered one containers l...   0.057735
+
+--- 1526.8705430030823 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 98.125, 96.25, 95.625, 95.625, 93.75, 93.75, 93.75, 93.75, 93.125, 93.125, 93.125, 93.125, 93.125, 93.125, 95.0, 98.125, 96.25, 94.375, 91.25, 91.25, 91.875, 92.5, 92.5, 92.5, 91.875, 91.25, 91.25, 91.25, 91.25, 91.25, 91.25, 90.625, 90.0, 89.375, 92.5, 92.5, 92.5, 90.0, 89.375, 89.375, 89.375, 90.625, 90.0, 90.0, 90.0, 91.25, 89.375, 89.375, 89.375, 88.75, 88.125, 88.125, 87.5, 87.5, 87.5, 90.625, 90.0, 85.0, 82.5, 82.5, 82.5, 81.875, 81.25, 81.875, 81.875, 81.25, 81.25, 81.25, 80.625, 80.625, 80.625, 76.875, 76.25, 76.25, 73.75, 73.75, 73.75, 73.75, 73.75, 74.375, 71.25, 70.625, 70.625, 70.0, 70.0, 70.0, 68.125, 68.125, 67.5, 66.875, 66.875, 66.25, 66.25, 65.625, 65.625, 65.625, 65.0, 65.0, 65.0, 65.0, 65.0, 65.0, 65.625, 65.625, 65.625, 64.375, 64.375, 64.375, 64.375, 64.375, 61.875, 60.0, 60.0, 59.375, 60.0, 56.25, 55.625, 55.625, 55.0, 55.0, 54.375, 53.75, 53.75, 53.125, 52.5, 52.5, 52.5, 52.5, 52.5, 51.875, 51.25, 55.625, 55.625, 55.625, 55.0, 55.0, 55.0, 55.0, 55.0, 56.875, 56.25], mean: 78.8489
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0        17  115   0.722120  good n n large lunch small package n n easy cl...
+1        71   32   0.715626  time review ve finished first lunch feel incli...
+2       131   57   0.690653  unsure would big small reviewers said way smal...
+3        42  139   0.643606  nothing beats hot soup winter parking lot need...
+4        18  112   0.634044  love mine course going take prep work idea n t...
+5        49   68   0.621956  n t know lunch without mr bento take back know...
+6       128   52   0.603879  ordered mr bento lunch jar tired eating lunch ...
+7        68   69   0.599138  sick little food containers rattling around bo...
+8        65   27   0.595888  okay people seems like lot folks giving low ra...
+9       123   23   0.586337  started diet decided best nutritionally well c...
+10       40   76   0.579881  buying mr bento ve searched lunch boxes offere...
+11      134   43   0.528302  beware buy please realize may end hating bento...
+12      143   65   0.515387  purchased two years ago son likes hot lunch sc...
+13       11  159   0.463048  son likes hot food lunch 9 little hard unless ...
+14       87   21   0.299701  started new job found place heat reheat food b...
+15      125   25   0.266691  received mr bento week ago using daily love mr...
+16      120   36   0.247385  bought hopes would encourage start bringing lu...
+17        2   35   0.207970  purchased bento box based good reviews amazon ...
+18       83   20   0.105031  daughter 12 year old shocking see new zojirush...
+19       94   19   0.057735  lunch jar two days discovered one containers l...

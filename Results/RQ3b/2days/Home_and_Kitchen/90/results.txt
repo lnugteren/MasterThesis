@@ -1,0 +1,687 @@
+------- Category: Home_and_Kitchen -------
+Found asin_id: B000063XH7
+Shape:  (90, 7)
+
+
+Chosen product: B000063XH7 has 90 reviews - True, it has 90 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 96.6667%
+
+	step 2
+
+		step 3
+		candidate index: 5 with core nodes: [0, 2, 5]
+		The relevance model has size: 2
+		1 reviews removed from the relevance model, indices: [0]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   5  hi n nhad little trouble first grills waffle m...   0.313168
+
+step 1
+index added: 6
+percentage unclustered: 95.5556%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [0, 2, 5, 6]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [0, 2]. 
+		It now has size: 1
+			old information: 32, gain: 0.9901234567901235
+
+   ind                                             review  relevance
+0   5  hi n nhad little trouble first grills waffle m...   0.313168
+1   6  hate waffle maker black decker 3 1 waffle make...   0.302072
+
+step 1
+index added: 7
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 94.4444%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [2, 5, 6, 9]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [2, 5]. 
+		It now has size: 1
+			old information: 109, gain: 0.983937518420277
+
+   ind                                             review  relevance
+0   5  hi n nhad little trouble first grills waffle m...   0.313168
+1   6  hate waffle maker black decker 3 1 waffle make...   0.302072
+2   9  really like waffle maker three office bought f...   0.246679
+
+step 1
+index added: 10
+percentage unclustered: 94.4444%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 94.4444%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 94.4444%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 93.3333%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [5, 7, 9, 16]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [5, 6]. 
+		It now has size: 2
+			old information: 298, gain: 0.9511875511875512
+
+   ind                                             review  relevance
+0  16  ve used new waffle maker times s great choosin...   0.432480
+1   5  hi n nhad little trouble first grills waffle m...   0.313168
+2   6  hate waffle maker black decker 3 1 waffle make...   0.302072
+3   9  really like waffle maker three office bought f...   0.246679
+
+step 1
+index added: 17
+percentage unclustered: 93.3333%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 96.6667%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [1, 5, 18]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [5, 9, 16]. 
+		It now has size: 2
+			old information: 792, gain: 0.9771863117870723
+
+   ind                                             review  relevance
+0  18  life parents square metal waffle iron reversib...   0.538885
+1  16  ve used new waffle maker times s great choosin...   0.432480
+2   5  hi n nhad little trouble first grills waffle m...   0.313168
+3   6  hate waffle maker black decker 3 1 waffle make...   0.302072
+4   9  really like waffle maker three office bought f...   0.246679
+
+step 1
+index added: 19
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 92.2222%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [5, 9, 16, 20]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [7, 9, 18, 20]. 
+		It now has size: 3
+			old information: 381, gain: 0.9274700171330669
+
+   ind                                             review  relevance
+0  18  life parents square metal waffle iron reversib...   0.538885
+1  27  since eggo s love much short supply like whole...   0.454158
+2  16  ve used new waffle maker times s great choosin...   0.432480
+3   5  hi n nhad little trouble first grills waffle m...   0.313168
+4   6  hate waffle maker black decker 3 1 waffle make...   0.302072
+5   9  really like waffle maker three office bought f...   0.246679
+
+step 1
+index added: 28
+percentage unclustered: 88.8889%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 88.8889%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 88.8889%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 88.8889%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 85.5556%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 85.5556%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 85.5556%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 85.5556%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 85.5556%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 85.5556%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 84.4444%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 81.1111%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [2, 18, 20]
+
+step 1
+index added: 48
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 75.5556%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 75.5556%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 74.4444%
+
+	step 2
+
+		step 3
+		candidate index: 52 with core nodes: [1, 2, 5, 6, 16, 18, 52]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [1, 2, 16, 18]. 
+		It now has size: 3
+			old information: 1164, gain: 0.9474610697359512
+
+   ind                                             review  relevance
+0  18  life parents square metal waffle iron reversib...   0.538885
+1  52  wanted decent waffle maker quite cheap model w...   0.506009
+2  27  since eggo s love much short supply like whole...   0.454158
+3  16  ve used new waffle maker times s great choosin...   0.432480
+4   5  hi n nhad little trouble first grills waffle m...   0.313168
+5   6  hate waffle maker black decker 3 1 waffle make...   0.302072
+6   9  really like waffle maker three office bought f...   0.246679
+
+step 1
+index added: 53
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 63 with core nodes: [1, 2, 5, 6, 16, 18, 52]
+
+step 1
+index added: 64
+percentage unclustered: 72.2222%
+
+	step 2
+
+		step 3
+		candidate index: 64 with core nodes: [2, 6, 16, 18, 52]
+
+step 1
+index added: 65
+percentage unclustered: 72.2222%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 66 with core nodes: [1, 2, 18, 27, 52, 64, 66]
+		The relevance model has size: 8
+		4 reviews removed from the relevance model, indices: [1, 5, 6, 18]. 
+		It now has size: 4
+			old information: 99, gain: 0.7380952380952381
+
+   ind                                             review  relevance
+0  18  life parents square metal waffle iron reversib...   0.538885
+1  52  wanted decent waffle maker quite cheap model w...   0.506009
+2  66  looking excellent waffle iron wo n t break ban...   0.456303
+3  27  since eggo s love much short supply like whole...   0.454158
+4  16  ve used new waffle maker times s great choosin...   0.432480
+5   5  hi n nhad little trouble first grills waffle m...   0.313168
+6   6  hate waffle maker black decker 3 1 waffle make...   0.302072
+7   9  really like waffle maker three office bought f...   0.246679
+
+step 1
+index added: 67
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 67 with core nodes: [1, 2, 18, 27, 52, 59, 64, 66]
+
+step 1
+index added: 68
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 72.2222%
+
+	step 2
+
+		step 3
+		candidate index: 69 with core nodes: [2, 18, 69]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [2, 27, 66]. 
+		It now has size: 3
+			old information: 634, gain: 0.898005148005148
+
+   ind                                             review  relevance
+0  18  life parents square metal waffle iron reversib...   0.538885
+1  69  people say looking old fashioned waffle iron a...   0.509040
+2  52  wanted decent waffle maker quite cheap model w...   0.506009
+3  66  looking excellent waffle iron wo n t break ban...   0.456303
+4  27  since eggo s love much short supply like whole...   0.454158
+5  16  ve used new waffle maker times s great choosin...   0.432480
+6   5  hi n nhad little trouble first grills waffle m...   0.313168
+7   6  hate waffle maker black decker 3 1 waffle make...   0.302072
+8   9  really like waffle maker three office bought f...   0.246679
+
+step 1
+index added: 70
+percentage unclustered: 74.4444%
+
+	step 2
+
+		step 3
+		candidate index: 70 with core nodes: [18, 52, 59]
+
+step 1
+index added: 71
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+--- 29.937864780426025 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 96.6667, 95.5556, 95.5556, 95.5556, 94.4444, 94.4444, 94.4444, 94.4444, 95.5556, 95.5556, 95.5556, 93.3333, 93.3333, 96.6667, 96.6667, 96.6667, 96.6667, 96.6667, 96.6667, 96.6667, 96.6667, 96.6667, 92.2222, 88.8889, 88.8889, 88.8889, 88.8889, 90.0, 90.0, 85.5556, 85.5556, 85.5556, 85.5556, 85.5556, 85.5556, 84.4444, 81.1111, 81.1111, 81.1111, 81.1111, 81.1111, 81.1111, 80.0, 76.66669999999999, 76.66669999999999, 75.5556, 75.5556, 74.4444, 74.4444, 74.4444, 74.4444, 74.4444, 74.4444, 74.4444, 77.7778, 77.7778, 77.7778, 77.7778, 73.33330000000001, 72.2222, 72.2222, 76.66669999999999, 73.33330000000001, 73.33330000000001, 72.2222, 74.4444, 74.4444, 74.4444, 74.4444, 74.4444, 73.33330000000001, 74.4444, 74.4444, 74.4444, 74.4444, 74.4444, 74.4444, 74.4444, 74.4444, 74.4444, 73.33330000000001, 73.33330000000001, 73.33330000000001, 73.33330000000001, 73.33330000000001], mean: 83.2828
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0       53  18   0.538885  life parents square metal waffle iron reversib...
+1       11  69   0.509040  people say looking old fashioned waffle iron a...
+2       85  52   0.506009  wanted decent waffle maker quite cheap model w...
+3       90  66   0.456303  looking excellent waffle iron wo n t break ban...
+4       45  27   0.454158  since eggo s love much short supply like whole...
+5       39  16   0.432480  ve used new waffle maker times s great choosin...
+6       19   5   0.313168  hi n nhad little trouble first grills waffle m...
+7       31   6   0.302072  hate waffle maker black decker 3 1 waffle make...
+8       47   9   0.246679  really like waffle maker three office bought f...
