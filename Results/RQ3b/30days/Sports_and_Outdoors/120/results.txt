@@ -1,0 +1,942 @@
+------- Category: Sports_and_Outdoors -------
+Found asin_id: B0073PZ6O0
+Shape:  (120, 7)
+
+
+Chosen product: B0073PZ6O0 has 120 reviews - True, it has 120 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 97.5%
+
+	step 2
+
+		step 3
+		candidate index: 5 with core nodes: [0, 2, 5]
+		The relevance model has size: 2
+		1 reviews removed from the relevance model, indices: [0]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   5  far five thing keeps five half slow filters ta...   0.290864
+
+step 1
+index added: 6
+percentage unclustered: 97.5%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 97.5%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 96.6667%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [0, 2, 5, 8]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [0, 2]. 
+		It now has size: 1
+			old information: 48, gain: 0.9384615384615385
+
+   ind                                             review  relevance
+0   8  n t buy less month use water pitcher either sm...   0.363988
+1   5  far five thing keeps five half slow filters ta...   0.290864
+
+step 1
+index added: 9
+percentage unclustered: 96.6667%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 95.8333%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [0, 5, 8, 10]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [0, 5]. 
+		It now has size: 1
+			old information: 235, gain: 0.9953375791123544
+
+   ind                                             review  relevance
+0  10  complained filters last long enough believe so...   0.408408
+1   8  n t buy less month use water pitcher either sm...   0.363988
+2   5  far five thing keeps five half slow filters ta...   0.290864
+
+step 1
+index added: 11
+percentage unclustered: 95.0%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [5, 8, 10, 11]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [5, 8]. 
+		It now has size: 1
+			old information: 172, gain: 0.9678864824495892
+
+   ind                                             review  relevance
+0  11  put brand new filter pitcher early evening yes...   0.464686
+1  10  complained filters last long enough believe so...   0.408408
+2   8  n t buy less month use water pitcher either sm...   0.363988
+3   5  far five thing keeps five half slow filters ta...   0.290864
+
+step 1
+index added: 12
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 94.1667%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [5, 8, 10, 11]
+
+step 1
+index added: 14
+percentage unclustered: 94.1667%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 93.3333%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [5, 8, 10, 11]
+
+step 1
+index added: 16
+percentage unclustered: 93.3333%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 91.6667%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [5, 8, 10, 11, 17]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [5, 10]. 
+		It now has size: 2
+			old information: 29, gain: 0.7867647058823529
+
+   ind                                             review  relevance
+0  17  water tasted acidic one month light usage clea...   0.475786
+1  11  put brand new filter pitcher early evening yes...   0.464686
+2  10  complained filters last long enough believe so...   0.408408
+3   8  n t buy less month use water pitcher either sm...   0.363988
+4   5  far five thing keeps five half slow filters ta...   0.290864
+
+step 1
+index added: 18
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 90.8333%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [5, 8, 10, 11, 17]
+
+step 1
+index added: 20
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [0, 15, 20]
+		The relevance model has size: 5
+		2 reviews removed from the relevance model, indices: [0, 11]. 
+		It now has size: 3
+			old information: 160, gain: 0.9337474120082816
+
+   ind                                             review  relevance
+0  17  water tasted acidic one month light usage clea...   0.475786
+1  11  put brand new filter pitcher early evening yes...   0.464686
+2  10  complained filters last long enough believe so...   0.408408
+3  20  purchased much research concerned chromium 6 w...   0.397291
+4   8  n t buy less month use water pitcher either sm...   0.363988
+5   5  far five thing keeps five half slow filters ta...   0.290864
+
+step 1
+index added: 21
+percentage unclustered: 89.1667%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [0, 15, 20]
+
+step 1
+index added: 22
+percentage unclustered: 89.1667%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 89.1667%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [5, 8, 10, 11, 17]
+
+step 1
+index added: 27
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 90.8333%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 88.3333%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [5, 8, 10]
+
+step 1
+index added: 31
+percentage unclustered: 87.5%
+
+	step 2
+
+		step 3
+		candidate index: 31 with core nodes: [5, 10, 31]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [5, 8, 15]. 
+		It now has size: 3
+			old information: 1045, gain: 0.9821833495302883
+
+   ind                                             review  relevance
+0  31  disappointed live los angeles brita user many ...   0.521063
+1  17  water tasted acidic one month light usage clea...   0.475786
+2  11  put brand new filter pitcher early evening yes...   0.464686
+3  10  complained filters last long enough believe so...   0.408408
+4  20  purchased much research concerned chromium 6 w...   0.397291
+5   8  n t buy less month use water pitcher either sm...   0.363988
+6   5  far five thing keeps five half slow filters ta...   0.290864
+
+step 1
+index added: 32
+percentage unclustered: 84.1667%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 79.16669999999999%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 79.16669999999999%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 79.16669999999999%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 79.16669999999999%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 88.3333%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 85.8333%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [0, 3, 15, 22, 32, 38]
+
+step 1
+index added: 44
+percentage unclustered: 85.8333%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 84.1667%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 84.1667%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [0, 44, 47]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [0, 10, 17]. 
+		It now has size: 3
+			old information: 964, gain: 0.9468724166437035
+
+   ind                                             review  relevance
+0  47  experience zerowater filtration system confusi...   0.609133
+1  31  disappointed live los angeles brita user many ...   0.521063
+2  17  water tasted acidic one month light usage clea...   0.475786
+3  11  put brand new filter pitcher early evening yes...   0.464686
+4  10  complained filters last long enough believe so...   0.408408
+5  20  purchased much research concerned chromium 6 w...   0.397291
+6   8  n t buy less month use water pitcher either sm...   0.363988
+7   5  far five thing keeps five half slow filters ta...   0.290864
+
+step 1
+index added: 48
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 48 with core nodes: [10, 32, 48]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [10, 20, 44]. 
+		It now has size: 3
+			old information: 2491, gain: 0.9466195221257903
+
+   ind                                             review  relevance
+0  48  live southern california water tastes pretty b...   0.648775
+1  47  experience zerowater filtration system confusi...   0.609133
+2  31  disappointed live los angeles brita user many ...   0.521063
+3  17  water tasted acidic one month light usage clea...   0.475786
+4  11  put brand new filter pitcher early evening yes...   0.464686
+5  10  complained filters last long enough believe so...   0.408408
+6  20  purchased much research concerned chromium 6 w...   0.397291
+7   8  n t buy less month use water pitcher either sm...   0.363988
+8   5  far five thing keeps five half slow filters ta...   0.290864
+
+step 1
+index added: 49
+percentage unclustered: 79.16669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [0, 44, 47]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [0, 31, 32]. 
+		It now has size: 3
+			old information: 1053, gain: 0.9316233766233766
+
+   ind                                             review  relevance
+0  48  live southern california water tastes pretty b...   0.648775
+1  47  experience zerowater filtration system confusi...   0.609133
+2  31  disappointed live los angeles brita user many ...   0.521063
+3  49  various concerns pitcher n nfirst filter laste...   0.520131
+4  17  water tasted acidic one month light usage clea...   0.475786
+5  11  put brand new filter pitcher early evening yes...   0.464686
+6  10  complained filters last long enough believe so...   0.408408
+7  20  purchased much research concerned chromium 6 w...   0.397291
+8   8  n t buy less month use water pitcher either sm...   0.363988
+9   5  far five thing keeps five half slow filters ta...   0.290864
+
+step 1
+index added: 50
+percentage unclustered: 79.16669999999999%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 79.16669999999999%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 79.16669999999999%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 55 with core nodes: [0, 47, 55]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [0, 44, 47]. 
+		It now has size: 2
+			old information: 1469, gain: 0.9231292517006803
+
+    ind                                             review  relevance
+0   48  live southern california water tastes pretty b...   0.648775
+1   55  know water neighbourhood best tasting water de...   0.630682
+2   47  experience zerowater filtration system confusi...   0.609133
+3   31  disappointed live los angeles brita user many ...   0.521063
+4   49  various concerns pitcher n nfirst filter laste...   0.520131
+5   17  water tasted acidic one month light usage clea...   0.475786
+6   11  put brand new filter pitcher early evening yes...   0.464686
+7   10  complained filters last long enough believe so...   0.408408
+8   20  purchased much research concerned chromium 6 w...   0.397291
+9    8  n t buy less month use water pitcher either sm...   0.363988
+10   5  far five thing keeps five half slow filters ta...   0.290864
+
+step 1
+index added: 56
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 75.83330000000001%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 60 with core nodes: [0, 47, 55]
+
+step 1
+index added: 61
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 75.83330000000001%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 71.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 65 with core nodes: [10, 48, 65]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [48, 55]. 
+		It now has size: 2
+			old information: 2403, gain: 0.9140742329972109
+
+    ind                                             review  relevance
+0   48  live southern california water tastes pretty b...   0.648775
+1   65  water tap usually gets reading tds meter 270 3...   0.643212
+2   55  know water neighbourhood best tasting water de...   0.630682
+3   47  experience zerowater filtration system confusi...   0.609133
+4   31  disappointed live los angeles brita user many ...   0.521063
+5   49  various concerns pitcher n nfirst filter laste...   0.520131
+6   17  water tasted acidic one month light usage clea...   0.475786
+7   11  put brand new filter pitcher early evening yes...   0.464686
+8   10  complained filters last long enough believe so...   0.408408
+9   20  purchased much research concerned chromium 6 w...   0.397291
+10   8  n t buy less month use water pitcher either sm...   0.363988
+11   5  far five thing keeps five half slow filters ta...   0.290864
+
+step 1
+index added: 66
+percentage unclustered: 71.66669999999999%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 71.66669999999999%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 69.16669999999999%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 69.16669999999999%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 65.83330000000001%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 65.83330000000001%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 71.66669999999999%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 62.5%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 62.5%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 62.5%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 62.5%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 62.5%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 58.3333%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 60.8333%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 59.1667%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 56.6667%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 56.6667%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 55.8333%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 61.6667%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 62.5%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 60.8333%
+
+	step 2
+
+		step 3
+		candidate index: 91 with core nodes: [0, 47, 55]
+
+step 1
+index added: 92
+percentage unclustered: 60.8333%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 60.8333%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 60.8333%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 60.8333%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 60.8333%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 61.6667%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 61.6667%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 61.6667%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 61.6667%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 70.83330000000001%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 70.83330000000001%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 70.83330000000001%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 70.83330000000001%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 70.83330000000001%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 70.83330000000001%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 70.83330000000001%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 70.83330000000001%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 70.83330000000001%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+--- 116.82023406028748 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 97.5, 97.5, 97.5, 96.6667, 96.6667, 95.8333, 95.0, 95.0, 94.1667, 94.1667, 93.3333, 93.3333, 91.6667, 91.6667, 90.8333, 90.0, 89.1667, 89.1667, 90.0, 90.0, 90.0, 89.1667, 90.0, 90.8333, 92.5, 88.3333, 87.5, 84.1667, 83.33330000000001, 83.33330000000001, 83.33330000000001, 82.5, 82.5, 79.16669999999999, 79.16669999999999, 79.16669999999999, 79.16669999999999, 88.3333, 85.8333, 85.8333, 84.1667, 84.1667, 81.66669999999999, 80.0, 79.16669999999999, 79.16669999999999, 79.16669999999999, 79.16669999999999, 78.33330000000001, 77.5, 76.66669999999999, 76.66669999999999, 76.66669999999999, 75.83330000000001, 75.0, 78.33330000000001, 78.33330000000001, 75.83330000000001, 76.66669999999999, 72.5, 71.66669999999999, 71.66669999999999, 71.66669999999999, 69.16669999999999, 69.16669999999999, 65.83330000000001, 65.83330000000001, 65.0, 71.66669999999999, 62.5, 62.5, 62.5, 62.5, 62.5, 58.3333, 60.8333, 60.0, 60.0, 60.0, 60.0, 59.1667, 56.6667, 56.6667, 55.8333, 61.6667, 62.5, 60.8333, 60.8333, 60.8333, 60.8333, 60.8333, 60.8333, 61.6667, 61.6667, 61.6667, 61.6667, 70.83330000000001, 70.83330000000001, 70.83330000000001, 70.83330000000001, 70.83330000000001, 70.83330000000001, 70.83330000000001, 70.83330000000001, 70.83330000000001, 73.33330000000001, 76.66669999999999, 76.66669999999999, 76.66669999999999, 76.66669999999999, 76.66669999999999, 76.66669999999999, 76.66669999999999, 76.66669999999999, 76.66669999999999], mean: 77.0904
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        71  48   0.648775  live southern california water tastes pretty b...
+1        92  65   0.643212  water tap usually gets reading tds meter 270 3...
+2        86  55   0.630682  know water neighbourhood best tasting water de...
+3        82  47   0.609133  experience zerowater filtration system confusi...
+4        37  31   0.521063  disappointed live los angeles brita user many ...
+5         6  49   0.520131  various concerns pitcher n nfirst filter laste...
+6        36  17   0.475786  water tasted acidic one month light usage clea...
+7        48  11   0.464686  put brand new filter pitcher early evening yes...
+8         9  10   0.408408  complained filters last long enough believe so...
+9        21  20   0.397291  purchased much research concerned chromium 6 w...
+10       42   8   0.363988  n t buy less month use water pitcher either sm...
+11       50   5   0.290864  far five thing keeps five half slow filters ta...
