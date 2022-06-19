@@ -1,0 +1,33 @@
+------- Category: Electronics -------
+Found asin_id: 0528013475
+Shape:  (10, 7)
+
+Readability scores: [47.2664285714286, -98.68384615384612, -136.7725311203319, 50.66562500000002, -15.616428571428557, -50.00805369127514, -97.39512195121948, 40.34044776119404, -15.58135135135133, 59.59166666666669], on average: -21.6193
+Readability scores after: [47.2664285714286, -98.68384615384612, -136.7725311203319, -15.616428571428557, -50.00805369127514, -97.39512195121948, 40.34044776119404, -15.58135135135133], on average after: -40.8063
+Shape after:  (8, 8)
+
+
+Chosen product: 0528013475 has 10 reviews - False, it has 8 reviews
+
+Nr of stopwords in review: ['29/56', '84/200', '132/242', '50/114', '78/150', '117/211', '36/67', '63/111'], on average: 0.5127
+Nr of stopwords in summary: ['0/2', '1/3', '0/2', '9/17', '2/5', '3/5', '6/10', '4/9'], on average: 0.3634
+
+
+Removed indexes: [1, 2, 3, 4, 5, 6, 7]
+New length of reviews: 1
+
+
+Removed indexes: []
+New length of reviews: 1
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+--- 0.07199764251708984 seconds ---
+
+
+ Unclustered percentages: [], mean: nan
+
+Final Ranking:
+Empty DataFrame
+Columns: [ranking, ind, relevance, review]
+Index: []

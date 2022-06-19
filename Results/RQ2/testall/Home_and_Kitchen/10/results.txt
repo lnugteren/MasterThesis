@@ -1,0 +1,33 @@
+------- Category: Home_and_Kitchen -------
+Found asin_id: 9900493486
+Shape:  (10, 7)
+
+Readability scores: [61.4764285714286, 48.09500000000002, 39.86318181818183, -9.924789915966358, 6.913461538461561, 45.7557142857143, -126.76928571428569, 15.101250000000022, -56.41850931677017, -33.4929927007299], on average: -0.9401
+Readability scores after: [48.09500000000002, 39.86318181818183, -9.924789915966358, 6.913461538461561, 45.7557142857143, -126.76928571428569, 15.101250000000022, -56.41850931677017, -33.4929927007299], on average after: -7.8752
+Shape after:  (9, 8)
+
+
+Chosen product: 9900493486 has 10 reviews - False, it has 9 reviews
+
+Nr of stopwords in review: ['18/36', '37/66', '60/122', '55/104', '31/57', '79/217', '50/97', '93/161', '82/140'], on average: 0.5187
+Nr of stopwords in summary: ['0/1', '1/2', '1/2', '6/10', '0/2', '2/4', '0/5', '5/6', '3/4'], on average: 0.4093
+
+
+Removed indexes: [1, 2, 3, 4, 5, 6, 7, 8]
+New length of reviews: 1
+
+
+Removed indexes: []
+New length of reviews: 1
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+--- 0.09007573127746582 seconds ---
+
+
+ Unclustered percentages: [], mean: nan
+
+Final Ranking:
+Empty DataFrame
+Columns: [ranking, ind, relevance, review]
+Index: []
