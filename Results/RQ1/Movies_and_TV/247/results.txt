@@ -1,0 +1,1738 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 6303118240
+Shape:  (247, 7)
+
+
+Chosen product: 6303118240 has 247 reviews - True
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 100.0%
+
+step 1
+index added: 13
+percentage unclustered: 98.7854%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [5, 8, 13]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  13  daughters loved original release darling sweet...   0.252336
+
+step 1
+index added: 14
+percentage unclustered: 96.7611%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [3, 7, 12]
+			old information: 94, gain: 0.9972081972081972
+
+   ind                                             review  relevance
+0  14  totoro one favorite movies 32 stumbled across ...   0.402436
+1  13  daughters loved original release darling sweet...   0.252336
+
+step 1
+index added: 15
+percentage unclustered: 96.3563%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 95.9514%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [3, 7, 12]
+
+step 1
+index added: 17
+percentage unclustered: 96.3563%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [7, 14, 17]
+			old information: 38, gain: 0.6833333333333333
+
+   ind                                             review  relevance
+0  14  totoro one favorite movies 32 stumbled across ...   0.402436
+1  17  original wanted one kids young totally differe...   0.288536
+2  13  daughters loved original release darling sweet...   0.252336
+
+step 1
+index added: 18
+percentage unclustered: 98.3806%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 97.9757%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [5, 8, 13, 17, 19]
+			old information: 6, gain: 0.8333333333333334
+
+   ind                                             review  relevance
+0  14  totoro one favorite movies 32 stumbled across ...   0.402436
+1  17  original wanted one kids young totally differe...   0.288536
+2  13  daughters loved original release darling sweet...   0.252336
+3  19  original totoro m sad missed stupid dialog dif...   0.200910
+
+step 1
+index added: 20
+percentage unclustered: 97.9757%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 97.9757%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 98.3806%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 98.3806%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 98.3806%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 98.3806%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 98.3806%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 98.3806%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 95.9514%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [10, 12, 13, 19, 28]
+			old information: 225, gain: 0.9354561101549054
+
+   ind                                             review  relevance
+0  28  movie 5 star film gorgeous animation simple st...   0.403132
+1  14  totoro one favorite movies 32 stumbled across ...   0.402436
+2  17  original wanted one kids young totally differe...   0.288536
+3  13  daughters loved original release darling sweet...   0.252336
+4  19  original totoro m sad missed stupid dialog dif...   0.200910
+
+step 1
+index added: 29
+percentage unclustered: 95.9514%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 95.9514%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 95.9514%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 95.9514%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 95.5466%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [12, 13, 23, 33]
+			old information: 216, gain: 0.9130784708249498
+
+   ind                                             review  relevance
+0  28  movie 5 star film gorgeous animation simple st...   0.403132
+1  14  totoro one favorite movies 32 stumbled across ...   0.402436
+2  33  time favorite movie child thrilled came dvd bo...   0.390247
+3  17  original wanted one kids young totally differe...   0.288536
+4  13  daughters loved original release darling sweet...   0.252336
+5  19  original totoro m sad missed stupid dialog dif...   0.200910
+
+step 1
+index added: 34
+percentage unclustered: 95.5466%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 95.5466%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 95.5466%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 95.5466%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 95.5466%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 96.3563%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 96.3563%
+
+	step 2
+
+		step 3
+		candidate index: 40 with core nodes: [10, 13, 19, 25]
+
+step 1
+index added: 41
+percentage unclustered: 96.3563%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 96.3563%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 95.9514%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [10, 13, 25, 43]
+			old information: 63, gain: 0.7717391304347826
+
+   ind                                             review  relevance
+0  28  movie 5 star film gorgeous animation simple st...   0.403132
+1  14  totoro one favorite movies 32 stumbled across ...   0.402436
+2  33  time favorite movie child thrilled came dvd bo...   0.390247
+3  43  songs redone voice actors dialogue changed hat...   0.370630
+4  17  original wanted one kids young totally differe...   0.288536
+5  13  daughters loved original release darling sweet...   0.252336
+6  19  original totoro m sad missed stupid dialog dif...   0.200910
+
+step 1
+index added: 44
+percentage unclustered: 95.5466%
+
+	step 2
+
+		step 3
+		candidate index: 44 with core nodes: [13, 25, 43, 44]
+			old information: 321, gain: 0.9700866648029075
+
+   ind                                             review  relevance
+0  44  m actually disappointed new blu ray release ho...   0.524469
+1  28  movie 5 star film gorgeous animation simple st...   0.403132
+2  14  totoro one favorite movies 32 stumbled across ...   0.402436
+3  33  time favorite movie child thrilled came dvd bo...   0.390247
+4  43  songs redone voice actors dialogue changed hat...   0.370630
+5  17  original wanted one kids young totally differe...   0.288536
+6  13  daughters loved original release darling sweet...   0.252336
+7  19  original totoro m sad missed stupid dialog dif...   0.200910
+
+step 1
+index added: 45
+percentage unclustered: 95.5466%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 95.9514%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 95.9514%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 95.9514%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 95.9514%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 95.5466%
+
+	step 2
+
+		step 3
+		candidate index: 50 with core nodes: [13, 43, 44, 50]
+			old information: 1141, gain: 0.977219183005231
+
+   ind                                             review  relevance
+0  44  m actually disappointed new blu ray release ho...   0.524469
+1  50  d like start saying nothing utmost respect stu...   0.428375
+2  28  movie 5 star film gorgeous animation simple st...   0.403132
+3  14  totoro one favorite movies 32 stumbled across ...   0.402436
+4  33  time favorite movie child thrilled came dvd bo...   0.390247
+5  43  songs redone voice actors dialogue changed hat...   0.370630
+6  17  original wanted one kids young totally differe...   0.288536
+7  13  daughters loved original release darling sweet...   0.252336
+8  19  original totoro m sad missed stupid dialog dif...   0.200910
+
+step 1
+index added: 51
+percentage unclustered: 95.1417%
+
+	step 2
+
+		step 3
+		candidate index: 51 with core nodes: [13, 43, 44, 50]
+
+step 1
+index added: 52
+percentage unclustered: 95.1417%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 95.1417%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 95.1417%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 95.1417%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 95.1417%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 95.1417%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 95.1417%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 95.1417%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 95.1417%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 93.9271%
+
+	step 2
+
+		step 3
+		candidate index: 61 with core nodes: [44, 50, 61]
+			old information: 714, gain: 0.8983050847457628
+
+   ind                                             review  relevance
+0  61  first let say love movie neighbor totoro probl...   0.626550
+1  44  m actually disappointed new blu ray release ho...   0.524469
+2  50  d like start saying nothing utmost respect stu...   0.428375
+3  28  movie 5 star film gorgeous animation simple st...   0.403132
+4  14  totoro one favorite movies 32 stumbled across ...   0.402436
+5  33  time favorite movie child thrilled came dvd bo...   0.390247
+6  43  songs redone voice actors dialogue changed hat...   0.370630
+7  17  original wanted one kids young totally differe...   0.288536
+8  13  daughters loved original release darling sweet...   0.252336
+9  19  original totoro m sad missed stupid dialog dif...   0.200910
+
+step 1
+index added: 62
+percentage unclustered: 93.9271%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 93.9271%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 93.5223%
+
+	step 2
+
+		step 3
+		candidate index: 64 with core nodes: [25, 44, 61, 64]
+			old information: 395, gain: 0.7021116138763197
+
+    ind                                             review  relevance
+0   61  first let say love movie neighbor totoro probl...   0.626550
+1   44  m actually disappointed new blu ray release ho...   0.524469
+2   64  let start saying love neighbor totoro said hat...   0.516779
+3   50  d like start saying nothing utmost respect stu...   0.428375
+4   28  movie 5 star film gorgeous animation simple st...   0.403132
+5   14  totoro one favorite movies 32 stumbled across ...   0.402436
+6   33  time favorite movie child thrilled came dvd bo...   0.390247
+7   43  songs redone voice actors dialogue changed hat...   0.370630
+8   17  original wanted one kids young totally differe...   0.288536
+9   13  daughters loved original release darling sweet...   0.252336
+10  19  original totoro m sad missed stupid dialog dif...   0.200910
+
+step 1
+index added: 65
+percentage unclustered: 91.9028%
+
+	step 2
+
+		step 3
+		candidate index: 65 with core nodes: [25, 44, 61, 64]
+
+step 1
+index added: 66
+percentage unclustered: 91.9028%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 91.9028%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 91.9028%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 91.9028%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 91.9028%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 91.9028%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 91.498%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 91.498%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 91.498%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 91.09309999999999%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 91.09309999999999%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 91.09309999999999%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 91.09309999999999%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 91.09309999999999%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 89.4737%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 89.4737%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 89.4737%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 88.2591%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 88.2591%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 88.2591%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 88.2591%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 88.2591%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 88.2591%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 87.8543%
+
+	step 2
+
+		step 3
+		candidate index: 89 with core nodes: [22, 25, 44, 61, 89]
+			old information: 546, gain: 0.8573667711598746
+
+    ind                                             review  relevance
+0   89  one all time favorite movies kids grew origina...   0.706857
+1   61  first let say love movie neighbor totoro probl...   0.626550
+2   44  m actually disappointed new blu ray release ho...   0.524469
+3   64  let start saying love neighbor totoro said hat...   0.516779
+4   50  d like start saying nothing utmost respect stu...   0.428375
+5   28  movie 5 star film gorgeous animation simple st...   0.403132
+6   14  totoro one favorite movies 32 stumbled across ...   0.402436
+7   33  time favorite movie child thrilled came dvd bo...   0.390247
+8   43  songs redone voice actors dialogue changed hat...   0.370630
+9   17  original wanted one kids young totally differe...   0.288536
+10  13  daughters loved original release darling sweet...   0.252336
+11  19  original totoro m sad missed stupid dialog dif...   0.200910
+
+step 1
+index added: 90
+percentage unclustered: 87.4494%
+
+	step 2
+
+		step 3
+		candidate index: 90 with core nodes: [22, 25, 44, 61, 89]
+
+step 1
+index added: 91
+percentage unclustered: 87.4494%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 87.0445%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 87.0445%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 86.2348%
+
+	step 2
+
+		step 3
+		candidate index: 94 with core nodes: [25, 44, 89]
+			old information: 237, gain: 0.9210789210789211
+
+    ind                                             review  relevance
+0   89  one all time favorite movies kids grew origina...   0.706857
+1   61  first let say love movie neighbor totoro probl...   0.626550
+2   94  video version finally snapped bought disney ve...   0.542460
+3   44  m actually disappointed new blu ray release ho...   0.524469
+4   64  let start saying love neighbor totoro said hat...   0.516779
+5   50  d like start saying nothing utmost respect stu...   0.428375
+6   28  movie 5 star film gorgeous animation simple st...   0.403132
+7   14  totoro one favorite movies 32 stumbled across ...   0.402436
+8   33  time favorite movie child thrilled came dvd bo...   0.390247
+9   43  songs redone voice actors dialogue changed hat...   0.370630
+10  17  original wanted one kids young totally differe...   0.288536
+11  13  daughters loved original release darling sweet...   0.252336
+12  19  original totoro m sad missed stupid dialog dif...   0.200910
+
+step 1
+index added: 95
+percentage unclustered: 86.2348%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 85.83%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 84.2105%
+
+	step 2
+
+		step 3
+		candidate index: 97 with core nodes: [25, 29, 44, 61, 86, 89]
+
+step 1
+index added: 98
+percentage unclustered: 82.996%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 82.996%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 82.5911%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 82.5911%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 82.5911%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 82.5911%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 82.5911%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 82.5911%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 82.1862%
+
+	step 2
+
+		step 3
+		candidate index: 106 with core nodes: [29, 44, 61, 89]
+
+step 1
+index added: 107
+percentage unclustered: 82.1862%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 82.1862%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 81.7814%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 80.5668%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 78.9474%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 80.1619%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 80.1619%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 79.75710000000001%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 79.75710000000001%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 79.75710000000001%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 79.75710000000001%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 79.75710000000001%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 79.75710000000001%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 79.75710000000001%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 79.75710000000001%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 79.75710000000001%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 79.75710000000001%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 78.5425%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 78.5425%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 78.5425%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 78.5425%
+
+	step 2
+
+		step 3
+		candidate index: 127 with core nodes: [25, 29, 44, 61, 89, 127]
+			old information: 229, gain: 0.8130612244897959
+
+     ind                                             review  relevance
+0    89  one all time favorite movies kids grew origina...   0.706857
+1    61  first let say love movie neighbor totoro probl...   0.626550
+2   127  displeased newest version totoro dakota elle f...   0.609251
+3    94  video version finally snapped bought disney ve...   0.542460
+4    44  m actually disappointed new blu ray release ho...   0.524469
+5    64  let start saying love neighbor totoro said hat...   0.516779
+6    50  d like start saying nothing utmost respect stu...   0.428375
+7    28  movie 5 star film gorgeous animation simple st...   0.403132
+8    14  totoro one favorite movies 32 stumbled across ...   0.402436
+9    33  time favorite movie child thrilled came dvd bo...   0.390247
+10   43  songs redone voice actors dialogue changed hat...   0.370630
+11   17  original wanted one kids young totally differe...   0.288536
+12   13  daughters loved original release darling sweet...   0.252336
+13   19  original totoro m sad missed stupid dialog dif...   0.200910
+
+step 1
+index added: 128
+percentage unclustered: 78.5425%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 78.5425%
+
+	step 2
+
+step 1
+index added: 130
+percentage unclustered: 78.1377%
+
+	step 2
+
+		step 3
+		candidate index: 130 with core nodes: [25, 29, 44, 61, 89, 127]
+
+step 1
+index added: 131
+percentage unclustered: 78.1377%
+
+	step 2
+
+step 1
+index added: 132
+percentage unclustered: 78.1377%
+
+	step 2
+
+step 1
+index added: 133
+percentage unclustered: 78.1377%
+
+	step 2
+
+step 1
+index added: 134
+percentage unclustered: 78.1377%
+
+	step 2
+
+step 1
+index added: 135
+percentage unclustered: 78.1377%
+
+	step 2
+
+step 1
+index added: 136
+percentage unclustered: 78.1377%
+
+	step 2
+
+step 1
+index added: 137
+percentage unclustered: 78.1377%
+
+	step 2
+
+step 1
+index added: 138
+percentage unclustered: 76.9231%
+
+	step 2
+
+step 1
+index added: 139
+percentage unclustered: 76.9231%
+
+	step 2
+
+step 1
+index added: 140
+percentage unclustered: 76.51820000000001%
+
+	step 2
+
+step 1
+index added: 141
+percentage unclustered: 76.51820000000001%
+
+	step 2
+
+step 1
+index added: 142
+percentage unclustered: 76.1134%
+
+	step 2
+
+step 1
+index added: 143
+percentage unclustered: 76.1134%
+
+	step 2
+
+step 1
+index added: 144
+percentage unclustered: 76.1134%
+
+	step 2
+
+step 1
+index added: 145
+percentage unclustered: 76.1134%
+
+	step 2
+
+step 1
+index added: 146
+percentage unclustered: 76.1134%
+
+	step 2
+
+step 1
+index added: 147
+percentage unclustered: 76.1134%
+
+	step 2
+
+step 1
+index added: 148
+percentage unclustered: 76.1134%
+
+	step 2
+
+step 1
+index added: 149
+percentage unclustered: 76.1134%
+
+	step 2
+
+step 1
+index added: 150
+percentage unclustered: 76.1134%
+
+	step 2
+
+step 1
+index added: 151
+percentage unclustered: 76.1134%
+
+	step 2
+
+step 1
+index added: 152
+percentage unclustered: 76.1134%
+
+	step 2
+
+step 1
+index added: 153
+percentage unclustered: 73.6842%
+
+	step 2
+
+step 1
+index added: 154
+percentage unclustered: 74.8988%
+
+	step 2
+
+step 1
+index added: 155
+percentage unclustered: 74.8988%
+
+	step 2
+
+step 1
+index added: 156
+percentage unclustered: 74.4939%
+
+	step 2
+
+step 1
+index added: 157
+percentage unclustered: 74.0891%
+
+	step 2
+
+		step 3
+		candidate index: 157 with core nodes: [48, 138, 157]
+			old information: 327, gain: 0.9164964249233912
+
+     ind                                             review  relevance
+0    89  one all time favorite movies kids grew origina...   0.706857
+1    61  first let say love movie neighbor totoro probl...   0.626550
+2   127  displeased newest version totoro dakota elle f...   0.609251
+3    94  video version finally snapped bought disney ve...   0.542460
+4    44  m actually disappointed new blu ray release ho...   0.524469
+5    64  let start saying love neighbor totoro said hat...   0.516779
+6    50  d like start saying nothing utmost respect stu...   0.428375
+7   157  finally widescreen version available previous ...   0.420373
+8    28  movie 5 star film gorgeous animation simple st...   0.403132
+9    14  totoro one favorite movies 32 stumbled across ...   0.402436
+10   33  time favorite movie child thrilled came dvd bo...   0.390247
+11   43  songs redone voice actors dialogue changed hat...   0.370630
+12   17  original wanted one kids young totally differe...   0.288536
+13   13  daughters loved original release darling sweet...   0.252336
+14   19  original totoro m sad missed stupid dialog dif...   0.200910
+
+step 1
+index added: 158
+percentage unclustered: 76.51820000000001%
+
+	step 2
+
+step 1
+index added: 159
+percentage unclustered: 76.51820000000001%
+
+	step 2
+
+step 1
+index added: 160
+percentage unclustered: 76.51820000000001%
+
+	step 2
+
+step 1
+index added: 161
+percentage unclustered: 76.51820000000001%
+
+	step 2
+
+step 1
+index added: 162
+percentage unclustered: 77.7328%
+
+	step 2
+
+step 1
+index added: 163
+percentage unclustered: 77.7328%
+
+	step 2
+
+step 1
+index added: 164
+percentage unclustered: 77.7328%
+
+	step 2
+
+step 1
+index added: 165
+percentage unclustered: 77.7328%
+
+	step 2
+
+step 1
+index added: 166
+percentage unclustered: 77.7328%
+
+	step 2
+
+step 1
+index added: 167
+percentage unclustered: 77.7328%
+
+	step 2
+
+step 1
+index added: 168
+percentage unclustered: 77.7328%
+
+	step 2
+
+step 1
+index added: 169
+percentage unclustered: 77.7328%
+
+	step 2
+
+step 1
+index added: 170
+percentage unclustered: 77.7328%
+
+	step 2
+
+step 1
+index added: 171
+percentage unclustered: 78.9474%
+
+	step 2
+
+step 1
+index added: 172
+percentage unclustered: 78.9474%
+
+	step 2
+
+step 1
+index added: 173
+percentage unclustered: 78.9474%
+
+	step 2
+
+step 1
+index added: 174
+percentage unclustered: 78.9474%
+
+	step 2
+
+step 1
+index added: 175
+percentage unclustered: 77.3279%
+
+	step 2
+
+step 1
+index added: 176
+percentage unclustered: 77.3279%
+
+	step 2
+
+step 1
+index added: 177
+percentage unclustered: 76.9231%
+
+	step 2
+
+step 1
+index added: 178
+percentage unclustered: 76.9231%
+
+	step 2
+
+step 1
+index added: 179
+percentage unclustered: 76.9231%
+
+	step 2
+
+step 1
+index added: 180
+percentage unclustered: 77.3279%
+
+	step 2
+
+step 1
+index added: 181
+percentage unclustered: 77.3279%
+
+	step 2
+
+step 1
+index added: 182
+percentage unclustered: 77.7328%
+
+	step 2
+
+step 1
+index added: 183
+percentage unclustered: 77.7328%
+
+	step 2
+
+step 1
+index added: 184
+percentage unclustered: 77.7328%
+
+	step 2
+
+step 1
+index added: 185
+percentage unclustered: 77.7328%
+
+	step 2
+
+step 1
+index added: 186
+percentage unclustered: 77.7328%
+
+	step 2
+
+step 1
+index added: 187
+percentage unclustered: 77.7328%
+
+	step 2
+
+step 1
+index added: 188
+percentage unclustered: 76.1134%
+
+	step 2
+
+step 1
+index added: 189
+percentage unclustered: 76.1134%
+
+	step 2
+
+step 1
+index added: 190
+percentage unclustered: 76.1134%
+
+	step 2
+
+step 1
+index added: 191
+percentage unclustered: 76.1134%
+
+	step 2
+
+step 1
+index added: 192
+percentage unclustered: 75.7085%
+
+	step 2
+
+step 1
+index added: 193
+percentage unclustered: 75.7085%
+
+	step 2
+
+step 1
+index added: 194
+percentage unclustered: 74.4939%
+
+	step 2
+
+step 1
+index added: 195
+percentage unclustered: 74.4939%
+
+	step 2
+
+step 1
+index added: 196
+percentage unclustered: 76.51820000000001%
+
+	step 2
+
+step 1
+index added: 197
+percentage unclustered: 76.51820000000001%
+
+	step 2
+
+step 1
+index added: 198
+percentage unclustered: 76.51820000000001%
+
+	step 2
+
+step 1
+index added: 199
+percentage unclustered: 75.3036%
+
+	step 2
+
+		step 3
+		candidate index: 199 with core nodes: [48, 138, 157, 199]
+			old information: 691, gain: 0.9428453267162945
+
+     ind                                             review  relevance
+0    89  one all time favorite movies kids grew origina...   0.706857
+1    61  first let say love movie neighbor totoro probl...   0.626550
+2   127  displeased newest version totoro dakota elle f...   0.609251
+3    94  video version finally snapped bought disney ve...   0.542460
+4    44  m actually disappointed new blu ray release ho...   0.524469
+5    64  let start saying love neighbor totoro said hat...   0.516779
+6   199  original review bottom unfortunately versions ...   0.457528
+7    50  d like start saying nothing utmost respect stu...   0.428375
+8   157  finally widescreen version available previous ...   0.420373
+9    28  movie 5 star film gorgeous animation simple st...   0.403132
+10   14  totoro one favorite movies 32 stumbled across ...   0.402436
+11   33  time favorite movie child thrilled came dvd bo...   0.390247
+12   43  songs redone voice actors dialogue changed hat...   0.370630
+13   17  original wanted one kids young totally differe...   0.288536
+14   13  daughters loved original release darling sweet...   0.252336
+15   19  original totoro m sad missed stupid dialog dif...   0.200910
+
+step 1
+index added: 200
+percentage unclustered: 75.3036%
+
+	step 2
+
+step 1
+index added: 201
+percentage unclustered: 74.8988%
+
+	step 2
+
+		step 3
+		candidate index: 201 with core nodes: [48, 138, 157, 199]
+
+step 1
+index added: 202
+percentage unclustered: 74.8988%
+
+	step 2
+
+step 1
+index added: 203
+percentage unclustered: 74.8988%
+
+	step 2
+
+step 1
+index added: 204
+percentage unclustered: 74.8988%
+
+	step 2
+
+step 1
+index added: 205
+percentage unclustered: 74.8988%
+
+	step 2
+
+step 1
+index added: 206
+percentage unclustered: 74.8988%
+
+	step 2
+
+step 1
+index added: 207
+percentage unclustered: 74.4939%
+
+	step 2
+
+step 1
+index added: 208
+percentage unclustered: 74.4939%
+
+	step 2
+
+step 1
+index added: 209
+percentage unclustered: 74.4939%
+
+	step 2
+
+step 1
+index added: 210
+percentage unclustered: 74.0891%
+
+	step 2
+
+step 1
+index added: 211
+percentage unclustered: 74.0891%
+
+	step 2
+
+step 1
+index added: 212
+percentage unclustered: 74.4939%
+
+	step 2
+
+step 1
+index added: 213
+percentage unclustered: 73.2794%
+
+	step 2
+
+step 1
+index added: 214
+percentage unclustered: 73.2794%
+
+	step 2
+
+step 1
+index added: 215
+percentage unclustered: 72.0648%
+
+	step 2
+
+step 1
+index added: 216
+percentage unclustered: 70.4453%
+
+	step 2
+
+step 1
+index added: 217
+percentage unclustered: 69.2308%
+
+	step 2
+
+step 1
+index added: 218
+percentage unclustered: 68.8259%
+
+	step 2
+
+step 1
+index added: 219
+percentage unclustered: 68.4211%
+
+	step 2
+
+step 1
+index added: 220
+percentage unclustered: 68.4211%
+
+	step 2
+
+step 1
+index added: 221
+percentage unclustered: 68.0162%
+
+	step 2
+
+step 1
+index added: 222
+percentage unclustered: 67.6113%
+
+	step 2
+
+step 1
+index added: 223
+percentage unclustered: 67.6113%
+
+	step 2
+
+step 1
+index added: 224
+percentage unclustered: 69.2308%
+
+	step 2
+
+step 1
+index added: 225
+percentage unclustered: 69.2308%
+
+	step 2
+
+step 1
+index added: 226
+percentage unclustered: 69.6356%
+
+	step 2
+
+step 1
+index added: 227
+percentage unclustered: 69.2308%
+
+	step 2
+
+step 1
+index added: 228
+percentage unclustered: 68.0162%
+
+	step 2
+
+step 1
+index added: 229
+percentage unclustered: 66.80160000000001%
+
+	step 2
+
+step 1
+index added: 230
+percentage unclustered: 66.80160000000001%
+
+	step 2
+
+step 1
+index added: 231
+percentage unclustered: 66.80160000000001%
+
+	step 2
+
+step 1
+index added: 232
+percentage unclustered: 66.80160000000001%
+
+	step 2
+
+step 1
+index added: 233
+percentage unclustered: 66.80160000000001%
+
+	step 2
+
+step 1
+index added: 234
+percentage unclustered: 66.3968%
+
+	step 2
+
+step 1
+index added: 235
+percentage unclustered: 66.3968%
+
+	step 2
+
+step 1
+index added: 236
+percentage unclustered: 66.3968%
+
+	step 2
+
+step 1
+index added: 237
+percentage unclustered: 66.3968%
+
+	step 2
+
+step 1
+index added: 238
+percentage unclustered: 64.7773%
+
+	step 2
+
+step 1
+index added: 239
+percentage unclustered: 64.7773%
+
+	step 2
+
+step 1
+index added: 240
+percentage unclustered: 64.7773%
+
+	step 2
+
+step 1
+index added: 241
+percentage unclustered: 64.7773%
+
+	step 2
+
+step 1
+index added: 242
+percentage unclustered: 65.1822%
+
+	step 2
+
+step 1
+index added: 243
+percentage unclustered: 65.1822%
+
+	step 2
+
+step 1
+index added: 244
+percentage unclustered: 64.7773%
+
+	step 2
+
+step 1
+index added: 245
+percentage unclustered: 64.3725%
+
+	step 2
+
+step 1
+index added: 246
+percentage unclustered: 64.3725%
+
+	step 2
+
+--- 583.230286359787 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 98.7854, 96.7611, 96.3563, 95.9514, 96.3563, 98.3806, 97.9757, 97.9757, 97.9757, 98.3806, 98.3806, 98.3806, 98.3806, 98.3806, 98.3806, 95.9514, 95.9514, 95.9514, 95.9514, 95.9514, 95.5466, 95.5466, 95.5466, 95.5466, 95.5466, 95.5466, 96.3563, 96.3563, 96.3563, 96.3563, 95.9514, 95.5466, 95.5466, 95.9514, 95.9514, 95.9514, 95.9514, 95.5466, 95.1417, 95.1417, 95.1417, 95.1417, 95.1417, 95.1417, 95.1417, 95.1417, 95.1417, 95.1417, 93.9271, 93.9271, 93.9271, 93.5223, 91.9028, 91.9028, 91.9028, 91.9028, 91.9028, 91.9028, 91.9028, 91.498, 91.498, 91.498, 91.09309999999999, 91.09309999999999, 91.09309999999999, 91.09309999999999, 91.09309999999999, 89.4737, 89.4737, 89.4737, 88.2591, 88.2591, 88.2591, 88.2591, 88.2591, 88.2591, 87.8543, 87.4494, 87.4494, 87.0445, 87.0445, 86.2348, 86.2348, 85.83, 84.2105, 82.996, 82.996, 82.5911, 82.5911, 82.5911, 82.5911, 82.5911, 82.5911, 82.1862, 82.1862, 82.1862, 81.7814, 80.5668, 78.9474, 80.1619, 80.1619, 79.75710000000001, 79.75710000000001, 79.75710000000001, 79.75710000000001, 79.75710000000001, 79.75710000000001, 79.75710000000001, 79.75710000000001, 79.75710000000001, 79.75710000000001, 78.5425, 78.5425, 78.5425, 78.5425, 78.5425, 78.5425, 78.1377, 78.1377, 78.1377, 78.1377, 78.1377, 78.1377, 78.1377, 78.1377, 76.9231, 76.9231, 76.51820000000001, 76.51820000000001, 76.1134, 76.1134, 76.1134, 76.1134, 76.1134, 76.1134, 76.1134, 76.1134, 76.1134, 76.1134, 76.1134, 73.6842, 74.8988, 74.8988, 74.4939, 74.0891, 76.51820000000001, 76.51820000000001, 76.51820000000001, 76.51820000000001, 77.7328, 77.7328, 77.7328, 77.7328, 77.7328, 77.7328, 77.7328, 77.7328, 77.7328, 78.9474, 78.9474, 78.9474, 78.9474, 77.3279, 77.3279, 76.9231, 76.9231, 76.9231, 77.3279, 77.3279, 77.7328, 77.7328, 77.7328, 77.7328, 77.7328, 77.7328, 76.1134, 76.1134, 76.1134, 76.1134, 75.7085, 75.7085, 74.4939, 74.4939, 76.51820000000001, 76.51820000000001, 76.51820000000001, 75.3036, 75.3036, 74.8988, 74.8988, 74.8988, 74.8988, 74.8988, 74.8988, 74.4939, 74.4939, 74.4939, 74.0891, 74.0891, 74.4939, 73.2794, 73.2794, 72.0648, 70.4453, 69.2308, 68.8259, 68.4211, 68.4211, 68.0162, 67.6113, 67.6113, 69.2308, 69.2308, 69.6356, 69.2308, 68.0162, 66.80160000000001, 66.80160000000001, 66.80160000000001, 66.80160000000001, 66.80160000000001, 66.3968, 66.3968, 66.3968, 66.3968, 64.7773, 64.7773, 64.7773, 64.7773, 65.1822, 65.1822, 64.7773, 64.3725, 64.3725], mean: 82.7448
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0       178   89   0.706857  one all time favorite movies kids grew origina...
+1       118   61   0.626550  first let say love movie neighbor totoro probl...
+2        97  127   0.609251  displeased newest version totoro dakota elle f...
+3        86   94   0.542460  video version finally snapped bought disney ve...
+4        33   44   0.524469  m actually disappointed new blu ray release ho...
+5         7   64   0.516779  let start saying love neighbor totoro said hat...
+6        56  199   0.457528  original review bottom unfortunately versions ...
+7        47   50   0.428375  d like start saying nothing utmost respect stu...
+8       231  157   0.420373  finally widescreen version available previous ...
+9        50   28   0.403132  movie 5 star film gorgeous animation simple st...
+10       19   14   0.402436  totoro one favorite movies 32 stumbled across ...
+11       99   33   0.390247  time favorite movie child thrilled came dvd bo...
+12      138   43   0.370630  songs redone voice actors dialogue changed hat...
+13      103   17   0.288536  original wanted one kids young totally differe...
+14       64   13   0.252336  daughters loved original release darling sweet...
+15      108   19   0.200910  original totoro m sad missed stupid dialog dif...

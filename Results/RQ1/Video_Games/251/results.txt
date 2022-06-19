@@ -1,0 +1,3530 @@
+------- Category: Video_Games -------
+Found asin_id: B00269QLJ2
+Shape:  (251, 7)
+
+
+Chosen product: B00269QLJ2 has 251 reviews - True
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 100.0%
+
+step 1
+index added: 13
+percentage unclustered: 98.8048%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [4, 6, 13]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  13  mw2 actually great game mind problems below n ...   0.265374
+
+step 1
+index added: 14
+percentage unclustered: 98.8048%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 98.8048%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 98.8048%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 98.8048%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 98.8048%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 98.4064%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [4, 6, 13, 19]
+			old information: 16, gain: 0.9927634554500226
+
+   ind                                             review  relevance
+0  19  game overall potentional outstanding lack dedi...   0.519505
+1  13  mw2 actually great game mind problems below n ...   0.265374
+
+step 1
+index added: 20
+percentage unclustered: 98.4064%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 98.4064%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 98.4064%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 98.4064%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 98.4064%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 98.4064%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 98.4064%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 98.4064%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 98.008%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [4, 6, 13, 19]
+			old information: 0, gain: 1.0
+
+step 1
+index added: 29
+percentage unclustered: 98.008%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 98.008%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 98.008%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 98.008%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 98.008%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 97.6096%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [4, 6, 13, 19]
+
+step 1
+index added: 35
+percentage unclustered: 97.6096%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 97.6096%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 97.2112%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [4, 6, 19, 37]
+			old information: 114, gain: 0.9798977252689121
+
+   ind                                             review  relevance
+0  19  game overall potentional outstanding lack dedi...   0.519505
+1  37  first yes game bought day came out n nthe game...   0.492415
+2  13  mw2 actually great game mind problems below n ...   0.265374
+
+step 1
+index added: 38
+percentage unclustered: 97.2112%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 97.2112%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 97.2112%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 97.2112%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 96.4143%
+
+	step 2
+
+		step 3
+		candidate index: 42 with core nodes: [4, 6, 19, 37]
+
+step 1
+index added: 43
+percentage unclustered: 96.0159%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [4, 6, 19, 37]
+
+step 1
+index added: 44
+percentage unclustered: 96.0159%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 96.0159%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 96.0159%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 96.0159%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 96.0159%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 96.0159%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 96.0159%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 96.0159%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 96.0159%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 96.0159%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 95.6175%
+
+	step 2
+
+		step 3
+		candidate index: 54 with core nodes: [4, 6, 19, 37]
+
+step 1
+index added: 55
+percentage unclustered: 95.2191%
+
+	step 2
+
+		step 3
+		candidate index: 55 with core nodes: [4, 6, 19, 37]
+
+step 1
+index added: 56
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 93.6255%
+
+	step 2
+
+		step 3
+		candidate index: 72 with core nodes: [4, 6, 19, 37]
+
+step 1
+index added: 73
+percentage unclustered: 92.03190000000001%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 92.03190000000001%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 92.03190000000001%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 92.03190000000001%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 90.83670000000001%
+
+	step 2
+
+		step 3
+		candidate index: 77 with core nodes: [6, 19, 37, 60, 77]
+			old information: 311, gain: 0.9835580227332804
+
+   ind                                             review  relevance
+0  77  well finished campaign mode really enjoyed sin...   0.535969
+1  19  game overall potentional outstanding lack dedi...   0.519505
+2  37  first yes game bought day came out n nthe game...   0.492415
+3  13  mw2 actually great game mind problems below n ...   0.265374
+
+step 1
+index added: 78
+percentage unclustered: 90.83670000000001%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 90.83670000000001%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 90.83670000000001%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 90.4382%
+
+	step 2
+
+		step 3
+		candidate index: 81 with core nodes: [6, 19, 37, 60, 77]
+
+step 1
+index added: 82
+percentage unclustered: 90.4382%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 90.4382%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 90.0398%
+
+	step 2
+
+		step 3
+		candidate index: 84 with core nodes: [6, 19, 37, 60, 77]
+
+step 1
+index added: 85
+percentage unclustered: 89.6414%
+
+	step 2
+
+		step 3
+		candidate index: 85 with core nodes: [6, 19, 37, 60, 77]
+
+step 1
+index added: 86
+percentage unclustered: 88.4462%
+
+	step 2
+
+		step 3
+		candidate index: 86 with core nodes: [6, 19, 37, 60, 77, 86]
+			old information: 248, gain: 0.9106306306306307
+
+   ind                                             review  relevance
+0  77  well finished campaign mode really enjoyed sin...   0.535969
+1  19  game overall potentional outstanding lack dedi...   0.519505
+2  37  first yes game bought day came out n nthe game...   0.492415
+3  86  console buy game single player well done far s...   0.471681
+4  13  mw2 actually great game mind problems below n ...   0.265374
+
+step 1
+index added: 87
+percentage unclustered: 88.0478%
+
+	step 2
+
+		step 3
+		candidate index: 87 with core nodes: [6, 19, 37, 60, 77, 86]
+
+step 1
+index added: 88
+percentage unclustered: 86.8526%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 86.8526%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 86.8526%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 88.8446%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 88.8446%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 88.4462%
+
+	step 2
+
+		step 3
+		candidate index: 93 with core nodes: [6, 19, 60, 77, 86]
+
+step 1
+index added: 94
+percentage unclustered: 87.6494%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 87.6494%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 87.6494%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 87.6494%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 87.6494%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 87.251%
+
+	step 2
+
+		step 3
+		candidate index: 99 with core nodes: [6, 19, 60, 77, 86]
+
+step 1
+index added: 100
+percentage unclustered: 86.0558%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 86.0558%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 86.0558%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 86.0558%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 86.0558%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 86.0558%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 86.0558%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 86.0558%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 86.0558%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 85.6574%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 85.6574%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 85.6574%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 85.6574%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 85.259%
+
+	step 2
+
+		step 3
+		candidate index: 113 with core nodes: [6, 19, 60, 77, 86]
+
+step 1
+index added: 114
+percentage unclustered: 85.259%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 84.4622%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 84.4622%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 84.4622%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 84.4622%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 84.4622%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 84.4622%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 85.259%
+
+	step 2
+
+		step 3
+		candidate index: 121 with core nodes: [13, 44, 45]
+
+step 1
+index added: 122
+percentage unclustered: 84.8606%
+
+	step 2
+
+		step 3
+		candidate index: 122 with core nodes: [19, 60, 77, 122]
+			old information: 448, gain: 0.9680638722554891
+
+    ind                                             review  relevance
+0  122  bought game simple fact thought iwnet might ch...   0.579196
+1   77  well finished campaign mode really enjoyed sin...   0.535969
+2   19  game overall potentional outstanding lack dedi...   0.519505
+3   37  first yes game bought day came out n nthe game...   0.492415
+4   86  console buy game single player well done far s...   0.471681
+5   13  mw2 actually great game mind problems below n ...   0.265374
+
+		step 3
+		candidate index: 122 with core nodes: [6, 19, 77, 86, 122]
+------- Category: Video_Games -------
+Found asin_id: B00269QLJ2
+Shape:  (251, 7)
+
+
+Chosen product: B00269QLJ2 has 251 reviews - True
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 100.0%
+
+step 1
+index added: 13
+percentage unclustered: 98.8048%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [4, 6, 13]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  13  mw2 actually great game mind problems below n ...   0.265374
+
+step 1
+index added: 14
+percentage unclustered: 98.8048%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 98.8048%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 98.8048%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 98.8048%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 98.8048%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 98.4064%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [4, 6, 13, 19]
+			old information: 16, gain: 0.9927634554500226
+
+   ind                                             review  relevance
+0  19  game overall potentional outstanding lack dedi...   0.519505
+1  13  mw2 actually great game mind problems below n ...   0.265374
+
+step 1
+index added: 20
+percentage unclustered: 98.4064%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 98.4064%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 98.4064%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 98.4064%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 98.4064%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 98.4064%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 98.4064%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 98.4064%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 98.008%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [4, 6, 13, 19]
+			old information: 0, gain: 1.0
+
+step 1
+index added: 29
+percentage unclustered: 98.008%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 98.008%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 98.008%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 98.008%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 98.008%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 97.6096%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [4, 6, 13, 19]
+
+step 1
+index added: 35
+percentage unclustered: 97.6096%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 97.6096%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 97.2112%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [4, 6, 19, 37]
+			old information: 114, gain: 0.9798977252689121
+
+   ind                                             review  relevance
+0  19  game overall potentional outstanding lack dedi...   0.519505
+1  37  first yes game bought day came out n nthe game...   0.492415
+2  13  mw2 actually great game mind problems below n ...   0.265374
+
+step 1
+index added: 38
+percentage unclustered: 97.2112%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 97.2112%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 97.2112%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 97.2112%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 96.4143%
+
+	step 2
+
+		step 3
+		candidate index: 42 with core nodes: [4, 6, 19, 37]
+
+step 1
+index added: 43
+percentage unclustered: 96.0159%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [4, 6, 19, 37]
+
+step 1
+index added: 44
+percentage unclustered: 96.0159%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 96.0159%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 96.0159%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 96.0159%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 96.0159%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 96.0159%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 96.0159%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 96.0159%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 96.0159%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 96.0159%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 95.6175%
+
+	step 2
+
+		step 3
+		candidate index: 54 with core nodes: [4, 6, 19, 37]
+
+step 1
+index added: 55
+percentage unclustered: 95.2191%
+
+	step 2
+
+		step 3
+		candidate index: 55 with core nodes: [4, 6, 19, 37]
+
+step 1
+index added: 56
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 93.6255%
+
+	step 2
+
+		step 3
+		candidate index: 72 with core nodes: [4, 6, 19, 37]
+
+step 1
+index added: 73
+percentage unclustered: 92.03190000000001%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 92.03190000000001%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 92.03190000000001%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 92.03190000000001%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 90.83670000000001%
+
+	step 2
+
+		step 3
+		candidate index: 77 with core nodes: [6, 19, 37, 60, 77]
+			old information: 311, gain: 0.9835580227332804
+
+   ind                                             review  relevance
+0  77  well finished campaign mode really enjoyed sin...   0.535969
+1  19  game overall potentional outstanding lack dedi...   0.519505
+2  37  first yes game bought day came out n nthe game...   0.492415
+3  13  mw2 actually great game mind problems below n ...   0.265374
+
+step 1
+index added: 78
+percentage unclustered: 90.83670000000001%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 90.83670000000001%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 90.83670000000001%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 90.4382%
+
+	step 2
+
+		step 3
+		candidate index: 81 with core nodes: [6, 19, 37, 60, 77]
+
+step 1
+index added: 82
+percentage unclustered: 90.4382%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 90.4382%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 90.0398%
+
+	step 2
+
+		step 3
+		candidate index: 84 with core nodes: [6, 19, 37, 60, 77]
+
+step 1
+index added: 85
+percentage unclustered: 89.6414%
+
+	step 2
+
+		step 3
+		candidate index: 85 with core nodes: [6, 19, 37, 60, 77]
+
+step 1
+index added: 86
+percentage unclustered: 88.4462%
+
+	step 2
+
+		step 3
+		candidate index: 86 with core nodes: [6, 19, 37, 60, 77, 86]
+			old information: 248, gain: 0.9106306306306307
+
+   ind                                             review  relevance
+0  77  well finished campaign mode really enjoyed sin...   0.535969
+1  19  game overall potentional outstanding lack dedi...   0.519505
+2  37  first yes game bought day came out n nthe game...   0.492415
+3  86  console buy game single player well done far s...   0.471681
+4  13  mw2 actually great game mind problems below n ...   0.265374
+
+step 1
+index added: 87
+percentage unclustered: 88.0478%
+
+	step 2
+
+		step 3
+		candidate index: 87 with core nodes: [6, 19, 37, 60, 77, 86]
+
+step 1
+index added: 88
+percentage unclustered: 86.8526%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 86.8526%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 86.8526%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 88.8446%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 88.8446%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 88.4462%
+
+	step 2
+
+		step 3
+		candidate index: 93 with core nodes: [6, 19, 60, 77, 86]
+
+step 1
+index added: 94
+percentage unclustered: 87.6494%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 87.6494%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 87.6494%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 87.6494%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 87.6494%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 87.251%
+
+	step 2
+
+		step 3
+		candidate index: 99 with core nodes: [6, 19, 60, 77, 86]
+
+step 1
+index added: 100
+percentage unclustered: 86.0558%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 86.0558%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 86.0558%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 86.0558%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 86.0558%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 86.0558%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 86.0558%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 86.0558%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 86.0558%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 85.6574%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 85.6574%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 85.6574%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 85.6574%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 85.259%
+
+	step 2
+
+		step 3
+		candidate index: 113 with core nodes: [6, 19, 60, 77, 86]
+
+step 1
+index added: 114
+percentage unclustered: 85.259%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 84.4622%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 84.4622%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 84.4622%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 84.4622%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 84.4622%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 84.4622%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 85.259%
+
+	step 2
+
+		step 3
+		candidate index: 121 with core nodes: [13, 44, 45]
+
+step 1
+index added: 122
+percentage unclustered: 84.8606%
+
+	step 2
+
+		step 3
+		candidate index: 122 with core nodes: [19, 60, 77, 122]
+			old information: 448, gain: 0.9680638722554891
+
+    ind                                             review  relevance
+0  122  bought game simple fact thought iwnet might ch...   0.579196
+1   77  well finished campaign mode really enjoyed sin...   0.535969
+2   19  game overall potentional outstanding lack dedi...   0.519505
+3   37  first yes game bought day came out n nthe game...   0.492415
+4   86  console buy game single player well done far s...   0.471681
+5   13  mw2 actually great game mind problems below n ...   0.265374
+
+		step 3
+		candidate index: 122 with core nodes: [6, 19, 77, 86, 122]
+			old information: 8664, gain: 0.3823781009409752
+
+    ind                                             review  relevance
+0  122  bought game simple fact thought iwnet might ch...   0.662293
+1  122  bought game simple fact thought iwnet might ch...   0.579196
+2   77  well finished campaign mode really enjoyed sin...   0.535969
+3   19  game overall potentional outstanding lack dedi...   0.519505
+4   37  first yes game bought day came out n nthe game...   0.492415
+5   86  console buy game single player well done far s...   0.471681
+6   13  mw2 actually great game mind problems below n ...   0.265374
+------- Category: Video_Games -------
+Found asin_id: B00269QLJ2
+Shape:  (251, 7)
+
+
+Chosen product: B00269QLJ2 has 251 reviews - True
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 100.0%
+
+step 1
+index added: 13
+percentage unclustered: 98.8048%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [4, 6, 13]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  13  mw2 actually great game mind problems below n ...   0.265374
+
+step 1
+index added: 14
+percentage unclustered: 98.8048%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 98.8048%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 98.8048%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 98.8048%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 98.8048%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 98.4064%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [4, 6, 13, 19]
+			old information: 16, gain: 0.9927634554500226
+
+   ind                                             review  relevance
+0  19  game overall potentional outstanding lack dedi...   0.519505
+1  13  mw2 actually great game mind problems below n ...   0.265374
+
+step 1
+index added: 20
+percentage unclustered: 98.4064%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 98.4064%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 98.4064%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 98.4064%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 98.4064%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 98.4064%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 98.4064%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 98.4064%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 98.008%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [4, 6, 13, 19]
+			old information: 0, gain: 1.0
+
+step 1
+index added: 29
+percentage unclustered: 98.008%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 98.008%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 98.008%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 98.008%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 98.008%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 97.6096%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [4, 6, 13, 19]
+
+step 1
+index added: 35
+percentage unclustered: 97.6096%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 97.6096%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 97.2112%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [4, 6, 19, 37]
+			old information: 114, gain: 0.9798977252689121
+
+   ind                                             review  relevance
+0  19  game overall potentional outstanding lack dedi...   0.519505
+1  37  first yes game bought day came out n nthe game...   0.492415
+2  13  mw2 actually great game mind problems below n ...   0.265374
+
+step 1
+index added: 38
+percentage unclustered: 97.2112%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 97.2112%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 97.2112%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 97.2112%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 96.4143%
+
+	step 2
+
+		step 3
+		candidate index: 42 with core nodes: [4, 6, 19, 37]
+
+step 1
+index added: 43
+percentage unclustered: 96.0159%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [4, 6, 19, 37]
+
+step 1
+index added: 44
+percentage unclustered: 96.0159%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 96.0159%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 96.0159%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 96.0159%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 96.0159%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 96.0159%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 96.0159%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 96.0159%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 96.0159%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 96.0159%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 95.6175%
+
+	step 2
+
+		step 3
+		candidate index: 54 with core nodes: [4, 6, 19, 37]
+
+step 1
+index added: 55
+percentage unclustered: 95.2191%
+
+	step 2
+
+		step 3
+		candidate index: 55 with core nodes: [4, 6, 19, 37]
+
+step 1
+index added: 56
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 95.2191%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 93.6255%
+
+	step 2
+
+		step 3
+		candidate index: 72 with core nodes: [4, 6, 19, 37]
+
+step 1
+index added: 73
+percentage unclustered: 92.03190000000001%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 92.03190000000001%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 92.03190000000001%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 92.03190000000001%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 90.83670000000001%
+
+	step 2
+
+		step 3
+		candidate index: 77 with core nodes: [6, 19, 37, 60, 77]
+			old information: 311, gain: 0.9835580227332804
+
+   ind                                             review  relevance
+0  77  well finished campaign mode really enjoyed sin...   0.535969
+1  19  game overall potentional outstanding lack dedi...   0.519505
+2  37  first yes game bought day came out n nthe game...   0.492415
+3  13  mw2 actually great game mind problems below n ...   0.265374
+
+step 1
+index added: 78
+percentage unclustered: 90.83670000000001%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 90.83670000000001%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 90.83670000000001%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 90.4382%
+
+	step 2
+
+		step 3
+		candidate index: 81 with core nodes: [6, 19, 37, 60, 77]
+
+step 1
+index added: 82
+percentage unclustered: 90.4382%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 90.4382%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 90.0398%
+
+	step 2
+
+		step 3
+		candidate index: 84 with core nodes: [6, 19, 37, 60, 77]
+
+step 1
+index added: 85
+percentage unclustered: 89.6414%
+
+	step 2
+
+		step 3
+		candidate index: 85 with core nodes: [6, 19, 37, 60, 77]
+
+step 1
+index added: 86
+percentage unclustered: 88.4462%
+
+	step 2
+
+		step 3
+		candidate index: 86 with core nodes: [6, 19, 37, 60, 77, 86]
+			old information: 248, gain: 0.9106306306306307
+
+   ind                                             review  relevance
+0  77  well finished campaign mode really enjoyed sin...   0.535969
+1  19  game overall potentional outstanding lack dedi...   0.519505
+2  37  first yes game bought day came out n nthe game...   0.492415
+3  86  console buy game single player well done far s...   0.471681
+4  13  mw2 actually great game mind problems below n ...   0.265374
+
+step 1
+index added: 87
+percentage unclustered: 88.0478%
+
+	step 2
+
+		step 3
+		candidate index: 87 with core nodes: [6, 19, 37, 60, 77, 86]
+
+step 1
+index added: 88
+percentage unclustered: 86.8526%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 86.8526%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 86.8526%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 88.8446%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 88.8446%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 88.4462%
+
+	step 2
+
+		step 3
+		candidate index: 93 with core nodes: [6, 19, 60, 77, 86]
+
+step 1
+index added: 94
+percentage unclustered: 87.6494%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 87.6494%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 87.6494%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 87.6494%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 87.6494%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 87.251%
+
+	step 2
+
+		step 3
+		candidate index: 99 with core nodes: [6, 19, 60, 77, 86]
+
+step 1
+index added: 100
+percentage unclustered: 86.0558%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 86.0558%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 86.0558%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 86.0558%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 86.0558%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 86.0558%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 86.0558%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 86.0558%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 86.0558%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 85.6574%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 85.6574%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 85.6574%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 85.6574%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 85.259%
+
+	step 2
+
+		step 3
+		candidate index: 113 with core nodes: [6, 19, 60, 77, 86]
+
+step 1
+index added: 114
+percentage unclustered: 85.259%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 84.4622%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 84.4622%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 84.4622%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 84.4622%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 84.4622%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 84.4622%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 85.259%
+
+	step 2
+
+		step 3
+		candidate index: 121 with core nodes: [13, 44, 45]
+
+step 1
+index added: 122
+percentage unclustered: 84.8606%
+
+	step 2
+
+		step 3
+		candidate index: 122 with core nodes: [19, 60, 77, 122]
+			old information: 448, gain: 0.9680638722554891
+
+    ind                                             review  relevance
+0  122  bought game simple fact thought iwnet might ch...   0.579196
+1   77  well finished campaign mode really enjoyed sin...   0.535969
+2   19  game overall potentional outstanding lack dedi...   0.519505
+3   37  first yes game bought day came out n nthe game...   0.492415
+4   86  console buy game single player well done far s...   0.471681
+5   13  mw2 actually great game mind problems below n ...   0.265374
+
+		step 3
+		candidate index: 122 with core nodes: [6, 19, 77, 86, 122]
+			old information: 8664, gain: 0.3823781009409752
+
+    ind                                             review  relevance
+0  122  bought game simple fact thought iwnet might ch...   0.662293
+1  122  bought game simple fact thought iwnet might ch...   0.579196
+2   77  well finished campaign mode really enjoyed sin...   0.535969
+3   19  game overall potentional outstanding lack dedi...   0.519505
+4   37  first yes game bought day came out n nthe game...   0.492415
+5   86  console buy game single player well done far s...   0.471681
+6   13  mw2 actually great game mind problems below n ...   0.265374
+
+		step 3
+		candidate index: 122 with core nodes: [6, 19, 60, 77, 86]
+			old information: 8664, gain: 0.3823781009409752
+
+    ind                                             review  relevance
+0  122  bought game simple fact thought iwnet might ch...   0.726549
+1  122  bought game simple fact thought iwnet might ch...   0.662293
+2  122  bought game simple fact thought iwnet might ch...   0.579196
+3   77  well finished campaign mode really enjoyed sin...   0.535969
+4   19  game overall potentional outstanding lack dedi...   0.519505
+5   37  first yes game bought day came out n nthe game...   0.492415
+6   86  console buy game single player well done far s...   0.471681
+7   13  mw2 actually great game mind problems below n ...   0.265374
+
+step 1
+index added: 123
+percentage unclustered: 84.8606%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 84.8606%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 84.8606%
+
+	step 2
+
+		step 3
+		candidate index: 125 with core nodes: [6, 19, 60, 77, 86, 122, 125]
+			old information: 1101, gain: 0.9640525009794959
+
+    ind                                             review  relevance
+0  122  bought game simple fact thought iwnet might ch...   0.726549
+1  122  bought game simple fact thought iwnet might ch...   0.662293
+2  125  eagerly awaiting game excellent reviews receiv...   0.625208
+3  122  bought game simple fact thought iwnet might ch...   0.579196
+4   77  well finished campaign mode really enjoyed sin...   0.535969
+5   19  game overall potentional outstanding lack dedi...   0.519505
+6   37  first yes game bought day came out n nthe game...   0.492415
+7   86  console buy game single player well done far s...   0.471681
+8   13  mw2 actually great game mind problems below n ...   0.265374
+
+step 1
+index added: 126
+percentage unclustered: 84.8606%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 84.4622%
+
+	step 2
+
+step 1
+index added: 128
+percentage unclustered: 84.4622%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 84.4622%
+
+	step 2
+
+step 1
+index added: 130
+percentage unclustered: 84.4622%
+
+	step 2
+
+step 1
+index added: 131
+percentage unclustered: 84.4622%
+
+	step 2
+
+step 1
+index added: 132
+percentage unclustered: 84.0637%
+
+	step 2
+
+step 1
+index added: 133
+percentage unclustered: 84.0637%
+
+	step 2
+
+step 1
+index added: 134
+percentage unclustered: 84.0637%
+
+	step 2
+
+step 1
+index added: 135
+percentage unclustered: 83.6653%
+
+	step 2
+
+		step 3
+		candidate index: 135 with core nodes: [13, 44, 45, 135]
+			old information: 430, gain: 0.9131313131313131
+
+    ind                                             review  relevance
+0  122  bought game simple fact thought iwnet might ch...   0.726549
+1  122  bought game simple fact thought iwnet might ch...   0.662293
+2  125  eagerly awaiting game excellent reviews receiv...   0.625208
+3  122  bought game simple fact thought iwnet might ch...   0.579196
+4  135  reading reviews already passed ton rants goes ...   0.542224
+5   77  well finished campaign mode really enjoyed sin...   0.535969
+6   19  game overall potentional outstanding lack dedi...   0.519505
+7   37  first yes game bought day came out n nthe game...   0.492415
+8   86  console buy game single player well done far s...   0.471681
+9   13  mw2 actually great game mind problems below n ...   0.265374
+
+step 1
+index added: 136
+percentage unclustered: 83.6653%
+
+	step 2
+
+step 1
+index added: 137
+percentage unclustered: 83.6653%
+
+	step 2
+
+step 1
+index added: 138
+percentage unclustered: 82.4701%
+
+	step 2
+
+		step 3
+		candidate index: 138 with core nodes: [6, 19, 60, 77, 86, 122, 125]
+
+step 1
+index added: 139
+percentage unclustered: 82.07169999999999%
+
+	step 2
+
+		step 3
+		candidate index: 139 with core nodes: [58, 63, 69]
+			old information: 64, gain: 0.8176638176638177
+
+     ind                                             review  relevance
+0   122  bought game simple fact thought iwnet might ch...   0.726549
+1   122  bought game simple fact thought iwnet might ch...   0.662293
+2   125  eagerly awaiting game excellent reviews receiv...   0.625208
+3   122  bought game simple fact thought iwnet might ch...   0.579196
+4   135  reading reviews already passed ton rants goes ...   0.542224
+5    77  well finished campaign mode really enjoyed sin...   0.535969
+6    19  game overall potentional outstanding lack dedi...   0.519505
+7    37  first yes game bought day came out n nthe game...   0.492415
+8    86  console buy game single player well done far s...   0.471681
+9   139  sorry taking away dedicated server support mod...   0.400856
+10   13  mw2 actually great game mind problems below n ...   0.265374
+
+step 1
+index added: 140
+percentage unclustered: 81.6733%
+
+	step 2
+
+step 1
+index added: 141
+percentage unclustered: 80.8765%
+
+	step 2
+
+		step 3
+		candidate index: 141 with core nodes: [58, 140, 141]
+			old information: 407, gain: 0.8960674157303371
+
+     ind                                             review  relevance
+0   122  bought game simple fact thought iwnet might ch...   0.726549
+1   122  bought game simple fact thought iwnet might ch...   0.662293
+2   125  eagerly awaiting game excellent reviews receiv...   0.625208
+3   122  bought game simple fact thought iwnet might ch...   0.579196
+4   141  cod mw2 features 5 6 singleplayer campaign ste...   0.555927
+5   135  reading reviews already passed ton rants goes ...   0.542224
+6    77  well finished campaign mode really enjoyed sin...   0.535969
+7    19  game overall potentional outstanding lack dedi...   0.519505
+8    37  first yes game bought day came out n nthe game...   0.492415
+9    86  console buy game single player well done far s...   0.471681
+10  139  sorry taking away dedicated server support mod...   0.400856
+11   13  mw2 actually great game mind problems below n ...   0.265374
+
+step 1
+index added: 142
+percentage unclustered: 79.6813%
+
+	step 2
+
+step 1
+index added: 143
+percentage unclustered: 79.6813%
+
+	step 2
+
+		step 3
+		candidate index: 143 with core nodes: [13, 44, 135, 143]
+			old information: 2687, gain: 0.9642105543568023
+
+     ind                                             review  relevance
+0   122  bought game simple fact thought iwnet might ch...   0.726549
+1   143  caution may contain slight spoilers n nunlike ...   0.672282
+2   122  bought game simple fact thought iwnet might ch...   0.662293
+3   125  eagerly awaiting game excellent reviews receiv...   0.625208
+4   122  bought game simple fact thought iwnet might ch...   0.579196
+5   141  cod mw2 features 5 6 singleplayer campaign ste...   0.555927
+6   135  reading reviews already passed ton rants goes ...   0.542224
+7    77  well finished campaign mode really enjoyed sin...   0.535969
+8    19  game overall potentional outstanding lack dedi...   0.519505
+9    37  first yes game bought day came out n nthe game...   0.492415
+10   86  console buy game single player well done far s...   0.471681
+11  139  sorry taking away dedicated server support mod...   0.400856
+12   13  mw2 actually great game mind problems below n ...   0.265374
+
+step 1
+index added: 144
+percentage unclustered: 79.6813%
+
+	step 2
+
+step 1
+index added: 145
+percentage unclustered: 79.6813%
+
+	step 2
+
+step 1
+index added: 146
+percentage unclustered: 80.0797%
+
+	step 2
+
+step 1
+index added: 147
+percentage unclustered: 79.6813%
+
+	step 2
+
+step 1
+index added: 148
+percentage unclustered: 79.6813%
+
+	step 2
+
+step 1
+index added: 149
+percentage unclustered: 79.6813%
+
+	step 2
+
+step 1
+index added: 150
+percentage unclustered: 79.2829%
+
+	step 2
+
+step 1
+index added: 151
+percentage unclustered: 79.2829%
+
+	step 2
+
+step 1
+index added: 152
+percentage unclustered: 79.2829%
+
+	step 2
+
+step 1
+index added: 153
+percentage unclustered: 78.0876%
+
+	step 2
+
+		step 3
+		candidate index: 153 with core nodes: [58, 140, 141]
+
+step 1
+index added: 154
+percentage unclustered: 77.6892%
+
+	step 2
+
+step 1
+index added: 155
+percentage unclustered: 78.0876%
+
+	step 2
+
+		step 3
+		candidate index: 155 with core nodes: [13, 44, 143, 155]
+			old information: 106, gain: 0.5810276679841897
+
+     ind                                             review  relevance
+0   122  bought game simple fact thought iwnet might ch...   0.726549
+1   143  caution may contain slight spoilers n nunlike ...   0.672282
+2   122  bought game simple fact thought iwnet might ch...   0.662293
+3   125  eagerly awaiting game excellent reviews receiv...   0.625208
+4   155  features pc version modern warfare 2 n n mouse...   0.611790
+5   122  bought game simple fact thought iwnet might ch...   0.579196
+6   141  cod mw2 features 5 6 singleplayer campaign ste...   0.555927
+7   135  reading reviews already passed ton rants goes ...   0.542224
+8    77  well finished campaign mode really enjoyed sin...   0.535969
+9    19  game overall potentional outstanding lack dedi...   0.519505
+10   37  first yes game bought day came out n nthe game...   0.492415
+11   86  console buy game single player well done far s...   0.471681
+12  139  sorry taking away dedicated server support mod...   0.400856
+13   13  mw2 actually great game mind problems below n ...   0.265374
+
+step 1
+index added: 156
+percentage unclustered: 77.6892%
+
+	step 2
+
+step 1
+index added: 157
+percentage unclustered: 77.6892%
+
+	step 2
+
+step 1
+index added: 158
+percentage unclustered: 77.2908%
+
+	step 2
+
+step 1
+index added: 159
+percentage unclustered: 76.0956%
+
+	step 2
+
+		step 3
+		candidate index: 159 with core nodes: [13, 44, 143, 155]
+
+step 1
+index added: 160
+percentage unclustered: 77.2908%
+
+	step 2
+
+		step 3
+		candidate index: 160 with core nodes: [13, 44, 143, 155]
+
+step 1
+index added: 161
+percentage unclustered: 77.2908%
+
+	step 2
+
+step 1
+index added: 162
+percentage unclustered: 77.2908%
+
+	step 2
+
+step 1
+index added: 163
+percentage unclustered: 76.0956%
+
+	step 2
+
+step 1
+index added: 164
+percentage unclustered: 76.0956%
+
+	step 2
+
+step 1
+index added: 165
+percentage unclustered: 76.0956%
+
+	step 2
+
+step 1
+index added: 166
+percentage unclustered: 76.0956%
+
+	step 2
+
+step 1
+index added: 167
+percentage unclustered: 75.6972%
+
+	step 2
+
+step 1
+index added: 168
+percentage unclustered: 74.502%
+
+	step 2
+
+		step 3
+		candidate index: 168 with core nodes: [58, 140, 168]
+			old information: 236, gain: 0.8791602662570405
+
+     ind                                             review  relevance
+0   122  bought game simple fact thought iwnet might ch...   0.726549
+1   143  caution may contain slight spoilers n nunlike ...   0.672282
+2   122  bought game simple fact thought iwnet might ch...   0.662293
+3   125  eagerly awaiting game excellent reviews receiv...   0.625208
+4   155  features pc version modern warfare 2 n n mouse...   0.611790
+5   122  bought game simple fact thought iwnet might ch...   0.579196
+6   141  cod mw2 features 5 6 singleplayer campaign ste...   0.555927
+7   135  reading reviews already passed ton rants goes ...   0.542224
+8    77  well finished campaign mode really enjoyed sin...   0.535969
+9    19  game overall potentional outstanding lack dedi...   0.519505
+10   37  first yes game bought day came out n nthe game...   0.492415
+11   86  console buy game single player well done far s...   0.471681
+12  168  welcome future pc gaming 2000 rig effectively ...   0.442026
+13  139  sorry taking away dedicated server support mod...   0.400856
+14   13  mw2 actually great game mind problems below n ...   0.265374
+
+step 1
+index added: 169
+percentage unclustered: 73.3068%
+
+	step 2
+
+		step 3
+		candidate index: 169 with core nodes: [13, 44, 143, 155]
+
+step 1
+index added: 170
+percentage unclustered: 73.3068%
+
+	step 2
+
+step 1
+index added: 171
+percentage unclustered: 72.9084%
+
+	step 2
+
+step 1
+index added: 172
+percentage unclustered: 72.9084%
+
+	step 2
+
+step 1
+index added: 173
+percentage unclustered: 72.9084%
+
+	step 2
+
+step 1
+index added: 174
+percentage unclustered: 72.9084%
+
+	step 2
+
+step 1
+index added: 175
+percentage unclustered: 73.3068%
+
+	step 2
+
+step 1
+index added: 176
+percentage unclustered: 72.9084%
+
+	step 2
+
+		step 3
+		candidate index: 176 with core nodes: [6, 19, 158]
+
+step 1
+index added: 177
+percentage unclustered: 71.7131%
+
+	step 2
+
+step 1
+index added: 178
+percentage unclustered: 71.3147%
+
+	step 2
+
+step 1
+index added: 179
+percentage unclustered: 71.3147%
+
+	step 2
+
+step 1
+index added: 180
+percentage unclustered: 72.1116%
+
+	step 2
+
+step 1
+index added: 181
+percentage unclustered: 72.1116%
+
+	step 2
+
+step 1
+index added: 182
+percentage unclustered: 72.1116%
+
+	step 2
+
+step 1
+index added: 183
+percentage unclustered: 72.1116%
+
+	step 2
+
+step 1
+index added: 184
+percentage unclustered: 71.7131%
+
+	step 2
+
+step 1
+index added: 185
+percentage unclustered: 71.7131%
+
+	step 2
+
+step 1
+index added: 186
+percentage unclustered: 70.5179%
+
+	step 2
+
+		step 3
+		candidate index: 186 with core nodes: [58, 140, 141, 168]
+
+step 1
+index added: 187
+percentage unclustered: 70.5179%
+
+	step 2
+
+step 1
+index added: 188
+percentage unclustered: 70.5179%
+
+	step 2
+
+step 1
+index added: 189
+percentage unclustered: 70.5179%
+
+	step 2
+
+step 1
+index added: 190
+percentage unclustered: 69.3227%
+
+	step 2
+
+		step 3
+		candidate index: 190 with core nodes: [13, 44, 143, 155]
+
+step 1
+index added: 191
+percentage unclustered: 67.7291%
+
+	step 2
+
+		step 3
+		candidate index: 191 with core nodes: [60, 158, 191]
+			old information: 4388, gain: 0.967976880300089
+
+     ind                                             review  relevance
+0   122  bought game simple fact thought iwnet might ch...   0.726549
+1   143  caution may contain slight spoilers n nunlike ...   0.672282
+2   191  edit although somewhat expected still surprise...   0.671008
+3   122  bought game simple fact thought iwnet might ch...   0.662293
+4   125  eagerly awaiting game excellent reviews receiv...   0.625208
+5   155  features pc version modern warfare 2 n n mouse...   0.611790
+6   122  bought game simple fact thought iwnet might ch...   0.579196
+7   141  cod mw2 features 5 6 singleplayer campaign ste...   0.555927
+8   135  reading reviews already passed ton rants goes ...   0.542224
+9    77  well finished campaign mode really enjoyed sin...   0.535969
+10   19  game overall potentional outstanding lack dedi...   0.519505
+11   37  first yes game bought day came out n nthe game...   0.492415
+12   86  console buy game single player well done far s...   0.471681
+13  168  welcome future pc gaming 2000 rig effectively ...   0.442026
+14  139  sorry taking away dedicated server support mod...   0.400856
+15   13  mw2 actually great game mind problems below n ...   0.265374
+
+step 1
+index added: 192
+percentage unclustered: 67.7291%
+
+	step 2
+
+step 1
+index added: 193
+percentage unclustered: 67.7291%
+
+	step 2
+
+step 1
+index added: 194
+percentage unclustered: 67.33070000000001%
+
+	step 2
+
+step 1
+index added: 195
+percentage unclustered: 65.7371%
+
+	step 2
+
+step 1
+index added: 196
+percentage unclustered: 65.7371%
+
+	step 2
+
+step 1
+index added: 197
+percentage unclustered: 65.3386%
+
+	step 2
+
+step 1
+index added: 198
+percentage unclustered: 64.9402%
+
+	step 2
+
+step 1
+index added: 199
+percentage unclustered: 62.5498%
+
+	step 2
+
+		step 3
+		candidate index: 199 with core nodes: [58, 140, 141, 168]
+
+step 1
+index added: 200
+percentage unclustered: 62.5498%
+
+	step 2
+
+step 1
+index added: 201
+percentage unclustered: 62.5498%
+
+	step 2
+
+step 1
+index added: 202
+percentage unclustered: 62.1514%
+
+	step 2
+
+step 1
+index added: 203
+percentage unclustered: 62.9482%
+
+	step 2
+
+step 1
+index added: 204
+percentage unclustered: 63.3466%
+
+	step 2
+
+step 1
+index added: 205
+percentage unclustered: 63.3466%
+
+	step 2
+
+step 1
+index added: 206
+percentage unclustered: 63.3466%
+
+	step 2
+
+step 1
+index added: 207
+percentage unclustered: 62.9482%
+
+	step 2
+
+step 1
+index added: 208
+percentage unclustered: 62.9482%
+
+	step 2
+
+step 1
+index added: 209
+percentage unclustered: 63.3466%
+
+	step 2
+
+step 1
+index added: 210
+percentage unclustered: 63.3466%
+
+	step 2
+
+step 1
+index added: 211
+percentage unclustered: 62.9482%
+
+	step 2
+
+step 1
+index added: 212
+percentage unclustered: 62.9482%
+
+	step 2
+
+step 1
+index added: 213
+percentage unclustered: 62.9482%
+
+	step 2
+
+step 1
+index added: 214
+percentage unclustered: 62.9482%
+
+	step 2
+
+step 1
+index added: 215
+percentage unclustered: 62.9482%
+
+	step 2
+
+step 1
+index added: 216
+percentage unclustered: 63.3466%
+
+	step 2
+
+step 1
+index added: 217
+percentage unclustered: 61.3546%
+
+	step 2
+
+step 1
+index added: 218
+percentage unclustered: 61.3546%
+
+	step 2
+
+step 1
+index added: 219
+percentage unclustered: 61.3546%
+
+	step 2
+
+step 1
+index added: 220
+percentage unclustered: 61.3546%
+
+	step 2
+
+step 1
+index added: 221
+percentage unclustered: 60.9562%
+
+	step 2
+
+step 1
+index added: 222
+percentage unclustered: 60.9562%
+
+	step 2
+
+step 1
+index added: 223
+percentage unclustered: 60.5578%
+
+	step 2
+
+		step 3
+		candidate index: 223 with core nodes: [13, 44, 135, 155]
+
+step 1
+index added: 224
+percentage unclustered: 60.5578%
+
+	step 2
+
+step 1
+index added: 225
+percentage unclustered: 60.1594%
+
+	step 2
+
+step 1
+index added: 226
+percentage unclustered: 59.761%
+
+	step 2
+
+		step 3
+		candidate index: 226 with core nodes: [58, 140, 141, 168, 226]
+			old information: 379, gain: 0.7538961038961038
+
+     ind                                             review  relevance
+0   122  bought game simple fact thought iwnet might ch...   0.726549
+1   143  caution may contain slight spoilers n nunlike ...   0.672282
+2   191  edit although somewhat expected still surprise...   0.671008
+3   122  bought game simple fact thought iwnet might ch...   0.662293
+4   125  eagerly awaiting game excellent reviews receiv...   0.625208
+5   155  features pc version modern warfare 2 n n mouse...   0.611790
+6   122  bought game simple fact thought iwnet might ch...   0.579196
+7   141  cod mw2 features 5 6 singleplayer campaign ste...   0.555927
+8   135  reading reviews already passed ton rants goes ...   0.542224
+9    77  well finished campaign mode really enjoyed sin...   0.535969
+10   19  game overall potentional outstanding lack dedi...   0.519505
+11  226  even bother release pc re going take everythin...   0.505417
+12   37  first yes game bought day came out n nthe game...   0.492415
+13   86  console buy game single player well done far s...   0.471681
+14  168  welcome future pc gaming 2000 rig effectively ...   0.442026
+15  139  sorry taking away dedicated server support mod...   0.400856
+16   13  mw2 actually great game mind problems below n ...   0.265374
+
+step 1
+index added: 227
+percentage unclustered: 59.761%
+
+	step 2
+
+step 1
+index added: 228
+percentage unclustered: 58.1673%
+
+	step 2
+
+step 1
+index added: 229
+percentage unclustered: 58.1673%
+
+	step 2
+
+step 1
+index added: 230
+percentage unclustered: 56.9721%
+
+	step 2
+
+step 1
+index added: 231
+percentage unclustered: 58.5657%
+
+	step 2
+
+step 1
+index added: 232
+percentage unclustered: 58.5657%
+
+	step 2
+
+step 1
+index added: 233
+percentage unclustered: 59.3625%
+
+	step 2
+
+step 1
+index added: 234
+percentage unclustered: 59.3625%
+
+	step 2
+
+step 1
+index added: 235
+percentage unclustered: 58.9641%
+
+	step 2
+
+		step 3
+		candidate index: 235 with core nodes: [76, 159, 235]
+			old information: 923, gain: 0.950183506044905
+
+     ind                                             review  relevance
+0   122  bought game simple fact thought iwnet might ch...   0.726549
+1   143  caution may contain slight spoilers n nunlike ...   0.672282
+2   191  edit although somewhat expected still surprise...   0.671008
+3   122  bought game simple fact thought iwnet might ch...   0.662293
+4   125  eagerly awaiting game excellent reviews receiv...   0.625208
+5   155  features pc version modern warfare 2 n n mouse...   0.611790
+6   122  bought game simple fact thought iwnet might ch...   0.579196
+7   141  cod mw2 features 5 6 singleplayer campaign ste...   0.555927
+8   135  reading reviews already passed ton rants goes ...   0.542224
+9    77  well finished campaign mode really enjoyed sin...   0.535969
+10   19  game overall potentional outstanding lack dedi...   0.519505
+11  226  even bother release pc re going take everythin...   0.505417
+12   37  first yes game bought day came out n nthe game...   0.492415
+13   86  console buy game single player well done far s...   0.471681
+14  235  buy game total waste hard earned money read re...   0.446268
+15  168  welcome future pc gaming 2000 rig effectively ...   0.442026
+16  139  sorry taking away dedicated server support mod...   0.400856
+17   13  mw2 actually great game mind problems below n ...   0.265374
+
+step 1
+index added: 236
+percentage unclustered: 58.5657%
+
+	step 2
+
+step 1
+index added: 237
+percentage unclustered: 57.3705%
+
+	step 2
+
+step 1
+index added: 238
+percentage unclustered: 56.9721%
+
+	step 2
+
+step 1
+index added: 239
+percentage unclustered: 56.9721%
+
+	step 2
+
+step 1
+index added: 240
+percentage unclustered: 56.9721%
+
+	step 2
+
+step 1
+index added: 241
+percentage unclustered: 56.9721%
+
+	step 2
+
+step 1
+index added: 242
+percentage unclustered: 56.9721%
+
+	step 2
+
+step 1
+index added: 243
+percentage unclustered: 56.9721%
+
+	step 2
+
+step 1
+index added: 244
+percentage unclustered: 56.9721%
+
+	step 2
+
+step 1
+index added: 245
+percentage unclustered: 56.9721%
+
+	step 2
+
+step 1
+index added: 246
+percentage unclustered: 56.5737%
+
+	step 2
+
+		step 3
+		candidate index: 246 with core nodes: [135, 155, 246]
+			old information: 7734, gain: 0.9231029271396755
+
+     ind                                             review  relevance
+0   122  bought game simple fact thought iwnet might ch...   0.726549
+1   246  perks buying pc version according infinity war...   0.718102
+2   143  caution may contain slight spoilers n nunlike ...   0.672282
+3   191  edit although somewhat expected still surprise...   0.671008
+4   122  bought game simple fact thought iwnet might ch...   0.662293
+5   125  eagerly awaiting game excellent reviews receiv...   0.625208
+6   155  features pc version modern warfare 2 n n mouse...   0.611790
+7   122  bought game simple fact thought iwnet might ch...   0.579196
+8   141  cod mw2 features 5 6 singleplayer campaign ste...   0.555927
+9   135  reading reviews already passed ton rants goes ...   0.542224
+10   77  well finished campaign mode really enjoyed sin...   0.535969
+11   19  game overall potentional outstanding lack dedi...   0.519505
+12  226  even bother release pc re going take everythin...   0.505417
+13   37  first yes game bought day came out n nthe game...   0.492415
+14   86  console buy game single player well done far s...   0.471681
+15  235  buy game total waste hard earned money read re...   0.446268
+16  168  welcome future pc gaming 2000 rig effectively ...   0.442026
+17  139  sorry taking away dedicated server support mod...   0.400856
+18   13  mw2 actually great game mind problems below n ...   0.265374
+
+step 1
+index added: 247
+percentage unclustered: 56.5737%
+
+	step 2
+
+step 1
+index added: 248
+percentage unclustered: 56.1753%
+
+	step 2
+
+step 1
+index added: 249
+percentage unclustered: 55.7769%
+
+	step 2
+
+step 1
+index added: 250
+percentage unclustered: 55.7769%
+
+	step 2
+
+--- 754.495715379715 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 98.8048, 98.8048, 98.8048, 98.8048, 98.8048, 98.8048, 98.4064, 98.4064, 98.4064, 98.4064, 98.4064, 98.4064, 98.4064, 98.4064, 98.4064, 98.008, 98.008, 98.008, 98.008, 98.008, 98.008, 97.6096, 97.6096, 97.6096, 97.2112, 97.2112, 97.2112, 97.2112, 97.2112, 96.4143, 96.0159, 96.0159, 96.0159, 96.0159, 96.0159, 96.0159, 96.0159, 96.0159, 96.0159, 96.0159, 96.0159, 95.6175, 95.2191, 95.2191, 95.2191, 95.2191, 95.2191, 95.2191, 95.2191, 95.2191, 95.2191, 95.2191, 95.2191, 95.2191, 95.2191, 95.2191, 95.2191, 95.2191, 95.2191, 93.6255, 92.03190000000001, 92.03190000000001, 92.03190000000001, 92.03190000000001, 90.83670000000001, 90.83670000000001, 90.83670000000001, 90.83670000000001, 90.4382, 90.4382, 90.4382, 90.0398, 89.6414, 88.4462, 88.0478, 86.8526, 86.8526, 86.8526, 88.8446, 88.8446, 88.4462, 87.6494, 87.6494, 87.6494, 87.6494, 87.6494, 87.251, 86.0558, 86.0558, 86.0558, 86.0558, 86.0558, 86.0558, 86.0558, 86.0558, 86.0558, 85.6574, 85.6574, 85.6574, 85.6574, 85.259, 85.259, 84.4622, 84.4622, 84.4622, 84.4622, 84.4622, 84.4622, 85.259, 84.8606, 84.8606, 84.8606, 84.8606, 84.8606, 84.4622, 84.4622, 84.4622, 84.4622, 84.4622, 84.0637, 84.0637, 84.0637, 83.6653, 83.6653, 83.6653, 82.4701, 82.07169999999999, 81.6733, 80.8765, 79.6813, 79.6813, 79.6813, 79.6813, 80.0797, 79.6813, 79.6813, 79.6813, 79.2829, 79.2829, 79.2829, 78.0876, 77.6892, 78.0876, 77.6892, 77.6892, 77.2908, 76.0956, 77.2908, 77.2908, 77.2908, 76.0956, 76.0956, 76.0956, 76.0956, 75.6972, 74.502, 73.3068, 73.3068, 72.9084, 72.9084, 72.9084, 72.9084, 73.3068, 72.9084, 71.7131, 71.3147, 71.3147, 72.1116, 72.1116, 72.1116, 72.1116, 71.7131, 71.7131, 70.5179, 70.5179, 70.5179, 70.5179, 69.3227, 67.7291, 67.7291, 67.7291, 67.33070000000001, 65.7371, 65.7371, 65.3386, 64.9402, 62.5498, 62.5498, 62.5498, 62.1514, 62.9482, 63.3466, 63.3466, 63.3466, 62.9482, 62.9482, 63.3466, 63.3466, 62.9482, 62.9482, 62.9482, 62.9482, 62.9482, 63.3466, 61.3546, 61.3546, 61.3546, 61.3546, 60.9562, 60.9562, 60.5578, 60.5578, 60.1594, 59.761, 59.761, 58.1673, 58.1673, 56.9721, 58.5657, 58.5657, 59.3625, 59.3625, 58.9641, 58.5657, 57.3705, 56.9721, 56.9721, 56.9721, 56.9721, 56.9721, 56.9721, 56.9721, 56.9721, 56.5737, 56.5737, 56.1753, 55.7769, 55.7769], mean: 81.1853
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0       168  122   0.726549  bought game simple fact thought iwnet might ch...
+1         2  246   0.718102  perks buying pc version according infinity war...
+2       141  143   0.672282  caution may contain slight spoilers n nunlike ...
+3       105  191   0.671008  edit although somewhat expected still surprise...
+4       168  122   0.662293  bought game simple fact thought iwnet might ch...
+5       125  125   0.625208  eagerly awaiting game excellent reviews receiv...
+6       247  155   0.611790  features pc version modern warfare 2 n n mouse...
+7       168  122   0.579196  bought game simple fact thought iwnet might ch...
+8       101  141   0.555927  cod mw2 features 5 6 singleplayer campaign ste...
+9        98  135   0.542224  reading reviews already passed ton rants goes ...
+10      132   77   0.535969  well finished campaign mode really enjoyed sin...
+11      188   19   0.519505  game overall potentional outstanding lack dedi...
+12       37  226   0.505417  even bother release pc re going take everythin...
+13      195   37   0.492415  first yes game bought day came out n nthe game...
+14      241   86   0.471681  console buy game single player well done far s...
+15        1  235   0.446268  buy game total waste hard earned money read re...
+16       55  168   0.442026  welcome future pc gaming 2000 rig effectively ...
+17      180  139   0.400856  sorry taking away dedicated server support mod...
+18      184   13   0.265374  mw2 actually great game mind problems below n ...

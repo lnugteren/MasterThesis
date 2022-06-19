@@ -1,0 +1,134 @@
+------- Category: Video_Games -------
+Found asin_id: B00092A720
+Shape:  (20, 7)
+
+
+Chosen product: B00092A720 has 20 reviews - True
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [4, 7, 10]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  10  descibed game someone like playing blue lagoon...   0.359986
+
+step 1
+index added: 11
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [4, 7, 10, 11]
+			old information: 330, gain: 0.9496567505720824
+
+   ind                                             review  relevance
+0  11  first part mode game excellent play young man ...   0.434648
+1  10  descibed game someone like playing blue lagoon...   0.359986
+
+step 1
+index added: 12
+percentage unclustered: 65.0%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [3, 6, 10, 11, 12]
+			old information: 201, gain: 0.9676640926640927
+
+   ind                                             review  relevance
+0  12  got game week ago excellent start begining kei...   0.577083
+1  11  first part mode game excellent play young man ...   0.434648
+2  10  descibed game someone like playing blue lagoon...   0.359986
+
+step 1
+index added: 13
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 55.0%
+
+	step 2
+
+--- 1.9730229377746582 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 85.0, 80.0, 65.0, 65.0, 65.0, 65.0, 65.0, 60.0, 60.0, 55.0], mean: 81.3889
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0       18  12   0.577083  got game week ago excellent start begining kei...
+1       17  11   0.434648  first part mode game excellent play young man ...
+2       16  10   0.359986  descibed game someone like playing blue lagoon...

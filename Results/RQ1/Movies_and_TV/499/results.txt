@@ -1,0 +1,3686 @@
+------- Category: Movies_and_TV -------
+Found asin_id: B00008DDVU
+Shape:  (499, 7)
+
+
+Chosen product: B00008DDVU has 499 reviews - False, it has 499 reviews
+Duplicate reviewers?:  178    A21ODYUHGSXLLN
+438     ANP3R2R4V4GAN
+483    A2OTX4X3895YXT
+494    A34A095NNHFMB5
+Name: reviewerID, dtype: object
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 99.3988%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [4, 11, 12]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  12  deliberately misleading cunningly edited misre...    0.12396
+
+step 1
+index added: 13
+percentage unclustered: 99.3988%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 99.3988%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 99.3988%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 99.3988%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 99.3988%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 99.3988%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 98.7976%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [4, 6, 11, 12, 17]
+
+step 1
+index added: 20
+percentage unclustered: 98.5972%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [4, 6, 11, 17, 20]
+			old information: 1, gain: 0.9960474308300395
+
+   ind                                             review  relevance
+0  20  michael moore tells good story mind liberal fa...   0.205777
+1  12  deliberately misleading cunningly edited misre...   0.123960
+
+step 1
+index added: 21
+percentage unclustered: 98.5972%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 98.5972%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 98.5972%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 98.5972%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 98.5972%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 98.5972%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 98.5972%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 98.5972%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 98.5972%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 98.5972%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 97.996%
+
+	step 2
+
+		step 3
+		candidate index: 31 with core nodes: [1, 3, 19, 31]
+			old information: 167, gain: 0.9991729807358986
+
+   ind                                             review  relevance
+0  31  bowling columbine overtly partisan expected de...   0.475852
+1  20  michael moore tells good story mind liberal fa...   0.205777
+2  12  deliberately misleading cunningly edited misre...   0.123960
+
+step 1
+index added: 32
+percentage unclustered: 97.996%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 97.5952%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [1, 3, 31, 33]
+			old information: 1065, gain: 0.9557907845579079
+
+   ind                                             review  relevance
+0  31  bowling columbine overtly partisan expected de...   0.475852
+1  33  saw last half hour movie bravo network last we...   0.430383
+2  20  michael moore tells good story mind liberal fa...   0.205777
+3  12  deliberately misleading cunningly edited misre...   0.123960
+
+step 1
+index added: 34
+percentage unclustered: 97.5952%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 97.5952%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 97.3948%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [1, 3, 31, 33]
+			old information: 77, gain: 0.9345238095238095
+
+   ind                                             review  relevance
+0  31  bowling columbine overtly partisan expected de...   0.475852
+1  33  saw last half hour movie bravo network last we...   0.430383
+2  36  usual michael moore undercuts refusing accept ...   0.255808
+3  20  michael moore tells good story mind liberal fa...   0.205777
+4  12  deliberately misleading cunningly edited misre...   0.123960
+
+step 1
+index added: 37
+percentage unclustered: 97.1944%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [1, 31, 33, 37]
+			old information: 390, gain: 0.9047619047619048
+
+   ind                                             review  relevance
+0  31  bowling columbine overtly partisan expected de...   0.475852
+1  33  saw last half hour movie bravo network last we...   0.430383
+2  37  obvious movie full lies although actually seen...   0.355655
+3  36  usual michael moore undercuts refusing accept ...   0.255808
+4  20  michael moore tells good story mind liberal fa...   0.205777
+5  12  deliberately misleading cunningly edited misre...   0.123960
+
+step 1
+index added: 38
+percentage unclustered: 96.5932%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [1, 25, 31, 33]
+
+step 1
+index added: 39
+percentage unclustered: 96.3928%
+
+	step 2
+
+		step 3
+		candidate index: 39 with core nodes: [25, 31, 33, 39]
+			old information: 561, gain: 0.9529953917050691
+
+   ind                                             review  relevance
+0  31  bowling columbine overtly partisan expected de...   0.475852
+1  33  saw last half hour movie bravo network last we...   0.430383
+2  39  bowling soup michael moore really wanted name ...   0.395148
+3  37  obvious movie full lies although actually seen...   0.355655
+4  36  usual michael moore undercuts refusing accept ...   0.255808
+5  20  michael moore tells good story mind liberal fa...   0.205777
+6  12  deliberately misleading cunningly edited misre...   0.123960
+
+step 1
+index added: 40
+percentage unclustered: 96.3928%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 96.3928%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 96.3928%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 96.3928%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 96.3928%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 96.1924%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [25, 31, 33, 39]
+			old information: 980, gain: 0.9275683665927569
+
+   ind                                             review  relevance
+0  31  bowling columbine overtly partisan expected de...   0.475852
+1  33  saw last half hour movie bravo network last we...   0.430383
+2  45  film basically murder anti second amendment to...   0.407192
+3  39  bowling soup michael moore really wanted name ...   0.395148
+4  37  obvious movie full lies although actually seen...   0.355655
+5  36  usual michael moore undercuts refusing accept ...   0.255808
+6  20  michael moore tells good story mind liberal fa...   0.205777
+7  12  deliberately misleading cunningly edited misre...   0.123960
+
+step 1
+index added: 46
+percentage unclustered: 96.1924%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 96.1924%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 95.992%
+
+	step 2
+
+		step 3
+		candidate index: 48 with core nodes: [25, 31, 33, 39]
+
+step 1
+index added: 49
+percentage unclustered: 95.992%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 95.992%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 95.992%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 95.3908%
+
+	step 2
+
+		step 3
+		candidate index: 52 with core nodes: [25, 31, 33, 34, 39, 45]
+
+step 1
+index added: 53
+percentage unclustered: 94.78960000000001%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 94.78960000000001%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 95.1904%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 95.1904%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 94.99%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 94.99%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 94.99%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 94.99%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 94.78960000000001%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 94.78960000000001%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 94.78960000000001%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 94.78960000000001%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 94.78960000000001%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 94.78960000000001%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 94.78960000000001%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 94.78960000000001%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 94.78960000000001%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 94.78960000000001%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 94.78960000000001%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 94.78960000000001%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 94.78960000000001%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 94.78960000000001%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 94.78960000000001%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 93.988%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 93.988%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 93.3868%
+
+	step 2
+
+		step 3
+		candidate index: 78 with core nodes: [25, 31, 34, 45]
+
+step 1
+index added: 79
+percentage unclustered: 92.7856%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 92.7856%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 92.7856%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 92.1844%
+
+	step 2
+
+		step 3
+		candidate index: 82 with core nodes: [1, 31, 34, 82]
+			old information: 338, gain: 0.8930379746835443
+
+   ind                                             review  relevance
+0  82  bowling columbine charming witty interesting t...   0.486248
+1  31  bowling columbine overtly partisan expected de...   0.475852
+2  33  saw last half hour movie bravo network last we...   0.430383
+3  45  film basically murder anti second amendment to...   0.407192
+4  39  bowling soup michael moore really wanted name ...   0.395148
+5  37  obvious movie full lies although actually seen...   0.355655
+6  36  usual michael moore undercuts refusing accept ...   0.255808
+7  20  michael moore tells good story mind liberal fa...   0.205777
+8  12  deliberately misleading cunningly edited misre...   0.123960
+
+step 1
+index added: 83
+percentage unclustered: 91.984%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 91.984%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 91.7836%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 91.7836%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 91.7836%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 91.7836%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 91.7836%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 91.7836%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 91.5832%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 91.5832%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 91.5832%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 91.5832%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 91.5832%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 91.1824%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 91.1824%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 91.1824%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 90.5812%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 91.1824%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 91.1824%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 91.1824%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 91.1824%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 90.982%
+
+	step 2
+
+		step 3
+		candidate index: 104 with core nodes: [25, 31, 83]
+
+step 1
+index added: 105
+percentage unclustered: 90.3808%
+
+	step 2
+
+		step 3
+		candidate index: 105 with core nodes: [1, 31, 34, 93]
+
+step 1
+index added: 106
+percentage unclustered: 90.1804%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 89.98%
+
+	step 2
+
+		step 3
+		candidate index: 107 with core nodes: [1, 31, 93, 107]
+			old information: 2068, gain: 0.9649467760526137
+
+    ind                                             review  relevance
+0  107  many people tied politics michael moore fail r...   0.583503
+1   82  bowling columbine charming witty interesting t...   0.486248
+2   31  bowling columbine overtly partisan expected de...   0.475852
+3   33  saw last half hour movie bravo network last we...   0.430383
+4   45  film basically murder anti second amendment to...   0.407192
+5   39  bowling soup michael moore really wanted name ...   0.395148
+6   37  obvious movie full lies although actually seen...   0.355655
+7   36  usual michael moore undercuts refusing accept ...   0.255808
+8   20  michael moore tells good story mind liberal fa...   0.205777
+9   12  deliberately misleading cunningly edited misre...   0.123960
+
+step 1
+index added: 108
+percentage unclustered: 89.98%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 89.98%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 89.7796%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 89.5792%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 89.5792%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 89.5792%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 89.5792%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 89.5792%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 89.5792%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 89.5792%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 89.5792%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 89.5792%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 89.3788%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 89.3788%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 88.978%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 88.7776%
+
+	step 2
+
+		step 3
+		candidate index: 123 with core nodes: [1, 31, 93, 107]
+
+step 1
+index added: 124
+percentage unclustered: 88.7776%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 88.7776%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 88.5772%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 88.3768%
+
+	step 2
+
+		step 3
+		candidate index: 127 with core nodes: [1, 31, 93, 107, 127]
+			old information: 2185, gain: 0.9059000861326443
+
+     ind                                             review  relevance
+0   127  think moore asks good questions makes interest...   0.608590
+1   107  many people tied politics michael moore fail r...   0.583503
+2    82  bowling columbine charming witty interesting t...   0.486248
+3    31  bowling columbine overtly partisan expected de...   0.475852
+4    33  saw last half hour movie bravo network last we...   0.430383
+5    45  film basically murder anti second amendment to...   0.407192
+6    39  bowling soup michael moore really wanted name ...   0.395148
+7    37  obvious movie full lies although actually seen...   0.355655
+8    36  usual michael moore undercuts refusing accept ...   0.255808
+9    20  michael moore tells good story mind liberal fa...   0.205777
+10   12  deliberately misleading cunningly edited misre...   0.123960
+
+step 1
+index added: 128
+percentage unclustered: 87.7756%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 87.5752%
+
+	step 2
+
+step 1
+index added: 130
+percentage unclustered: 87.3747%
+
+	step 2
+
+step 1
+index added: 131
+percentage unclustered: 87.1743%
+
+	step 2
+
+step 1
+index added: 132
+percentage unclustered: 87.3747%
+
+	step 2
+
+step 1
+index added: 133
+percentage unclustered: 87.3747%
+
+	step 2
+
+step 1
+index added: 134
+percentage unclustered: 87.3747%
+
+	step 2
+
+step 1
+index added: 135
+percentage unclustered: 87.3747%
+
+	step 2
+
+step 1
+index added: 136
+percentage unclustered: 87.3747%
+
+	step 2
+
+step 1
+index added: 137
+percentage unclustered: 87.3747%
+
+	step 2
+
+step 1
+index added: 138
+percentage unclustered: 87.1743%
+
+	step 2
+
+step 1
+index added: 139
+percentage unclustered: 86.9739%
+
+	step 2
+
+step 1
+index added: 140
+percentage unclustered: 86.9739%
+
+	step 2
+
+step 1
+index added: 141
+percentage unclustered: 86.7735%
+
+	step 2
+
+step 1
+index added: 142
+percentage unclustered: 86.7735%
+
+	step 2
+
+step 1
+index added: 143
+percentage unclustered: 86.5731%
+
+	step 2
+
+		step 3
+		candidate index: 143 with core nodes: [1, 93, 107, 127]
+
+step 1
+index added: 144
+percentage unclustered: 86.5731%
+
+	step 2
+
+step 1
+index added: 145
+percentage unclustered: 86.3727%
+
+	step 2
+
+		step 3
+		candidate index: 145 with core nodes: [1, 93, 107, 127]
+
+step 1
+index added: 146
+percentage unclustered: 86.3727%
+
+	step 2
+
+step 1
+index added: 147
+percentage unclustered: 86.1723%
+
+	step 2
+
+step 1
+index added: 148
+percentage unclustered: 85.9719%
+
+	step 2
+
+step 1
+index added: 149
+percentage unclustered: 85.7715%
+
+	step 2
+
+		step 3
+		candidate index: 149 with core nodes: [1, 93, 107, 127]
+			old information: 589, gain: 0.8921245421245422
+
+     ind                                             review  relevance
+0   127  think moore asks good questions makes interest...   0.608590
+1   107  many people tied politics michael moore fail r...   0.583503
+2    82  bowling columbine charming witty interesting t...   0.486248
+3    31  bowling columbine overtly partisan expected de...   0.475852
+4   149  would consider republican seen film micheal mo...   0.444485
+5    33  saw last half hour movie bravo network last we...   0.430383
+6    45  film basically murder anti second amendment to...   0.407192
+7    39  bowling soup michael moore really wanted name ...   0.395148
+8    37  obvious movie full lies although actually seen...   0.355655
+9    36  usual michael moore undercuts refusing accept ...   0.255808
+10   20  michael moore tells good story mind liberal fa...   0.205777
+11   12  deliberately misleading cunningly edited misre...   0.123960
+
+step 1
+index added: 150
+percentage unclustered: 85.7715%
+
+	step 2
+
+step 1
+index added: 151
+percentage unclustered: 85.5711%
+
+	step 2
+
+		step 3
+		candidate index: 151 with core nodes: [1, 93, 107, 127]
+
+step 1
+index added: 152
+percentage unclustered: 85.3707%
+
+	step 2
+
+		step 3
+		candidate index: 152 with core nodes: [1, 93, 107, 127]
+
+step 1
+index added: 153
+percentage unclustered: 85.3707%
+
+	step 2
+
+step 1
+index added: 154
+percentage unclustered: 85.3707%
+
+	step 2
+
+		step 3
+		candidate index: 154 with core nodes: [1, 93, 107, 127]
+			old information: 955, gain: 0.9178706570347437
+
+     ind                                             review  relevance
+0   127  think moore asks good questions makes interest...   0.608590
+1   107  many people tied politics michael moore fail r...   0.583503
+2   154  belong nra support mission said found bowling ...   0.501270
+3    82  bowling columbine charming witty interesting t...   0.486248
+4    31  bowling columbine overtly partisan expected de...   0.475852
+5   149  would consider republican seen film micheal mo...   0.444485
+6    33  saw last half hour movie bravo network last we...   0.430383
+7    45  film basically murder anti second amendment to...   0.407192
+8    39  bowling soup michael moore really wanted name ...   0.395148
+9    37  obvious movie full lies although actually seen...   0.355655
+10   36  usual michael moore undercuts refusing accept ...   0.255808
+11   20  michael moore tells good story mind liberal fa...   0.205777
+12   12  deliberately misleading cunningly edited misre...   0.123960
+
+step 1
+index added: 155
+percentage unclustered: 85.3707%
+
+	step 2
+
+step 1
+index added: 156
+percentage unclustered: 85.3707%
+
+	step 2
+
+step 1
+index added: 157
+percentage unclustered: 85.3707%
+
+	step 2
+
+step 1
+index added: 158
+percentage unclustered: 85.3707%
+
+	step 2
+
+step 1
+index added: 159
+percentage unclustered: 84.7695%
+
+	step 2
+
+step 1
+index added: 160
+percentage unclustered: 84.5691%
+
+	step 2
+
+		step 3
+		candidate index: 160 with core nodes: [1, 93, 107, 127]
+
+step 1
+index added: 161
+percentage unclustered: 84.5691%
+
+	step 2
+
+step 1
+index added: 162
+percentage unclustered: 84.5691%
+
+	step 2
+
+step 1
+index added: 163
+percentage unclustered: 84.5691%
+
+	step 2
+
+step 1
+index added: 164
+percentage unclustered: 84.3687%
+
+	step 2
+
+step 1
+index added: 165
+percentage unclustered: 84.3687%
+
+	step 2
+
+step 1
+index added: 166
+percentage unclustered: 84.3687%
+
+	step 2
+
+step 1
+index added: 167
+percentage unclustered: 84.1683%
+
+	step 2
+
+		step 3
+		candidate index: 167 with core nodes: [1, 93, 107, 127]
+
+step 1
+index added: 168
+percentage unclustered: 83.9679%
+
+	step 2
+
+step 1
+index added: 169
+percentage unclustered: 84.3687%
+
+	step 2
+
+step 1
+index added: 170
+percentage unclustered: 84.1683%
+
+	step 2
+
+step 1
+index added: 171
+percentage unclustered: 85.1703%
+
+	step 2
+
+step 1
+index added: 172
+percentage unclustered: 85.1703%
+
+	step 2
+
+step 1
+index added: 173
+percentage unclustered: 84.9699%
+
+	step 2
+
+step 1
+index added: 174
+percentage unclustered: 84.9699%
+
+	step 2
+
+step 1
+index added: 175
+percentage unclustered: 84.9699%
+
+	step 2
+
+step 1
+index added: 176
+percentage unclustered: 84.9699%
+
+	step 2
+
+step 1
+index added: 177
+percentage unclustered: 84.9699%
+
+	step 2
+
+step 1
+index added: 178
+percentage unclustered: 84.9699%
+
+	step 2
+
+step 1
+index added: 179
+percentage unclustered: 84.7695%
+
+	step 2
+
+		step 3
+		candidate index: 179 with core nodes: [1, 93, 107, 127]
+			old information: 1744, gain: 0.955029524767283
+
+     ind                                             review  relevance
+0   127  think moore asks good questions makes interest...   0.608590
+1   107  many people tied politics michael moore fail r...   0.583503
+2   179  2002 outspoken filmmaker michael moore directe...   0.577977
+3   154  belong nra support mission said found bowling ...   0.501270
+4    82  bowling columbine charming witty interesting t...   0.486248
+5    31  bowling columbine overtly partisan expected de...   0.475852
+6   149  would consider republican seen film micheal mo...   0.444485
+7    33  saw last half hour movie bravo network last we...   0.430383
+8    45  film basically murder anti second amendment to...   0.407192
+9    39  bowling soup michael moore really wanted name ...   0.395148
+10   37  obvious movie full lies although actually seen...   0.355655
+11   36  usual michael moore undercuts refusing accept ...   0.255808
+12   20  michael moore tells good story mind liberal fa...   0.205777
+13   12  deliberately misleading cunningly edited misre...   0.123960
+
+step 1
+index added: 180
+percentage unclustered: 83.9679%
+
+	step 2
+
+step 1
+index added: 181
+percentage unclustered: 83.7675%
+
+	step 2
+
+step 1
+index added: 182
+percentage unclustered: 83.7675%
+
+	step 2
+
+step 1
+index added: 183
+percentage unclustered: 83.5671%
+
+	step 2
+
+step 1
+index added: 184
+percentage unclustered: 83.5671%
+
+	step 2
+
+step 1
+index added: 185
+percentage unclustered: 83.5671%
+
+	step 2
+
+step 1
+index added: 186
+percentage unclustered: 83.5671%
+
+	step 2
+
+step 1
+index added: 187
+percentage unclustered: 83.5671%
+
+	step 2
+
+step 1
+index added: 188
+percentage unclustered: 83.5671%
+
+	step 2
+
+step 1
+index added: 189
+percentage unclustered: 82.9659%
+
+	step 2
+
+step 1
+index added: 190
+percentage unclustered: 82.9659%
+
+	step 2
+
+step 1
+index added: 191
+percentage unclustered: 82.9659%
+
+	step 2
+
+step 1
+index added: 192
+percentage unclustered: 82.9659%
+
+	step 2
+
+step 1
+index added: 193
+percentage unclustered: 82.7655%
+
+	step 2
+
+step 1
+index added: 194
+percentage unclustered: 82.5651%
+
+	step 2
+
+step 1
+index added: 195
+percentage unclustered: 82.5651%
+
+	step 2
+
+step 1
+index added: 196
+percentage unclustered: 82.3647%
+
+	step 2
+
+step 1
+index added: 197
+percentage unclustered: 83.36670000000001%
+
+	step 2
+
+step 1
+index added: 198
+percentage unclustered: 82.7655%
+
+	step 2
+
+step 1
+index added: 199
+percentage unclustered: 82.5651%
+
+	step 2
+
+		step 3
+		candidate index: 199 with core nodes: [83, 179, 199]
+			old information: 3089, gain: 0.9454394517450897
+
+     ind                                             review  relevance
+0   127  think moore asks good questions makes interest...   0.608590
+1   199  well start tearing load garbage tough part man...   0.589569
+2   107  many people tied politics michael moore fail r...   0.583503
+3   179  2002 outspoken filmmaker michael moore directe...   0.577977
+4   154  belong nra support mission said found bowling ...   0.501270
+5    82  bowling columbine charming witty interesting t...   0.486248
+6    31  bowling columbine overtly partisan expected de...   0.475852
+7   149  would consider republican seen film micheal mo...   0.444485
+8    33  saw last half hour movie bravo network last we...   0.430383
+9    45  film basically murder anti second amendment to...   0.407192
+10   39  bowling soup michael moore really wanted name ...   0.395148
+11   37  obvious movie full lies although actually seen...   0.355655
+12   36  usual michael moore undercuts refusing accept ...   0.255808
+13   20  michael moore tells good story mind liberal fa...   0.205777
+14   12  deliberately misleading cunningly edited misre...   0.123960
+
+step 1
+index added: 200
+percentage unclustered: 82.5651%
+
+	step 2
+
+step 1
+index added: 201
+percentage unclustered: 82.3647%
+
+	step 2
+
+step 1
+index added: 202
+percentage unclustered: 82.1643%
+
+	step 2
+
+		step 3
+		candidate index: 202 with core nodes: [83, 179, 199]
+
+step 1
+index added: 203
+percentage unclustered: 81.7635%
+
+	step 2
+
+		step 3
+		candidate index: 203 with core nodes: [1, 93, 107, 127, 179, 203]
+			old information: 2639, gain: 0.9048323115759106
+
+     ind                                             review  relevance
+0   127  think moore asks good questions makes interest...   0.608590
+1   203  fascinating disturbing look gun violence unite...   0.607811
+2   199  well start tearing load garbage tough part man...   0.589569
+3   107  many people tied politics michael moore fail r...   0.583503
+4   179  2002 outspoken filmmaker michael moore directe...   0.577977
+5   154  belong nra support mission said found bowling ...   0.501270
+6    82  bowling columbine charming witty interesting t...   0.486248
+7    31  bowling columbine overtly partisan expected de...   0.475852
+8   149  would consider republican seen film micheal mo...   0.444485
+9    33  saw last half hour movie bravo network last we...   0.430383
+10   45  film basically murder anti second amendment to...   0.407192
+11   39  bowling soup michael moore really wanted name ...   0.395148
+12   37  obvious movie full lies although actually seen...   0.355655
+13   36  usual michael moore undercuts refusing accept ...   0.255808
+14   20  michael moore tells good story mind liberal fa...   0.205777
+15   12  deliberately misleading cunningly edited misre...   0.123960
+
+step 1
+index added: 204
+percentage unclustered: 81.9639%
+
+	step 2
+
+step 1
+index added: 205
+percentage unclustered: 81.7635%
+
+	step 2
+
+		step 3
+		candidate index: 205 with core nodes: [1, 93, 107, 127, 179, 203]
+
+step 1
+index added: 206
+percentage unclustered: 81.7635%
+
+	step 2
+
+step 1
+index added: 207
+percentage unclustered: 81.56309999999999%
+
+	step 2
+
+		step 3
+		candidate index: 207 with core nodes: [1, 93, 107, 127, 179, 203]
+
+step 1
+index added: 208
+percentage unclustered: 81.3627%
+
+	step 2
+
+step 1
+index added: 209
+percentage unclustered: 81.1623%
+
+	step 2
+
+		step 3
+		candidate index: 209 with core nodes: [179, 203, 209]
+			old information: 7988, gain: 0.9552500518198573
+
+     ind                                             review  relevance
+0   209  americans seemed politically polarized lifetim...   0.724773
+1   127  think moore asks good questions makes interest...   0.608590
+2   203  fascinating disturbing look gun violence unite...   0.607811
+3   199  well start tearing load garbage tough part man...   0.589569
+4   107  many people tied politics michael moore fail r...   0.583503
+5   179  2002 outspoken filmmaker michael moore directe...   0.577977
+6   154  belong nra support mission said found bowling ...   0.501270
+7    82  bowling columbine charming witty interesting t...   0.486248
+8    31  bowling columbine overtly partisan expected de...   0.475852
+9   149  would consider republican seen film micheal mo...   0.444485
+10   33  saw last half hour movie bravo network last we...   0.430383
+11   45  film basically murder anti second amendment to...   0.407192
+12   39  bowling soup michael moore really wanted name ...   0.395148
+13   37  obvious movie full lies although actually seen...   0.355655
+14   36  usual michael moore undercuts refusing accept ...   0.255808
+15   20  michael moore tells good story mind liberal fa...   0.205777
+16   12  deliberately misleading cunningly edited misre...   0.123960
+
+step 1
+index added: 210
+percentage unclustered: 81.1623%
+
+	step 2
+
+step 1
+index added: 211
+percentage unclustered: 81.1623%
+
+	step 2
+
+step 1
+index added: 212
+percentage unclustered: 80.9619%
+
+	step 2
+
+step 1
+index added: 213
+percentage unclustered: 80.9619%
+
+	step 2
+
+step 1
+index added: 214
+percentage unclustered: 80.9619%
+
+	step 2
+
+step 1
+index added: 215
+percentage unclustered: 80.7615%
+
+	step 2
+
+step 1
+index added: 216
+percentage unclustered: 80.7615%
+
+	step 2
+
+step 1
+index added: 217
+percentage unclustered: 80.7615%
+
+	step 2
+
+step 1
+index added: 218
+percentage unclustered: 80.7615%
+
+	step 2
+
+step 1
+index added: 219
+percentage unclustered: 80.5611%
+
+	step 2
+
+step 1
+index added: 220
+percentage unclustered: 80.36070000000001%
+
+	step 2
+
+step 1
+index added: 221
+percentage unclustered: 80.1603%
+
+	step 2
+
+step 1
+index added: 222
+percentage unclustered: 80.1603%
+
+	step 2
+
+step 1
+index added: 223
+percentage unclustered: 80.1603%
+
+	step 2
+
+step 1
+index added: 224
+percentage unclustered: 80.1603%
+
+	step 2
+
+step 1
+index added: 225
+percentage unclustered: 79.9599%
+
+	step 2
+
+step 1
+index added: 226
+percentage unclustered: 79.9599%
+
+	step 2
+
+step 1
+index added: 227
+percentage unclustered: 79.7595%
+
+	step 2
+
+step 1
+index added: 228
+percentage unclustered: 79.5591%
+
+	step 2
+
+step 1
+index added: 229
+percentage unclustered: 79.5591%
+
+	step 2
+
+step 1
+index added: 230
+percentage unclustered: 79.3587%
+
+	step 2
+
+		step 3
+		candidate index: 230 with core nodes: [179, 203, 209]
+
+step 1
+index added: 231
+percentage unclustered: 79.1583%
+
+	step 2
+
+step 1
+index added: 232
+percentage unclustered: 79.1583%
+
+	step 2
+
+step 1
+index added: 233
+percentage unclustered: 79.1583%
+
+	step 2
+
+step 1
+index added: 234
+percentage unclustered: 79.1583%
+
+	step 2
+
+step 1
+index added: 235
+percentage unclustered: 79.1583%
+
+	step 2
+
+step 1
+index added: 236
+percentage unclustered: 79.1583%
+
+	step 2
+
+step 1
+index added: 237
+percentage unclustered: 79.1583%
+
+	step 2
+
+step 1
+index added: 238
+percentage unclustered: 79.1583%
+
+	step 2
+
+step 1
+index added: 239
+percentage unclustered: 79.1583%
+
+	step 2
+
+step 1
+index added: 240
+percentage unclustered: 79.1583%
+
+	step 2
+
+step 1
+index added: 241
+percentage unclustered: 79.1583%
+
+	step 2
+
+step 1
+index added: 242
+percentage unclustered: 79.1583%
+
+	step 2
+
+step 1
+index added: 243
+percentage unclustered: 78.9579%
+
+	step 2
+
+step 1
+index added: 244
+percentage unclustered: 78.7575%
+
+	step 2
+
+		step 3
+		candidate index: 244 with core nodes: [179, 203, 209]
+
+step 1
+index added: 245
+percentage unclustered: 78.7575%
+
+	step 2
+
+step 1
+index added: 246
+percentage unclustered: 78.55709999999999%
+
+	step 2
+
+step 1
+index added: 247
+percentage unclustered: 78.3567%
+
+	step 2
+
+step 1
+index added: 248
+percentage unclustered: 78.1563%
+
+	step 2
+
+step 1
+index added: 249
+percentage unclustered: 77.9559%
+
+	step 2
+
+		step 3
+		candidate index: 249 with core nodes: [127, 179, 203, 209, 249]
+			old information: 1291, gain: 0.8334193548387097
+
+     ind                                             review  relevance
+0   209  americans seemed politically polarized lifetim...   0.724773
+1   249  bowling columbine excellent documentary michae...   0.629840
+2   127  think moore asks good questions makes interest...   0.608590
+3   203  fascinating disturbing look gun violence unite...   0.607811
+4   199  well start tearing load garbage tough part man...   0.589569
+5   107  many people tied politics michael moore fail r...   0.583503
+6   179  2002 outspoken filmmaker michael moore directe...   0.577977
+7   154  belong nra support mission said found bowling ...   0.501270
+8    82  bowling columbine charming witty interesting t...   0.486248
+9    31  bowling columbine overtly partisan expected de...   0.475852
+10  149  would consider republican seen film micheal mo...   0.444485
+11   33  saw last half hour movie bravo network last we...   0.430383
+12   45  film basically murder anti second amendment to...   0.407192
+13   39  bowling soup michael moore really wanted name ...   0.395148
+14   37  obvious movie full lies although actually seen...   0.355655
+15   36  usual michael moore undercuts refusing accept ...   0.255808
+16   20  michael moore tells good story mind liberal fa...   0.205777
+17   12  deliberately misleading cunningly edited misre...   0.123960
+
+step 1
+index added: 250
+percentage unclustered: 77.9559%
+
+	step 2
+
+step 1
+index added: 251
+percentage unclustered: 77.1543%
+
+	step 2
+
+step 1
+index added: 252
+percentage unclustered: 77.1543%
+
+	step 2
+
+step 1
+index added: 253
+percentage unclustered: 77.1543%
+
+	step 2
+
+step 1
+index added: 254
+percentage unclustered: 77.1543%
+
+	step 2
+
+step 1
+index added: 255
+percentage unclustered: 77.1543%
+
+	step 2
+
+step 1
+index added: 256
+percentage unclustered: 76.3527%
+
+	step 2
+
+step 1
+index added: 257
+percentage unclustered: 76.3527%
+
+	step 2
+
+step 1
+index added: 258
+percentage unclustered: 76.3527%
+
+	step 2
+
+step 1
+index added: 259
+percentage unclustered: 76.3527%
+
+	step 2
+
+step 1
+index added: 260
+percentage unclustered: 76.3527%
+
+	step 2
+
+step 1
+index added: 261
+percentage unclustered: 76.3527%
+
+	step 2
+
+step 1
+index added: 262
+percentage unclustered: 75.9519%
+
+	step 2
+
+step 1
+index added: 263
+percentage unclustered: 75.9519%
+
+	step 2
+
+step 1
+index added: 264
+percentage unclustered: 75.9519%
+
+	step 2
+
+step 1
+index added: 265
+percentage unclustered: 75.9519%
+
+	step 2
+
+step 1
+index added: 266
+percentage unclustered: 75.9519%
+
+	step 2
+
+step 1
+index added: 267
+percentage unclustered: 75.9519%
+
+	step 2
+
+step 1
+index added: 268
+percentage unclustered: 75.9519%
+
+	step 2
+
+step 1
+index added: 269
+percentage unclustered: 75.9519%
+
+	step 2
+
+step 1
+index added: 270
+percentage unclustered: 75.9519%
+
+	step 2
+
+step 1
+index added: 271
+percentage unclustered: 75.9519%
+
+	step 2
+
+step 1
+index added: 272
+percentage unclustered: 75.9519%
+
+	step 2
+
+step 1
+index added: 273
+percentage unclustered: 75.9519%
+
+	step 2
+
+step 1
+index added: 274
+percentage unclustered: 75.7515%
+
+	step 2
+
+step 1
+index added: 275
+percentage unclustered: 75.7515%
+
+	step 2
+
+step 1
+index added: 276
+percentage unclustered: 75.5511%
+
+	step 2
+
+step 1
+index added: 277
+percentage unclustered: 75.3507%
+
+	step 2
+
+step 1
+index added: 278
+percentage unclustered: 75.1503%
+
+	step 2
+
+step 1
+index added: 279
+percentage unclustered: 74.9499%
+
+	step 2
+
+step 1
+index added: 280
+percentage unclustered: 74.7495%
+
+	step 2
+
+step 1
+index added: 281
+percentage unclustered: 74.7495%
+
+	step 2
+
+step 1
+index added: 282
+percentage unclustered: 74.5491%
+
+	step 2
+
+step 1
+index added: 283
+percentage unclustered: 74.5491%
+
+	step 2
+
+step 1
+index added: 284
+percentage unclustered: 74.5491%
+
+	step 2
+
+step 1
+index added: 285
+percentage unclustered: 74.5491%
+
+	step 2
+
+step 1
+index added: 286
+percentage unclustered: 74.5491%
+
+	step 2
+
+step 1
+index added: 287
+percentage unclustered: 74.5491%
+
+	step 2
+
+step 1
+index added: 288
+percentage unclustered: 74.5491%
+
+	step 2
+
+step 1
+index added: 289
+percentage unclustered: 74.34870000000001%
+
+	step 2
+
+step 1
+index added: 290
+percentage unclustered: 74.34870000000001%
+
+	step 2
+
+step 1
+index added: 291
+percentage unclustered: 74.1483%
+
+	step 2
+
+step 1
+index added: 292
+percentage unclustered: 73.9479%
+
+	step 2
+
+step 1
+index added: 293
+percentage unclustered: 73.9479%
+
+	step 2
+
+step 1
+index added: 294
+percentage unclustered: 73.7475%
+
+	step 2
+
+step 1
+index added: 295
+percentage unclustered: 73.7475%
+
+	step 2
+
+step 1
+index added: 296
+percentage unclustered: 73.1463%
+
+	step 2
+
+step 1
+index added: 297
+percentage unclustered: 73.1463%
+
+	step 2
+
+step 1
+index added: 298
+percentage unclustered: 73.1463%
+
+	step 2
+
+step 1
+index added: 299
+percentage unclustered: 73.1463%
+
+	step 2
+
+step 1
+index added: 300
+percentage unclustered: 72.9459%
+
+	step 2
+
+		step 3
+		candidate index: 300 with core nodes: [179, 203, 209]
+
+step 1
+index added: 301
+percentage unclustered: 72.9459%
+
+	step 2
+
+step 1
+index added: 302
+percentage unclustered: 72.9459%
+
+	step 2
+
+step 1
+index added: 303
+percentage unclustered: 72.74549999999999%
+
+	step 2
+
+		step 3
+		candidate index: 303 with core nodes: [179, 203, 209]
+
+step 1
+index added: 304
+percentage unclustered: 72.5451%
+
+	step 2
+
+step 1
+index added: 305
+percentage unclustered: 72.5451%
+
+	step 2
+
+step 1
+index added: 306
+percentage unclustered: 72.5451%
+
+	step 2
+
+step 1
+index added: 307
+percentage unclustered: 72.5451%
+
+	step 2
+
+step 1
+index added: 308
+percentage unclustered: 72.3447%
+
+	step 2
+
+step 1
+index added: 309
+percentage unclustered: 72.1443%
+
+	step 2
+
+		step 3
+		candidate index: 309 with core nodes: [179, 203, 209]
+
+step 1
+index added: 310
+percentage unclustered: 72.1443%
+
+	step 2
+
+step 1
+index added: 311
+percentage unclustered: 72.1443%
+
+	step 2
+
+step 1
+index added: 312
+percentage unclustered: 72.1443%
+
+	step 2
+
+step 1
+index added: 313
+percentage unclustered: 72.74549999999999%
+
+	step 2
+
+step 1
+index added: 314
+percentage unclustered: 72.74549999999999%
+
+	step 2
+
+step 1
+index added: 315
+percentage unclustered: 72.5451%
+
+	step 2
+
+		step 3
+		candidate index: 315 with core nodes: [179, 203, 209]
+
+step 1
+index added: 316
+percentage unclustered: 72.3447%
+
+	step 2
+
+		step 3
+		candidate index: 316 with core nodes: [127, 209, 316]
+			old information: 2476, gain: 0.8392207792207792
+
+     ind                                             review  relevance
+0   209  americans seemed politically polarized lifetim...   0.724773
+1   316  ultimately michael moore fails answer question...   0.673012
+2   249  bowling columbine excellent documentary michae...   0.629840
+3   127  think moore asks good questions makes interest...   0.608590
+4   203  fascinating disturbing look gun violence unite...   0.607811
+5   199  well start tearing load garbage tough part man...   0.589569
+6   107  many people tied politics michael moore fail r...   0.583503
+7   179  2002 outspoken filmmaker michael moore directe...   0.577977
+8   154  belong nra support mission said found bowling ...   0.501270
+9    82  bowling columbine charming witty interesting t...   0.486248
+10   31  bowling columbine overtly partisan expected de...   0.475852
+11  149  would consider republican seen film micheal mo...   0.444485
+12   33  saw last half hour movie bravo network last we...   0.430383
+13   45  film basically murder anti second amendment to...   0.407192
+14   39  bowling soup michael moore really wanted name ...   0.395148
+15   37  obvious movie full lies although actually seen...   0.355655
+16   36  usual michael moore undercuts refusing accept ...   0.255808
+17   20  michael moore tells good story mind liberal fa...   0.205777
+18   12  deliberately misleading cunningly edited misre...   0.123960
+
+step 1
+index added: 317
+percentage unclustered: 72.3447%
+
+	step 2
+
+step 1
+index added: 318
+percentage unclustered: 72.3447%
+
+	step 2
+
+step 1
+index added: 319
+percentage unclustered: 72.3447%
+
+	step 2
+
+step 1
+index added: 320
+percentage unclustered: 72.3447%
+
+	step 2
+
+step 1
+index added: 321
+percentage unclustered: 72.1443%
+
+	step 2
+
+step 1
+index added: 322
+percentage unclustered: 72.1443%
+
+	step 2
+
+step 1
+index added: 323
+percentage unclustered: 72.1443%
+
+	step 2
+
+step 1
+index added: 324
+percentage unclustered: 71.9439%
+
+	step 2
+
+		step 3
+		candidate index: 324 with core nodes: [127, 209, 316]
+
+step 1
+index added: 325
+percentage unclustered: 71.7435%
+
+	step 2
+
+step 1
+index added: 326
+percentage unclustered: 71.7435%
+
+	step 2
+
+step 1
+index added: 327
+percentage unclustered: 70.1403%
+
+	step 2
+
+		step 3
+		candidate index: 327 with core nodes: [127, 209, 316]
+
+step 1
+index added: 328
+percentage unclustered: 70.1403%
+
+	step 2
+
+step 1
+index added: 329
+percentage unclustered: 69.5391%
+
+	step 2
+
+		step 3
+		candidate index: 329 with core nodes: [127, 209, 316, 329]
+			old information: 11355, gain: 0.8995577178239716
+
+     ind                                             review  relevance
+0   209  americans seemed politically polarized lifetim...   0.724773
+1   329  reviewing bowling columbine difficult objectiv...   0.682265
+2   316  ultimately michael moore fails answer question...   0.673012
+3   249  bowling columbine excellent documentary michae...   0.629840
+4   127  think moore asks good questions makes interest...   0.608590
+5   203  fascinating disturbing look gun violence unite...   0.607811
+6   199  well start tearing load garbage tough part man...   0.589569
+7   107  many people tied politics michael moore fail r...   0.583503
+8   179  2002 outspoken filmmaker michael moore directe...   0.577977
+9   154  belong nra support mission said found bowling ...   0.501270
+10   82  bowling columbine charming witty interesting t...   0.486248
+11   31  bowling columbine overtly partisan expected de...   0.475852
+12  149  would consider republican seen film micheal mo...   0.444485
+13   33  saw last half hour movie bravo network last we...   0.430383
+14   45  film basically murder anti second amendment to...   0.407192
+15   39  bowling soup michael moore really wanted name ...   0.395148
+16   37  obvious movie full lies although actually seen...   0.355655
+17   36  usual michael moore undercuts refusing accept ...   0.255808
+18   20  michael moore tells good story mind liberal fa...   0.205777
+19   12  deliberately misleading cunningly edited misre...   0.123960
+
+step 1
+index added: 330
+percentage unclustered: 69.3387%
+
+	step 2
+
+		step 3
+		candidate index: 330 with core nodes: [127, 209, 316, 329]
+
+step 1
+index added: 331
+percentage unclustered: 69.1383%
+
+	step 2
+
+step 1
+index added: 332
+percentage unclustered: 68.9379%
+
+	step 2
+
+step 1
+index added: 333
+percentage unclustered: 68.9379%
+
+	step 2
+
+step 1
+index added: 334
+percentage unclustered: 68.9379%
+
+	step 2
+
+step 1
+index added: 335
+percentage unclustered: 68.9379%
+
+	step 2
+
+step 1
+index added: 336
+percentage unclustered: 68.9379%
+
+	step 2
+
+step 1
+index added: 337
+percentage unclustered: 68.7375%
+
+	step 2
+
+step 1
+index added: 338
+percentage unclustered: 68.7375%
+
+	step 2
+
+step 1
+index added: 339
+percentage unclustered: 68.7375%
+
+	step 2
+
+step 1
+index added: 340
+percentage unclustered: 68.7375%
+
+	step 2
+
+step 1
+index added: 341
+percentage unclustered: 68.7375%
+
+	step 2
+
+step 1
+index added: 342
+percentage unclustered: 68.5371%
+
+	step 2
+
+		step 3
+		candidate index: 342 with core nodes: [148, 201, 293, 342]
+			old information: 676, gain: 0.7032484635645303
+
+     ind                                             review  relevance
+0   209  americans seemed politically polarized lifetim...   0.724773
+1   329  reviewing bowling columbine difficult objectiv...   0.682265
+2   316  ultimately michael moore fails answer question...   0.673012
+3   249  bowling columbine excellent documentary michae...   0.629840
+4   127  think moore asks good questions makes interest...   0.608590
+5   203  fascinating disturbing look gun violence unite...   0.607811
+6   199  well start tearing load garbage tough part man...   0.589569
+7   107  many people tied politics michael moore fail r...   0.583503
+8   179  2002 outspoken filmmaker michael moore directe...   0.577977
+9   342  think interesting people see movie come saying...   0.546834
+10  154  belong nra support mission said found bowling ...   0.501270
+11   82  bowling columbine charming witty interesting t...   0.486248
+12   31  bowling columbine overtly partisan expected de...   0.475852
+13  149  would consider republican seen film micheal mo...   0.444485
+14   33  saw last half hour movie bravo network last we...   0.430383
+15   45  film basically murder anti second amendment to...   0.407192
+16   39  bowling soup michael moore really wanted name ...   0.395148
+17   37  obvious movie full lies although actually seen...   0.355655
+18   36  usual michael moore undercuts refusing accept ...   0.255808
+19   20  michael moore tells good story mind liberal fa...   0.205777
+20   12  deliberately misleading cunningly edited misre...   0.123960
+
+step 1
+index added: 343
+percentage unclustered: 68.33670000000001%
+
+	step 2
+
+		step 3
+		candidate index: 343 with core nodes: [127, 209, 316, 329]
+
+step 1
+index added: 344
+percentage unclustered: 68.33670000000001%
+
+	step 2
+
+step 1
+index added: 345
+percentage unclustered: 68.33670000000001%
+
+	step 2
+
+step 1
+index added: 346
+percentage unclustered: 67.7355%
+
+	step 2
+
+step 1
+index added: 347
+percentage unclustered: 67.7355%
+
+	step 2
+
+step 1
+index added: 348
+percentage unclustered: 67.5351%
+
+	step 2
+
+step 1
+index added: 349
+percentage unclustered: 67.5351%
+
+	step 2
+
+step 1
+index added: 350
+percentage unclustered: 67.5351%
+
+	step 2
+
+step 1
+index added: 351
+percentage unclustered: 67.5351%
+
+	step 2
+
+step 1
+index added: 352
+percentage unclustered: 67.5351%
+
+	step 2
+
+step 1
+index added: 353
+percentage unclustered: 67.5351%
+
+	step 2
+
+step 1
+index added: 354
+percentage unclustered: 66.53309999999999%
+
+	step 2
+
+step 1
+index added: 355
+percentage unclustered: 66.53309999999999%
+
+	step 2
+
+step 1
+index added: 356
+percentage unclustered: 66.53309999999999%
+
+	step 2
+
+step 1
+index added: 357
+percentage unclustered: 66.3327%
+
+	step 2
+
+		step 3
+		candidate index: 357 with core nodes: [127, 209, 316, 329]
+
+step 1
+index added: 358
+percentage unclustered: 66.3327%
+
+	step 2
+
+step 1
+index added: 359
+percentage unclustered: 66.3327%
+
+	step 2
+
+step 1
+index added: 360
+percentage unclustered: 66.1323%
+
+	step 2
+
+		step 3
+		candidate index: 360 with core nodes: [127, 209, 316, 329]
+
+step 1
+index added: 361
+percentage unclustered: 65.9319%
+
+	step 2
+
+step 1
+index added: 362
+percentage unclustered: 65.9319%
+
+	step 2
+
+step 1
+index added: 363
+percentage unclustered: 65.7315%
+
+	step 2
+
+		step 3
+		candidate index: 363 with core nodes: [127, 209, 316, 329]
+
+step 1
+index added: 364
+percentage unclustered: 65.7315%
+
+	step 2
+
+step 1
+index added: 365
+percentage unclustered: 65.53110000000001%
+
+	step 2
+
+step 1
+index added: 366
+percentage unclustered: 65.33070000000001%
+
+	step 2
+
+step 1
+index added: 367
+percentage unclustered: 65.33070000000001%
+
+	step 2
+
+step 1
+index added: 368
+percentage unclustered: 65.33070000000001%
+
+	step 2
+
+step 1
+index added: 369
+percentage unclustered: 65.33070000000001%
+
+	step 2
+
+step 1
+index added: 370
+percentage unclustered: 64.7295%
+
+	step 2
+
+		step 3
+		candidate index: 370 with core nodes: [148, 293, 342, 370]
+			old information: 957, gain: 0.8613646240764885
+
+     ind                                             review  relevance
+0   209  americans seemed politically polarized lifetim...   0.724773
+1   329  reviewing bowling columbine difficult objectiv...   0.682265
+2   316  ultimately michael moore fails answer question...   0.673012
+3   249  bowling columbine excellent documentary michae...   0.629840
+4   127  think moore asks good questions makes interest...   0.608590
+5   203  fascinating disturbing look gun violence unite...   0.607811
+6   199  well start tearing load garbage tough part man...   0.589569
+7   107  many people tied politics michael moore fail r...   0.583503
+8   179  2002 outspoken filmmaker michael moore directe...   0.577977
+9   342  think interesting people see movie come saying...   0.546834
+10  154  belong nra support mission said found bowling ...   0.501270
+11   82  bowling columbine charming witty interesting t...   0.486248
+12   31  bowling columbine overtly partisan expected de...   0.475852
+13  149  would consider republican seen film micheal mo...   0.444485
+14   33  saw last half hour movie bravo network last we...   0.430383
+15   45  film basically murder anti second amendment to...   0.407192
+16   39  bowling soup michael moore really wanted name ...   0.395148
+17   37  obvious movie full lies although actually seen...   0.355655
+18   36  usual michael moore undercuts refusing accept ...   0.255808
+19  370  highest recommendations despite transparent ca...   0.233552
+20   20  michael moore tells good story mind liberal fa...   0.205777
+21   12  deliberately misleading cunningly edited misre...   0.123960
+
+step 1
+index added: 371
+percentage unclustered: 64.7295%
+
+	step 2
+
+step 1
+index added: 372
+percentage unclustered: 64.7295%
+
+	step 2
+
+step 1
+index added: 373
+percentage unclustered: 64.5291%
+
+	step 2
+
+step 1
+index added: 374
+percentage unclustered: 64.5291%
+
+	step 2
+
+step 1
+index added: 375
+percentage unclustered: 64.5291%
+
+	step 2
+
+step 1
+index added: 376
+percentage unclustered: 63.9279%
+
+	step 2
+
+		step 3
+		candidate index: 376 with core nodes: [148, 293, 342, 370]
+			old information: 5243, gain: 0.8140977910151402
+
+     ind                                             review  relevance
+0   209  americans seemed politically polarized lifetim...   0.724773
+1   329  reviewing bowling columbine difficult objectiv...   0.682265
+2   316  ultimately michael moore fails answer question...   0.673012
+3   249  bowling columbine excellent documentary michae...   0.629840
+4   127  think moore asks good questions makes interest...   0.608590
+5   203  fascinating disturbing look gun violence unite...   0.607811
+6   199  well start tearing load garbage tough part man...   0.589569
+7   107  many people tied politics michael moore fail r...   0.583503
+8   179  2002 outspoken filmmaker michael moore directe...   0.577977
+9   342  think interesting people see movie come saying...   0.546834
+10  154  belong nra support mission said found bowling ...   0.501270
+11  376  first documentary ever seen blown away movie m...   0.497609
+12   82  bowling columbine charming witty interesting t...   0.486248
+13   31  bowling columbine overtly partisan expected de...   0.475852
+14  149  would consider republican seen film micheal mo...   0.444485
+15   33  saw last half hour movie bravo network last we...   0.430383
+16   45  film basically murder anti second amendment to...   0.407192
+17   39  bowling soup michael moore really wanted name ...   0.395148
+18   37  obvious movie full lies although actually seen...   0.355655
+19   36  usual michael moore undercuts refusing accept ...   0.255808
+20  370  highest recommendations despite transparent ca...   0.233552
+21   20  michael moore tells good story mind liberal fa...   0.205777
+22   12  deliberately misleading cunningly edited misre...   0.123960
+
+step 1
+index added: 377
+percentage unclustered: 63.9279%
+
+	step 2
+
+step 1
+index added: 378
+percentage unclustered: 63.9279%
+
+	step 2
+
+step 1
+index added: 379
+percentage unclustered: 63.9279%
+
+	step 2
+
+step 1
+index added: 380
+percentage unclustered: 63.7275%
+
+	step 2
+
+step 1
+index added: 381
+percentage unclustered: 63.7275%
+
+	step 2
+
+step 1
+index added: 382
+percentage unclustered: 63.7275%
+
+	step 2
+
+step 1
+index added: 383
+percentage unclustered: 63.7275%
+
+	step 2
+
+step 1
+index added: 384
+percentage unclustered: 63.5271%
+
+	step 2
+
+		step 3
+		candidate index: 384 with core nodes: [127, 209, 316, 329]
+
+step 1
+index added: 385
+percentage unclustered: 63.5271%
+
+	step 2
+
+step 1
+index added: 386
+percentage unclustered: 63.5271%
+
+	step 2
+
+step 1
+index added: 387
+percentage unclustered: 63.5271%
+
+	step 2
+
+step 1
+index added: 388
+percentage unclustered: 63.3267%
+
+	step 2
+
+		step 3
+		candidate index: 388 with core nodes: [209, 316, 329, 388]
+			old information: 11263, gain: 0.9228931334291778
+
+     ind                                             review  relevance
+0   209  americans seemed politically polarized lifetim...   0.724773
+1   388  full disclosure ca stand michael moore politic...   0.687616
+2   329  reviewing bowling columbine difficult objectiv...   0.682265
+3   316  ultimately michael moore fails answer question...   0.673012
+4   249  bowling columbine excellent documentary michae...   0.629840
+5   127  think moore asks good questions makes interest...   0.608590
+6   203  fascinating disturbing look gun violence unite...   0.607811
+7   199  well start tearing load garbage tough part man...   0.589569
+8   107  many people tied politics michael moore fail r...   0.583503
+9   179  2002 outspoken filmmaker michael moore directe...   0.577977
+10  342  think interesting people see movie come saying...   0.546834
+11  154  belong nra support mission said found bowling ...   0.501270
+12  376  first documentary ever seen blown away movie m...   0.497609
+13   82  bowling columbine charming witty interesting t...   0.486248
+14   31  bowling columbine overtly partisan expected de...   0.475852
+15  149  would consider republican seen film micheal mo...   0.444485
+16   33  saw last half hour movie bravo network last we...   0.430383
+17   45  film basically murder anti second amendment to...   0.407192
+18   39  bowling soup michael moore really wanted name ...   0.395148
+19   37  obvious movie full lies although actually seen...   0.355655
+20   36  usual michael moore undercuts refusing accept ...   0.255808
+21  370  highest recommendations despite transparent ca...   0.233552
+22   20  michael moore tells good story mind liberal fa...   0.205777
+23   12  deliberately misleading cunningly edited misre...   0.123960
+
+step 1
+index added: 389
+percentage unclustered: 63.3267%
+
+	step 2
+
+step 1
+index added: 390
+percentage unclustered: 63.1263%
+
+	step 2
+
+step 1
+index added: 391
+percentage unclustered: 62.9259%
+
+	step 2
+
+step 1
+index added: 392
+percentage unclustered: 62.9259%
+
+	step 2
+
+step 1
+index added: 393
+percentage unclustered: 62.9259%
+
+	step 2
+
+step 1
+index added: 394
+percentage unclustered: 63.3267%
+
+	step 2
+
+step 1
+index added: 395
+percentage unclustered: 63.3267%
+
+	step 2
+
+step 1
+index added: 396
+percentage unclustered: 63.3267%
+
+	step 2
+
+step 1
+index added: 397
+percentage unclustered: 63.1263%
+
+	step 2
+
+step 1
+index added: 398
+percentage unclustered: 63.3267%
+
+	step 2
+
+step 1
+index added: 399
+percentage unclustered: 63.3267%
+
+	step 2
+
+step 1
+index added: 400
+percentage unclustered: 63.3267%
+
+	step 2
+
+step 1
+index added: 401
+percentage unclustered: 63.3267%
+
+	step 2
+
+step 1
+index added: 402
+percentage unclustered: 63.3267%
+
+	step 2
+
+step 1
+index added: 403
+percentage unclustered: 63.3267%
+
+	step 2
+
+step 1
+index added: 404
+percentage unclustered: 63.3267%
+
+	step 2
+
+step 1
+index added: 405
+percentage unclustered: 63.3267%
+
+	step 2
+
+step 1
+index added: 406
+percentage unclustered: 63.3267%
+
+	step 2
+
+step 1
+index added: 407
+percentage unclustered: 63.3267%
+
+	step 2
+
+step 1
+index added: 408
+percentage unclustered: 63.1263%
+
+	step 2
+
+		step 3
+		candidate index: 408 with core nodes: [148, 293, 342, 370, 408]
+			old information: 2581, gain: 0.7720971302428256
+
+     ind                                             review  relevance
+0   209  americans seemed politically polarized lifetim...   0.724773
+1   388  full disclosure ca stand michael moore politic...   0.687616
+2   329  reviewing bowling columbine difficult objectiv...   0.682265
+3   316  ultimately michael moore fails answer question...   0.673012
+4   249  bowling columbine excellent documentary michae...   0.629840
+5   127  think moore asks good questions makes interest...   0.608590
+6   203  fascinating disturbing look gun violence unite...   0.607811
+7   199  well start tearing load garbage tough part man...   0.589569
+8   107  many people tied politics michael moore fail r...   0.583503
+9   179  2002 outspoken filmmaker michael moore directe...   0.577977
+10  342  think interesting people see movie come saying...   0.546834
+11  154  belong nra support mission said found bowling ...   0.501270
+12  376  first documentary ever seen blown away movie m...   0.497609
+13   82  bowling columbine charming witty interesting t...   0.486248
+14   31  bowling columbine overtly partisan expected de...   0.475852
+15  149  would consider republican seen film micheal mo...   0.444485
+16  408  easy enough watch movie say liberal attempt di...   0.439098
+17   33  saw last half hour movie bravo network last we...   0.430383
+18   45  film basically murder anti second amendment to...   0.407192
+19   39  bowling soup michael moore really wanted name ...   0.395148
+20   37  obvious movie full lies although actually seen...   0.355655
+21   36  usual michael moore undercuts refusing accept ...   0.255808
+22  370  highest recommendations despite transparent ca...   0.233552
+23   20  michael moore tells good story mind liberal fa...   0.205777
+24   12  deliberately misleading cunningly edited misre...   0.123960
+
+step 1
+index added: 409
+percentage unclustered: 63.1263%
+
+	step 2
+
+step 1
+index added: 410
+percentage unclustered: 63.1263%
+
+	step 2
+
+step 1
+index added: 411
+percentage unclustered: 63.1263%
+
+	step 2
+
+step 1
+index added: 412
+percentage unclustered: 63.1263%
+
+	step 2
+
+step 1
+index added: 413
+percentage unclustered: 62.9259%
+
+	step 2
+
+		step 3
+		candidate index: 413 with core nodes: [209, 316, 329, 388]
+
+step 1
+index added: 414
+percentage unclustered: 62.3246%
+
+	step 2
+
+step 1
+index added: 415
+percentage unclustered: 61.7234%
+
+	step 2
+
+		step 3
+		candidate index: 415 with core nodes: [209, 316, 329, 388]
+
+step 1
+index added: 416
+percentage unclustered: 62.7255%
+
+	step 2
+
+step 1
+index added: 417
+percentage unclustered: 62.7255%
+
+	step 2
+
+step 1
+index added: 418
+percentage unclustered: 62.7255%
+
+	step 2
+
+step 1
+index added: 419
+percentage unclustered: 62.1242%
+
+	step 2
+
+		step 3
+		candidate index: 419 with core nodes: [148, 293, 342, 370, 408]
+
+step 1
+index added: 420
+percentage unclustered: 62.1242%
+
+	step 2
+
+step 1
+index added: 421
+percentage unclustered: 62.1242%
+
+	step 2
+
+step 1
+index added: 422
+percentage unclustered: 61.9238%
+
+	step 2
+
+step 1
+index added: 423
+percentage unclustered: 61.9238%
+
+	step 2
+
+step 1
+index added: 424
+percentage unclustered: 61.7234%
+
+	step 2
+
+step 1
+index added: 425
+percentage unclustered: 61.7234%
+
+	step 2
+
+step 1
+index added: 426
+percentage unclustered: 61.523%
+
+	step 2
+
+step 1
+index added: 427
+percentage unclustered: 61.3226%
+
+	step 2
+
+		step 3
+		candidate index: 427 with core nodes: [148, 293, 342, 370, 408]
+
+step 1
+index added: 428
+percentage unclustered: 61.1222%
+
+	step 2
+
+		step 3
+		candidate index: 428 with core nodes: [148, 293, 342, 370, 408]
+
+step 1
+index added: 429
+percentage unclustered: 61.1222%
+
+	step 2
+
+step 1
+index added: 430
+percentage unclustered: 61.1222%
+
+	step 2
+
+step 1
+index added: 431
+percentage unclustered: 60.9218%
+
+	step 2
+
+		step 3
+		candidate index: 431 with core nodes: [70, 419, 431]
+			old information: 1510, gain: 0.706853038245001
+
+     ind                                             review  relevance
+0   209  americans seemed politically polarized lifetim...   0.724773
+1   388  full disclosure ca stand michael moore politic...   0.687616
+2   329  reviewing bowling columbine difficult objectiv...   0.682265
+3   316  ultimately michael moore fails answer question...   0.673012
+4   249  bowling columbine excellent documentary michae...   0.629840
+5   127  think moore asks good questions makes interest...   0.608590
+6   203  fascinating disturbing look gun violence unite...   0.607811
+7   199  well start tearing load garbage tough part man...   0.589569
+8   107  many people tied politics michael moore fail r...   0.583503
+9   179  2002 outspoken filmmaker michael moore directe...   0.577977
+10  342  think interesting people see movie come saying...   0.546834
+11  154  belong nra support mission said found bowling ...   0.501270
+12  376  first documentary ever seen blown away movie m...   0.497609
+13   82  bowling columbine charming witty interesting t...   0.486248
+14   31  bowling columbine overtly partisan expected de...   0.475852
+15  149  would consider republican seen film micheal mo...   0.444485
+16  408  easy enough watch movie say liberal attempt di...   0.439098
+17  431  surprised fo r going pay money see documentary...   0.436391
+18   33  saw last half hour movie bravo network last we...   0.430383
+19   45  film basically murder anti second amendment to...   0.407192
+20   39  bowling soup michael moore really wanted name ...   0.395148
+21   37  obvious movie full lies although actually seen...   0.355655
+22   36  usual michael moore undercuts refusing accept ...   0.255808
+23  370  highest recommendations despite transparent ca...   0.233552
+24   20  michael moore tells good story mind liberal fa...   0.205777
+25   12  deliberately misleading cunningly edited misre...   0.123960
+
+step 1
+index added: 432
+percentage unclustered: 60.9218%
+
+	step 2
+
+step 1
+index added: 433
+percentage unclustered: 60.9218%
+
+	step 2
+
+step 1
+index added: 434
+percentage unclustered: 60.7214%
+
+	step 2
+
+step 1
+index added: 435
+percentage unclustered: 60.7214%
+
+	step 2
+
+step 1
+index added: 436
+percentage unclustered: 60.521%
+
+	step 2
+
+step 1
+index added: 437
+percentage unclustered: 60.3206%
+
+	step 2
+
+step 1
+index added: 438
+percentage unclustered: 60.3206%
+
+	step 2
+
+step 1
+index added: 439
+percentage unclustered: 60.3206%
+
+	step 2
+
+step 1
+index added: 440
+percentage unclustered: 60.3206%
+
+	step 2
+
+step 1
+index added: 441
+percentage unclustered: 60.3206%
+
+	step 2
+
+step 1
+index added: 442
+percentage unclustered: 60.9218%
+
+	step 2
+
+step 1
+index added: 443
+percentage unclustered: 60.7214%
+
+	step 2
+
+step 1
+index added: 444
+percentage unclustered: 60.521%
+
+	step 2
+
+		step 3
+		candidate index: 444 with core nodes: [209, 316, 329, 388]
+
+step 1
+index added: 445
+percentage unclustered: 59.7194%
+
+	step 2
+
+step 1
+index added: 446
+percentage unclustered: 59.7194%
+
+	step 2
+
+step 1
+index added: 447
+percentage unclustered: 59.7194%
+
+	step 2
+
+		step 3
+		candidate index: 447 with core nodes: [129, 148, 293, 342, 370, 376, 408]
+
+step 1
+index added: 448
+percentage unclustered: 59.7194%
+
+	step 2
+
+step 1
+index added: 449
+percentage unclustered: 59.519%
+
+	step 2
+
+		step 3
+		candidate index: 449 with core nodes: [129, 148, 293, 342, 370, 376, 408]
+
+step 1
+index added: 450
+percentage unclustered: 59.3186%
+
+	step 2
+
+step 1
+index added: 451
+percentage unclustered: 59.1182%
+
+	step 2
+
+		step 3
+		candidate index: 451 with core nodes: [129, 148, 293, 342, 370, 376, 408]
+
+step 1
+index added: 452
+percentage unclustered: 58.9178%
+
+	step 2
+
+step 1
+index added: 453
+percentage unclustered: 58.9178%
+
+	step 2
+
+step 1
+index added: 454
+percentage unclustered: 58.9178%
+
+	step 2
+
+step 1
+index added: 455
+percentage unclustered: 58.1162%
+
+	step 2
+
+step 1
+index added: 456
+percentage unclustered: 58.1162%
+
+	step 2
+
+step 1
+index added: 457
+percentage unclustered: 58.1162%
+
+	step 2
+
+step 1
+index added: 458
+percentage unclustered: 57.9158%
+
+	step 2
+
+step 1
+index added: 459
+percentage unclustered: 57.7154%
+
+	step 2
+
+step 1
+index added: 460
+percentage unclustered: 57.7154%
+
+	step 2
+
+step 1
+index added: 461
+percentage unclustered: 57.7154%
+
+	step 2
+
+step 1
+index added: 462
+percentage unclustered: 57.7154%
+
+	step 2
+
+step 1
+index added: 463
+percentage unclustered: 57.1142%
+
+	step 2
+
+step 1
+index added: 464
+percentage unclustered: 57.3146%
+
+	step 2
+
+step 1
+index added: 465
+percentage unclustered: 57.515%
+
+	step 2
+
+		step 3
+		candidate index: 465 with core nodes: [209, 316, 329, 388]
+
+step 1
+index added: 466
+percentage unclustered: 57.515%
+
+	step 2
+
+step 1
+index added: 467
+percentage unclustered: 57.3146%
+
+	step 2
+
+step 1
+index added: 468
+percentage unclustered: 57.1142%
+
+	step 2
+
+		step 3
+		candidate index: 468 with core nodes: [209, 316, 329, 388]
+
+step 1
+index added: 469
+percentage unclustered: 57.1142%
+
+	step 2
+
+step 1
+index added: 470
+percentage unclustered: 57.1142%
+
+	step 2
+
+step 1
+index added: 471
+percentage unclustered: 56.9138%
+
+	step 2
+
+step 1
+index added: 472
+percentage unclustered: 56.7134%
+
+	step 2
+
+step 1
+index added: 473
+percentage unclustered: 56.513%
+
+	step 2
+
+step 1
+index added: 474
+percentage unclustered: 56.3126%
+
+	step 2
+
+step 1
+index added: 475
+percentage unclustered: 56.3126%
+
+	step 2
+
+step 1
+index added: 476
+percentage unclustered: 56.1122%
+
+	step 2
+
+		step 3
+		candidate index: 476 with core nodes: [209, 316, 329, 388]
+			old information: 8058, gain: 0.843107476635514
+
+     ind                                             review  relevance
+0   209  americans seemed politically polarized lifetim...   0.724773
+1   388  full disclosure ca stand michael moore politic...   0.687616
+2   329  reviewing bowling columbine difficult objectiv...   0.682265
+3   316  ultimately michael moore fails answer question...   0.673012
+4   249  bowling columbine excellent documentary michae...   0.629840
+5   476  michael moore certainly knows put together ent...   0.625024
+6   127  think moore asks good questions makes interest...   0.608590
+7   203  fascinating disturbing look gun violence unite...   0.607811
+8   199  well start tearing load garbage tough part man...   0.589569
+9   107  many people tied politics michael moore fail r...   0.583503
+10  179  2002 outspoken filmmaker michael moore directe...   0.577977
+11  342  think interesting people see movie come saying...   0.546834
+12  154  belong nra support mission said found bowling ...   0.501270
+13  376  first documentary ever seen blown away movie m...   0.497609
+14   82  bowling columbine charming witty interesting t...   0.486248
+15   31  bowling columbine overtly partisan expected de...   0.475852
+16  149  would consider republican seen film micheal mo...   0.444485
+17  408  easy enough watch movie say liberal attempt di...   0.439098
+18  431  surprised fo r going pay money see documentary...   0.436391
+19   33  saw last half hour movie bravo network last we...   0.430383
+20   45  film basically murder anti second amendment to...   0.407192
+21   39  bowling soup michael moore really wanted name ...   0.395148
+22   37  obvious movie full lies although actually seen...   0.355655
+23   36  usual michael moore undercuts refusing accept ...   0.255808
+24  370  highest recommendations despite transparent ca...   0.233552
+25   20  michael moore tells good story mind liberal fa...   0.205777
+26   12  deliberately misleading cunningly edited misre...   0.123960
+
+step 1
+index added: 477
+percentage unclustered: 55.9118%
+
+	step 2
+
+step 1
+index added: 478
+percentage unclustered: 55.9118%
+
+	step 2
+
+step 1
+index added: 479
+percentage unclustered: 55.7114%
+
+	step 2
+
+step 1
+index added: 480
+percentage unclustered: 55.7114%
+
+	step 2
+
+step 1
+index added: 481
+percentage unclustered: 55.511%
+
+	step 2
+
+step 1
+index added: 482
+percentage unclustered: 54.9098%
+
+	step 2
+
+		step 3
+		candidate index: 482 with core nodes: [209, 316, 329, 388]
+
+step 1
+index added: 483
+percentage unclustered: 54.9098%
+
+	step 2
+
+step 1
+index added: 484
+percentage unclustered: 54.9098%
+
+	step 2
+
+step 1
+index added: 485
+percentage unclustered: 54.9098%
+
+	step 2
+
+step 1
+index added: 486
+percentage unclustered: 54.9098%
+
+	step 2
+
+step 1
+index added: 487
+percentage unclustered: 54.7094%
+
+	step 2
+
+		step 3
+		candidate index: 487 with core nodes: [209, 316, 329, 388]
+
+step 1
+index added: 488
+percentage unclustered: 54.7094%
+
+	step 2
+
+step 1
+index added: 489
+percentage unclustered: 54.7094%
+
+	step 2
+
+step 1
+index added: 490
+percentage unclustered: 54.7094%
+
+	step 2
+
+step 1
+index added: 491
+percentage unclustered: 54.509%
+
+	step 2
+
+step 1
+index added: 492
+percentage unclustered: 54.509%
+
+	step 2
+
+step 1
+index added: 493
+percentage unclustered: 54.7094%
+
+	step 2
+
+step 1
+index added: 494
+percentage unclustered: 54.7094%
+
+	step 2
+
+step 1
+index added: 495
+percentage unclustered: 54.509%
+
+	step 2
+
+step 1
+index added: 496
+percentage unclustered: 54.3086%
+
+	step 2
+
+		step 3
+		candidate index: 496 with core nodes: [209, 316, 329, 388]
+
+step 1
+index added: 497
+percentage unclustered: 54.1082%
+
+	step 2
+
+		step 3
+		candidate index: 497 with core nodes: [209, 316, 329, 388]
+
+step 1
+index added: 498
+percentage unclustered: 54.1082%
+
+	step 2
+
+--- 7307.10352897644 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 99.3988, 99.3988, 99.3988, 99.3988, 99.3988, 99.3988, 99.3988, 98.7976, 98.5972, 98.5972, 98.5972, 98.5972, 98.5972, 98.5972, 98.5972, 98.5972, 98.5972, 98.5972, 98.5972, 97.996, 97.996, 97.5952, 97.5952, 97.5952, 97.3948, 97.1944, 96.5932, 96.3928, 96.3928, 96.3928, 96.3928, 96.3928, 96.3928, 96.1924, 96.1924, 96.1924, 95.992, 95.992, 95.992, 95.992, 95.3908, 94.78960000000001, 94.78960000000001, 95.1904, 95.1904, 94.99, 94.99, 94.99, 94.99, 94.78960000000001, 94.78960000000001, 94.78960000000001, 94.78960000000001, 94.78960000000001, 94.78960000000001, 94.78960000000001, 94.78960000000001, 94.78960000000001, 94.78960000000001, 94.78960000000001, 94.78960000000001, 94.78960000000001, 94.78960000000001, 94.78960000000001, 93.988, 93.988, 93.3868, 92.7856, 92.7856, 92.7856, 92.1844, 91.984, 91.984, 91.7836, 91.7836, 91.7836, 91.7836, 91.7836, 91.7836, 91.5832, 91.5832, 91.5832, 91.5832, 91.5832, 91.1824, 91.1824, 91.1824, 90.5812, 91.1824, 91.1824, 91.1824, 91.1824, 90.982, 90.3808, 90.1804, 89.98, 89.98, 89.98, 89.7796, 89.5792, 89.5792, 89.5792, 89.5792, 89.5792, 89.5792, 89.5792, 89.5792, 89.5792, 89.3788, 89.3788, 88.978, 88.7776, 88.7776, 88.7776, 88.5772, 88.3768, 87.7756, 87.5752, 87.3747, 87.1743, 87.3747, 87.3747, 87.3747, 87.3747, 87.3747, 87.3747, 87.1743, 86.9739, 86.9739, 86.7735, 86.7735, 86.5731, 86.5731, 86.3727, 86.3727, 86.1723, 85.9719, 85.7715, 85.7715, 85.5711, 85.3707, 85.3707, 85.3707, 85.3707, 85.3707, 85.3707, 85.3707, 84.7695, 84.5691, 84.5691, 84.5691, 84.5691, 84.3687, 84.3687, 84.3687, 84.1683, 83.9679, 84.3687, 84.1683, 85.1703, 85.1703, 84.9699, 84.9699, 84.9699, 84.9699, 84.9699, 84.9699, 84.7695, 83.9679, 83.7675, 83.7675, 83.5671, 83.5671, 83.5671, 83.5671, 83.5671, 83.5671, 82.9659, 82.9659, 82.9659, 82.9659, 82.7655, 82.5651, 82.5651, 82.3647, 83.36670000000001, 82.7655, 82.5651, 82.5651, 82.3647, 82.1643, 81.7635, 81.9639, 81.7635, 81.7635, 81.56309999999999, 81.3627, 81.1623, 81.1623, 81.1623, 80.9619, 80.9619, 80.9619, 80.7615, 80.7615, 80.7615, 80.7615, 80.5611, 80.36070000000001, 80.1603, 80.1603, 80.1603, 80.1603, 79.9599, 79.9599, 79.7595, 79.5591, 79.5591, 79.3587, 79.1583, 79.1583, 79.1583, 79.1583, 79.1583, 79.1583, 79.1583, 79.1583, 79.1583, 79.1583, 79.1583, 79.1583, 78.9579, 78.7575, 78.7575, 78.55709999999999, 78.3567, 78.1563, 77.9559, 77.9559, 77.1543, 77.1543, 77.1543, 77.1543, 77.1543, 76.3527, 76.3527, 76.3527, 76.3527, 76.3527, 76.3527, 75.9519, 75.9519, 75.9519, 75.9519, 75.9519, 75.9519, 75.9519, 75.9519, 75.9519, 75.9519, 75.9519, 75.9519, 75.7515, 75.7515, 75.5511, 75.3507, 75.1503, 74.9499, 74.7495, 74.7495, 74.5491, 74.5491, 74.5491, 74.5491, 74.5491, 74.5491, 74.5491, 74.34870000000001, 74.34870000000001, 74.1483, 73.9479, 73.9479, 73.7475, 73.7475, 73.1463, 73.1463, 73.1463, 73.1463, 72.9459, 72.9459, 72.9459, 72.74549999999999, 72.5451, 72.5451, 72.5451, 72.5451, 72.3447, 72.1443, 72.1443, 72.1443, 72.1443, 72.74549999999999, 72.74549999999999, 72.5451, 72.3447, 72.3447, 72.3447, 72.3447, 72.3447, 72.1443, 72.1443, 72.1443, 71.9439, 71.7435, 71.7435, 70.1403, 70.1403, 69.5391, 69.3387, 69.1383, 68.9379, 68.9379, 68.9379, 68.9379, 68.9379, 68.7375, 68.7375, 68.7375, 68.7375, 68.7375, 68.5371, 68.33670000000001, 68.33670000000001, 68.33670000000001, 67.7355, 67.7355, 67.5351, 67.5351, 67.5351, 67.5351, 67.5351, 67.5351, 66.53309999999999, 66.53309999999999, 66.53309999999999, 66.3327, 66.3327, 66.3327, 66.1323, 65.9319, 65.9319, 65.7315, 65.7315, 65.53110000000001, 65.33070000000001, 65.33070000000001, 65.33070000000001, 65.33070000000001, 64.7295, 64.7295, 64.7295, 64.5291, 64.5291, 64.5291, 63.9279, 63.9279, 63.9279, 63.9279, 63.7275, 63.7275, 63.7275, 63.7275, 63.5271, 63.5271, 63.5271, 63.5271, 63.3267, 63.3267, 63.1263, 62.9259, 62.9259, 62.9259, 63.3267, 63.3267, 63.3267, 63.1263, 63.3267, 63.3267, 63.3267, 63.3267, 63.3267, 63.3267, 63.3267, 63.3267, 63.3267, 63.3267, 63.1263, 63.1263, 63.1263, 63.1263, 63.1263, 62.9259, 62.3246, 61.7234, 62.7255, 62.7255, 62.7255, 62.1242, 62.1242, 62.1242, 61.9238, 61.9238, 61.7234, 61.7234, 61.523, 61.3226, 61.1222, 61.1222, 61.1222, 60.9218, 60.9218, 60.9218, 60.7214, 60.7214, 60.521, 60.3206, 60.3206, 60.3206, 60.3206, 60.3206, 60.9218, 60.7214, 60.521, 59.7194, 59.7194, 59.7194, 59.7194, 59.519, 59.3186, 59.1182, 58.9178, 58.9178, 58.9178, 58.1162, 58.1162, 58.1162, 57.9158, 57.7154, 57.7154, 57.7154, 57.7154, 57.1142, 57.3146, 57.515, 57.515, 57.3146, 57.1142, 57.1142, 57.1142, 56.9138, 56.7134, 56.513, 56.3126, 56.3126, 56.1122, 55.9118, 55.9118, 55.7114, 55.7114, 55.511, 54.9098, 54.9098, 54.9098, 54.9098, 54.9098, 54.7094, 54.7094, 54.7094, 54.7094, 54.509, 54.509, 54.7094, 54.7094, 54.509, 54.3086, 54.1082, 54.1082], mean: 77.3116
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0       463  209   0.724773  americans seemed politically polarized lifetim...
+1       108  388   0.687616  full disclosure ca stand michael moore politic...
+2       368  329   0.682265  reviewing bowling columbine difficult objectiv...
+3       416  316   0.673012  ultimately michael moore fails answer question...
+4       275  249   0.629840  bowling columbine excellent documentary michae...
+5       163  476   0.625024  michael moore certainly knows put together ent...
+6       145  127   0.608590  think moore asks good questions makes interest...
+7       462  203   0.607811  fascinating disturbing look gun violence unite...
+8       102  199   0.589569  well start tearing load garbage tough part man...
+9       390  107   0.583503  many people tied politics michael moore fail r...
+10      456  179   0.577977  2002 outspoken filmmaker michael moore directe...
+11      178  342   0.546834  think interesting people see movie come saying...
+12      149  154   0.501270  belong nra support mission said found bowling ...
+13       21  376   0.497609  first documentary ever seen blown away movie m...
+14      386   82   0.486248  bowling columbine charming witty interesting t...
+15      237   31   0.475852  bowling columbine overtly partisan expected de...
+16      148  149   0.444485  would consider republican seen film micheal mo...
+17       29  408   0.439098  easy enough watch movie say liberal attempt di...
+18       88  431   0.436391  surprised fo r going pay money see documentary...
+19      375   33   0.430383  saw last half hour movie bravo network last we...
+20      292   45   0.407192  film basically murder anti second amendment to...
+21      213   39   0.395148  bowling soup michael moore really wanted name ...
+22      435   37   0.355655  obvious movie full lies although actually seen...
+23      434   36   0.255808  usual michael moore undercuts refusing accept ...
+24      134  370   0.233552  highest recommendations despite transparent ca...
+25      382   20   0.205777  michael moore tells good story mind liberal fa...
+26      334   12   0.123960  deliberately misleading cunningly edited misre...

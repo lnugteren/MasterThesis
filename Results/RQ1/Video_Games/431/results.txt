@@ -1,0 +1,3072 @@
+------- Category: Video_Games -------
+Found asin_id: B00EFRN2IQ
+Shape:  (431, 7)
+
+
+Chosen product: B00EFRN2IQ has 431 reviews - True
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 99.3039%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [4, 11, 12]
+			old information: 0, gain: 1.0
+
+   ind                             review  relevance
+0  12  sims going sims 3 way better love   0.312411
+
+step 1
+index added: 13
+percentage unclustered: 99.3039%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 99.3039%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 99.3039%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 98.6079%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [4, 7, 11, 12]
+
+step 1
+index added: 17
+percentage unclustered: 98.6079%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 98.6079%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 98.6079%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 98.6079%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 98.1439%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [4, 7, 11, 12]
+			old information: 4, gain: 0.9998211571134759
+
+   ind                                             review  relevance
+0  12                  sims going sims 3 way better love   0.312411
+1  21  read reviews wanted know ran windows 10 diffic...   0.290879
+
+step 1
+index added: 22
+percentage unclustered: 98.1439%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 98.1439%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 98.3759%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 98.3759%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 97.9118%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [4, 7, 11, 12, 19]
+			old information: 16, gain: 0.9696969696969697
+
+   ind                                             review  relevance
+0  26  like took world map away sims 3 could see sims...   0.360479
+1  12                  sims going sims 3 way better love   0.312411
+2  21  read reviews wanted know ran windows 10 diffic...   0.290879
+
+step 1
+index added: 27
+percentage unclustered: 97.9118%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 97.9118%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 97.6798%
+
+	step 2
+
+		step 3
+		candidate index: 29 with core nodes: [7, 12, 19, 29]
+			old information: 231, gain: 0.965367316341829
+
+   ind                                             review  relevance
+0  29  honestly super excited get game christmas open...   0.620568
+1  26  like took world map away sims 3 could see sims...   0.360479
+2  12                  sims going sims 3 way better love   0.312411
+3  21  read reviews wanted know ran windows 10 diffic...   0.290879
+
+step 1
+index added: 30
+percentage unclustered: 97.6798%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 97.6798%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 97.6798%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 97.6798%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 97.6798%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 96.7517%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [4, 20, 34]
+			old information: 242, gain: 0.9666666666666667
+
+   ind                                             review  relevance
+0  29  honestly super excited get game christmas open...   0.620568
+1  35  pre ordered game ea announced available order ...   0.613240
+2  26  like took world map away sims 3 could see sims...   0.360479
+3  12                  sims going sims 3 way better love   0.312411
+4  21  read reviews wanted know ran windows 10 diffic...   0.290879
+
+step 1
+index added: 36
+percentage unclustered: 96.7517%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 97.6798%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 97.6798%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 97.6798%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 97.6798%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 97.6798%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 97.6798%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 97.6798%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 96.9838%
+
+	step 2
+
+		step 3
+		candidate index: 44 with core nodes: [12, 34, 38]
+			old information: 1070, gain: 0.9929640442936426
+
+   ind                                             review  relevance
+0  44  first got introduced sims 3 game years ago abs...   0.651293
+1  29  honestly super excited get game christmas open...   0.620568
+2  35  pre ordered game ea announced available order ...   0.613240
+3  26  like took world map away sims 3 could see sims...   0.360479
+4  12                  sims going sims 3 way better love   0.312411
+5  21  read reviews wanted know ran windows 10 diffic...   0.290879
+
+step 1
+index added: 45
+percentage unclustered: 96.9838%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 96.9838%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 97.4478%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 97.4478%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 97.4478%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 97.4478%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 97.2158%
+
+	step 2
+
+		step 3
+		candidate index: 51 with core nodes: [19, 29, 38]
+
+step 1
+index added: 52
+percentage unclustered: 97.2158%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 96.0557%
+
+	step 2
+
+		step 3
+		candidate index: 53 with core nodes: [19, 29, 38, 52, 53]
+			old information: 58, gain: 0.8066666666666666
+
+   ind                                             review  relevance
+0  53  worst sims game ever played even called sims l...   0.703002
+1  44  first got introduced sims 3 game years ago abs...   0.651293
+2  29  honestly super excited get game christmas open...   0.620568
+3  35  pre ordered game ea announced available order ...   0.613240
+4  26  like took world map away sims 3 could see sims...   0.360479
+5  12                  sims going sims 3 way better love   0.312411
+6  21  read reviews wanted know ran windows 10 diffic...   0.290879
+
+step 1
+index added: 54
+percentage unclustered: 95.8237%
+
+	step 2
+
+		step 3
+		candidate index: 54 with core nodes: [19, 29, 38, 52, 53]
+
+step 1
+index added: 55
+percentage unclustered: 95.8237%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 94.8956%
+
+	step 2
+
+		step 3
+		candidate index: 56 with core nodes: [3, 40, 52, 53]
+
+step 1
+index added: 57
+percentage unclustered: 94.8956%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 94.1995%
+
+	step 2
+
+		step 3
+		candidate index: 58 with core nodes: [3, 42, 58]
+			old information: 1953, gain: 0.9410913039543932
+
+   ind                                             review  relevance
+0  53  worst sims game ever played even called sims l...   0.703002
+1  58  game gotten lot hate longtime simmers honestly...   0.699624
+2  44  first got introduced sims 3 game years ago abs...   0.651293
+3  29  honestly super excited get game christmas open...   0.620568
+4  35  pre ordered game ea announced available order ...   0.613240
+5  26  like took world map away sims 3 could see sims...   0.360479
+6  12                  sims going sims 3 way better love   0.312411
+7  21  read reviews wanted know ran windows 10 diffic...   0.290879
+
+step 1
+index added: 59
+percentage unclustered: 93.5035%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 93.2715%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 93.2715%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 93.2715%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 93.2715%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 93.2715%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 93.2715%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 93.0394%
+
+	step 2
+
+		step 3
+		candidate index: 66 with core nodes: [38, 53, 66]
+			old information: 8389, gain: 0.9866127282012
+
+   ind                                             review  relevance
+0  66  usable laptop camera controls laptop unfriendl...   0.809140
+1  53  worst sims game ever played even called sims l...   0.703002
+2  58  game gotten lot hate longtime simmers honestly...   0.699624
+3  44  first got introduced sims 3 game years ago abs...   0.651293
+4  29  honestly super excited get game christmas open...   0.620568
+5  35  pre ordered game ea announced available order ...   0.613240
+6  26  like took world map away sims 3 could see sims...   0.360479
+7  12                  sims going sims 3 way better love   0.312411
+8  21  read reviews wanted know ran windows 10 diffic...   0.290879
+
+step 1
+index added: 67
+percentage unclustered: 92.3434%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 92.3434%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 91.8794%
+
+	step 2
+
+		step 3
+		candidate index: 69 with core nodes: [38, 53, 66]
+
+step 1
+index added: 70
+percentage unclustered: 91.8794%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 91.8794%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 92.1114%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 91.8794%
+
+	step 2
+
+		step 3
+		candidate index: 73 with core nodes: [38, 53, 66]
+
+step 1
+index added: 74
+percentage unclustered: 91.8794%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 91.1833%
+
+	step 2
+
+		step 3
+		candidate index: 75 with core nodes: [38, 53, 66]
+
+step 1
+index added: 76
+percentage unclustered: 90.9513%
+
+	step 2
+
+		step 3
+		candidate index: 76 with core nodes: [38, 53, 66]
+
+step 1
+index added: 77
+percentage unclustered: 91.1833%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 90.9513%
+
+	step 2
+
+		step 3
+		candidate index: 78 with core nodes: [38, 53, 66]
+
+step 1
+index added: 79
+percentage unclustered: 90.7193%
+
+	step 2
+
+		step 3
+		candidate index: 79 with core nodes: [38, 53, 66]
+
+step 1
+index added: 80
+percentage unclustered: 90.4872%
+
+	step 2
+
+		step 3
+		candidate index: 80 with core nodes: [38, 53, 66]
+
+step 1
+index added: 81
+percentage unclustered: 90.4872%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 91.1833%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 90.9513%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 91.1833%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 90.9513%
+
+	step 2
+
+		step 3
+		candidate index: 85 with core nodes: [4, 44, 85]
+			old information: 6661, gain: 0.9420581071677105
+
+   ind                                             review  relevance
+0  66  usable laptop camera controls laptop unfriendl...   0.809140
+1  53  worst sims game ever played even called sims l...   0.703002
+2  58  game gotten lot hate longtime simmers honestly...   0.699624
+3  85  sims lover beginning faithful customer games a...   0.673484
+4  44  first got introduced sims 3 game years ago abs...   0.651293
+5  29  honestly super excited get game christmas open...   0.620568
+6  35  pre ordered game ea announced available order ...   0.613240
+7  26  like took world map away sims 3 could see sims...   0.360479
+8  12                  sims going sims 3 way better love   0.312411
+9  21  read reviews wanted know ran windows 10 diffic...   0.290879
+
+step 1
+index added: 86
+percentage unclustered: 91.1833%
+
+	step 2
+
+		step 3
+		candidate index: 86 with core nodes: [32, 38, 46, 53, 86]
+			old information: 2402, gain: 0.8224685883222469
+
+    ind                                             review  relevance
+0   66  usable laptop camera controls laptop unfriendl...   0.809140
+1   53  worst sims game ever played even called sims l...   0.703002
+2   58  game gotten lot hate longtime simmers honestly...   0.699624
+3   86  avid simmer playing obsessed since original si...   0.698472
+4   85  sims lover beginning faithful customer games a...   0.673484
+5   44  first got introduced sims 3 game years ago abs...   0.651293
+6   29  honestly super excited get game christmas open...   0.620568
+7   35  pre ordered game ea announced available order ...   0.613240
+8   26  like took world map away sims 3 could see sims...   0.360479
+9   12                  sims going sims 3 way better love   0.312411
+10  21  read reviews wanted know ran windows 10 diffic...   0.290879
+
+step 1
+index added: 87
+percentage unclustered: 90.9513%
+
+	step 2
+
+		step 3
+		candidate index: 87 with core nodes: [32, 38, 46, 53, 86]
+
+step 1
+index added: 88
+percentage unclustered: 90.9513%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 90.9513%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 90.9513%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 90.7193%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 90.2552%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 90.2552%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 88.3991%
+
+	step 2
+
+		step 3
+		candidate index: 94 with core nodes: [32, 38, 46, 53, 66, 86]
+
+step 1
+index added: 95
+percentage unclustered: 88.1671%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 88.1671%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 87.935%
+
+	step 2
+
+		step 3
+		candidate index: 97 with core nodes: [32, 38, 46, 53, 66, 86]
+
+step 1
+index added: 98
+percentage unclustered: 87.703%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 87.703%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 87.703%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 87.471%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 86.5429%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 86.0789%
+
+	step 2
+
+		step 3
+		candidate index: 103 with core nodes: [38, 53, 66]
+			old information: 3460, gain: 0.8563719385637194
+
+     ind                                             review  relevance
+0    66  usable laptop camera controls laptop unfriendl...   0.809140
+1   103  think m going write review game m sure many pe...   0.713415
+2    53  worst sims game ever played even called sims l...   0.703002
+3    58  game gotten lot hate longtime simmers honestly...   0.699624
+4    86  avid simmer playing obsessed since original si...   0.698472
+5    85  sims lover beginning faithful customer games a...   0.673484
+6    44  first got introduced sims 3 game years ago abs...   0.651293
+7    29  honestly super excited get game christmas open...   0.620568
+8    35  pre ordered game ea announced available order ...   0.613240
+9    26  like took world map away sims 3 could see sims...   0.360479
+10   12                  sims going sims 3 way better love   0.312411
+11   21  read reviews wanted know ran windows 10 diffic...   0.290879
+
+step 1
+index added: 104
+percentage unclustered: 86.7749%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 86.7749%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 86.5429%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 87.703%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 87.239%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 87.007%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 86.7749%
+
+	step 2
+
+		step 3
+		candidate index: 110 with core nodes: [38, 66, 86, 110]
+			old information: 151, gain: 0.6955645161290323
+
+     ind                                             review  relevance
+0    66  usable laptop camera controls laptop unfriendl...   0.809140
+1   103  think m going write review game m sure many pe...   0.713415
+2   110  like sims 3 hate sims 4 many cool things intro...   0.708005
+3    53  worst sims game ever played even called sims l...   0.703002
+4    58  game gotten lot hate longtime simmers honestly...   0.699624
+5    86  avid simmer playing obsessed since original si...   0.698472
+6    85  sims lover beginning faithful customer games a...   0.673484
+7    44  first got introduced sims 3 game years ago abs...   0.651293
+8    29  honestly super excited get game christmas open...   0.620568
+9    35  pre ordered game ea announced available order ...   0.613240
+10   26  like took world map away sims 3 could see sims...   0.360479
+11   12                  sims going sims 3 way better love   0.312411
+12   21  read reviews wanted know ran windows 10 diffic...   0.290879
+
+step 1
+index added: 111
+percentage unclustered: 86.5429%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 86.3109%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 86.3109%
+
+	step 2
+
+		step 3
+		candidate index: 113 with core nodes: [38, 66, 86, 110]
+
+step 1
+index added: 114
+percentage unclustered: 86.0789%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 86.0789%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 85.8469%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 85.6148%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 85.6148%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 85.3828%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 84.6868%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 84.6868%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 84.6868%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 83.9907%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 83.2947%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 83.0626%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 82.8306%
+
+	step 2
+
+		step 3
+		candidate index: 126 with core nodes: [4, 6, 126]
+			old information: 15834, gain: 0.9443708609271523
+
+     ind                                             review  relevance
+0    66  usable laptop camera controls laptop unfriendl...   0.809140
+1   103  think m going write review game m sure many pe...   0.713415
+2   110  like sims 3 hate sims 4 many cool things intro...   0.708005
+3    53  worst sims game ever played even called sims l...   0.703002
+4    58  game gotten lot hate longtime simmers honestly...   0.699624
+5    86  avid simmer playing obsessed since original si...   0.698472
+6    85  sims lover beginning faithful customer games a...   0.673484
+7    44  first got introduced sims 3 game years ago abs...   0.651293
+8    29  honestly super excited get game christmas open...   0.620568
+9    35  pre ordered game ea announced available order ...   0.613240
+10  126  updating 12 22 2014 factor changes came patch ...   0.593044
+11   26  like took world map away sims 3 could see sims...   0.360479
+12   12                  sims going sims 3 way better love   0.312411
+13   21  read reviews wanted know ran windows 10 diffic...   0.290879
+
+step 1
+index added: 127
+percentage unclustered: 82.8306%
+
+	step 2
+
+step 1
+index added: 128
+percentage unclustered: 82.5986%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 82.3666%
+
+	step 2
+
+step 1
+index added: 130
+percentage unclustered: 82.3666%
+
+	step 2
+
+step 1
+index added: 131
+percentage unclustered: 82.3666%
+
+	step 2
+
+step 1
+index added: 132
+percentage unclustered: 82.1346%
+
+	step 2
+
+		step 3
+		candidate index: 132 with core nodes: [66, 86, 110]
+
+step 1
+index added: 133
+percentage unclustered: 82.1346%
+
+	step 2
+
+step 1
+index added: 134
+percentage unclustered: 78.6543%
+
+	step 2
+
+step 1
+index added: 135
+percentage unclustered: 82.3666%
+
+	step 2
+
+step 1
+index added: 136
+percentage unclustered: 81.9026%
+
+	step 2
+
+		step 3
+		candidate index: 136 with core nodes: [4, 126, 136]
+			old information: 432, gain: 0.8211180124223603
+
+     ind                                             review  relevance
+0    66  usable laptop camera controls laptop unfriendl...   0.809140
+1   103  think m going write review game m sure many pe...   0.713415
+2   110  like sims 3 hate sims 4 many cool things intro...   0.708005
+3    53  worst sims game ever played even called sims l...   0.703002
+4    58  game gotten lot hate longtime simmers honestly...   0.699624
+5    86  avid simmer playing obsessed since original si...   0.698472
+6    85  sims lover beginning faithful customer games a...   0.673484
+7    44  first got introduced sims 3 game years ago abs...   0.651293
+8    29  honestly super excited get game christmas open...   0.620568
+9    35  pre ordered game ea announced available order ...   0.613240
+10  126  updating 12 22 2014 factor changes came patch ...   0.593044
+11  136  happy bought thought gon na rock sucks much n ...   0.577130
+12   26  like took world map away sims 3 could see sims...   0.360479
+13   12                  sims going sims 3 way better love   0.312411
+14   21  read reviews wanted know ran windows 10 diffic...   0.290879
+
+step 1
+index added: 137
+percentage unclustered: 81.9026%
+
+	step 2
+
+step 1
+index added: 138
+percentage unclustered: 81.9026%
+
+	step 2
+
+step 1
+index added: 139
+percentage unclustered: 81.6705%
+
+	step 2
+
+step 1
+index added: 140
+percentage unclustered: 81.4385%
+
+	step 2
+
+		step 3
+		candidate index: 140 with core nodes: [66, 86, 110]
+
+step 1
+index added: 141
+percentage unclustered: 81.2065%
+
+	step 2
+
+step 1
+index added: 142
+percentage unclustered: 80.9745%
+
+	step 2
+
+step 1
+index added: 143
+percentage unclustered: 82.3666%
+
+	step 2
+
+step 1
+index added: 144
+percentage unclustered: 82.1346%
+
+	step 2
+
+step 1
+index added: 145
+percentage unclustered: 82.1346%
+
+	step 2
+
+step 1
+index added: 146
+percentage unclustered: 82.1346%
+
+	step 2
+
+step 1
+index added: 147
+percentage unclustered: 81.9026%
+
+	step 2
+
+step 1
+index added: 148
+percentage unclustered: 81.9026%
+
+	step 2
+
+step 1
+index added: 149
+percentage unclustered: 81.6705%
+
+	step 2
+
+		step 3
+		candidate index: 149 with core nodes: [3, 109, 149]
+			old information: 33621, gain: 0.9541864591083385
+
+     ind                                             review  relevance
+0   149  re longtime fan sims series like sims 1 sims 3...   0.865816
+1    66  usable laptop camera controls laptop unfriendl...   0.809140
+2   103  think m going write review game m sure many pe...   0.713415
+3   110  like sims 3 hate sims 4 many cool things intro...   0.708005
+4    53  worst sims game ever played even called sims l...   0.703002
+5    58  game gotten lot hate longtime simmers honestly...   0.699624
+6    86  avid simmer playing obsessed since original si...   0.698472
+7    85  sims lover beginning faithful customer games a...   0.673484
+8    44  first got introduced sims 3 game years ago abs...   0.651293
+9    29  honestly super excited get game christmas open...   0.620568
+10   35  pre ordered game ea announced available order ...   0.613240
+11  126  updating 12 22 2014 factor changes came patch ...   0.593044
+12  136  happy bought thought gon na rock sucks much n ...   0.577130
+13   26  like took world map away sims 3 could see sims...   0.360479
+14   12                  sims going sims 3 way better love   0.312411
+15   21  read reviews wanted know ran windows 10 diffic...   0.290879
+
+step 1
+index added: 150
+percentage unclustered: 81.6705%
+
+	step 2
+
+step 1
+index added: 151
+percentage unclustered: 81.6705%
+
+	step 2
+
+step 1
+index added: 152
+percentage unclustered: 81.6705%
+
+	step 2
+
+step 1
+index added: 153
+percentage unclustered: 81.6705%
+
+	step 2
+
+step 1
+index added: 154
+percentage unclustered: 81.2065%
+
+	step 2
+
+step 1
+index added: 155
+percentage unclustered: 81.2065%
+
+	step 2
+
+step 1
+index added: 156
+percentage unclustered: 80.9745%
+
+	step 2
+
+step 1
+index added: 157
+percentage unclustered: 80.9745%
+
+	step 2
+
+step 1
+index added: 158
+percentage unclustered: 80.7425%
+
+	step 2
+
+		step 3
+		candidate index: 158 with core nodes: [66, 86, 110]
+
+step 1
+index added: 159
+percentage unclustered: 80.5104%
+
+	step 2
+
+step 1
+index added: 160
+percentage unclustered: 80.2784%
+
+	step 2
+
+step 1
+index added: 161
+percentage unclustered: 80.0464%
+
+	step 2
+
+step 1
+index added: 162
+percentage unclustered: 79.8144%
+
+	step 2
+
+step 1
+index added: 163
+percentage unclustered: 79.8144%
+
+	step 2
+
+step 1
+index added: 164
+percentage unclustered: 75.406%
+
+	step 2
+
+step 1
+index added: 165
+percentage unclustered: 79.1183%
+
+	step 2
+
+step 1
+index added: 166
+percentage unclustered: 79.1183%
+
+	step 2
+
+step 1
+index added: 167
+percentage unclustered: 78.8863%
+
+	step 2
+
+step 1
+index added: 168
+percentage unclustered: 78.8863%
+
+	step 2
+
+step 1
+index added: 169
+percentage unclustered: 78.8863%
+
+	step 2
+
+step 1
+index added: 170
+percentage unclustered: 78.6543%
+
+	step 2
+
+step 1
+index added: 171
+percentage unclustered: 78.6543%
+
+	step 2
+
+step 1
+index added: 172
+percentage unclustered: 77.9582%
+
+	step 2
+
+step 1
+index added: 173
+percentage unclustered: 77.9582%
+
+	step 2
+
+step 1
+index added: 174
+percentage unclustered: 77.9582%
+
+	step 2
+
+step 1
+index added: 175
+percentage unclustered: 77.9582%
+
+	step 2
+
+step 1
+index added: 176
+percentage unclustered: 77.7262%
+
+	step 2
+
+step 1
+index added: 177
+percentage unclustered: 77.4942%
+
+	step 2
+
+step 1
+index added: 178
+percentage unclustered: 77.2622%
+
+	step 2
+
+		step 3
+		candidate index: 178 with core nodes: [34, 66, 165]
+
+step 1
+index added: 179
+percentage unclustered: 77.2622%
+
+	step 2
+
+step 1
+index added: 180
+percentage unclustered: 77.03020000000001%
+
+	step 2
+
+step 1
+index added: 181
+percentage unclustered: 76.7981%
+
+	step 2
+
+step 1
+index added: 182
+percentage unclustered: 76.7981%
+
+	step 2
+
+step 1
+index added: 183
+percentage unclustered: 76.7981%
+
+	step 2
+
+step 1
+index added: 184
+percentage unclustered: 76.7981%
+
+	step 2
+
+step 1
+index added: 185
+percentage unclustered: 76.7981%
+
+	step 2
+
+step 1
+index added: 186
+percentage unclustered: 77.2622%
+
+	step 2
+
+step 1
+index added: 187
+percentage unclustered: 77.03020000000001%
+
+	step 2
+
+step 1
+index added: 188
+percentage unclustered: 76.7981%
+
+	step 2
+
+step 1
+index added: 189
+percentage unclustered: 76.7981%
+
+	step 2
+
+step 1
+index added: 190
+percentage unclustered: 76.7981%
+
+	step 2
+
+step 1
+index added: 191
+percentage unclustered: 76.7981%
+
+	step 2
+
+step 1
+index added: 192
+percentage unclustered: 76.5661%
+
+	step 2
+
+step 1
+index added: 193
+percentage unclustered: 76.5661%
+
+	step 2
+
+step 1
+index added: 194
+percentage unclustered: 76.5661%
+
+	step 2
+
+step 1
+index added: 195
+percentage unclustered: 76.5661%
+
+	step 2
+
+step 1
+index added: 196
+percentage unclustered: 76.5661%
+
+	step 2
+
+step 1
+index added: 197
+percentage unclustered: 76.10210000000001%
+
+	step 2
+
+step 1
+index added: 198
+percentage unclustered: 75.87010000000001%
+
+	step 2
+
+		step 3
+		candidate index: 198 with core nodes: [34, 66, 165]
+
+step 1
+index added: 199
+percentage unclustered: 75.63810000000001%
+
+	step 2
+
+		step 3
+		candidate index: 199 with core nodes: [34, 66, 165]
+
+step 1
+index added: 200
+percentage unclustered: 76.3341%
+
+	step 2
+
+step 1
+index added: 201
+percentage unclustered: 76.3341%
+
+	step 2
+
+step 1
+index added: 202
+percentage unclustered: 76.3341%
+
+	step 2
+
+step 1
+index added: 203
+percentage unclustered: 76.3341%
+
+	step 2
+
+step 1
+index added: 204
+percentage unclustered: 79.3503%
+
+	step 2
+
+step 1
+index added: 205
+percentage unclustered: 79.1183%
+
+	step 2
+
+step 1
+index added: 206
+percentage unclustered: 79.1183%
+
+	step 2
+
+step 1
+index added: 207
+percentage unclustered: 79.1183%
+
+	step 2
+
+step 1
+index added: 208
+percentage unclustered: 79.1183%
+
+	step 2
+
+step 1
+index added: 209
+percentage unclustered: 78.8863%
+
+	step 2
+
+step 1
+index added: 210
+percentage unclustered: 78.6543%
+
+	step 2
+
+		step 3
+		candidate index: 210 with core nodes: [34, 66, 198]
+
+step 1
+index added: 211
+percentage unclustered: 78.6543%
+
+	step 2
+
+step 1
+index added: 212
+percentage unclustered: 78.8863%
+
+	step 2
+
+step 1
+index added: 213
+percentage unclustered: 78.6543%
+
+	step 2
+
+step 1
+index added: 214
+percentage unclustered: 78.4223%
+
+	step 2
+
+step 1
+index added: 215
+percentage unclustered: 78.4223%
+
+	step 2
+
+step 1
+index added: 216
+percentage unclustered: 78.19030000000001%
+
+	step 2
+
+step 1
+index added: 217
+percentage unclustered: 78.19030000000001%
+
+	step 2
+
+step 1
+index added: 218
+percentage unclustered: 77.9582%
+
+	step 2
+
+step 1
+index added: 219
+percentage unclustered: 78.19030000000001%
+
+	step 2
+
+step 1
+index added: 220
+percentage unclustered: 78.4223%
+
+	step 2
+
+step 1
+index added: 221
+percentage unclustered: 78.19030000000001%
+
+	step 2
+
+		step 3
+		candidate index: 221 with core nodes: [34, 149, 221]
+			old information: 15539, gain: 0.9126561217721718
+
+     ind                                             review  relevance
+0   149  re longtime fan sims series like sims 1 sims 3...   0.865816
+1   221  long time player sims disappointed sims 4 brea...   0.844903
+2    66  usable laptop camera controls laptop unfriendl...   0.809140
+3   103  think m going write review game m sure many pe...   0.713415
+4   110  like sims 3 hate sims 4 many cool things intro...   0.708005
+5    53  worst sims game ever played even called sims l...   0.703002
+6    58  game gotten lot hate longtime simmers honestly...   0.699624
+7    86  avid simmer playing obsessed since original si...   0.698472
+8    85  sims lover beginning faithful customer games a...   0.673484
+9    44  first got introduced sims 3 game years ago abs...   0.651293
+10   29  honestly super excited get game christmas open...   0.620568
+11   35  pre ordered game ea announced available order ...   0.613240
+12  126  updating 12 22 2014 factor changes came patch ...   0.593044
+13  136  happy bought thought gon na rock sucks much n ...   0.577130
+14   26  like took world map away sims 3 could see sims...   0.360479
+15   12                  sims going sims 3 way better love   0.312411
+16   21  read reviews wanted know ran windows 10 diffic...   0.290879
+
+step 1
+index added: 222
+percentage unclustered: 77.9582%
+
+	step 2
+
+step 1
+index added: 223
+percentage unclustered: 77.9582%
+
+	step 2
+
+step 1
+index added: 224
+percentage unclustered: 77.7262%
+
+	step 2
+
+		step 3
+		candidate index: 224 with core nodes: [34, 149, 221]
+
+step 1
+index added: 225
+percentage unclustered: 77.7262%
+
+	step 2
+
+step 1
+index added: 226
+percentage unclustered: 77.7262%
+
+	step 2
+
+step 1
+index added: 227
+percentage unclustered: 77.7262%
+
+	step 2
+
+step 1
+index added: 228
+percentage unclustered: 77.7262%
+
+	step 2
+
+step 1
+index added: 229
+percentage unclustered: 77.4942%
+
+	step 2
+
+		step 3
+		candidate index: 229 with core nodes: [34, 149, 221]
+
+step 1
+index added: 230
+percentage unclustered: 77.4942%
+
+	step 2
+
+step 1
+index added: 231
+percentage unclustered: 77.2622%
+
+	step 2
+
+		step 3
+		candidate index: 231 with core nodes: [34, 149, 221]
+
+step 1
+index added: 232
+percentage unclustered: 77.03020000000001%
+
+	step 2
+
+step 1
+index added: 233
+percentage unclustered: 76.7981%
+
+	step 2
+
+step 1
+index added: 234
+percentage unclustered: 76.7981%
+
+	step 2
+
+step 1
+index added: 235
+percentage unclustered: 76.7981%
+
+	step 2
+
+step 1
+index added: 236
+percentage unclustered: 76.5661%
+
+	step 2
+
+step 1
+index added: 237
+percentage unclustered: 76.3341%
+
+	step 2
+
+step 1
+index added: 238
+percentage unclustered: 76.3341%
+
+	step 2
+
+step 1
+index added: 239
+percentage unclustered: 76.10210000000001%
+
+	step 2
+
+step 1
+index added: 240
+percentage unclustered: 76.10210000000001%
+
+	step 2
+
+step 1
+index added: 241
+percentage unclustered: 76.10210000000001%
+
+	step 2
+
+step 1
+index added: 242
+percentage unclustered: 75.87010000000001%
+
+	step 2
+
+		step 3
+		candidate index: 242 with core nodes: [34, 149, 221]
+
+step 1
+index added: 243
+percentage unclustered: 75.63810000000001%
+
+	step 2
+
+step 1
+index added: 244
+percentage unclustered: 75.406%
+
+	step 2
+
+step 1
+index added: 245
+percentage unclustered: 75.406%
+
+	step 2
+
+step 1
+index added: 246
+percentage unclustered: 75.406%
+
+	step 2
+
+step 1
+index added: 247
+percentage unclustered: 75.63810000000001%
+
+	step 2
+
+step 1
+index added: 248
+percentage unclustered: 75.63810000000001%
+
+	step 2
+
+step 1
+index added: 249
+percentage unclustered: 75.406%
+
+	step 2
+
+step 1
+index added: 250
+percentage unclustered: 74.47800000000001%
+
+	step 2
+
+step 1
+index added: 251
+percentage unclustered: 74.2459%
+
+	step 2
+
+step 1
+index added: 252
+percentage unclustered: 74.0139%
+
+	step 2
+
+step 1
+index added: 253
+percentage unclustered: 73.78190000000001%
+
+	step 2
+
+step 1
+index added: 254
+percentage unclustered: 73.78190000000001%
+
+	step 2
+
+step 1
+index added: 255
+percentage unclustered: 73.78190000000001%
+
+	step 2
+
+step 1
+index added: 256
+percentage unclustered: 73.78190000000001%
+
+	step 2
+
+step 1
+index added: 257
+percentage unclustered: 73.54990000000001%
+
+	step 2
+
+		step 3
+		candidate index: 257 with core nodes: [34, 149, 221]
+
+step 1
+index added: 258
+percentage unclustered: 73.31790000000001%
+
+	step 2
+
+step 1
+index added: 259
+percentage unclustered: 73.31790000000001%
+
+	step 2
+
+step 1
+index added: 260
+percentage unclustered: 73.31790000000001%
+
+	step 2
+
+step 1
+index added: 261
+percentage unclustered: 73.31790000000001%
+
+	step 2
+
+step 1
+index added: 262
+percentage unclustered: 73.31790000000001%
+
+	step 2
+
+step 1
+index added: 263
+percentage unclustered: 72.62180000000001%
+
+	step 2
+
+		step 3
+		candidate index: 263 with core nodes: [34, 149, 221]
+
+step 1
+index added: 264
+percentage unclustered: 72.62180000000001%
+
+	step 2
+
+step 1
+index added: 265
+percentage unclustered: 72.38980000000001%
+
+	step 2
+
+step 1
+index added: 266
+percentage unclustered: 72.38980000000001%
+
+	step 2
+
+step 1
+index added: 267
+percentage unclustered: 72.38980000000001%
+
+	step 2
+
+step 1
+index added: 268
+percentage unclustered: 72.38980000000001%
+
+	step 2
+
+step 1
+index added: 269
+percentage unclustered: 72.38980000000001%
+
+	step 2
+
+step 1
+index added: 270
+percentage unclustered: 72.15780000000001%
+
+	step 2
+
+step 1
+index added: 271
+percentage unclustered: 72.15780000000001%
+
+	step 2
+
+step 1
+index added: 272
+percentage unclustered: 72.15780000000001%
+
+	step 2
+
+step 1
+index added: 273
+percentage unclustered: 72.15780000000001%
+
+	step 2
+
+step 1
+index added: 274
+percentage unclustered: 71.9258%
+
+	step 2
+
+step 1
+index added: 275
+percentage unclustered: 71.9258%
+
+	step 2
+
+step 1
+index added: 276
+percentage unclustered: 71.9258%
+
+	step 2
+
+step 1
+index added: 277
+percentage unclustered: 70.5336%
+
+	step 2
+
+step 1
+index added: 278
+percentage unclustered: 70.5336%
+
+	step 2
+
+step 1
+index added: 279
+percentage unclustered: 70.5336%
+
+	step 2
+
+step 1
+index added: 280
+percentage unclustered: 70.30160000000001%
+
+	step 2
+
+		step 3
+		candidate index: 280 with core nodes: [34, 149, 221]
+
+step 1
+index added: 281
+percentage unclustered: 70.30160000000001%
+
+	step 2
+
+step 1
+index added: 282
+percentage unclustered: 70.30160000000001%
+
+	step 2
+
+step 1
+index added: 283
+percentage unclustered: 70.06960000000001%
+
+	step 2
+
+step 1
+index added: 284
+percentage unclustered: 70.06960000000001%
+
+	step 2
+
+step 1
+index added: 285
+percentage unclustered: 70.06960000000001%
+
+	step 2
+
+step 1
+index added: 286
+percentage unclustered: 69.14150000000001%
+
+	step 2
+
+step 1
+index added: 287
+percentage unclustered: 68.90950000000001%
+
+	step 2
+
+		step 3
+		candidate index: 287 with core nodes: [85, 160, 192]
+
+step 1
+index added: 288
+percentage unclustered: 68.90950000000001%
+
+	step 2
+
+step 1
+index added: 289
+percentage unclustered: 68.90950000000001%
+
+	step 2
+
+step 1
+index added: 290
+percentage unclustered: 68.2135%
+
+	step 2
+
+step 1
+index added: 291
+percentage unclustered: 68.2135%
+
+	step 2
+
+step 1
+index added: 292
+percentage unclustered: 68.2135%
+
+	step 2
+
+step 1
+index added: 293
+percentage unclustered: 68.2135%
+
+	step 2
+
+step 1
+index added: 294
+percentage unclustered: 68.2135%
+
+	step 2
+
+step 1
+index added: 295
+percentage unclustered: 67.98140000000001%
+
+	step 2
+
+step 1
+index added: 296
+percentage unclustered: 67.98140000000001%
+
+	step 2
+
+step 1
+index added: 297
+percentage unclustered: 67.98140000000001%
+
+	step 2
+
+step 1
+index added: 298
+percentage unclustered: 67.74940000000001%
+
+	step 2
+
+		step 3
+		candidate index: 298 with core nodes: [34, 149, 221]
+
+step 1
+index added: 299
+percentage unclustered: 67.51740000000001%
+
+	step 2
+
+step 1
+index added: 300
+percentage unclustered: 67.51740000000001%
+
+	step 2
+
+step 1
+index added: 301
+percentage unclustered: 67.28540000000001%
+
+	step 2
+
+step 1
+index added: 302
+percentage unclustered: 67.51740000000001%
+
+	step 2
+
+step 1
+index added: 303
+percentage unclustered: 67.51740000000001%
+
+	step 2
+
+step 1
+index added: 304
+percentage unclustered: 67.28540000000001%
+
+	step 2
+
+		step 3
+		candidate index: 304 with core nodes: [34, 149, 221]
+
+step 1
+index added: 305
+percentage unclustered: 67.28540000000001%
+
+	step 2
+
+step 1
+index added: 306
+percentage unclustered: 67.28540000000001%
+
+	step 2
+
+step 1
+index added: 307
+percentage unclustered: 67.05340000000001%
+
+	step 2
+
+step 1
+index added: 308
+percentage unclustered: 67.05340000000001%
+
+	step 2
+
+step 1
+index added: 309
+percentage unclustered: 67.05340000000001%
+
+	step 2
+
+step 1
+index added: 310
+percentage unclustered: 66.82130000000001%
+
+	step 2
+
+step 1
+index added: 311
+percentage unclustered: 66.82130000000001%
+
+	step 2
+
+step 1
+index added: 312
+percentage unclustered: 66.82130000000001%
+
+	step 2
+
+step 1
+index added: 313
+percentage unclustered: 66.82130000000001%
+
+	step 2
+
+step 1
+index added: 314
+percentage unclustered: 66.58930000000001%
+
+	step 2
+
+		step 3
+		candidate index: 314 with core nodes: [34, 149, 221]
+
+step 1
+index added: 315
+percentage unclustered: 66.58930000000001%
+
+	step 2
+
+step 1
+index added: 316
+percentage unclustered: 66.35730000000001%
+
+	step 2
+
+step 1
+index added: 317
+percentage unclustered: 66.12530000000001%
+
+	step 2
+
+		step 3
+		candidate index: 317 with core nodes: [34, 149, 221]
+
+step 1
+index added: 318
+percentage unclustered: 66.12530000000001%
+
+	step 2
+
+step 1
+index added: 319
+percentage unclustered: 66.12530000000001%
+
+	step 2
+
+step 1
+index added: 320
+percentage unclustered: 64.5012%
+
+	step 2
+
+step 1
+index added: 321
+percentage unclustered: 64.26910000000001%
+
+	step 2
+
+		step 3
+		candidate index: 321 with core nodes: [34, 149, 221]
+			old information: 694, gain: 0.6329984135378107
+
+     ind                                             review  relevance
+0   149  re longtime fan sims series like sims 1 sims 3...   0.865816
+1   221  long time player sims disappointed sims 4 brea...   0.844903
+2    66  usable laptop camera controls laptop unfriendl...   0.809140
+3   321  true fan since first sims alot people complain...   0.727907
+4   103  think m going write review game m sure many pe...   0.713415
+5   110  like sims 3 hate sims 4 many cool things intro...   0.708005
+6    53  worst sims game ever played even called sims l...   0.703002
+7    58  game gotten lot hate longtime simmers honestly...   0.699624
+8    86  avid simmer playing obsessed since original si...   0.698472
+9    85  sims lover beginning faithful customer games a...   0.673484
+10   44  first got introduced sims 3 game years ago abs...   0.651293
+11   29  honestly super excited get game christmas open...   0.620568
+12   35  pre ordered game ea announced available order ...   0.613240
+13  126  updating 12 22 2014 factor changes came patch ...   0.593044
+14  136  happy bought thought gon na rock sucks much n ...   0.577130
+15   26  like took world map away sims 3 could see sims...   0.360479
+16   12                  sims going sims 3 way better love   0.312411
+17   21  read reviews wanted know ran windows 10 diffic...   0.290879
+
+step 1
+index added: 322
+percentage unclustered: 64.26910000000001%
+
+	step 2
+
+step 1
+index added: 323
+percentage unclustered: 64.26910000000001%
+
+	step 2
+
+step 1
+index added: 324
+percentage unclustered: 64.26910000000001%
+
+	step 2
+
+step 1
+index added: 325
+percentage unclustered: 64.26910000000001%
+
+	step 2
+
+step 1
+index added: 326
+percentage unclustered: 64.26910000000001%
+
+	step 2
+
+step 1
+index added: 327
+percentage unclustered: 64.03710000000001%
+
+	step 2
+
+step 1
+index added: 328
+percentage unclustered: 63.8051%
+
+	step 2
+
+step 1
+index added: 329
+percentage unclustered: 63.8051%
+
+	step 2
+
+step 1
+index added: 330
+percentage unclustered: 63.8051%
+
+	step 2
+
+step 1
+index added: 331
+percentage unclustered: 63.5731%
+
+	step 2
+
+		step 3
+		candidate index: 331 with core nodes: [85, 160, 192]
+
+step 1
+index added: 332
+percentage unclustered: 63.3411%
+
+	step 2
+
+step 1
+index added: 333
+percentage unclustered: 63.3411%
+
+	step 2
+
+step 1
+index added: 334
+percentage unclustered: 63.3411%
+
+	step 2
+
+step 1
+index added: 335
+percentage unclustered: 63.3411%
+
+	step 2
+
+step 1
+index added: 336
+percentage unclustered: 63.3411%
+
+	step 2
+
+step 1
+index added: 337
+percentage unclustered: 63.109%
+
+	step 2
+
+step 1
+index added: 338
+percentage unclustered: 62.877%
+
+	step 2
+
+step 1
+index added: 339
+percentage unclustered: 62.645%
+
+	step 2
+
+step 1
+index added: 340
+percentage unclustered: 62.645%
+
+	step 2
+
+step 1
+index added: 341
+percentage unclustered: 62.413%
+
+	step 2
+
+step 1
+index added: 342
+percentage unclustered: 62.413%
+
+	step 2
+
+step 1
+index added: 343
+percentage unclustered: 62.181%
+
+	step 2
+
+step 1
+index added: 344
+percentage unclustered: 62.181%
+
+	step 2
+
+step 1
+index added: 345
+percentage unclustered: 62.181%
+
+	step 2
+
+step 1
+index added: 346
+percentage unclustered: 62.181%
+
+	step 2
+
+step 1
+index added: 347
+percentage unclustered: 62.181%
+
+	step 2
+
+step 1
+index added: 348
+percentage unclustered: 62.181%
+
+	step 2
+
+step 1
+index added: 349
+percentage unclustered: 62.181%
+
+	step 2
+
+step 1
+index added: 350
+percentage unclustered: 62.181%
+
+	step 2
+
+step 1
+index added: 351
+percentage unclustered: 61.949%
+
+	step 2
+
+step 1
+index added: 352
+percentage unclustered: 61.7169%
+
+	step 2
+
+		step 3
+		candidate index: 352 with core nodes: [34, 149, 221, 352]
+			old information: 36522, gain: 0.9237108104551408
+
+     ind                                             review  relevance
+0   149  re longtime fan sims series like sims 1 sims 3...   0.865816
+1   352  add list people eagerly awaited release game p...   0.851364
+2   221  long time player sims disappointed sims 4 brea...   0.844903
+3    66  usable laptop camera controls laptop unfriendl...   0.809140
+4   321  true fan since first sims alot people complain...   0.727907
+5   103  think m going write review game m sure many pe...   0.713415
+6   110  like sims 3 hate sims 4 many cool things intro...   0.708005
+7    53  worst sims game ever played even called sims l...   0.703002
+8    58  game gotten lot hate longtime simmers honestly...   0.699624
+9    86  avid simmer playing obsessed since original si...   0.698472
+10   85  sims lover beginning faithful customer games a...   0.673484
+11   44  first got introduced sims 3 game years ago abs...   0.651293
+12   29  honestly super excited get game christmas open...   0.620568
+13   35  pre ordered game ea announced available order ...   0.613240
+14  126  updating 12 22 2014 factor changes came patch ...   0.593044
+15  136  happy bought thought gon na rock sucks much n ...   0.577130
+16   26  like took world map away sims 3 could see sims...   0.360479
+17   12                  sims going sims 3 way better love   0.312411
+18   21  read reviews wanted know ran windows 10 diffic...   0.290879
+
+step 1
+index added: 353
+percentage unclustered: 61.0209%
+
+	step 2
+
+		step 3
+		candidate index: 353 with core nodes: [34, 149, 221, 352]
+
+step 1
+index added: 354
+percentage unclustered: 61.0209%
+
+	step 2
+
+step 1
+index added: 355
+percentage unclustered: 61.0209%
+
+	step 2
+
+step 1
+index added: 356
+percentage unclustered: 61.0209%
+
+	step 2
+
+step 1
+index added: 357
+percentage unclustered: 61.0209%
+
+	step 2
+
+step 1
+index added: 358
+percentage unclustered: 61.0209%
+
+	step 2
+
+step 1
+index added: 359
+percentage unclustered: 60.7889%
+
+	step 2
+
+step 1
+index added: 360
+percentage unclustered: 60.7889%
+
+	step 2
+
+step 1
+index added: 361
+percentage unclustered: 60.5568%
+
+	step 2
+
+		step 3
+		candidate index: 361 with core nodes: [34, 149, 221, 352]
+
+step 1
+index added: 362
+percentage unclustered: 61.2529%
+
+	step 2
+
+		step 3
+		candidate index: 362 with core nodes: [149, 221, 352]
+
+step 1
+index added: 363
+percentage unclustered: 61.2529%
+
+	step 2
+
+step 1
+index added: 364
+percentage unclustered: 61.2529%
+
+	step 2
+
+step 1
+index added: 365
+percentage unclustered: 61.2529%
+
+	step 2
+
+step 1
+index added: 366
+percentage unclustered: 61.2529%
+
+	step 2
+
+step 1
+index added: 367
+percentage unclustered: 61.2529%
+
+	step 2
+
+step 1
+index added: 368
+percentage unclustered: 61.0209%
+
+	step 2
+
+		step 3
+		candidate index: 368 with core nodes: [149, 221, 352]
+
+step 1
+index added: 369
+percentage unclustered: 60.7889%
+
+	step 2
+
+		step 3
+		candidate index: 369 with core nodes: [149, 221, 352]
+
+step 1
+index added: 370
+percentage unclustered: 60.7889%
+
+	step 2
+
+step 1
+index added: 371
+percentage unclustered: 60.7889%
+
+	step 2
+
+step 1
+index added: 372
+percentage unclustered: 60.3248%
+
+	step 2
+
+		step 3
+		candidate index: 372 with core nodes: [110, 140, 283, 321]
+
+step 1
+index added: 373
+percentage unclustered: 60.3248%
+
+	step 2
+
+step 1
+index added: 374
+percentage unclustered: 60.3248%
+
+	step 2
+
+step 1
+index added: 375
+percentage unclustered: 60.3248%
+
+	step 2
+
+step 1
+index added: 376
+percentage unclustered: 60.0928%
+
+	step 2
+
+step 1
+index added: 377
+percentage unclustered: 60.0928%
+
+	step 2
+
+step 1
+index added: 378
+percentage unclustered: 59.8608%
+
+	step 2
+
+		step 3
+		candidate index: 378 with core nodes: [149, 221, 352]
+
+step 1
+index added: 379
+percentage unclustered: 59.8608%
+
+	step 2
+
+step 1
+index added: 380
+percentage unclustered: 59.8608%
+
+	step 2
+
+step 1
+index added: 381
+percentage unclustered: 59.6288%
+
+	step 2
+
+step 1
+index added: 382
+percentage unclustered: 59.6288%
+
+	step 2
+
+step 1
+index added: 383
+percentage unclustered: 59.3968%
+
+	step 2
+
+step 1
+index added: 384
+percentage unclustered: 58.7007%
+
+	step 2
+
+		step 3
+		candidate index: 384 with core nodes: [149, 221, 352]
+
+step 1
+index added: 385
+percentage unclustered: 58.7007%
+
+	step 2
+
+step 1
+index added: 386
+percentage unclustered: 58.4687%
+
+	step 2
+
+		step 3
+		candidate index: 386 with core nodes: [110, 140, 283, 321]
+
+step 1
+index added: 387
+percentage unclustered: 58.4687%
+
+	step 2
+
+step 1
+index added: 388
+percentage unclustered: 58.4687%
+
+	step 2
+
+step 1
+index added: 389
+percentage unclustered: 58.4687%
+
+	step 2
+
+step 1
+index added: 390
+percentage unclustered: 58.2367%
+
+	step 2
+
+		step 3
+		candidate index: 390 with core nodes: [126, 371, 390]
+			old information: 16949, gain: 0.8567782932373396
+
+     ind                                             review  relevance
+0   149  re longtime fan sims series like sims 1 sims 3...   0.865816
+1   352  add list people eagerly awaited release game p...   0.851364
+2   221  long time player sims disappointed sims 4 brea...   0.844903
+3    66  usable laptop camera controls laptop unfriendl...   0.809140
+4   321  true fan since first sims alot people complain...   0.727907
+5   103  think m going write review game m sure many pe...   0.713415
+6   110  like sims 3 hate sims 4 many cool things intro...   0.708005
+7    53  worst sims game ever played even called sims l...   0.703002
+8    58  game gotten lot hate longtime simmers honestly...   0.699624
+9    86  avid simmer playing obsessed since original si...   0.698472
+10  390  could give game 4 5 stars would let start sayi...   0.680878
+11   85  sims lover beginning faithful customer games a...   0.673484
+12   44  first got introduced sims 3 game years ago abs...   0.651293
+13   29  honestly super excited get game christmas open...   0.620568
+14   35  pre ordered game ea announced available order ...   0.613240
+15  126  updating 12 22 2014 factor changes came patch ...   0.593044
+16  136  happy bought thought gon na rock sucks much n ...   0.577130
+17   26  like took world map away sims 3 could see sims...   0.360479
+18   12                  sims going sims 3 way better love   0.312411
+19   21  read reviews wanted know ran windows 10 diffic...   0.290879
+
+step 1
+index added: 391
+percentage unclustered: 58.0046%
+
+	step 2
+
+step 1
+index added: 392
+percentage unclustered: 58.0046%
+
+	step 2
+
+step 1
+index added: 393
+percentage unclustered: 57.3086%
+
+	step 2
+
+step 1
+index added: 394
+percentage unclustered: 57.3086%
+
+	step 2
+
+		step 3
+		candidate index: 394 with core nodes: [149, 221, 352]
+
+step 1
+index added: 395
+percentage unclustered: 57.3086%
+
+	step 2
+
+step 1
+index added: 396
+percentage unclustered: 57.3086%
+
+	step 2
+
+step 1
+index added: 397
+percentage unclustered: 57.5406%
+
+	step 2
+
+step 1
+index added: 398
+percentage unclustered: 57.5406%
+
+	step 2
+
+step 1
+index added: 399
+percentage unclustered: 57.3086%
+
+	step 2
+
+step 1
+index added: 400
+percentage unclustered: 57.0766%
+
+	step 2
+
+		step 3
+		candidate index: 400 with core nodes: [149, 221, 352]
+
+step 1
+index added: 401
+percentage unclustered: 58.0046%
+
+	step 2
+
+step 1
+index added: 402
+percentage unclustered: 54.5244%
+
+	step 2
+
+step 1
+index added: 403
+percentage unclustered: 54.5244%
+
+	step 2
+
+step 1
+index added: 404
+percentage unclustered: 54.2923%
+
+	step 2
+
+		step 3
+		candidate index: 404 with core nodes: [149, 221, 352]
+
+step 1
+index added: 405
+percentage unclustered: 54.2923%
+
+	step 2
+
+step 1
+index added: 406
+percentage unclustered: 54.0603%
+
+	step 2
+
+		step 3
+		candidate index: 406 with core nodes: [85, 160, 192]
+
+step 1
+index added: 407
+percentage unclustered: 54.0603%
+
+	step 2
+
+step 1
+index added: 408
+percentage unclustered: 54.0603%
+
+	step 2
+
+step 1
+index added: 409
+percentage unclustered: 53.8283%
+
+	step 2
+
+		step 3
+		candidate index: 409 with core nodes: [149, 221, 352]
+
+step 1
+index added: 410
+percentage unclustered: 54.0603%
+
+	step 2
+
+step 1
+index added: 411
+percentage unclustered: 53.1323%
+
+	step 2
+
+step 1
+index added: 412
+percentage unclustered: 53.1323%
+
+	step 2
+
+step 1
+index added: 413
+percentage unclustered: 53.1323%
+
+	step 2
+
+step 1
+index added: 414
+percentage unclustered: 53.1323%
+
+	step 2
+
+step 1
+index added: 415
+percentage unclustered: 53.1323%
+
+	step 2
+
+step 1
+index added: 416
+percentage unclustered: 52.9002%
+
+	step 2
+
+step 1
+index added: 417
+percentage unclustered: 52.2042%
+
+	step 2
+
+step 1
+index added: 418
+percentage unclustered: 51.9722%
+
+	step 2
+
+		step 3
+		candidate index: 418 with core nodes: [85, 160, 192]
+
+step 1
+index added: 419
+percentage unclustered: 51.9722%
+
+	step 2
+
+step 1
+index added: 420
+percentage unclustered: 51.9722%
+
+	step 2
+
+step 1
+index added: 421
+percentage unclustered: 51.9722%
+
+	step 2
+
+step 1
+index added: 422
+percentage unclustered: 51.9722%
+
+	step 2
+
+step 1
+index added: 423
+percentage unclustered: 51.2761%
+
+	step 2
+
+		step 3
+		candidate index: 423 with core nodes: [149, 221, 352]
+
+step 1
+index added: 424
+percentage unclustered: 51.5081%
+
+	step 2
+
+step 1
+index added: 425
+percentage unclustered: 51.5081%
+
+	step 2
+
+step 1
+index added: 426
+percentage unclustered: 51.5081%
+
+	step 2
+
+step 1
+index added: 427
+percentage unclustered: 51.2761%
+
+	step 2
+
+step 1
+index added: 428
+percentage unclustered: 51.2761%
+
+	step 2
+
+step 1
+index added: 429
+percentage unclustered: 51.0441%
+
+	step 2
+
+step 1
+index added: 430
+percentage unclustered: 50.8121%
+
+	step 2
+
+--- 9688.853812932968 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 99.3039, 99.3039, 99.3039, 99.3039, 98.6079, 98.6079, 98.6079, 98.6079, 98.6079, 98.1439, 98.1439, 98.1439, 98.3759, 98.3759, 97.9118, 97.9118, 97.9118, 97.6798, 97.6798, 97.6798, 97.6798, 97.6798, 97.6798, 96.7517, 96.7517, 97.6798, 97.6798, 97.6798, 97.6798, 97.6798, 97.6798, 97.6798, 96.9838, 96.9838, 96.9838, 97.4478, 97.4478, 97.4478, 97.4478, 97.2158, 97.2158, 96.0557, 95.8237, 95.8237, 94.8956, 94.8956, 94.1995, 93.5035, 93.2715, 93.2715, 93.2715, 93.2715, 93.2715, 93.2715, 93.0394, 92.3434, 92.3434, 91.8794, 91.8794, 91.8794, 92.1114, 91.8794, 91.8794, 91.1833, 90.9513, 91.1833, 90.9513, 90.7193, 90.4872, 90.4872, 91.1833, 90.9513, 91.1833, 90.9513, 91.1833, 90.9513, 90.9513, 90.9513, 90.9513, 90.7193, 90.2552, 90.2552, 88.3991, 88.1671, 88.1671, 87.935, 87.703, 87.703, 87.703, 87.471, 86.5429, 86.0789, 86.7749, 86.7749, 86.5429, 87.703, 87.239, 87.007, 86.7749, 86.5429, 86.3109, 86.3109, 86.0789, 86.0789, 85.8469, 85.6148, 85.6148, 85.3828, 84.6868, 84.6868, 84.6868, 83.9907, 83.2947, 83.0626, 82.8306, 82.8306, 82.5986, 82.3666, 82.3666, 82.3666, 82.1346, 82.1346, 78.6543, 82.3666, 81.9026, 81.9026, 81.9026, 81.6705, 81.4385, 81.2065, 80.9745, 82.3666, 82.1346, 82.1346, 82.1346, 81.9026, 81.9026, 81.6705, 81.6705, 81.6705, 81.6705, 81.6705, 81.2065, 81.2065, 80.9745, 80.9745, 80.7425, 80.5104, 80.2784, 80.0464, 79.8144, 79.8144, 75.406, 79.1183, 79.1183, 78.8863, 78.8863, 78.8863, 78.6543, 78.6543, 77.9582, 77.9582, 77.9582, 77.9582, 77.7262, 77.4942, 77.2622, 77.2622, 77.03020000000001, 76.7981, 76.7981, 76.7981, 76.7981, 76.7981, 77.2622, 77.03020000000001, 76.7981, 76.7981, 76.7981, 76.7981, 76.5661, 76.5661, 76.5661, 76.5661, 76.5661, 76.10210000000001, 75.87010000000001, 75.63810000000001, 76.3341, 76.3341, 76.3341, 76.3341, 79.3503, 79.1183, 79.1183, 79.1183, 79.1183, 78.8863, 78.6543, 78.6543, 78.8863, 78.6543, 78.4223, 78.4223, 78.19030000000001, 78.19030000000001, 77.9582, 78.19030000000001, 78.4223, 78.19030000000001, 77.9582, 77.9582, 77.7262, 77.7262, 77.7262, 77.7262, 77.7262, 77.4942, 77.4942, 77.2622, 77.03020000000001, 76.7981, 76.7981, 76.7981, 76.5661, 76.3341, 76.3341, 76.10210000000001, 76.10210000000001, 76.10210000000001, 75.87010000000001, 75.63810000000001, 75.406, 75.406, 75.406, 75.63810000000001, 75.63810000000001, 75.406, 74.47800000000001, 74.2459, 74.0139, 73.78190000000001, 73.78190000000001, 73.78190000000001, 73.78190000000001, 73.54990000000001, 73.31790000000001, 73.31790000000001, 73.31790000000001, 73.31790000000001, 73.31790000000001, 72.62180000000001, 72.62180000000001, 72.38980000000001, 72.38980000000001, 72.38980000000001, 72.38980000000001, 72.38980000000001, 72.15780000000001, 72.15780000000001, 72.15780000000001, 72.15780000000001, 71.9258, 71.9258, 71.9258, 70.5336, 70.5336, 70.5336, 70.30160000000001, 70.30160000000001, 70.30160000000001, 70.06960000000001, 70.06960000000001, 70.06960000000001, 69.14150000000001, 68.90950000000001, 68.90950000000001, 68.90950000000001, 68.2135, 68.2135, 68.2135, 68.2135, 68.2135, 67.98140000000001, 67.98140000000001, 67.98140000000001, 67.74940000000001, 67.51740000000001, 67.51740000000001, 67.28540000000001, 67.51740000000001, 67.51740000000001, 67.28540000000001, 67.28540000000001, 67.28540000000001, 67.05340000000001, 67.05340000000001, 67.05340000000001, 66.82130000000001, 66.82130000000001, 66.82130000000001, 66.82130000000001, 66.58930000000001, 66.58930000000001, 66.35730000000001, 66.12530000000001, 66.12530000000001, 66.12530000000001, 64.5012, 64.26910000000001, 64.26910000000001, 64.26910000000001, 64.26910000000001, 64.26910000000001, 64.26910000000001, 64.03710000000001, 63.8051, 63.8051, 63.8051, 63.5731, 63.3411, 63.3411, 63.3411, 63.3411, 63.3411, 63.109, 62.877, 62.645, 62.645, 62.413, 62.413, 62.181, 62.181, 62.181, 62.181, 62.181, 62.181, 62.181, 62.181, 61.949, 61.7169, 61.0209, 61.0209, 61.0209, 61.0209, 61.0209, 61.0209, 60.7889, 60.7889, 60.5568, 61.2529, 61.2529, 61.2529, 61.2529, 61.2529, 61.2529, 61.0209, 60.7889, 60.7889, 60.7889, 60.3248, 60.3248, 60.3248, 60.3248, 60.0928, 60.0928, 59.8608, 59.8608, 59.8608, 59.6288, 59.6288, 59.3968, 58.7007, 58.7007, 58.4687, 58.4687, 58.4687, 58.4687, 58.2367, 58.0046, 58.0046, 57.3086, 57.3086, 57.3086, 57.3086, 57.5406, 57.5406, 57.3086, 57.0766, 58.0046, 54.5244, 54.5244, 54.2923, 54.2923, 54.0603, 54.0603, 54.0603, 53.8283, 54.0603, 53.1323, 53.1323, 53.1323, 53.1323, 53.1323, 52.9002, 52.2042, 51.9722, 51.9722, 51.9722, 51.9722, 51.9722, 51.2761, 51.5081, 51.5081, 51.5081, 51.2761, 51.2761, 51.0441, 50.8121], mean: 76.3022
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0         2  149   0.865816  re longtime fan sims series like sims 1 sims 3...
+1        31  352   0.851364  add list people eagerly awaited release game p...
+2        77  221   0.844903  long time player sims disappointed sims 4 brea...
+3       278   66   0.809140  usable laptop camera controls laptop unfriendl...
+4       272  321   0.727907  true fan since first sims alot people complain...
+5        83  103   0.713415  think m going write review game m sure many pe...
+6       231  110   0.708005  like sims 3 hate sims 4 many cool things intro...
+7       232   53   0.703002  worst sims game ever played even called sims l...
+8       395   58   0.699624  game gotten lot hate longtime simmers honestly...
+9       282   86   0.698472  avid simmer playing obsessed since original si...
+10      195  390   0.680878  could give game 4 5 stars would let start sayi...
+11      322   85   0.673484  sims lover beginning faithful customer games a...
+12       84   44   0.651293  first got introduced sims 3 game years ago abs...
+13      352   29   0.620568  honestly super excited get game christmas open...
+14      243   35   0.613240  pre ordered game ea announced available order ...
+15      259  126   0.593044  updating 12 22 2014 factor changes came patch ...
+16      417  136   0.577130  happy bought thought gon na rock sucks much n ...
+17      246   26   0.360479  like took world map away sims 3 could see sims...
+18      137   12   0.312411                  sims going sims 3 way better love
+19      277   21   0.290879  read reviews wanted know ran windows 10 diffic...

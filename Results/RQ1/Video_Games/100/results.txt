@@ -1,0 +1,849 @@
+------- Category: Video_Games -------
+Found asin_id: B001L18SBK
+Shape:  (100, 7)
+
+
+Chosen product: B001L18SBK has 100 reviews - True
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 97.0%
+
+	step 2
+
+		step 3
+		candidate index: 3 with core nodes: [0, 2, 3]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   3  ea kill sales due drm starbreeze choose differ...   0.259644
+
+step 1
+index added: 4
+percentage unclustered: 97.0%
+
+	step 2
+
+step 1
+index added: 5
+percentage unclustered: 96.0%
+
+	step 2
+
+		step 3
+		candidate index: 5 with core nodes: [0, 2, 3, 5]
+			old information: 38, gain: 0.993423329871928
+
+   ind                                             review  relevance
+0   5  yes infected game drm online activation requir...   0.373848
+1   3  ea kill sales due drm starbreeze choose differ...   0.259644
+
+step 1
+index added: 6
+percentage unclustered: 95.0%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [0, 3, 5, 6]
+			old information: 11, gain: 0.9763440860215054
+
+   ind                                             review  relevance
+0   5  yes infected game drm online activation requir...   0.373848
+1   6  picked copy gamestop went website find game fi...   0.297730
+2   3  ea kill sales due drm starbreeze choose differ...   0.259644
+
+step 1
+index added: 7
+percentage unclustered: 94.0%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [0, 5, 6]
+
+step 1
+index added: 8
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 93.0%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [0, 5, 9]
+			old information: 93, gain: 0.9791713325867861
+
+   ind                                             review  relevance
+0   9  starters game fun things right pc gaming d say...   0.494732
+1   5  yes infected game drm online activation requir...   0.373848
+2   6  picked copy gamestop went website find game fi...   0.297730
+3   3  ea kill sales due drm starbreeze choose differ...   0.259644
+
+step 1
+index added: 10
+percentage unclustered: 94.0%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [0, 3, 9]
+
+step 1
+index added: 11
+percentage unclustered: 93.0%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [0, 3, 9, 11]
+			old information: 90, gain: 0.943609022556391
+
+   ind                                             review  relevance
+0   9  starters game fun things right pc gaming d say...   0.494732
+1  11  m huge fan first riddick game looking forward ...   0.493943
+2   5  yes infected game drm online activation requir...   0.373848
+3   6  picked copy gamestop went website find game fi...   0.297730
+4   3  ea kill sales due drm starbreeze choose differ...   0.259644
+
+step 1
+index added: 12
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [0, 5, 9, 11]
+
+step 1
+index added: 13
+percentage unclustered: 89.0%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [0, 5, 9, 11]
+
+step 1
+index added: 14
+percentage unclustered: 89.0%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 88.0%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [0, 5, 9, 11]
+
+step 1
+index added: 16
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 87.0%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [0, 5, 9, 11]
+
+step 1
+index added: 19
+percentage unclustered: 86.0%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [0, 5, 9, 19]
+			old information: 111, gain: 0.9610526315789474
+
+   ind                                             review  relevance
+0  19  bought game without knowing drm install limit ...   0.520187
+1   9  starters game fun things right pc gaming d say...   0.494732
+2  11  m huge fan first riddick game looking forward ...   0.493943
+3   5  yes infected game drm online activation requir...   0.373848
+4   6  picked copy gamestop went website find game fi...   0.297730
+5   3  ea kill sales due drm starbreeze choose differ...   0.259644
+
+step 1
+index added: 20
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [0, 5, 9, 19]
+
+step 1
+index added: 22
+percentage unclustered: 84.0%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [0, 5, 9, 19]
+
+step 1
+index added: 23
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 83.0%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [0, 5, 9, 19]
+			old information: 77, gain: 0.9222222222222223
+
+   ind                                             review  relevance
+0  19  bought game without knowing drm install limit ...   0.520187
+1   9  starters game fun things right pc gaming d say...   0.494732
+2  11  m huge fan first riddick game looking forward ...   0.493943
+3  24  buy ps3 xbox 360 versions play game console fa...   0.467426
+4   5  yes infected game drm online activation requir...   0.373848
+5   6  picked copy gamestop went website find game fi...   0.297730
+6   3  ea kill sales due drm starbreeze choose differ...   0.259644
+
+step 1
+index added: 25
+percentage unclustered: 83.0%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 83.0%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 82.0%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [0, 3, 9, 11, 19, 21, 27]
+			old information: 250, gain: 0.9361593462717058
+
+   ind                                             review  relevance
+0  19  bought game without knowing drm install limit ...   0.520187
+1  27  really great game really nasty drm uses tages ...   0.515405
+2   9  starters game fun things right pc gaming d say...   0.494732
+3  11  m huge fan first riddick game looking forward ...   0.493943
+4  24  buy ps3 xbox 360 versions play game console fa...   0.467426
+5   5  yes infected game drm online activation requir...   0.373848
+6   6  picked copy gamestop went website find game fi...   0.297730
+7   3  ea kill sales due drm starbreeze choose differ...   0.259644
+
+step 1
+index added: 28
+percentage unclustered: 81.0%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [0, 3, 9, 11, 19, 21, 27, 28]
+			old information: 98, gain: 0.8444444444444444
+
+   ind                                             review  relevance
+0  19  bought game without knowing drm install limit ...   0.520187
+1  27  really great game really nasty drm uses tages ...   0.515405
+2   9  starters game fun things right pc gaming d say...   0.494732
+3  11  m huge fan first riddick game looking forward ...   0.493943
+4  28  need preach horrors drm many others already do...   0.479773
+5  24  buy ps3 xbox 360 versions play game console fa...   0.467426
+6   5  yes infected game drm online activation requir...   0.373848
+7   6  picked copy gamestop went website find game fi...   0.297730
+8   3  ea kill sales due drm starbreeze choose differ...   0.259644
+
+step 1
+index added: 29
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 29 with core nodes: [0, 3, 9, 11, 19, 21, 27, 28]
+
+step 1
+index added: 30
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 79.0%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [0, 3, 9, 11, 19, 21, 27, 28]
+
+step 1
+index added: 34
+percentage unclustered: 79.0%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 79.0%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 79.0%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 79.0%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 84.0%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [24, 27, 28, 47]
+			old information: 123, gain: 0.8637873754152824
+
+   ind                                             review  relevance
+0  47  game installed computer three times ok fine re...   0.588044
+1  19  bought game without knowing drm install limit ...   0.520187
+2  27  really great game really nasty drm uses tages ...   0.515405
+3   9  starters game fun things right pc gaming d say...   0.494732
+4  11  m huge fan first riddick game looking forward ...   0.493943
+5  28  need preach horrors drm many others already do...   0.479773
+6  24  buy ps3 xbox 360 versions play game console fa...   0.467426
+7   5  yes infected game drm online activation requir...   0.373848
+8   6  picked copy gamestop went website find game fi...   0.297730
+9   3  ea kill sales due drm starbreeze choose differ...   0.259644
+
+step 1
+index added: 48
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 83.0%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [24, 27, 28, 47]
+
+step 1
+index added: 50
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 83.0%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 83.0%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 83.0%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 83.0%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 82.0%
+
+	step 2
+
+		step 3
+		candidate index: 55 with core nodes: [24, 27, 28, 47]
+
+step 1
+index added: 56
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 78.0%
+
+	step 2
+
+		step 3
+		candidate index: 58 with core nodes: [24, 27, 28, 47]
+
+step 1
+index added: 59
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 74.0%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 74.0%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 74.0%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 69.0%
+
+	step 2
+
+		step 3
+		candidate index: 64 with core nodes: [19, 47, 64]
+			old information: 82, gain: 0.7980295566502463
+
+    ind                                             review  relevance
+0   47  game installed computer three times ok fine re...   0.588044
+1   19  bought game without knowing drm install limit ...   0.520187
+2   27  really great game really nasty drm uses tages ...   0.515405
+3    9  starters game fun things right pc gaming d say...   0.494732
+4   11  m huge fan first riddick game looking forward ...   0.493943
+5   64  3 installs ever buying game paying hefty renta...   0.488460
+6   28  need preach horrors drm many others already do...   0.479773
+7   24  buy ps3 xbox 360 versions play game console fa...   0.467426
+8    5  yes infected game drm online activation requir...   0.373848
+9    6  picked copy gamestop went website find game fi...   0.297730
+10   3  ea kill sales due drm starbreeze choose differ...   0.259644
+
+step 1
+index added: 65
+percentage unclustered: 69.0%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 67.0%
+
+	step 2
+
+		step 3
+		candidate index: 68 with core nodes: [0, 28, 43, 47, 68]
+			old information: 22, gain: 0.9804964539007093
+
+    ind                                             review  relevance
+0   47  game installed computer three times ok fine re...   0.588044
+1   68  problem game could fantastic game makers game ...   0.541810
+2   19  bought game without knowing drm install limit ...   0.520187
+3   27  really great game really nasty drm uses tages ...   0.515405
+4    9  starters game fun things right pc gaming d say...   0.494732
+5   11  m huge fan first riddick game looking forward ...   0.493943
+6   64  3 installs ever buying game paying hefty renta...   0.488460
+7   28  need preach horrors drm many others already do...   0.479773
+8   24  buy ps3 xbox 360 versions play game console fa...   0.467426
+9    5  yes infected game drm online activation requir...   0.373848
+10   6  picked copy gamestop went website find game fi...   0.297730
+11   3  ea kill sales due drm starbreeze choose differ...   0.259644
+
+step 1
+index added: 69
+percentage unclustered: 67.0%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 67.0%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 66.0%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 62.0%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 62.0%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 64.0%
+
+	step 2
+
+		step 3
+		candidate index: 81 with core nodes: [47, 68, 81]
+			old information: 256, gain: 0.9401589527816737
+
+    ind                                             review  relevance
+0   81  another game looking forward never companies i...   0.629944
+1   47  game installed computer three times ok fine re...   0.588044
+2   68  problem game could fantastic game makers game ...   0.541810
+3   19  bought game without knowing drm install limit ...   0.520187
+4   27  really great game really nasty drm uses tages ...   0.515405
+5    9  starters game fun things right pc gaming d say...   0.494732
+6   11  m huge fan first riddick game looking forward ...   0.493943
+7   64  3 installs ever buying game paying hefty renta...   0.488460
+8   28  need preach horrors drm many others already do...   0.479773
+9   24  buy ps3 xbox 360 versions play game console fa...   0.467426
+10   5  yes infected game drm online activation requir...   0.373848
+11   6  picked copy gamestop went website find game fi...   0.297730
+12   3  ea kill sales due drm starbreeze choose differ...   0.259644
+
+step 1
+index added: 82
+percentage unclustered: 63.0%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 60.0%
+
+	step 2
+
+		step 3
+		candidate index: 83 with core nodes: [47, 68, 81]
+
+step 1
+index added: 84
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 59.0%
+
+	step 2
+
+		step 3
+		candidate index: 85 with core nodes: [3, 49, 85]
+			old information: 248, gain: 0.9518540089303048
+
+    ind                                             review  relevance
+0   81  another game looking forward never companies i...   0.629944
+1   47  game installed computer three times ok fine re...   0.588044
+2   68  problem game could fantastic game makers game ...   0.541810
+3   19  bought game without knowing drm install limit ...   0.520187
+4   27  really great game really nasty drm uses tages ...   0.515405
+5    9  starters game fun things right pc gaming d say...   0.494732
+6   11  m huge fan first riddick game looking forward ...   0.493943
+7   64  3 installs ever buying game paying hefty renta...   0.488460
+8   28  need preach horrors drm many others already do...   0.479773
+9   24  buy ps3 xbox 360 versions play game console fa...   0.467426
+10  85  m sure people wo look hard find cracked versio...   0.448163
+11   5  yes infected game drm online activation requir...   0.373848
+12   6  picked copy gamestop went website find game fi...   0.297730
+13   3  ea kill sales due drm starbreeze choose differ...   0.259644
+
+step 1
+index added: 86
+percentage unclustered: 59.0%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 59.0%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 59.0%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 59.0%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 58.0%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 58.0%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 57.0%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 57.0%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 57.0%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 57.0%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 57.0%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 57.0%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 56.0%
+
+	step 2
+
+		step 3
+		candidate index: 98 with core nodes: [47, 68, 81]
+
+step 1
+index added: 99
+percentage unclustered: 56.0%
+
+	step 2
+
+--- 34.642770528793335 seconds ---
+
+
+ Unclustered percentages: [100.0, 97.0, 97.0, 96.0, 95.0, 94.0, 94.0, 93.0, 94.0, 93.0, 90.0, 89.0, 89.0, 88.0, 88.0, 88.0, 87.0, 86.0, 86.0, 85.0, 84.0, 84.0, 83.0, 83.0, 83.0, 82.0, 81.0, 80.0, 80.0, 80.0, 80.0, 79.0, 79.0, 79.0, 79.0, 79.0, 86.0, 86.0, 86.0, 86.0, 86.0, 86.0, 86.0, 86.0, 85.0, 84.0, 84.0, 83.0, 84.0, 83.0, 83.0, 83.0, 83.0, 82.0, 82.0, 82.0, 78.0, 75.0, 75.0, 74.0, 74.0, 74.0, 69.0, 69.0, 68.0, 68.0, 67.0, 67.0, 67.0, 66.0, 65.0, 65.0, 64.0, 64.0, 64.0, 65.0, 65.0, 62.0, 62.0, 64.0, 63.0, 60.0, 60.0, 59.0, 59.0, 59.0, 59.0, 59.0, 58.0, 58.0, 57.0, 57.0, 57.0, 57.0, 57.0, 57.0, 56.0, 56.0], mean: 76.4184
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        13  81   0.629944  another game looking forward never companies i...
+1        52  47   0.588044  game installed computer three times ok fine re...
+2        69  68   0.541810  problem game could fantastic game makers game ...
+3        94  19   0.520187  bought game without knowing drm install limit ...
+4        82  27   0.515405  really great game really nasty drm uses tages ...
+5        91   9   0.494732  starters game fun things right pc gaming d say...
+6        83  11   0.493943  m huge fan first riddick game looking forward ...
+7        49  64   0.488460  3 installs ever buying game paying hefty renta...
+8        90  28   0.479773  need preach horrors drm many others already do...
+9        81  24   0.467426  buy ps3 xbox 360 versions play game console fa...
+10        3  85   0.448163  m sure people wo look hard find cracked versio...
+11       22   5   0.373848  yes infected game drm online activation requir...
+12       23   6   0.297730  picked copy gamestop went website find game fi...
+13       31   3   0.259644  ea kill sales due drm starbreeze choose differ...
