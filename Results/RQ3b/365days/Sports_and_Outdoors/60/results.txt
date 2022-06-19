@@ -1,0 +1,521 @@
+------- Category: Sports_and_Outdoors -------
+Found asin_id: B000EHWWJQ
+Shape:  (60, 7)
+
+
+Chosen product: B000EHWWJQ has 60 reviews - True, it has 60 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 95.0%
+
+	step 2
+
+		step 3
+		candidate index: 4 with core nodes: [1, 2, 4]
+		The relevance model has size: 2
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 2
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   4  buck knife best knife ever made usa made bo ya...   0.224233
+
+step 1
+index added: 5
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 6
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 93.3333%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [1, 2, 4, 7]
+		The relevance model has size: 3
+		1 reviews removed from the relevance model, indices: [1]. 
+		It now has size: 2
+			old information: 3, gain: 0.9803921568627451
+
+   ind                                             review  relevance
+0   7  expected buck knife believe counterfeit handle...   0.371710
+1   4  buck knife best knife ever made usa made bo ya...   0.224233
+
+step 1
+index added: 8
+percentage unclustered: 91.6667%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [1, 2, 7, 8]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [1, 2]. 
+		It now has size: 2
+			old information: 38, gain: 0.9898422881582465
+
+   ind                                             review  relevance
+0   7  expected buck knife believe counterfeit handle...   0.371710
+1   4  buck knife best knife ever made usa made bo ya...   0.224233
+2   8  n t think ve ever held better knife weight bal...   0.196787
+
+step 1
+index added: 9
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 86.6667%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [2, 7, 8, 15]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [2, 4]. 
+		It now has size: 2
+			old information: 206, gain: 0.9829611248966088
+
+   ind                                             review  relevance
+0  15  used buck knives well half century far one bes...   0.464205
+1   7  expected buck knife believe counterfeit handle...   0.371710
+2   4  buck knife best knife ever made usa made bo ya...   0.224233
+3   8  n t think ve ever held better knife weight bal...   0.196787
+
+step 1
+index added: 16
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [2, 7, 8, 15, 16]
+		The relevance model has size: 4
+		1 reviews removed from the relevance model, indices: [2]. 
+		It now has size: 3
+			old information: 45, gain: 0.9197860962566845
+
+   ind                                             review  relevance
+0  15  used buck knives well half century far one bes...   0.464205
+1  16  original buck hunting knife s around forever h...   0.401357
+2   7  expected buck knife believe counterfeit handle...   0.371710
+3   4  buck knife best knife ever made usa made bo ya...   0.224233
+4   8  n t think ve ever held better knife weight bal...   0.196787
+
+step 1
+index added: 17
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [2, 8, 15, 18]
+		The relevance model has size: 5
+		1 reviews removed from the relevance model, indices: [2]. 
+		It now has size: 4
+			old information: 450, gain: 0.9782671689365401
+
+   ind                                             review  relevance
+0  18  got first 119 20 years ago well made knife goo...   0.482561
+1  15  used buck knives well half century far one bes...   0.464205
+2  16  original buck hunting knife s around forever h...   0.401357
+3   7  expected buck knife believe counterfeit handle...   0.371710
+4   4  buck knife best knife ever made usa made bo ya...   0.224233
+5   8  n t think ve ever held better knife weight bal...   0.196787
+
+step 1
+index added: 19
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [2, 8, 15, 18, 22]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [7, 15, 18]. 
+		It now has size: 3
+			old information: 297, gain: 0.9083333333333333
+
+   ind                                             review  relevance
+0  22  one best hunting knives ever touched beautiful...   0.604442
+1  18  got first 119 20 years ago well made knife goo...   0.482561
+2  15  used buck knives well half century far one bes...   0.464205
+3  16  original buck hunting knife s around forever h...   0.401357
+4   7  expected buck knife believe counterfeit handle...   0.371710
+5   4  buck knife best knife ever made usa made bo ya...   0.224233
+6   8  n t think ve ever held better knife weight bal...   0.196787
+
+step 1
+index added: 23
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 25 with core nodes: [2, 8, 15, 18, 22, 25]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [2, 8, 15]. 
+		It now has size: 3
+			old information: 365, gain: 0.960239651416122
+
+   ind                                             review  relevance
+0  25  buck 119 survival knife bushcraft knife n n so...   0.624371
+1  22  one best hunting knives ever touched beautiful...   0.604442
+2  18  got first 119 20 years ago well made knife goo...   0.482561
+3  15  used buck knives well half century far one bes...   0.464205
+4  16  original buck hunting knife s around forever h...   0.401357
+5   7  expected buck knife believe counterfeit handle...   0.371710
+6   4  buck knife best knife ever made usa made bo ya...   0.224233
+7   8  n t think ve ever held better knife weight bal...   0.196787
+
+step 1
+index added: 26
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 29 with core nodes: [2, 18, 22, 25]
+
+step 1
+index added: 30
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [2, 18, 22, 25]
+
+step 1
+index added: 31
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [2, 18, 22, 25]
+
+step 1
+index added: 34
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 71.66669999999999%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 65.0%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [2, 18, 22, 25]
+
+step 1
+index added: 37
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 63.3333%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [2, 18, 22, 25]
+
+step 1
+index added: 42
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 61.6667%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [2, 18, 22, 25]
+
+step 1
+index added: 44
+percentage unclustered: 61.6667%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 60.0%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [2, 18, 22, 25]
+
+step 1
+index added: 46
+percentage unclustered: 56.6667%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [2, 8, 15, 22, 25, 29]
+
+step 1
+index added: 47
+percentage unclustered: 56.6667%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 55.0%
+
+	step 2
+
+		step 3
+		candidate index: 48 with core nodes: [2, 8, 15, 22, 25, 29]
+
+step 1
+index added: 49
+percentage unclustered: 55.0%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 58 with core nodes: [32, 34, 46, 58]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [16, 18, 32, 46]. 
+		It now has size: 3
+			old information: 433, gain: 0.8894279877425945
+
+   ind                                             review  relevance
+0  25  buck 119 survival knife bushcraft knife n n so...   0.624371
+1  22  one best hunting knives ever touched beautiful...   0.604442
+2  18  got first 119 20 years ago well made knife goo...   0.482561
+3  15  used buck knives well half century far one bes...   0.464205
+4  58  every man one purchased first buck 119 special...   0.407632
+5  16  original buck hunting knife s around forever h...   0.401357
+6   7  expected buck knife believe counterfeit handle...   0.371710
+7   4  buck knife best knife ever made usa made bo ya...   0.224233
+8   8  n t think ve ever held better knife weight bal...   0.196787
+
+step 1
+index added: 59
+percentage unclustered: 85.0%
+
+	step 2
+
+--- 11.143562316894531 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 95.0, 95.0, 95.0, 93.3333, 91.6667, 91.6667, 91.6667, 91.6667, 91.6667, 91.6667, 91.6667, 86.6667, 85.0, 85.0, 81.66669999999999, 81.66669999999999, 81.66669999999999, 85.0, 83.33330000000001, 83.33330000000001, 83.33330000000001, 81.66669999999999, 81.66669999999999, 81.66669999999999, 81.66669999999999, 80.0, 78.33330000000001, 78.33330000000001, 78.33330000000001, 76.66669999999999, 76.66669999999999, 71.66669999999999, 65.0, 65.0, 65.0, 65.0, 65.0, 63.3333, 63.3333, 61.6667, 61.6667, 60.0, 56.6667, 56.6667, 55.0, 55.0, 65.0, 80.0, 80.0, 80.0, 80.0, 80.0, 80.0, 80.0, 85.0, 85.0], mean: 78.9081
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0       26  25   0.624371  buck 119 survival knife bushcraft knife n n so...
+1       35  22   0.604442  one best hunting knives ever touched beautiful...
+2       39  18   0.482561  got first 119 20 years ago well made knife goo...
+3       43  15   0.464205  used buck knives well half century far one bes...
+4        7  58   0.407632  every man one purchased first buck 119 special...
+5       44  16   0.401357  original buck hunting knife s around forever h...
+6       40   7   0.371710  expected buck knife believe counterfeit handle...
+7       19   4   0.224233  buck knife best knife ever made usa made bo ya...
+8       36   8   0.196787  n t think ve ever held better knife weight bal...

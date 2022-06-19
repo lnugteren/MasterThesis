@@ -1,0 +1,1090 @@
+------- Category: Sports_and_Outdoors -------
+Found asin_id: B01EM3IL06
+Shape:  (150, 7)
+
+
+Chosen product: B01EM3IL06 has 150 reviews - True, it has 150 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 98.0%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [2, 4, 10]
+		The relevance model has size: 2
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 2
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  10  love actually ordered one uncle liked mine lov...   0.203859
+
+step 1
+index added: 11
+percentage unclustered: 96.0%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 95.3333%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 95.3333%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 95.3333%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 95.3333%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 93.3333%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [2, 13, 15, 16]
+		The relevance model has size: 5
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 5
+			old information: 1, gain: 0.9904761904761905
+
+   ind                                             review  relevance
+0  16  money really good quality flashlight well made...   0.320701
+1  10  love actually ordered one uncle liked mine lov...   0.203859
+
+step 1
+index added: 17
+percentage unclustered: 93.3333%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 93.3333%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 93.3333%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 93.3333%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 92.6667%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [13, 15, 16, 21]
+		The relevance model has size: 6
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 6
+			old information: 1, gain: 0.9523809523809523
+
+   ind                                             review  relevance
+0  16  money really good quality flashlight well made...   0.320701
+1  10  love actually ordered one uncle liked mine lov...   0.203859
+2  21         bought 2 still works well highly recommend   0.133863
+
+step 1
+index added: 22
+percentage unclustered: 92.6667%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 92.6667%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 91.3333%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 91.3333%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 90.6667%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [13, 15, 16, 21]
+
+step 1
+index added: 28
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [10, 13, 15, 16, 28]
+		The relevance model has size: 7
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 7
+			old information: 1, gain: 0.9333333333333333
+
+   ind                                             review  relevance
+0  16  money really good quality flashlight well made...   0.320701
+1  28  love flashlight everything need recommend ever...   0.303394
+2  10  love actually ordered one uncle liked mine lov...   0.203859
+3  21         bought 2 still works well highly recommend   0.133863
+
+step 1
+index added: 29
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 87.3333%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 85.3333%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 85.3333%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 84.6667%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 84.6667%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 84.0%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [19, 30, 35]
+		The relevance model has size: 10
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 10
+			old information: 0, gain: 1.0
+
+step 1
+index added: 36
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 82.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 40 with core nodes: [19, 30, 35]
+
+step 1
+index added: 41
+percentage unclustered: 82.0%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [19, 30, 35, 41]
+		The relevance model has size: 11
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 11
+			old information: 0, gain: 1.0
+
+step 1
+index added: 42
+percentage unclustered: 81.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 42 with core nodes: [29, 31, 42]
+		The relevance model has size: 14
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 14
+			old information: 0, gain: 1.0
+
+step 1
+index added: 43
+percentage unclustered: 80.66669999999999%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 78.66669999999999%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 78.66669999999999%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 78.0%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 77.33330000000001%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 77.33330000000001%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 77.33330000000001%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 72.66669999999999%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 72.66669999999999%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 72.66669999999999%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 74.66669999999999%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 74.0%
+
+	step 2
+
+		step 3
+		candidate index: 63 with core nodes: [2, 62, 63]
+		The relevance model has size: 16
+		1 reviews removed from the relevance model, indices: [2]. 
+		It now has size: 15
+			old information: 12, gain: 0.9987488270253363
+
+   ind                                             review  relevance
+0  16  money really good quality flashlight well made...   0.320701
+1  28  love flashlight everything need recommend ever...   0.303394
+2  63  fwiw first believe 1 star amazon reviews uncle...   0.255620
+3  10  love actually ordered one uncle liked mine lov...   0.203859
+4  21         bought 2 still works well highly recommend   0.133863
+
+step 1
+index added: 64
+percentage unclustered: 74.0%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 74.0%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 74.0%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 67 with core nodes: [2, 62, 63, 67]
+		The relevance model has size: 17
+		1 reviews removed from the relevance model, indices: [2]. 
+		It now has size: 16
+			old information: 10, gain: 0.3333333333333333
+
+   ind                                             review  relevance
+0  67                   flashlight n t says like battery   0.423507
+1  16  money really good quality flashlight well made...   0.320701
+2  28  love flashlight everything need recommend ever...   0.303394
+3  63  fwiw first believe 1 star amazon reviews uncle...   0.255620
+4  10  love actually ordered one uncle liked mine lov...   0.203859
+5  21         bought 2 still works well highly recommend   0.133863
+
+step 1
+index added: 68
+percentage unclustered: 71.33330000000001%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 71.33330000000001%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 70.66669999999999%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 69.33330000000001%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 69.33330000000001%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 74 with core nodes: [2, 62, 63, 67, 74]
+		The relevance model has size: 18
+		1 reviews removed from the relevance model, indices: [2]. 
+		It now has size: 17
+			old information: 46, gain: 0.8466666666666667
+
+   ind                                             review  relevance
+0  67                   flashlight n t says like battery   0.423507
+1  16  money really good quality flashlight well made...   0.320701
+2  74  flashlight worked fine received put glove comp...   0.310403
+3  28  love flashlight everything need recommend ever...   0.303394
+4  63  fwiw first believe 1 star amazon reviews uncle...   0.255620
+5  10  love actually ordered one uncle liked mine lov...   0.203859
+6  21         bought 2 still works well highly recommend   0.133863
+
+step 1
+index added: 75
+percentage unclustered: 70.66669999999999%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 70.66669999999999%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 70.66669999999999%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 70.66669999999999%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 69.33330000000001%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 69.33330000000001%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 69.33330000000001%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 69.33330000000001%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 68.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 84 with core nodes: [2, 62, 63, 67, 74]
+
+step 1
+index added: 85
+percentage unclustered: 68.66669999999999%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 65.33330000000001%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 64.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 87 with core nodes: [2, 48, 63]
+
+step 1
+index added: 88
+percentage unclustered: 64.66669999999999%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 64.66669999999999%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 62.6667%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 60.6667%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 57.3333%
+
+	step 2
+
+		step 3
+		candidate index: 92 with core nodes: [19, 30, 35, 41]
+
+step 1
+index added: 93
+percentage unclustered: 56.6667%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 56.6667%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 56.6667%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 56.6667%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 56.0%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 55.3333%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 55.3333%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 55.3333%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 55.3333%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 55.3333%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 53.3333%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 52.6667%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 52.6667%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 52.6667%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 52.0%
+
+	step 2
+
+		step 3
+		candidate index: 107 with core nodes: [2, 46, 48, 63]
+
+step 1
+index added: 108
+percentage unclustered: 51.3333%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 50.6667%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 50.6667%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 50.6667%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 50.6667%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 49.3333%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 48.0%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 47.3333%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 46.6667%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 46.6667%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 46.6667%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 46.0%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 45.3333%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 45.3333%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 45.3333%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 44.6667%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 44.0%
+
+	step 2
+
+		step 3
+		candidate index: 125 with core nodes: [60, 86, 125]
+		The relevance model has size: 20
+		1 reviews removed from the relevance model, indices: [4]. 
+		It now has size: 19
+			old information: 0, gain: 1.0
+
+step 1
+index added: 126
+percentage unclustered: 43.3333%
+
+	step 2
+
+		step 3
+		candidate index: 126 with core nodes: [19, 30, 35, 41]
+
+step 1
+index added: 127
+percentage unclustered: 44.0%
+
+	step 2
+
+step 1
+index added: 128
+percentage unclustered: 43.3333%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 42.6667%
+
+	step 2
+
+step 1
+index added: 130
+percentage unclustered: 42.0%
+
+	step 2
+
+step 1
+index added: 131
+percentage unclustered: 41.3333%
+
+	step 2
+
+		step 3
+		candidate index: 131 with core nodes: [22, 73, 131]
+		The relevance model has size: 22
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 22
+			old information: 0, gain: 1.0
+
+step 1
+index added: 132
+percentage unclustered: 40.6667%
+
+	step 2
+
+step 1
+index added: 133
+percentage unclustered: 40.0%
+
+	step 2
+
+		step 3
+		candidate index: 133 with core nodes: [78, 91, 120, 133]
+		The relevance model has size: 26
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 26
+			old information: 6, gain: 0.968421052631579
+
+    ind                                             review  relevance
+0   67                   flashlight n t says like battery   0.423507
+1   16  money really good quality flashlight well made...   0.320701
+2   74  flashlight worked fine received put glove comp...   0.310403
+3   28  love flashlight everything need recommend ever...   0.303394
+4  133  n t buy trash hardly brighter give away free f...   0.271716
+5   63  fwiw first believe 1 star amazon reviews uncle...   0.255620
+6   10  love actually ordered one uncle liked mine lov...   0.203859
+7   21         bought 2 still works well highly recommend   0.133863
+
+step 1
+index added: 134
+percentage unclustered: 39.3333%
+
+	step 2
+
+step 1
+index added: 135
+percentage unclustered: 39.3333%
+
+	step 2
+
+step 1
+index added: 136
+percentage unclustered: 39.3333%
+
+	step 2
+
+step 1
+index added: 137
+percentage unclustered: 38.6667%
+
+	step 2
+
+		step 3
+		candidate index: 137 with core nodes: [78, 91, 120, 133]
+
+step 1
+index added: 138
+percentage unclustered: 38.0%
+
+	step 2
+
+step 1
+index added: 139
+percentage unclustered: 37.3333%
+
+	step 2
+
+		step 3
+		candidate index: 139 with core nodes: [60, 86, 125]
+
+step 1
+index added: 140
+percentage unclustered: 36.6667%
+
+	step 2
+
+step 1
+index added: 141
+percentage unclustered: 36.0%
+
+	step 2
+
+step 1
+index added: 142
+percentage unclustered: 35.333299999999994%
+
+	step 2
+
+step 1
+index added: 143
+percentage unclustered: 35.333299999999994%
+
+	step 2
+
+step 1
+index added: 144
+percentage unclustered: 37.3333%
+
+	step 2
+
+step 1
+index added: 145
+percentage unclustered: 37.3333%
+
+	step 2
+
+step 1
+index added: 146
+percentage unclustered: 36.6667%
+
+	step 2
+
+step 1
+index added: 147
+percentage unclustered: 36.6667%
+
+	step 2
+
+		step 3
+		candidate index: 147 with core nodes: [78, 91, 120, 133, 147]
+		The relevance model has size: 27
+		0 reviews removed from the relevance model, indices: []. 
+		It now has size: 27
+			old information: 42, gain: 0.9251336898395722
+
+    ind                                             review  relevance
+0   67                   flashlight n t says like battery   0.423507
+1   16  money really good quality flashlight well made...   0.320701
+2  147  n t buy yet feeling ll receive one birthday ma...   0.318624
+3   74  flashlight worked fine received put glove comp...   0.310403
+4   28  love flashlight everything need recommend ever...   0.303394
+5  133  n t buy trash hardly brighter give away free f...   0.271716
+6   63  fwiw first believe 1 star amazon reviews uncle...   0.255620
+7   10  love actually ordered one uncle liked mine lov...   0.203859
+8   21         bought 2 still works well highly recommend   0.133863
+
+step 1
+index added: 148
+percentage unclustered: 36.0%
+
+	step 2
+
+		step 3
+		candidate index: 148 with core nodes: [78, 91, 120, 133, 147]
+
+step 1
+index added: 149
+percentage unclustered: 42.6667%
+
+	step 2
+
+		step 3
+		candidate index: 149 with core nodes: [19, 30, 35, 41]
+
+--- 86.18774485588074 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 98.0, 96.0, 95.3333, 95.3333, 95.3333, 95.3333, 93.3333, 93.3333, 93.3333, 93.3333, 93.3333, 92.6667, 92.6667, 92.6667, 92.0, 91.3333, 91.3333, 90.6667, 90.0, 88.0, 87.3333, 85.3333, 85.3333, 84.6667, 84.6667, 84.0, 84.0, 83.33330000000001, 83.33330000000001, 83.33330000000001, 82.66669999999999, 82.0, 81.33330000000001, 80.66669999999999, 78.66669999999999, 78.66669999999999, 78.0, 78.0, 78.0, 78.0, 78.0, 78.0, 77.33330000000001, 77.33330000000001, 76.66669999999999, 77.33330000000001, 76.66669999999999, 76.66669999999999, 73.33330000000001, 72.66669999999999, 72.66669999999999, 72.66669999999999, 74.66669999999999, 74.0, 74.0, 74.0, 74.0, 73.33330000000001, 71.33330000000001, 71.33330000000001, 70.66669999999999, 70.0, 69.33330000000001, 69.33330000000001, 70.0, 70.66669999999999, 70.66669999999999, 70.66669999999999, 70.66669999999999, 70.0, 69.33330000000001, 69.33330000000001, 69.33330000000001, 69.33330000000001, 68.66669999999999, 68.66669999999999, 65.33330000000001, 64.66669999999999, 64.66669999999999, 64.66669999999999, 62.6667, 60.6667, 57.3333, 56.6667, 56.6667, 56.6667, 56.6667, 56.0, 55.3333, 55.3333, 55.3333, 55.3333, 55.3333, 53.3333, 52.6667, 52.6667, 52.6667, 52.0, 51.3333, 50.6667, 50.6667, 50.6667, 50.6667, 50.0, 49.3333, 48.0, 47.3333, 46.6667, 46.6667, 46.6667, 46.0, 45.3333, 45.3333, 45.3333, 44.6667, 44.0, 43.3333, 44.0, 43.3333, 42.6667, 42.0, 41.3333, 40.6667, 40.0, 39.3333, 39.3333, 39.3333, 38.6667, 38.0, 37.3333, 36.6667, 36.0, 35.333299999999994, 35.333299999999994, 37.3333, 37.3333, 36.6667, 36.6667, 36.0, 42.6667], mean: 67.4234
+
+Final Ranking:
+   ranking  ind  relevance                                             review
+0      118   67   0.423507                   flashlight n t says like battery
+1       98   16   0.320701  money really good quality flashlight well made...
+2       48  147   0.318624  n t buy yet feeling ll receive one birthday ma...
+3       46   74   0.310403  flashlight worked fine received put glove comp...
+4       86   28   0.303394  love flashlight everything need recommend ever...
+5        4  133   0.271716  n t buy trash hardly brighter give away free f...
+6       78   63   0.255620  fwiw first believe 1 star amazon reviews uncle...
+7       84   10   0.203859  love actually ordered one uncle liked mine lov...
+8      102   21   0.133863         bought 2 still works well highly recommend
