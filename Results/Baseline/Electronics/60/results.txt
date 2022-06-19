@@ -1,0 +1,596 @@
+------- Category: Electronics -------
+Found asin_id: B00004THD0
+Shape:  (60, 7)
+
+
+Chosen product: B00004THD0 has 60 reviews - True, it has 60 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 95.0%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [2, 3, 7]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   7  m using lens canon eos elan iie camera thrille...   0.369611
+
+step 1
+index added: 8
+percentage unclustered: 93.3333%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [2, 3, 7, 8]
+			old information: 6, gain: 0.9607843137254902
+
+   ind                                             review  relevance
+0   7  m using lens canon eos elan iie camera thrille...   0.369611
+1   8  lens worked great totally recommend canon came...   0.245350
+
+step 1
+index added: 9
+percentage unclustered: 93.3333%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 93.3333%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 93.3333%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 91.6667%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [2, 3, 7, 12]
+			old information: 17, gain: 0.9979084645669292
+
+   ind                                             review  relevance
+0  12  needed zoom times needed get close something f...   0.424407
+1   7  m using lens canon eos elan iie camera thrille...   0.369611
+2   8  lens worked great totally recommend canon came...   0.245350
+
+step 1
+index added: 13
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [3, 7, 12, 15]
+			old information: 548, gain: 0.9952131794795643
+
+   ind                                             review  relevance
+0  15  bottom line front good underrated telephoto zo...   0.628174
+1  12  needed zoom times needed get close something f...   0.424407
+2   7  m using lens canon eos elan iie camera thrille...   0.369611
+3   8  lens worked great totally recommend canon came...   0.245350
+
+step 1
+index added: 16
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [3, 12, 17]
+			old information: 200, gain: 0.9279279279279279
+
+   ind                                             review  relevance
+0  15  bottom line front good underrated telephoto zo...   0.628174
+1  17  professional mom 99 photos take children purch...   0.468833
+2  12  needed zoom times needed get close something f...   0.424407
+3   7  m using lens canon eos elan iie camera thrille...   0.369611
+4   8  lens worked great totally recommend canon came...   0.245350
+
+step 1
+index added: 18
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [12, 17, 19]
+			old information: 1691, gain: 0.9750942618121834
+
+   ind                                             review  relevance
+0  15  bottom line front good underrated telephoto zo...   0.628174
+1  19  let go back two years ago junior college extra...   0.580359
+2  17  professional mom 99 photos take children purch...   0.468833
+3  12  needed zoom times needed get close something f...   0.424407
+4   7  m using lens canon eos elan iie camera thrille...   0.369611
+5   8  lens worked great totally recommend canon came...   0.245350
+
+step 1
+index added: 20
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [12, 17, 19, 20]
+			old information: 251, gain: 0.853302162478083
+
+   ind                                             review  relevance
+0  15  bottom line front good underrated telephoto zo...   0.628174
+1  19  let go back two years ago junior college extra...   0.580359
+2  20  bought lens month ago exited get use price say...   0.494745
+3  17  professional mom 99 photos take children purch...   0.468833
+4  12  needed zoom times needed get close something f...   0.424407
+5   7  m using lens canon eos elan iie camera thrille...   0.369611
+6   8  lens worked great totally recommend canon came...   0.245350
+
+step 1
+index added: 21
+percentage unclustered: 88.3333%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [12, 17, 19, 21]
+			old information: 906, gain: 0.8709585529126905
+
+   ind                                             review  relevance
+0  15  bottom line front good underrated telephoto zo...   0.628174
+1  19  let go back two years ago junior college extra...   0.580359
+2  21  m relatively new dslr photography first non ki...   0.547441
+3  20  bought lens month ago exited get use price say...   0.494745
+4  17  professional mom 99 photos take children purch...   0.468833
+5  12  needed zoom times needed get close something f...   0.424407
+6   7  m using lens canon eos elan iie camera thrille...   0.369611
+7   8  lens worked great totally recommend canon came...   0.245350
+
+step 1
+index added: 22
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [12, 17, 19, 21]
+
+step 1
+index added: 23
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 23 with core nodes: [12, 19, 20, 21, 23]
+			old information: 807, gain: 0.8576970551930876
+
+   ind                                             review  relevance
+0  15  bottom line front good underrated telephoto zo...   0.628174
+1  19  let go back two years ago junior college extra...   0.580359
+2  21  m relatively new dslr photography first non ki...   0.547441
+3  23  husband bought expand canon t1i dslr kit lens ...   0.545406
+4  20  bought lens month ago exited get use price say...   0.494745
+5  17  professional mom 99 photos take children purch...   0.468833
+6  12  needed zoom times needed get close something f...   0.424407
+7   7  m using lens canon eos elan iie camera thrille...   0.369611
+8   8  lens worked great totally recommend canon came...   0.245350
+
+step 1
+index added: 24
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 29 with core nodes: [12, 19, 21, 29]
+			old information: 1475, gain: 0.8960974922513384
+
+   ind                                             review  relevance
+0  29  initially bought lens package six months ago d...   0.645577
+1  15  bottom line front good underrated telephoto zo...   0.628174
+2  19  let go back two years ago junior college extra...   0.580359
+3  21  m relatively new dslr photography first non ki...   0.547441
+4  23  husband bought expand canon t1i dslr kit lens ...   0.545406
+5  20  bought lens month ago exited get use price say...   0.494745
+6  17  professional mom 99 photos take children purch...   0.468833
+7  12  needed zoom times needed get close something f...   0.424407
+8   7  m using lens canon eos elan iie camera thrille...   0.369611
+9   8  lens worked great totally recommend canon came...   0.245350
+
+step 1
+index added: 30
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [15, 19, 24, 29]
+
+step 1
+index added: 33
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 68.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [15, 19, 24, 29]
+
+step 1
+index added: 35
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [15, 24, 29, 35]
+			old information: 1992, gain: 0.9471267418712674
+
+    ind                                             review  relevance
+0   35  touch go near lens photographer even modicum s...   0.697262
+1   29  initially bought lens package six months ago d...   0.645577
+2   15  bottom line front good underrated telephoto zo...   0.628174
+3   19  let go back two years ago junior college extra...   0.580359
+4   21  m relatively new dslr photography first non ki...   0.547441
+5   23  husband bought expand canon t1i dslr kit lens ...   0.545406
+6   20  bought lens month ago exited get use price say...   0.494745
+7   17  professional mom 99 photos take children purch...   0.468833
+8   12  needed zoom times needed get close something f...   0.424407
+9    7  m using lens canon eos elan iie camera thrille...   0.369611
+10   8  lens worked great totally recommend canon came...   0.245350
+
+step 1
+index added: 36
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 68.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [19, 24, 29, 35]
+
+step 1
+index added: 39
+percentage unclustered: 68.33330000000001%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 61.6667%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [19, 24, 35, 43]
+			old information: 639, gain: 0.8759464181712289
+
+    ind                                             review  relevance
+0   35  touch go near lens photographer even modicum s...   0.697262
+1   29  initially bought lens package six months ago d...   0.645577
+2   15  bottom line front good underrated telephoto zo...   0.628174
+3   19  let go back two years ago junior college extra...   0.580359
+4   43  bought lens used adorama via amazon e 104 00 a...   0.577761
+5   21  m relatively new dslr photography first non ki...   0.547441
+6   23  husband bought expand canon t1i dslr kit lens ...   0.545406
+7   20  bought lens month ago exited get use price say...   0.494745
+8   17  professional mom 99 photos take children purch...   0.468833
+9   12  needed zoom times needed get close something f...   0.424407
+10   7  m using lens canon eos elan iie camera thrille...   0.369611
+11   8  lens worked great totally recommend canon came...   0.245350
+
+step 1
+index added: 44
+percentage unclustered: 61.6667%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 56.6667%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [19, 35, 43]
+			old information: 845, gain: 0.8326732673267326
+
+    ind                                             review  relevance
+0   35  touch go near lens photographer even modicum s...   0.697262
+1   29  initially bought lens package six months ago d...   0.645577
+2   15  bottom line front good underrated telephoto zo...   0.628174
+3   19  let go back two years ago junior college extra...   0.580359
+4   43  bought lens used adorama via amazon e 104 00 a...   0.577761
+5   21  m relatively new dslr photography first non ki...   0.547441
+6   23  husband bought expand canon t1i dslr kit lens ...   0.545406
+7   45  sharp definitely fast action auto focus shots ...   0.527312
+8   20  bought lens month ago exited get use price say...   0.494745
+9   17  professional mom 99 photos take children purch...   0.468833
+10  12  needed zoom times needed get close something f...   0.424407
+11   7  m using lens canon eos elan iie camera thrille...   0.369611
+12   8  lens worked great totally recommend canon came...   0.245350
+
+step 1
+index added: 46
+percentage unclustered: 56.6667%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 56.6667%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 61.6667%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 61.6667%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 60.0%
+
+	step 2
+
+		step 3
+		candidate index: 51 with core nodes: [19, 35, 43, 51]
+			old information: 3800, gain: 0.9054397053700294
+
+    ind                                             review  relevance
+0   51  especially take account intended users use can...   0.721441
+1   35  touch go near lens photographer even modicum s...   0.697262
+2   29  initially bought lens package six months ago d...   0.645577
+3   15  bottom line front good underrated telephoto zo...   0.628174
+4   19  let go back two years ago junior college extra...   0.580359
+5   43  bought lens used adorama via amazon e 104 00 a...   0.577761
+6   21  m relatively new dslr photography first non ki...   0.547441
+7   23  husband bought expand canon t1i dslr kit lens ...   0.545406
+8   45  sharp definitely fast action auto focus shots ...   0.527312
+9   20  bought lens month ago exited get use price say...   0.494745
+10  17  professional mom 99 photos take children purch...   0.468833
+11  12  needed zoom times needed get close something f...   0.424407
+12   7  m using lens canon eos elan iie camera thrille...   0.369611
+13   8  lens worked great totally recommend canon came...   0.245350
+
+step 1
+index added: 52
+percentage unclustered: 58.3333%
+
+	step 2
+
+		step 3
+		candidate index: 52 with core nodes: [19, 35, 43, 51]
+
+step 1
+index added: 53
+percentage unclustered: 58.3333%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 56.6667%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 51.6667%
+
+	step 2
+
+		step 3
+		candidate index: 55 with core nodes: [19, 35, 43, 51]
+
+step 1
+index added: 56
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 61.6667%
+
+	step 2
+
+		step 3
+		candidate index: 59 with core nodes: [35, 43, 51, 55]
+			old information: 723, gain: 0.752904989747095
+
+    ind                                             review  relevance
+0   51  especially take account intended users use can...   0.721441
+1   35  touch go near lens photographer even modicum s...   0.697262
+2   29  initially bought lens package six months ago d...   0.645577
+3   15  bottom line front good underrated telephoto zo...   0.628174
+4   59  much better lens expected price problems taken...   0.616951
+5   19  let go back two years ago junior college extra...   0.580359
+6   43  bought lens used adorama via amazon e 104 00 a...   0.577761
+7   21  m relatively new dslr photography first non ki...   0.547441
+8   23  husband bought expand canon t1i dslr kit lens ...   0.545406
+9   45  sharp definitely fast action auto focus shots ...   0.527312
+10  20  bought lens month ago exited get use price say...   0.494745
+11  17  professional mom 99 photos take children purch...   0.468833
+12  12  needed zoom times needed get close something f...   0.424407
+13   7  m using lens canon eos elan iie camera thrille...   0.369611
+14   8  lens worked great totally recommend canon came...   0.245350
+
+--- 104.53532123565674 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 95.0, 93.3333, 93.3333, 93.3333, 93.3333, 91.6667, 91.6667, 91.6667, 90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 88.3333, 83.33330000000001, 81.66669999999999, 81.66669999999999, 81.66669999999999, 81.66669999999999, 81.66669999999999, 81.66669999999999, 80.0, 80.0, 80.0, 70.0, 70.0, 68.33330000000001, 66.66669999999999, 70.0, 70.0, 68.33330000000001, 68.33330000000001, 66.66669999999999, 66.66669999999999, 66.66669999999999, 61.6667, 61.6667, 56.6667, 56.6667, 56.6667, 61.6667, 60.0, 61.6667, 60.0, 58.3333, 58.3333, 56.6667, 51.6667, 50.0, 50.0, 50.0, 61.6667], mean: 76.0345
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0         1  51   0.721441  especially take account intended users use can...
+1        30  35   0.697262  touch go near lens photographer even modicum s...
+2        46  29   0.645577  initially bought lens package six months ago d...
+3         9  15   0.628174  bottom line front good underrated telephoto zo...
+4        53  59   0.616951  much better lens expected price problems taken...
+5        39  19   0.580359  let go back two years ago junior college extra...
+6        49  43   0.577761  bought lens used adorama via amazon e 104 00 a...
+7        32  21   0.547441  m relatively new dslr photography first non ki...
+8        22  23   0.545406  husband bought expand canon t1i dslr kit lens ...
+9        25  45   0.527312  sharp definitely fast action auto focus shots ...
+10       41  20   0.494745  bought lens month ago exited get use price say...
+11       11  17   0.468833  professional mom 99 photos take children purch...
+12       12  12   0.424407  needed zoom times needed get close something f...
+13       17   7   0.369611  m using lens canon eos elan iie camera thrille...
+14       19   8   0.245350  lens worked great totally recommend canon came...

@@ -1,0 +1,223 @@
+------- Category: Electronics -------
+Found asin_id: B00000J1U8
+Shape:  (30, 7)
+
+
+Chosen product: B00000J1U8 has 30 reviews - True, it has 30 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [4, 6, 7]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   7  ordered three cables appearance slightly diffe...   0.078049
+
+step 1
+index added: 8
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [4, 6, 7, 8, 15]
+			old information: 3, gain: 0.9939516129032258
+
+   ind                                             review  relevance
+0  15  forewarned cable belkin 6ft f3u134 06 usb 2 0 ...   0.356260
+1   7  ordered three cables appearance slightly diffe...   0.078049
+
+step 1
+index added: 16
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [4, 6, 15, 16]
+			old information: 16, gain: 0.9746031746031746
+
+   ind                                             review  relevance
+0  16  purchased several belkin cables always seem we...   0.403822
+1  15  forewarned cable belkin 6ft f3u134 06 usb 2 0 ...   0.356260
+2   7  ordered three cables appearance slightly diffe...   0.078049
+
+step 1
+index added: 17
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [8, 15, 16, 19]
+			old information: 21, gain: 0.8894736842105263
+
+   ind                                             review  relevance
+0  19  item specify version usb support support usb 1...   0.505017
+1  16  purchased several belkin cables always seem we...   0.403822
+2  15  forewarned cable belkin 6ft f3u134 06 usb 2 0 ...   0.356260
+3   7  ordered three cables appearance slightly diffe...   0.078049
+
+step 1
+index added: 20
+percentage unclustered: 63.3333%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [4, 6, 20]
+			old information: 50, gain: 0.9928785073351375
+
+   ind                                             review  relevance
+0  20  re looking basic 10 usb extension cable come r...   0.655189
+1  19  item specify version usb support support usb 1...   0.505017
+2  16  purchased several belkin cables always seem we...   0.403822
+3  15  forewarned cable belkin 6ft f3u134 06 usb 2 0 ...   0.356260
+4   7  ordered three cables appearance slightly diffe...   0.078049
+
+step 1
+index added: 21
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 63.3333%
+
+	step 2
+
+--- 2.919151544570923 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 80.0, 76.66669999999999, 76.66669999999999, 76.66669999999999, 66.66669999999999, 63.3333, 63.3333, 63.3333, 63.3333, 63.3333, 63.3333, 63.3333, 63.3333, 63.3333, 63.3333], mean: 79.6428
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0        8  20   0.655189  re looking basic 10 usb extension cable come r...
+1        9  19   0.505017  item specify version usb support support usb 1...
+2       19  16   0.403822  purchased several belkin cables always seem we...
+3       12  15   0.356260  forewarned cable belkin 6ft f3u134 06 usb 2 0 ...
+4        6   7   0.078049  ordered three cables appearance slightly diffe...

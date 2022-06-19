@@ -1,0 +1,1208 @@
+------- Category: Electronics -------
+Found asin_id: B000062VUQ
+Shape:  (160, 7)
+
+
+Chosen product: B000062VUQ has 160 reviews - True, it has 160 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 98.125%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [5, 9, 10]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  10  expected good sound got great sound sound cris...   0.268566
+
+step 1
+index added: 11
+percentage unclustered: 98.125%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 98.125%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 100.0%
+
+step 1
+index added: 14
+percentage unclustered: 98.125%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [0, 5, 14]
+			old information: 2, gain: 0.9989759344598055
+
+   ind                                             review  relevance
+0  14  moving harmon kardon soundsticks ii damaged de...   0.328979
+1  10  expected good sound got great sound sound cris...   0.268566
+
+step 1
+index added: 15
+percentage unclustered: 98.125%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 96.25%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [0, 5, 14, 16]
+			old information: 110, gain: 0.9926915155139193
+
+   ind                                             review  relevance
+0  16  amazing speakers hearing immediately understoo...   0.346626
+1  14  moving harmon kardon soundsticks ii damaged de...   0.328979
+2  10  expected good sound got great sound sound cris...   0.268566
+
+step 1
+index added: 17
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 94.375%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [0, 1, 5, 10, 14, 15, 21]
+			old information: 54, gain: 0.7865612648221344
+
+   ind                                             review  relevance
+0  21  musician really pay attention quality detail s...   0.364101
+1  16  amazing speakers hearing immediately understoo...   0.346626
+2  14  moving harmon kardon soundsticks ii damaged de...   0.328979
+3  10  expected good sound got great sound sound cris...   0.268566
+
+step 1
+index added: 22
+percentage unclustered: 94.375%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [0, 5, 10, 14, 15, 16, 21, 22]
+			old information: 447, gain: 0.9761230703488062
+
+   ind                                             review  relevance
+0  22  bought set one workstation liked much purchase...   0.370198
+1  21  musician really pay attention quality detail s...   0.364101
+2  16  amazing speakers hearing immediately understoo...   0.346626
+3  14  moving harmon kardon soundsticks ii damaged de...   0.328979
+4  10  expected good sound got great sound sound cris...   0.268566
+
+step 1
+index added: 23
+percentage unclustered: 94.375%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 92.5%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [0, 3, 15, 16, 22]
+
+step 1
+index added: 25
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 91.875%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 89.375%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 89.375%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 89.375%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 89.375%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 93.75%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 93.125%
+
+	step 2
+
+		step 3
+		candidate index: 44 with core nodes: [0, 5, 10, 14, 15, 21, 44]
+			old information: 189, gain: 0.9470588235294117
+
+   ind                                             review  relevance
+0  44  speakers years sound absolutely great excellen...   0.406164
+1  22  bought set one workstation liked much purchase...   0.370198
+2  21  musician really pay attention quality detail s...   0.364101
+3  16  amazing speakers hearing immediately understoo...   0.346626
+4  14  moving harmon kardon soundsticks ii damaged de...   0.328979
+5  10  expected good sound got great sound sound cris...   0.268566
+
+step 1
+index added: 45
+percentage unclustered: 93.125%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 91.25%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 89.375%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 85.625%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [0, 27, 46]
+			old information: 238, gain: 0.885576923076923
+
+   ind                                             review  relevance
+0  49  really love speakers bought 3 sets them n nthe...   0.496643
+1  44  speakers years sound absolutely great excellen...   0.406164
+2  22  bought set one workstation liked much purchase...   0.370198
+3  21  musician really pay attention quality detail s...   0.364101
+4  16  amazing speakers hearing immediately understoo...   0.346626
+5  14  moving harmon kardon soundsticks ii damaged de...   0.328979
+6  10  expected good sound got great sound sound cris...   0.268566
+
+step 1
+index added: 50
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 83.125%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 83.125%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 83.125%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 83.125%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 81.875%
+
+	step 2
+
+		step 3
+		candidate index: 60 with core nodes: [0, 27, 46]
+
+step 1
+index added: 61
+percentage unclustered: 81.25%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 80.625%
+
+	step 2
+
+		step 3
+		candidate index: 62 with core nodes: [0, 46, 62]
+			old information: 1853, gain: 0.9811583592621967
+
+   ind                                             review  relevance
+0  62  promedia 2 1 klipsch since 2002 still selling ...   0.595582
+1  49  really love speakers bought 3 sets them n nthe...   0.496643
+2  44  speakers years sound absolutely great excellen...   0.406164
+3  22  bought set one workstation liked much purchase...   0.370198
+4  21  musician really pay attention quality detail s...   0.364101
+5  16  amazing speakers hearing immediately understoo...   0.346626
+6  14  moving harmon kardon soundsticks ii damaged de...   0.328979
+7  10  expected good sound got great sound sound cris...   0.268566
+
+step 1
+index added: 63
+percentage unclustered: 81.25%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 81.25%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 81.875%
+
+	step 2
+
+		step 3
+		candidate index: 67 with core nodes: [0, 2, 27, 34, 46, 62, 67]
+			old information: 1300, gain: 0.9126226643366043
+
+   ind                                             review  relevance
+0  67  bought 2 1 speakers little 2 years ago replace...   0.613400
+1  62  promedia 2 1 klipsch since 2002 still selling ...   0.595582
+2  49  really love speakers bought 3 sets them n nthe...   0.496643
+3  44  speakers years sound absolutely great excellen...   0.406164
+4  22  bought set one workstation liked much purchase...   0.370198
+5  21  musician really pay attention quality detail s...   0.364101
+6  16  amazing speakers hearing immediately understoo...   0.346626
+7  14  moving harmon kardon soundsticks ii damaged de...   0.328979
+8  10  expected good sound got great sound sound cris...   0.268566
+
+step 1
+index added: 68
+percentage unclustered: 81.875%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 79.375%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 78.125%
+
+	step 2
+
+		step 3
+		candidate index: 70 with core nodes: [0, 2, 27, 34, 46, 62, 67]
+
+step 1
+index added: 71
+percentage unclustered: 78.125%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 76.25%
+
+	step 2
+
+		step 3
+		candidate index: 72 with core nodes: [0, 2, 27, 34, 46, 62, 67]
+
+step 1
+index added: 73
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 75.625%
+
+	step 2
+
+		step 3
+		candidate index: 75 with core nodes: [0, 2, 27, 34, 46, 62, 67]
+
+step 1
+index added: 76
+percentage unclustered: 75.0%
+
+	step 2
+
+		step 3
+		candidate index: 76 with core nodes: [0, 2, 27, 34, 46, 62, 67]
+
+step 1
+index added: 77
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 75.625%
+
+	step 2
+
+		step 3
+		candidate index: 80 with core nodes: [2, 16, 80]
+			old information: 1014, gain: 0.9559226255161921
+
+   ind                                             review  relevance
+0  67  bought 2 1 speakers little 2 years ago replace...   0.613400
+1  62  promedia 2 1 klipsch since 2002 still selling ...   0.595582
+2  49  really love speakers bought 3 sets them n nthe...   0.496643
+3  80  wow m amazed klipsch quality promedia system a...   0.479747
+4  44  speakers years sound absolutely great excellen...   0.406164
+5  22  bought set one workstation liked much purchase...   0.370198
+6  21  musician really pay attention quality detail s...   0.364101
+7  16  amazing speakers hearing immediately understoo...   0.346626
+8  14  moving harmon kardon soundsticks ii damaged de...   0.328979
+9  10  expected good sound got great sound sound cris...   0.268566
+
+step 1
+index added: 81
+percentage unclustered: 75.625%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 74.375%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 73.75%
+
+	step 2
+
+		step 3
+		candidate index: 86 with core nodes: [2, 16, 86]
+			old information: 7814, gain: 0.9775046709331214
+
+    ind                                             review  relevance
+0   86  blew ridiculous amount time listening store re...   0.614260
+1   67  bought 2 1 speakers little 2 years ago replace...   0.613400
+2   62  promedia 2 1 klipsch since 2002 still selling ...   0.595582
+3   49  really love speakers bought 3 sets them n nthe...   0.496643
+4   80  wow m amazed klipsch quality promedia system a...   0.479747
+5   44  speakers years sound absolutely great excellen...   0.406164
+6   22  bought set one workstation liked much purchase...   0.370198
+7   21  musician really pay attention quality detail s...   0.364101
+8   16  amazing speakers hearing immediately understoo...   0.346626
+9   14  moving harmon kardon soundsticks ii damaged de...   0.328979
+10  10  expected good sound got great sound sound cris...   0.268566
+
+step 1
+index added: 87
+percentage unclustered: 73.75%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 73.75%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 73.75%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 73.75%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 73.75%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 73.75%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 73.75%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 73.75%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 73.75%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 73.75%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 73.125%
+
+	step 2
+
+		step 3
+		candidate index: 97 with core nodes: [20, 27, 67]
+
+step 1
+index added: 98
+percentage unclustered: 73.125%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 73.125%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 73.125%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 73.125%
+
+	step 2
+
+		step 3
+		candidate index: 101 with core nodes: [20, 27, 67]
+
+step 1
+index added: 102
+percentage unclustered: 73.125%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 72.5%
+
+	step 2
+
+		step 3
+		candidate index: 107 with core nodes: [20, 27, 67]
+
+step 1
+index added: 108
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 71.875%
+
+	step 2
+
+		step 3
+		candidate index: 111 with core nodes: [20, 27, 67]
+
+step 1
+index added: 112
+percentage unclustered: 71.875%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 68.75%
+
+	step 2
+
+		step 3
+		candidate index: 117 with core nodes: [20, 27, 67]
+			old information: 533, gain: 0.8026656793780081
+
+     ind                                             review  relevance
+0    86  blew ridiculous amount time listening store re...   0.614260
+1    67  bought 2 1 speakers little 2 years ago replace...   0.613400
+2    62  promedia 2 1 klipsch since 2002 still selling ...   0.595582
+3   117  bought best buy looking speakers best buy circ...   0.525380
+4    49  really love speakers bought 3 sets them n nthe...   0.496643
+5    80  wow m amazed klipsch quality promedia system a...   0.479747
+6    44  speakers years sound absolutely great excellen...   0.406164
+7    22  bought set one workstation liked much purchase...   0.370198
+8    21  musician really pay attention quality detail s...   0.364101
+9    16  amazing speakers hearing immediately understoo...   0.346626
+10   14  moving harmon kardon soundsticks ii damaged de...   0.328979
+11   10  expected good sound got great sound sound cris...   0.268566
+
+step 1
+index added: 118
+percentage unclustered: 68.75%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 68.125%
+
+	step 2
+
+		step 3
+		candidate index: 119 with core nodes: [2, 86, 113, 119]
+			old information: 353, gain: 0.8793574846206426
+
+     ind                                             review  relevance
+0    86  blew ridiculous amount time listening store re...   0.614260
+1    67  bought 2 1 speakers little 2 years ago replace...   0.613400
+2    62  promedia 2 1 klipsch since 2002 still selling ...   0.595582
+3   119  3 pairs klipsch flooring standing speakers ksf...   0.567798
+4   117  bought best buy looking speakers best buy circ...   0.525380
+5    49  really love speakers bought 3 sets them n nthe...   0.496643
+6    80  wow m amazed klipsch quality promedia system a...   0.479747
+7    44  speakers years sound absolutely great excellen...   0.406164
+8    22  bought set one workstation liked much purchase...   0.370198
+9    21  musician really pay attention quality detail s...   0.364101
+10   16  amazing speakers hearing immediately understoo...   0.346626
+11   14  moving harmon kardon soundsticks ii damaged de...   0.328979
+12   10  expected good sound got great sound sound cris...   0.268566
+
+step 1
+index added: 120
+percentage unclustered: 67.5%
+
+	step 2
+
+		step 3
+		candidate index: 120 with core nodes: [20, 27, 120]
+			old information: 5155, gain: 0.9197802710819938
+
+     ind                                             review  relevance
+0   120  built computer middle last year designed gamin...   0.665515
+1    86  blew ridiculous amount time listening store re...   0.614260
+2    67  bought 2 1 speakers little 2 years ago replace...   0.613400
+3    62  promedia 2 1 klipsch since 2002 still selling ...   0.595582
+4   119  3 pairs klipsch flooring standing speakers ksf...   0.567798
+5   117  bought best buy looking speakers best buy circ...   0.525380
+6    49  really love speakers bought 3 sets them n nthe...   0.496643
+7    80  wow m amazed klipsch quality promedia system a...   0.479747
+8    44  speakers years sound absolutely great excellen...   0.406164
+9    22  bought set one workstation liked much purchase...   0.370198
+10   21  musician really pay attention quality detail s...   0.364101
+11   16  amazing speakers hearing immediately understoo...   0.346626
+12   14  moving harmon kardon soundsticks ii damaged de...   0.328979
+13   10  expected good sound got great sound sound cris...   0.268566
+
+step 1
+index added: 121
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 69.375%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 69.375%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 66.875%
+
+	step 2
+
+		step 3
+		candidate index: 124 with core nodes: [20, 27, 120]
+
+step 1
+index added: 125
+percentage unclustered: 65.0%
+
+	step 2
+
+		step 3
+		candidate index: 125 with core nodes: [86, 113, 119]
+			old information: 15536, gain: 0.9712445398682165
+
+     ind                                             review  relevance
+0   120  built computer middle last year designed gamin...   0.665515
+1   125  since moved suffer exaggeration listening cds ...   0.663482
+2    86  blew ridiculous amount time listening store re...   0.614260
+3    67  bought 2 1 speakers little 2 years ago replace...   0.613400
+4    62  promedia 2 1 klipsch since 2002 still selling ...   0.595582
+5   119  3 pairs klipsch flooring standing speakers ksf...   0.567798
+6   117  bought best buy looking speakers best buy circ...   0.525380
+7    49  really love speakers bought 3 sets them n nthe...   0.496643
+8    80  wow m amazed klipsch quality promedia system a...   0.479747
+9    44  speakers years sound absolutely great excellen...   0.406164
+10   22  bought set one workstation liked much purchase...   0.370198
+11   21  musician really pay attention quality detail s...   0.364101
+12   16  amazing speakers hearing immediately understoo...   0.346626
+13   14  moving harmon kardon soundsticks ii damaged de...   0.328979
+14   10  expected good sound got great sound sound cris...   0.268566
+
+step 1
+index added: 126
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 128
+percentage unclustered: 63.75%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 63.75%
+
+	step 2
+
+step 1
+index added: 130
+percentage unclustered: 63.75%
+
+	step 2
+
+step 1
+index added: 131
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 132
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 133
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 134
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 135
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 136
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 137
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 138
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 139
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 140
+percentage unclustered: 65.625%
+
+	step 2
+
+step 1
+index added: 141
+percentage unclustered: 65.625%
+
+	step 2
+
+step 1
+index added: 142
+percentage unclustered: 65.625%
+
+	step 2
+
+step 1
+index added: 143
+percentage unclustered: 65.625%
+
+	step 2
+
+step 1
+index added: 144
+percentage unclustered: 68.125%
+
+	step 2
+
+step 1
+index added: 145
+percentage unclustered: 63.75%
+
+	step 2
+
+step 1
+index added: 146
+percentage unclustered: 63.125%
+
+	step 2
+
+step 1
+index added: 147
+percentage unclustered: 63.125%
+
+	step 2
+
+step 1
+index added: 148
+percentage unclustered: 63.125%
+
+	step 2
+
+step 1
+index added: 149
+percentage unclustered: 63.75%
+
+	step 2
+
+step 1
+index added: 150
+percentage unclustered: 63.75%
+
+	step 2
+
+step 1
+index added: 151
+percentage unclustered: 63.75%
+
+	step 2
+
+step 1
+index added: 152
+percentage unclustered: 66.875%
+
+	step 2
+
+		step 3
+		candidate index: 152 with core nodes: [86, 113, 119, 125]
+
+step 1
+index added: 153
+percentage unclustered: 66.875%
+
+	step 2
+
+step 1
+index added: 154
+percentage unclustered: 66.875%
+
+	step 2
+
+step 1
+index added: 155
+percentage unclustered: 66.875%
+
+	step 2
+
+step 1
+index added: 156
+percentage unclustered: 66.875%
+
+	step 2
+
+step 1
+index added: 157
+percentage unclustered: 66.875%
+
+	step 2
+
+step 1
+index added: 158
+percentage unclustered: 66.875%
+
+	step 2
+
+step 1
+index added: 159
+percentage unclustered: 63.75%
+
+	step 2
+
+--- 1316.416113615036 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 98.125, 98.125, 98.125, 100.0, 98.125, 98.125, 96.25, 96.25, 96.25, 96.25, 96.25, 94.375, 94.375, 94.375, 92.5, 92.5, 92.5, 92.5, 91.875, 89.375, 89.375, 89.375, 89.375, 90.625, 90.625, 90.625, 90.625, 90.625, 90.625, 90.625, 90.625, 90.625, 90.625, 93.75, 93.125, 93.125, 91.25, 89.375, 85.625, 85.0, 85.0, 83.125, 83.125, 83.125, 83.125, 82.5, 82.5, 82.5, 82.5, 82.5, 81.875, 81.25, 80.625, 81.25, 81.25, 85.0, 82.5, 81.875, 81.875, 79.375, 78.125, 78.125, 76.25, 76.25, 76.25, 75.625, 75.0, 75.0, 75.0, 75.0, 75.625, 75.625, 75.0, 75.0, 75.0, 74.375, 73.75, 73.75, 73.75, 73.75, 73.75, 73.75, 73.75, 73.75, 73.75, 73.75, 73.75, 73.125, 73.125, 73.125, 73.125, 73.125, 73.125, 72.5, 72.5, 72.5, 72.5, 72.5, 72.5, 72.5, 72.5, 71.875, 71.875, 72.5, 72.5, 72.5, 70.0, 68.75, 68.75, 68.125, 67.5, 67.5, 69.375, 69.375, 66.875, 65.0, 65.0, 65.0, 63.75, 63.75, 63.75, 66.25, 66.25, 66.25, 66.25, 66.25, 66.25, 66.25, 66.25, 66.25, 65.625, 65.625, 65.625, 65.625, 68.125, 63.75, 63.125, 63.125, 63.125, 63.75, 63.75, 63.75, 66.875, 66.875, 66.875, 66.875, 66.875, 66.875, 66.875, 63.75], mean: 78.9043
+
+Final Ranking:
+    ranking  ...                                             review
+0       104  ...  built computer middle last year designed gamin...
+1        24  ...  since moved suffer exaggeration listening cds ...
+2        13  ...  blew ridiculous amount time listening store re...
+3        51  ...  bought 2 1 speakers little 2 years ago replace...
+4       128  ...  promedia 2 1 klipsch since 2002 still selling ...
+5       151  ...  3 pairs klipsch flooring standing speakers ksf...
+6        90  ...  bought best buy looking speakers best buy circ...
+7        68  ...  really love speakers bought 3 sets them n nthe...
+8       107  ...  wow m amazed klipsch quality promedia system a...
+9       109  ...  speakers years sound absolutely great excellen...
+10       53  ...  bought set one workstation liked much purchase...
+11       59  ...  musician really pay attention quality detail s...
+12       72  ...  amazing speakers hearing immediately understoo...
+13       45  ...  moving harmon kardon soundsticks ii damaged de...
+14       55  ...  expected good sound got great sound sound cris...
+
+[15 rows x 4 columns]

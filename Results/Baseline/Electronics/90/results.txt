@@ -1,0 +1,675 @@
+------- Category: Electronics -------
+Found asin_id: B000TEVQVO
+Shape:  (90, 7)
+
+
+Chosen product: B000TEVQVO has 90 reviews - True, it has 90 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 96.6667%
+
+	step 2
+
+		step 3
+		candidate index: 2 with core nodes: [0, 1, 2]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   2  moved new home could pull decent am fm radio e...   0.459034
+
+step 1
+index added: 3
+percentage unclustered: 95.5556%
+
+	step 2
+
+		step 3
+		candidate index: 3 with core nodes: [0, 1, 2, 3]
+			old information: 1440, gain: 0.89093387866394
+
+   ind                                             review  relevance
+0   3  bought november 2017 finally replace ge supera...   0.484040
+1   2  moved new home could pull decent am fm radio e...   0.459034
+
+step 1
+index added: 4
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 5
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 6
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 94.4444%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [0, 1, 2, 3, 9]
+			old information: 577, gain: 0.919187675070028
+
+   ind                                             review  relevance
+0   3  bought november 2017 finally replace ge supera...   0.484040
+1   2  moved new home could pull decent am fm radio e...   0.459034
+2   9  lot online shopping paid fine little portable ...   0.196145
+
+step 1
+index added: 10
+percentage unclustered: 94.4444%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 94.4444%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 96.6667%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [6, 8, 12]
+			old information: 703, gain: 0.876035972491624
+
+   ind                                             review  relevance
+0   3  bought november 2017 finally replace ge supera...   0.484040
+1   2  moved new home could pull decent am fm radio e...   0.459034
+2  12  m engineer avid radio listener becoming endang...   0.410688
+3   9  lot online shopping paid fine little portable ...   0.196145
+
+step 1
+index added: 13
+percentage unclustered: 95.5556%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [6, 8, 12, 13]
+			old information: 971, gain: 0.9217124889139724
+
+   ind                                             review  relevance
+0   3  bought november 2017 finally replace ge supera...   0.484040
+1   2  moved new home could pull decent am fm radio e...   0.459034
+2  12  m engineer avid radio listener becoming endang...   0.410688
+3  13  built first radio eight years old back early 6...   0.314253
+4   9  lot online shopping paid fine little portable ...   0.196145
+
+step 1
+index added: 14
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 95.5556%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 88.8889%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [0, 2, 3, 21]
+			old information: 5495, gain: 0.9645131291735014
+
+   ind                                             review  relevance
+0  21  reading reviews pr d5 wonder whether talking p...   0.663568
+1   3  bought november 2017 finally replace ge supera...   0.484040
+2   2  moved new home could pull decent am fm radio e...   0.459034
+3  12  m engineer avid radio listener becoming endang...   0.410688
+4  13  built first radio eight years old back early 6...   0.314253
+5   9  lot online shopping paid fine little portable ...   0.196145
+
+step 1
+index added: 22
+percentage unclustered: 88.8889%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 88.8889%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 88.8889%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 88.8889%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 88.8889%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 88.8889%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 85.5556%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 85.5556%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 85.5556%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 85.5556%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 85.5556%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 92.2222%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 92.2222%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 91.1111%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [8, 12, 27, 28, 35]
+			old information: 23, gain: 0.7472527472527473
+
+   ind                                             review  relevance
+0  21  reading reviews pr d5 wonder whether talking p...   0.663568
+1   3  bought november 2017 finally replace ge supera...   0.484040
+2  35  really liked radio first little use radio last...   0.469478
+3   2  moved new home could pull decent am fm radio e...   0.459034
+4  12  m engineer avid radio listener becoming endang...   0.410688
+5  13  built first radio eight years old back early 6...   0.314253
+6   9  lot online shopping paid fine little portable ...   0.196145
+
+step 1
+index added: 36
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 88.8889%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [27, 35, 37]
+			old information: 2110, gain: 0.8824839877471456
+
+   ind                                             review  relevance
+0  21  reading reviews pr d5 wonder whether talking p...   0.663568
+1  37  little radio awesome size great sitting desk m...   0.626136
+2   3  bought november 2017 finally replace ge supera...   0.484040
+3  35  really liked radio first little use radio last...   0.469478
+4   2  moved new home could pull decent am fm radio e...   0.459034
+5  12  m engineer avid radio listener becoming endang...   0.410688
+6  13  built first radio eight years old back early 6...   0.314253
+7   9  lot online shopping paid fine little portable ...   0.196145
+
+step 1
+index added: 38
+percentage unclustered: 88.8889%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 88.8889%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 88.8889%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [27, 35, 37]
+
+step 1
+index added: 42
+percentage unclustered: 77.7778%
+
+	step 2
+
+		step 3
+		candidate index: 42 with core nodes: [2, 21, 27, 37]
+
+step 1
+index added: 43
+percentage unclustered: 77.7778%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 78.8889%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 77.7778%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [2, 21, 37]
+			old information: 6143, gain: 0.9210563516031613
+
+   ind                                             review  relevance
+0  21  reading reviews pr d5 wonder whether talking p...   0.663568
+1  37  little radio awesome size great sitting desk m...   0.626136
+2  49  bought bathroom radio electricity ask n nsound...   0.625894
+3   3  bought november 2017 finally replace ge supera...   0.484040
+4  35  really liked radio first little use radio last...   0.469478
+5   2  moved new home could pull decent am fm radio e...   0.459034
+6  12  m engineer avid radio listener becoming endang...   0.410688
+7  13  built first radio eight years old back early 6...   0.314253
+8   9  lot online shopping paid fine little portable ...   0.196145
+
+step 1
+index added: 50
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 75.5556%
+
+	step 2
+
+		step 3
+		candidate index: 51 with core nodes: [2, 21, 37]
+
+step 1
+index added: 52
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 75.5556%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 75.5556%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 78.8889%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 78.8889%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 78.8889%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 78.8889%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 78.8889%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 65 with core nodes: [21, 37, 60]
+
+step 1
+index added: 66
+percentage unclustered: 75.5556%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 75.5556%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 68 with core nodes: [2, 21, 60, 64]
+
+step 1
+index added: 69
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 74.4444%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 73 with core nodes: [2, 21, 37, 64]
+
+step 1
+index added: 74
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 65.5556%
+
+	step 2
+
+		step 3
+		candidate index: 78 with core nodes: [2, 21, 33, 64]
+
+step 1
+index added: 79
+percentage unclustered: 65.5556%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 65.5556%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 65.5556%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 62.2222%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 62.2222%
+
+	step 2
+
+		step 3
+		candidate index: 83 with core nodes: [21, 37, 60]
+
+step 1
+index added: 84
+percentage unclustered: 62.2222%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 61.1111%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 61.1111%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 61.1111%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 61.1111%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 61.1111%
+
+	step 2
+
+--- 273.2131395339966 seconds ---
+
+
+ Unclustered percentages: [96.6667, 95.5556, 95.5556, 95.5556, 95.5556, 95.5556, 95.5556, 94.4444, 94.4444, 94.4444, 96.6667, 95.5556, 95.5556, 95.5556, 95.5556, 95.5556, 95.5556, 95.5556, 95.5556, 88.8889, 88.8889, 88.8889, 88.8889, 88.8889, 88.8889, 88.8889, 85.5556, 85.5556, 85.5556, 85.5556, 85.5556, 92.2222, 92.2222, 91.1111, 90.0, 88.8889, 88.8889, 88.8889, 88.8889, 83.33330000000001, 77.7778, 77.7778, 78.8889, 80.0, 80.0, 80.0, 80.0, 77.7778, 76.66669999999999, 75.5556, 74.4444, 74.4444, 74.4444, 74.4444, 75.5556, 75.5556, 78.8889, 78.8889, 78.8889, 78.8889, 78.8889, 74.4444, 74.4444, 73.33330000000001, 75.5556, 75.5556, 73.33330000000001, 73.33330000000001, 73.33330000000001, 74.4444, 74.4444, 73.33330000000001, 73.33330000000001, 73.33330000000001, 66.66669999999999, 66.66669999999999, 65.5556, 65.5556, 65.5556, 65.5556, 62.2222, 62.2222, 62.2222, 61.1111, 61.1111, 61.1111, 61.1111, 61.1111], mean: 81.2121
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0       39  21   0.663568  reading reviews pr d5 wonder whether talking p...
+1       36  37   0.626136  little radio awesome size great sitting desk m...
+2       81  49   0.625894  bought bathroom radio electricity ask n nsound...
+3        6   3   0.484040  bought november 2017 finally replace ge supera...
+4       38  35   0.469478  really liked radio first little use radio last...
+5        7   2   0.459034  moved new home could pull decent am fm radio e...
+6       10  12   0.410688  m engineer avid radio listener becoming endang...
+7       34  13   0.314253  built first radio eight years old back early 6...
+8       42   9   0.196145  lot online shopping paid fine little portable ...
