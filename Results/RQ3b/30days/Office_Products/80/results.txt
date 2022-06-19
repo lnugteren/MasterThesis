@@ -1,0 +1,665 @@
+------- Category: Office_Products -------
+Found asin_id: B00000J4FS
+Shape:  (80, 7)
+
+
+Chosen product: B00000J4FS has 80 reviews - True, it has 80 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 96.25%
+
+	step 2
+
+		step 3
+		candidate index: 2 with core nodes: [0, 1, 2]
+		The relevance model has size: 2
+		1 reviews removed from the relevance model, indices: [0]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   2  one palm s real groundbreaking handhelds s sle...   0.196684
+
+step 1
+index added: 3
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 4
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 5
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 6
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 95.0%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [0, 1, 2, 8]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [0, 1]. 
+		It now has size: 1
+			old information: 79, gain: 0.9931160683164866
+
+   ind                                             review  relevance
+0   8  one look palm v handheld ll know s something s...   0.215661
+1   2  one palm s real groundbreaking handhelds s sle...   0.196684
+
+step 1
+index added: 9
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 91.25%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [1, 6, 11]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [1, 2]. 
+		It now has size: 2
+			old information: 170, gain: 0.9861179160542218
+
+   ind                                             review  relevance
+0  11  put palm v best dollars ve ever spent really n...   0.369217
+1   8  one look palm v handheld ll know s something s...   0.215661
+2   2  one palm s real groundbreaking handhelds s sle...   0.196684
+
+step 1
+index added: 12
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [1, 2, 6, 11, 12]
+		The relevance model has size: 5
+		2 reviews removed from the relevance model, indices: [1, 8]. 
+		It now has size: 3
+			old information: 309, gain: 0.9673119644557283
+
+   ind                                             review  relevance
+0  12  bought palm last year using one year could nev...   0.388898
+1  11  put palm v best dollars ve ever spent really n...   0.369217
+2   8  one look palm v handheld ll know s something s...   0.215661
+3   2  one palm s real groundbreaking handhelds s sle...   0.196684
+
+step 1
+index added: 13
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 88.75%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [1, 2, 6, 11, 12]
+
+step 1
+index added: 18
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 87.5%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [1, 2, 6, 11, 12]
+
+step 1
+index added: 27
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 88.75%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [6, 11, 12, 35]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [2, 6]. 
+		It now has size: 2
+			old information: 196, gain: 0.9531772575250836
+
+   ind                                             review  relevance
+0  12  bought palm last year using one year could nev...   0.388898
+1  11  put palm v best dollars ve ever spent really n...   0.369217
+2  35  received palm v birthday present first thought...   0.335780
+3   8  one look palm v handheld ll know s something s...   0.215661
+4   2  one palm s real groundbreaking handhelds s sle...   0.196684
+
+step 1
+index added: 36
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 87.5%
+
+	step 2
+
+		step 3
+		candidate index: 40 with core nodes: [6, 11, 12, 35]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [6, 11]. 
+		It now has size: 2
+			old information: 45, gain: 0.9501661129568106
+
+   ind                                             review  relevance
+0  12  bought palm last year using one year could nev...   0.388898
+1  11  put palm v best dollars ve ever spent really n...   0.369217
+2  35  received palm v birthday present first thought...   0.335780
+3  40  bought palm brazil dropped ladder called custo...   0.267895
+4   8  one look palm v handheld ll know s something s...   0.215661
+5   2  one palm s real groundbreaking handhelds s sle...   0.196684
+
+step 1
+index added: 41
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 82.5%
+
+	step 2
+
+		step 3
+		candidate index: 42 with core nodes: [6, 11, 12, 35]
+
+step 1
+index added: 43
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 81.25%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 81.25%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 81.25%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 81.25%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 48 with core nodes: [11, 35, 48]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [12, 40]. 
+		It now has size: 2
+			old information: 445, gain: 0.9693842449260406
+
+   ind                                             review  relevance
+0  48  love great design palm v first palm use time o...   0.486663
+1  12  bought palm last year using one year could nev...   0.388898
+2  11  put palm v best dollars ve ever spent really n...   0.369217
+3  35  received palm v birthday present first thought...   0.335780
+4  40  bought palm brazil dropped ladder called custo...   0.267895
+5   8  one look palm v handheld ll know s something s...   0.215661
+6   2  one palm s real groundbreaking handhelds s sle...   0.196684
+
+step 1
+index added: 49
+percentage unclustered: 78.75%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [11, 35, 48]
+
+step 1
+index added: 50
+percentage unclustered: 78.75%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 78.75%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 78.75%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 77.5%
+
+	step 2
+
+		step 3
+		candidate index: 53 with core nodes: [11, 35, 48, 53]
+		The relevance model has size: 3
+		1 reviews removed from the relevance model, indices: [35]. 
+		It now has size: 2
+			old information: 440, gain: 0.955420466058764
+
+   ind                                             review  relevance
+0  48  love great design palm v first palm use time o...   0.486663
+1  53  office urging us use microsoft outlook planner...   0.440646
+2  12  bought palm last year using one year could nev...   0.388898
+3  11  put palm v best dollars ve ever spent really n...   0.369217
+4  35  received palm v birthday present first thought...   0.335780
+5  40  bought palm brazil dropped ladder called custo...   0.267895
+6   8  one look palm v handheld ll know s something s...   0.215661
+7   2  one palm s real groundbreaking handhelds s sle...   0.196684
+
+step 1
+index added: 54
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 75.0%
+
+	step 2
+
+		step 3
+		candidate index: 56 with core nodes: [11, 35, 48, 53]
+
+step 1
+index added: 57
+percentage unclustered: 73.75%
+
+	step 2
+
+		step 3
+		candidate index: 57 with core nodes: [11, 48, 53, 57]
+		The relevance model has size: 3
+		1 reviews removed from the relevance model, indices: [11]. 
+		It now has size: 2
+			old information: 149, gain: 0.9326096788783356
+
+   ind                                             review  relevance
+0  57  finally decided spend extra palm v give old pa...   0.497288
+1  48  love great design palm v first palm use time o...   0.486663
+2  53  office urging us use microsoft outlook planner...   0.440646
+3  12  bought palm last year using one year could nev...   0.388898
+4  11  put palm v best dollars ve ever spent really n...   0.369217
+5  35  received palm v birthday present first thought...   0.335780
+6  40  bought palm brazil dropped ladder called custo...   0.267895
+7   8  one look palm v handheld ll know s something s...   0.215661
+8   2  one palm s real groundbreaking handhelds s sle...   0.196684
+
+step 1
+index added: 58
+percentage unclustered: 72.5%
+
+	step 2
+
+		step 3
+		candidate index: 58 with core nodes: [11, 48, 53, 57]
+
+step 1
+index added: 59
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 71.25%
+
+	step 2
+
+		step 3
+		candidate index: 69 with core nodes: [11, 48, 53, 57]
+
+step 1
+index added: 70
+percentage unclustered: 71.25%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 71.25%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 71.25%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 73 with core nodes: [11, 48, 53, 57]
+
+step 1
+index added: 74
+percentage unclustered: 68.75%
+
+	step 2
+
+		step 3
+		candidate index: 74 with core nodes: [11, 48, 53, 57]
+
+step 1
+index added: 75
+percentage unclustered: 68.75%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 65.0%
+
+	step 2
+
+		step 3
+		candidate index: 76 with core nodes: [11, 48, 53, 57]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [48, 57]. 
+		It now has size: 2
+			old information: 35, gain: 0.8157894736842105
+
+   ind                                             review  relevance
+0  57  finally decided spend extra palm v give old pa...   0.497288
+1  48  love great design palm v first palm use time o...   0.486663
+2  53  office urging us use microsoft outlook planner...   0.440646
+3  76  palm v great size needs memory suggest miniumu...   0.395800
+4  12  bought palm last year using one year could nev...   0.388898
+5  11  put palm v best dollars ve ever spent really n...   0.369217
+6  35  received palm v birthday present first thought...   0.335780
+7  40  bought palm brazil dropped ladder called custo...   0.267895
+8   8  one look palm v handheld ll know s something s...   0.215661
+9   2  one palm s real groundbreaking handhelds s sle...   0.196684
+
+step 1
+index added: 77
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 63.75%
+
+	step 2
+
+--- 18.617486000061035 seconds ---
+
+
+ Unclustered percentages: [96.25, 96.25, 96.25, 96.25, 96.25, 96.25, 95.0, 95.0, 95.0, 91.25, 90.0, 90.0, 90.0, 90.0, 90.0, 88.75, 88.75, 88.75, 88.75, 88.75, 88.75, 88.75, 88.75, 88.75, 87.5, 87.5, 87.5, 87.5, 87.5, 87.5, 87.5, 87.5, 90.0, 88.75, 88.75, 88.75, 88.75, 88.75, 87.5, 87.5, 82.5, 82.5, 81.25, 81.25, 81.25, 81.25, 80.0, 78.75, 78.75, 78.75, 78.75, 77.5, 77.5, 77.5, 75.0, 73.75, 72.5, 72.5, 72.5, 72.5, 72.5, 72.5, 72.5, 72.5, 72.5, 72.5, 72.5, 71.25, 71.25, 71.25, 71.25, 70.0, 68.75, 68.75, 65.0, 65.0, 65.0, 63.75], mean: 82.3878
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0        7  57   0.497288  finally decided spend extra palm v give old pa...
+1       14  48   0.486663  love great design palm v first palm use time o...
+2       40  53   0.440646  office urging us use microsoft outlook planner...
+3       49  76   0.395800  palm v great size needs memory suggest miniumu...
+4       79  12   0.388898  bought palm last year using one year could nev...
+5       51  11   0.369217  put palm v best dollars ve ever spent really n...
+6       48  35   0.335780  received palm v birthday present first thought...
+7       47  40   0.267895  bought palm brazil dropped ladder called custo...
+8       73   8   0.215661  one look palm v handheld ll know s something s...
+9       71   2   0.196684  one palm s real groundbreaking handhelds s sle...

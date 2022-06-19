@@ -1,0 +1,513 @@
+------- Category: Office_Products -------
+Found asin_id: B00000J6JX
+Shape:  (60, 7)
+
+
+Chosen product: B00000J6JX has 60 reviews - True, it has 60 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 95.0%
+
+	step 2
+
+		step 3
+		candidate index: 2 with core nodes: [0, 1, 2]
+		The relevance model has size: 2
+		1 reviews removed from the relevance model, indices: [0]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   2  quite lot appropriate detail globe considering...   0.304605
+
+step 1
+index added: 3
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 4
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 5
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 6
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 93.3333%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [0, 1, 2, 9]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [0, 1]. 
+		It now has size: 1
+			old information: 21, gain: 0.9787878787878788
+
+   ind                                             review  relevance
+0   2  quite lot appropriate detail globe considering...   0.304605
+1   9  came well packaged quality pretty good would n...   0.175035
+
+step 1
+index added: 10
+percentage unclustered: 91.6667%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [0, 1, 2, 9]
+
+step 1
+index added: 11
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [0, 1, 2, 9]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [0, 2]. 
+		It now has size: 2
+			old information: 31, gain: 0.9447415329768271
+
+   ind                                             review  relevance
+0   2  quite lot appropriate detail globe considering...   0.304605
+1   9  came well packaged quality pretty good would n...   0.175035
+2  16  price review good amount detail price point gl...   0.156320
+
+step 1
+index added: 17
+percentage unclustered: 88.3333%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [0, 1, 2, 9]
+		The relevance model has size: 5
+		2 reviews removed from the relevance model, indices: [0, 9]. 
+		It now has size: 3
+			old information: 32, gain: 0.9568151147098516
+
+   ind                                             review  relevance
+0  17  good globe excellent print quality using visua...   0.322293
+1   2  quite lot appropriate detail globe considering...   0.304605
+2   9  came well packaged quality pretty good would n...   0.175035
+3  16  price review good amount detail price point gl...   0.156320
+
+step 1
+index added: 18
+percentage unclustered: 86.6667%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [0, 1, 2, 9]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [0, 1, 2]. 
+		It now has size: 3
+			old information: 16, gain: 0.9507692307692308
+
+   ind                                             review  relevance
+0  17  good globe excellent print quality using visua...   0.322293
+1   2  quite lot appropriate detail globe considering...   0.304605
+2   9  came well packaged quality pretty good would n...   0.175035
+3  16  price review good amount detail price point gl...   0.156320
+4  18  perfect school globe labeled clearly mountain ...   0.112687
+
+step 1
+index added: 19
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [0, 1, 2, 9]
+
+step 1
+index added: 20
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [0, 1, 2]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [0, 2, 9, 16]. 
+		It now has size: 3
+			old information: 24, gain: 0.8431372549019608
+
+   ind                                             review  relevance
+0  17  good globe excellent print quality using visua...   0.322293
+1  22  nice globe love raised relief elements good si...   0.319444
+2   2  quite lot appropriate detail globe considering...   0.304605
+3   9  came well packaged quality pretty good would n...   0.175035
+4  16  price review good amount detail price point gl...   0.156320
+5  18  perfect school globe labeled clearly mountain ...   0.112687
+
+step 1
+index added: 23
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 29 with core nodes: [0, 1, 2, 9]
+
+step 1
+index added: 30
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [0, 1, 2, 9]
+
+step 1
+index added: 37
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 68.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [0, 1, 35, 38, 49]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [0, 1, 17, 38]. 
+		It now has size: 3
+			old information: 82, gain: 0.9759036144578314
+
+   ind                                             review  relevance
+0  49  husband asked world globe christmas started lo...   0.411938
+1  17  good globe excellent print quality using visua...   0.322293
+2  22  nice globe love raised relief elements good si...   0.319444
+3   2  quite lot appropriate detail globe considering...   0.304605
+4   9  came well packaged quality pretty good would n...   0.175035
+5  16  price review good amount detail price point gl...   0.156320
+6  18  perfect school globe labeled clearly mountain ...   0.112687
+
+step 1
+index added: 50
+percentage unclustered: 68.33330000000001%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 68.33330000000001%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 68.33330000000001%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 68.33330000000001%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 68.33330000000001%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 55 with core nodes: [36, 46, 55]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [18, 35, 36]. 
+		It now has size: 3
+			old information: 15, gain: 0.95
+
+   ind                                             review  relevance
+0  49  husband asked world globe christmas started lo...   0.411938
+1  17  good globe excellent print quality using visua...   0.322293
+2  22  nice globe love raised relief elements good si...   0.319444
+3   2  quite lot appropriate detail globe considering...   0.304605
+4  55  bought help kids learn world raised mountains ...   0.184120
+5   9  came well packaged quality pretty good would n...   0.175035
+6  16  price review good amount detail price point gl...   0.156320
+7  18  perfect school globe labeled clearly mountain ...   0.112687
+
+step 1
+index added: 56
+percentage unclustered: 65.0%
+
+	step 2
+
+		step 3
+		candidate index: 56 with core nodes: [0, 1, 38, 46, 49, 55, 56]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [0, 22, 38, 46]. 
+		It now has size: 3
+			old information: 14, gain: 0.7454545454545455
+
+   ind                                             review  relevance
+0  49  husband asked world globe christmas started lo...   0.411938
+1  56  globe beautiful great learning tool s well mad...   0.323285
+2  17  good globe excellent print quality using visua...   0.322293
+3  22  nice globe love raised relief elements good si...   0.319444
+4   2  quite lot appropriate detail globe considering...   0.304605
+5  55  bought help kids learn world raised mountains ...   0.184120
+6   9  came well packaged quality pretty good would n...   0.175035
+7  16  price review good amount detail price point gl...   0.156320
+8  18  perfect school globe labeled clearly mountain ...   0.112687
+
+step 1
+index added: 57
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 60.0%
+
+	step 2
+
+		step 3
+		candidate index: 58 with core nodes: [30, 35, 36, 38, 46, 55, 56]
+
+step 1
+index added: 59
+percentage unclustered: 60.0%
+
+	step 2
+
+--- 5.698544502258301 seconds ---
+
+
+ Unclustered percentages: [95.0, 95.0, 95.0, 95.0, 95.0, 95.0, 95.0, 93.3333, 91.6667, 91.6667, 91.6667, 91.6667, 91.6667, 91.6667, 90.0, 88.3333, 86.6667, 85.0, 85.0, 85.0, 83.33330000000001, 83.33330000000001, 83.33330000000001, 83.33330000000001, 83.33330000000001, 83.33330000000001, 83.33330000000001, 85.0, 85.0, 85.0, 85.0, 85.0, 85.0, 85.0, 80.0, 80.0, 76.66669999999999, 76.66669999999999, 76.66669999999999, 75.0, 75.0, 75.0, 75.0, 75.0, 73.33330000000001, 73.33330000000001, 73.33330000000001, 68.33330000000001, 68.33330000000001, 68.33330000000001, 68.33330000000001, 68.33330000000001, 68.33330000000001, 66.66669999999999, 65.0, 60.0, 60.0, 60.0], mean: 81.2644
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0        3  49   0.411938  husband asked world globe christmas started lo...
+1       53  56   0.323285  globe beautiful great learning tool s well mad...
+2       41  17   0.322293  good globe excellent print quality using visua...
+3       42  22   0.319444  nice globe love raised relief elements good si...
+4       22   2   0.304605  quite lot appropriate detail globe considering...
+5       48  55   0.184120  bought help kids learn world raised mountains ...
+6       34   9   0.175035  came well packaged quality pretty good would n...
+7       49  16   0.156320  price review good amount detail price point gl...
+8       20  18   0.112687  perfect school globe labeled clearly mountain ...

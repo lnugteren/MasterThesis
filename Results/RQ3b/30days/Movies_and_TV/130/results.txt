@@ -1,0 +1,996 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 1569388431
+Shape:  (130, 7)
+
+
+Chosen product: 1569388431 has 130 reviews - True, it has 130 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 100.0%
+
+step 1
+index added: 13
+percentage unclustered: 100.0%
+
+step 1
+index added: 14
+percentage unclustered: 100.0%
+
+step 1
+index added: 15
+percentage unclustered: 100.0%
+
+step 1
+index added: 16
+percentage unclustered: 100.0%
+
+step 1
+index added: 17
+percentage unclustered: 100.0%
+
+step 1
+index added: 18
+percentage unclustered: 100.0%
+
+step 1
+index added: 19
+percentage unclustered: 100.0%
+
+step 1
+index added: 20
+percentage unclustered: 100.0%
+
+step 1
+index added: 21
+percentage unclustered: 100.0%
+
+step 1
+index added: 22
+percentage unclustered: 100.0%
+
+step 1
+index added: 23
+percentage unclustered: 100.0%
+
+step 1
+index added: 24
+percentage unclustered: 97.6923%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [5, 8, 24]
+		The relevance model has size: 2
+		1 reviews removed from the relevance model, indices: [5]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  24  s documentary movie n nit s 2 hours comedians ...   0.157671
+
+step 1
+index added: 25
+percentage unclustered: 97.6923%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 97.6923%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 95.3846%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [5, 11, 24, 27]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [5, 8]. 
+		It now has size: 2
+			old information: 12, gain: 0.9897959183673469
+
+   ind                                             review  relevance
+0  27  yes movie offensive offensive n t bother best ...   0.336219
+1  24  s documentary movie n nit s 2 hours comedians ...   0.157671
+
+step 1
+index added: 28
+percentage unclustered: 94.6154%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [5, 11, 27, 28]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [5, 24]. 
+		It now has size: 2
+			old information: 47, gain: 0.9616326530612245
+
+   ind                                             review  relevance
+0  28  check film recommendation close friend enjoyed...   0.469199
+1  27  yes movie offensive offensive n t bother best ...   0.336219
+2  24  s documentary movie n nit s 2 hours comedians ...   0.157671
+
+step 1
+index added: 29
+percentage unclustered: 94.6154%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 94.6154%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 94.6154%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 94.6154%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 94.6154%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 94.6154%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 94.6154%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 93.8462%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [5, 11, 27, 28]
+
+step 1
+index added: 37
+percentage unclustered: 93.0769%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [11, 27, 28, 37]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [11, 28]. 
+		It now has size: 1
+			old information: 109, gain: 0.9561368209255533
+
+   ind                                             review  relevance
+0  28  check film recommendation close friend enjoyed...   0.469199
+1  37  generally enjoy good dirty joke d heard movie ...   0.437767
+2  27  yes movie offensive offensive n t bother best ...   0.336219
+3  24  s documentary movie n nit s 2 hours comedians ...   0.157671
+
+step 1
+index added: 38
+percentage unclustered: 92.3077%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [27, 28, 37, 38]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [27, 28]. 
+		It now has size: 1
+			old information: 112, gain: 0.9720349563046192
+
+   ind                                             review  relevance
+0  28  check film recommendation close friend enjoyed...   0.469199
+1  37  generally enjoy good dirty joke d heard movie ...   0.437767
+2  27  yes movie offensive offensive n t bother best ...   0.336219
+3  38  100 comedians beat funny joke ground dig beat ...   0.248282
+4  24  s documentary movie n nit s 2 hours comedians ...   0.157671
+
+step 1
+index added: 39
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 39 with core nodes: [28, 34, 37, 39]
+		The relevance model has size: 4
+		1 reviews removed from the relevance model, indices: [28]. 
+		It now has size: 3
+			old information: 174, gain: 0.9049180327868852
+
+   ind                                             review  relevance
+0  39  lamest movie ive ever watched first n t unders...   0.544397
+1  28  check film recommendation close friend enjoyed...   0.469199
+2  37  generally enjoy good dirty joke d heard movie ...   0.437767
+3  27  yes movie offensive offensive n t bother best ...   0.336219
+4  38  100 comedians beat funny joke ground dig beat ...   0.248282
+5  24  s documentary movie n nit s 2 hours comedians ...   0.157671
+
+step 1
+index added: 40
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 89.2308%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [11, 38, 41]
+		The relevance model has size: 5
+		1 reviews removed from the relevance model, indices: [11]. 
+		It now has size: 4
+			old information: 559, gain: 0.9840194396798171
+
+   ind                                             review  relevance
+0  39  lamest movie ive ever watched first n t unders...   0.544397
+1  28  check film recommendation close friend enjoyed...   0.469199
+2  41  staring reviewing saying fast forward stop fil...   0.441090
+3  37  generally enjoy good dirty joke d heard movie ...   0.437767
+4  27  yes movie offensive offensive n t bother best ...   0.336219
+5  38  100 comedians beat funny joke ground dig beat ...   0.248282
+6  24  s documentary movie n nit s 2 hours comedians ...   0.157671
+
+step 1
+index added: 42
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 87.6923%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [11, 38, 41]
+
+step 1
+index added: 44
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 86.9231%
+
+	step 2
+
+		step 3
+		candidate index: 51 with core nodes: [11, 38, 41]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [11, 34, 37]. 
+		It now has size: 3
+			old information: 422, gain: 0.9496720333929636
+
+   ind                                             review  relevance
+0  39  lamest movie ive ever watched first n t unders...   0.544397
+1  51  disappointment movie could really good instead...   0.473698
+2  28  check film recommendation close friend enjoyed...   0.469199
+3  41  staring reviewing saying fast forward stop fil...   0.441090
+4  37  generally enjoy good dirty joke d heard movie ...   0.437767
+5  27  yes movie offensive offensive n t bother best ...   0.336219
+6  38  100 comedians beat funny joke ground dig beat ...   0.248282
+7  24  s documentary movie n nit s 2 hours comedians ...   0.157671
+
+step 1
+index added: 52
+percentage unclustered: 86.9231%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 86.9231%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 86.9231%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 86.9231%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 86.1538%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 86.1538%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 83.8462%
+
+	step 2
+
+		step 3
+		candidate index: 58 with core nodes: [11, 28, 34, 37, 38, 39, 41, 42, 51, 58]
+		The relevance model has size: 9
+		3 reviews removed from the relevance model, indices: [11, 34, 38]. 
+		It now has size: 6
+			old information: 877, gain: 0.9479092421002614
+
+   ind                                             review  relevance
+0  39  lamest movie ive ever watched first n t unders...   0.544397
+1  58  surface thing one glean movie go jail quickly ...   0.519407
+2  51  disappointment movie could really good instead...   0.473698
+3  28  check film recommendation close friend enjoyed...   0.469199
+4  41  staring reviewing saying fast forward stop fil...   0.441090
+5  37  generally enjoy good dirty joke d heard movie ...   0.437767
+6  27  yes movie offensive offensive n t bother best ...   0.336219
+7  38  100 comedians beat funny joke ground dig beat ...   0.248282
+8  24  s documentary movie n nit s 2 hours comedians ...   0.157671
+
+step 1
+index added: 59
+percentage unclustered: 83.0769%
+
+	step 2
+
+		step 3
+		candidate index: 59 with core nodes: [16, 41, 42, 59]
+		The relevance model has size: 8
+		3 reviews removed from the relevance model, indices: [16, 28, 39]. 
+		It now has size: 5
+			old information: 979, gain: 0.952250890113642
+
+   ind                                             review  relevance
+0  59  got worst movie ve seen recent years hands one...   0.655197
+1  39  lamest movie ive ever watched first n t unders...   0.544397
+2  58  surface thing one glean movie go jail quickly ...   0.519407
+3  51  disappointment movie could really good instead...   0.473698
+4  28  check film recommendation close friend enjoyed...   0.469199
+5  41  staring reviewing saying fast forward stop fil...   0.441090
+6  37  generally enjoy good dirty joke d heard movie ...   0.437767
+7  27  yes movie offensive offensive n t bother best ...   0.336219
+8  38  100 comedians beat funny joke ground dig beat ...   0.248282
+9  24  s documentary movie n nit s 2 hours comedians ...   0.157671
+
+step 1
+index added: 60
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 65 with core nodes: [51, 58, 65]
+		The relevance model has size: 6
+		2 reviews removed from the relevance model, indices: [37, 41]. 
+		It now has size: 4
+			old information: 165, gain: 0.8172757475083057
+
+    ind                                             review  relevance
+0   59  got worst movie ve seen recent years hands one...   0.655197
+1   65  s deal talk telling joke let 3 4 comedians tel...   0.584828
+2   39  lamest movie ive ever watched first n t unders...   0.544397
+3   58  surface thing one glean movie go jail quickly ...   0.519407
+4   51  disappointment movie could really good instead...   0.473698
+5   28  check film recommendation close friend enjoyed...   0.469199
+6   41  staring reviewing saying fast forward stop fil...   0.441090
+7   37  generally enjoy good dirty joke d heard movie ...   0.437767
+8   27  yes movie offensive offensive n t bother best ...   0.336219
+9   38  100 comedians beat funny joke ground dig beat ...   0.248282
+10  24  s documentary movie n nit s 2 hours comedians ...   0.157671
+
+step 1
+index added: 66
+percentage unclustered: 79.2308%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 79.2308%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 81.5385%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 81.5385%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 78.4615%
+
+	step 2
+
+		step 3
+		candidate index: 70 with core nodes: [34, 37, 39, 70]
+		The relevance model has size: 8
+		3 reviews removed from the relevance model, indices: [34, 39, 42]. 
+		It now has size: 5
+			old information: 672, gain: 0.8745332337565347
+
+    ind                                             review  relevance
+0   59  got worst movie ve seen recent years hands one...   0.655197
+1   65  s deal talk telling joke let 3 4 comedians tel...   0.584828
+2   39  lamest movie ive ever watched first n t unders...   0.544397
+3   58  surface thing one glean movie go jail quickly ...   0.519407
+4   51  disappointment movie could really good instead...   0.473698
+5   28  check film recommendation close friend enjoyed...   0.469199
+6   70  ca n t believe anyone n t laugh butts movie kn...   0.452728
+7   41  staring reviewing saying fast forward stop fil...   0.441090
+8   37  generally enjoy good dirty joke d heard movie ...   0.437767
+9   27  yes movie offensive offensive n t bother best ...   0.336219
+10  38  100 comedians beat funny joke ground dig beat ...   0.248282
+11  24  s documentary movie n nit s 2 hours comedians ...   0.157671
+
+step 1
+index added: 71
+percentage unclustered: 78.4615%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 78.4615%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 77.6923%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 77.6923%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 76.9231%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 76.9231%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 76.9231%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 76.9231%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 74.6154%
+
+	step 2
+
+		step 3
+		candidate index: 79 with core nodes: [41, 42, 59]
+
+step 1
+index added: 80
+percentage unclustered: 74.6154%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 73.8462%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 73.0769%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 72.3077%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 72.3077%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 71.5385%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 71.5385%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 71.5385%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 70.7692%
+
+	step 2
+
+		step 3
+		candidate index: 88 with core nodes: [41, 42, 59, 88]
+		The relevance model has size: 8
+		2 reviews removed from the relevance model, indices: [37, 41]. 
+		It now has size: 6
+			old information: 1059, gain: 0.9539665290154314
+
+    ind                                             review  relevance
+0   59  got worst movie ve seen recent years hands one...   0.655197
+1   65  s deal talk telling joke let 3 4 comedians tel...   0.584828
+2   39  lamest movie ive ever watched first n t unders...   0.544397
+3   58  surface thing one glean movie go jail quickly ...   0.519407
+4   51  disappointment movie could really good instead...   0.473698
+5   28  check film recommendation close friend enjoyed...   0.469199
+6   88  eagerly awaited movie released dvd appreciate ...   0.457452
+7   70  ca n t believe anyone n t laugh butts movie kn...   0.452728
+8   41  staring reviewing saying fast forward stop fil...   0.441090
+9   37  generally enjoy good dirty joke d heard movie ...   0.437767
+10  27  yes movie offensive offensive n t bother best ...   0.336219
+11  38  100 comedians beat funny joke ground dig beat ...   0.248282
+12  24  s documentary movie n nit s 2 hours comedians ...   0.157671
+
+step 1
+index added: 89
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 67.6923%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 66.15379999999999%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 66.15379999999999%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 65.3846%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 64.6154%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 64.6154%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 63.8462%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 63.8462%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 63.8462%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 61.5385%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 60.7692%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 60.7692%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 60.7692%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 60.7692%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 60.7692%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 60.7692%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 59.2308%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 59.2308%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 58.4615%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 58.4615%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 57.6923%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 57.6923%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 56.9231%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 56.1538%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 55.3846%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 55.3846%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 55.3846%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 59.2308%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 59.2308%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 59.2308%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 59.2308%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 59.2308%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 59.2308%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 58.4615%
+
+	step 2
+
+		step 3
+		candidate index: 125 with core nodes: [34, 37, 39]
+
+step 1
+index added: 126
+percentage unclustered: 57.6923%
+
+	step 2
+
+		step 3
+		candidate index: 126 with core nodes: [45, 59, 126]
+		The relevance model has size: 8
+		2 reviews removed from the relevance model, indices: [42, 45]. 
+		It now has size: 6
+			old information: 942, gain: 0.9003490955252301
+
+     ind                                             review  relevance
+0   126  movie extremely difficult review people think ...   0.721701
+1    59  got worst movie ve seen recent years hands one...   0.655197
+2    65  s deal talk telling joke let 3 4 comedians tel...   0.584828
+3    39  lamest movie ive ever watched first n t unders...   0.544397
+4    58  surface thing one glean movie go jail quickly ...   0.519407
+5    51  disappointment movie could really good instead...   0.473698
+6    28  check film recommendation close friend enjoyed...   0.469199
+7    88  eagerly awaited movie released dvd appreciate ...   0.457452
+8    70  ca n t believe anyone n t laugh butts movie kn...   0.452728
+9    41  staring reviewing saying fast forward stop fil...   0.441090
+10   37  generally enjoy good dirty joke d heard movie ...   0.437767
+11   27  yes movie offensive offensive n t bother best ...   0.336219
+12   38  100 comedians beat funny joke ground dig beat ...   0.248282
+13   24  s documentary movie n nit s 2 hours comedians ...   0.157671
+
+step 1
+index added: 127
+percentage unclustered: 57.6923%
+
+	step 2
+
+step 1
+index added: 128
+percentage unclustered: 57.6923%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 57.6923%
+
+	step 2
+
+--- 130.65665245056152 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 97.6923, 97.6923, 97.6923, 95.3846, 94.6154, 94.6154, 94.6154, 94.6154, 94.6154, 94.6154, 94.6154, 94.6154, 93.8462, 93.0769, 92.3077, 90.0, 90.0, 89.2308, 88.4615, 87.6923, 87.6923, 87.6923, 87.6923, 87.6923, 87.6923, 87.6923, 87.6923, 86.9231, 86.9231, 86.9231, 86.9231, 86.9231, 86.1538, 86.1538, 83.8462, 83.0769, 80.0, 80.0, 80.0, 80.0, 80.0, 80.0, 79.2308, 79.2308, 81.5385, 81.5385, 78.4615, 78.4615, 78.4615, 77.6923, 77.6923, 76.9231, 76.9231, 76.9231, 76.9231, 74.6154, 74.6154, 73.8462, 73.0769, 72.3077, 72.3077, 71.5385, 71.5385, 71.5385, 70.7692, 70.0, 67.6923, 66.15379999999999, 66.15379999999999, 65.3846, 64.6154, 64.6154, 63.8462, 63.8462, 63.8462, 61.5385, 60.7692, 60.7692, 60.7692, 60.7692, 60.7692, 60.7692, 60.0, 59.2308, 59.2308, 58.4615, 58.4615, 57.6923, 57.6923, 56.9231, 56.1538, 55.3846, 55.3846, 55.3846, 60.0, 59.2308, 59.2308, 59.2308, 59.2308, 59.2308, 59.2308, 58.4615, 57.6923, 57.6923, 57.6923, 57.6923], mean: 79.381
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0        36  126   0.721701  movie extremely difficult review people think ...
+1        29   59   0.655197  got worst movie ve seen recent years hands one...
+2        88   65   0.584828  s deal talk telling joke let 3 4 comedians tel...
+3        70   39   0.544397  lamest movie ive ever watched first n t unders...
+4        84   58   0.519407  surface thing one glean movie go jail quickly ...
+5        51   51   0.473698  disappointment movie could really good instead...
+6        38   28   0.469199  check film recommendation close friend enjoyed...
+7       102   88   0.457452  eagerly awaited movie released dvd appreciate ...
+8        43   70   0.452728  ca n t believe anyone n t laugh butts movie kn...
+9        49   41   0.441090  staring reviewing saying fast forward stop fil...
+10       40   37   0.437767  generally enjoy good dirty joke d heard movie ...
+11       69   27   0.336219  yes movie offensive offensive n t bother best ...
+12      116   38   0.248282  100 comedians beat funny joke ground dig beat ...
+13      112   24   0.157671  s documentary movie n nit s 2 hours comedians ...

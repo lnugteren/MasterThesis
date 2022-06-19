@@ -1,0 +1,1045 @@
+------- Category: Office_Products -------
+Found asin_id: B0007VMROE
+Shape:  (130, 7)
+
+
+Chosen product: B0007VMROE has 130 reviews - True, it has 130 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 97.6923%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [2, 3, 7]
+		The relevance model has size: 2
+		1 reviews removed from the relevance model, indices: [2]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   7  received palm days ago ok actually last night ...   0.072578
+
+step 1
+index added: 8
+percentage unclustered: 97.6923%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 97.6923%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 97.6923%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 97.6923%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 95.3846%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [2, 7, 9, 10, 12]
+		The relevance model has size: 5
+		2 reviews removed from the relevance model, indices: [2, 3]. 
+		It now has size: 3
+			old information: 107, gain: 0.9855033193334236
+
+   ind                                             review  relevance
+0  12  like palm handhelds general relied years one p...   0.337857
+1   7  received palm days ago ok actually last night ...   0.072578
+
+step 1
+index added: 13
+percentage unclustered: 93.0769%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [2, 9, 12, 13]
+		The relevance model has size: 5
+		2 reviews removed from the relevance model, indices: [2, 7]. 
+		It now has size: 3
+			old information: 433, gain: 0.9868373054474708
+
+   ind                                             review  relevance
+0  13  buyer beware read reviews considering buying s...   0.386252
+1  12  like palm handhelds general relied years one p...   0.337857
+2   7  received palm days ago ok actually last night ...   0.072578
+
+step 1
+index added: 14
+percentage unclustered: 93.0769%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 93.0769%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [7, 10, 11, 15]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [7, 9, 12]. 
+		It now has size: 3
+			old information: 252, gain: 0.9370786516853933
+
+   ind                                             review  relevance
+0  13  buyer beware read reviews considering buying s...   0.386252
+1  15  prior experience palm always little frustratin...   0.363480
+2  12  like palm handhelds general relied years one p...   0.337857
+3   7  received palm days ago ok actually last night ...   0.072578
+
+step 1
+index added: 16
+percentage unclustered: 93.0769%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 94.6154%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [7, 11, 15]
+
+step 1
+index added: 18
+percentage unclustered: 94.6154%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 94.6154%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 93.8462%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [7, 11, 15]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [7, 10, 11]. 
+		It now has size: 2
+			old information: 421, gain: 0.9322715572715573
+
+   ind                                             review  relevance
+0  13  buyer beware read reviews considering buying s...   0.386252
+1  15  prior experience palm always little frustratin...   0.363480
+2  12  like palm handhelds general relied years one p...   0.337857
+3  20  within 3 days startup graffiti 2 help disappea...   0.295376
+4   7  received palm days ago ok actually last night ...   0.072578
+
+step 1
+index added: 21
+percentage unclustered: 93.8462%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 93.8462%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 93.0769%
+
+	step 2
+
+		step 3
+		candidate index: 23 with core nodes: [7, 11, 15]
+
+step 1
+index added: 24
+percentage unclustered: 93.0769%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 93.0769%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 92.3077%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [7, 11, 15, 26]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [11, 13, 20]. 
+		It now has size: 2
+			old information: 630, gain: 0.945102823283374
+
+   ind                                             review  relevance
+0  26  first synchronization setup steps palm tungste...   0.454993
+1  13  buyer beware read reviews considering buying s...   0.386252
+2  15  prior experience palm always little frustratin...   0.363480
+3  12  like palm handhelds general relied years one p...   0.337857
+4  20  within 3 days startup graffiti 2 help disappea...   0.295376
+5   7  received palm days ago ok actually last night ...   0.072578
+
+step 1
+index added: 27
+percentage unclustered: 92.3077%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 92.3077%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 91.5385%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 91.5385%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 91.5385%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 91.5385%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 88.4615%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [2, 9, 12]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [9, 15, 26]. 
+		It now has size: 3
+			old information: 234, gain: 0.9178947368421052
+
+   ind                                             review  relevance
+0  26  first synchronization setup steps palm tungste...   0.454993
+1  13  buyer beware read reviews considering buying s...   0.386252
+2  15  prior experience palm always little frustratin...   0.363480
+3  12  like palm handhelds general relied years one p...   0.337857
+4  20  within 3 days startup graffiti 2 help disappea...   0.295376
+5  33  use handheld nursing school ve able purchase r...   0.257643
+6   7  received palm days ago ok actually last night ...   0.072578
+
+step 1
+index added: 34
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 87.6923%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [7, 26, 37]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [7, 12, 26]. 
+		It now has size: 2
+			old information: 274, gain: 0.895738203957382
+
+   ind                                             review  relevance
+0  26  first synchronization setup steps palm tungste...   0.454993
+1  13  buyer beware read reviews considering buying s...   0.386252
+2  15  prior experience palm always little frustratin...   0.363480
+3  12  like palm handhelds general relied years one p...   0.337857
+4  20  within 3 days startup graffiti 2 help disappea...   0.295376
+5  37  loved handheld first got year battery goes dea...   0.260371
+6  33  use handheld nursing school ve able purchase r...   0.257643
+7   7  received palm days ago ok actually last night ...   0.072578
+
+step 1
+index added: 38
+percentage unclustered: 86.9231%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [7, 26, 37]
+
+step 1
+index added: 39
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 89.2308%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 89.2308%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 89.2308%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 86.1538%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [7, 26, 34, 37]
+
+step 1
+index added: 48
+percentage unclustered: 86.1538%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 86.9231%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 86.9231%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 86.9231%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 86.9231%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 86.9231%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 86.9231%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 84.6154%
+
+	step 2
+
+		step 3
+		candidate index: 55 with core nodes: [25, 34, 37, 46, 55]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [2, 34, 37]. 
+		It now has size: 3
+			old information: 350, gain: 0.9548387096774194
+
+   ind                                             review  relevance
+0  26  first synchronization setup steps palm tungste...   0.454993
+1  55  first palm use palm primarily manage addresses...   0.453332
+2  13  buyer beware read reviews considering buying s...   0.386252
+3  15  prior experience palm always little frustratin...   0.363480
+4  12  like palm handhelds general relied years one p...   0.337857
+5  20  within 3 days startup graffiti 2 help disappea...   0.295376
+6  37  loved handheld first got year battery goes dea...   0.260371
+7  33  use handheld nursing school ve able purchase r...   0.257643
+8   7  received palm days ago ok actually last night ...   0.072578
+
+step 1
+index added: 56
+percentage unclustered: 84.6154%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 83.8462%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 83.8462%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 83.8462%
+
+	step 2
+
+		step 3
+		candidate index: 59 with core nodes: [25, 34, 37, 46, 55]
+
+step 1
+index added: 60
+percentage unclustered: 83.8462%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 80.7692%
+
+	step 2
+
+		step 3
+		candidate index: 61 with core nodes: [25, 34, 37, 46, 55]
+
+step 1
+index added: 62
+percentage unclustered: 78.4615%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 76.1538%
+
+	step 2
+
+		step 3
+		candidate index: 63 with core nodes: [25, 34, 37, 46, 55]
+
+step 1
+index added: 64
+percentage unclustered: 76.1538%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 76.1538%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 76.1538%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 75.3846%
+
+	step 2
+
+		step 3
+		candidate index: 67 with core nodes: [25, 34, 37, 46, 55]
+
+step 1
+index added: 68
+percentage unclustered: 75.3846%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 75.3846%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 75.3846%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 75.3846%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 75.3846%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 75.3846%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 74.6154%
+
+	step 2
+
+		step 3
+		candidate index: 74 with core nodes: [25, 34, 37, 46, 55]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [33, 34, 46]. 
+		It now has size: 3
+			old information: 670, gain: 0.9188468992248062
+
+   ind                                             review  relevance
+0  74  ve palms long remember tungsten e2 last blueto...   0.510438
+1  26  first synchronization setup steps palm tungste...   0.454993
+2  55  first palm use palm primarily manage addresses...   0.453332
+3  13  buyer beware read reviews considering buying s...   0.386252
+4  15  prior experience palm always little frustratin...   0.363480
+5  12  like palm handhelds general relied years one p...   0.337857
+6  20  within 3 days startup graffiti 2 help disappea...   0.295376
+7  37  loved handheld first got year battery goes dea...   0.260371
+8  33  use handheld nursing school ve able purchase r...   0.257643
+9   7  received palm days ago ok actually last night ...   0.072578
+
+step 1
+index added: 75
+percentage unclustered: 74.6154%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 74.6154%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 74.6154%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 73.0769%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 69.2308%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 69.2308%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 68.4615%
+
+	step 2
+
+		step 3
+		candidate index: 81 with core nodes: [25, 34, 37, 46]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [25, 34, 37]. 
+		It now has size: 3
+			old information: 3128, gain: 0.9695811574330698
+
+    ind                                             review  relevance
+0   74  ve palms long remember tungsten e2 last blueto...   0.510438
+1   81  update installed phone link updater palm s web...   0.460607
+2   26  first synchronization setup steps palm tungste...   0.454993
+3   55  first palm use palm primarily manage addresses...   0.453332
+4   13  buyer beware read reviews considering buying s...   0.386252
+5   15  prior experience palm always little frustratin...   0.363480
+6   12  like palm handhelds general relied years one p...   0.337857
+7   20  within 3 days startup graffiti 2 help disappea...   0.295376
+8   37  loved handheld first got year battery goes dea...   0.260371
+9   33  use handheld nursing school ve able purchase r...   0.257643
+10   7  received palm days ago ok actually last night ...   0.072578
+
+step 1
+index added: 82
+percentage unclustered: 67.6923%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 67.6923%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 67.6923%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 67.6923%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 67.6923%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 66.9231%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 66.9231%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 66.9231%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 66.9231%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 60.7692%
+
+	step 2
+
+		step 3
+		candidate index: 91 with core nodes: [37, 55, 91]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [37, 46, 55]. 
+		It now has size: 2
+			old information: 330, gain: 0.8872180451127819
+
+    ind                                             review  relevance
+0   74  ve palms long remember tungsten e2 last blueto...   0.510438
+1   81  update installed phone link updater palm s web...   0.460607
+2   26  first synchronization setup steps palm tungste...   0.454993
+3   55  first palm use palm primarily manage addresses...   0.453332
+4   91  first haldheld ever got september 05 n nit sta...   0.387763
+5   13  buyer beware read reviews considering buying s...   0.386252
+6   15  prior experience palm always little frustratin...   0.363480
+7   12  like palm handhelds general relied years one p...   0.337857
+8   20  within 3 days startup graffiti 2 help disappea...   0.295376
+9   37  loved handheld first got year battery goes dea...   0.260371
+10  33  use handheld nursing school ve able purchase r...   0.257643
+11   7  received palm days ago ok actually last night ...   0.072578
+
+step 1
+index added: 92
+percentage unclustered: 60.7692%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 60.7692%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 60.0%
+
+	step 2
+
+		step 3
+		candidate index: 94 with core nodes: [26, 49, 73, 94]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [26, 73, 74]. 
+		It now has size: 3
+			old information: 1561, gain: 0.9369369369369369
+
+    ind                                             review  relevance
+0   74  ve palms long remember tungsten e2 last blueto...   0.510438
+1   81  update installed phone link updater palm s web...   0.460607
+2   26  first synchronization setup steps palm tungste...   0.454993
+3   55  first palm use palm primarily manage addresses...   0.453332
+4   94  palm tungsten e2 review four month later revis...   0.441883
+5   91  first haldheld ever got september 05 n nit sta...   0.387763
+6   13  buyer beware read reviews considering buying s...   0.386252
+7   15  prior experience palm always little frustratin...   0.363480
+8   12  like palm handhelds general relied years one p...   0.337857
+9   20  within 3 days startup graffiti 2 help disappea...   0.295376
+10  37  loved handheld first got year battery goes dea...   0.260371
+11  33  use handheld nursing school ve able purchase r...   0.257643
+12   7  received palm days ago ok actually last night ...   0.072578
+
+step 1
+index added: 95
+percentage unclustered: 59.2308%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 59.2308%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 59.2308%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 59.2308%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 55.3846%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 54.6154%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 53.8462%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 53.0769%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 53.0769%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 53.0769%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 53.0769%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 53.0769%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 53.0769%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 53.0769%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 53.0769%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 52.3077%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 52.3077%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 52.3077%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 52.3077%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 52.3077%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 52.3077%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 51.5385%
+
+	step 2
+
+		step 3
+		candidate index: 116 with core nodes: [37, 55, 91]
+
+step 1
+index added: 117
+percentage unclustered: 51.5385%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 51.5385%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 50.7692%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 50.7692%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 53.0769%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 53.0769%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 50.7692%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 50.7692%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 49.2308%
+
+	step 2
+
+		step 3
+		candidate index: 127 with core nodes: [95, 124, 126, 127]
+		The relevance model has size: 7
+		3 reviews removed from the relevance model, indices: [49, 81, 95]. 
+		It now has size: 4
+			old information: 3505, gain: 0.9295760498292144
+
+     ind                                             review  relevance
+0   127  ignore complaints model palm general remember ...   0.625810
+1    74  ve palms long remember tungsten e2 last blueto...   0.510438
+2    81  update installed phone link updater palm s web...   0.460607
+3    26  first synchronization setup steps palm tungste...   0.454993
+4    55  first palm use palm primarily manage addresses...   0.453332
+5    94  palm tungsten e2 review four month later revis...   0.441883
+6    91  first haldheld ever got september 05 n nit sta...   0.387763
+7    13  buyer beware read reviews considering buying s...   0.386252
+8    15  prior experience palm always little frustratin...   0.363480
+9    12  like palm handhelds general relied years one p...   0.337857
+10   20  within 3 days startup graffiti 2 help disappea...   0.295376
+11   37  loved handheld first got year battery goes dea...   0.260371
+12   33  use handheld nursing school ve able purchase r...   0.257643
+13    7  received palm days ago ok actually last night ...   0.072578
+
+step 1
+index added: 128
+percentage unclustered: 49.2308%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 49.2308%
+
+	step 2
+
+--- 180.94372391700745 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 97.6923, 97.6923, 97.6923, 97.6923, 97.6923, 95.3846, 93.0769, 93.0769, 93.0769, 93.0769, 94.6154, 94.6154, 94.6154, 93.8462, 93.8462, 93.8462, 93.0769, 93.0769, 93.0769, 92.3077, 92.3077, 92.3077, 91.5385, 91.5385, 91.5385, 91.5385, 88.4615, 88.4615, 88.4615, 88.4615, 87.6923, 86.9231, 90.0, 90.0, 90.0, 90.0, 90.0, 89.2308, 89.2308, 89.2308, 86.1538, 86.1538, 86.9231, 86.9231, 86.9231, 86.9231, 86.9231, 86.9231, 84.6154, 84.6154, 83.8462, 83.8462, 83.8462, 83.8462, 80.7692, 78.4615, 76.1538, 76.1538, 76.1538, 76.1538, 75.3846, 75.3846, 75.3846, 75.3846, 75.3846, 75.3846, 75.3846, 74.6154, 74.6154, 74.6154, 74.6154, 73.0769, 69.2308, 69.2308, 68.4615, 67.6923, 67.6923, 67.6923, 67.6923, 67.6923, 66.9231, 66.9231, 66.9231, 66.9231, 60.7692, 60.7692, 60.7692, 60.0, 59.2308, 59.2308, 59.2308, 59.2308, 55.3846, 54.6154, 53.8462, 53.0769, 53.0769, 53.0769, 53.0769, 53.0769, 53.0769, 53.0769, 53.0769, 52.3077, 52.3077, 52.3077, 52.3077, 52.3077, 52.3077, 51.5385, 51.5385, 51.5385, 50.7692, 50.7692, 50.0, 53.0769, 53.0769, 50.7692, 50.7692, 50.0, 49.2308, 49.2308, 49.2308], mean: 75.4507
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0         1  127   0.625810  ignore complaints model palm general remember ...
+1        41   74   0.510438  ve palms long remember tungsten e2 last blueto...
+2       104   81   0.460607  update installed phone link updater palm s web...
+3        44   26   0.454993  first synchronization setup steps palm tungste...
+4        39   55   0.453332  first palm use palm primarily manage addresses...
+5       129   94   0.441883  palm tungsten e2 review four month later revis...
+6        43   91   0.387763  first haldheld ever got september 05 n nit sta...
+7       121   13   0.386252  buyer beware read reviews considering buying s...
+8       113   15   0.363480  prior experience palm always little frustratin...
+9        76   12   0.337857  like palm handhelds general relied years one p...
+10      115   20   0.295376  within 3 days startup graffiti 2 help disappea...
+11       72   37   0.260371  loved handheld first got year battery goes dea...
+12      124   33   0.257643  use handheld nursing school ve able purchase r...
+13      110    7   0.072578  received palm days ago ok actually last night ...

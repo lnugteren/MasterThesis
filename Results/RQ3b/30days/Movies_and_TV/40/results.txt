@@ -1,0 +1,335 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 0783226853
+Shape:  (40, 7)
+
+
+Chosen product: 0783226853 has 40 reviews - True, it has 40 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 92.5%
+
+	step 2
+
+		step 3
+		candidate index: 4 with core nodes: [1, 3, 4]
+		The relevance model has size: 2
+		1 reviews removed from the relevance model, indices: [1]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   4  day jackal 1973 parallel procedural follow ass...   0.165567
+
+step 1
+index added: 5
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 6
+percentage unclustered: 87.5%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [1, 3, 4, 6]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [1, 3]. 
+		It now has size: 1
+			old information: 194, gain: 0.974560713349069
+
+   ind                                             review  relevance
+0   6  day jackal one best action suspense films ever...   0.348833
+1   4  day jackal 1973 parallel procedural follow ass...   0.165567
+
+step 1
+index added: 7
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [1, 4, 6, 7]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [1, 4]. 
+		It now has size: 1
+			old information: 200, gain: 0.96117258784702
+
+   ind                                             review  relevance
+0   6  day jackal one best action suspense films ever...   0.348833
+1   7  film never drags complex pay attention details...   0.286328
+2   4  day jackal 1973 parallel procedural follow ass...   0.165567
+
+step 1
+index added: 8
+percentage unclustered: 82.5%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [1, 4, 6, 8]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [1, 6]. 
+		It now has size: 2
+			old information: 205, gain: 0.9382716049382716
+
+   ind                                             review  relevance
+0   8  director fred zinnimann s day jackal rare movi...   0.375951
+1   6  day jackal one best action suspense films ever...   0.348833
+2   7  film never drags complex pay attention details...   0.286328
+3   4  day jackal 1973 parallel procedural follow ass...   0.165567
+
+step 1
+index added: 9
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [1, 4, 6, 8]
+
+step 1
+index added: 12
+percentage unclustered: 72.5%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [1, 4, 6, 8]
+
+step 1
+index added: 13
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [1, 4, 6, 8]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [6, 7, 8]. 
+		It now has size: 2
+			old information: 137, gain: 0.9432712215320911
+
+   ind                                             review  relevance
+0   8  director fred zinnimann s day jackal rare movi...   0.375951
+1  15  movie standard detective spy movies for n nmos...   0.353058
+2   6  day jackal one best action suspense films ever...   0.348833
+3   7  film never drags complex pay attention details...   0.286328
+4   4  day jackal 1973 parallel procedural follow ass...   0.165567
+
+step 1
+index added: 16
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 67.5%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [1, 6, 8, 18]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [4, 8, 15]. 
+		It now has size: 2
+			old information: 1239, gain: 0.98831462793549
+
+   ind                                             review  relevance
+0  18  coldest villain hottest thriller n nwhen frede...   0.621172
+1   8  director fred zinnimann s day jackal rare movi...   0.375951
+2  15  movie standard detective spy movies for n nmos...   0.353058
+3   6  day jackal one best action suspense films ever...   0.348833
+4   7  film never drags complex pay attention details...   0.286328
+5   4  day jackal 1973 parallel procedural follow ass...   0.165567
+
+step 1
+index added: 19
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 67.5%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [1, 6, 8, 18]
+
+step 1
+index added: 23
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 65.0%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [1, 6, 8, 18]
+
+step 1
+index added: 28
+percentage unclustered: 62.5%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [1, 4, 6, 8]
+
+step 1
+index added: 29
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 52.5%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 52.5%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 52.5%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 52.5%
+
+	step 2
+
+--- 32.83660817146301 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 92.5, 92.5, 87.5, 85.0, 82.5, 82.5, 82.5, 80.0, 72.5, 72.5, 72.5, 70.0, 70.0, 70.0, 67.5, 67.5, 67.5, 67.5, 67.5, 67.5, 67.5, 67.5, 67.5, 65.0, 62.5, 60.0, 60.0, 60.0, 60.0, 60.0, 60.0, 60.0, 52.5, 52.5, 52.5, 52.5], mean: 70.4605
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0       11  18   0.621172  coldest villain hottest thriller n nwhen frede...
+1       33   8   0.375951  director fred zinnimann s day jackal rare movi...
+2       22  15   0.353058  movie standard detective spy movies for n nmos...
+3       29   6   0.348833  day jackal one best action suspense films ever...
+4       30   7   0.286328  film never drags complex pay attention details...
+5       14   4   0.165567  day jackal 1973 parallel procedural follow ass...
