@@ -1,0 +1,1135 @@
+------- Category: Sports_and_Outdoors -------
+Found asin_id: B019Z6HS86
+Shape:  (162, 7)
+
+
+Chosen product: B019Z6HS86 has 162 reviews - False, it has 160 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 100.0%
+
+step 1
+index added: 13
+percentage unclustered: 100.0%
+
+step 1
+index added: 14
+percentage unclustered: 100.0%
+
+step 1
+index added: 15
+percentage unclustered: 100.0%
+
+step 1
+index added: 16
+percentage unclustered: 100.0%
+
+step 1
+index added: 17
+percentage unclustered: 100.0%
+
+step 1
+index added: 18
+percentage unclustered: 98.125%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [1, 15, 18]
+		The relevance model has size: 2
+		1 reviews removed from the relevance model, indices: [1]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  18  wanted share thoughts far mostly reviews impor...   0.159102
+
+step 1
+index added: 19
+percentage unclustered: 98.125%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 96.25%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [3, 17, 18, 20]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [3, 15]. 
+		It now has size: 2
+			old information: 382, gain: 0.9628982128982129
+
+   ind                                             review  relevance
+0  20  roller coaster experience went good bad good n...   0.399302
+1  18  wanted share thoughts far mostly reviews impor...   0.159102
+
+step 1
+index added: 21
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 94.375%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [3, 17, 18, 20]
+
+step 1
+index added: 23
+percentage unclustered: 94.375%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 93.125%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [6, 18, 20, 23]
+
+step 1
+index added: 27
+percentage unclustered: 93.125%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 91.25%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [18, 23, 27, 28]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [18, 20, 27]. 
+		It now has size: 2
+			old information: 3463, gain: 0.9802709539218815
+
+   ind                                             review  relevance
+0  28  12 08 2016 n12 31 2016 updated 4 stars cg easy...   0.535815
+1  20  roller coaster experience went good bad good n...   0.399302
+2  18  wanted share thoughts far mostly reviews impor...   0.159102
+
+step 1
+index added: 29
+percentage unclustered: 91.25%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 94.375%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 91.875%
+
+	step 2
+
+		step 3
+		candidate index: 31 with core nodes: [18, 20, 27, 28]
+
+step 1
+index added: 32
+percentage unclustered: 91.875%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 91.875%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 91.25%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [18, 20, 27, 28]
+		The relevance model has size: 6
+		3 reviews removed from the relevance model, indices: [17, 20, 28]. 
+		It now has size: 3
+			old information: 379, gain: 0.9168859649122807
+
+   ind                                             review  relevance
+0  28  12 08 2016 n12 31 2016 updated 4 stars cg easy...   0.535815
+1  34  comes gimped out of the box registered online ...   0.509213
+2  20  roller coaster experience went good bad good n...   0.399302
+3  18  wanted share thoughts far mostly reviews impor...   0.159102
+
+step 1
+index added: 35
+percentage unclustered: 91.25%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 91.25%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 91.25%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 91.25%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 91.25%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 91.25%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 89.375%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [18, 23, 27, 28]
+
+step 1
+index added: 42
+percentage unclustered: 89.375%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [18, 23, 28, 45]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [23, 27, 28]. 
+		It now has size: 2
+			old information: 9909, gain: 0.9565680473372781
+
+   ind                                             review  relevance
+0  45  mixed experience rode friend s one time much f...   0.569286
+1  28  12 08 2016 n12 31 2016 updated 4 stars cg easy...   0.535815
+2  34  comes gimped out of the box registered online ...   0.509213
+3  20  roller coaster experience went good bad good n...   0.399302
+4  18  wanted share thoughts far mostly reviews impor...   0.159102
+
+step 1
+index added: 46
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 89.375%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [18, 23, 28, 45]
+
+step 1
+index added: 48
+percentage unclustered: 89.375%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 89.375%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 89.375%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 89.375%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 89.375%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 89.375%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 89.375%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 89.375%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 89.375%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 86.25%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 88.75%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 87.5%
+
+	step 2
+
+		step 3
+		candidate index: 61 with core nodes: [18, 23, 28, 45]
+
+step 1
+index added: 62
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 86.25%
+
+	step 2
+
+		step 3
+		candidate index: 65 with core nodes: [18, 23, 28, 45]
+
+step 1
+index added: 66
+percentage unclustered: 86.25%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 86.875%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 70 with core nodes: [6, 23, 45, 63]
+
+step 1
+index added: 71
+percentage unclustered: 86.875%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 78.75%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 78.75%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 78.75%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 78.125%
+
+	step 2
+
+		step 3
+		candidate index: 75 with core nodes: [12, 18, 28, 63]
+
+step 1
+index added: 76
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 76 with core nodes: [6, 27, 28, 63]
+
+step 1
+index added: 77
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 78.75%
+
+	step 2
+
+		step 3
+		candidate index: 81 with core nodes: [6, 12, 28, 63, 81]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [12, 18, 45, 63]. 
+		It now has size: 3
+			old information: 7351, gain: 0.914014340690833
+
+   ind                                             review  relevance
+0  81  always wanted get hover board never got around...   0.596067
+1  45  mixed experience rode friend s one time much f...   0.569286
+2  28  12 08 2016 n12 31 2016 updated 4 stars cg easy...   0.535815
+3  34  comes gimped out of the box registered online ...   0.509213
+4  20  roller coaster experience went good bad good n...   0.399302
+5  18  wanted share thoughts far mostly reviews impor...   0.159102
+
+step 1
+index added: 82
+percentage unclustered: 78.75%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 78.75%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 78.75%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 78.125%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 79.375%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 81.25%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 76.875%
+
+	step 2
+
+		step 3
+		candidate index: 91 with core nodes: [28, 63, 91]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [28, 34, 63]. 
+		It now has size: 2
+			old information: 5697, gain: 0.9229301948051948
+
+   ind                                             review  relevance
+0  81  always wanted get hover board never got around...   0.596067
+1  45  mixed experience rode friend s one time much f...   0.569286
+2  28  12 08 2016 n12 31 2016 updated 4 stars cg easy...   0.535815
+3  34  comes gimped out of the box registered online ...   0.509213
+4  91  ok professional adult say still slightly feel ...   0.506285
+5  20  roller coaster experience went good bad good n...   0.399302
+6  18  wanted share thoughts far mostly reviews impor...   0.159102
+
+step 1
+index added: 92
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 76.875%
+
+	step 2
+
+		step 3
+		candidate index: 95 with core nodes: [28, 63, 91]
+
+step 1
+index added: 96
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 81.875%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 81.875%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 81.25%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 81.25%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 81.25%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 81.25%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 79.375%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 73.75%
+
+	step 2
+
+		step 3
+		candidate index: 106 with core nodes: [6, 23, 45, 63, 81]
+
+step 1
+index added: 107
+percentage unclustered: 73.125%
+
+	step 2
+
+		step 3
+		candidate index: 107 with core nodes: [6, 23, 45, 63, 81]
+
+step 1
+index added: 108
+percentage unclustered: 72.5%
+
+	step 2
+
+		step 3
+		candidate index: 108 with core nodes: [28, 91, 108]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [6, 91]. 
+		It now has size: 2
+			old information: 3701, gain: 0.9201682484900776
+
+    ind                                             review  relevance
+0   81  always wanted get hover board never got around...   0.596067
+1  108  product one things life impacts way function r...   0.586853
+2   45  mixed experience rode friend s one time much f...   0.569286
+3   28  12 08 2016 n12 31 2016 updated 4 stars cg easy...   0.535815
+4   34  comes gimped out of the box registered online ...   0.509213
+5   91  ok professional adult say still slightly feel ...   0.506285
+6   20  roller coaster experience went good bad good n...   0.399302
+7   18  wanted share thoughts far mostly reviews impor...   0.159102
+
+step 1
+index added: 109
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 73.75%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 73.75%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 73.75%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 73.75%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 73.75%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 73.125%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 73.125%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 73.125%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 73.125%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 72.5%
+
+	step 2
+
+		step 3
+		candidate index: 119 with core nodes: [28, 91, 108]
+
+step 1
+index added: 120
+percentage unclustered: 71.875%
+
+	step 2
+
+		step 3
+		candidate index: 120 with core nodes: [6, 23, 45, 63, 81]
+
+step 1
+index added: 121
+percentage unclustered: 71.25%
+
+	step 2
+
+		step 3
+		candidate index: 121 with core nodes: [6, 23, 45, 63, 81]
+
+step 1
+index added: 122
+percentage unclustered: 71.25%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 71.25%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 68.125%
+
+	step 2
+
+		step 3
+		candidate index: 127 with core nodes: [23, 45, 63]
+
+step 1
+index added: 128
+percentage unclustered: 68.125%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 68.125%
+
+	step 2
+
+step 1
+index added: 130
+percentage unclustered: 68.125%
+
+	step 2
+
+step 1
+index added: 131
+percentage unclustered: 68.125%
+
+	step 2
+
+step 1
+index added: 132
+percentage unclustered: 73.75%
+
+	step 2
+
+step 1
+index added: 133
+percentage unclustered: 74.375%
+
+	step 2
+
+step 1
+index added: 134
+percentage unclustered: 73.75%
+
+	step 2
+
+step 1
+index added: 135
+percentage unclustered: 71.875%
+
+	step 2
+
+		step 3
+		candidate index: 135 with core nodes: [28, 91, 108]
+
+step 1
+index added: 136
+percentage unclustered: 71.875%
+
+	step 2
+
+step 1
+index added: 137
+percentage unclustered: 71.875%
+
+	step 2
+
+step 1
+index added: 138
+percentage unclustered: 70.625%
+
+	step 2
+
+step 1
+index added: 139
+percentage unclustered: 70.625%
+
+	step 2
+
+step 1
+index added: 140
+percentage unclustered: 70.625%
+
+	step 2
+
+step 1
+index added: 141
+percentage unclustered: 68.75%
+
+	step 2
+
+		step 3
+		candidate index: 141 with core nodes: [28, 42, 91, 108]
+
+step 1
+index added: 142
+percentage unclustered: 63.75%
+
+	step 2
+
+step 1
+index added: 143
+percentage unclustered: 64.375%
+
+	step 2
+
+step 1
+index added: 144
+percentage unclustered: 62.5%
+
+	step 2
+
+step 1
+index added: 145
+percentage unclustered: 64.375%
+
+	step 2
+
+step 1
+index added: 146
+percentage unclustered: 64.375%
+
+	step 2
+
+step 1
+index added: 147
+percentage unclustered: 63.75%
+
+	step 2
+
+		step 3
+		candidate index: 147 with core nodes: [28, 42, 91, 108]
+
+step 1
+index added: 148
+percentage unclustered: 63.125%
+
+	step 2
+
+step 1
+index added: 149
+percentage unclustered: 63.125%
+
+	step 2
+
+step 1
+index added: 150
+percentage unclustered: 62.5%
+
+	step 2
+
+step 1
+index added: 151
+percentage unclustered: 61.875%
+
+	step 2
+
+step 1
+index added: 152
+percentage unclustered: 62.5%
+
+	step 2
+
+		step 3
+		candidate index: 152 with core nodes: [23, 28, 42, 91]
+
+step 1
+index added: 153
+percentage unclustered: 62.5%
+
+	step 2
+
+		step 3
+		candidate index: 153 with core nodes: [23, 28, 42, 91]
+
+step 1
+index added: 154
+percentage unclustered: 60.625%
+
+	step 2
+
+step 1
+index added: 155
+percentage unclustered: 62.5%
+
+	step 2
+
+		step 3
+		candidate index: 155 with core nodes: [28, 42, 91, 155]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [81, 91, 108]. 
+		It now has size: 2
+			old information: 2174, gain: 0.8412559328221979
+
+    ind                                             review  relevance
+0  155  got mine 30 minutes ago installed software iph...   0.639780
+1   81  always wanted get hover board never got around...   0.596067
+2  108  product one things life impacts way function r...   0.586853
+3   45  mixed experience rode friend s one time much f...   0.569286
+4   28  12 08 2016 n12 31 2016 updated 4 stars cg easy...   0.535815
+5   34  comes gimped out of the box registered online ...   0.509213
+6   91  ok professional adult say still slightly feel ...   0.506285
+7   20  roller coaster experience went good bad good n...   0.399302
+8   18  wanted share thoughts far mostly reviews impor...   0.159102
+
+step 1
+index added: 156
+percentage unclustered: 60.625%
+
+	step 2
+
+		step 3
+		candidate index: 156 with core nodes: [28, 42, 91, 155]
+
+step 1
+index added: 157
+percentage unclustered: 60.625%
+
+	step 2
+
+step 1
+index added: 158
+percentage unclustered: 60.625%
+
+	step 2
+
+step 1
+index added: 159
+percentage unclustered: 60.625%
+
+	step 2
+
+--- 776.1568706035614 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 98.125, 98.125, 96.25, 96.25, 94.375, 94.375, 96.25, 96.25, 93.125, 93.125, 91.25, 91.25, 94.375, 91.875, 91.875, 91.875, 91.25, 91.25, 91.25, 91.25, 91.25, 91.25, 91.25, 89.375, 89.375, 90.0, 90.0, 90.0, 90.0, 89.375, 89.375, 89.375, 89.375, 89.375, 89.375, 89.375, 89.375, 89.375, 89.375, 88.75, 86.25, 88.75, 88.75, 87.5, 87.5, 87.5, 87.5, 86.25, 86.25, 86.875, 87.5, 87.5, 85.0, 86.875, 78.75, 78.75, 78.75, 78.125, 85.0, 85.0, 85.0, 85.0, 85.0, 78.75, 78.75, 78.75, 78.75, 78.125, 79.375, 81.25, 77.5, 77.5, 77.5, 76.875, 77.5, 77.5, 77.5, 76.875, 77.5, 77.5, 77.5, 81.875, 81.875, 81.25, 81.25, 81.25, 81.25, 79.375, 73.75, 73.125, 72.5, 72.5, 73.75, 73.75, 73.75, 73.75, 73.75, 73.125, 73.125, 73.125, 73.125, 72.5, 71.875, 71.25, 71.25, 71.25, 67.5, 67.5, 67.5, 68.125, 68.125, 68.125, 68.125, 68.125, 73.75, 74.375, 73.75, 71.875, 71.875, 71.875, 70.625, 70.625, 70.625, 68.75, 63.75, 64.375, 62.5, 64.375, 64.375, 63.75, 63.125, 63.125, 62.5, 61.875, 62.5, 62.5, 60.625, 62.5, 60.625, 60.625, 60.625, 60.625], mean: 81.6337
+
+Final Ranking:
+   ranking  ind  relevance                                             review
+0       18  155   0.639780  got mine 30 minutes ago installed software iph...
+1       58   81   0.596067  always wanted get hover board never got around...
+2       59  108   0.586853  product one things life impacts way function r...
+3       54   45   0.569286  mixed experience rode friend s one time much f...
+4       71   28   0.535815  12 08 2016 n12 31 2016 updated 4 stars cg easy...
+5      104   34   0.509213  comes gimped out of the box registered online ...
+6       88   91   0.506285  ok professional adult say still slightly feel ...
+7      115   20   0.399302  roller coaster experience went good bad good n...
+8       67   18   0.159102  wanted share thoughts far mostly reviews impor...

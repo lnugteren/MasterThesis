@@ -1,0 +1,330 @@
+------- Category: Sports_and_Outdoors -------
+Found asin_id: B0009E3EDM
+Shape:  (40, 7)
+
+
+Chosen product: B0009E3EDM has 40 reviews - True, it has 40 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [0, 1, 7, 9]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [0, 7]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   9  purchased wife weeks ago cap end umbrella brok...   0.102332
+
+step 1
+index added: 10
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 82.5%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [3, 7, 9, 13]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [1, 3]. 
+		It now has size: 2
+			old information: 47, gain: 0.9905050505050506
+
+   ind                                             review  relevance
+0  13  look diameter dictionary says straight line di...   0.362829
+1   9  purchased wife weeks ago cap end umbrella brok...   0.102332
+
+step 1
+index added: 14
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [7, 9, 13, 15]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [9, 13]. 
+		It now has size: 1
+			old information: 70, gain: 0.986410405746457
+
+   ind                                             review  relevance
+0  15  received umbrella gift m sure exactly vendor p...   0.409400
+1  13  look diameter dictionary says straight line di...   0.362829
+2   9  purchased wife weeks ago cap end umbrella brok...   0.102332
+
+step 1
+index added: 16
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 77.5%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [7, 9, 13, 15]
+
+step 1
+index added: 18
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [0, 1, 19]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [0, 7]. 
+		It now has size: 2
+			old information: 130, gain: 0.9518696778970751
+
+   ind                                             review  relevance
+0  15  received umbrella gift m sure exactly vendor p...   0.409400
+1  13  look diameter dictionary says straight line di...   0.362829
+2  19  product s description correct well designed ho...   0.211747
+3   9  purchased wife weeks ago cap end umbrella brok...   0.102332
+
+step 1
+index added: 20
+percentage unclustered: 67.5%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [3, 11, 20]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [11, 15, 19]. 
+		It now has size: 2
+			old information: 169, gain: 0.9886409463637585
+
+   ind                                             review  relevance
+0  20  walk train station office every day n t like g...   0.439552
+1  15  received umbrella gift m sure exactly vendor p...   0.409400
+2  13  look diameter dictionary says straight line di...   0.362829
+3  19  product s description correct well designed ho...   0.211747
+4   9  purchased wife weeks ago cap end umbrella brok...   0.102332
+
+step 1
+index added: 21
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 65.0%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [2, 7, 9, 15, 24]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [1, 7, 15, 20]. 
+		It now has size: 3
+			old information: 554, gain: 0.9413942663704644
+
+   ind                                             review  relevance
+0  24  last year ordered umbrella amazon like size li...   0.508329
+1  20  walk train station office every day n t like g...   0.439552
+2  15  received umbrella gift m sure exactly vendor p...   0.409400
+3  13  look diameter dictionary says straight line di...   0.362829
+4  19  product s description correct well designed ho...   0.211747
+5   9  purchased wife weeks ago cap end umbrella brok...   0.102332
+
+step 1
+index added: 25
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 62.5%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [2, 24, 26]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [3, 9]. 
+		It now has size: 2
+			old information: 1914, gain: 0.9881138683955585
+
+   ind                                             review  relevance
+0  26  div id video block rn1v2wuc7ilm class a sectio...   0.594962
+1  24  last year ordered umbrella amazon like size li...   0.508329
+2  20  walk train station office every day n t like g...   0.439552
+3  15  received umbrella gift m sure exactly vendor p...   0.409400
+4  13  look diameter dictionary says straight line di...   0.362829
+5  19  product s description correct well designed ho...   0.211747
+6   9  purchased wife weeks ago cap end umbrella brok...   0.102332
+
+step 1
+index added: 27
+percentage unclustered: 62.5%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 62.5%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 52.5%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 52.5%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 52.5%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 52.5%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 52.5%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 52.5%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 52.5%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 52.5%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 55.0%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 57.5%
+
+	step 2
+
+--- 33.49303650856018 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 90.0, 90.0, 90.0, 90.0, 82.5, 82.5, 80.0, 80.0, 77.5, 77.5, 70.0, 67.5, 67.5, 67.5, 67.5, 65.0, 65.0, 62.5, 62.5, 62.5, 60.0, 52.5, 52.5, 52.5, 52.5, 52.5, 52.5, 52.5, 52.5, 55.0, 57.5], mean: 73.4211
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0        4  26   0.594962  div id video block rn1v2wuc7ilm class a sectio...
+1       36  24   0.508329  last year ordered umbrella amazon like size li...
+2       27  20   0.439552  walk train station office every day n t like g...
+3       20  15   0.409400  received umbrella gift m sure exactly vendor p...
+4       21  13   0.362829  look diameter dictionary says straight line di...
+5       39  19   0.211747  product s description correct well designed ho...
+6       28   9   0.102332  purchased wife weeks ago cap end umbrella brok...

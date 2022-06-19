@@ -1,0 +1,1103 @@
+------- Category: Sports_and_Outdoors -------
+Found asin_id: B0016PWG7S
+Shape:  (130, 7)
+
+
+Chosen product: B0016PWG7S has 130 reviews - True, it has 130 reviews
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 96.9231%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [6, 8, 10, 11]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [6, 10]. 
+		It now has size: 1
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  11  ordered straight beachbody enrolled monthly su...    0.18619
+
+step 1
+index added: 12
+percentage unclustered: 96.9231%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 96.9231%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 96.9231%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 96.9231%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 96.9231%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 96.9231%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 95.3846%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [2, 6, 8, 10]
+
+step 1
+index added: 19
+percentage unclustered: 95.3846%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 94.6154%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [2, 6, 8, 10, 20]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [2, 8, 10]. 
+		It now has size: 2
+			old information: 157, gain: 0.9560224089635855
+
+   ind                                             review  relevance
+0  20  workout everything needed condensed 10 minute ...   0.433609
+1  11  ordered straight beachbody enrolled monthly su...   0.186190
+
+step 1
+index added: 21
+percentage unclustered: 94.6154%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 94.6154%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 94.6154%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 94.6154%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 93.8462%
+
+	step 2
+
+		step 3
+		candidate index: 25 with core nodes: [2, 6, 8, 10, 20]
+
+step 1
+index added: 26
+percentage unclustered: 93.8462%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 93.8462%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 93.0769%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [10, 11, 20, 24]
+
+step 1
+index added: 29
+percentage unclustered: 93.0769%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 93.0769%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 92.3077%
+
+	step 2
+
+		step 3
+		candidate index: 31 with core nodes: [11, 20, 24, 31]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [11, 20]. 
+		It now has size: 2
+			old information: 195, gain: 0.9760088582677166
+
+   ind                                             review  relevance
+0  20  workout everything needed condensed 10 minute ...   0.433609
+1  31  n t tell order get better results 20 30 minute...   0.252374
+2  11  ordered straight beachbody enrolled monthly su...   0.186190
+
+step 1
+index added: 32
+percentage unclustered: 92.3077%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [11, 20, 31]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [6, 20, 31]. 
+		It now has size: 2
+			old information: 552, gain: 0.9685971100238935
+
+   ind                                             review  relevance
+0  20  workout everything needed condensed 10 minute ...   0.433609
+1  33  bought 10 minute workout simply knew way could...   0.280430
+2  31  n t tell order get better results 20 30 minute...   0.252374
+3  11  ordered straight beachbody enrolled monthly su...   0.186190
+
+step 1
+index added: 34
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 87.6923%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 88.4615%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [11, 15, 20, 31]
+
+step 1
+index added: 47
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 89.2308%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 88.4615%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [11, 15, 20]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [20, 24, 33]. 
+		It now has size: 2
+			old information: 291, gain: 0.8600961538461539
+
+   ind                                             review  relevance
+0  20  workout everything needed condensed 10 minute ...   0.433609
+1  49  workouts simple effective well say effective m...   0.328440
+2  33  bought 10 minute workout simply knew way could...   0.280430
+3  31  n t tell order get better results 20 30 minute...   0.252374
+4  11  ordered straight beachbody enrolled monthly su...   0.186190
+
+step 1
+index added: 50
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 92.3077%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 92.3077%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 92.3077%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 56 with core nodes: [0, 15, 21, 56]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [11, 21, 49]. 
+		It now has size: 2
+			old information: 1190, gain: 0.9756287376095683
+
+   ind                                             review  relevance
+0  20  workout everything needed condensed 10 minute ...   0.433609
+1  56  m long time fan p90x system simply put single ...   0.419387
+2  49  workouts simple effective well say effective m...   0.328440
+3  33  bought 10 minute workout simply knew way could...   0.280430
+4  31  n t tell order get better results 20 30 minute...   0.252374
+5  11  ordered straight beachbody enrolled monthly su...   0.186190
+
+step 1
+index added: 57
+percentage unclustered: 89.2308%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 88.4615%
+
+	step 2
+
+		step 3
+		candidate index: 58 with core nodes: [0, 15, 21, 56]
+
+step 1
+index added: 59
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 85.3846%
+
+	step 2
+
+		step 3
+		candidate index: 61 with core nodes: [31, 56, 61]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [15, 56]. 
+		It now has size: 2
+			old information: 408, gain: 0.882960413080895
+
+   ind                                             review  relevance
+0  20  workout everything needed condensed 10 minute ...   0.433609
+1  56  m long time fan p90x system simply put single ...   0.419387
+2  61  someone done insanity p90x knew beachbody puts...   0.394320
+3  49  workouts simple effective well say effective m...   0.328440
+4  33  bought 10 minute workout simply knew way could...   0.280430
+5  31  n t tell order get better results 20 30 minute...   0.252374
+6  11  ordered straight beachbody enrolled monthly su...   0.186190
+
+step 1
+index added: 62
+percentage unclustered: 86.1538%
+
+	step 2
+
+		step 3
+		candidate index: 62 with core nodes: [7, 31, 56, 61]
+
+step 1
+index added: 63
+percentage unclustered: 86.1538%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 86.1538%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 86.1538%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 86.1538%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 86.1538%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 86.1538%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 86.1538%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 84.6154%
+
+	step 2
+
+		step 3
+		candidate index: 70 with core nodes: [7, 56, 70]
+		The relevance model has size: 5
+		3 reviews removed from the relevance model, indices: [0, 56, 61]. 
+		It now has size: 2
+			old information: 907, gain: 0.9494848231690337
+
+   ind                                             review  relevance
+0  70  working mom busy toddler spare time spent agon...   0.452791
+1  20  workout everything needed condensed 10 minute ...   0.433609
+2  56  m long time fan p90x system simply put single ...   0.419387
+3  61  someone done insanity p90x knew beachbody puts...   0.394320
+4  49  workouts simple effective well say effective m...   0.328440
+5  33  bought 10 minute workout simply knew way could...   0.280430
+6  31  n t tell order get better results 20 30 minute...   0.252374
+7  11  ordered straight beachbody enrolled monthly su...   0.186190
+
+step 1
+index added: 71
+percentage unclustered: 84.6154%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 74.6154%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 73.0769%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 73.0769%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 72.3077%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 82.3077%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 82.3077%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 82.3077%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 86.1538%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 86.1538%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 86.1538%
+
+	step 2
+
+		step 3
+		candidate index: 81 with core nodes: [7, 31, 61]
+
+step 1
+index added: 82
+percentage unclustered: 86.1538%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 85.3846%
+
+	step 2
+
+		step 3
+		candidate index: 83 with core nodes: [7, 31, 61]
+
+step 1
+index added: 84
+percentage unclustered: 85.3846%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 85.3846%
+
+	step 2
+
+		step 3
+		candidate index: 85 with core nodes: [7, 31, 61]
+
+step 1
+index added: 86
+percentage unclustered: 85.3846%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 83.0769%
+
+	step 2
+
+		step 3
+		candidate index: 87 with core nodes: [31, 73, 87]
+		The relevance model has size: 4
+		2 reviews removed from the relevance model, indices: [31, 70]. 
+		It now has size: 2
+			old information: 2582, gain: 0.9383844409974943
+
+   ind                                             review  relevance
+0  87  could offer huge long list exercise programs w...   0.479240
+1  70  working mom busy toddler spare time spent agon...   0.452791
+2  20  workout everything needed condensed 10 minute ...   0.433609
+3  56  m long time fan p90x system simply put single ...   0.419387
+4  61  someone done insanity p90x knew beachbody puts...   0.394320
+5  49  workouts simple effective well say effective m...   0.328440
+6  33  bought 10 minute workout simply knew way could...   0.280430
+7  31  n t tell order get better results 20 30 minute...   0.252374
+8  11  ordered straight beachbody enrolled monthly su...   0.186190
+
+step 1
+index added: 88
+percentage unclustered: 83.0769%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 83.0769%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 82.3077%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 82.3077%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 82.3077%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 83.0769%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 82.3077%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 82.3077%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 82.3077%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 82.3077%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 82.3077%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 82.3077%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 100 with core nodes: [7, 87, 100]
+		The relevance model has size: 3
+		2 reviews removed from the relevance model, indices: [7, 87]. 
+		It now has size: 1
+			old information: 1433, gain: 0.8940872135994087
+
+    ind                                             review  relevance
+0   87  could offer huge long list exercise programs w...   0.479240
+1   70  working mom busy toddler spare time spent agon...   0.452791
+2   20  workout everything needed condensed 10 minute ...   0.433609
+3   56  m long time fan p90x system simply put single ...   0.419387
+4   61  someone done insanity p90x knew beachbody puts...   0.394320
+5  100  really enjoy workouts re nonsense yet fun grea...   0.351995
+6   49  workouts simple effective well say effective m...   0.328440
+7   33  bought 10 minute workout simply knew way could...   0.280430
+8   31  n t tell order get better results 20 30 minute...   0.252374
+9   11  ordered straight beachbody enrolled monthly su...   0.186190
+
+step 1
+index added: 101
+percentage unclustered: 82.3077%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 74.6154%
+
+	step 2
+
+		step 3
+		candidate index: 102 with core nodes: [31, 37, 56, 79, 87, 102]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [31, 56, 73, 87]. 
+		It now has size: 3
+			old information: 1146, gain: 0.758889122659373
+
+     ind                                             review  relevance
+0   102  10 minute training program great get best resu...   0.576686
+1    87  could offer huge long list exercise programs w...   0.479240
+2    70  working mom busy toddler spare time spent agon...   0.452791
+3    20  workout everything needed condensed 10 minute ...   0.433609
+4    56  m long time fan p90x system simply put single ...   0.419387
+5    61  someone done insanity p90x knew beachbody puts...   0.394320
+6   100  really enjoy workouts re nonsense yet fun grea...   0.351995
+7    49  workouts simple effective well say effective m...   0.328440
+8    33  bought 10 minute workout simply knew way could...   0.280430
+9    31  n t tell order get better results 20 30 minute...   0.252374
+10   11  ordered straight beachbody enrolled monthly su...   0.186190
+
+		step 3
+		candidate index: 102 with core nodes: [31, 37, 70, 79, 87, 102]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [31, 79, 87, 100]. 
+		It now has size: 3
+			old information: 3094, gain: 0.3490427098674521
+
+     ind                                             review  relevance
+0   102  10 minute training program great get best resu...   0.747651
+1   102  10 minute training program great get best resu...   0.576686
+2    87  could offer huge long list exercise programs w...   0.479240
+3    70  working mom busy toddler spare time spent agon...   0.452791
+4    20  workout everything needed condensed 10 minute ...   0.433609
+5    56  m long time fan p90x system simply put single ...   0.419387
+6    61  someone done insanity p90x knew beachbody puts...   0.394320
+7   100  really enjoy workouts re nonsense yet fun grea...   0.351995
+8    49  workouts simple effective well say effective m...   0.328440
+9    33  bought 10 minute workout simply knew way could...   0.280430
+10   31  n t tell order get better results 20 30 minute...   0.252374
+11   11  ordered straight beachbody enrolled monthly su...   0.186190
+
+		step 3
+		candidate index: 102 with core nodes: [37, 56, 70, 79, 87, 102]
+		The relevance model has size: 7
+		4 reviews removed from the relevance model, indices: [37, 56, 70, 87]. 
+		It now has size: 3
+			old information: 3094, gain: 0.3490427098674521
+
+     ind                                             review  relevance
+0   102  10 minute training program great get best resu...   0.961023
+1   102  10 minute training program great get best resu...   0.747651
+2   102  10 minute training program great get best resu...   0.576686
+3    87  could offer huge long list exercise programs w...   0.479240
+4    70  working mom busy toddler spare time spent agon...   0.452791
+5    20  workout everything needed condensed 10 minute ...   0.433609
+6    56  m long time fan p90x system simply put single ...   0.419387
+7    61  someone done insanity p90x knew beachbody puts...   0.394320
+8   100  really enjoy workouts re nonsense yet fun grea...   0.351995
+9    49  workouts simple effective well say effective m...   0.328440
+10   33  bought 10 minute workout simply knew way could...   0.280430
+11   31  n t tell order get better results 20 30 minute...   0.252374
+12   11  ordered straight beachbody enrolled monthly su...   0.186190
+
+step 1
+index added: 103
+percentage unclustered: 74.6154%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 74.6154%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 74.6154%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 73.8462%
+
+	step 2
+
+		step 3
+		candidate index: 106 with core nodes: [31, 37, 56, 79, 87, 102]
+
+		step 3
+		candidate index: 106 with core nodes: [37, 56, 70, 79, 87, 102]
+
+step 1
+index added: 107
+percentage unclustered: 73.0769%
+
+	step 2
+
+		step 3
+		candidate index: 107 with core nodes: [31, 37, 56, 79, 87, 102]
+
+step 1
+index added: 108
+percentage unclustered: 73.0769%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 73.0769%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 73.0769%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 73.0769%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 73.0769%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 72.3077%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 72.3077%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 69.2308%
+
+	step 2
+
+		step 3
+		candidate index: 115 with core nodes: [37, 56, 70, 79, 87, 102]
+		The relevance model has size: 8
+		4 reviews removed from the relevance model, indices: [37, 70, 79, 102]. 
+		It now has size: 4
+			old information: 110, gain: 0.6014492753623188
+
+     ind                                             review  relevance
+0   102  10 minute training program great get best resu...   0.961023
+1   102  10 minute training program great get best resu...   0.747651
+2   102  10 minute training program great get best resu...   0.576686
+3    87  could offer huge long list exercise programs w...   0.479240
+4    70  working mom busy toddler spare time spent agon...   0.452791
+5    20  workout everything needed condensed 10 minute ...   0.433609
+6    56  m long time fan p90x system simply put single ...   0.419387
+7    61  someone done insanity p90x knew beachbody puts...   0.394320
+8   115  really enjoy product like go gym n t time stil...   0.389541
+9   100  really enjoy workouts re nonsense yet fun grea...   0.351995
+10   49  workouts simple effective well say effective m...   0.328440
+11   33  bought 10 minute workout simply knew way could...   0.280430
+12   31  n t tell order get better results 20 30 minute...   0.252374
+13   11  ordered straight beachbody enrolled monthly su...   0.186190
+
+step 1
+index added: 116
+percentage unclustered: 69.2308%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 69.2308%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 69.2308%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 68.4615%
+
+	step 2
+
+		step 3
+		candidate index: 119 with core nodes: [37, 56, 70, 79, 87, 102]
+
+step 1
+index added: 120
+percentage unclustered: 67.6923%
+
+	step 2
+
+		step 3
+		candidate index: 120 with core nodes: [37, 56, 70, 79, 87, 102]
+
+step 1
+index added: 121
+percentage unclustered: 67.6923%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 66.9231%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 64.6154%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 64.6154%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 56.9231%
+
+	step 2
+
+		step 3
+		candidate index: 125 with core nodes: [31, 37, 43, 87, 100, 102]
+		The relevance model has size: 9
+		5 reviews removed from the relevance model, indices: [37, 56, 100, 102, 115]. 
+		It now has size: 4
+			old information: 2550, gain: 0.8651863600317209
+
+     ind                                             review  relevance
+0   102  10 minute training program great get best resu...   0.961023
+1   102  10 minute training program great get best resu...   0.747651
+2   102  10 minute training program great get best resu...   0.576686
+3   125  received last week completed workouts critism ...   0.523244
+4    87  could offer huge long list exercise programs w...   0.479240
+5    70  working mom busy toddler spare time spent agon...   0.452791
+6    20  workout everything needed condensed 10 minute ...   0.433609
+7    56  m long time fan p90x system simply put single ...   0.419387
+8    61  someone done insanity p90x knew beachbody puts...   0.394320
+9   115  really enjoy product like go gym n t time stil...   0.389541
+10  100  really enjoy workouts re nonsense yet fun grea...   0.351995
+11   49  workouts simple effective well say effective m...   0.328440
+12   33  bought 10 minute workout simply knew way could...   0.280430
+13   31  n t tell order get better results 20 30 minute...   0.252374
+14   11  ordered straight beachbody enrolled monthly su...   0.186190
+
+step 1
+index added: 126
+percentage unclustered: 56.9231%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 56.1538%
+
+	step 2
+
+step 1
+index added: 128
+percentage unclustered: 53.8462%
+
+	step 2
+
+		step 3
+		candidate index: 128 with core nodes: [56, 67, 119, 128]
+		The relevance model has size: 8
+		4 reviews removed from the relevance model, indices: [31, 67, 102, 125]. 
+		It now has size: 4
+			old information: 1861, gain: 0.8719642242862057
+
+     ind                                             review  relevance
+0   102  10 minute training program great get best resu...   0.961023
+1   102  10 minute training program great get best resu...   0.747651
+2   128  tony horton s 10 minute trainer fabulous must ...   0.630689
+3   102  10 minute training program great get best resu...   0.576686
+4   125  received last week completed workouts critism ...   0.523244
+5    87  could offer huge long list exercise programs w...   0.479240
+6    70  working mom busy toddler spare time spent agon...   0.452791
+7    20  workout everything needed condensed 10 minute ...   0.433609
+8    56  m long time fan p90x system simply put single ...   0.419387
+9    61  someone done insanity p90x knew beachbody puts...   0.394320
+10  115  really enjoy product like go gym n t time stil...   0.389541
+11  100  really enjoy workouts re nonsense yet fun grea...   0.351995
+12   49  workouts simple effective well say effective m...   0.328440
+13   33  bought 10 minute workout simply knew way could...   0.280430
+14   31  n t tell order get better results 20 30 minute...   0.252374
+15   11  ordered straight beachbody enrolled monthly su...   0.186190
+
+step 1
+index added: 129
+percentage unclustered: 53.8462%
+
+	step 2
+
+--- 110.17275619506836 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 96.9231, 96.9231, 96.9231, 96.9231, 96.9231, 96.9231, 96.9231, 95.3846, 95.3846, 94.6154, 94.6154, 94.6154, 94.6154, 94.6154, 93.8462, 93.8462, 93.8462, 93.0769, 93.0769, 93.0769, 92.3077, 92.3077, 90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 87.6923, 87.6923, 87.6923, 87.6923, 87.6923, 88.4615, 88.4615, 89.2308, 88.4615, 88.4615, 88.4615, 88.4615, 92.3077, 92.3077, 92.3077, 90.0, 89.2308, 88.4615, 88.4615, 88.4615, 85.3846, 86.1538, 86.1538, 86.1538, 86.1538, 86.1538, 86.1538, 86.1538, 86.1538, 84.6154, 84.6154, 74.6154, 73.0769, 73.0769, 72.3077, 82.3077, 82.3077, 82.3077, 86.1538, 86.1538, 86.1538, 86.1538, 85.3846, 85.3846, 85.3846, 85.3846, 83.0769, 83.0769, 83.0769, 82.3077, 82.3077, 82.3077, 83.0769, 82.3077, 82.3077, 82.3077, 82.3077, 82.3077, 82.3077, 80.0, 82.3077, 74.6154, 74.6154, 74.6154, 74.6154, 73.8462, 73.0769, 73.0769, 73.0769, 73.0769, 73.0769, 73.0769, 72.3077, 72.3077, 69.2308, 69.2308, 69.2308, 69.2308, 68.4615, 67.6923, 67.6923, 66.9231, 64.6154, 64.6154, 56.9231, 56.9231, 56.1538, 53.8462, 53.8462], mean: 84.399
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0        58  102   0.961023  10 minute training program great get best resu...
+1        58  102   0.747651  10 minute training program great get best resu...
+2         5  128   0.630689  tony horton s 10 minute trainer fabulous must ...
+3        58  102   0.576686  10 minute training program great get best resu...
+4         1  125   0.523244  received last week completed workouts critism ...
+5         7   87   0.479240  could offer huge long list exercise programs w...
+6        19   70   0.452791  working mom busy toddler spare time spent agon...
+7       115   20   0.433609  workout everything needed condensed 10 minute ...
+8        41   56   0.419387  m long time fan p90x system simply put single ...
+9        92   61   0.394320  someone done insanity p90x knew beachbody puts...
+10      112  115   0.389541  really enjoy product like go gym n t time stil...
+11       24  100   0.351995  really enjoy workouts re nonsense yet fun grea...
+12      125   49   0.328440  workouts simple effective well say effective m...
+13       25   33   0.280430  bought 10 minute workout simply knew way could...
+14       29   31   0.252374  n t tell order get better results 20 30 minute...
+15       55   11   0.186190  ordered straight beachbody enrolled monthly su...
