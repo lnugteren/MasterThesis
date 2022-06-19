@@ -1,0 +1,1065 @@
+------- Category: Electronics -------
+Found asin_id: B0000A1G05
+Shape:  (120, 7)
+Shape after:  (120, 7)
+
+
+Chosen product: B0000A1G05 has 120 reviews - True, it has 120 reviews
+
+Nr of stopwords in review: ['49/107', '160/363', '97/163', '36/80', '41/91', '177/388', '94/200', '265/634', '33/80', '293/624', '55/112', '40/74', '48/89', '124/233', '4/11', '32/60', '198/396', '17/33', '137/280', '239/516', '69/119', '117/247', '503/1383', '206/421', '564/1273', '77/174', '126/268', '66/130', '78/153', '83/181', '43/88', '17/31', '106/203', '62/138', '224/492', '82/176', '145/284', '95/185', '72/149', '246/465', '44/107', '444/934', '78/166', '190/369', '243/519', '82/152', '21/45', '151/305', '211/440', '159/299', '98/220', '1356/2804', '119/231', '163/300', '57/109', '348/739', '152/311', '208/465', '418/871', '109/236', '135/265', '81/148', '287/678', '378/779', '105/192', '377/854', '116/278', '309/678', '121/221', '245/488', '169/306', '167/362', '106/192', '69/147', '348/722', '76/166', '203/362', '94/193', '188/578', '173/365', '37/87', '53/134', '74/144', '51/119', '250/605', '55/115', '88/172', '152/325', '93/199', '137/321', '308/698', '72/155', '75/151', '436/864', '44/92', '135/272', '259/800', '55/110', '48/111', '104/239', '90/185', '26/57', '103/267', '82/191', '41/75', '36/67', '281/653', '87/146', '844/1839', '82/193', '15/34', '331/739', '130/273', '34/65', '36/81', '120/272', '95/192', '53/117', '122/233', '56/105'], on average: 0.4778
+Nr of stopwords in summary: ['2/7', '2/4', '3/5', '2/4', '0/3', '4/9', '1/4', '0/2', '1/4', '2/10', '4/7', '3/8', '1/3', '0/5', '0/2', '0/2', '1/4', '3/5', '0/4', '4/11', '1/5', '1/7', '1/8', '6/11', '8/12', '0/5', '4/8', '2/5', '2/8', '1/5', '5/8', '3/4', '3/9', '0/2', '1/5', '4/13', '5/7', '4/9', '0/2', '0/1', '5/8', '1/5', '0/4', '2/4', '2/5', '1/3', '1/3', '4/9', '3/10', '0/2', '1/4', '0/4', '3/5', '3/8', '0/2', '1/5', '5/10', '3/13', '1/7', '2/5', '2/7', '0/5', '1/5', '0/2', '3/8', '2/5', '4/6', '3/10', '0/4', '2/7', '2/8', '2/7', '0/3', '1/5', '4/7', '1/6', '4/10', '1/6', '0/4', '2/5', '1/3', '1/4', '1/6', '2/7', '1/7', '1/5', '6/7', '5/11', '3/9', '1/5', '0/5', '5/10', '0/2', '1/3', '0/4', '1/2', '1/9', '0/4', '2/5', '2/5', '2/6', '3/7', '0/2', '1/5', '0/2', '2/4', '4/10', '0/2', '4/10', '0/4', '0/9', '3/8', '1/5', '3/7', '3/4', '2/5', '0/3', '2/4', '3/6', '2/7'], on average: 0.2824
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 97.5%
+
+	step 2
+
+		step 3
+		candidate index: 3 with core nodes: [0, 1, 3]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   3  when i bought my canon 20d recently i really n...   0.606808
+
+step 1
+index added: 4
+percentage unclustered: 96.6667%
+
+	step 2
+
+		step 3
+		candidate index: 4 with core nodes: [0, 1, 3, 4]
+			old information: 126, gain: 0.9692307692307692
+
+   ind                                             review  relevance
+0   4  i wo n t go into a lot of details of this part...   0.626005
+1   3  when i bought my canon 20d recently i really n...   0.606808
+
+step 1
+index added: 5
+percentage unclustered: 95.8333%
+
+	step 2
+
+		step 3
+		candidate index: 5 with core nodes: [0, 1, 4, 5]
+			old information: 783, gain: 0.9895708463198274
+
+   ind                                             review  relevance
+0   5  got my digital rebel xt 350d about a week and ...   0.780829
+1   4  i wo n t go into a lot of details of this part...   0.626005
+2   3  when i bought my canon 20d recently i really n...   0.606808
+
+step 1
+index added: 6
+percentage unclustered: 95.0%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [0, 1, 5, 6]
+			old information: 1359, gain: 0.9317085427135678
+
+   ind                                             review  relevance
+0   5  got my digital rebel xt 350d about a week and ...   0.780829
+1   6  i ve used a ton of different lenses and this o...   0.735319
+2   4  i wo n t go into a lot of details of this part...   0.626005
+3   3  when i bought my canon 20d recently i really n...   0.606808
+
+step 1
+index added: 7
+percentage unclustered: 95.8333%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [0, 1, 3, 4, 7]
+			old information: 2929, gain: 0.9854032422842506
+
+   ind                                             review  relevance
+0   7  i have never bought a non canon lens because i...   0.826184
+1   5  got my digital rebel xt 350d about a week and ...   0.780829
+2   6  i ve used a ton of different lenses and this o...   0.735319
+3   4  i wo n t go into a lot of details of this part...   0.626005
+4   3  when i bought my canon 20d recently i really n...   0.606808
+
+step 1
+index added: 8
+percentage unclustered: 95.0%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [0, 1, 3, 4, 7]
+
+step 1
+index added: 9
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 92.5%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [1, 5, 7]
+			old information: 521, gain: 0.807108478341355
+
+   ind                                             review  relevance
+0   7  i have never bought a non canon lens because i...   0.826184
+1   5  got my digital rebel xt 350d about a week and ...   0.780829
+2  11  i purchased this lens and rented the nikon 24 ...   0.744045
+3   6  i ve used a ton of different lenses and this o...   0.735319
+4   4  i wo n t go into a lot of details of this part...   0.626005
+5   3  when i bought my canon 20d recently i really n...   0.606808
+
+step 1
+index added: 12
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 90.8333%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 90.8333%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [1, 5, 7, 18]
+			old information: 3331, gain: 0.914720942140297
+
+   ind                                             review  relevance
+0  18  i have owned this lens since 2013 and i love i...   0.863223
+1   7  i have never bought a non canon lens because i...   0.826184
+2   5  got my digital rebel xt 350d about a week and ...   0.780829
+3  11  i purchased this lens and rented the nikon 24 ...   0.744045
+4   6  i ve used a ton of different lenses and this o...   0.735319
+5   4  i wo n t go into a lot of details of this part...   0.626005
+6   3  when i bought my canon 20d recently i really n...   0.606808
+
+step 1
+index added: 19
+percentage unclustered: 89.1667%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [5, 7, 18, 19]
+			old information: 5912, gain: 0.9555053811996689
+
+   ind                                             review  relevance
+0  18  i have owned this lens since 2013 and i love i...   0.863223
+1  19  i bought this lens expecting what i got a soli...   0.846673
+2   7  i have never bought a non canon lens because i...   0.826184
+3   5  got my digital rebel xt 350d about a week and ...   0.780829
+4  11  i purchased this lens and rented the nikon 24 ...   0.744045
+5   6  i ve used a ton of different lenses and this o...   0.735319
+6   4  i wo n t go into a lot of details of this part...   0.626005
+7   3  when i bought my canon 20d recently i really n...   0.606808
+
+step 1
+index added: 20
+percentage unclustered: 88.3333%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 86.6667%
+
+	step 2
+
+		step 3
+		candidate index: 23 with core nodes: [7, 13, 18, 19, 23]
+			old information: 6195, gain: 0.9299287410926366
+
+   ind                                             review  relevance
+0  18  i have owned this lens since 2013 and i love i...   0.863223
+1  19  i bought this lens expecting what i got a soli...   0.846673
+2  23  i spent quite a bit of time researching what s...   0.828410
+3   7  i have never bought a non canon lens because i...   0.826184
+4   5  got my digital rebel xt 350d about a week and ...   0.780829
+5  11  i purchased this lens and rented the nikon 24 ...   0.744045
+6   6  i ve used a ton of different lenses and this o...   0.735319
+7   4  i wo n t go into a lot of details of this part...   0.626005
+8   3  when i bought my canon 20d recently i really n...   0.606808
+
+step 1
+index added: 24
+percentage unclustered: 85.8333%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [5, 7, 18, 19, 24]
+			old information: 14257, gain: 0.9823906781880073
+
+   ind                                             review  relevance
+0  18  i have owned this lens since 2013 and i love i...   0.863223
+1  24  first of all this lens is fantastic there are ...   0.853327
+2  19  i bought this lens expecting what i got a soli...   0.846673
+3  23  i spent quite a bit of time researching what s...   0.828410
+4   7  i have never bought a non canon lens because i...   0.826184
+5   5  got my digital rebel xt 350d about a week and ...   0.780829
+6  11  i purchased this lens and rented the nikon 24 ...   0.744045
+7   6  i ve used a ton of different lenses and this o...   0.735319
+8   4  i wo n t go into a lot of details of this part...   0.626005
+9   3  when i bought my canon 20d recently i really n...   0.606808
+
+step 1
+index added: 25
+percentage unclustered: 85.8333%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 84.1667%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [5, 7, 9, 18, 19]
+
+step 1
+index added: 28
+percentage unclustered: 84.1667%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 84.1667%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 91.6667%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 89.1667%
+
+	step 2
+
+		step 3
+		candidate index: 40 with core nodes: [5, 18, 19, 24]
+
+step 1
+index added: 41
+percentage unclustered: 89.1667%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [18, 19, 23, 24, 41]
+			old information: 17081, gain: 0.9607974092919389
+
+    ind                                             review  relevance
+0   41  intro n ni heard how sharp this lens was and w...   0.886493
+1   18  i have owned this lens since 2013 and i love i...   0.863223
+2   24  first of all this lens is fantastic there are ...   0.853327
+3   19  i bought this lens expecting what i got a soli...   0.846673
+4   23  i spent quite a bit of time researching what s...   0.828410
+5    7  i have never bought a non canon lens because i...   0.826184
+6    5  got my digital rebel xt 350d about a week and ...   0.780829
+7   11  i purchased this lens and rented the nikon 24 ...   0.744045
+8    6  i ve used a ton of different lenses and this o...   0.735319
+9    4  i wo n t go into a lot of details of this part...   0.626005
+10   3  when i bought my canon 20d recently i really n...   0.606808
+
+step 1
+index added: 42
+percentage unclustered: 89.1667%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 89.1667%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 44 with core nodes: [18, 23, 34, 41]
+
+step 1
+index added: 45
+percentage unclustered: 80.83330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [18, 23, 34, 41]
+
+step 1
+index added: 46
+percentage unclustered: 80.83330000000001%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [18, 19, 23, 34, 41, 47]
+			old information: 5940, gain: 0.8718723037100949
+
+    ind                                             review  relevance
+0   41  intro n ni heard how sharp this lens was and w...   0.886493
+1   47  i purchased this lens because i could n t budg...   0.869195
+2   18  i have owned this lens since 2013 and i love i...   0.863223
+3   24  first of all this lens is fantastic there are ...   0.853327
+4   19  i bought this lens expecting what i got a soli...   0.846673
+5   23  i spent quite a bit of time researching what s...   0.828410
+6    7  i have never bought a non canon lens because i...   0.826184
+7    5  got my digital rebel xt 350d about a week and ...   0.780829
+8   11  i purchased this lens and rented the nikon 24 ...   0.744045
+9    6  i ve used a ton of different lenses and this o...   0.735319
+10   4  i wo n t go into a lot of details of this part...   0.626005
+11   3  when i bought my canon 20d recently i really n...   0.606808
+
+step 1
+index added: 48
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 79.16669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 50 with core nodes: [18, 19, 23, 34, 41, 47]
+
+step 1
+index added: 51
+percentage unclustered: 79.16669999999999%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 78.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 52 with core nodes: [18, 19, 23, 34, 41, 47]
+			old information: 3715, gain: 0.8601543384152079
+
+    ind                                             review  relevance
+0   41  intro n ni heard how sharp this lens was and w...   0.886493
+1   47  i purchased this lens because i could n t budg...   0.869195
+2   18  i have owned this lens since 2013 and i love i...   0.863223
+3   24  first of all this lens is fantastic there are ...   0.853327
+4   19  i bought this lens expecting what i got a soli...   0.846673
+5   52  i am a wildlife photographer and my walk aroun...   0.836218
+6   23  i spent quite a bit of time researching what s...   0.828410
+7    7  i have never bought a non canon lens because i...   0.826184
+8    5  got my digital rebel xt 350d about a week and ...   0.780829
+9   11  i purchased this lens and rented the nikon 24 ...   0.744045
+10   6  i ve used a ton of different lenses and this o...   0.735319
+11   4  i wo n t go into a lot of details of this part...   0.626005
+12   3  when i bought my canon 20d recently i really n...   0.606808
+
+step 1
+index added: 53
+percentage unclustered: 77.5%
+
+	step 2
+
+		step 3
+		candidate index: 53 with core nodes: [18, 19, 23, 34, 41, 47]
+
+step 1
+index added: 54
+percentage unclustered: 82.5%
+
+	step 2
+
+		step 3
+		candidate index: 54 with core nodes: [7, 18, 19, 23, 41]
+
+step 1
+index added: 55
+percentage unclustered: 81.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 55 with core nodes: [18, 23, 41, 55]
+			old information: 17615, gain: 0.9354030752756783
+
+    ind                                             review  relevance
+0   55  this lens is a great buy it is a fraction of t...   0.895418
+1   41  intro n ni heard how sharp this lens was and w...   0.886493
+2   47  i purchased this lens because i could n t budg...   0.869195
+3   18  i have owned this lens since 2013 and i love i...   0.863223
+4   24  first of all this lens is fantastic there are ...   0.853327
+5   19  i bought this lens expecting what i got a soli...   0.846673
+6   52  i am a wildlife photographer and my walk aroun...   0.836218
+7   23  i spent quite a bit of time researching what s...   0.828410
+8    7  i have never bought a non canon lens because i...   0.826184
+9    5  got my digital rebel xt 350d about a week and ...   0.780829
+10  11  i purchased this lens and rented the nikon 24 ...   0.744045
+11   6  i ve used a ton of different lenses and this o...   0.735319
+12   4  i wo n t go into a lot of details of this part...   0.626005
+13   3  when i bought my canon 20d recently i really n...   0.606808
+
+step 1
+index added: 56
+percentage unclustered: 80.83330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 56 with core nodes: [18, 23, 41, 55]
+
+step 1
+index added: 57
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 82.5%
+
+	step 2
+
+		step 3
+		candidate index: 59 with core nodes: [7, 24, 36, 41, 55, 57]
+
+step 1
+index added: 60
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 60 with core nodes: [7, 24, 36, 41, 55, 57]
+
+step 1
+index added: 61
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 75.83330000000001%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 75.83330000000001%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 74.16669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 71 with core nodes: [7, 36, 71]
+			old information: 8469, gain: 0.8703876585910837
+
+    ind                                             review  relevance
+0   55  this lens is a great buy it is a fraction of t...   0.895418
+1   41  intro n ni heard how sharp this lens was and w...   0.886493
+2   71  so you know where this review is comong from i...   0.871428
+3   47  i purchased this lens because i could n t budg...   0.869195
+4   18  i have owned this lens since 2013 and i love i...   0.863223
+5   24  first of all this lens is fantastic there are ...   0.853327
+6   19  i bought this lens expecting what i got a soli...   0.846673
+7   52  i am a wildlife photographer and my walk aroun...   0.836218
+8   23  i spent quite a bit of time researching what s...   0.828410
+9    7  i have never bought a non canon lens because i...   0.826184
+10   5  got my digital rebel xt 350d about a week and ...   0.780829
+11  11  i purchased this lens and rented the nikon 24 ...   0.744045
+12   6  i ve used a ton of different lenses and this o...   0.735319
+13   4  i wo n t go into a lot of details of this part...   0.626005
+14   3  when i bought my canon 20d recently i really n...   0.606808
+
+step 1
+index added: 72
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 76 with core nodes: [18, 41, 70, 76]
+			old information: 7689, gain: 0.8823250332869103
+
+    ind                                             review  relevance
+0   55  this lens is a great buy it is a fraction of t...   0.895418
+1   41  intro n ni heard how sharp this lens was and w...   0.886493
+2   71  so you know where this review is comong from i...   0.871428
+3   47  i purchased this lens because i could n t budg...   0.869195
+4   18  i have owned this lens since 2013 and i love i...   0.863223
+5   24  first of all this lens is fantastic there are ...   0.853327
+6   19  i bought this lens expecting what i got a soli...   0.846673
+7   76  now let me say first and foremost that i am no...   0.844239
+8   52  i am a wildlife photographer and my walk aroun...   0.836218
+9   23  i spent quite a bit of time researching what s...   0.828410
+10   7  i have never bought a non canon lens because i...   0.826184
+11   5  got my digital rebel xt 350d about a week and ...   0.780829
+12  11  i purchased this lens and rented the nikon 24 ...   0.744045
+13   6  i ve used a ton of different lenses and this o...   0.735319
+14   4  i wo n t go into a lot of details of this part...   0.626005
+15   3  when i bought my canon 20d recently i really n...   0.606808
+
+step 1
+index added: 77
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 64.16669999999999%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 62.5%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 62.5%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 70.83330000000001%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 70.83330000000001%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 71.66669999999999%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 71.66669999999999%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 71.66669999999999%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 74.16669999999999%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 74.16669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 99 with core nodes: [24, 36, 57, 71]
+
+step 1
+index added: 100
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 71.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 106 with core nodes: [36, 57, 71]
+			old information: 11285, gain: 0.946988415900187
+
+     ind                                             review  relevance
+0    55  this lens is a great buy it is a fraction of t...   0.895418
+1    41  intro n ni heard how sharp this lens was and w...   0.886493
+2    71  so you know where this review is comong from i...   0.871428
+3    47  i purchased this lens because i could n t budg...   0.869195
+4    18  i have owned this lens since 2013 and i love i...   0.863223
+5    24  first of all this lens is fantastic there are ...   0.853327
+6    19  i bought this lens expecting what i got a soli...   0.846673
+7    76  now let me say first and foremost that i am no...   0.844239
+8    52  i am a wildlife photographer and my walk aroun...   0.836218
+9    23  i spent quite a bit of time researching what s...   0.828410
+10    7  i have never bought a non canon lens because i...   0.826184
+11    5  got my digital rebel xt 350d about a week and ...   0.780829
+12  106  i was skeptical about the rave reviews and hav...   0.763204
+13   11  i purchased this lens and rented the nikon 24 ...   0.744045
+14    6  i ve used a ton of different lenses and this o...   0.735319
+15    4  i wo n t go into a lot of details of this part...   0.626005
+16    3  when i bought my canon 20d recently i really n...   0.606808
+
+step 1
+index added: 107
+percentage unclustered: 71.66669999999999%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 71.66669999999999%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 68.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 109 with core nodes: [41, 70, 93]
+
+step 1
+index added: 110
+percentage unclustered: 68.33330000000001%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 67.5%
+
+	step 2
+
+		step 3
+		candidate index: 111 with core nodes: [24, 36, 41, 55, 57, 71, 93, 111]
+			old information: 17925, gain: 0.9342662574122358
+
+     ind                                             review  relevance
+0    55  this lens is a great buy it is a fraction of t...   0.895418
+1    41  intro n ni heard how sharp this lens was and w...   0.886493
+2   111  i am someone who swears by canon and would not...   0.882991
+3    71  so you know where this review is comong from i...   0.871428
+4    47  i purchased this lens because i could n t budg...   0.869195
+5    18  i have owned this lens since 2013 and i love i...   0.863223
+6    24  first of all this lens is fantastic there are ...   0.853327
+7    19  i bought this lens expecting what i got a soli...   0.846673
+8    76  now let me say first and foremost that i am no...   0.844239
+9    52  i am a wildlife photographer and my walk aroun...   0.836218
+10   23  i spent quite a bit of time researching what s...   0.828410
+11    7  i have never bought a non canon lens because i...   0.826184
+12    5  got my digital rebel xt 350d about a week and ...   0.780829
+13  106  i was skeptical about the rave reviews and hav...   0.763204
+14   11  i purchased this lens and rented the nikon 24 ...   0.744045
+15    6  i ve used a ton of different lenses and this o...   0.735319
+16    4  i wo n t go into a lot of details of this part...   0.626005
+17    3  when i bought my canon 20d recently i really n...   0.606808
+
+step 1
+index added: 112
+percentage unclustered: 68.33330000000001%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 68.33330000000001%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 68.33330000000001%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 68.33330000000001%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 68.33330000000001%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 67.5%
+
+	step 2
+
+		step 3
+		candidate index: 117 with core nodes: [24, 36, 41, 55, 57, 71, 93, 111]
+
+step 1
+index added: 118
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 67.5%
+
+	step 2
+
+--- 4892.244245529175 seconds ---
+
+
+ Unclustered percentages: [100.0, 97.5, 96.6667, 95.8333, 95.0, 95.8333, 95.0, 95.0, 95.0, 92.5, 92.5, 91.6667, 91.6667, 91.6667, 91.6667, 90.8333, 90.8333, 89.1667, 88.3333, 87.5, 87.5, 86.6667, 85.8333, 85.8333, 86.6667, 84.1667, 84.1667, 84.1667, 86.6667, 86.6667, 91.6667, 91.6667, 91.6667, 91.6667, 91.6667, 91.6667, 91.6667, 91.6667, 89.1667, 89.1667, 89.1667, 89.1667, 81.66669999999999, 80.83330000000001, 80.83330000000001, 80.0, 80.0, 80.0, 79.16669999999999, 79.16669999999999, 78.33330000000001, 77.5, 82.5, 81.66669999999999, 80.83330000000001, 77.5, 82.5, 82.5, 80.0, 80.0, 80.0, 80.0, 80.0, 80.0, 80.0, 80.0, 75.83330000000001, 75.83330000000001, 75.0, 74.16669999999999, 75.0, 75.0, 75.0, 75.0, 70.0, 70.0, 67.5, 67.5, 64.16669999999999, 63.3333, 62.5, 62.5, 70.83330000000001, 70.83330000000001, 71.66669999999999, 71.66669999999999, 71.66669999999999, 72.5, 72.5, 73.33330000000001, 72.5, 72.5, 72.5, 72.5, 72.5, 72.5, 74.16669999999999, 74.16669999999999, 72.5, 72.5, 72.5, 72.5, 72.5, 72.5, 71.66669999999999, 71.66669999999999, 71.66669999999999, 68.33330000000001, 68.33330000000001, 67.5, 68.33330000000001, 68.33330000000001, 68.33330000000001, 68.33330000000001, 68.33330000000001, 67.5, 67.5, 67.5], mean: 79.8517
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0        69   55   0.895418  this lens is a great buy it is a fraction of t...
+1        41   41   0.886493  intro n ni heard how sharp this lens was and w...
+2         7  111   0.882991  i am someone who swears by canon and would not...
+3        76   71   0.871428  so you know where this review is comong from i...
+4        88   47   0.869195  i purchased this lens because i could n t budg...
+5        22   18   0.863223  i have owned this lens since 2013 and i love i...
+6         8   24   0.853327  first of all this lens is fantastic there are ...
+7        43   19   0.846673  i bought this lens expecting what i got a soli...
+8       101   76   0.844239  now let me say first and foremost that i am no...
+9        93   52   0.836218  i am a wildlife photographer and my walk aroun...
+10       84   23   0.828410  i spent quite a bit of time researching what s...
+11        1    7   0.826184  i have never bought a non canon lens because i...
+12       15    5   0.780829  got my digital rebel xt 350d about a week and ...
+13       18  106   0.763204  i was skeptical about the rave reviews and hav...
+14       37   11   0.744045  i purchased this lens and rented the nikon 24 ...
+15       25    6   0.735319  i ve used a ton of different lenses and this o...
+16       40    4   0.626005  i wo n t go into a lot of details of this part...
+17       57    3   0.606808  when i bought my canon 20d recently i really n...

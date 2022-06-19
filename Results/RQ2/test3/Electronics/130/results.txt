@@ -1,0 +1,1131 @@
+------- Category: Electronics -------
+Found asin_id: B00AEMGGU2
+Shape:  (130, 7)
+Shape after:  (130, 7)
+
+
+Chosen product: B00AEMGGU2 has 130 reviews - True, it has 130 reviews
+
+Nr of stopwords in review: ['397/805', '303/701', '122/276', '43/85', '50/90', '100/193', '66/150', '55/108', '11/27', '109/260', '106/197', '45/100', '85/160', '48/94', '58/118', '67/132', '91/174', '632/1367', '20/42', '100/192', '116/249', '138/259', '40/72', '35/87', '58/131', '62/129', '234/478', '82/158', '44/91', '115/240', '72/151', '77/156', '120/257', '49/101', '198/362', '8/20', '35/68', '147/311', '87/170', '59/134', '46/82', '43/103', '13/27', '42/91', '33/67', '50/109', '48/119', '88/220', '299/594', '58/128', '56/129', '78/183', '14/30', '49/90', '35/60', '1681/3585', '50/89', '48/93', '156/342', '206/392', '483/1080', '227/501', '29/68', '99/223', '35/84', '263/555', '34/77', '40/79', '244/502', '204/423', '534/1042', '15/39', '294/578', '75/144', '8/21', '27/47', '66/130', '363/1200', '301/730', '218/481', '36/60', '54/110', '85/165', '236/516', '43/97', '102/204', '115/208', '233/472', '82/206', '345/733', '245/514', '26/59', '61/143', '101/201', '47/101', '339/678', '35/82', '19/36', '27/44', '72/145', '145/287', '40/99', '54/109', '153/321', '72/163', '54/108', '280/557', '381/903', '27/65', '72/160', '78/176', '311/609', '69/132', '590/1374', '29/53', '236/456', '67/194', '109/205', '214/403', '37/80', '597/1163', '120/249', '276/615', '141/266', '65/132', '1129/2497', '534/1124', '128/296', '258/531', '222/424'], on average: 0.4787
+Nr of stopwords in summary: ['3/14', '0/6', '3/9', '6/12', '4/9', '1/5', '10/21', '2/4', '3/7', '5/13', '0/1', '4/12', '10/21', '3/10', '1/3', '6/12', '1/5', '2/6', '7/13', '1/3', '4/12', '3/7', '4/9', '7/11', '2/6', '3/6', '7/17', '5/10', '1/3', '2/8', '5/8', '2/6', '4/8', '8/14', '2/5', '1/4', '1/5', '5/11', '1/4', '7/13', '2/9', '3/7', '0/2', '0/2', '1/6', '4/8', '5/13', '2/5', '6/13', '3/11', '1/3', '5/11', '3/9', '3/6', '2/7', '0/5', '5/11', '2/6', '2/7', '5/8', '2/6', '2/7', '5/16', '13/23', '3/4', '3/6', '2/6', '1/2', '5/10', '2/8', '2/6', '6/14', '2/6', '6/19', '0/2', '5/9', '5/11', '4/11', '0/6', '5/13', '1/6', '3/6', '1/4', '3/7', '5/12', '0/2', '4/6', '1/4', '4/8', '9/20', '2/6', '3/10', '5/12', '3/8', '4/12', '17/25', '1/5', '0/2', '5/9', '1/8', '1/4', '3/5', '4/7', '0/2', '5/9', '8/15', '3/11', '6/11', '1/5', '0/2', '4/12', '4/12', '1/5', '2/5', '1/4', '0/4', '0/4', '4/11', '1/4', '1/4', '3/9', '1/3', '2/8', '0/2', '0/1', '6/10', '6/9', '2/7', '1/6', '0/4'], on average: 0.3427
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 96.9231%
+
+	step 2
+
+		step 3
+		candidate index: 4 with core nodes: [0, 2, 3, 4]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   4  i really regret buying this it does n t have b...   0.602601
+
+step 1
+index added: 5
+percentage unclustered: 96.9231%
+
+	step 2
+
+step 1
+index added: 6
+percentage unclustered: 96.9231%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 96.9231%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 96.1538%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [0, 2, 3, 4]
+
+step 1
+index added: 9
+percentage unclustered: 96.9231%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 96.9231%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 97.6923%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 93.0769%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [0, 2, 6, 9]
+
+step 1
+index added: 13
+percentage unclustered: 92.3077%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [0, 2, 6, 9, 13]
+			old information: 173, gain: 0.9604209563029055
+
+   ind                                             review  relevance
+0  13  i bought a play 1 a play 3 and a playbar and s...   0.650508
+1   4  i really regret buying this it does n t have b...   0.602601
+
+step 1
+index added: 14
+percentage unclustered: 92.3077%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 91.5385%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [0, 2, 6, 9, 13]
+
+step 1
+index added: 16
+percentage unclustered: 90.7692%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [0, 2, 9, 16]
+			old information: 551, gain: 0.9633911368015414
+
+   ind                                             review  relevance
+0  16  i started with 2 play 3s and loved them so muc...   0.805459
+1  13  i bought a play 1 a play 3 and a playbar and s...   0.650508
+2   4  i really regret buying this it does n t have b...   0.602601
+
+step 1
+index added: 17
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [0, 2, 9, 16, 17]
+			old information: 3500, gain: 0.9962513160558275
+
+   ind                                             review  relevance
+0  17  this is a hard review for me to write mostly b...   0.876048
+1  16  i started with 2 play 3s and loved them so muc...   0.805459
+2  13  i bought a play 1 a play 3 and a playbar and s...   0.650508
+3   4  i really regret buying this it does n t have b...   0.602601
+
+step 1
+index added: 18
+percentage unclustered: 92.3077%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [0, 9, 16]
+
+step 1
+index added: 19
+percentage unclustered: 92.3077%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 91.5385%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [0, 9, 16]
+			old information: 2790, gain: 0.9096385542168675
+
+   ind                                             review  relevance
+0  17  this is a hard review for me to write mostly b...   0.876048
+1  16  i started with 2 play 3s and loved them so muc...   0.805459
+2  20  here s why sonos sucks n nrestriction the numb...   0.693218
+3  13  i bought a play 1 a play 3 and a playbar and s...   0.650508
+4   4  i really regret buying this it does n t have b...   0.602601
+
+step 1
+index added: 21
+percentage unclustered: 91.5385%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 92.3077%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 92.3077%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 92.3077%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 86.9231%
+
+	step 2
+
+		step 3
+		candidate index: 25 with core nodes: [2, 9, 12, 17, 25]
+			old information: 1752, gain: 0.7877906976744186
+
+   ind                                             review  relevance
+0  17  this is a hard review for me to write mostly b...   0.876048
+1  16  i started with 2 play 3s and loved them so muc...   0.805459
+2  25  the playbar very good the playbar the sub even...   0.695440
+3  20  here s why sonos sucks n nrestriction the numb...   0.693218
+4  13  i bought a play 1 a play 3 and a playbar and s...   0.650508
+5   4  i really regret buying this it does n t have b...   0.602601
+
+step 1
+index added: 26
+percentage unclustered: 85.3846%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [2, 9, 17, 26]
+			old information: 7038, gain: 0.9382647825057235
+
+   ind                                             review  relevance
+0  17  this is a hard review for me to write mostly b...   0.876048
+1  16  i started with 2 play 3s and loved them so muc...   0.805459
+2  26  1 i bought an open box special which would onl...   0.798857
+3  25  the playbar very good the playbar the sub even...   0.695440
+4  20  here s why sonos sucks n nrestriction the numb...   0.693218
+5  13  i bought a play 1 a play 3 and a playbar and s...   0.650508
+6   4  i really regret buying this it does n t have b...   0.602601
+
+step 1
+index added: 27
+percentage unclustered: 86.1538%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [2, 9, 17, 26]
+
+step 1
+index added: 28
+percentage unclustered: 86.1538%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 84.6154%
+
+	step 2
+
+		step 3
+		candidate index: 29 with core nodes: [16, 17, 26]
+
+step 1
+index added: 30
+percentage unclustered: 84.6154%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 84.6154%
+
+	step 2
+
+		step 3
+		candidate index: 31 with core nodes: [2, 16, 26, 31]
+			old information: 2141, gain: 0.8229114971050455
+
+   ind                                             review  relevance
+0  17  this is a hard review for me to write mostly b...   0.876048
+1  16  i started with 2 play 3s and loved them so muc...   0.805459
+2  26  1 i bought an open box special which would onl...   0.798857
+3  31  i purchased a playbar sub and 2 surround speak...   0.791682
+4  25  the playbar very good the playbar the sub even...   0.695440
+5  20  here s why sonos sucks n nrestriction the numb...   0.693218
+6  13  i bought a play 1 a play 3 and a playbar and s...   0.650508
+7   4  i really regret buying this it does n t have b...   0.602601
+
+step 1
+index added: 32
+percentage unclustered: 83.0769%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [2, 16, 26, 32]
+			old information: 3367, gain: 0.8976471303501945
+
+   ind                                             review  relevance
+0  17  this is a hard review for me to write mostly b...   0.876048
+1  32  i am new to sonos but when i was looking to bu...   0.841971
+2  16  i started with 2 play 3s and loved them so muc...   0.805459
+3  26  1 i bought an open box special which would onl...   0.798857
+4  31  i purchased a playbar sub and 2 surround speak...   0.791682
+5  25  the playbar very good the playbar the sub even...   0.695440
+6  20  here s why sonos sucks n nrestriction the numb...   0.693218
+7  13  i bought a play 1 a play 3 and a playbar and s...   0.650508
+8   4  i really regret buying this it does n t have b...   0.602601
+
+step 1
+index added: 33
+percentage unclustered: 82.3077%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [16, 26, 32]
+			old information: 1255, gain: 0.7514851485148515
+
+   ind                                             review  relevance
+0  17  this is a hard review for me to write mostly b...   0.876048
+1  32  i am new to sonos but when i was looking to bu...   0.841971
+2  16  i started with 2 play 3s and loved them so muc...   0.805459
+3  26  1 i bought an open box special which would onl...   0.798857
+4  31  i purchased a playbar sub and 2 surround speak...   0.791682
+5  33  i was n t impressed with the sound quality of ...   0.736308
+6  25  the playbar very good the playbar the sub even...   0.695440
+7  20  here s why sonos sucks n nrestriction the numb...   0.693218
+8  13  i bought a play 1 a play 3 and a playbar and s...   0.650508
+9   4  i really regret buying this it does n t have b...   0.602601
+
+step 1
+index added: 34
+percentage unclustered: 81.5385%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [16, 32, 34]
+			old information: 5452, gain: 0.9165608117414793
+
+    ind                                             review  relevance
+0   17  this is a hard review for me to write mostly b...   0.876048
+1   32  i am new to sonos but when i was looking to bu...   0.841971
+2   16  i started with 2 play 3s and loved them so muc...   0.805459
+3   26  1 i bought an open box special which would onl...   0.798857
+4   31  i purchased a playbar sub and 2 surround speak...   0.791682
+5   34  i ll admit the sonos playbar is not cheap and ...   0.783856
+6   33  i was n t impressed with the sound quality of ...   0.736308
+7   25  the playbar very good the playbar the sub even...   0.695440
+8   20  here s why sonos sucks n nrestriction the numb...   0.693218
+9   13  i bought a play 1 a play 3 and a playbar and s...   0.650508
+10   4  i really regret buying this it does n t have b...   0.602601
+
+step 1
+index added: 35
+percentage unclustered: 82.3077%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 81.5385%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [16, 32, 34]
+
+step 1
+index added: 37
+percentage unclustered: 83.0769%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 83.0769%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 86.9231%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [19, 26, 32]
+
+step 1
+index added: 42
+percentage unclustered: 86.9231%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 86.9231%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 86.9231%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 84.6154%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [19, 26, 32]
+
+step 1
+index added: 46
+percentage unclustered: 84.6154%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 84.6154%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 88.4615%
+
+	step 2
+
+		step 3
+		candidate index: 48 with core nodes: [9, 32, 48]
+			old information: 9697, gain: 0.9449412619733024
+
+    ind                                             review  relevance
+0   17  this is a hard review for me to write mostly b...   0.876048
+1   48  first let s address the elephant in the room t...   0.854165
+2   32  i am new to sonos but when i was looking to bu...   0.841971
+3   16  i started with 2 play 3s and loved them so muc...   0.805459
+4   26  1 i bought an open box special which would onl...   0.798857
+5   31  i purchased a playbar sub and 2 surround speak...   0.791682
+6   34  i ll admit the sonos playbar is not cheap and ...   0.783856
+7   33  i was n t impressed with the sound quality of ...   0.736308
+8   25  the playbar very good the playbar the sub even...   0.695440
+9   20  here s why sonos sucks n nrestriction the numb...   0.693218
+10  13  i bought a play 1 a play 3 and a playbar and s...   0.650508
+11   4  i really regret buying this it does n t have b...   0.602601
+
+step 1
+index added: 49
+percentage unclustered: 88.4615%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 81.5385%
+
+	step 2
+
+		step 3
+		candidate index: 50 with core nodes: [9, 32, 48]
+
+step 1
+index added: 51
+percentage unclustered: 75.3846%
+
+	step 2
+
+		step 3
+		candidate index: 51 with core nodes: [32, 34, 48]
+
+step 1
+index added: 52
+percentage unclustered: 75.3846%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 75.3846%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 73.8462%
+
+	step 2
+
+		step 3
+		candidate index: 54 with core nodes: [32, 34, 48]
+
+step 1
+index added: 55
+percentage unclustered: 73.8462%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 73.8462%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 73.8462%
+
+	step 2
+
+		step 3
+		candidate index: 57 with core nodes: [17, 32, 34, 48]
+
+step 1
+index added: 58
+percentage unclustered: 76.1538%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 80.7692%
+
+	step 2
+
+		step 3
+		candidate index: 59 with core nodes: [17, 32, 48, 59]
+			old information: 7353, gain: 0.9040529255180333
+
+    ind                                             review  relevance
+0   59  i m an absolute sonos fanatic owning 9 pieces ...   0.877795
+1   17  this is a hard review for me to write mostly b...   0.876048
+2   48  first let s address the elephant in the room t...   0.854165
+3   32  i am new to sonos but when i was looking to bu...   0.841971
+4   16  i started with 2 play 3s and loved them so muc...   0.805459
+5   26  1 i bought an open box special which would onl...   0.798857
+6   31  i purchased a playbar sub and 2 surround speak...   0.791682
+7   34  i ll admit the sonos playbar is not cheap and ...   0.783856
+8   33  i was n t impressed with the sound quality of ...   0.736308
+9   25  the playbar very good the playbar the sub even...   0.695440
+10  20  here s why sonos sucks n nrestriction the numb...   0.693218
+11  13  i bought a play 1 a play 3 and a playbar and s...   0.650508
+12   4  i really regret buying this it does n t have b...   0.602601
+
+step 1
+index added: 60
+percentage unclustered: 81.5385%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 80.7692%
+
+	step 2
+
+		step 3
+		candidate index: 61 with core nodes: [17, 32, 48, 59]
+
+step 1
+index added: 62
+percentage unclustered: 75.3846%
+
+	step 2
+
+		step 3
+		candidate index: 62 with core nodes: [17, 48, 59, 60]
+
+step 1
+index added: 63
+percentage unclustered: 70.7692%
+
+	step 2
+
+		step 3
+		candidate index: 63 with core nodes: [17, 48, 59, 60]
+
+step 1
+index added: 64
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 64 with core nodes: [17, 48, 59, 60]
+
+step 1
+index added: 65
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 65 with core nodes: [17, 48, 59, 60]
+
+step 1
+index added: 66
+percentage unclustered: 72.3077%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 72.3077%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 71.5385%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 73.0769%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 73.0769%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 73.0769%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 73.0769%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 92.3077%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 92.3077%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 92.3077%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 93.0769%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 93.0769%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 91.5385%
+
+	step 2
+
+		step 3
+		candidate index: 79 with core nodes: [21, 32, 33, 34, 79]
+			old information: 9293, gain: 0.919499306999307
+
+    ind                                             review  relevance
+0   59  i m an absolute sonos fanatic owning 9 pieces ...   0.877795
+1   17  this is a hard review for me to write mostly b...   0.876048
+2   48  first let s address the elephant in the room t...   0.854165
+3   32  i am new to sonos but when i was looking to bu...   0.841971
+4   79  first off i am a big sonos fan i had toyed wit...   0.834111
+5   16  i started with 2 play 3s and loved them so muc...   0.805459
+6   26  1 i bought an open box special which would onl...   0.798857
+7   31  i purchased a playbar sub and 2 surround speak...   0.791682
+8   34  i ll admit the sonos playbar is not cheap and ...   0.783856
+9   33  i was n t impressed with the sound quality of ...   0.736308
+10  25  the playbar very good the playbar the sub even...   0.695440
+11  20  here s why sonos sucks n nrestriction the numb...   0.693218
+12  13  i bought a play 1 a play 3 and a playbar and s...   0.650508
+13   4  i really regret buying this it does n t have b...   0.602601
+
+step 1
+index added: 80
+percentage unclustered: 91.5385%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 90.7692%
+
+	step 2
+
+		step 3
+		candidate index: 81 with core nodes: [33, 34, 79]
+
+step 1
+index added: 82
+percentage unclustered: 90.7692%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 90.7692%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 84.6154%
+
+	step 2
+
+		step 3
+		candidate index: 84 with core nodes: [16, 60, 83]
+
+step 1
+index added: 85
+percentage unclustered: 84.6154%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 84.6154%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 84.6154%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 84.6154%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 84.6154%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 84.6154%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 84.6154%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 86.1538%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 83.0769%
+
+	step 2
+
+		step 3
+		candidate index: 93 with core nodes: [60, 70, 79, 83]
+
+step 1
+index added: 94
+percentage unclustered: 80.7692%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 78.4615%
+
+	step 2
+
+		step 3
+		candidate index: 95 with core nodes: [32, 34, 70, 95]
+			old information: 16520, gain: 0.9280183701302379
+
+    ind                                             review  relevance
+0   95  if you re like me you have probably scoured th...   0.886362
+1   59  i m an absolute sonos fanatic owning 9 pieces ...   0.877795
+2   17  this is a hard review for me to write mostly b...   0.876048
+3   48  first let s address the elephant in the room t...   0.854165
+4   32  i am new to sonos but when i was looking to bu...   0.841971
+5   79  first off i am a big sonos fan i had toyed wit...   0.834111
+6   16  i started with 2 play 3s and loved them so muc...   0.805459
+7   26  1 i bought an open box special which would onl...   0.798857
+8   31  i purchased a playbar sub and 2 surround speak...   0.791682
+9   34  i ll admit the sonos playbar is not cheap and ...   0.783856
+10  33  i was n t impressed with the sound quality of ...   0.736308
+11  25  the playbar very good the playbar the sub even...   0.695440
+12  20  here s why sonos sucks n nrestriction the numb...   0.693218
+13  13  i bought a play 1 a play 3 and a playbar and s...   0.650508
+14   4  i really regret buying this it does n t have b...   0.602601
+
+step 1
+index added: 96
+percentage unclustered: 78.4615%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 97 with core nodes: [55, 60, 70, 83]
+
+step 1
+index added: 98
+percentage unclustered: 73.8462%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 71.5385%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 71.5385%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 71.5385%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 71.5385%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 73.0769%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 73.0769%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 73.0769%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 72.3077%
+
+	step 2
+
+		step 3
+		candidate index: 106 with core nodes: [32, 59, 69, 95]
+
+step 1
+index added: 107
+percentage unclustered: 72.3077%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 71.5385%
+
+	step 2
+
+		step 3
+		candidate index: 108 with core nodes: [32, 59, 69, 95]
+
+step 1
+index added: 109
+percentage unclustered: 71.5385%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 71.5385%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 71.5385%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 72.3077%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 73.0769%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 72.3077%
+
+	step 2
+
+		step 3
+		candidate index: 114 with core nodes: [32, 59, 95]
+
+step 1
+index added: 115
+percentage unclustered: 72.3077%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 72.3077%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 72.3077%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 72.3077%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 72.3077%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 120 with core nodes: [32, 59, 95]
+			old information: 25914, gain: 0.9616488309212775
+
+     ind                                             review  relevance
+0   120  i m a huge sonos fan i own 3 play 5 s and a su...   0.894725
+1    95  if you re like me you have probably scoured th...   0.886362
+2    59  i m an absolute sonos fanatic owning 9 pieces ...   0.877795
+3    17  this is a hard review for me to write mostly b...   0.876048
+4    48  first let s address the elephant in the room t...   0.854165
+5    32  i am new to sonos but when i was looking to bu...   0.841971
+6    79  first off i am a big sonos fan i had toyed wit...   0.834111
+7    16  i started with 2 play 3s and loved them so muc...   0.805459
+8    26  1 i bought an open box special which would onl...   0.798857
+9    31  i purchased a playbar sub and 2 surround speak...   0.791682
+10   34  i ll admit the sonos playbar is not cheap and ...   0.783856
+11   33  i was n t impressed with the sound quality of ...   0.736308
+12   25  the playbar very good the playbar the sub even...   0.695440
+13   20  here s why sonos sucks n nrestriction the numb...   0.693218
+14   13  i bought a play 1 a play 3 and a playbar and s...   0.650508
+15    4  i really regret buying this it does n t have b...   0.602601
+
+step 1
+index added: 121
+percentage unclustered: 67.6923%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 67.6923%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 67.6923%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 67.6923%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 65.3846%
+
+	step 2
+
+		step 3
+		candidate index: 125 with core nodes: [65, 95, 120, 125]
+			old information: 51951, gain: 0.9833290333015002
+
+     ind                                             review  relevance
+0   125  the sonos playbar may seem expensive for a sou...   0.916822
+1   120  i m a huge sonos fan i own 3 play 5 s and a su...   0.894725
+2    95  if you re like me you have probably scoured th...   0.886362
+3    59  i m an absolute sonos fanatic owning 9 pieces ...   0.877795
+4    17  this is a hard review for me to write mostly b...   0.876048
+5    48  first let s address the elephant in the room t...   0.854165
+6    32  i am new to sonos but when i was looking to bu...   0.841971
+7    79  first off i am a big sonos fan i had toyed wit...   0.834111
+8    16  i started with 2 play 3s and loved them so muc...   0.805459
+9    26  1 i bought an open box special which would onl...   0.798857
+10   31  i purchased a playbar sub and 2 surround speak...   0.791682
+11   34  i ll admit the sonos playbar is not cheap and ...   0.783856
+12   33  i was n t impressed with the sound quality of ...   0.736308
+13   25  the playbar very good the playbar the sub even...   0.695440
+14   20  here s why sonos sucks n nrestriction the numb...   0.693218
+15   13  i bought a play 1 a play 3 and a playbar and s...   0.650508
+16    4  i really regret buying this it does n t have b...   0.602601
+
+step 1
+index added: 126
+percentage unclustered: 67.6923%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 65.3846%
+
+	step 2
+
+step 1
+index added: 128
+percentage unclustered: 65.3846%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 65.3846%
+
+	step 2
+
+--- 15906.811565637589 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 96.9231, 96.9231, 96.9231, 96.9231, 96.1538, 96.9231, 96.9231, 97.6923, 93.0769, 92.3077, 92.3077, 91.5385, 90.7692, 90.0, 92.3077, 92.3077, 91.5385, 91.5385, 92.3077, 92.3077, 92.3077, 86.9231, 85.3846, 86.1538, 86.1538, 84.6154, 84.6154, 84.6154, 83.0769, 82.3077, 81.5385, 82.3077, 81.5385, 83.0769, 83.0769, 88.4615, 88.4615, 86.9231, 86.9231, 86.9231, 86.9231, 84.6154, 84.6154, 84.6154, 88.4615, 88.4615, 81.5385, 75.3846, 75.3846, 75.3846, 73.8462, 73.8462, 73.8462, 73.8462, 76.1538, 80.7692, 81.5385, 80.7692, 75.3846, 70.7692, 70.0, 70.0, 72.3077, 72.3077, 71.5385, 73.0769, 73.0769, 73.0769, 73.0769, 92.3077, 92.3077, 92.3077, 70.0, 93.0769, 93.0769, 91.5385, 91.5385, 90.7692, 90.7692, 90.7692, 84.6154, 84.6154, 84.6154, 84.6154, 84.6154, 84.6154, 84.6154, 84.6154, 86.1538, 83.0769, 80.7692, 78.4615, 78.4615, 70.0, 73.8462, 71.5385, 71.5385, 71.5385, 71.5385, 73.0769, 73.0769, 73.0769, 72.3077, 72.3077, 71.5385, 71.5385, 71.5385, 71.5385, 72.3077, 73.0769, 72.3077, 72.3077, 72.3077, 72.3077, 72.3077, 72.3077, 70.0, 67.6923, 67.6923, 67.6923, 67.6923, 65.3846, 67.6923, 65.3846, 65.3846, 65.3846], mean: 81.4002
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0         3  125   0.916822  the sonos playbar may seem expensive for a sou...
+1         1  120   0.894725  i m a huge sonos fan i own 3 play 5 s and a su...
+2        14   95   0.886362  if you re like me you have probably scoured th...
+3        99   59   0.877795  i m an absolute sonos fanatic owning 9 pieces ...
+4        37   17   0.876048  this is a hard review for me to write mostly b...
+5       106   48   0.854165  first let s address the elephant in the room t...
+6        93   32   0.841971  i am new to sonos but when i was looking to bu...
+7        73   79   0.834111  first off i am a big sonos fan i had toyed wit...
+8        29   16   0.805459  i started with 2 play 3s and loved them so muc...
+9        74   26   0.798857  1 i bought an open box special which would onl...
+10       81   31   0.791682  i purchased a playbar sub and 2 surround speak...
+11       65   34   0.783856  i ll admit the sonos playbar is not cheap and ...
+12       71   33   0.736308  i was n t impressed with the sound quality of ...
+13       35   25   0.695440  the playbar very good the playbar the sub even...
+14       55   20   0.693218  here s why sonos sucks n nrestriction the numb...
+15       38   13   0.650508  i bought a play 1 a play 3 and a playbar and s...
+16       10    4   0.602601  i really regret buying this it does n t have b...

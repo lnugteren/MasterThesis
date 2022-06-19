@@ -1,0 +1,1054 @@
+------- Category: Electronics -------
+Found asin_id: B00002SWHH
+Shape:  (110, 7)
+Shape after:  (110, 7)
+
+
+Chosen product: B00002SWHH has 110 reviews - True, it has 110 reviews
+
+Nr of stopwords in review: ['269/544', '59/112', '175/334', '20/44', '76/141', '56/111', '130/257', '94/186', '141/293', '11/34', '27/52', '128/276', '49/98', '144/298', '31/65', '91/166', '148/290', '156/315', '104/196', '79/154', '65/139', '143/279', '373/713', '81/139', '82/171', '136/263', '144/287', '242/470', '168/348', '268/500', '184/363', '521/1017', '557/1110', '6/27', '84/152', '121/247', '491/973', '91/183', '182/367', '125/255', '81/172', '210/390', '23/53', '39/63', '96/182', '99/188', '64/130', '123/237', '37/76', '54/98', '68/145', '70/141', '114/219', '149/296', '122/237', '113/224', '96/163', '51/93', '113/234', '178/358', '366/803', '59/106', '138/293', '38/106', '33/65', '70/158', '102/218', '45/92', '41/99', '61/120', '98/190', '109/235', '330/643', '149/303', '183/376', '373/757', '131/252', '63/115', '67/151', '121/234', '149/279', '128/259', '33/69', '23/48', '73/135', '61/128', '39/65', '26/56', '54/112', '59/114', '31/58', '164/402', '88/180', '113/231', '96/177', '73/162', '23/61', '46/85', '115/241', '232/438', '144/306', '56/112', '141/294', '73/150', '140/330', '55/120', '78/128', '34/98', '23/42', '71/155'], on average: 0.4949
+Nr of stopwords in summary: ['0/3', '2/3', '2/6', '1/2', '3/7', '1/3', '2/7', '1/6', '2/7', '0/4', '4/8', '0/2', '1/5', '6/11', '1/3', '8/11', '4/9', '1/5', '1/3', '3/7', '1/5', '3/6', '2/5', '2/3', '2/8', '5/10', '5/10', '6/13', '2/8', '1/4', '1/7', '0/6', '2/5', '1/7', '2/5', '4/9', '3/7', '3/7', '3/5', '0/2', '1/6', '2/8', '2/3', '3/5', '2/6', '0/4', '5/9', '0/5', '0/1', '4/10', '2/7', '4/8', '1/5', '4/6', '3/10', '3/4', '3/7', '2/8', '4/11', '3/9', '0/5', '2/5', '2/5', '5/10', '0/2', '1/4', '0/1', '0/2', '1/5', '0/2', '1/4', '4/9', '1/6', '2/4', '2/7', '1/5', '1/8', '4/7', '1/2', '6/8', '1/3', '1/4', '1/3', '1/3', '0/4', '5/9', '1/3', '4/8', '1/4', '1/3', '1/2', '2/5', '4/8', '0/1', '2/6', '5/9', '1/3', '0/2', '4/7', '1/3', '7/11', '4/10', '7/12', '1/6', '2/5', '0/4', '2/4', '0/3', '0/2', '1/4'], on average: 0.3269
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 97.2727%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [0, 6, 8]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   8  i was an early adopter of tivo and paid price ...   0.767302
+
+step 1
+index added: 9
+percentage unclustered: 97.2727%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 97.2727%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 97.2727%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 94.5455%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [0, 6, 8, 12]
+			old information: 415, gain: 0.9126867241742057
+
+   ind                                             review  relevance
+0   8  i was an early adopter of tivo and paid price ...   0.767302
+1  12  great product that makes the vcr a thing of th...   0.624382
+
+step 1
+index added: 13
+percentage unclustered: 94.5455%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 94.5455%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 93.6364%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [0, 6, 8, 15]
+			old information: 890, gain: 0.9350127783862724
+
+   ind                                             review  relevance
+0   8  i was an early adopter of tivo and paid price ...   0.767302
+1  15  i absolutely loved my tivo it was great until ...   0.717343
+2  12  great product that makes the vcr a thing of th...   0.624382
+
+step 1
+index added: 16
+percentage unclustered: 93.6364%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 93.6364%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 93.6364%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 93.6364%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 93.6364%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 93.6364%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 90.9091%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [6, 8, 16, 22]
+			old information: 4335, gain: 0.9829215059016342
+
+   ind                                             review  relevance
+0  22  i hesitated before buying a tivo because i was...   0.887382
+1   8  i was an early adopter of tivo and paid price ...   0.767302
+2  15  i absolutely loved my tivo it was great until ...   0.717343
+3  12  great product that makes the vcr a thing of th...   0.624382
+
+step 1
+index added: 23
+percentage unclustered: 85.4545%
+
+	step 2
+
+		step 3
+		candidate index: 23 with core nodes: [6, 8, 16, 22]
+
+step 1
+index added: 24
+percentage unclustered: 84.5455%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 89.0909%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 85.4545%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [6, 8, 16, 22]
+
+step 1
+index added: 27
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [6, 16, 22]
+			old information: 5854, gain: 0.9468856326271379
+
+   ind                                             review  relevance
+0  22  i hesitated before buying a tivo because i was...   0.887382
+1  27  i knew from the moment i heard of the concept ...   0.840485
+2   8  i was an early adopter of tivo and paid price ...   0.767302
+3  15  i absolutely loved my tivo it was great until ...   0.717343
+4  12  great product that makes the vcr a thing of th...   0.624382
+
+step 1
+index added: 28
+percentage unclustered: 83.6364%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 86.3636%
+
+	step 2
+
+		step 3
+		candidate index: 29 with core nodes: [6, 16, 22, 27, 29]
+			old information: 8040, gain: 0.9355511022044088
+
+   ind                                             review  relevance
+0  22  i hesitated before buying a tivo because i was...   0.887382
+1  29  i think some of the folks writing reviews of t...   0.873583
+2  27  i knew from the moment i heard of the concept ...   0.840485
+3   8  i was an early adopter of tivo and paid price ...   0.767302
+4  15  i absolutely loved my tivo it was great until ...   0.717343
+5  12  great product that makes the vcr a thing of th...   0.624382
+
+step 1
+index added: 30
+percentage unclustered: 89.0909%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 85.4545%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 82.7273%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [2, 31, 32]
+			old information: 16052, gain: 0.9739201780680591
+
+   ind                                             review  relevance
+0  22  i hesitated before buying a tivo because i was...   0.887382
+1  32  anyone that is thinking of purchasing a tivo u...   0.880467
+2  29  i think some of the folks writing reviews of t...   0.873583
+3  27  i knew from the moment i heard of the concept ...   0.840485
+4   8  i was an early adopter of tivo and paid price ...   0.767302
+5  15  i absolutely loved my tivo it was great until ...   0.717343
+6  12  great product that makes the vcr a thing of th...   0.624382
+
+step 1
+index added: 33
+percentage unclustered: 75.4545%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [6, 16, 27, 29]
+
+step 1
+index added: 34
+percentage unclustered: 75.4545%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 74.5455%
+
+	step 2
+
+		step 3
+		candidate index: 35 with core nodes: [6, 16, 27, 29]
+
+step 1
+index added: 36
+percentage unclustered: 73.6364%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [22, 31, 32, 36]
+			old information: 35618, gain: 0.924678246820533
+
+   ind                                             review  relevance
+0  36  first off i want to say that i am completely s...   0.945072
+1  22  i hesitated before buying a tivo because i was...   0.887382
+2  32  anyone that is thinking of purchasing a tivo u...   0.880467
+3  29  i think some of the folks writing reviews of t...   0.873583
+4  27  i knew from the moment i heard of the concept ...   0.840485
+5   8  i was an early adopter of tivo and paid price ...   0.767302
+6  15  i absolutely loved my tivo it was great until ...   0.717343
+7  12  great product that makes the vcr a thing of th...   0.624382
+
+step 1
+index added: 37
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [22, 31, 32, 36]
+
+step 1
+index added: 38
+percentage unclustered: 75.4545%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [6, 16, 27, 29]
+			old information: 7712, gain: 0.8851714536710293
+
+   ind                                             review  relevance
+0  36  first off i want to say that i am completely s...   0.945072
+1  22  i hesitated before buying a tivo because i was...   0.887382
+2  32  anyone that is thinking of purchasing a tivo u...   0.880467
+3  29  i think some of the folks writing reviews of t...   0.873583
+4  27  i knew from the moment i heard of the concept ...   0.840485
+5  38  i received a great birthday present in 2000 th...   0.816952
+6   8  i was an early adopter of tivo and paid price ...   0.767302
+7  15  i absolutely loved my tivo it was great until ...   0.717343
+8  12  great product that makes the vcr a thing of th...   0.624382
+
+step 1
+index added: 39
+percentage unclustered: 75.4545%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 75.4545%
+
+	step 2
+
+		step 3
+		candidate index: 40 with core nodes: [6, 16, 22, 27, 29]
+
+step 1
+index added: 41
+percentage unclustered: 85.4545%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [24, 31, 41]
+			old information: 8812, gain: 0.8838309933425614
+
+   ind                                             review  relevance
+0  36  first off i want to say that i am completely s...   0.945072
+1  22  i hesitated before buying a tivo because i was...   0.887382
+2  32  anyone that is thinking of purchasing a tivo u...   0.880467
+3  29  i think some of the folks writing reviews of t...   0.873583
+4  41  i am an early adopter of tivo and it has compl...   0.862545
+5  27  i knew from the moment i heard of the concept ...   0.840485
+6  38  i received a great birthday present in 2000 th...   0.816952
+7   8  i was an early adopter of tivo and paid price ...   0.767302
+8  15  i absolutely loved my tivo it was great until ...   0.717343
+9  12  great product that makes the vcr a thing of th...   0.624382
+
+step 1
+index added: 42
+percentage unclustered: 85.4545%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 85.4545%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 84.5455%
+
+	step 2
+
+		step 3
+		candidate index: 44 with core nodes: [16, 27, 35]
+			old information: 3596, gain: 0.7816768866492624
+
+    ind                                             review  relevance
+0   36  first off i want to say that i am completely s...   0.945072
+1   22  i hesitated before buying a tivo because i was...   0.887382
+2   32  anyone that is thinking of purchasing a tivo u...   0.880467
+3   29  i think some of the folks writing reviews of t...   0.873583
+4   41  i am an early adopter of tivo and it has compl...   0.862545
+5   27  i knew from the moment i heard of the concept ...   0.840485
+6   38  i received a great birthday present in 2000 th...   0.816952
+7    8  i was an early adopter of tivo and paid price ...   0.767302
+8   15  i absolutely loved my tivo it was great until ...   0.717343
+9   44  just wanted to put in my two cents about the r...   0.712696
+10  12  great product that makes the vcr a thing of th...   0.624382
+
+step 1
+index added: 45
+percentage unclustered: 81.8182%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [16, 27, 45]
+			old information: 3178, gain: 0.8192058254636477
+
+    ind                                             review  relevance
+0   36  first off i want to say that i am completely s...   0.945072
+1   22  i hesitated before buying a tivo because i was...   0.887382
+2   32  anyone that is thinking of purchasing a tivo u...   0.880467
+3   29  i think some of the folks writing reviews of t...   0.873583
+4   41  i am an early adopter of tivo and it has compl...   0.862545
+5   27  i knew from the moment i heard of the concept ...   0.840485
+6   38  i received a great birthday present in 2000 th...   0.816952
+7    8  i was an early adopter of tivo and paid price ...   0.767302
+8   45  i found tivo to be everything i had hoped for ...   0.737898
+9   15  i absolutely loved my tivo it was great until ...   0.717343
+10  44  just wanted to put in my two cents about the r...   0.712696
+11  12  great product that makes the vcr a thing of th...   0.624382
+
+step 1
+index added: 46
+percentage unclustered: 81.8182%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [16, 27, 45]
+
+step 1
+index added: 47
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 78.1818%
+
+	step 2
+
+		step 3
+		candidate index: 50 with core nodes: [0, 2, 31, 32]
+			old information: 3360, gain: 0.6781609195402298
+
+    ind                                             review  relevance
+0   36  first off i want to say that i am completely s...   0.945072
+1   22  i hesitated before buying a tivo because i was...   0.887382
+2   32  anyone that is thinking of purchasing a tivo u...   0.880467
+3   29  i think some of the folks writing reviews of t...   0.873583
+4   41  i am an early adopter of tivo and it has compl...   0.862545
+5   27  i knew from the moment i heard of the concept ...   0.840485
+6   38  i received a great birthday present in 2000 th...   0.816952
+7    8  i was an early adopter of tivo and paid price ...   0.767302
+8   50  you ll never regret buying this it s easy to u...   0.751158
+9   45  i found tivo to be everything i had hoped for ...   0.737898
+10  15  i absolutely loved my tivo it was great until ...   0.717343
+11  44  just wanted to put in my two cents about the r...   0.712696
+12  12  great product that makes the vcr a thing of th...   0.624382
+
+step 1
+index added: 51
+percentage unclustered: 74.5455%
+
+	step 2
+
+		step 3
+		candidate index: 51 with core nodes: [0, 2, 31, 32]
+			old information: 2519, gain: 0.7447821681864235
+
+    ind                                             review  relevance
+0   36  first off i want to say that i am completely s...   0.945072
+1   22  i hesitated before buying a tivo because i was...   0.887382
+2   32  anyone that is thinking of purchasing a tivo u...   0.880467
+3   29  i think some of the folks writing reviews of t...   0.873583
+4   41  i am an early adopter of tivo and it has compl...   0.862545
+5   27  i knew from the moment i heard of the concept ...   0.840485
+6   38  i received a great birthday present in 2000 th...   0.816952
+7    8  i was an early adopter of tivo and paid price ...   0.767302
+8   50  you ll never regret buying this it s easy to u...   0.751158
+9   45  i found tivo to be everything i had hoped for ...   0.737898
+10  15  i absolutely loved my tivo it was great until ...   0.717343
+11  44  just wanted to put in my two cents about the r...   0.712696
+12  12  great product that makes the vcr a thing of th...   0.624382
+13  51  are you like me and tired of watching 20 minut...   0.616297
+
+step 1
+index added: 52
+percentage unclustered: 73.6364%
+
+	step 2
+
+		step 3
+		candidate index: 52 with core nodes: [6, 16, 27, 45]
+
+step 1
+index added: 53
+percentage unclustered: 73.6364%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 72.7273%
+
+	step 2
+
+		step 3
+		candidate index: 54 with core nodes: [0, 2, 31, 32]
+
+step 1
+index added: 55
+percentage unclustered: 71.8182%
+
+	step 2
+
+		step 3
+		candidate index: 55 with core nodes: [6, 16, 27, 45]
+
+step 1
+index added: 56
+percentage unclustered: 70.9091%
+
+	step 2
+
+		step 3
+		candidate index: 56 with core nodes: [6, 16, 27, 45]
+
+step 1
+index added: 57
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 57 with core nodes: [0, 2, 31, 32]
+
+step 1
+index added: 58
+percentage unclustered: 69.0909%
+
+	step 2
+
+		step 3
+		candidate index: 58 with core nodes: [6, 16, 27, 45]
+			old information: 5421, gain: 0.8011444921316166
+
+    ind                                             review  relevance
+0   36  first off i want to say that i am completely s...   0.945072
+1   22  i hesitated before buying a tivo because i was...   0.887382
+2   32  anyone that is thinking of purchasing a tivo u...   0.880467
+3   29  i think some of the folks writing reviews of t...   0.873583
+4   41  i am an early adopter of tivo and it has compl...   0.862545
+5   27  i knew from the moment i heard of the concept ...   0.840485
+6   38  i received a great birthday present in 2000 th...   0.816952
+7    8  i was an early adopter of tivo and paid price ...   0.767302
+8   50  you ll never regret buying this it s easy to u...   0.751158
+9   58  in the past twenty years i ve purchased thousa...   0.744071
+10  45  i found tivo to be everything i had hoped for ...   0.737898
+11  15  i absolutely loved my tivo it was great until ...   0.717343
+12  44  just wanted to put in my two cents about the r...   0.712696
+13  12  great product that makes the vcr a thing of th...   0.624382
+14  51  are you like me and tired of watching 20 minut...   0.616297
+
+step 1
+index added: 59
+percentage unclustered: 71.8182%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 75.4545%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 73.6364%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 72.7273%
+
+	step 2
+
+		step 3
+		candidate index: 62 with core nodes: [6, 16, 27]
+
+step 1
+index added: 63
+percentage unclustered: 78.1818%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 78.1818%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 78.1818%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 78.1818%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 78.1818%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 79.0909%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 76.3636%
+
+	step 2
+
+		step 3
+		candidate index: 70 with core nodes: [16, 27, 55, 70]
+			old information: 4241, gain: 0.7637983848510165
+
+    ind                                             review  relevance
+0   36  first off i want to say that i am completely s...   0.945072
+1   22  i hesitated before buying a tivo because i was...   0.887382
+2   32  anyone that is thinking of purchasing a tivo u...   0.880467
+3   29  i think some of the folks writing reviews of t...   0.873583
+4   41  i am an early adopter of tivo and it has compl...   0.862545
+5   27  i knew from the moment i heard of the concept ...   0.840485
+6   38  i received a great birthday present in 2000 th...   0.816952
+7   70  yes i agree with the others this product is in...   0.809549
+8    8  i was an early adopter of tivo and paid price ...   0.767302
+9   50  you ll never regret buying this it s easy to u...   0.751158
+10  58  in the past twenty years i ve purchased thousa...   0.744071
+11  45  i found tivo to be everything i had hoped for ...   0.737898
+12  15  i absolutely loved my tivo it was great until ...   0.717343
+13  44  just wanted to put in my two cents about the r...   0.712696
+14  12  great product that makes the vcr a thing of th...   0.624382
+15  51  are you like me and tired of watching 20 minut...   0.616297
+
+step 1
+index added: 71
+percentage unclustered: 73.6364%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 73.6364%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 72.7273%
+
+	step 2
+
+		step 3
+		candidate index: 73 with core nodes: [16, 27, 55, 70]
+			old information: 5557, gain: 0.8785434834874216
+
+    ind                                             review  relevance
+0   36  first off i want to say that i am completely s...   0.945072
+1   22  i hesitated before buying a tivo because i was...   0.887382
+2   32  anyone that is thinking of purchasing a tivo u...   0.880467
+3   29  i think some of the folks writing reviews of t...   0.873583
+4   41  i am an early adopter of tivo and it has compl...   0.862545
+5   27  i knew from the moment i heard of the concept ...   0.840485
+6   38  i received a great birthday present in 2000 th...   0.816952
+7   70  yes i agree with the others this product is in...   0.809549
+8   73  wow i ve had my philips tivo unit since decemb...   0.799782
+9    8  i was an early adopter of tivo and paid price ...   0.767302
+10  50  you ll never regret buying this it s easy to u...   0.751158
+11  58  in the past twenty years i ve purchased thousa...   0.744071
+12  45  i found tivo to be everything i had hoped for ...   0.737898
+13  15  i absolutely loved my tivo it was great until ...   0.717343
+14  44  just wanted to put in my two cents about the r...   0.712696
+15  12  great product that makes the vcr a thing of th...   0.624382
+16  51  are you like me and tired of watching 20 minut...   0.616297
+
+step 1
+index added: 74
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 71.8182%
+
+	step 2
+
+		step 3
+		candidate index: 75 with core nodes: [31, 41, 75]
+			old information: 19917, gain: 0.9303956721393973
+
+    ind                                             review  relevance
+0   36  first off i want to say that i am completely s...   0.945072
+1   22  i hesitated before buying a tivo because i was...   0.887382
+2   32  anyone that is thinking of purchasing a tivo u...   0.880467
+3   75  some thought hdtv would change the world of tv...   0.878532
+4   29  i think some of the folks writing reviews of t...   0.873583
+5   41  i am an early adopter of tivo and it has compl...   0.862545
+6   27  i knew from the moment i heard of the concept ...   0.840485
+7   38  i received a great birthday present in 2000 th...   0.816952
+8   70  yes i agree with the others this product is in...   0.809549
+9   73  wow i ve had my philips tivo unit since decemb...   0.799782
+10   8  i was an early adopter of tivo and paid price ...   0.767302
+11  50  you ll never regret buying this it s easy to u...   0.751158
+12  58  in the past twenty years i ve purchased thousa...   0.744071
+13  45  i found tivo to be everything i had hoped for ...   0.737898
+14  15  i absolutely loved my tivo it was great until ...   0.717343
+15  44  just wanted to put in my two cents about the r...   0.712696
+16  12  great product that makes the vcr a thing of th...   0.624382
+17  51  are you like me and tired of watching 20 minut...   0.616297
+
+step 1
+index added: 76
+percentage unclustered: 68.1818%
+
+	step 2
+
+		step 3
+		candidate index: 76 with core nodes: [16, 27, 70]
+			old information: 5746, gain: 0.8183140454056789
+
+    ind                                             review  relevance
+0   36  first off i want to say that i am completely s...   0.945072
+1   22  i hesitated before buying a tivo because i was...   0.887382
+2   32  anyone that is thinking of purchasing a tivo u...   0.880467
+3   75  some thought hdtv would change the world of tv...   0.878532
+4   29  i think some of the folks writing reviews of t...   0.873583
+5   41  i am an early adopter of tivo and it has compl...   0.862545
+6   27  i knew from the moment i heard of the concept ...   0.840485
+7   38  i received a great birthday present in 2000 th...   0.816952
+8   76  just to begin by replying to a previous review...   0.814360
+9   70  yes i agree with the others this product is in...   0.809549
+10  73  wow i ve had my philips tivo unit since decemb...   0.799782
+11   8  i was an early adopter of tivo and paid price ...   0.767302
+12  50  you ll never regret buying this it s easy to u...   0.751158
+13  58  in the past twenty years i ve purchased thousa...   0.744071
+14  45  i found tivo to be everything i had hoped for ...   0.737898
+15  15  i absolutely loved my tivo it was great until ...   0.717343
+16  44  just wanted to put in my two cents about the r...   0.712696
+17  12  great product that makes the vcr a thing of th...   0.624382
+18  51  are you like me and tired of watching 20 minut...   0.616297
+
+step 1
+index added: 77
+percentage unclustered: 68.1818%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 68.1818%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 58.1818%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 71.8182%
+
+	step 2
+
+		step 3
+		candidate index: 85 with core nodes: [6, 27, 70, 76]
+
+step 1
+index added: 86
+percentage unclustered: 69.0909%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 69.0909%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 69.0909%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 69.0909%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 69.0909%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 68.1818%
+
+	step 2
+
+		step 3
+		candidate index: 91 with core nodes: [6, 27, 70, 76]
+
+step 1
+index added: 92
+percentage unclustered: 71.8182%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 75.4545%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 72.7273%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 75.4545%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 75.4545%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 75.4545%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 74.5455%
+
+	step 2
+
+		step 3
+		candidate index: 99 with core nodes: [28, 31, 41, 99]
+			old information: 9360, gain: 0.9021974232782671
+
+    ind                                             review  relevance
+0   36  first off i want to say that i am completely s...   0.945072
+1   99  i bought the tivo machine with the thought tha...   0.891337
+2   22  i hesitated before buying a tivo because i was...   0.887382
+3   32  anyone that is thinking of purchasing a tivo u...   0.880467
+4   75  some thought hdtv would change the world of tv...   0.878532
+5   29  i think some of the folks writing reviews of t...   0.873583
+6   41  i am an early adopter of tivo and it has compl...   0.862545
+7   27  i knew from the moment i heard of the concept ...   0.840485
+8   38  i received a great birthday present in 2000 th...   0.816952
+9   76  just to begin by replying to a previous review...   0.814360
+10  70  yes i agree with the others this product is in...   0.809549
+11  73  wow i ve had my philips tivo unit since decemb...   0.799782
+12   8  i was an early adopter of tivo and paid price ...   0.767302
+13  50  you ll never regret buying this it s easy to u...   0.751158
+14  58  in the past twenty years i ve purchased thousa...   0.744071
+15  45  i found tivo to be everything i had hoped for ...   0.737898
+16  15  i absolutely loved my tivo it was great until ...   0.717343
+17  44  just wanted to put in my two cents about the r...   0.712696
+18  12  great product that makes the vcr a thing of th...   0.624382
+19  51  are you like me and tired of watching 20 minut...   0.616297
+
+step 1
+index added: 100
+percentage unclustered: 77.2727%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 73.6364%
+
+	step 2
+
+		step 3
+		candidate index: 101 with core nodes: [6, 27, 70]
+
+step 1
+index added: 102
+percentage unclustered: 73.6364%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 73.6364%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 73.6364%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 74.5455%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 74.5455%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 74.5455%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 74.5455%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 71.8182%
+
+	step 2
+
+--- 3019.77996468544 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 97.2727, 97.2727, 97.2727, 97.2727, 94.5455, 94.5455, 94.5455, 93.6364, 93.6364, 93.6364, 93.6364, 93.6364, 93.6364, 93.6364, 90.9091, 85.4545, 84.5455, 89.0909, 85.4545, 90.0, 83.6364, 86.3636, 89.0909, 85.4545, 82.7273, 75.4545, 75.4545, 74.5455, 73.6364, 80.0, 75.4545, 75.4545, 75.4545, 85.4545, 85.4545, 85.4545, 84.5455, 81.8182, 81.8182, 79.0909, 79.0909, 79.0909, 78.1818, 74.5455, 73.6364, 73.6364, 72.7273, 71.8182, 70.9091, 70.0, 69.0909, 71.8182, 75.4545, 73.6364, 72.7273, 78.1818, 78.1818, 78.1818, 78.1818, 78.1818, 79.0909, 79.0909, 76.3636, 73.6364, 73.6364, 72.7273, 72.7273, 71.8182, 68.1818, 68.1818, 68.1818, 58.1818, 72.7273, 72.7273, 72.7273, 72.7273, 72.7273, 71.8182, 69.0909, 69.0909, 69.0909, 69.0909, 69.0909, 68.1818, 71.8182, 72.7273, 75.4545, 72.7273, 75.4545, 75.4545, 75.4545, 74.5455, 77.2727, 73.6364, 73.6364, 73.6364, 73.6364, 74.5455, 74.5455, 74.5455, 74.5455, 71.8182], mean: 79.7559
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0         4  36   0.945072  first off i want to say that i am completely s...
+1        42  99   0.891337  i bought the tivo machine with the thought tha...
+2        57  22   0.887382  i hesitated before buying a tivo because i was...
+3        30  32   0.880467  anyone that is thinking of purchasing a tivo u...
+4        13  75   0.878532  some thought hdtv would change the world of tv...
+5        95  29   0.873583  i think some of the folks writing reviews of t...
+6        16  41   0.862545  i am an early adopter of tivo and it has compl...
+7        89  27   0.840485  i knew from the moment i heard of the concept ...
+8        71  38   0.816952  i received a great birthday present in 2000 th...
+9        26  76   0.814360  just to begin by replying to a previous review...
+10       67  70   0.809549  yes i agree with the others this product is in...
+11       65  73   0.799782  wow i ve had my philips tivo unit since decemb...
+12       45   8   0.767302  i was an early adopter of tivo and paid price ...
+13      102  50   0.751158  you ll never regret buying this it s easy to u...
+14       20  58   0.744071  in the past twenty years i ve purchased thousa...
+15      100  45   0.737898  i found tivo to be everything i had hoped for ...
+16       72  15   0.717343  i absolutely loved my tivo it was great until ...
+17       34  44   0.712696  just wanted to put in my two cents about the r...
+18       96  12   0.624382  great product that makes the vcr a thing of th...
+19       63  51   0.616297  are you like me and tired of watching 20 minut...

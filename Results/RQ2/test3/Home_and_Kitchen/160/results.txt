@@ -1,0 +1,1230 @@
+------- Category: Home_and_Kitchen -------
+Found asin_id: B000246GSE
+Shape:  (160, 7)
+Shape after:  (160, 7)
+
+
+Chosen product: B000246GSE has 160 reviews - True, it has 160 reviews
+
+Nr of stopwords in review: ['198/462', '56/116', '33/63', '160/308', '56/116', '156/320', '64/144', '499/1046', '39/77', '32/62', '18/36', '61/127', '32/72', '169/348', '47/97', '20/40', '55/124', '26/53', '85/203', '2/4', '83/161', '120/237', '67/128', '198/426', '36/74', '39/75', '75/159', '41/82', '98/215', '103/205', '331/632', '62/110', '136/277', '55/112', '432/898', '114/234', '46/82', '41/78', '86/184', '913/1800', '45/93', '79/166', '105/224', '94/200', '12/27', '160/364', '130/257', '129/237', '69/129', '81/180', '128/253', '231/451', '57/125', '244/534', '320/674', '113/258', '116/251', '56/113', '255/523', '314/654', '57/139', '97/188', '308/645', '215/465', '332/635', '54/105', '117/246', '75/154', '78/152', '93/192', '80/149', '54/101', '208/423', '259/514', '113/244', '523/1077', '132/271', '20/49', '36/74', '15/28', '91/165', '20/48', '5/18', '228/543', '71/137', '49/95', '46/86', '113/242', '42/83', '122/259', '136/283', '50/99', '53/109', '325/752', '108/195', '86/188', '40/95', '9/19', '21/45', '176/375', '62/124', '295/618', '19/41', '20/45', '19/34', '59/126', '36/81', '36/76', '105/194', '164/312', '0/12', '78/196', '48/111', '20/37', '26/57', '172/341', '19/56', '105/197', '36/85', '129/263', '18/36', '29/54', '189/416', '414/808', '134/279', '56/113', '167/404', '45/92', '55/110', '9/17', '43/80', '223/483', '49/83', '28/50', '120/230', '206/449', '92/166', '35/61', '96/178', '7/17', '118/235', '59/107', '65/135', '27/45', '57/111', '30/72', '102/209', '32/61', '130/283', '46/105', '44/91', '122/270', '53/128', '13/32', '31/60', '346/749', '62/143', '5/15', '27/46', '89/190'], on average: 0.4821
+Nr of stopwords in summary: ['3/5', '0/1', '0/3', '1/4', '2/6', '1/3', '3/8', '1/6', '0/2', '2/3', '7/18', '0/1', '2/4', '3/9', '0/2', '1/6', '0/2', '0/2', '2/3', '0/2', '3/10', '2/6', '5/15', '0/2', '2/12', '0/2', '5/12', '3/10', '3/16', '0/3', '4/9', '3/5', '2/6', '0/2', '6/12', '0/2', '3/6', '0/1', '0/3', '2/6', '4/6', '3/6', '6/11', '2/6', '1/3', '0/2', '0/6', '2/5', '0/3', '1/2', '2/5', '1/8', '1/5', '1/4', '1/4', '5/7', '1/3', '2/4', '2/7', '2/6', '1/5', '0/2', '2/4', '1/3', '2/6', '3/6', '1/3', '2/5', '0/3', '1/5', '4/8', '0/3', '3/7', '0/3', '2/4', '2/6', '1/5', '2/5', '5/8', '0/1', '2/6', '0/2', '3/9', '0/3', '2/3', '8/14', '1/6', '4/9', '3/9', '3/8', '3/9', '2/4', '2/6', '4/8', '1/3', '3/7', '1/5', '0/1', '1/2', '4/7', '0/1', '3/7', '0/2', '2/7', '4/5', '3/6', '1/3', '2/6', '2/4', '0/3', '1/12', '1/3', '2/5', '0/2', '0/4', '2/7', '0/2', '2/6', '1/3', '4/8', '0/2', '0/4', '6/8', '1/4', '2/5', '1/3', '1/2', '2/5', '0/4', '1/3', '4/7', '3/8', '0/2', '2/5', '2/4', '5/8', '0/2', '3/6', '2/5', '0/2', '0/3', '0/2', '1/4', '1/3', '5/9', '1/3', '1/6', '3/9', '0/3', '1/4', '2/3', '4/6', '1/2', '2/5', '0/3', '2/9', '0/1', '0/3', '1/3', '0/1'], on average: 0.2857
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 97.5%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [0, 6, 7, 10]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  10  the bentobox actually worked well as described...   0.443016
+
+step 1
+index added: 11
+percentage unclustered: 97.5%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 95.625%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [0, 5, 6, 7]
+
+step 1
+index added: 13
+percentage unclustered: 95.625%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [0, 5, 7, 13]
+			old information: 69, gain: 0.9988571996422538
+
+   ind                                             review  relevance
+0  13  this product is perfection my husband really n...   0.655262
+1  10  the bentobox actually worked well as described...   0.443016
+
+step 1
+index added: 14
+percentage unclustered: 95.625%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 97.5%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 97.5%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 97.5%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 96.875%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [5, 9, 13, 18]
+			old information: 1170, gain: 0.9429351802175291
+
+   ind                                             review  relevance
+0  18  i bought mr bento for my husband and he has be...   0.751962
+1  13  this product is perfection my husband really n...   0.655262
+2  10  the bentobox actually worked well as described...   0.443016
+
+step 1
+index added: 19
+percentage unclustered: 96.875%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 93.125%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [3, 5, 18]
+
+step 1
+index added: 21
+percentage unclustered: 92.5%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [3, 5, 18]
+
+step 1
+index added: 22
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 95.625%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [5, 18, 21, 26]
+			old information: 795, gain: 0.9367088607594937
+
+   ind                                             review  relevance
+0  18  i bought mr bento for my husband and he has be...   0.751962
+1  26  after having this lunch jar for two days i dis...   0.719640
+2  13  this product is perfection my husband really n...   0.655262
+3  10  the bentobox actually worked well as described...   0.443016
+
+step 1
+index added: 27
+percentage unclustered: 93.75%
+
+	step 2
+
+		step 3
+		candidate index: 27 with core nodes: [5, 18, 26]
+
+step 1
+index added: 28
+percentage unclustered: 93.75%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 93.75%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 93.75%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 93.75%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 93.75%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 93.75%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 91.875%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [5, 6, 18, 34]
+			old information: 4871, gain: 0.9879057387530322
+
+   ind                                             review  relevance
+0  34  okay people seems like there has been a lot of...   0.850399
+1  18  i bought mr bento for my husband and he has be...   0.751962
+2  26  after having this lunch jar for two days i dis...   0.719640
+3  13  this product is perfection my husband really n...   0.655262
+4  10  the bentobox actually worked well as described...   0.443016
+
+step 1
+index added: 35
+percentage unclustered: 91.875%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 91.875%
+
+	step 2
+
+		step 3
+		candidate index: 39 with core nodes: [5, 18, 34, 39]
+			old information: 18381, gain: 0.9886473967018714
+
+   ind                                             review  relevance
+0  39  at the time of this review i ve just finished ...   0.899464
+1  34  okay people seems like there has been a lot of...   0.850399
+2  18  i bought mr bento for my husband and he has be...   0.751962
+3  26  after having this lunch jar for two days i dis...   0.719640
+4  13  this product is perfection my husband really n...   0.655262
+5  10  the bentobox actually worked well as described...   0.443016
+
+step 1
+index added: 40
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 90.625%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 86.875%
+
+	step 2
+
+		step 3
+		candidate index: 42 with core nodes: [0, 30, 34, 39]
+
+step 1
+index added: 43
+percentage unclustered: 86.25%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [0, 30, 34, 39]
+
+step 1
+index added: 44
+percentage unclustered: 85.625%
+
+	step 2
+
+		step 3
+		candidate index: 44 with core nodes: [0, 30, 34, 39]
+
+step 1
+index added: 45
+percentage unclustered: 85.625%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 83.75%
+
+	step 2
+
+		step 3
+		candidate index: 46 with core nodes: [0, 30, 34, 39]
+
+step 1
+index added: 47
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [0, 5, 34, 39]
+
+step 1
+index added: 48
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 86.875%
+
+	step 2
+
+		step 3
+		candidate index: 51 with core nodes: [0, 5, 34, 39]
+			old information: 10267, gain: 0.8988223700418823
+
+   ind                                             review  relevance
+0  39  at the time of this review i ve just finished ...   0.899464
+1  34  okay people seems like there has been a lot of...   0.850399
+2  51  we had purchased the ms bento for our toddler ...   0.788446
+3  18  i bought mr bento for my husband and he has be...   0.751962
+4  26  after having this lunch jar for two days i dis...   0.719640
+5  13  this product is perfection my husband really n...   0.655262
+6  10  the bentobox actually worked well as described...   0.443016
+
+step 1
+index added: 52
+percentage unclustered: 86.875%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 86.875%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 86.25%
+
+	step 2
+
+		step 3
+		candidate index: 54 with core nodes: [0, 5, 34, 39]
+			old information: 14721, gain: 0.9350928787791941
+
+   ind                                             review  relevance
+0  39  at the time of this review i ve just finished ...   0.899464
+1  34  okay people seems like there has been a lot of...   0.850399
+2  54  the zojirushi mr bento is an excellent product...   0.828662
+3  51  we had purchased the ms bento for our toddler ...   0.788446
+4  18  i bought mr bento for my husband and he has be...   0.751962
+5  26  after having this lunch jar for two days i dis...   0.719640
+6  13  this product is perfection my husband really n...   0.655262
+7  10  the bentobox actually worked well as described...   0.443016
+
+step 1
+index added: 55
+percentage unclustered: 92.5%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 91.875%
+
+	step 2
+
+		step 3
+		candidate index: 56 with core nodes: [34, 39, 54, 56]
+			old information: 4666, gain: 0.8512828685258964
+
+   ind                                             review  relevance
+0  39  at the time of this review i ve just finished ...   0.899464
+1  34  okay people seems like there has been a lot of...   0.850399
+2  54  the zojirushi mr bento is an excellent product...   0.828662
+3  56  i think i was attracted to the idea of the mr ...   0.825029
+4  51  we had purchased the ms bento for our toddler ...   0.788446
+5  18  i bought mr bento for my husband and he has be...   0.751962
+6  26  after having this lunch jar for two days i dis...   0.719640
+7  13  this product is perfection my husband really n...   0.655262
+8  10  the bentobox actually worked well as described...   0.443016
+
+step 1
+index added: 57
+percentage unclustered: 91.875%
+
+	step 2
+
+step 1
+index added: 58
+percentage unclustered: 91.875%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 91.875%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 91.875%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 91.875%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 92.5%
+
+	step 2
+
+		step 3
+		candidate index: 62 with core nodes: [34, 39, 54, 56, 62]
+			old information: 18943, gain: 0.90879194954018
+
+   ind                                             review  relevance
+0  39  at the time of this review i ve just finished ...   0.899464
+1  62  leave it to the japanese to innovate sack lunc...   0.873133
+2  34  okay people seems like there has been a lot of...   0.850399
+3  54  the zojirushi mr bento is an excellent product...   0.828662
+4  56  i think i was attracted to the idea of the mr ...   0.825029
+5  51  we had purchased the ms bento for our toddler ...   0.788446
+6  18  i bought mr bento for my husband and he has be...   0.751962
+7  26  after having this lunch jar for two days i dis...   0.719640
+8  13  this product is perfection my husband really n...   0.655262
+9  10  the bentobox actually worked well as described...   0.443016
+
+step 1
+index added: 63
+percentage unclustered: 86.875%
+
+	step 2
+
+		step 3
+		candidate index: 63 with core nodes: [7, 34, 39]
+
+step 1
+index added: 64
+percentage unclustered: 88.125%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 86.875%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 84.375%
+
+	step 2
+
+		step 3
+		candidate index: 67 with core nodes: [7, 34, 39]
+
+step 1
+index added: 68
+percentage unclustered: 82.5%
+
+	step 2
+
+		step 3
+		candidate index: 68 with core nodes: [7, 34, 39]
+
+step 1
+index added: 69
+percentage unclustered: 82.5%
+
+	step 2
+
+		step 3
+		candidate index: 69 with core nodes: [7, 34, 39]
+
+step 1
+index added: 70
+percentage unclustered: 82.5%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 83.75%
+
+	step 2
+
+		step 3
+		candidate index: 75 with core nodes: [58, 62, 75]
+			old information: 24574, gain: 0.957589062278876
+
+    ind                                             review  relevance
+0   75  i do n t know what i did before lunch without ...   0.905666
+1   39  at the time of this review i ve just finished ...   0.899464
+2   62  leave it to the japanese to innovate sack lunc...   0.873133
+3   34  okay people seems like there has been a lot of...   0.850399
+4   54  the zojirushi mr bento is an excellent product...   0.828662
+5   56  i think i was attracted to the idea of the mr ...   0.825029
+6   51  we had purchased the ms bento for our toddler ...   0.788446
+7   18  i bought mr bento for my husband and he has be...   0.751962
+8   26  after having this lunch jar for two days i dis...   0.719640
+9   13  this product is perfection my husband really n...   0.655262
+10  10  the bentobox actually worked well as described...   0.443016
+
+step 1
+index added: 76
+percentage unclustered: 84.375%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 83.75%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 83.125%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 83.125%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 83.125%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 83.125%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 83.125%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 83.125%
+
+	step 2
+
+		step 3
+		candidate index: 83 with core nodes: [7, 39, 62, 75]
+			old information: 15237, gain: 0.8964547104034576
+
+    ind                                             review  relevance
+0   75  i do n t know what i did before lunch without ...   0.905666
+1   39  at the time of this review i ve just finished ...   0.899464
+2   62  leave it to the japanese to innovate sack lunc...   0.873133
+3   83  before buying mr bento i ve searched all the o...   0.867486
+4   34  okay people seems like there has been a lot of...   0.850399
+5   54  the zojirushi mr bento is an excellent product...   0.828662
+6   56  i think i was attracted to the idea of the mr ...   0.825029
+7   51  we had purchased the ms bento for our toddler ...   0.788446
+8   18  i bought mr bento for my husband and he has be...   0.751962
+9   26  after having this lunch jar for two days i dis...   0.719640
+10  13  this product is perfection my husband really n...   0.655262
+11  10  the bentobox actually worked well as described...   0.443016
+
+step 1
+index added: 84
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 84 with core nodes: [7, 39, 62, 75]
+
+step 1
+index added: 85
+percentage unclustered: 78.125%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 76.875%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 78.125%
+
+	step 2
+
+step 1
+index added: 88
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 77.5%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 75.625%
+
+	step 2
+
+		step 3
+		candidate index: 91 with core nodes: [7, 39, 62, 75]
+
+step 1
+index added: 92
+percentage unclustered: 75.625%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 75.0%
+
+	step 2
+
+		step 3
+		candidate index: 93 with core nodes: [7, 39, 62, 75]
+			old information: 18071, gain: 0.9360037680256112
+
+    ind                                             review  relevance
+0   75  i do n t know what i did before lunch without ...   0.905666
+1   39  at the time of this review i ve just finished ...   0.899464
+2   62  leave it to the japanese to innovate sack lunc...   0.873133
+3   83  before buying mr bento i ve searched all the o...   0.867486
+4   93  it s a great lunchbox if you adapt your menu t...   0.862355
+5   34  okay people seems like there has been a lot of...   0.850399
+6   54  the zojirushi mr bento is an excellent product...   0.828662
+7   56  i think i was attracted to the idea of the mr ...   0.825029
+8   51  we had purchased the ms bento for our toddler ...   0.788446
+9   18  i bought mr bento for my husband and he has be...   0.751962
+10  26  after having this lunch jar for two days i dis...   0.719640
+11  13  this product is perfection my husband really n...   0.655262
+12  10  the bentobox actually worked well as described...   0.443016
+
+step 1
+index added: 94
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 75.625%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 75.625%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 75.0%
+
+	step 2
+
+		step 3
+		candidate index: 105 with core nodes: [7, 39, 62, 75]
+
+step 1
+index added: 106
+percentage unclustered: 73.125%
+
+	step 2
+
+		step 3
+		candidate index: 106 with core nodes: [7, 39, 62, 75]
+
+step 1
+index added: 107
+percentage unclustered: 72.5%
+
+	step 2
+
+		step 3
+		candidate index: 107 with core nodes: [7, 39, 62, 75]
+
+step 1
+index added: 108
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 73.125%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 73.125%
+
+	step 2
+
+step 1
+index added: 119
+percentage unclustered: 73.125%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 74.375%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 74.375%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 74.375%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 74.375%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 74.375%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 128
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 71.875%
+
+	step 2
+
+step 1
+index added: 130
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 131
+percentage unclustered: 70.625%
+
+	step 2
+
+		step 3
+		candidate index: 131 with core nodes: [7, 39, 62, 75]
+			old information: 13710, gain: 0.8822195304244735
+
+     ind                                             review  relevance
+0    75  i do n t know what i did before lunch without ...   0.905666
+1    39  at the time of this review i ve just finished ...   0.899464
+2   131  i like to eat healthy home cooked food when tr...   0.876438
+3    62  leave it to the japanese to innovate sack lunc...   0.873133
+4    83  before buying mr bento i ve searched all the o...   0.867486
+5    93  it s a great lunchbox if you adapt your menu t...   0.862355
+6    34  okay people seems like there has been a lot of...   0.850399
+7    54  the zojirushi mr bento is an excellent product...   0.828662
+8    56  i think i was attracted to the idea of the mr ...   0.825029
+9    51  we had purchased the ms bento for our toddler ...   0.788446
+10   18  i bought mr bento for my husband and he has be...   0.751962
+11   26  after having this lunch jar for two days i dis...   0.719640
+12   13  this product is perfection my husband really n...   0.655262
+13   10  the bentobox actually worked well as described...   0.443016
+
+step 1
+index added: 132
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 132 with core nodes: [7, 39, 62, 75]
+
+step 1
+index added: 133
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 134
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 135
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 136
+percentage unclustered: 67.5%
+
+	step 2
+
+		step 3
+		candidate index: 136 with core nodes: [7, 39, 62, 75]
+
+step 1
+index added: 137
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 138
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 139
+percentage unclustered: 65.625%
+
+	step 2
+
+step 1
+index added: 140
+percentage unclustered: 65.0%
+
+	step 2
+
+		step 3
+		candidate index: 140 with core nodes: [7, 39, 62, 75]
+
+step 1
+index added: 141
+percentage unclustered: 70.625%
+
+	step 2
+
+step 1
+index added: 142
+percentage unclustered: 70.625%
+
+	step 2
+
+step 1
+index added: 143
+percentage unclustered: 70.625%
+
+	step 2
+
+step 1
+index added: 144
+percentage unclustered: 70.625%
+
+	step 2
+
+step 1
+index added: 145
+percentage unclustered: 68.75%
+
+	step 2
+
+		step 3
+		candidate index: 145 with core nodes: [7, 39, 54, 62, 83, 93, 131]
+
+step 1
+index added: 146
+percentage unclustered: 68.75%
+
+	step 2
+
+step 1
+index added: 147
+percentage unclustered: 69.375%
+
+	step 2
+
+		step 3
+		candidate index: 147 with core nodes: [7, 34, 39, 54, 62, 64, 93, 131]
+
+step 1
+index added: 148
+percentage unclustered: 69.375%
+
+	step 2
+
+step 1
+index added: 149
+percentage unclustered: 69.375%
+
+	step 2
+
+step 1
+index added: 150
+percentage unclustered: 68.75%
+
+	step 2
+
+step 1
+index added: 151
+percentage unclustered: 68.75%
+
+	step 2
+
+step 1
+index added: 152
+percentage unclustered: 68.75%
+
+	step 2
+
+step 1
+index added: 153
+percentage unclustered: 68.75%
+
+	step 2
+
+step 1
+index added: 154
+percentage unclustered: 68.75%
+
+	step 2
+
+step 1
+index added: 155
+percentage unclustered: 68.75%
+
+	step 2
+
+step 1
+index added: 156
+percentage unclustered: 68.125%
+
+	step 2
+
+		step 3
+		candidate index: 156 with core nodes: [7, 34, 39, 54, 62, 64, 93, 131]
+
+step 1
+index added: 157
+percentage unclustered: 67.5%
+
+	step 2
+
+		step 3
+		candidate index: 157 with core nodes: [7, 34, 39, 54, 62, 64, 93, 131]
+
+step 1
+index added: 158
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 159
+percentage unclustered: 67.5%
+
+	step 2
+
+--- 4154.730860233307 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 97.5, 97.5, 95.625, 95.625, 95.625, 97.5, 97.5, 97.5, 96.875, 96.875, 93.125, 92.5, 96.25, 96.25, 96.25, 96.25, 95.625, 93.75, 93.75, 93.75, 93.75, 93.75, 93.75, 93.75, 91.875, 91.875, 92.5, 92.5, 92.5, 91.875, 90.625, 90.625, 86.875, 86.25, 85.625, 85.625, 83.75, 85.0, 85.0, 85.0, 87.5, 86.875, 86.875, 86.875, 86.25, 92.5, 91.875, 91.875, 91.875, 91.875, 91.875, 91.875, 92.5, 86.875, 88.125, 86.875, 85.0, 84.375, 82.5, 82.5, 82.5, 87.5, 87.5, 87.5, 87.5, 83.75, 84.375, 83.75, 83.125, 83.125, 83.125, 83.125, 83.125, 83.125, 80.0, 78.125, 76.875, 78.125, 77.5, 77.5, 76.25, 75.625, 75.625, 75.0, 75.0, 75.0, 75.0, 75.625, 75.0, 75.0, 76.25, 76.25, 76.25, 76.25, 75.625, 75.0, 73.125, 72.5, 72.5, 72.5, 72.5, 72.5, 72.5, 72.5, 72.5, 72.5, 72.5, 73.125, 73.125, 73.125, 74.375, 74.375, 74.375, 74.375, 74.375, 75.0, 75.0, 75.0, 72.5, 71.875, 72.5, 70.625, 70.0, 70.0, 70.0, 70.0, 67.5, 67.5, 67.5, 65.625, 65.0, 70.625, 70.625, 70.625, 70.625, 68.75, 68.75, 69.375, 69.375, 69.375, 68.75, 68.75, 68.75, 68.75, 68.75, 68.75, 68.125, 67.5, 67.5, 67.5], mean: 82.0332
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0        49   75   0.905666  i do n t know what i did before lunch without ...
+1        71   39   0.899464  at the time of this review i ve just finished ...
+2        23  131   0.876438  i like to eat healthy home cooked food when tr...
+3        88   62   0.873133  leave it to the japanese to innovate sack lunc...
+4        40   83   0.867486  before buying mr bento i ve searched all the o...
+5         1   93   0.862355  it s a great lunchbox if you adapt your menu t...
+6        65   34   0.850399  okay people seems like there has been a lot of...
+7       108   54   0.828662  the zojirushi mr bento is an excellent product...
+8       124   56   0.825029  i think i was attracted to the idea of the mr ...
+9        47   51   0.788446  we had purchased the ms bento for our toddler ...
+10        9   18   0.751962  i bought mr bento for my husband and he has be...
+11       94   26   0.719640  after having this lunch jar for two days i dis...
+12       76   13   0.655262  this product is perfection my husband really n...
+13       34   10   0.443016  the bentobox actually worked well as described...

@@ -1,0 +1,748 @@
+------- Category: Electronics -------
+Found asin_id: B0000EI9VR
+Shape:  (80, 7)
+Shape after:  (80, 7)
+
+
+Chosen product: B0000EI9VR has 80 reviews - True, it has 80 reviews
+
+Nr of stopwords in review: ['71/150', '55/125', '102/207', '129/237', '219/455', '144/398', '42/82', '289/580', '60/133', '31/75', '138/266', '863/1685', '126/245', '239/501', '50/109', '166/324', '416/803', '81/164', '327/639', '178/339', '218/497', '173/362', '248/428', '137/268', '482/1116', '502/1034', '122/223', '511/936', '234/514', '291/590', '359/670', '117/239', '39/79', '132/273', '154/311', '287/555', '294/648', '208/438', '105/246', '243/487', '186/393', '166/367', '82/162', '180/392', '159/322', '98/234', '286/576', '155/307', '195/407', '221/428', '104/270', '101/188', '118/269', '238/496', '92/187', '358/770', '212/406', '183/340', '186/368', '109/279', '306/643', '142/290', '98/219', '117/228', '498/1077', '122/275', '128/269', '91/170', '178/363', '105/305', '331/636', '107/200', '559/1208', '210/393', '331/696', '49/102', '144/275', '199/390', '92/265', '74/132'], on average: 0.4841
+Nr of stopwords in summary: ['3/6', '2/6', '1/4', '3/6', '4/6', '1/8', '3/7', '5/7', '3/7', '0/4', '6/12', '4/5', '0/3', '2/9', '1/4', '0/5', '6/9', '0/7', '3/9', '0/2', '2/4', '5/9', '3/6', '0/1', '2/8', '2/5', '1/3', '7/9', '2/9', '0/3', '2/5', '0/1', '7/10', '3/5', '3/6', '2/4', '3/7', '2/4', '0/2', '3/6', '6/10', '3/5', '0/3', '1/2', '2/5', '5/10', '0/1', '3/7', '0/4', '5/9', '1/3', '1/8', '1/3', '3/9', '7/12', '5/11', '0/2', '2/4', '3/8', '1/4', '0/2', '1/3', '4/7', '1/3', '4/9', '4/7', '0/4', '1/2', '2/5', '0/4', '2/3', '2/5', '7/12', '6/10', '3/7', '0/6', '4/10', '1/2', '3/7', '0/1'], on average: 0.3552
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 95.0%
+
+	step 2
+
+		step 3
+		candidate index: 4 with core nodes: [0, 1, 3, 4]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   4  i bought this mp3 player for 3 reasons n n1 th...    0.78519
+
+step 1
+index added: 5
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 6
+percentage unclustered: 93.75%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [0, 1, 3, 4]
+			old information: 262, gain: 0.9211080999698886
+
+   ind                                             review  relevance
+0   4  i bought this mp3 player for 3 reasons n n1 th...   0.785190
+1   6  you can read all the reviews about the specs a...   0.595295
+
+step 1
+index added: 7
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 93.75%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [3, 4, 6, 10]
+			old information: 1971, gain: 0.9440771740672436
+
+   ind                                             review  relevance
+0   4  i bought this mp3 player for 3 reasons n n1 th...   0.785190
+1  10  ive had this player for about 6 months now it ...   0.756733
+2   6  you can read all the reviews about the specs a...   0.595295
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 100.0%
+
+step 1
+index added: 13
+percentage unclustered: 100.0%
+
+step 1
+index added: 14
+percentage unclustered: 100.0%
+
+step 1
+index added: 15
+percentage unclustered: 82.5%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [2, 3, 7, 11]
+
+step 1
+index added: 16
+percentage unclustered: 81.25%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [2, 7, 11, 16]
+			old information: 5086, gain: 0.9842051161014028
+
+   ind                                             review  relevance
+0  16  i have owned my ihp 120 same as the h120 just ...   0.884356
+1   4  i bought this mp3 player for 3 reasons n n1 th...   0.785190
+2  10  ive had this player for about 6 months now it ...   0.756733
+3   6  you can read all the reviews about the specs a...   0.595295
+
+step 1
+index added: 17
+percentage unclustered: 81.25%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 87.5%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [2, 3, 15, 18]
+			old information: 9089, gain: 0.9554113254938899
+
+   ind                                             review  relevance
+0  18  after about a month of endless research online...   0.901308
+1  16  i have owned my ihp 120 same as the h120 just ...   0.884356
+2   4  i bought this mp3 player for 3 reasons n n1 th...   0.785190
+3  10  ive had this player for about 6 months now it ...   0.756733
+4   6  you can read all the reviews about the specs a...   0.595295
+
+step 1
+index added: 19
+percentage unclustered: 87.5%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 83.75%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [4, 13, 20]
+			old information: 9272, gain: 0.9247744531706368
+
+   ind                                             review  relevance
+0  18  after about a month of endless research online...   0.901308
+1  16  i have owned my ihp 120 same as the h120 just ...   0.884356
+2  20  i ll admit it the ihp 120 was n t the first hd...   0.796750
+3   4  i bought this mp3 player for 3 reasons n n1 th...   0.785190
+4  10  ive had this player for about 6 months now it ...   0.756733
+5   6  you can read all the reviews about the specs a...   0.595295
+
+step 1
+index added: 21
+percentage unclustered: 83.75%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 83.75%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 83.75%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [2, 3, 7, 18, 24]
+			old information: 13028, gain: 0.9790603854252053
+
+   ind                                             review  relevance
+0  18  after about a month of endless research online...   0.901308
+1  24  since amazon wo n t let me update my previous ...   0.889715
+2  16  i have owned my ihp 120 same as the h120 just ...   0.884356
+3  20  i ll admit it the ihp 120 was n t the first hd...   0.796750
+4   4  i bought this mp3 player for 3 reasons n n1 th...   0.785190
+5  10  ive had this player for about 6 months now it ...   0.756733
+6   6  you can read all the reviews about the specs a...   0.595295
+
+step 1
+index added: 25
+percentage unclustered: 83.75%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 78.75%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 78.75%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 34 with core nodes: [4, 7, 13, 16, 18, 20, 24, 25, 27, 34]
+			old information: 5582, gain: 0.8842028835183072
+
+   ind                                             review  relevance
+0  18  after about a month of endless research online...   0.901308
+1  24  since amazon wo n t let me update my previous ...   0.889715
+2  16  i have owned my ihp 120 same as the h120 just ...   0.884356
+3  34  and settled on the iriver i have not been disa...   0.859084
+4  20  i ll admit it the ihp 120 was n t the first hd...   0.796750
+5   4  i bought this mp3 player for 3 reasons n n1 th...   0.785190
+6  10  ive had this player for about 6 months now it ...   0.756733
+7   6  you can read all the reviews about the specs a...   0.595295
+
+step 1
+index added: 35
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 68.75%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [4, 7, 13, 16, 18, 20, 25, 27, 34]
+			old information: 13656, gain: 0.934856030682924
+
+   ind                                             review  relevance
+0  18  after about a month of endless research online...   0.901308
+1  24  since amazon wo n t let me update my previous ...   0.889715
+2  16  i have owned my ihp 120 same as the h120 just ...   0.884356
+3  34  and settled on the iriver i have not been disa...   0.859084
+4  36  let me begin my stating that the iriver hardwa...   0.855181
+5  20  i ll admit it the ihp 120 was n t the first hd...   0.796750
+6   4  i bought this mp3 player for 3 reasons n n1 th...   0.785190
+7  10  ive had this player for about 6 months now it ...   0.756733
+8   6  you can read all the reviews about the specs a...   0.595295
+
+step 1
+index added: 37
+percentage unclustered: 67.5%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [4, 7, 13, 16, 18, 25, 27, 34]
+			old information: 7550, gain: 0.9211101010417646
+
+   ind                                             review  relevance
+0  18  after about a month of endless research online...   0.901308
+1  24  since amazon wo n t let me update my previous ...   0.889715
+2  16  i have owned my ihp 120 same as the h120 just ...   0.884356
+3  37  i recently bought the iriver ihp 120 h120 at b...   0.866978
+4  34  and settled on the iriver i have not been disa...   0.859084
+5  36  let me begin my stating that the iriver hardwa...   0.855181
+6  20  i ll admit it the ihp 120 was n t the first hd...   0.796750
+7   4  i bought this mp3 player for 3 reasons n n1 th...   0.785190
+8  10  ive had this player for about 6 months now it ...   0.756733
+9   6  you can read all the reviews about the specs a...   0.595295
+
+step 1
+index added: 38
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 68.75%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 68.75%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 65.0%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [13, 27, 30, 34]
+
+step 1
+index added: 44
+percentage unclustered: 63.75%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 62.5%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 62.5%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 62.5%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 65.0%
+
+	step 2
+
+		step 3
+		candidate index: 51 with core nodes: [3, 4, 7, 13, 16, 18, 25, 27, 34, 37]
+
+step 1
+index added: 52
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 63.75%
+
+	step 2
+
+		step 3
+		candidate index: 54 with core nodes: [3, 4, 7, 13, 16, 18, 25, 27, 34, 37]
+
+step 1
+index added: 55
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 68.75%
+
+	step 2
+
+		step 3
+		candidate index: 56 with core nodes: [7, 36, 56]
+			old information: 8988, gain: 0.890676883780332
+
+    ind                                             review  relevance
+0   18  after about a month of endless research online...   0.901308
+1   24  since amazon wo n t let me update my previous ...   0.889715
+2   16  i have owned my ihp 120 same as the h120 just ...   0.884356
+3   37  i recently bought the iriver ihp 120 h120 at b...   0.866978
+4   34  and settled on the iriver i have not been disa...   0.859084
+5   36  let me begin my stating that the iriver hardwa...   0.855181
+6   56  i have read most of the reviews for this produ...   0.850300
+7   20  i ll admit it the ihp 120 was n t the first hd...   0.796750
+8    4  i bought this mp3 player for 3 reasons n n1 th...   0.785190
+9   10  ive had this player for about 6 months now it ...   0.756733
+10   6  you can read all the reviews about the specs a...   0.595295
+
+step 1
+index added: 57
+percentage unclustered: 67.5%
+
+	step 2
+
+		step 3
+		candidate index: 57 with core nodes: [10, 47, 57]
+			old information: 7644, gain: 0.8673607496095783
+
+    ind                                             review  relevance
+0   18  after about a month of endless research online...   0.901308
+1   24  since amazon wo n t let me update my previous ...   0.889715
+2   16  i have owned my ihp 120 same as the h120 just ...   0.884356
+3   37  i recently bought the iriver ihp 120 h120 at b...   0.866978
+4   34  and settled on the iriver i have not been disa...   0.859084
+5   36  let me begin my stating that the iriver hardwa...   0.855181
+6   56  i have read most of the reviews for this produ...   0.850300
+7   57  i looked for a long time at mp3 players and i ...   0.809479
+8   20  i ll admit it the ihp 120 was n t the first hd...   0.796750
+9    4  i bought this mp3 player for 3 reasons n n1 th...   0.785190
+10  10  ive had this player for about 6 months now it ...   0.756733
+11   6  you can read all the reviews about the specs a...   0.595295
+
+step 1
+index added: 58
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 66.25%
+
+	step 2
+
+		step 3
+		candidate index: 59 with core nodes: [4, 20, 25]
+			old information: 7185, gain: 0.814728862071633
+
+    ind                                             review  relevance
+0   18  after about a month of endless research online...   0.901308
+1   24  since amazon wo n t let me update my previous ...   0.889715
+2   16  i have owned my ihp 120 same as the h120 just ...   0.884356
+3   37  i recently bought the iriver ihp 120 h120 at b...   0.866978
+4   34  and settled on the iriver i have not been disa...   0.859084
+5   36  let me begin my stating that the iriver hardwa...   0.855181
+6   56  i have read most of the reviews for this produ...   0.850300
+7   57  i looked for a long time at mp3 players and i ...   0.809479
+8   20  i ll admit it the ihp 120 was n t the first hd...   0.796750
+9    4  i bought this mp3 player for 3 reasons n n1 th...   0.785190
+10  59  positives n slick lcd remote you control every...   0.772266
+11  10  ive had this player for about 6 months now it ...   0.756733
+12   6  you can read all the reviews about the specs a...   0.595295
+
+step 1
+index added: 60
+percentage unclustered: 66.25%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 73.75%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 73.75%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 72.5%
+
+	step 2
+
+		step 3
+		candidate index: 64 with core nodes: [25, 37, 64]
+			old information: 28305, gain: 0.9511499311387477
+
+    ind                                             review  relevance
+0   64  i could n t wait to recieve this hd player for...   0.928794
+1   18  after about a month of endless research online...   0.901308
+2   24  since amazon wo n t let me update my previous ...   0.889715
+3   16  i have owned my ihp 120 same as the h120 just ...   0.884356
+4   37  i recently bought the iriver ihp 120 h120 at b...   0.866978
+5   34  and settled on the iriver i have not been disa...   0.859084
+6   36  let me begin my stating that the iriver hardwa...   0.855181
+7   56  i have read most of the reviews for this produ...   0.850300
+8   57  i looked for a long time at mp3 players and i ...   0.809479
+9   20  i ll admit it the ihp 120 was n t the first hd...   0.796750
+10   4  i bought this mp3 player for 3 reasons n n1 th...   0.785190
+11  59  positives n slick lcd remote you control every...   0.772266
+12  10  ive had this player for about 6 months now it ...   0.756733
+13   6  you can read all the reviews about the specs a...   0.595295
+
+step 1
+index added: 65
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 67.5%
+
+	step 2
+
+		step 3
+		candidate index: 67 with core nodes: [25, 37, 64]
+
+step 1
+index added: 68
+percentage unclustered: 67.5%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 73.75%
+
+	step 2
+
+		step 3
+		candidate index: 72 with core nodes: [4, 20, 25, 72]
+			old information: 36777, gain: 0.9495533779223844
+
+    ind                                             review  relevance
+0   64  i could n t wait to recieve this hd player for...   0.928794
+1   18  after about a month of endless research online...   0.901308
+2   72  i ve been using this player and it s great alt...   0.894997
+3   24  since amazon wo n t let me update my previous ...   0.889715
+4   16  i have owned my ihp 120 same as the h120 just ...   0.884356
+5   37  i recently bought the iriver ihp 120 h120 at b...   0.866978
+6   34  and settled on the iriver i have not been disa...   0.859084
+7   36  let me begin my stating that the iriver hardwa...   0.855181
+8   56  i have read most of the reviews for this produ...   0.850300
+9   57  i looked for a long time at mp3 players and i ...   0.809479
+10  20  i ll admit it the ihp 120 was n t the first hd...   0.796750
+11   4  i bought this mp3 player for 3 reasons n n1 th...   0.785190
+12  59  positives n slick lcd remote you control every...   0.772266
+13  10  ive had this player for about 6 months now it ...   0.756733
+14   6  you can read all the reviews about the specs a...   0.595295
+
+step 1
+index added: 73
+percentage unclustered: 72.5%
+
+	step 2
+
+		step 3
+		candidate index: 73 with core nodes: [4, 25, 72, 73]
+			old information: 12871, gain: 0.8329049176922677
+
+    ind                                             review  relevance
+0   64  i could n t wait to recieve this hd player for...   0.928794
+1   18  after about a month of endless research online...   0.901308
+2   72  i ve been using this player and it s great alt...   0.894997
+3   73  dont get me wrong the ipod is great it is by f...   0.891575
+4   24  since amazon wo n t let me update my previous ...   0.889715
+5   16  i have owned my ihp 120 same as the h120 just ...   0.884356
+6   37  i recently bought the iriver ihp 120 h120 at b...   0.866978
+7   34  and settled on the iriver i have not been disa...   0.859084
+8   36  let me begin my stating that the iriver hardwa...   0.855181
+9   56  i have read most of the reviews for this produ...   0.850300
+10  57  i looked for a long time at mp3 players and i ...   0.809479
+11  20  i ll admit it the ihp 120 was n t the first hd...   0.796750
+12   4  i bought this mp3 player for 3 reasons n n1 th...   0.785190
+13  59  positives n slick lcd remote you control every...   0.772266
+14  10  ive had this player for about 6 months now it ...   0.756733
+15   6  you can read all the reviews about the specs a...   0.595295
+
+step 1
+index added: 74
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 65.0%
+
+	step 2
+
+		step 3
+		candidate index: 76 with core nodes: [3, 7, 18, 25, 36, 55, 56, 73]
+
+step 1
+index added: 77
+percentage unclustered: 61.25%
+
+	step 2
+
+		step 3
+		candidate index: 77 with core nodes: [3, 7, 18, 25, 36, 55, 56, 73]
+
+step 1
+index added: 78
+percentage unclustered: 60.0%
+
+	step 2
+
+		step 3
+		candidate index: 78 with core nodes: [3, 7, 18, 25, 36, 55, 56, 73]
+
+step 1
+index added: 79
+percentage unclustered: 60.0%
+
+	step 2
+
+--- 6893.214567184448 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 95.0, 95.0, 93.75, 95.0, 95.0, 95.0, 93.75, 100.0, 100.0, 100.0, 100.0, 82.5, 81.25, 81.25, 87.5, 87.5, 83.75, 83.75, 83.75, 85.0, 83.75, 83.75, 78.75, 78.75, 76.25, 76.25, 76.25, 76.25, 76.25, 75.0, 70.0, 70.0, 68.75, 67.5, 67.5, 68.75, 68.75, 66.25, 66.25, 65.0, 63.75, 62.5, 62.5, 62.5, 66.25, 66.25, 66.25, 65.0, 65.0, 65.0, 63.75, 72.5, 68.75, 67.5, 67.5, 66.25, 66.25, 67.5, 73.75, 73.75, 72.5, 72.5, 72.5, 67.5, 67.5, 75.0, 75.0, 75.0, 73.75, 72.5, 72.5, 72.5, 65.0, 61.25, 60.0, 60.0], mean: 75.9776
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        13  64   0.928794  i could n t wait to recieve this hd player for...
+1        43  18   0.901308  after about a month of endless research online...
+2         5  72   0.894997  i ve been using this player and it s great alt...
+3         2  73   0.891575  dont get me wrong the ipod is great it is by f...
+4        18  24   0.889715  since amazon wo n t let me update my previous ...
+5        36  16   0.884356  i have owned my ihp 120 same as the h120 just ...
+6         1  37   0.866978  i recently bought the iriver ihp 120 h120 at b...
+7        73  34   0.859084  and settled on the iriver i have not been disa...
+8         9  36   0.855181  let me begin my stating that the iriver hardwa...
+9        53  56   0.850300  i have read most of the reviews for this produ...
+10       50  57   0.809479  i looked for a long time at mp3 players and i ...
+11       26  20   0.796750  i ll admit it the ihp 120 was n t the first hd...
+12       49   4   0.785190  i bought this mp3 player for 3 reasons n n1 th...
+13       75  59   0.772266  positives n slick lcd remote you control every...
+14       55  10   0.756733  ive had this player for about 6 months now it ...
+15       44   6   0.595295  you can read all the reviews about the specs a...

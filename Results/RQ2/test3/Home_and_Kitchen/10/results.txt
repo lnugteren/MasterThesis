@@ -1,0 +1,62 @@
+------- Category: Home_and_Kitchen -------
+Found asin_id: 9900493486
+Shape:  (10, 7)
+Shape after:  (10, 7)
+
+
+Chosen product: 9900493486 has 10 reviews - True, it has 10 reviews
+
+Nr of stopwords in review: ['22/42', '18/36', '37/66', '60/122', '55/104', '31/57', '79/217', '50/97', '93/161', '82/140'], on average: 0.5192
+Nr of stopwords in summary: ['0/1', '0/1', '1/2', '1/2', '6/10', '0/2', '2/4', '0/5', '5/6', '3/4'], on average: 0.3683
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [4, 8, 9]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   9  if you are entertaining the notion to take a b...   0.679816
+
+--- 1.7343778610229492 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 70.0], mean: 96.25
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0        8   9   0.679816  if you are entertaining the notion to take a b...

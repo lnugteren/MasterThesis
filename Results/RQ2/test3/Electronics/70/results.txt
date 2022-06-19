@@ -1,0 +1,577 @@
+------- Category: Electronics -------
+Found asin_id: B00005N5WU
+Shape:  (70, 7)
+Shape after:  (70, 7)
+
+
+Chosen product: B00005N5WU has 70 reviews - True, it has 70 reviews
+
+Nr of stopwords in review: ['27/52', '42/76', '19/40', '270/550', '135/277', '124/293', '113/263', '85/157', '137/316', '67/111', '148/380', '188/372', '40/90', '39/75', '50/95', '404/864', '110/225', '52/98', '50/123', '31/98', '37/65', '18/45', '32/97', '91/174', '21/44', '675/1336', '62/132', '60/119', '277/598', '40/93', '134/259', '56/125', '130/257', '49/124', '174/367', '99/193', '76/164', '58/137', '73/140', '164/318', '118/254', '146/287', '29/55', '137/256', '81/171', '101/221', '70/186', '48/85', '133/254', '187/393', '24/53', '116/231', '26/54', '27/53', '68/138', '175/338', '103/197', '21/45', '481/974', '191/376', '31/54', '108/201', '119/240', '26/49', '19/30', '43/106', '14/54', '64/149', '2/12', '13/27'], on average: 0.4767
+Nr of stopwords in summary: ['0/4', '0/2', '2/4', '3/8', '0/3', '1/3', '0/6', '1/5', '3/9', '1/4', '0/2', '3/9', '0/2', '8/12', '3/8', '7/14', '1/4', '2/7', '3/12', '9/24', '0/2', '0/4', '2/5', '0/2', '1/4', '0/2', '0/6', '0/1', '4/12', '0/4', '2/6', '2/7', '3/8', '1/4', '2/5', '2/5', '1/5', '5/9', '2/5', '1/5', '2/5', '0/1', '1/4', '1/4', '0/3', '3/7', '2/5', '0/1', '4/7', '1/3', '0/2', '0/2', '0/2', '1/4', '2/3', '2/7', '0/3', '0/3', '1/6', '1/5', '2/5', '1/4', '1/7', '0/2', '0/3', '2/5', '1/4', '1/7', '1/6', '2/3'], on average: 0.229
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 95.7143%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [6, 7, 8]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   8  installed this radio on my 2009 wrangler 2 doo...   0.607283
+
+step 1
+index added: 9
+percentage unclustered: 95.7143%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 95.7143%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [7, 8, 9, 11]
+			old information: 1853, gain: 0.9731472625568791
+
+   ind                                             review  relevance
+0  11  the cb radio is packed with a lot of great fea...   0.844873
+1   8  installed this radio on my 2009 wrangler 2 doo...   0.607283
+
+step 1
+index added: 12
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 88.5714%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [7, 8, 9, 11]
+			old information: 594, gain: 0.8669652855543113
+
+   ind                                             review  relevance
+0  11  the cb radio is packed with a lot of great fea...   0.844873
+1  14  this cb radio works great and is very simple t...   0.633629
+2   8  installed this radio on my 2009 wrangler 2 doo...   0.607283
+
+step 1
+index added: 15
+percentage unclustered: 87.1429%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [8, 9, 11, 15]
+			old information: 5172, gain: 0.9861272048409939
+
+   ind                                             review  relevance
+0  11  the cb radio is packed with a lot of great fea...   0.844873
+1  15  this radio is only good for the weather radio ...   0.794611
+2  14  this cb radio works great and is very simple t...   0.633629
+3   8  installed this radio on my 2009 wrangler 2 doo...   0.607283
+
+step 1
+index added: 16
+percentage unclustered: 85.7143%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [8, 9, 11, 15]
+			old information: 2152, gain: 0.9146031746031746
+
+   ind                                             review  relevance
+0  11  the cb radio is packed with a lot of great fea...   0.844873
+1  15  this radio is only good for the weather radio ...   0.794611
+2  16  i ve been using it for a while now and i like ...   0.734361
+3  14  this cb radio works great and is very simple t...   0.633629
+4   8  installed this radio on my 2009 wrangler 2 doo...   0.607283
+
+step 1
+index added: 17
+percentage unclustered: 82.8571%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [3, 11, 15]
+
+step 1
+index added: 18
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 81.4286%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [3, 11, 15]
+
+step 1
+index added: 20
+percentage unclustered: 81.4286%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 82.8571%
+
+	step 2
+
+		step 3
+		candidate index: 21 with core nodes: [3, 8, 11, 15]
+
+step 1
+index added: 22
+percentage unclustered: 88.5714%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [1, 3, 5, 8]
+
+step 1
+index added: 23
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 88.5714%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [1, 3, 5, 28]
+			old information: 7817, gain: 0.9562080189128475
+
+   ind                                             review  relevance
+0  28  works great as a cb radio and noaa weather rad...   0.880340
+1  11  the cb radio is packed with a lot of great fea...   0.844873
+2  15  this radio is only good for the weather radio ...   0.794611
+3  16  i ve been using it for a while now and i like ...   0.734361
+4  14  this cb radio works great and is very simple t...   0.633629
+5   8  installed this radio on my 2009 wrangler 2 doo...   0.607283
+
+step 1
+index added: 29
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 85.7143%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [3, 15, 28, 30]
+			old information: 3763, gain: 0.8873724222561432
+
+   ind                                             review  relevance
+0  28  works great as a cb radio and noaa weather rad...   0.880340
+1  11  the cb radio is packed with a lot of great fea...   0.844873
+2  30  works fine i like all of the features that i v...   0.815423
+3  15  this radio is only good for the weather radio ...   0.794611
+4  16  i ve been using it for a while now and i like ...   0.734361
+5  14  this cb radio works great and is very simple t...   0.633629
+6   8  installed this radio on my 2009 wrangler 2 doo...   0.607283
+
+step 1
+index added: 31
+percentage unclustered: 85.7143%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 85.7143%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 85.7143%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 92.8571%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 92.8571%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [1, 5, 21, 36]
+			old information: 2915, gain: 0.7819093221607063
+
+   ind                                             review  relevance
+0  28  works great as a cb radio and noaa weather rad...   0.880340
+1  11  the cb radio is packed with a lot of great fea...   0.844873
+2  30  works fine i like all of the features that i v...   0.815423
+3  15  this radio is only good for the weather radio ...   0.794611
+4  16  i ve been using it for a while now and i like ...   0.734361
+5  36  i have had these installed in every vehicle ow...   0.678846
+6  14  this cb radio works great and is very simple t...   0.633629
+7   8  installed this radio on my 2009 wrangler 2 doo...   0.607283
+
+step 1
+index added: 37
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 91.4286%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [5, 21, 36, 45]
+			old information: 2980, gain: 0.8774167009461127
+
+   ind                                             review  relevance
+0  28  works great as a cb radio and noaa weather rad...   0.880340
+1  11  the cb radio is packed with a lot of great fea...   0.844873
+2  30  works fine i like all of the features that i v...   0.815423
+3  15  this radio is only good for the weather radio ...   0.794611
+4  16  i ve been using it for a while now and i like ...   0.734361
+5  36  i have had these installed in every vehicle ow...   0.678846
+6  45  i have been using cb s for over 20 years this ...   0.660805
+7  14  this cb radio works great and is very simple t...   0.633629
+8   8  installed this radio on my 2009 wrangler 2 doo...   0.607283
+
+step 1
+index added: 46
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 88.5714%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 82.8571%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 77.1429%
+
+	step 2
+
+		step 3
+		candidate index: 55 with core nodes: [5, 25, 35, 55]
+			old information: 4970, gain: 0.9127350622443067
+
+   ind                                             review  relevance
+0  28  works great as a cb radio and noaa weather rad...   0.880340
+1  11  the cb radio is packed with a lot of great fea...   0.844873
+2  55  being a member of a local miata club it is ver...   0.841315
+3  30  works fine i like all of the features that i v...   0.815423
+4  15  this radio is only good for the weather radio ...   0.794611
+5  16  i ve been using it for a while now and i like ...   0.734361
+6  36  i have had these installed in every vehicle ow...   0.678846
+7  45  i have been using cb s for over 20 years this ...   0.660805
+8  14  this cb radio works great and is very simple t...   0.633629
+9   8  installed this radio on my 2009 wrangler 2 doo...   0.607283
+
+step 1
+index added: 56
+percentage unclustered: 77.1429%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 75.71430000000001%
+
+	step 2
+
+		step 3
+		candidate index: 57 with core nodes: [3, 25, 43, 51]
+
+step 1
+index added: 58
+percentage unclustered: 74.28569999999999%
+
+	step 2
+
+		step 3
+		candidate index: 58 with core nodes: [25, 43, 51, 58]
+			old information: 12670, gain: 0.9732616370968933
+
+    ind                                             review  relevance
+0   58  i purchased a midland 75 822 cb first and then...   0.886568
+1   28  works great as a cb radio and noaa weather rad...   0.880340
+2   11  the cb radio is packed with a lot of great fea...   0.844873
+3   55  being a member of a local miata club it is ver...   0.841315
+4   30  works fine i like all of the features that i v...   0.815423
+5   15  this radio is only good for the weather radio ...   0.794611
+6   16  i ve been using it for a while now and i like ...   0.734361
+7   36  i have had these installed in every vehicle ow...   0.678846
+8   45  i have been using cb s for over 20 years this ...   0.660805
+9   14  this cb radio works great and is very simple t...   0.633629
+10   8  installed this radio on my 2009 wrangler 2 doo...   0.607283
+
+step 1
+index added: 59
+percentage unclustered: 74.28569999999999%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 74.28569999999999%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 74.28569999999999%
+
+	step 2
+
+		step 3
+		candidate index: 61 with core nodes: [11, 15, 51, 55]
+
+step 1
+index added: 62
+percentage unclustered: 74.28569999999999%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 62.8571%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 65.71430000000001%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 65.71430000000001%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 65.71430000000001%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 65.71430000000001%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 65.71430000000001%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 65.71430000000001%
+
+	step 2
+
+--- 1036.2857131958008 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 95.7143, 95.7143, 95.7143, 90.0, 90.0, 90.0, 88.5714, 87.1429, 85.7143, 82.8571, 82.8571, 81.4286, 81.4286, 82.8571, 88.5714, 88.5714, 88.5714, 88.5714, 88.5714, 88.5714, 88.5714, 88.5714, 85.7143, 85.7143, 85.7143, 85.7143, 92.8571, 92.8571, 90.0, 90.0, 90.0, 90.0, 90.0, 90.0, 88.5714, 88.5714, 91.4286, 90.0, 90.0, 90.0, 88.5714, 88.5714, 82.8571, 82.8571, 82.8571, 82.8571, 82.8571, 77.1429, 77.1429, 75.71430000000001, 74.28569999999999, 74.28569999999999, 74.28569999999999, 74.28569999999999, 74.28569999999999, 62.8571, 65.71430000000001, 65.71430000000001, 65.71430000000001, 65.71430000000001, 65.71430000000001, 65.71430000000001], mean: 85.2311
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0         2  58   0.886568  i purchased a midland 75 822 cb first and then...
+1        51  28   0.880340  works great as a cb radio and noaa weather rad...
+2        19  11   0.844873  the cb radio is packed with a lot of great fea...
+3        23  55   0.841315  being a member of a local miata club it is ver...
+4        57  30   0.815423  works fine i like all of the features that i v...
+5        13  15   0.794611  this radio is only good for the weather radio ...
+6         9  16   0.734361  i ve been using it for a while now and i like ...
+7        52  36   0.678846  i have had these installed in every vehicle ow...
+8        42  45   0.660805  i have been using cb s for over 20 years this ...
+9        22  14   0.633629  this cb radio works great and is very simple t...
+10       11   8   0.607283  installed this radio on my 2009 wrangler 2 doo...

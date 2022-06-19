@@ -1,0 +1,169 @@
+------- Category: Electronics -------
+Found asin_id: B00000J0D5
+Shape:  (20, 7)
+Shape after:  (20, 7)
+
+
+Chosen product: B00000J0D5 has 20 reviews - True, it has 20 reviews
+
+Nr of stopwords in review: ['25/51', '16/26', '15/27', '16/32', '39/69', '178/379', '19/41', '55/111', '29/55', '85/169', '49/97', '58/101', '182/375', '63/136', '16/38', '50/86', '41/83', '32/66', '65/135', '43/87'], on average: 0.5085
+Nr of stopwords in summary: ['2/4', '3/4', '1/3', '1/2', '6/11', '1/8', '6/10', '1/3', '0/3', '3/6', '1/3', '6/8', '3/8', '4/7', '1/4', '2/5', '5/8', '2/5', '2/5', '1/5'], on average: 0.4246
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [6, 7, 9]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   9  i have a limited number of phone jacks in my h...   0.556759
+
+step 1
+index added: 10
+percentage unclustered: 85.0%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 100.0%
+
+step 1
+index added: 13
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [0, 12, 13]
+			old information: 308, gain: 0.9664488017429194
+
+   ind                                             review  relevance
+0  13  this product will reduce the connection sound ...   0.643317
+1   9  i have a limited number of phone jacks in my h...   0.556759
+
+step 1
+index added: 14
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [0, 12, 13, 14]
+			old information: 134, gain: 0.8093883357041252
+
+   ind                                             review  relevance
+0  13  this product will reduce the connection sound ...   0.643317
+1   9  i have a limited number of phone jacks in my h...   0.556759
+2  14  i was n t sure if this would work but it works...   0.406812
+
+step 1
+index added: 15
+percentage unclustered: 40.0%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [0, 5, 9, 12]
+
+step 1
+index added: 16
+percentage unclustered: 35.0%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [5, 9, 12, 16]
+			old information: 472, gain: 0.8612988539523949
+
+   ind                                             review  relevance
+0  16  i frankly did n t think that this product woul...   0.681314
+1  13  this product will reduce the connection sound ...   0.643317
+2   9  i have a limited number of phone jacks in my h...   0.556759
+3  14  i was n t sure if this would work but it works...   0.406812
+
+step 1
+index added: 17
+percentage unclustered: 45.0%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [0, 9, 12, 13]
+
+step 1
+index added: 18
+percentage unclustered: 25.0%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [5, 9, 12]
+			old information: 764, gain: 0.9155334438916528
+
+   ind                                             review  relevance
+0  16  i frankly did n t think that this product woul...   0.681314
+1  18  had a small setup problem i needed to do the s...   0.675703
+2  13  this product will reduce the connection sound ...   0.643317
+3   9  i have a limited number of phone jacks in my h...   0.556759
+4  14  i was n t sure if this would work but it works...   0.406812
+
+step 1
+index added: 19
+percentage unclustered: 40.0%
+
+	step 2
+
+		step 3
+		candidate index: 19 with core nodes: [0, 9, 16, 18]
+
+--- 7.775452136993408 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 85.0, 85.0, 100.0, 100.0, 85.0, 80.0, 40.0, 35.0, 45.0, 25.0, 40.0], mean: 78.8889
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0       12  16   0.681314  i frankly did n t think that this product woul...
+1       17  18   0.675703  had a small setup problem i needed to do the s...
+2       13  13   0.643317  this product will reduce the connection sound ...
+3       11   9   0.556759  i have a limited number of phone jacks in my h...
+4       14  14   0.406812  i was n t sure if this would work but it works...

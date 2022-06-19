@@ -1,0 +1,743 @@
+------- Category: Home_and_Kitchen -------
+Found asin_id: B009I2AL8W
+Shape:  (80, 7)
+Shape after:  (80, 7)
+
+
+Chosen product: B009I2AL8W has 80 reviews - True, it has 80 reviews
+
+Nr of stopwords in review: ['19/46', '53/103', '183/338', '46/88', '123/303', '69/136', '55/114', '17/31', '68/137', '22/54', '4/10', '71/142', '11/35', '58/111', '26/54', '34/59', '89/167', '202/369', '114/226', '5/13', '28/69', '74/128', '14/28', '5/12', '30/49', '118/236', '70/125', '106/204', '42/89', '40/80', '8/17', '71/142', '25/42', '134/319', '3/7', '22/54', '0/1', '49/104', '60/106', '78/135', '37/79', '58/114', '54/93', '40/64', '92/198', '127/231', '94/176', '60/120', '19/40', '118/272', '303/575', '27/44', '67/127', '150/313', '81/155', '48/96', '15/35', '121/217', '44/79', '129/239', '28/72', '49/106', '14/32', '14/33', '24/47', '9/20', '63/123', '13/27', '36/66', '120/228', '62/111', '162/358', '29/69', '159/313', '101/213', '234/425', '28/61', '6/21', '69/139', '33/68'], on average: 0.4866
+Nr of stopwords in summary: ['0/2', '0/3', '2/5', '4/8', '0/4', '0/2', '5/11', '2/3', '0/2', '1/3', '3/7', '6/11', '1/7', '4/7', '1/2', '0/2', '0/2', '4/9', '3/7', '0/2', '2/6', '5/9', '1/3', '0/4', '9/15', '3/5', '10/19', '0/6', '5/9', '0/2', '0/2', '0/3', '0/2', '0/2', '0/2', '5/9', '0/2', '0/1', '7/13', '2/8', '3/16', '0/2', '1/4', '0/1', '0/2', '0/4', '6/12', '0/4', '4/9', '1/3', '2/11', '0/2', '1/4', '2/7', '4/11', '3/5', '0/2', '1/4', '2/5', '4/7', '8/14', '0/2', '5/12', '2/7', '2/4', '1/2', '3/7', '0/2', '3/4', '0/2', '0/2', '4/12', '1/4', '0/2', '5/7', '8/15', '2/4', '2/5', '4/6', '1/3'], on average: 0.2758
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 96.25%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [0, 4, 9]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   9  great desk do yourself a favor before hanging ...   0.405026
+
+step 1
+index added: 10
+percentage unclustered: 92.5%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [0, 3, 4, 9]
+
+step 1
+index added: 11
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [2, 3, 4, 11]
+			old information: 70, gain: 0.9930076915393068
+
+   ind                                             review  relevance
+0  11  this desk is really tiny for an adult to work ...   0.674506
+1   9  great desk do yourself a favor before hanging ...   0.405026
+
+step 1
+index added: 12
+percentage unclustered: 92.5%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [0, 3, 4, 7, 10, 12]
+			old information: 27, gain: 0.9546218487394958
+
+   ind                                             review  relevance
+0  11  this desk is really tiny for an adult to work ...   0.674506
+1   9  great desk do yourself a favor before hanging ...   0.405026
+2  12  sturdy functional and neat design arrived quic...   0.346405
+
+step 1
+index added: 13
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 96.25%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 100.0%
+
+step 1
+index added: 16
+percentage unclustered: 100.0%
+
+step 1
+index added: 17
+percentage unclustered: 100.0%
+
+step 1
+index added: 18
+percentage unclustered: 95.0%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [10, 12, 15, 18]
+			old information: 564, gain: 0.9778171091445428
+
+   ind                                             review  relevance
+0  18  this was an awesome idea for my daughters room...   0.789023
+1  11  this desk is really tiny for an adult to work ...   0.674506
+2   9  great desk do yourself a favor before hanging ...   0.405026
+3  12  sturdy functional and neat design arrived quic...   0.346405
+
+step 1
+index added: 19
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 95.0%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [2, 6, 13, 18]
+
+step 1
+index added: 25
+percentage unclustered: 78.75%
+
+	step 2
+
+		step 3
+		candidate index: 25 with core nodes: [2, 13, 18, 25]
+			old information: 955, gain: 0.9655607645149658
+
+   ind                                             review  relevance
+0  25  i like the desk it opened up some space in the...   0.824236
+1  18  this was an awesome idea for my daughters room...   0.789023
+2  11  this desk is really tiny for an adult to work ...   0.674506
+3   9  great desk do yourself a favor before hanging ...   0.405026
+4  12  sturdy functional and neat design arrived quic...   0.346405
+
+step 1
+index added: 26
+percentage unclustered: 78.75%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 78.75%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [2, 13, 18, 25]
+
+step 1
+index added: 29
+percentage unclustered: 91.25%
+
+	step 2
+
+		step 3
+		candidate index: 29 with core nodes: [0, 4, 18, 29]
+			old information: 490, gain: 0.8449367088607594
+
+   ind                                             review  relevance
+0  25  i like the desk it opened up some space in the...   0.824236
+1  18  this was an awesome idea for my daughters room...   0.789023
+2  29  desk was an easy install and looks great i lov...   0.726874
+3  11  this desk is really tiny for an adult to work ...   0.674506
+4   9  great desk do yourself a favor before hanging ...   0.405026
+5  12  sturdy functional and neat design arrived quic...   0.346405
+
+step 1
+index added: 30
+percentage unclustered: 91.25%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 90.0%
+
+	step 2
+
+		step 3
+		candidate index: 31 with core nodes: [4, 18, 29]
+			old information: 1038, gain: 0.896314054540006
+
+   ind                                             review  relevance
+0  25  i like the desk it opened up some space in the...   0.824236
+1  18  this was an awesome idea for my daughters room...   0.789023
+2  29  desk was an easy install and looks great i lov...   0.726874
+3  11  this desk is really tiny for an adult to work ...   0.674506
+4  31  this unit has made a huge difference in our ho...   0.595018
+5   9  great desk do yourself a favor before hanging ...   0.405026
+6  12  sturdy functional and neat design arrived quic...   0.346405
+
+step 1
+index added: 32
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 88.75%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [4, 18, 29]
+			old information: 1828, gain: 0.9639597011099938
+
+   ind                                             review  relevance
+0  25  i like the desk it opened up some space in the...   0.824236
+1  18  this was an awesome idea for my daughters room...   0.789023
+2  29  desk was an easy install and looks great i lov...   0.726874
+3  11  this desk is really tiny for an adult to work ...   0.674506
+4  33  my fiance and i go to school and deal with a l...   0.655988
+5  31  this unit has made a huge difference in our ho...   0.595018
+6   9  great desk do yourself a favor before hanging ...   0.405026
+7  12  sturdy functional and neat design arrived quic...   0.346405
+
+step 1
+index added: 34
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 86.25%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 86.25%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 81.25%
+
+	step 2
+
+		step 3
+		candidate index: 38 with core nodes: [15, 18, 29, 38]
+			old information: 851, gain: 0.8470799640610961
+
+   ind                                             review  relevance
+0  25  i like the desk it opened up some space in the...   0.824236
+1  18  this was an awesome idea for my daughters room...   0.789023
+2  29  desk was an easy install and looks great i lov...   0.726874
+3  38  the desk is cheap but when comes in it is very...   0.699261
+4  11  this desk is really tiny for an adult to work ...   0.674506
+5  33  my fiance and i go to school and deal with a l...   0.655988
+6  31  this unit has made a huge difference in our ho...   0.595018
+7   9  great desk do yourself a favor before hanging ...   0.405026
+8  12  sturdy functional and neat design arrived quic...   0.346405
+
+step 1
+index added: 39
+percentage unclustered: 76.25%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 73.75%
+
+	step 2
+
+		step 3
+		candidate index: 41 with core nodes: [18, 29, 38]
+			old information: 702, gain: 0.8910107126222636
+
+   ind                                             review  relevance
+0  25  i like the desk it opened up some space in the...   0.824236
+1  18  this was an awesome idea for my daughters room...   0.789023
+2  29  desk was an easy install and looks great i lov...   0.726874
+3  41  i really like this desk it opens up the floor ...   0.704900
+4  38  the desk is cheap but when comes in it is very...   0.699261
+5  11  this desk is really tiny for an adult to work ...   0.674506
+6  33  my fiance and i go to school and deal with a l...   0.655988
+7  31  this unit has made a huge difference in our ho...   0.595018
+8   9  great desk do yourself a favor before hanging ...   0.405026
+9  12  sturdy functional and neat design arrived quic...   0.346405
+
+step 1
+index added: 42
+percentage unclustered: 72.5%
+
+	step 2
+
+		step 3
+		candidate index: 42 with core nodes: [18, 29, 38, 39, 42]
+			old information: 1001, gain: 0.7660121552127163
+
+    ind                                             review  relevance
+0   25  i like the desk it opened up some space in the...   0.824236
+1   18  this was an awesome idea for my daughters room...   0.789023
+2   42  i like the desk it takes up so much less room ...   0.786740
+3   29  desk was an easy install and looks great i lov...   0.726874
+4   41  i really like this desk it opens up the floor ...   0.704900
+5   38  the desk is cheap but when comes in it is very...   0.699261
+6   11  this desk is really tiny for an adult to work ...   0.674506
+7   33  my fiance and i go to school and deal with a l...   0.655988
+8   31  this unit has made a huge difference in our ho...   0.595018
+9    9  great desk do yourself a favor before hanging ...   0.405026
+10  12  sturdy functional and neat design arrived quic...   0.346405
+
+step 1
+index added: 43
+percentage unclustered: 72.5%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 68.75%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 68.75%
+
+	step 2
+
+		step 3
+		candidate index: 45 with core nodes: [18, 39, 42, 45]
+			old information: 2778, gain: 0.8954263128176172
+
+    ind                                             review  relevance
+0   45  did a lot of researching before finally decidi...   0.837097
+1   25  i like the desk it opened up some space in the...   0.824236
+2   18  this was an awesome idea for my daughters room...   0.789023
+3   42  i like the desk it takes up so much less room ...   0.786740
+4   29  desk was an easy install and looks great i lov...   0.726874
+5   41  i really like this desk it opens up the floor ...   0.704900
+6   38  the desk is cheap but when comes in it is very...   0.699261
+7   11  this desk is really tiny for an adult to work ...   0.674506
+8   33  my fiance and i go to school and deal with a l...   0.655988
+9   31  this unit has made a huge difference in our ho...   0.595018
+10   9  great desk do yourself a favor before hanging ...   0.405026
+11  12  sturdy functional and neat design arrived quic...   0.346405
+
+step 1
+index added: 46
+percentage unclustered: 68.75%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 63.75%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 62.5%
+
+	step 2
+
+		step 3
+		candidate index: 49 with core nodes: [18, 39, 42, 45]
+
+step 1
+index added: 50
+percentage unclustered: 61.25%
+
+	step 2
+
+		step 3
+		candidate index: 50 with core nodes: [18, 42, 45, 50]
+			old information: 5962, gain: 0.9638721405847599
+
+    ind                                             review  relevance
+0   50  very solid wall desk for sizing the newer thin...   0.881080
+1   45  did a lot of researching before finally decidi...   0.837097
+2   25  i like the desk it opened up some space in the...   0.824236
+3   18  this was an awesome idea for my daughters room...   0.789023
+4   42  i like the desk it takes up so much less room ...   0.786740
+5   29  desk was an easy install and looks great i lov...   0.726874
+6   41  i really like this desk it opens up the floor ...   0.704900
+7   38  the desk is cheap but when comes in it is very...   0.699261
+8   11  this desk is really tiny for an adult to work ...   0.674506
+9   33  my fiance and i go to school and deal with a l...   0.655988
+10  31  this unit has made a huge difference in our ho...   0.595018
+11   9  great desk do yourself a favor before hanging ...   0.405026
+12  12  sturdy functional and neat design arrived quic...   0.346405
+
+step 1
+index added: 51
+percentage unclustered: 60.0%
+
+	step 2
+
+		step 3
+		candidate index: 51 with core nodes: [18, 42, 45, 50]
+
+step 1
+index added: 52
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 61.25%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 65.0%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 63.75%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 62.5%
+
+	step 2
+
+		step 3
+		candidate index: 57 with core nodes: [18, 45, 50, 57]
+			old information: 3013, gain: 0.8714371053080731
+
+    ind                                             review  relevance
+0   50  very solid wall desk for sizing the newer thin...   0.881080
+1   57  this fit perfectly in a small unused corner of...   0.840579
+2   45  did a lot of researching before finally decidi...   0.837097
+3   25  i like the desk it opened up some space in the...   0.824236
+4   18  this was an awesome idea for my daughters room...   0.789023
+5   42  i like the desk it takes up so much less room ...   0.786740
+6   29  desk was an easy install and looks great i lov...   0.726874
+7   41  i really like this desk it opens up the floor ...   0.704900
+8   38  the desk is cheap but when comes in it is very...   0.699261
+9   11  this desk is really tiny for an adult to work ...   0.674506
+10  33  my fiance and i go to school and deal with a l...   0.655988
+11  31  this unit has made a huge difference in our ho...   0.595018
+12   9  great desk do yourself a favor before hanging ...   0.405026
+13  12  sturdy functional and neat design arrived quic...   0.346405
+
+step 1
+index added: 58
+percentage unclustered: 58.75%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 58.75%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 52.5%
+
+	step 2
+
+		step 3
+		candidate index: 60 with core nodes: [2, 18, 45, 50, 53, 57]
+
+step 1
+index added: 61
+percentage unclustered: 52.5%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 52.5%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 52.5%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 52.5%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 50.0%
+
+	step 2
+
+		step 3
+		candidate index: 65 with core nodes: [2, 18, 45, 50, 53, 57]
+
+step 1
+index added: 66
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 48.75%
+
+	step 2
+
+		step 3
+		candidate index: 68 with core nodes: [2, 18, 45, 50, 53, 57]
+
+step 1
+index added: 69
+percentage unclustered: 47.5%
+
+	step 2
+
+		step 3
+		candidate index: 69 with core nodes: [2, 45, 50, 53, 57, 69]
+			old information: 3356, gain: 0.8703145529020789
+
+    ind                                             review  relevance
+0   50  very solid wall desk for sizing the newer thin...   0.881080
+1   57  this fit perfectly in a small unused corner of...   0.840579
+2   45  did a lot of researching before finally decidi...   0.837097
+3   25  i like the desk it opened up some space in the...   0.824236
+4   69  this desk is pretty fabulous it did take a lit...   0.821523
+5   18  this was an awesome idea for my daughters room...   0.789023
+6   42  i like the desk it takes up so much less room ...   0.786740
+7   29  desk was an easy install and looks great i lov...   0.726874
+8   41  i really like this desk it opens up the floor ...   0.704900
+9   38  the desk is cheap but when comes in it is very...   0.699261
+10  11  this desk is really tiny for an adult to work ...   0.674506
+11  33  my fiance and i go to school and deal with a l...   0.655988
+12  31  this unit has made a huge difference in our ho...   0.595018
+13   9  great desk do yourself a favor before hanging ...   0.405026
+14  12  sturdy functional and neat design arrived quic...   0.346405
+
+step 1
+index added: 70
+percentage unclustered: 46.25%
+
+	step 2
+
+step 1
+index added: 71
+percentage unclustered: 46.25%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 46.25%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 45.0%
+
+	step 2
+
+		step 3
+		candidate index: 73 with core nodes: [2, 50, 57, 73]
+			old information: 4743, gain: 0.902863111329565
+
+    ind                                             review  relevance
+0   73  i really love this desk i bought it in black a...   0.890172
+1   50  very solid wall desk for sizing the newer thin...   0.881080
+2   57  this fit perfectly in a small unused corner of...   0.840579
+3   45  did a lot of researching before finally decidi...   0.837097
+4   25  i like the desk it opened up some space in the...   0.824236
+5   69  this desk is pretty fabulous it did take a lit...   0.821523
+6   18  this was an awesome idea for my daughters room...   0.789023
+7   42  i like the desk it takes up so much less room ...   0.786740
+8   29  desk was an easy install and looks great i lov...   0.726874
+9   41  i really like this desk it opens up the floor ...   0.704900
+10  38  the desk is cheap but when comes in it is very...   0.699261
+11  11  this desk is really tiny for an adult to work ...   0.674506
+12  33  my fiance and i go to school and deal with a l...   0.655988
+13  31  this unit has made a huge difference in our ho...   0.595018
+14   9  great desk do yourself a favor before hanging ...   0.405026
+15  12  sturdy functional and neat design arrived quic...   0.346405
+
+step 1
+index added: 74
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 50.0%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 48.75%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 48.75%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 42.5%
+
+	step 2
+
+		step 3
+		candidate index: 78 with core nodes: [17, 50, 59, 73]
+
+step 1
+index added: 79
+percentage unclustered: 43.75%
+
+	step 2
+
+--- 216.13463354110718 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 96.25, 92.5, 90.0, 92.5, 96.25, 96.25, 100.0, 100.0, 100.0, 95.0, 95.0, 95.0, 95.0, 95.0, 95.0, 80.0, 78.75, 78.75, 78.75, 80.0, 91.25, 91.25, 90.0, 90.0, 88.75, 90.0, 90.0, 86.25, 86.25, 81.25, 76.25, 75.0, 73.75, 72.5, 72.5, 68.75, 68.75, 68.75, 65.0, 63.75, 62.5, 61.25, 60.0, 60.0, 61.25, 65.0, 65.0, 63.75, 62.5, 58.75, 58.75, 52.5, 52.5, 52.5, 52.5, 52.5, 50.0, 50.0, 50.0, 48.75, 47.5, 46.25, 46.25, 46.25, 45.0, 50.0, 50.0, 48.75, 48.75, 42.5, 43.75], mean: 74.0385
+
+Final Ranking:
+    ranking ind  relevance                                             review
+0        26  73   0.890172  i really love this desk i bought it in black a...
+1        16  50   0.881080  very solid wall desk for sizing the newer thin...
+2        77  57   0.840579  this fit perfectly in a small unused corner of...
+3        11  45   0.837097  did a lot of researching before finally decidi...
+4        69  25   0.824236  i like the desk it opened up some space in the...
+5        41  69   0.821523  this desk is pretty fabulous it did take a lit...
+6        19  18   0.789023  this was an awesome idea for my daughters room...
+7        76  42   0.786740  i like the desk it takes up so much less room ...
+8        33  29   0.726874  desk was an easy install and looks great i lov...
+9        10  41   0.704900  i really like this desk it opens up the floor ...
+10       23  38   0.699261  the desk is cheap but when comes in it is very...
+11       45  11   0.674506  this desk is really tiny for an adult to work ...
+12       15  33   0.655988  my fiance and i go to school and deal with a l...
+13       35  31   0.595018  this unit has made a huge difference in our ho...
+14       17   9   0.405026  great desk do yourself a favor before hanging ...
+15       55  12   0.346405  sturdy functional and neat design arrived quic...

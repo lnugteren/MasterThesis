@@ -1,0 +1,1280 @@
+------- Category: Electronics -------
+Found asin_id: B006R2N8VS
+Shape:  (151, 7)
+Shape after:  (151, 7)
+
+
+Chosen product: B006R2N8VS has 151 reviews - False, it has 150 reviews
+
+Nr of stopwords in review: ['58/165', '44/132', '58/107', '85/170', '149/383', '215/457', '85/173', '52/106', '75/146', '74/135', '12/33', '96/195', '64/129', '30/67', '93/214', '50/103', '43/81', '96/200', '20/65', '18/35', '26/58', '42/97', '40/75', '92/200', '45/90', '44/85', '45/79', '15/31', '40/68', '205/426', '22/37', '28/64', '208/412', '340/731', '32/65', '28/57', '13/36', '78/146', '68/114', '15/36', '17/31', '25/49', '80/146', '66/134', '65/123', '104/206', '98/200', '58/165', '62/116', '86/155', '14/32', '47/89', '9/25', '79/138', '11/29', '72/147', '20/41', '100/210', '76/149', '26/53', '140/285', '34/67', '47/94', '18/40', '22/49', '59/110', '6/21', '8/24', '19/40', '44/79', '96/200', '73/135', '151/310', '27/68', '19/42', '38/85', '25/56', '28/63', '12/29', '92/188', '42/81', '24/64', '47/99', '114/216', '106/195', '34/55', '34/64', '48/102', '36/66', '18/38', '28/49', '28/49', '185/360', '54/114', '21/47', '19/43', '36/72', '65/130', '11/24', '28/59', '19/39', '20/36', '50/102', '19/46', '115/254', '38/74', '42/111', '153/303', '37/93', '14/21', '29/54', '24/50', '30/56', '21/48', '31/49', '82/169', '19/37', '42/83', '65/123', '18/47', '36/76', '95/179', '88/208', '35/66', '12/37', '29/60', '165/370', '26/47', '13/29', '43/75', '17/38', '31/60', '47/90', '62/118', '185/360', '18/41', '52/94', '80/177', '12/20', '17/32', '59/126', '136/243', '49/95', '119/235', '79/152', '245/492', '78/159', '107/194', '27/61', '17/35'], on average: 0.4862
+Nr of stopwords in summary: ['5/12', '2/6', '3/7', '4/8', '0/7', '1/14', '4/9', '3/7', '2/6', '2/4', '1/3', '5/8', '0/4', '2/5', '0/5', '0/2', '0/3', '7/13', '7/19', '0/2', '0/3', '0/4', '2/6', '3/9', '0/2', '0/5', '0/1', '2/5', '4/9', '3/10', '0/3', '3/8', '1/6', '3/17', '1/5', '2/6', '0/3', '0/1', '5/8', '0/3', '3/5', '0/1', '3/6', '2/6', '1/4', '0/3', '2/6', '5/12', '0/1', '1/4', '1/5', '2/6', '2/8', '0/4', '2/5', '1/4', '5/7', '2/12', '1/5', '0/2', '2/6', '0/2', '1/2', '0/2', '3/7', '0/5', '0/3', '1/2', '0/2', '1/7', '0/4', '6/12', '0/4', '3/9', '2/7', '1/6', '1/3', '0/2', '1/4', '2/4', '1/4', '2/8', '1/3', '2/6', '0/2', '0/1', '0/2', '2/5', '0/2', '0/3', '0/1', '0/2', '0/2', '3/9', '0/5', '2/4', '0/3', '3/8', '1/2', '1/4', '3/5', '4/8', '1/3', '5/11', '2/6', '0/2', '1/5', '3/8', '0/2', '1/4', '1/2', '0/2', '1/2', '0/2', '3/4', '2/6', '2/4', '0/1', '1/4', '0/6', '2/8', '2/5', '0/5', '3/12', '1/2', '0/5', '7/13', '0/4', '1/4', '1/3', '0/4', '1/2', '3/6', '2/7', '0/2', '0/2', '7/17', '1/6', '1/2', '2/14', '4/12', '2/7', '2/6', '8/16', '0/2', '4/11', '0/3', '3/7', '0/5', '2/10'], on average: 0.2384
+
+Duplicate reviewers?:  33     A2IRRG7VBGT4UB
+47      AICVMO4J1FQHF
+96     A18A35BQWGNT3L
+110     A7DT2U1LE5731
+118    A3PUL8SLJ7Z49E
+134    A39P484GFMYRCL
+Name: reviewerID, dtype: object
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 98.0%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [1, 4, 6]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   6  i have only had this a few days but it arrived...   0.605452
+
+step 1
+index added: 7
+percentage unclustered: 96.6667%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [3, 4, 6, 7]
+			old information: 286, gain: 0.948607367475292
+
+   ind                                             review  relevance
+0   7  i m a hard customer to impress and i rarely gi...   0.690848
+1   6  i have only had this a few days but it arrived...   0.605452
+
+step 1
+index added: 8
+percentage unclustered: 96.0%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [3, 4, 6, 7, 8]
+			old information: 718, gain: 0.9321681624940954
+
+   ind                                             review  relevance
+0   8  love this case i did lots of research before i...   0.778246
+1   7  i m a hard customer to impress and i rarely gi...   0.690848
+2   6  i have only had this a few days but it arrived...   0.605452
+
+step 1
+index added: 9
+percentage unclustered: 95.3333%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [3, 7, 8, 9]
+			old information: 616, gain: 0.9318960751796572
+
+   ind                                             review  relevance
+0   8  love this case i did lots of research before i...   0.778246
+1   9  when i bought the ipad 3 i was drawn to the ma...   0.770283
+2   7  i m a hard customer to impress and i rarely gi...   0.690848
+3   6  i have only had this a few days but it arrived...   0.605452
+
+step 1
+index added: 10
+percentage unclustered: 95.3333%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 94.6667%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [3, 4, 8, 11]
+			old information: 1093, gain: 0.9422151731430082
+
+   ind                                             review  relevance
+0  11  updated review n nso i had this case and my ne...   0.807718
+1   8  love this case i did lots of research before i...   0.778246
+2   9  when i bought the ipad 3 i was drawn to the ma...   0.770283
+3   7  i m a hard customer to impress and i rarely gi...   0.690848
+4   6  i have only had this a few days but it arrived...   0.605452
+
+step 1
+index added: 12
+percentage unclustered: 96.6667%
+
+	step 2
+
+		step 3
+		candidate index: 12 with core nodes: [4, 6, 8, 12]
+			old information: 1139, gain: 0.8620397286821705
+
+   ind                                             review  relevance
+0  12  i purchased this case for my 3rd generation ip...   0.840820
+1  11  updated review n nso i had this case and my ne...   0.807718
+2   8  love this case i did lots of research before i...   0.778246
+3   9  when i bought the ipad 3 i was drawn to the ma...   0.770283
+4   7  i m a hard customer to impress and i rarely gi...   0.690848
+5   6  i have only had this a few days but it arrived...   0.605452
+
+step 1
+index added: 13
+percentage unclustered: 96.0%
+
+	step 2
+
+		step 3
+		candidate index: 13 with core nodes: [4, 8, 12, 13]
+			old information: 428, gain: 0.8064224332881049
+
+   ind                                             review  relevance
+0  12  i purchased this case for my 3rd generation ip...   0.840820
+1  11  updated review n nso i had this case and my ne...   0.807718
+2   8  love this case i did lots of research before i...   0.778246
+3   9  when i bought the ipad 3 i was drawn to the ma...   0.770283
+4  13  this is exactly what i m looking for smart cov...   0.693021
+5   7  i m a hard customer to impress and i rarely gi...   0.690848
+6   6  i have only had this a few days but it arrived...   0.605452
+
+step 1
+index added: 14
+percentage unclustered: 96.0%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 96.0%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 95.3333%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [4, 8, 12, 16]
+			old information: 648, gain: 0.8
+
+   ind                                             review  relevance
+0  12  i purchased this case for my 3rd generation ip...   0.840820
+1  11  updated review n nso i had this case and my ne...   0.807718
+2  16  this case is perfect as far as i am concerned ...   0.796753
+3   8  love this case i did lots of research before i...   0.778246
+4   9  when i bought the ipad 3 i was drawn to the ma...   0.770283
+5  13  this is exactly what i m looking for smart cov...   0.693021
+6   7  i m a hard customer to impress and i rarely gi...   0.690848
+7   6  i have only had this a few days but it arrived...   0.605452
+
+step 1
+index added: 17
+percentage unclustered: 95.3333%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 95.3333%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 95.3333%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 95.3333%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 95.3333%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 95.3333%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 94.6667%
+
+	step 2
+
+		step 3
+		candidate index: 23 with core nodes: [4, 8, 12, 16, 23]
+			old information: 1785, gain: 0.9103015075376885
+
+   ind                                             review  relevance
+0  12  i purchased this case for my 3rd generation ip...   0.840820
+1  23  we initially got the version which fit the ipa...   0.828846
+2  11  updated review n nso i had this case and my ne...   0.807718
+3  16  this case is perfect as far as i am concerned ...   0.796753
+4   8  love this case i did lots of research before i...   0.778246
+5   9  when i bought the ipad 3 i was drawn to the ma...   0.770283
+6  13  this is exactly what i m looking for smart cov...   0.693021
+7   7  i m a hard customer to impress and i rarely gi...   0.690848
+8   6  i have only had this a few days but it arrived...   0.605452
+
+step 1
+index added: 24
+percentage unclustered: 94.0%
+
+	step 2
+
+		step 3
+		candidate index: 24 with core nodes: [4, 8, 12, 16, 23]
+
+step 1
+index added: 25
+percentage unclustered: 94.0%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 95.3333%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [4, 12, 13, 23]
+			old information: 649, gain: 0.789354105809802
+
+   ind                                             review  relevance
+0  12  i purchased this case for my 3rd generation ip...   0.840820
+1  23  we initially got the version which fit the ipa...   0.828846
+2  11  updated review n nso i had this case and my ne...   0.807718
+3  16  this case is perfect as far as i am concerned ...   0.796753
+4   8  love this case i did lots of research before i...   0.778246
+5   9  when i bought the ipad 3 i was drawn to the ma...   0.770283
+6  13  this is exactly what i m looking for smart cov...   0.693021
+7   7  i m a hard customer to impress and i rarely gi...   0.690848
+8  26  this case is amazing for so much less than the...   0.653982
+9   6  i have only had this a few days but it arrived...   0.605452
+
+step 1
+index added: 27
+percentage unclustered: 95.3333%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 91.3333%
+
+	step 2
+
+		step 3
+		candidate index: 28 with core nodes: [4, 12, 13, 14, 23, 28]
+			old information: 495, gain: 0.7827041264266901
+
+    ind                                             review  relevance
+0   12  i purchased this case for my 3rd generation ip...   0.840820
+1   23  we initially got the version which fit the ipa...   0.828846
+2   11  updated review n nso i had this case and my ne...   0.807718
+3   16  this case is perfect as far as i am concerned ...   0.796753
+4    8  love this case i did lots of research before i...   0.778246
+5    9  when i bought the ipad 3 i was drawn to the ma...   0.770283
+6   28  unfortunately the seller must have jumped the ...   0.751173
+7   13  this is exactly what i m looking for smart cov...   0.693021
+8    7  i m a hard customer to impress and i rarely gi...   0.690848
+9   26  this case is amazing for so much less than the...   0.653982
+10   6  i have only had this a few days but it arrived...   0.605452
+
+step 1
+index added: 29
+percentage unclustered: 91.3333%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 90.6667%
+
+	step 2
+
+		step 3
+		candidate index: 30 with core nodes: [4, 12, 13, 14, 23, 28]
+
+step 1
+index added: 31
+percentage unclustered: 90.6667%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 88.0%
+
+	step 2
+
+		step 3
+		candidate index: 32 with core nodes: [4, 5, 12, 23, 32]
+			old information: 4348, gain: 0.9486452649233459
+
+    ind                                             review  relevance
+0   32  i ll hold off on technical issues lets start w...   0.878745
+1   12  i purchased this case for my 3rd generation ip...   0.840820
+2   23  we initially got the version which fit the ipa...   0.828846
+3   11  updated review n nso i had this case and my ne...   0.807718
+4   16  this case is perfect as far as i am concerned ...   0.796753
+5    8  love this case i did lots of research before i...   0.778246
+6    9  when i bought the ipad 3 i was drawn to the ma...   0.770283
+7   28  unfortunately the seller must have jumped the ...   0.751173
+8   13  this is exactly what i m looking for smart cov...   0.693021
+9    7  i m a hard customer to impress and i rarely gi...   0.690848
+10  26  this case is amazing for so much less than the...   0.653982
+11   6  i have only had this a few days but it arrived...   0.605452
+
+step 1
+index added: 33
+percentage unclustered: 87.3333%
+
+	step 2
+
+		step 3
+		candidate index: 33 with core nodes: [4, 5, 32, 33]
+			old information: 7426, gain: 0.9721679815602571
+
+    ind                                             review  relevance
+0   32  i ll hold off on technical issues lets start w...   0.878745
+1   33  revised on 3 16 12 7 30 pm est n nhave n t had...   0.873853
+2   12  i purchased this case for my 3rd generation ip...   0.840820
+3   23  we initially got the version which fit the ipa...   0.828846
+4   11  updated review n nso i had this case and my ne...   0.807718
+5   16  this case is perfect as far as i am concerned ...   0.796753
+6    8  love this case i did lots of research before i...   0.778246
+7    9  when i bought the ipad 3 i was drawn to the ma...   0.770283
+8   28  unfortunately the seller must have jumped the ...   0.751173
+9   13  this is exactly what i m looking for smart cov...   0.693021
+10   7  i m a hard customer to impress and i rarely gi...   0.690848
+11  26  this case is amazing for so much less than the...   0.653982
+12   6  i have only had this a few days but it arrived...   0.605452
+
+step 1
+index added: 34
+percentage unclustered: 87.3333%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 86.0%
+
+	step 2
+
+		step 3
+		candidate index: 36 with core nodes: [4, 5, 32, 33]
+
+step 1
+index added: 37
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 38
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 87.3333%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 84.0%
+
+	step 2
+
+		step 3
+		candidate index: 42 with core nodes: [2, 12, 17]
+			old information: 1679, gain: 0.8413793103448276
+
+    ind                                             review  relevance
+0   32  i ll hold off on technical issues lets start w...   0.878745
+1   33  revised on 3 16 12 7 30 pm est n nhave n t had...   0.873853
+2   12  i purchased this case for my 3rd generation ip...   0.840820
+3   23  we initially got the version which fit the ipa...   0.828846
+4   11  updated review n nso i had this case and my ne...   0.807718
+5   16  this case is perfect as far as i am concerned ...   0.796753
+6    8  love this case i did lots of research before i...   0.778246
+7    9  when i bought the ipad 3 i was drawn to the ma...   0.770283
+8   42  after reading many review said that the cover ...   0.770249
+9   28  unfortunately the seller must have jumped the ...   0.751173
+10  13  this is exactly what i m looking for smart cov...   0.693021
+11   7  i m a hard customer to impress and i rarely gi...   0.690848
+12  26  this case is amazing for so much less than the...   0.653982
+13   6  i have only had this a few days but it arrived...   0.605452
+
+step 1
+index added: 43
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 43 with core nodes: [4, 5, 32, 33]
+
+step 1
+index added: 44
+percentage unclustered: 82.66669999999999%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 82.66669999999999%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 82.66669999999999%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 48
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 82.66669999999999%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 86.6667%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 53
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 57
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 57 with core nodes: [12, 32, 33, 57]
+			old information: 3551, gain: 0.8381863750284803
+
+    ind                                             review  relevance
+0   32  i ll hold off on technical issues lets start w...   0.878745
+1   33  revised on 3 16 12 7 30 pm est n nhave n t had...   0.873853
+2   57  update 1 10 13 ni ve had this case for about 1...   0.846118
+3   12  i purchased this case for my 3rd generation ip...   0.840820
+4   23  we initially got the version which fit the ipa...   0.828846
+5   11  updated review n nso i had this case and my ne...   0.807718
+6   16  this case is perfect as far as i am concerned ...   0.796753
+7    8  love this case i did lots of research before i...   0.778246
+8    9  when i bought the ipad 3 i was drawn to the ma...   0.770283
+9   42  after reading many review said that the cover ...   0.770249
+10  28  unfortunately the seller must have jumped the ...   0.751173
+11  13  this is exactly what i m looking for smart cov...   0.693021
+12   7  i m a hard customer to impress and i rarely gi...   0.690848
+13  26  this case is amazing for so much less than the...   0.653982
+14   6  i have only had this a few days but it arrived...   0.605452
+
+step 1
+index added: 58
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 59
+percentage unclustered: 84.6667%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 84.6667%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 82.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 70 with core nodes: [12, 32, 70]
+			old information: 2159, gain: 0.8915075376884423
+
+    ind                                             review  relevance
+0   32  i ll hold off on technical issues lets start w...   0.878745
+1   33  revised on 3 16 12 7 30 pm est n nhave n t had...   0.873853
+2   57  update 1 10 13 ni ve had this case for about 1...   0.846118
+3   12  i purchased this case for my 3rd generation ip...   0.840820
+4   70  i have used this case since the release of the...   0.839902
+5   23  we initially got the version which fit the ipa...   0.828846
+6   11  updated review n nso i had this case and my ne...   0.807718
+7   16  this case is perfect as far as i am concerned ...   0.796753
+8    8  love this case i did lots of research before i...   0.778246
+9    9  when i bought the ipad 3 i was drawn to the ma...   0.770283
+10  42  after reading many review said that the cover ...   0.770249
+11  28  unfortunately the seller must have jumped the ...   0.751173
+12  13  this is exactly what i m looking for smart cov...   0.693021
+13   7  i m a hard customer to impress and i rarely gi...   0.690848
+14  26  this case is amazing for so much less than the...   0.653982
+15   6  i have only had this a few days but it arrived...   0.605452
+
+step 1
+index added: 71
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 85.3333%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 84.6667%
+
+	step 2
+
+		step 3
+		candidate index: 73 with core nodes: [12, 51, 70]
+			old information: 701, gain: 0.6922739244951712
+
+    ind                                             review  relevance
+0   32  i ll hold off on technical issues lets start w...   0.878745
+1   33  revised on 3 16 12 7 30 pm est n nhave n t had...   0.873853
+2   57  update 1 10 13 ni ve had this case for about 1...   0.846118
+3   12  i purchased this case for my 3rd generation ip...   0.840820
+4   70  i have used this case since the release of the...   0.839902
+5   23  we initially got the version which fit the ipa...   0.828846
+6   11  updated review n nso i had this case and my ne...   0.807718
+7   16  this case is perfect as far as i am concerned ...   0.796753
+8    8  love this case i did lots of research before i...   0.778246
+9    9  when i bought the ipad 3 i was drawn to the ma...   0.770283
+10  42  after reading many review said that the cover ...   0.770249
+11  28  unfortunately the seller must have jumped the ...   0.751173
+12  73  the design is very slim and light weight the l...   0.737020
+13  13  this is exactly what i m looking for smart cov...   0.693021
+14   7  i m a hard customer to impress and i rarely gi...   0.690848
+15  26  this case is amazing for so much less than the...   0.653982
+16   6  i have only had this a few days but it arrived...   0.605452
+
+step 1
+index added: 74
+percentage unclustered: 84.6667%
+
+	step 2
+
+step 1
+index added: 75
+percentage unclustered: 85.3333%
+
+	step 2
+
+step 1
+index added: 76
+percentage unclustered: 85.3333%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 85.3333%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 84.6667%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 84.6667%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 84.6667%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 84.6667%
+
+	step 2
+
+step 1
+index added: 82
+percentage unclustered: 84.6667%
+
+	step 2
+
+step 1
+index added: 83
+percentage unclustered: 84.6667%
+
+	step 2
+
+		step 3
+		candidate index: 83 with core nodes: [12, 17, 42, 51, 70, 83]
+			old information: 3338, gain: 0.856244616709733
+
+    ind                                             review  relevance
+0   32  i ll hold off on technical issues lets start w...   0.878745
+1   33  revised on 3 16 12 7 30 pm est n nhave n t had...   0.873853
+2   83  i highly recommend this case for the ipad i pu...   0.858248
+3   57  update 1 10 13 ni ve had this case for about 1...   0.846118
+4   12  i purchased this case for my 3rd generation ip...   0.840820
+5   70  i have used this case since the release of the...   0.839902
+6   23  we initially got the version which fit the ipa...   0.828846
+7   11  updated review n nso i had this case and my ne...   0.807718
+8   16  this case is perfect as far as i am concerned ...   0.796753
+9    8  love this case i did lots of research before i...   0.778246
+10   9  when i bought the ipad 3 i was drawn to the ma...   0.770283
+11  42  after reading many review said that the cover ...   0.770249
+12  28  unfortunately the seller must have jumped the ...   0.751173
+13  73  the design is very slim and light weight the l...   0.737020
+14  13  this is exactly what i m looking for smart cov...   0.693021
+15   7  i m a hard customer to impress and i rarely gi...   0.690848
+16  26  this case is amazing for so much less than the...   0.653982
+17   6  i have only had this a few days but it arrived...   0.605452
+
+step 1
+index added: 84
+percentage unclustered: 84.6667%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 84.6667%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 84.6667%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 82.0%
+
+	step 2
+
+		step 3
+		candidate index: 87 with core nodes: [12, 17, 42, 51, 70, 83]
+
+step 1
+index added: 88
+percentage unclustered: 79.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 88 with core nodes: [12, 51, 57, 70]
+
+step 1
+index added: 89
+percentage unclustered: 79.33330000000001%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 77.33330000000001%
+
+	step 2
+
+step 1
+index added: 91
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 95
+percentage unclustered: 74.0%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 74.0%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 97 with core nodes: [12, 51, 57, 70]
+
+step 1
+index added: 98
+percentage unclustered: 71.33330000000001%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 71.33330000000001%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 70.66669999999999%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 72.66669999999999%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 72.66669999999999%
+
+	step 2
+
+step 1
+index added: 103
+percentage unclustered: 72.66669999999999%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 71.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 104 with core nodes: [12, 17, 32, 42, 51, 57, 70, 83]
+
+step 1
+index added: 105
+percentage unclustered: 72.0%
+
+	step 2
+
+step 1
+index added: 106
+percentage unclustered: 71.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 106 with core nodes: [12, 17, 32, 42, 51, 57, 70, 83]
+
+step 1
+index added: 107
+percentage unclustered: 69.33330000000001%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 68.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 108 with core nodes: [12, 32, 51, 57, 70]
+
+step 1
+index added: 109
+percentage unclustered: 68.66669999999999%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 68.66669999999999%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 68.66669999999999%
+
+	step 2
+
+step 1
+index added: 112
+percentage unclustered: 69.33330000000001%
+
+	step 2
+
+step 1
+index added: 113
+percentage unclustered: 71.33330000000001%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 70.66669999999999%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 70.66669999999999%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 118 with core nodes: [12, 32, 57]
+
+step 1
+index added: 119
+percentage unclustered: 66.0%
+
+	step 2
+
+		step 3
+		candidate index: 119 with core nodes: [12, 32, 57]
+
+step 1
+index added: 120
+percentage unclustered: 64.0%
+
+	step 2
+
+		step 3
+		candidate index: 120 with core nodes: [12, 32, 57]
+
+step 1
+index added: 121
+percentage unclustered: 64.0%
+
+	step 2
+
+step 1
+index added: 122
+percentage unclustered: 63.3333%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 62.6667%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 62.0%
+
+	step 2
+
+step 1
+index added: 125
+percentage unclustered: 62.0%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 62.0%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 62.0%
+
+	step 2
+
+step 1
+index added: 128
+percentage unclustered: 62.0%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 61.3333%
+
+	step 2
+
+step 1
+index added: 130
+percentage unclustered: 61.3333%
+
+	step 2
+
+step 1
+index added: 131
+percentage unclustered: 60.6667%
+
+	step 2
+
+step 1
+index added: 132
+percentage unclustered: 60.6667%
+
+	step 2
+
+step 1
+index added: 133
+percentage unclustered: 60.0%
+
+	step 2
+
+		step 3
+		candidate index: 133 with core nodes: [12, 17, 32, 107]
+
+step 1
+index added: 134
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 135
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 136
+percentage unclustered: 61.3333%
+
+	step 2
+
+		step 3
+		candidate index: 136 with core nodes: [12, 17, 32, 107]
+
+step 1
+index added: 137
+percentage unclustered: 61.3333%
+
+	step 2
+
+step 1
+index added: 138
+percentage unclustered: 60.6667%
+
+	step 2
+
+		step 3
+		candidate index: 138 with core nodes: [12, 17, 32, 107]
+
+step 1
+index added: 139
+percentage unclustered: 60.6667%
+
+	step 2
+
+step 1
+index added: 140
+percentage unclustered: 60.6667%
+
+	step 2
+
+step 1
+index added: 141
+percentage unclustered: 60.6667%
+
+	step 2
+
+step 1
+index added: 142
+percentage unclustered: 57.3333%
+
+	step 2
+
+		step 3
+		candidate index: 142 with core nodes: [12, 17, 32, 107]
+
+step 1
+index added: 143
+percentage unclustered: 56.6667%
+
+	step 2
+
+		step 3
+		candidate index: 143 with core nodes: [12, 17, 32, 107]
+			old information: 3974, gain: 0.855464629932715
+
+     ind                                             review  relevance
+0    32  i ll hold off on technical issues lets start w...   0.878745
+1    33  revised on 3 16 12 7 30 pm est n nhave n t had...   0.873853
+2    83  i highly recommend this case for the ipad i pu...   0.858248
+3    57  update 1 10 13 ni ve had this case for about 1...   0.846118
+4    12  i purchased this case for my 3rd generation ip...   0.840820
+5    70  i have used this case since the release of the...   0.839902
+6    23  we initially got the version which fit the ipa...   0.828846
+7   143  first off let me just say that i ve loved this...   0.811699
+8    11  updated review n nso i had this case and my ne...   0.807718
+9    16  this case is perfect as far as i am concerned ...   0.796753
+10    8  love this case i did lots of research before i...   0.778246
+11    9  when i bought the ipad 3 i was drawn to the ma...   0.770283
+12   42  after reading many review said that the cover ...   0.770249
+13   28  unfortunately the seller must have jumped the ...   0.751173
+14   73  the design is very slim and light weight the l...   0.737020
+15   13  this is exactly what i m looking for smart cov...   0.693021
+16    7  i m a hard customer to impress and i rarely gi...   0.690848
+17   26  this case is amazing for so much less than the...   0.653982
+18    6  i have only had this a few days but it arrived...   0.605452
+
+step 1
+index added: 144
+percentage unclustered: 57.3333%
+
+	step 2
+
+step 1
+index added: 145
+percentage unclustered: 57.3333%
+
+	step 2
+
+step 1
+index added: 146
+percentage unclustered: 59.3333%
+
+	step 2
+
+step 1
+index added: 147
+percentage unclustered: 58.6667%
+
+	step 2
+
+step 1
+index added: 148
+percentage unclustered: 58.6667%
+
+	step 2
+
+step 1
+index added: 149
+percentage unclustered: 58.6667%
+
+	step 2
+
+--- 495.6151053905487 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 98.0, 96.6667, 96.0, 95.3333, 95.3333, 94.6667, 96.6667, 96.0, 96.0, 96.0, 95.3333, 95.3333, 95.3333, 95.3333, 95.3333, 95.3333, 95.3333, 94.6667, 94.0, 94.0, 95.3333, 95.3333, 91.3333, 91.3333, 90.6667, 90.6667, 88.0, 87.3333, 87.3333, 86.6667, 86.0, 86.0, 86.0, 87.3333, 84.0, 84.0, 84.0, 83.33330000000001, 82.66669999999999, 82.66669999999999, 82.66669999999999, 82.0, 82.0, 82.66669999999999, 86.6667, 86.0, 86.0, 84.0, 84.0, 84.0, 84.0, 83.33330000000001, 83.33330000000001, 84.6667, 84.6667, 84.0, 84.0, 83.33330000000001, 83.33330000000001, 83.33330000000001, 83.33330000000001, 83.33330000000001, 83.33330000000001, 83.33330000000001, 82.66669999999999, 82.0, 85.3333, 84.6667, 84.6667, 85.3333, 85.3333, 85.3333, 84.6667, 84.6667, 84.6667, 84.6667, 84.6667, 84.6667, 84.6667, 84.6667, 84.6667, 82.0, 79.33330000000001, 79.33330000000001, 77.33330000000001, 76.66669999999999, 76.66669999999999, 76.66669999999999, 76.66669999999999, 74.0, 74.0, 73.33330000000001, 71.33330000000001, 71.33330000000001, 70.66669999999999, 72.66669999999999, 72.66669999999999, 72.66669999999999, 71.33330000000001, 72.0, 71.33330000000001, 69.33330000000001, 68.66669999999999, 68.66669999999999, 68.66669999999999, 68.66669999999999, 69.33330000000001, 71.33330000000001, 70.66669999999999, 70.66669999999999, 70.0, 70.0, 66.66669999999999, 66.0, 64.0, 64.0, 63.3333, 62.6667, 62.0, 62.0, 62.0, 62.0, 62.0, 61.3333, 61.3333, 60.6667, 60.6667, 60.0, 60.0, 60.0, 61.3333, 61.3333, 60.6667, 60.6667, 60.6667, 60.6667, 57.3333, 56.6667, 57.3333, 57.3333, 59.3333, 58.6667, 58.6667, 58.6667], mean: 79.1712
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0        33   32   0.878745  i ll hold off on technical issues lets start w...
+1        34   33   0.873853  revised on 3 16 12 7 30 pm est n nhave n t had...
+2        84   83   0.858248  i highly recommend this case for the ipad i pu...
+3        58   57   0.846118  update 1 10 13 ni ve had this case for about 1...
+4        13   12   0.840820  i purchased this case for my 3rd generation ip...
+5        71   70   0.839902  i have used this case since the release of the...
+6        24   23   0.828846  we initially got the version which fit the ipa...
+7       144  143   0.811699  first off let me just say that i ve loved this...
+8        12   11   0.807718  updated review n nso i had this case and my ne...
+9        17   16   0.796753  this case is perfect as far as i am concerned ...
+10        9    8   0.778246  love this case i did lots of research before i...
+11       10    9   0.770283  when i bought the ipad 3 i was drawn to the ma...
+12       43   42   0.770249  after reading many review said that the cover ...
+13       29   28   0.751173  unfortunately the seller must have jumped the ...
+14       74   73   0.737020  the design is very slim and light weight the l...
+15       14   13   0.693021  this is exactly what i m looking for smart cov...
+16        8    7   0.690848  i m a hard customer to impress and i rarely gi...
+17       27   26   0.653982  this case is amazing for so much less than the...
+18        7    6   0.605452  i have only had this a few days but it arrived...

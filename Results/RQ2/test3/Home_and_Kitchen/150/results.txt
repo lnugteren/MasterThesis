@@ -1,0 +1,1129 @@
+------- Category: Home_and_Kitchen -------
+Found asin_id: B0153NEBPI
+Shape:  (150, 7)
+Shape after:  (150, 7)
+
+
+Chosen product: B0153NEBPI has 150 reviews - True, it has 150 reviews
+
+Nr of stopwords in review: ['101/180', '41/87', '35/71', '77/135', '23/44', '44/93', '36/65', '11/21', '257/453', '32/66', '19/34', '70/139', '26/39', '39/69', '33/65', '41/78', '20/48', '65/122', '17/45', '38/74', '44/75', '21/42', '31/61', '28/55', '15/40', '20/39', '33/62', '21/37', '87/151', '12/25', '40/72', '57/103', '16/31', '8/15', '5/10', '8/18', '20/36', '19/36', '0/1', '4/11', '4/8', '13/35', '27/57', '4/7', '11/25', '24/47', '37/67', '55/111', '27/65', '8/17', '5/12', '9/14', '41/68', '15/27', '24/45', '1/2', '2/9', '68/130', '17/32', '10/23', '8/13', '0/2', '16/33', '64/119', '8/15', '8/12', '12/25', '6/15', '52/98', '28/66', '3/8', '11/23', '1/2', '16/35', '9/20', '11/21', '3/9', '11/21', '0/1', '22/41', '5/16', '27/50', '4/8', '7/13', '22/37', '8/16', '3/6', '8/16', '2/4', '1/6', '60/96', '7/15', '13/36', '47/97', '10/20', '3/6', '2/5', '6/12', '14/30', '0/1', '66/118', '16/35', '1/5', '16/25', '3/7', '16/34', '2/5', '8/20', '21/34', '8/15', '37/72', '20/39', '30/65', '3/8', '25/43', '5/14', '10/17', '52/84', '56/128', '2/6', '29/51', '45/91', '3/5', '5/15', '1/2', '6/11', '38/70', '24/40', '6/13', '4/16', '43/89', '25/37', '5/10', '37/68', '25/48', '21/44', '25/44', '8/14', '15/33', '38/72', '14/26', '13/23', '24/54', '14/24', '48/83', '17/34', '25/46', '12/26', '105/200', '6/10'], on average: 0.4847
+Nr of stopwords in summary: ['0/3', '0/2', '1/3', '1/4', '5/9', '5/10', '4/6', '6/10', '4/10', '0/2', '1/3', '1/6', '5/7', '2/6', '2/5', '1/4', '6/10', '3/10', '0/4', '0/2', '3/4', '1/4', '1/6', '3/7', '3/7', '4/8', '1/4', '0/2', '0/3', '1/3', '8/13', '1/3', '4/7', '2/6', '5/10', '3/7', '9/17', '1/3', '0/2', '0/2', '0/2', '3/5', '2/5', '0/2', '1/8', '5/9', '1/3', '8/13', '2/5', '0/2', '2/4', '2/4', '9/14', '6/10', '2/5', '0/2', '0/2', '4/7', '1/2', '0/2', '2/5', '0/2', '6/13', '2/5', '0/3', '6/10', '0/2', '4/7', '3/7', '0/3', '0/2', '5/8', '0/1', '6/13', '5/9', '0/2', '0/2', '2/4', '0/2', '0/4', '0/2', '5/9', '0/2', '0/2', '2/4', '1/3', '0/2', '0/2', '0/2', '2/4', '6/11', '0/2', '1/3', '6/12', '0/1', '0/2', '0/2', '0/2', '3/8', '0/2', '2/5', '4/10', '0/2', '0/1', '0/2', '0/2', '0/1', '0/1', '8/10', '2/5', '4/9', '9/17', '0/4', '0/2', '6/9', '1/3', '0/1', '2/4', '2/5', '0/2', '2/6', '7/16', '0/2', '0/1', '0/2', '1/5', '1/4', '1/3', '0/2', '2/5', '3/8', '7/11', '1/3', '0/2', '1/3', '1/3', '1/4', '0/2', '0/2', '1/4', '0/2', '3/5', '5/12', '4/9', '6/10', '3/8', '2/4', '1/3', '3/6', '0/1'], on average: 0.2777
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 98.0%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [4, 6, 7]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   7  they folded it in half the wrong way and now t...   0.341061
+
+step 1
+index added: 8
+percentage unclustered: 96.6667%
+
+	step 2
+
+		step 3
+		candidate index: 8 with core nodes: [2, 6, 7, 8]
+			old information: 37, gain: 0.999638594229229
+
+   ind                                             review  relevance
+0   8  i m so glad i bought this mat this is a replac...   0.737644
+1   7  they folded it in half the wrong way and now t...   0.341061
+
+step 1
+index added: 9
+percentage unclustered: 96.0%
+
+	step 2
+
+		step 3
+		candidate index: 9 with core nodes: [2, 6, 7, 8, 9]
+			old information: 411, gain: 0.8083916083916084
+
+   ind                                             review  relevance
+0   8  i m so glad i bought this mat this is a replac...   0.737644
+1   9  really great mat for the kitchen and elsewhere...   0.526129
+2   7  they folded it in half the wrong way and now t...   0.341061
+
+step 1
+index added: 10
+percentage unclustered: 96.0%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 97.3333%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 97.3333%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 97.3333%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 95.3333%
+
+	step 2
+
+		step 3
+		candidate index: 14 with core nodes: [2, 6, 8, 14]
+			old information: 332, gain: 0.8403846153846154
+
+   ind                                             review  relevance
+0   8  i m so glad i bought this mat this is a replac...   0.737644
+1  14  it came rolled up and the creases remain we de...   0.581198
+2   9  really great mat for the kitchen and elsewhere...   0.526129
+3   7  they folded it in half the wrong way and now t...   0.341061
+
+step 1
+index added: 15
+percentage unclustered: 95.3333%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 95.3333%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 93.3333%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [2, 6, 8, 17]
+			old information: 729, gain: 0.9012328952716434
+
+   ind                                             review  relevance
+0   8  i m so glad i bought this mat this is a replac...   0.737644
+1  17  i just received this in the mail today and the...   0.709402
+2  14  it came rolled up and the creases remain we de...   0.581198
+3   9  really great mat for the kitchen and elsewhere...   0.526129
+4   7  they folded it in half the wrong way and now t...   0.341061
+
+step 1
+index added: 18
+percentage unclustered: 93.3333%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 93.3333%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 92.6667%
+
+	step 2
+
+		step 3
+		candidate index: 20 with core nodes: [2, 6, 8, 20]
+			old information: 574, gain: 0.7931531531531532
+
+   ind                                             review  relevance
+0   8  i m so glad i bought this mat this is a replac...   0.737644
+1  17  i just received this in the mail today and the...   0.709402
+2  20  i for many many years have bought cheap foam m...   0.655336
+3  14  it came rolled up and the creases remain we de...   0.581198
+4   9  really great mat for the kitchen and elsewhere...   0.526129
+5   7  they folded it in half the wrong way and now t...   0.341061
+
+step 1
+index added: 21
+percentage unclustered: 92.0%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 91.3333%
+
+	step 2
+
+		step 3
+		candidate index: 22 with core nodes: [6, 8, 20]
+
+step 1
+index added: 23
+percentage unclustered: 91.3333%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 90.6667%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 89.3333%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 88.6667%
+
+	step 2
+
+		step 3
+		candidate index: 26 with core nodes: [3, 14, 26]
+			old information: 456, gain: 0.7588577472236911
+
+   ind                                             review  relevance
+0   8  i m so glad i bought this mat this is a replac...   0.737644
+1  17  i just received this in the mail today and the...   0.709402
+2  20  i for many many years have bought cheap foam m...   0.655336
+3  14  it came rolled up and the creases remain we de...   0.581198
+4  26  this mat is so comfortable i bought it for my ...   0.560326
+5   9  really great mat for the kitchen and elsewhere...   0.526129
+6   7  they folded it in half the wrong way and now t...   0.341061
+
+step 1
+index added: 27
+percentage unclustered: 88.6667%
+
+	step 2
+
+step 1
+index added: 28
+percentage unclustered: 88.6667%
+
+	step 2
+
+step 1
+index added: 29
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 30
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 31
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 32
+percentage unclustered: 89.3333%
+
+	step 2
+
+step 1
+index added: 33
+percentage unclustered: 89.3333%
+
+	step 2
+
+step 1
+index added: 34
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 35
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 36
+percentage unclustered: 90.0%
+
+	step 2
+
+step 1
+index added: 37
+percentage unclustered: 88.0%
+
+	step 2
+
+		step 3
+		candidate index: 37 with core nodes: [6, 8, 20, 28]
+
+step 1
+index added: 38
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 39
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 40
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 41
+percentage unclustered: 88.0%
+
+	step 2
+
+step 1
+index added: 42
+percentage unclustered: 86.0%
+
+	step 2
+
+step 1
+index added: 43
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 44
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 45
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 46
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 47
+percentage unclustered: 82.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 47 with core nodes: [6, 8, 20, 28, 47]
+			old information: 863, gain: 0.8586404586404587
+
+   ind                                             review  relevance
+0   8  i m so glad i bought this mat this is a replac...   0.737644
+1  17  i just received this in the mail today and the...   0.709402
+2  47  i was looking for a anti fatigue mat for my ki...   0.705653
+3  20  i for many many years have bought cheap foam m...   0.655336
+4  14  it came rolled up and the creases remain we de...   0.581198
+5  26  this mat is so comfortable i bought it for my ...   0.560326
+6   9  really great mat for the kitchen and elsewhere...   0.526129
+7   7  they folded it in half the wrong way and now t...   0.341061
+
+step 1
+index added: 48
+percentage unclustered: 82.66669999999999%
+
+	step 2
+
+step 1
+index added: 49
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 50
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 51
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 52
+percentage unclustered: 81.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 52 with core nodes: [6, 8, 20, 28, 47]
+
+step 1
+index added: 53
+percentage unclustered: 82.66669999999999%
+
+	step 2
+
+step 1
+index added: 54
+percentage unclustered: 82.66669999999999%
+
+	step 2
+
+step 1
+index added: 55
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 56
+percentage unclustered: 81.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 56 with core nodes: [6, 8, 20, 28, 47]
+
+step 1
+index added: 57
+percentage unclustered: 80.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 57 with core nodes: [6, 8, 20, 28, 47]
+
+step 1
+index added: 58
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 58 with core nodes: [6, 8, 20, 28, 47]
+
+step 1
+index added: 59
+percentage unclustered: 79.33330000000001%
+
+	step 2
+
+step 1
+index added: 60
+percentage unclustered: 79.33330000000001%
+
+	step 2
+
+step 1
+index added: 61
+percentage unclustered: 78.66669999999999%
+
+	step 2
+
+step 1
+index added: 62
+percentage unclustered: 78.66669999999999%
+
+	step 2
+
+step 1
+index added: 63
+percentage unclustered: 78.66669999999999%
+
+	step 2
+
+step 1
+index added: 64
+percentage unclustered: 78.66669999999999%
+
+	step 2
+
+step 1
+index added: 65
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+step 1
+index added: 66
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 67
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 68
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 69
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 70
+percentage unclustered: 81.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 70 with core nodes: [3, 6, 17, 20, 28, 45]
+
+		step 3
+		candidate index: 70 with core nodes: [6, 11, 17, 28, 45, 57]
+
+step 1
+index added: 71
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 72
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 73
+percentage unclustered: 84.0%
+
+	step 2
+
+step 1
+index added: 74
+percentage unclustered: 83.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 74 with core nodes: [3, 6, 17, 20, 28, 45]
+
+		step 3
+		candidate index: 74 with core nodes: [3, 6, 11, 20, 28, 57]
+
+		step 3
+		candidate index: 74 with core nodes: [6, 11, 17, 28, 45, 57]
+
+step 1
+index added: 75
+percentage unclustered: 82.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 75 with core nodes: [3, 6, 11, 20, 28, 57]
+
+step 1
+index added: 76
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 77
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 78
+percentage unclustered: 81.33330000000001%
+
+	step 2
+
+step 1
+index added: 79
+percentage unclustered: 82.0%
+
+	step 2
+
+step 1
+index added: 80
+percentage unclustered: 77.33330000000001%
+
+	step 2
+
+step 1
+index added: 81
+percentage unclustered: 76.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 81 with core nodes: [6, 11, 17, 28, 45, 57]
+
+step 1
+index added: 82
+percentage unclustered: 76.0%
+
+	step 2
+
+		step 3
+		candidate index: 82 with core nodes: [6, 11, 17, 28, 45, 57]
+
+step 1
+index added: 83
+percentage unclustered: 75.33330000000001%
+
+	step 2
+
+step 1
+index added: 84
+percentage unclustered: 75.33330000000001%
+
+	step 2
+
+step 1
+index added: 85
+percentage unclustered: 75.33330000000001%
+
+	step 2
+
+step 1
+index added: 86
+percentage unclustered: 74.66669999999999%
+
+	step 2
+
+step 1
+index added: 87
+percentage unclustered: 74.0%
+
+	step 2
+
+		step 3
+		candidate index: 87 with core nodes: [6, 11, 17, 28, 45, 57]
+
+step 1
+index added: 88
+percentage unclustered: 73.33330000000001%
+
+	step 2
+
+step 1
+index added: 89
+percentage unclustered: 72.0%
+
+	step 2
+
+step 1
+index added: 90
+percentage unclustered: 71.33330000000001%
+
+	step 2
+
+		step 3
+		candidate index: 90 with core nodes: [6, 11, 17, 28, 45, 57]
+
+step 1
+index added: 91
+percentage unclustered: 70.66669999999999%
+
+	step 2
+
+step 1
+index added: 92
+percentage unclustered: 70.66669999999999%
+
+	step 2
+
+step 1
+index added: 93
+percentage unclustered: 70.66669999999999%
+
+	step 2
+
+step 1
+index added: 94
+percentage unclustered: 72.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 94 with core nodes: [6, 11, 17, 20, 28, 45, 57]
+
+step 1
+index added: 95
+percentage unclustered: 72.0%
+
+	step 2
+
+step 1
+index added: 96
+percentage unclustered: 71.33330000000001%
+
+	step 2
+
+step 1
+index added: 97
+percentage unclustered: 70.66669999999999%
+
+	step 2
+
+step 1
+index added: 98
+percentage unclustered: 71.33330000000001%
+
+	step 2
+
+step 1
+index added: 99
+percentage unclustered: 70.66669999999999%
+
+	step 2
+
+step 1
+index added: 100
+percentage unclustered: 70.66669999999999%
+
+	step 2
+
+step 1
+index added: 101
+percentage unclustered: 70.66669999999999%
+
+	step 2
+
+step 1
+index added: 102
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 102 with core nodes: [43, 61, 102]
+			old information: 5, gain: 0.5
+
+    ind                                             review  relevance
+0    8  i m so glad i bought this mat this is a replac...   0.737644
+1   17  i just received this in the mail today and the...   0.709402
+2   47  i was looking for a anti fatigue mat for my ki...   0.705653
+3   20  i for many many years have bought cheap foam m...   0.655336
+4   14  it came rolled up and the creases remain we de...   0.581198
+5   26  this mat is so comfortable i bought it for my ...   0.560326
+6    9  really great mat for the kitchen and elsewhere...   0.526129
+7    7  they folded it in half the wrong way and now t...   0.341061
+8  102                   very comfortable mats great size   0.069638
+
+step 1
+index added: 103
+percentage unclustered: 68.0%
+
+	step 2
+
+step 1
+index added: 104
+percentage unclustered: 67.33330000000001%
+
+	step 2
+
+step 1
+index added: 105
+percentage unclustered: 66.66669999999999%
+
+	step 2
+
+		step 3
+		candidate index: 105 with core nodes: [3, 6, 17, 20, 28, 45]
+
+step 1
+index added: 106
+percentage unclustered: 64.66669999999999%
+
+	step 2
+
+step 1
+index added: 107
+percentage unclustered: 64.66669999999999%
+
+	step 2
+
+step 1
+index added: 108
+percentage unclustered: 64.66669999999999%
+
+	step 2
+
+step 1
+index added: 109
+percentage unclustered: 60.6667%
+
+	step 2
+
+step 1
+index added: 110
+percentage unclustered: 60.6667%
+
+	step 2
+
+step 1
+index added: 111
+percentage unclustered: 59.3333%
+
+	step 2
+
+		step 3
+		candidate index: 111 with core nodes: [6, 8, 20, 28, 47]
+
+step 1
+index added: 112
+percentage unclustered: 58.6667%
+
+	step 2
+
+		step 3
+		candidate index: 112 with core nodes: [6, 8, 20, 28, 47]
+
+step 1
+index added: 113
+percentage unclustered: 58.0%
+
+	step 2
+
+step 1
+index added: 114
+percentage unclustered: 57.3333%
+
+	step 2
+
+step 1
+index added: 115
+percentage unclustered: 56.0%
+
+	step 2
+
+step 1
+index added: 116
+percentage unclustered: 56.0%
+
+	step 2
+
+step 1
+index added: 117
+percentage unclustered: 56.0%
+
+	step 2
+
+step 1
+index added: 118
+percentage unclustered: 55.3333%
+
+	step 2
+
+		step 3
+		candidate index: 118 with core nodes: [6, 8, 20, 28, 47]
+
+step 1
+index added: 119
+percentage unclustered: 54.6667%
+
+	step 2
+
+step 1
+index added: 120
+percentage unclustered: 54.6667%
+
+	step 2
+
+step 1
+index added: 121
+percentage unclustered: 54.0%
+
+	step 2
+
+		step 3
+		candidate index: 121 with core nodes: [6, 8, 20, 28, 47]
+
+step 1
+index added: 122
+percentage unclustered: 53.3333%
+
+	step 2
+
+step 1
+index added: 123
+percentage unclustered: 53.3333%
+
+	step 2
+
+step 1
+index added: 124
+percentage unclustered: 52.6667%
+
+	step 2
+
+		step 3
+		candidate index: 124 with core nodes: [55, 102, 109, 124]
+			old information: 1, gain: 0.0
+
+step 1
+index added: 125
+percentage unclustered: 52.0%
+
+	step 2
+
+step 1
+index added: 126
+percentage unclustered: 52.0%
+
+	step 2
+
+step 1
+index added: 127
+percentage unclustered: 57.3333%
+
+	step 2
+
+		step 3
+		candidate index: 127 with core nodes: [2, 3, 6, 17, 20, 28, 45]
+
+step 1
+index added: 128
+percentage unclustered: 56.6667%
+
+	step 2
+
+step 1
+index added: 129
+percentage unclustered: 54.6667%
+
+	step 2
+
+step 1
+index added: 130
+percentage unclustered: 54.6667%
+
+	step 2
+
+step 1
+index added: 131
+percentage unclustered: 54.6667%
+
+	step 2
+
+step 1
+index added: 132
+percentage unclustered: 54.6667%
+
+	step 2
+
+step 1
+index added: 133
+percentage unclustered: 54.6667%
+
+	step 2
+
+step 1
+index added: 134
+percentage unclustered: 54.0%
+
+	step 2
+
+		step 3
+		candidate index: 134 with core nodes: [2, 3, 6, 17, 20, 28, 45]
+
+step 1
+index added: 135
+percentage unclustered: 56.0%
+
+	step 2
+
+		step 3
+		candidate index: 135 with core nodes: [32, 68, 79]
+
+step 1
+index added: 136
+percentage unclustered: 56.0%
+
+	step 2
+
+step 1
+index added: 137
+percentage unclustered: 55.3333%
+
+	step 2
+
+		step 3
+		candidate index: 137 with core nodes: [32, 68, 79]
+
+step 1
+index added: 138
+percentage unclustered: 55.3333%
+
+	step 2
+
+step 1
+index added: 139
+percentage unclustered: 54.6667%
+
+	step 2
+
+		step 3
+		candidate index: 139 with core nodes: [2, 3, 17, 28, 45, 79, 139]
+			old information: 596, gain: 0.7668231611893583
+
+    ind                                             review  relevance
+0    8  i m so glad i bought this mat this is a replac...   0.737644
+1   17  i just received this in the mail today and the...   0.709402
+2  139  this mat is super comfortable it gives a great...   0.708191
+3   47  i was looking for a anti fatigue mat for my ki...   0.705653
+4   20  i for many many years have bought cheap foam m...   0.655336
+5   14  it came rolled up and the creases remain we de...   0.581198
+6   26  this mat is so comfortable i bought it for my ...   0.560326
+7    9  really great mat for the kitchen and elsewhere...   0.526129
+8    7  they folded it in half the wrong way and now t...   0.341061
+9  102                   very comfortable mats great size   0.069638
+
+		step 3
+		candidate index: 139 with core nodes: [2, 3, 6, 20, 28, 79, 139]
+			old information: 1493, gain: 0.41588419405320814
+
+     ind                                             review  relevance
+0   139  this mat is super comfortable it gives a great...   0.739207
+1     8  i m so glad i bought this mat this is a replac...   0.737644
+2    17  i just received this in the mail today and the...   0.709402
+3   139  this mat is super comfortable it gives a great...   0.708191
+4    47  i was looking for a anti fatigue mat for my ki...   0.705653
+5    20  i for many many years have bought cheap foam m...   0.655336
+6    14  it came rolled up and the creases remain we de...   0.581198
+7    26  this mat is so comfortable i bought it for my ...   0.560326
+8     9  really great mat for the kitchen and elsewhere...   0.526129
+9     7  they folded it in half the wrong way and now t...   0.341061
+10  102                   very comfortable mats great size   0.069638
+
+step 1
+index added: 140
+percentage unclustered: 52.0%
+
+	step 2
+
+		step 3
+		candidate index: 140 with core nodes: [49, 68, 79]
+
+step 1
+index added: 141
+percentage unclustered: 52.0%
+
+	step 2
+
+step 1
+index added: 142
+percentage unclustered: 52.0%
+
+	step 2
+
+step 1
+index added: 143
+percentage unclustered: 52.0%
+
+	step 2
+
+step 1
+index added: 144
+percentage unclustered: 52.6667%
+
+	step 2
+
+step 1
+index added: 145
+percentage unclustered: 53.3333%
+
+	step 2
+
+step 1
+index added: 146
+percentage unclustered: 50.0%
+
+	step 2
+
+		step 3
+		candidate index: 146 with core nodes: [2, 3, 17, 28, 45, 139]
+
+step 1
+index added: 147
+percentage unclustered: 53.3333%
+
+	step 2
+
+step 1
+index added: 148
+percentage unclustered: 53.3333%
+
+	step 2
+
+step 1
+index added: 149
+percentage unclustered: 53.3333%
+
+	step 2
+
+--- 118.84082317352295 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 98.0, 96.6667, 96.0, 96.0, 97.3333, 97.3333, 97.3333, 95.3333, 95.3333, 95.3333, 93.3333, 93.3333, 93.3333, 92.6667, 92.0, 91.3333, 91.3333, 90.6667, 89.3333, 88.6667, 88.6667, 88.6667, 86.0, 86.0, 86.0, 89.3333, 89.3333, 90.0, 90.0, 90.0, 88.0, 88.0, 88.0, 88.0, 88.0, 86.0, 84.0, 84.0, 82.0, 82.0, 82.66669999999999, 82.66669999999999, 82.0, 82.0, 82.0, 81.33330000000001, 82.66669999999999, 82.66669999999999, 82.0, 81.33330000000001, 80.66669999999999, 80.0, 79.33330000000001, 79.33330000000001, 78.66669999999999, 78.66669999999999, 78.66669999999999, 78.66669999999999, 76.66669999999999, 82.0, 82.0, 82.0, 82.0, 81.33330000000001, 82.0, 82.0, 84.0, 83.33330000000001, 82.66669999999999, 82.0, 82.0, 81.33330000000001, 82.0, 77.33330000000001, 76.66669999999999, 76.0, 75.33330000000001, 75.33330000000001, 75.33330000000001, 74.66669999999999, 74.0, 73.33330000000001, 72.0, 71.33330000000001, 70.66669999999999, 70.66669999999999, 70.66669999999999, 72.66669999999999, 72.0, 71.33330000000001, 70.66669999999999, 71.33330000000001, 70.66669999999999, 70.66669999999999, 70.66669999999999, 70.0, 68.0, 67.33330000000001, 66.66669999999999, 64.66669999999999, 64.66669999999999, 64.66669999999999, 60.6667, 60.6667, 59.3333, 58.6667, 58.0, 57.3333, 56.0, 56.0, 56.0, 55.3333, 54.6667, 54.6667, 54.0, 53.3333, 53.3333, 52.6667, 52.0, 52.0, 57.3333, 56.6667, 54.6667, 54.6667, 54.6667, 54.6667, 54.6667, 54.0, 56.0, 56.0, 55.3333, 55.3333, 54.6667, 52.0, 52.0, 52.0, 52.0, 52.6667, 53.3333, 50.0, 53.3333, 53.3333, 53.3333], mean: 75.1486
+
+Final Ranking:
+    ranking  ind  relevance                                             review
+0       150  139   0.739207  this mat is super comfortable it gives a great...
+1        64    8   0.737644  i m so glad i bought this mat this is a replac...
+2        11   17   0.709402  i just received this in the mail today and the...
+3       150  139   0.708191  this mat is super comfortable it gives a great...
+4        92   47   0.705653  i was looking for a anti fatigue mat for my ki...
+5       113   20   0.655336  i for many many years have bought cheap foam m...
+6        13   14   0.581198  it came rolled up and the creases remain we de...
+7        86   26   0.560326  this mat is so comfortable i bought it for my ...
+8        19    9   0.526129  really great mat for the kitchen and elsewhere...
+9        43    7   0.341061  they folded it in half the wrong way and now t...
+10      100  102   0.069638                   very comfortable mats great size

@@ -1,0 +1,224 @@
+------- Category: Home_and_Kitchen -------
+Found asin_id: B00004OCNR
+Shape:  (20, 7)
+Shape after:  (20, 7)
+
+
+Chosen product: B00004OCNR has 20 reviews - True, it has 20 reviews
+
+Nr of stopwords in review: ['100/205', '48/94', '25/63', '24/37', '27/51', '59/128', '32/60', '21/40', '28/67', '8/23', '32/82', '19/47', '63/135', '23/49', '33/74', '63/136', '23/42', '130/261', '127/237', '27/66'], on average: 0.4744
+Nr of stopwords in summary: ['1/2', '1/5', '0/2', '0/3', '0/3', '2/5', '0/2', '2/5', '4/10', '0/2', '0/4', '3/6', '0/2', '1/3', '1/3', '1/6', '1/3', '1/3', '0/2', '2/6'], on average: 0.2117
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 85.0%
+
+	step 2
+
+		step 3
+		candidate index: 3 with core nodes: [1, 2, 3]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   3  this is a mid size whisk not a full size one i...   0.396416
+
+step 1
+index added: 4
+percentage unclustered: 80.0%
+
+	step 2
+
+		step 3
+		candidate index: 4 with core nodes: [1, 2, 3, 4]
+			old information: 30, gain: 0.9764705882352941
+
+   ind                                             review  relevance
+0   4  this whisk is solidly constucted you wo n t ha...   0.537724
+1   3  this is a mid size whisk not a full size one i...   0.396416
+
+step 1
+index added: 5
+percentage unclustered: 80.0%
+
+	step 2
+
+step 1
+index added: 6
+percentage unclustered: 75.0%
+
+	step 2
+
+		step 3
+		candidate index: 6 with core nodes: [1, 2, 4, 6]
+			old information: 118, gain: 0.9333333333333333
+
+   ind                                             review  relevance
+0   6  all oxo products are a dream to use so the whi...   0.600348
+1   4  this whisk is solidly constucted you wo n t ha...   0.537724
+2   3  this is a mid size whisk not a full size one i...   0.396416
+
+step 1
+index added: 7
+percentage unclustered: 70.0%
+
+	step 2
+
+		step 3
+		candidate index: 7 with core nodes: [1, 2, 4, 6]
+
+step 1
+index added: 8
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 70.0%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 65.0%
+
+	step 2
+
+		step 3
+		candidate index: 10 with core nodes: [1, 2, 4, 6, 10]
+			old information: 106, gain: 0.9680819030412526
+
+   ind                                             review  relevance
+0   6  all oxo products are a dream to use so the whi...   0.600348
+1  10  it s puny na 10 inch chef s knife has a 10 inc...   0.548103
+2   4  this whisk is solidly constucted you wo n t ha...   0.537724
+3   3  this is a mid size whisk not a full size one i...   0.396416
+
+step 1
+index added: 11
+percentage unclustered: 60.0%
+
+	step 2
+
+		step 3
+		candidate index: 11 with core nodes: [1, 2, 4, 6, 10]
+			old information: 78, gain: 0.9278445883441259
+
+   ind                                             review  relevance
+0   6  all oxo products are a dream to use so the whi...   0.600348
+1  10  it s puny na 10 inch chef s knife has a 10 inc...   0.548103
+2   4  this whisk is solidly constucted you wo n t ha...   0.537724
+3  11  this is a good little whisk but is smaller tha...   0.523688
+4   3  this is a mid size whisk not a full size one i...   0.396416
+
+step 1
+index added: 12
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 60.0%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 55.0%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [4, 6, 15]
+			old information: 416, gain: 0.9546840958605665
+
+   ind                                             review  relevance
+0  15  i love all the oxo good grips kitchen utensils...   0.698106
+1   6  all oxo products are a dream to use so the whi...   0.600348
+2  10  it s puny na 10 inch chef s knife has a 10 inc...   0.548103
+3   4  this whisk is solidly constucted you wo n t ha...   0.537724
+4  11  this is a good little whisk but is smaller tha...   0.523688
+5   3  this is a mid size whisk not a full size one i...   0.396416
+
+step 1
+index added: 16
+percentage unclustered: 50.0%
+
+	step 2
+
+		step 3
+		candidate index: 16 with core nodes: [4, 6, 15]
+
+step 1
+index added: 17
+percentage unclustered: 45.0%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [4, 6, 15, 17]
+			old information: 852, gain: 0.9748894783377542
+
+   ind                                             review  relevance
+0  17  not only is this my favorite whisk it is truly...   0.790844
+1  15  i love all the oxo good grips kitchen utensils...   0.698106
+2   6  all oxo products are a dream to use so the whi...   0.600348
+3  10  it s puny na 10 inch chef s knife has a 10 inc...   0.548103
+4   4  this whisk is solidly constucted you wo n t ha...   0.537724
+5  11  this is a good little whisk but is smaller tha...   0.523688
+6   3  this is a mid size whisk not a full size one i...   0.396416
+
+step 1
+index added: 18
+percentage unclustered: 55.0%
+
+	step 2
+
+		step 3
+		candidate index: 18 with core nodes: [4, 6, 17, 18]
+			old information: 1270, gain: 0.9545877136522921
+
+   ind                                             review  relevance
+0  18  i bought this whisk because my old one finally...   0.797800
+1  17  not only is this my favorite whisk it is truly...   0.790844
+2  15  i love all the oxo good grips kitchen utensils...   0.698106
+3   6  all oxo products are a dream to use so the whi...   0.600348
+4  10  it s puny na 10 inch chef s knife has a 10 inc...   0.548103
+5   4  this whisk is solidly constucted you wo n t ha...   0.537724
+6  11  this is a good little whisk but is smaller tha...   0.523688
+7   3  this is a mid size whisk not a full size one i...   0.396416
+
+step 1
+index added: 19
+percentage unclustered: 55.0%
+
+	step 2
+
+--- 12.058510303497314 seconds ---
+
+
+ Unclustered percentages: [100.0, 85.0, 80.0, 80.0, 75.0, 70.0, 70.0, 70.0, 65.0, 60.0, 60.0, 60.0, 60.0, 55.0, 50.0, 45.0, 55.0, 55.0], mean: 66.3889
+
+Final Ranking:
+   ranking ind  relevance                                             review
+0       13  18   0.797800  i bought this whisk because my old one finally...
+1        3  17   0.790844  not only is this my favorite whisk it is truly...
+2       18  15   0.698106  i love all the oxo good grips kitchen utensils...
+3        8   6   0.600348  all oxo products are a dream to use so the whi...
+4        7  10   0.548103  it s puny na 10 inch chef s knife has a 10 inc...
+5       15   4   0.537724  this whisk is solidly constucted you wo n t ha...
+6        5  11   0.523688  this is a good little whisk but is smaller tha...
+7       17   3   0.396416  this is a mid size whisk not a full size one i...
