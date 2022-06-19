@@ -1,0 +1,127 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 0615115187
+Shape:  (30, 7)
+Shape after:  (30, 7)
+
+
+Chosen product: 0615115187 has 30 reviews - True, it has 30 reviews
+
+Removed indexes: [3, 4, 8, 13, 14, 16, 18, 24, 27]
+New length of reviews: 21
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 100.0%
+
+step 1
+index added: 11
+percentage unclustered: 100.0%
+
+step 1
+index added: 12
+percentage unclustered: 100.0%
+
+step 1
+index added: 13
+percentage unclustered: 100.0%
+
+step 1
+index added: 14
+percentage unclustered: 100.0%
+
+step 1
+index added: 15
+percentage unclustered: 85.7143%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [1, 2, 15]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0  15  great short film well worth funny movie re tru...   0.294086
+
+step 1
+index added: 16
+percentage unclustered: 85.7143%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 80.9524%
+
+	step 2
+
+		step 3
+		candidate index: 17 with core nodes: [1, 2, 15, 17]
+			old information: 3, gain: 0.9979035639412998
+
+   ind                                             review  relevance
+0  15  great short film well worth funny movie re tru...   0.294086
+1  17  whitty refreshingly original portrayal birth s...   0.202378
+
+step 1
+index added: 18
+percentage unclustered: 80.9524%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 80.9524%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 80.9524%
+
+	step 2
+
+--- 0.4162864685058594 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 85.7143, 85.7143, 80.9524, 80.9524, 80.9524, 80.9524], mean: 94.4862
+
+Final Ranking:
+   ranking  ...                                             review
+0        6  ...  great short film well worth funny movie re tru...
+1       10  ...  whitty refreshingly original portrayal birth s...
+
+[2 rows x 4 columns]

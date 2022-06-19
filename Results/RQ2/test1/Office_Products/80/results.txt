@@ -1,0 +1,159 @@
+------- Category: Office_Products -------
+Found asin_id: B00000J4FS
+Shape:  (80, 7)
+Shape after:  (80, 7)
+
+
+Chosen product: B00000J4FS has 80 reviews - True, it has 80 reviews
+
+Removed indexes: [3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 16, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 33, 34, 35, 36, 38, 40, 42, 43, 45, 46, 47, 48, 49, 50, 51, 53, 55, 57, 58, 59, 60, 61, 62, 64, 65, 69, 70, 71, 73, 74, 75, 77, 78, 79]
+New length of reviews: 22
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 86.3636%
+
+	step 2
+
+		step 3
+		candidate index: 2 with core nodes: [0, 1, 2]
+			old information: 0, gain: 1.0
+
+   ind                                             review  relevance
+0   2  one palm real groundbreaking handhelds sleek c...   0.209913
+
+step 1
+index added: 3
+percentage unclustered: 86.3636%
+
+	step 2
+
+step 1
+index added: 4
+percentage unclustered: 86.3636%
+
+	step 2
+
+step 1
+index added: 5
+percentage unclustered: 86.3636%
+
+	step 2
+
+step 1
+index added: 6
+percentage unclustered: 86.3636%
+
+	step 2
+
+step 1
+index added: 7
+percentage unclustered: 86.3636%
+
+	step 2
+
+step 1
+index added: 8
+percentage unclustered: 86.3636%
+
+	step 2
+
+step 1
+index added: 9
+percentage unclustered: 86.3636%
+
+	step 2
+
+step 1
+index added: 10
+percentage unclustered: 86.3636%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 86.3636%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 86.3636%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 86.3636%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 86.3636%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 81.8182%
+
+	step 2
+
+		step 3
+		candidate index: 15 with core nodes: [0, 1, 2, 15]
+			old information: 11, gain: 0.9803921568627451
+
+   ind                                             review  relevance
+0  15  palm v really helped become organized things l...   0.270973
+1   2  one palm real groundbreaking handhelds sleek c...   0.209913
+
+step 1
+index added: 16
+percentage unclustered: 81.8182%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 81.8182%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 77.2727%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 77.2727%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 77.2727%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 77.2727%
+
+	step 2
+
+--- 0.4870879650115967 seconds ---
+
+
+ Unclustered percentages: [86.3636, 86.3636, 86.3636, 86.3636, 86.3636, 86.3636, 86.3636, 86.3636, 86.3636, 86.3636, 86.3636, 86.3636, 86.3636, 81.8182, 81.8182, 81.8182, 77.2727, 77.2727, 77.2727, 77.2727], mean: 83.8636
+
+Final Ranking:
+   ranking  ...                                             review
+0       75  ...  palm v really helped become organized things l...
+1       71  ...  one palm real groundbreaking handhelds sleek c...
+
+[2 rows x 4 columns]

@@ -1,0 +1,26 @@
+------- Category: Movies_and_TV -------
+Found asin_id: 0767015525
+Shape:  (20, 7)
+Shape after:  (20, 7)
+
+
+Chosen product: 0767015525 has 20 reviews - True, it has 20 reviews
+
+Removed indexes: [0, 1, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17, 19]
+New length of reviews: 3
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+--- 0.004797220230102539 seconds ---
+
+
+ Unclustered percentages: [100.0], mean: 100.0
+
+Final Ranking:
+Empty DataFrame
+Columns: [ranking, ind, relevance, review]
+Index: []

@@ -1,0 +1,162 @@
+------- Category: Office_Products -------
+Found asin_id: B000V2QCQI
+Shape:  (160, 7)
+Shape after:  (160, 7)
+
+
+Chosen product: B000V2QCQI has 160 reviews - True, it has 160 reviews
+
+Removed indexes: [0, 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 28, 29, 31, 32, 33, 35, 37, 38, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 54, 55, 57, 58, 59, 60, 62, 63, 64, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 116, 117, 118, 119, 120, 121, 124, 125, 126, 127, 128, 130, 131, 132, 135, 140, 141, 143, 145, 146, 147, 148, 149, 150, 151, 153, 154, 155, 157, 158, 159]
+New length of reviews: 28
+
+Duplicate reviewers?:  Series([], Name: reviewerID, dtype: object)
+
+step 1
+index added: 2
+percentage unclustered: 100.0%
+
+step 1
+index added: 3
+percentage unclustered: 100.0%
+
+step 1
+index added: 4
+percentage unclustered: 100.0%
+
+step 1
+index added: 5
+percentage unclustered: 100.0%
+
+step 1
+index added: 6
+percentage unclustered: 100.0%
+
+step 1
+index added: 7
+percentage unclustered: 100.0%
+
+step 1
+index added: 8
+percentage unclustered: 100.0%
+
+step 1
+index added: 9
+percentage unclustered: 100.0%
+
+step 1
+index added: 10
+percentage unclustered: 89.2857%
+
+	step 2
+
+step 1
+index added: 11
+percentage unclustered: 89.2857%
+
+	step 2
+
+step 1
+index added: 12
+percentage unclustered: 89.2857%
+
+	step 2
+
+step 1
+index added: 13
+percentage unclustered: 85.7143%
+
+	step 2
+
+step 1
+index added: 14
+percentage unclustered: 82.1429%
+
+	step 2
+
+step 1
+index added: 15
+percentage unclustered: 78.5714%
+
+	step 2
+
+step 1
+index added: 16
+percentage unclustered: 75.0%
+
+	step 2
+
+step 1
+index added: 17
+percentage unclustered: 71.4286%
+
+	step 2
+
+step 1
+index added: 18
+percentage unclustered: 67.8571%
+
+	step 2
+
+step 1
+index added: 19
+percentage unclustered: 64.28569999999999%
+
+	step 2
+
+step 1
+index added: 20
+percentage unclustered: 60.7143%
+
+	step 2
+
+step 1
+index added: 21
+percentage unclustered: 64.28569999999999%
+
+	step 2
+
+step 1
+index added: 22
+percentage unclustered: 64.28569999999999%
+
+	step 2
+
+step 1
+index added: 23
+percentage unclustered: 64.28569999999999%
+
+	step 2
+
+step 1
+index added: 24
+percentage unclustered: 60.7143%
+
+	step 2
+
+step 1
+index added: 25
+percentage unclustered: 57.1429%
+
+	step 2
+
+step 1
+index added: 26
+percentage unclustered: 53.5714%
+
+	step 2
+
+step 1
+index added: 27
+percentage unclustered: 64.28569999999999%
+
+	step 2
+
+--- 0.7452101707458496 seconds ---
+
+
+ Unclustered percentages: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 89.2857, 89.2857, 89.2857, 85.7143, 82.1429, 78.5714, 75.0, 71.4286, 67.8571, 64.28569999999999, 60.7143, 64.28569999999999, 64.28569999999999, 64.28569999999999, 60.7143, 57.1429, 53.5714, 64.28569999999999], mean: 80.0824
+
+Final Ranking:
+Empty DataFrame
+Columns: [ranking, ind, relevance, review]
+Index: []
