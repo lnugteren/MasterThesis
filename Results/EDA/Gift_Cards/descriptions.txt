@@ -1,0 +1,113 @@
+------- Category: Gift_Cards -------
+total reviews: 147194
+mean: 0.4108523445249127
+amount with votes: 6341
+amount of votes higher than 5: 1777
+mean of votes >0: 9.537139252483835
+mean of votes higher than 5: 26.707371975239166
+total of non-duplicate reviews:  126359
+
+
+
+Number of unique customers:  114386
+Number of unique products:  1521
+Number of reviews in total:  126359
+Average #reviews per custormer:  1.1046719004073926
+Average #reviews per product:  83.07626561472715
+Number of total review words: 2651184
+Number of total summary words: 473411
+
+Describe overall:
+count    126359.000000
+mean          4.627609
+std           1.015596
+min           1.000000
+25%           5.000000
+50%           5.000000
+75%           5.000000
+max           5.000000
+Name: overall, dtype: float64
+
+Describe vote:
+count    126359.000000
+mean          0.476784
+std          10.463969
+min           0.000000
+25%           0.000000
+50%           0.000000
+75%           0.000000
+max        2231.000000
+Name: vote, dtype: float64
+vote
+[0, 1)           120073
+[1, 5)             4065
+[5, 20)            1775
+[20, 50)            271
+[50, 100)            98
+[100, 250)           55
+[250, 500)           15
+[500, 1000)           4
+[1000, 10000)         3
+dtype: int64
+
+
+
+
+
+            asin  #reviews
+1321  B00XU7O7OK      10.0
+584   B00DNAGTIQ      10.0
+217   B005DHN6E2      10.0
+1179  B00P3DUFRW      10.0
+1233  B00PGOMSU0      10.0
+714   B00GRLUECA      10.0
+308   B0091JKVU0      10.0
+305   B0091JKPDI      10.0
+1377  B015WY0DOQ      10.0
+913   B00ISCEAMG      11.0
+999   B00MV9H6VY      11.0
+455   B00BXLTUBA      11.0
+628   B00F2RZMEA      11.0
+705   B00GOLH84U      11.0
+1406  B016PASHH6      12.0
+274   B006PJHP62      12.0
+1501  B01EB6EODM      12.0
+472   B00BXLW5QC      12.0
+624   B00ET5WBU4      12.0
+1285  B00R6OW286      13.0
+1024  B00MV9GGEC      13.0
+1328  B00YD74M4Q      13.0
+1490  B01CZ54L66      14.0
+1510  B01FERR9FW      14.0
+609   B00ELQD11E      15.0
+9     B002DN7XS4      15.0
+282   B0078EPRVS      16.0
+425   B00BXLSGHO      16.0
+1506  B01ESBMY3W      16.0
+1537  B01GKWEPBG      17.0
+666   B00FTGTIOE      17.0
+306   B0091JKJ0M      17.0
+231   B005ESMF5G      17.0
+922   B00JDQKFPC      18.0
+234   B005ESMJ02      19.0
+309   B0091JL3OI      19.0
+719   B00GU2ZZ8Y      20.0
+359   B00AS527QW      20.0
+1361  B014S24DAI      21.0
+704   B00GOLGWVK      24.0
+1515  B01FYJMJHI      26.0
+307   B0091JKY0M      26.0
+298   B0080IR6BA      28.0
+358   B00AR51Y5I      28.0
+232   B005ESMMWW      31.0
+493   B00BXQIGA6      35.0
+921   B00JDQJZWG      36.0
+671   B00G3LBDDS      37.0
+1     B001GXRQW0      38.0
+446   B00BXLTR6S      39.0
+344   B00ADR2XIC      43.0
+979   B00KV30IHG      54.0
+194   B004Q7CK9M      60.0
+--- 2.868159532546997 seconds --- 
+
+

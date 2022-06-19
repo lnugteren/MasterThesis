@@ -1,0 +1,209 @@
+------- Category: Prime_Pantry -------
+total reviews: 471614
+mean: 0.4916054230790435
+amount with votes: 41716
+amount of votes higher than 5: 8636
+mean of votes >0: 5.557771598427462
+mean of votes higher than 5: 16.265979620194535
+total of non-duplicate reviews:  386503
+
+
+
+Number of unique customers:  230015
+Number of unique products:  10722
+Number of reviews in total:  386503
+Average #reviews per custormer:  1.6803382388105124
+Average #reviews per product:  36.04765901883977
+Number of total review words: 10862737
+Number of total summary words: 1608812
+
+Describe overall:
+count    386503.000000
+mean          4.269452
+std           1.241204
+min           1.000000
+25%           4.000000
+50%           5.000000
+75%           5.000000
+max           5.000000
+Name: overall, dtype: float64
+
+Describe vote:
+count    386503.000000
+mean          0.561706
+std           6.288073
+min           0.000000
+25%           0.000000
+50%           0.000000
+75%           0.000000
+max        2308.000000
+Name: vote, dtype: float64
+vote
+[0, 1)           347078
+[1, 5)            28767
+[5, 20)            9395
+[20, 50)            924
+[50, 100)           220
+[100, 250)           97
+[250, 500)           14
+[500, 1000)           7
+[1000, 10000)         1
+dtype: int64
+
+
+
+
+
+             asin  #reviews
+5      B0000GH6UG      10.0
+7673   B015O6PSO2      10.0
+735    B00HZYEAE6      10.0
+6981   B013QNHO56      10.0
+853    B00IAE75OM      10.0
+858    B00IAE6PWA      10.0
+892    B00IB19826      10.0
+3914   B00VWF2P1E      10.0
+1158   B00J51O4FC      10.0
+1176   B00JGZBTCI      10.0
+5700   B0111KAT3U      10.0
+481    B0014D3MH0      10.0
+1391   B00MB2DGU6      10.0
+5699   B0111JYE1E      10.0
+5368   B010NBN1TM      10.0
+9324   B01BHMRPSY      10.0
+5067   B010CEI60O      10.0
+1745   B00NNZOW8A      10.0
+4102   B00WS2R7DG      10.0
+2071   B00OKB85SE      10.0
+2802   B00TDFCEAC      10.0
+3380   B00UOL93CG      10.0
+3911   B00VWEYQU8      10.0
+1480   B00MHTDKBI      10.0
+446    B0014CSG5Y      10.0
+1054   B00J2MIJ9Q      10.0
+221    B000SRI61U      10.0
+72     B000Q68WSA      10.0
+8684   B0195VBXEQ      10.0
+131    B000R73YR2      10.0
+37     B000HDCNAU      10.0
+1568   B00MTSDE3G      11.0
+2262   B00Q6AJHXE      11.0
+749    B00I3N6RDU      11.0
+8923   B019XEY5GS      11.0
+2791   B00TDFCBAA      11.0
+1685   B00NAZ5JQ2      11.0
+2140   B00P6ESBIS      11.0
+1742   B00NNZSYO8      11.0
+3036   B00U5G2JJO      11.0
+8411   B017WGI2BI      11.0
+4398   B00XA9CTK2      11.0
+2112   B00OPH8LVE      11.0
+8414   B017XGRCWC      11.0
+1783   B00NPNS9RU      11.0
+1466   B00MHTG0XI      11.0
+36     B000GGJDNI      12.0
+2073   B00OKKMHIO      12.0
+4101   B00WS2QQME      12.0
+145    B000R7YYTO      12.0
+717    B00HZYDYYI      12.0
+35     B000GCHLWC      12.0
+8      B00032E8XK      12.0
+750    B00I3N5WGI      12.0
+1073   B00J3DNLS8      12.0
+4231   B00WYOHE54      13.0
+1731   B00NMPNOGW      13.0
+1759   B00NO07QXC      13.0
+2139   B00P6EQW6G      13.0
+5937   B011DX5G92      13.0
+3887   B00VURUIUE      13.0
+9121   B01B4N9Y6C      13.0
+522    B002N3I6VM      13.0
+702    B00HZ6USRW      13.0
+7556   B015FCHW7Q      13.0
+2735   B00TDF22B8      13.0
+2452   B00RBQ0524      13.0
+833    B00I9L4S8W      13.0
+891    B00IB18VPG      13.0
+2241   B00PU10S60      14.0
+1488   B00MIJXFYO      14.0
+153    B000R95BH6      14.0
+1684   B00NAZ532W      14.0
+1941   B00O2AXUDS      14.0
+1327   B00L1QF43U      14.0
+3944   B00VXIJ6X0      14.0
+8692   B0195VBFFI      14.0
+4992   B010817MR4      14.0
+4000   B00W6YWYQ6      14.0
+4960   B0105J8V6U      14.0
+1967   B00O33G1XU      15.0
+371    B000WLJINM      15.0
+729    B00HZYDW5E      15.0
+7021   B013SXWOSQ      15.0
+222    B000SRK8V6      15.0
+69     B000Q5NG78      15.0
+5034   B010AJ5DXY      16.0
+441    B0014CSIG6      16.0
+6008   B011KW1HXK      16.0
+1162   B00J51RB3E      16.0
+3917   B00VWF7POG      16.0
+49     B000PL0YI2      16.0
+1828   B00NQ2K7B6      17.0
+2265   B00Q6AKKCG      17.0
+87     B000QSTKFC      17.0
+896    B00IB1RT36      17.0
+39     B000KEIPC6      17.0
+47     B000PKJB4G      18.0
+3988   B00W6T208I      18.0
+894    B00IB1CP5S      19.0
+884    B00IB0XRMY      20.0
+130    B000R73XZ0      20.0
+8742   B01981KS8U      20.0
+4820   B00ZKUP7VM      20.0
+1774   B00NP79AI8      21.0
+141    B000R7X3YQ      21.0
+302    B000VK45MS      21.0
+157    B000RAAHY2      21.0
+880    B00IB0CO1O      22.0
+492    B0014E84TK      22.0
+431    B0012SE7YY      22.0
+1765   B00NO06X6I      23.0
+1467   B00MHTG7WW      23.0
+443    B0014CRZWE      23.0
+8589   B01892J858      23.0
+10188  B01FUB9XMY      24.0
+2179   B00PFPDYFS      24.0
+494    B0014JV2RG      24.0
+468    B0014CZUZ8      25.0
+289    B000VK2L1K      25.0
+709    B00HZ6X8QU      26.0
+1539   B00MTSDXV4      26.0
+1740   B00NNZTBKY      26.0
+4055   B00WJZGR74      27.0
+294    B000VK3SZI      27.0
+355    B000WGB3QM      28.0
+30     B00099XPD6      29.0
+813    B00I8YJZ4M      30.0
+434    B0013T5YO4      31.0
+830    B00I9KR31C      32.0
+1768   B00NO0CTK2      32.0
+1762   B00NO05LMU      32.0
+1769   B00NO0AGE8      32.0
+160    B000RAFMPG      35.0
+1271   B00KZ22ED4      35.0
+311    B000VK7Y80      36.0
+1736   B00NNZQJAO      38.0
+1770   B00NO037D0      40.0
+4402   B00XA9DADC      41.0
+3992   B00W6T13OU      41.0
+1727   B00NMPN1JC      42.0
+1737   B00NNZQOLS      42.0
+2036   B00OA80AVC      48.0
+1743   B00NNZYK46      51.0
+1830   B00NQ2IYV6      52.0
+1761   B00NNZZKAO      56.0
+1724   B00NMPIWBY      59.0
+906    B00ICZZCEE      64.0
+744    B00I3MVY9I     160.0
+--- 9.31318736076355 seconds --- 
+
+

@@ -1,0 +1,60 @@
+------- Category: Books -------
+total reviews: 51311621
+mean: 1.733771996
+amount with votes: 10457215
+amount of votes higher than 5: 4269384
+mean of votes >0: 8.217874287
+mean of votes higher than 5: 16.12147994
+total of non-duplicate reviews: 48298929
+
+
+
+Number of unique customers: 377549
+Number of unique products: 2935525
+Number of reviews in total: 48298929
+Average #reviews per custormer: 14.29999358
+Average #reviews per product: 16.45325078
+Number of total review words: 4071935797
+Number of total summary words: 229361985
+
+Describe overall:
+count         4.829893E+06
+mean          4.384163E+00
+std           1.057250E+00
+min           5.000000E-01
+25%           4.000000E+00
+50%           5.000000E+00
+75%           5.000000E+00
+max           5.000000E+00
+Name: overall, dtype: float64
+
+Describe vote:
+count         4.829893E+06
+mean          4.739867E+05
+std           1.381957E+01
+min           0.000000E+00
+25%           0.000000E+00
+50%           0.000000E+00
+75%           4.000000E-01
+max           7.679100E+03
+Name: vote, dtype: float64
+
+vote
+[0, 1)            37879132
+[1, 5)             6160216 
+[5, 20)            3457467
+[20, 50)            601997
+[50, 100)           135354
+[100, 250)           51748
+[250, 500)            9481
+[500, 1000)           2648
+[1000, 10000)          876
+dtype: int64
+
+overall
+1.0		4.2%
+2.0		3.8%
+3.0		7.7%
+4.0	       19.0%
+5.0	       65.3%
+

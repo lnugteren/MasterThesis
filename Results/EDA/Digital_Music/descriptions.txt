@@ -1,0 +1,124 @@
+------- Category: Digital_Music -------
+total reviews: 1584082
+mean: 0.41599109137026996
+amount with votes: 124722
+amount of votes higher than 5: 27975
+mean of votes >0: 5.283462420423021
+mean of votes higher than 5: 13.858480786416443
+total of non-duplicate reviews:  1295093
+
+
+
+Number of unique customers:  767035
+Number of unique products:  426259
+Number of reviews in total:  1295093
+Average #reviews per custormer:  1.6884405535601374
+Average #reviews per product:  3.0382771976662077
+Number of total review words: 57607762
+Number of total summary words: 5215339
+
+Describe overall:
+count    1.295093e+06
+mean     4.628796e+00
+std      8.865636e-01
+min      1.000000e+00
+25%      5.000000e+00
+50%      5.000000e+00
+75%      5.000000e+00
+max      5.000000e+00
+Name: overall, dtype: float64
+
+Describe vote:
+count    1.295093e+06
+mean     4.919469e-01
+std      3.687414e+00
+min      0.000000e+00
+25%      0.000000e+00
+50%      0.000000e+00
+75%      0.000000e+00
+max      1.143000e+03
+Name: vote, dtype: float64
+vote
+[0, 1)           1174345
+[1, 5)             85274
+[5, 20)            31737
+[20, 50)            2976
+[50, 100)            555
+[100, 250)           179
+[250, 500)            23
+[500, 1000)            2
+[1000, 10000)          2
+dtype: int64
+
+
+
+
+
+             asin  #reviews
+19901  B0007UECIY      10.0
+15090  B00005U1WP      10.0
+73105  B01BKYPCIY      10.0
+6756   B00005U1WP      10.0
+72672  B01AN3DNE8      10.0
+42555  B0022PAXGC      10.0
+42290  B001VE730E      10.0
+49369  B004CT4I2Q      10.0
+463    5557706259      10.0
+453    555820690X      10.0
+3318   B000026GO2      11.0
+17994  B0002HA8IA      11.0
+9660   B0002HA8IA      11.0
+11652  B000026GO2      11.0
+33547  B000X1HU68      11.0
+44934  B002WJHAZU      11.0
+52337  B0057PSUZA      12.0
+72085  B018PZKMHC      12.0
+66703  B00NES1D6A      12.0
+58557  B00AO2SGHI      13.0
+23809  B000ESX58C      13.0
+19929  B0007VROBK      13.0
+39844  B001I34TGY      13.0
+72984  B01B6X0QC6      13.0
+71630  B016BYB17E      13.0
+47709  B003ZGMFGI      14.0
+3880   B00003Q002      14.0
+34091  B000Y91ZCO      14.0
+12214  B00003Q002      14.0
+70290  B012Q8R7DG      15.0
+1185   B000007W4Z      15.0
+5811   B00005AUXY      15.0
+14145  B00005AUXY      15.0
+25941  B000JF21D0      15.0
+62353  B00FY3JV8A      16.0
+57996  B009YZU3OU      16.0
+69709  B00Y3ZZOH2      16.0
+52161  B0055UY6YG      16.0
+1174   B000007UVW      17.0
+34704  B0010W4LN4      17.0
+55680  B007A2VXHU      17.0
+45116  B002ZG982S      18.0
+32671  B000VJ3BYC      19.0
+721    9714721180      19.0
+73959  B01G638YNY      20.0
+41970  B001TI3IB0      21.0
+66072  B00LPHKKIO      21.0
+310    1932192077      23.0
+6827   B00005V6EF      23.0
+28722  B000NP1OLQ      23.0
+15161  B00005V6EF      23.0
+35682  B0013BZMFI      24.0
+58559  B00AO7CE6C      25.0
+569    7799420340      26.0
+62271  B00FW65M32      27.0
+61563  B00EOKQBHS      32.0
+5447   B000056BP0      32.0
+13781  B000056BP0      32.0
+54711  B006J2FKXK      38.0
+70261  B012FG7BR6      39.0
+62548  B00FZ11C0G      55.0
+55315  B0070LQJ7U      75.0
+66810  B00NPZI1ZS     132.0
+68191  B00QXY17RC     142.0
+--- 44.63787817955017 seconds --- 
+
+
