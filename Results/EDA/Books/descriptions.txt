@@ -9,7 +9,7 @@ total of non-duplicate reviews: 48298929
 
 
 
-Number of unique customers: 377549
+Number of unique customers: 3377549
 Number of unique products: 2935525
 Number of reviews in total: 48298929
 Average #reviews per custormer: 14.29999358
