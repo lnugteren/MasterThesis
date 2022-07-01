@@ -1,5 +1,5 @@
 ### Ranking semi-structured imperfect data based on novelty and relevance using text summarisation models
-#### Evaluating whether cross-pollination between different information retrieval fields has a promising future.
+#### An evaluation of the generalisability and transferability of results across domains.
 ---
 
 Welcome to this Github for my Master Thesis in Data Science (with the same title). 
